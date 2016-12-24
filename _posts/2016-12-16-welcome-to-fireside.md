@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome to the Fireside Beta
+title:  Welcome to the Fireside Beta Site
 author: Pablo Defendini
 date:   2016-12-16 10:17:05 -0500
 category: news
