@@ -1,0 +1,47 @@
+//Article
+.story-header {
+	text-align: center;
+	h1 {
+		font-size: 2.5em;
+		margin-bottom: $space-quarter;
+	}
+}
+
+.byline {
+	//font-size: $font-size-large;
+	font-weight: 300;
+	margin-bottom: $space-half;
+}
+
+.illustrator {
+	//font-size: $font-size-med-2;
+	margin-bottom: $space-half;
+}
+
+//Social Share
+.social-share {
+	overflow: hidden;
+	margin-bottom: $space;
+
+	li {
+		float: left;
+		margin-right: $space-half;
+	}
+
+	a {
+		background: $gray-dark;
+		color: $white;
+		display: block;
+		padding: $pad-half;
+
+		&:hover {
+			background: $gray;
+		}
+	}
+}
+
+article {
+	max-width: 40em;
+	margin: 0 auto;
+	padding: $pad-half;
+}

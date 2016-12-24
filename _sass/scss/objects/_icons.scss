@@ -1,0 +1,36 @@
+.icons {
+	display: flex;
+	justify-content: space-around;
+	li {
+		width: 50px;
+		height: 50px;
+	    background-repeat: no-repeat;
+	}
+}
+
+.icon-twitter {
+	background-image: url("../images/logo_twitter.svg");
+	background-size: 50px;
+	//@include transition(background-image,0.3s,ease-out);
+	&:hover {
+		background-image: url("../images/logo_twitter-hover.svg");
+	}
+}
+
+.icon-medium {
+	background-image: url("../images/logo_medium.svg");
+	background-size: 50px;
+	//@include transition(background-image,0.3s,ease-out);
+	&:hover {
+		background-image: url("../images/logo_medium-hover.svg");
+	}
+}
+
+.icon-patreon {
+	background-image: url("../images/logo_patreon.svg");
+	background-size: 45px;
+	//@include transition(background-image,0.3s,ease-out);
+	&:hover {
+		background-image: url("../images/logo_patreon-hover.svg");
+	}
+}

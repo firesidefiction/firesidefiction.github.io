@@ -1,0 +1,44 @@
+/* Text-Related Elements */
+p {
+	margin-bottom: $space;
+}
+
+.story {
+    p {
+        text-indent: $space*1.5;
+    }
+}
+
+/* Blockquote */
+blockquote {
+    font-style:italic;
+    color: $gray;
+	padding-left: $pad*1.5;
+	margin-top: $space/2;
+    margin-bottom: $space;
+    text-indent: none;
+}
+
+aside {
+    //font-size: $font-size-large;
+    font-weight: 300;
+    line-height: 1.3;
+}
+
+/* Horizontal Rule */
+hr {
+	border: 0;
+    height: 1px;
+    background: $gray-light-3;
+    margin: $space-double 0;
+    &.solid {
+        background: $gray;
+    }
+}
+
+abbr {
+    border-bottom: 1px dotted $gray;
+    cursor: help;
+    //font-size: $font-size-small;
+    font-weight: 600;
+}

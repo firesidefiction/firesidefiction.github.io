@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% include magazine-logo.html %}
+
+<div class="home">
+
+  {{ content }}
+
+    {% for post in site.posts %}
+      {% if post.category == "short story" or post.category == "flash fiction" %}
+        <div class="entry story">
+          <h4>{{ post.category }}</h4>
+          <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+          <h3>by {{ post.author }}</h3>
+          <p>{{ post.teaser }}</p>
+        </div>
+        {% else %}
+      <div class="entry news">
+        <h4>{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</h4>
+        <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+        <h3>by {{ post.author }}</h3>
+        <p>{{ post.teaser }}</p>
+      </div>
+      {% endif %}
+    {% endfor %}
+
+</div>

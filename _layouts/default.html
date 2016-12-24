@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    <header role="banner">
+      {% include navigation.html %}
+    </header>
+
+    <main aria-label="Content">
+        {{ content }}
+    </main>
+
+    <footer>
+      <hr/>
+      {% include company-slug.html %}
+      {% include navigation-extended.html %}
+      {% include marketing.html %}
+      {% include legal.html %}
+    </footer>
+
+  </body>
+
+</html>

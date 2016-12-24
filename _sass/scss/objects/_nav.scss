@@ -1,0 +1,100 @@
+/*------------------------------------*\
+    $NAVIGATION
+\*------------------------------------*/
+
+nav ul {
+	display: flex;
+	justify-content: space-around;
+	text-transform: uppercase;
+	text-align: center;
+	li {
+		flex: 1;
+		margin: $pad-half;
+	}
+}
+
+header nav ul {
+	background-color: $color__highlight;
+	#authors, #submissions, #values {
+		display: none;
+		max-width: 10px;
+	}
+	#books, #about {
+		flex: 3;
+	}
+	a {
+		color: $white;
+		//@include transition(all, 0.3s, ease);
+		&:hover {
+			//color: $color__highlight--focus;
+		}
+	}
+}
+
+footer nav ul {
+	@media all and (max-width: $bp-med) {
+		display: inline;
+		text-align: left;
+	}
+}
+
+//Pagination
+.pagination {
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+
+	li {
+		border-right: 1px solid lighten($color__base--light, 30%);
+		font-weight: 100;
+		&:last-child {
+			border: 0;
+		}
+	}
+	a {
+		padding: $pad;
+		color: $color__highlight;
+		@include transition(background-color, 0.3s, ease);
+		&:hover {
+			color: $color__highlight--focus;
+		}
+	}
+	.current a {
+		color: $color__base--light;
+	}
+}
+
+//Side navigation
+
+.sidenav {
+	max-width: 20em;
+	margin: 0 auto;
+	ul {
+		padding: 0 0 0 $pad;
+		a {
+			color: $color__base--dark;
+			&:hover {
+				color: $color__highlight--focus;
+			}
+		}
+		li {
+			padding: $pad-half;
+			border-bottom: 1px solid lighten($color__base--light, 30%);
+			@include transition(border-bottom,0.3s,ease);
+			&:hover {
+				border-bottom: 1px solid $color__highlight--focus;
+			}
+			@media all and (min-width: $bp-med) {
+				padding: $pad;
+			}
+		}
+	}
+	@media all and (min-width: $bp-med) {
+		max-width: 15em;
+		margin: 0;
+	}
+}
+
+.back-to-top {
+	text-align: right;
+}

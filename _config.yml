@@ -1,0 +1,41 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Fireside Magazine
+email: admin@firesidefiction.com
+description: > # this means to ignore newlines until "baseurl:"
+  Fireside Fiction Company has two goals: to find and publish great stories regardless of genre, and to pay our writers and artists well.
+baseurl: "/magazine" # the subpath of your site, e.g. /blog
+url: "firesidefiction.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: firesidefiction
+github_username:  firesidefiction
+google_analytics: UA-42281130-2
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+source:       .
+destination:  ./docs
+# plugins_dir:  _plugins
+# layouts_dir:  _layouts
+# data_dir:     _data
+# includes_dir: _includes
+sass:
+    sass_dir: _sass

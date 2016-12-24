@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/magazine/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/magazine/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/magazine/" rel="alternate" type="text/html" /><updated>2016-12-23T18:19:50-05:00</updated><id>http://localhost:4000/magazine//</id><title type="html">Fireside Magazine</title><subtitle>Fireside Fiction Company has two goals: to find and publish great stories regardless of genre, and to pay our writers and artists well.
+</subtitle><entry><title type="html">Welcome to the Fireside Beta</title><link href="http://localhost:4000/magazine/news/welcome-to-the-fireside-beta" rel="alternate" type="text/html" title="Welcome to the Fireside Beta" /><published>2016-12-16T10:17:05-05:00</published><updated>2016-12-16T10:17:05-05:00</updated><id>http://localhost:4000/magazine/news/welcome-to-fireside</id><content type="html" xml:base="http://localhost:4000/magazine/news/welcome-to-the-fireside-beta">&lt;p&gt;This is the new beta site for Fireside Magazine. It runs on a static site generator called &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, and is served off &lt;a href=&quot;https://pages.github.com&quot;&gt;Github Pages&lt;/a&gt;. The idea is that, with a little bit of Markdown and Git knowledge, we can make Fireside production as simple as editing some plain text flies in a folder, and making a push to &lt;a href=&quot;https://github.com/firesidefiction/magazine&quot; title=&quot;The Fireside Magazine repository on GitHub&quot;&gt;the Fireside git repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and push the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.md&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Pablo Defendini</name></author><category term="news" /><summary type="html">This is the new beta site for Fireside Magazine. It runs on a static site generator called Jekyll, and is served off Github Pages. The idea is that, with a little bit of Markdown and Git knowledge, we can make Fireside production as simple as editing some plain text flies in a folder, and making a push to the Fireside git repository.</summary></entry><entry><title type="html">Sometimes the Crossroads Come to You</title><link href="http://localhost:4000/magazine/short-story/sometimes-the-crossroads-come-to-you" rel="alternate" type="text/html" title="Sometimes the Crossroads Come to You" /><published>2016-11-02T11:17:05-04:00</published><updated>2016-11-02T11:17:05-04:00</updated><id>http://localhost:4000/magazine/short-story/sometimes-the-crossroads-come-to-you</id><content type="html" xml:base="http://localhost:4000/magazine/short-story/sometimes-the-crossroads-come-to-you">&lt;p&gt;“If you’re darker than warm beige we don’t recommend using this unit to visit the past prior to 2150. Only go into the recent past, or into the future.” The salesbot made a point of making eye contact with me as it highlighted that shade on the color chart. “Of course, if you choose one of the upgraded holo-projecting units, then you can visit any time you like; they are guaranteed to give the best appearance for any period.”&lt;/p&gt;
+
+&lt;p&gt;I idly scrolled through the brochure on the screen in front of me to the data about the holo units. Supposedly the whole family could see the French Revolution with no risk. Realistically the technology just wasn’t likely to work that well at such a distance. The mini-holos were at their best in controlled environments, and angry mobs in a revolution were anything but stable.&lt;/p&gt;
+
+&lt;p&gt;Perversely angry that they would lie about something so mundane, I said, “I’ve heard stories of glitches that made some women resemble Marie Antoinette. Time-share travel to be nearly beheaded — or burned at the stake — just doesn’t sound like fun to me.”&lt;/p&gt;
+
+&lt;p&gt;“Those are just stories…”&lt;/p&gt;
+
+&lt;p&gt;“If &lt;em&gt;you&lt;/em&gt; get cut up, someone pops you into a new chassis. We don’t have that option. Little Makayla gets beheaded and all her parents get is some credits and a coffin.”&lt;/p&gt;
+
+&lt;p&gt;Before the bot could spin up a better response to my interruptions, someone behind me asked, “Can we try them out? Make sure they’re safe?”&lt;/p&gt;
+
+&lt;p&gt;There’s always one, someone who falls for the bait and asks the question for me. From the sound of the voice, she was probably a new mom.&lt;/p&gt;
+
+&lt;p&gt;The bot pretended to pace by rolling itself back and forth; clearly the designer was human. Or a bored AI that built this unit to pass one of its early task tests. We were supposed to feel like it was thinking, instead of getting permission to drop bigger bait. “I am authorized to allow an hour for each of you. But only in the regular units. You’ll have to choose wisely; they are programmed to return you at 59 minutes, 59 seconds exactly.”&lt;/p&gt;
+
+&lt;p&gt;The screen in front of me changed to a waiver and consent matrix. I skimmed it, and leaned forward so it could scan my retina and verify my identity. As soon as we were done, the units rose from slots inside the table. While some of the others were getting guidance from the bot, I entered my date and location range and pressed send. I had a crossroads to get to, and no time to waste on whether or not my skin shade would be safe there.&lt;/p&gt;
+
+&lt;p&gt;“You’re late,” a small bronze woman with a sprinkle of dark brown freckles on her nose snapped at me. Although we never used names, we routinely exchanged insults. “Some of us are serious about this.”&lt;/p&gt;
+
+&lt;p&gt;I checked my internal chronometer. “I am precisely on time. You got here early. Again. Some of us can follow instructions.”&lt;/p&gt;
+
+&lt;p&gt;“Fight later. Learn now.” The white-haired woman who waited for us had never told me her real name. Sometimes she was Tituba, wearing the clothing of an enslaved woman in 1690 and bearing the marks of whatever outrage Tituba had borne. Sometimes she was someone or something else, but she was always distinctly herself no matter what face she wore. We didn’t ask, and she didn’t explain.&lt;/p&gt;
+
+&lt;p&gt;Each trip was a choice we made, a step further into honoring a deal that had been made for us, by one of our ancestors at some point before we were born. Technically honoring it was also our choice, but only some of us knew who made the deal, and when. Most of us only had obscure family lore, and that nagging feeling of untapped power to drive us into the first meeting. It pulled, we went, and well… arriving early or late didn’t matter to the white-haired woman. She showed up when she was ready, did what was necessary, and left.&lt;/p&gt;
+
+&lt;p&gt;In my head I called her Teacher, though I hesitated to speak even that name aloud.&lt;/p&gt;
+
+&lt;p&gt;Just being near Teacher made my power buzz under my skin. She reached out, brushed a finger over my cheek. “You have been practicing. A lot.”&lt;/p&gt;
+
+&lt;p&gt;“My mother taught me as much as she could when she understood what I was… what I might become.”&lt;/p&gt;
+
+&lt;p&gt;“Hmm.” She walked over to Freckles, and I realized abruptly that there were just two of us waiting this time. Some of the others must have graduated. Or failed so completely that one of their descendants might have to honor the contract. In the moonlight, so much brighter than at home, Teacher always looked subtly more real than me or Freckles. “I do not like you. No one likes you. No one will like you.”&lt;/p&gt;
+
+&lt;p&gt;“I like me. That’s enough.” The answer and the response were a ritual that I didn’t understand, but they always seemed to unlock something inside Freckles. Her face relaxed, the ever-present frown softening into serenity.&lt;/p&gt;
+
+&lt;p&gt;“This will be our last meeting. You have both done what was necessary, and now so will I.” She stood between us, sketched a shape in the air over Freckles’ head, and I felt the ground under me shift. Freckles disappeared, everything disappeared, and I was alone in a soft black space between times. Between realities. I didn’t know when I was, but for the first time I knew what I was becoming. I could feel it even if I could not name it.&lt;/p&gt;
+
+&lt;p&gt;I held my hands out in front of me, and thought of the light I wanted to see. It lit my hands, and then my whole body. Teacher’s face hung in front of me like the moon we had just left behind.&lt;/p&gt;
+
+&lt;p&gt;“Go where you wish, do what feels necessary. Just remember. The deals you make… fair terms, firm consequences. You earned this, and so must they.” She stepped away from my reality, as I settled into my new self. I was still lush. Dark, round, and ripe with promise, but now instead of a power I could feel but not truly wield, anything was possible.&lt;/p&gt;
+
+&lt;p&gt;There was no Devil at the crossroads to grant Robert Johnson power, no Devil to be outwitted either. There was just us. We have been everywhere, will be every…when, because the old ways are sometimes the only ways.&lt;/p&gt;
+
+&lt;p&gt;I felt the remnants of the time-travel unit tug at me. Sidestepping time had done something to it, maybe made it better, maybe driven the proto-AI insane. I could destroy it and make my own way, or I could follow the signal back to my own time. Step into a world where almost anything was possible, and make everything possible.&lt;/p&gt;
+
+&lt;p&gt;For the right price.&lt;/p&gt;
+
+&lt;h4 id=&quot;about-the-author&quot;&gt;About the author&lt;/h4&gt;
+&lt;p&gt;Mikki Kendall aspires to be an over-educated loudmouth with deep pockets. Failing that she manages to be a periodic cyborg who masquerades as a person with a spouse, kids, and all the trappings of quasi respectability. Once gainfully employed by an unnamed agency, she now invests her time in writing, wrangling jackasses on the internet, and telling people to go straight to hell. Raised by a family of cutthroat sarcastic assassins with magic powers, her obsession with history has led to her publishing weird stories, and articles about every serious issue under the sun. Her nonfiction work has appeared in the &lt;em&gt;Washington Post&lt;/em&gt;, &lt;em&gt;Time&lt;/em&gt;, and a host of other outlets. Her fiction work includes comics, and short stories are available via &lt;em&gt;Revelator Magazine&lt;/em&gt;, Torquere Press, and online.&lt;/p&gt;</content><author><name>Mikki Kendall</name></author><category term="short story" /><summary type="html">“If you’re darker than warm beige we don’t recommend using this unit to visit the past prior to 2150. Only go into the recent past, or into the future.” The salesbot made a point of making eye contact with me as it highlighted that shade on the color chart. “Of course, if you choose one of the upgraded holo-projecting units, then you can visit any time you like; they are guaranteed to give the best appearance for any period.”</summary></entry><entry><title type="html">Paperclips and Memories and Things That Won’t Be Missed</title><link href="http://localhost:4000/magazine/flash-fiction/paperclips-and-memories-and-things-that-wont-be-missed" rel="alternate" type="text/html" title="Paperclips and Memories and Things That Won’t Be Missed" /><published>2016-11-02T11:17:05-04:00</published><updated>2016-11-02T11:17:05-04:00</updated><id>http://localhost:4000/magazine/flash-fiction/paperclips-and-memories-and-things-that-wont-be-missed</id><content type="html" xml:base="http://localhost:4000/magazine/flash-fiction/paperclips-and-memories-and-things-that-wont-be-missed">&lt;p&gt;The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries. His name is Gavin, and he is thin and wrinkly and covered in fine brown hair. Funny looking, as preemies often are, but sweet nonetheless. Margie keeps him wrapped in a blanket of cobwebs, which I think is disgusting. I’ve always hated spiders.&lt;/p&gt;
+
+&lt;p&gt;Did you know that ghosts are like pack rats? We collect of all manner of things: Barbie hairs and memories and peanut shells and dreams of death. Invoices and autumn leaves and the words on the tip of your tongue. Margie collected Gavin, and now she collects cobwebs from my attic to be sure that he stays warm.&lt;/p&gt;
+
+&lt;p&gt;Technically it isn’t my attic; it belongs to my husband now. My former husband. He lives in what was once my house, with his new wife and her two kids and a newborn baby boy. The baby looks like Gavin might have, if Gavin had lived.&lt;/p&gt;
+
+&lt;p&gt;Here is the problem with collecting. Whatever you take, the living no longer have. So a ghost with good intentions, one who takes away stubbed toes and sunburns, ends up surrounded by pain. A malicious ghost ends up with cotton candy and laughter and baby smiles and — well, it’s hard to stay mean surrounded by all that. That’s why most ghosts collect harmless stuff like paperclips and lint.&lt;/p&gt;
+
+&lt;p&gt;Margie wanted to be good. When she was alive, she miscarried five times. There was something wrong with her, something that kept her from carrying a baby to term. When she died, she wanted to help other women, to keep them from suffering the way that she’d suffered. She found a woman, thirty-four weeks pregnant, whose baby had died because a blood clot cut off his supply of nutrients and oxygen. Margie took the lifeless baby and named him Gavin. The pregnant woman, of course, was me.&lt;/p&gt;
+
+&lt;p&gt;Remember the problem with collecting? I woke up one morning without my baby, and with no real explanation why. The doctors were baffled, and I was devastated. I had lost my little boy, and there wasn’t even a cheek to kiss, no tiny body for me to hold one time before I said goodbye.&lt;/p&gt;
+
+&lt;p&gt;My friends and family tried to help, but they didn’t understand. My husband buried his grief in work and stayed at the office late while I cried myself to sleep. No one remembered the bottle of Percocet left over from when I got my wisdom teeth removed, so no one thought to take it away from me.&lt;/p&gt;
+
+&lt;p&gt;Margie haunts the attic, so I mostly haunt downstairs. I spent my first few years of ghosthood collecting lipstick from the purses of my husband’s girlfriends, but eventually I got over my jealousy. He remarried, and the house is nicer with children in it. Now I collect stray socks from the dryer and baby toys that fall behind the furniture.&lt;/p&gt;
+
+&lt;p&gt;I’m using the socks to make a quilt for Gavin, to replace the terrible cobwebs that Margie uses. I need perhaps a dozen more socks to finish it. In the meantime, I take the toys to the attic, and give them to Margie. She died old enough that her memory is bad, and she doesn’t remember that the baby she holds is my son. She simply sits in her rocking chair and cuddles his tiny body up against her chest. She tells him how his mother would have loved him, if he’d lived, and she gives him the toys that I bring.&lt;/p&gt;
+
+&lt;p&gt;All ghosts are collectors, even my unborn baby boy. He collects static from the radio and warm water from the bath and muffled voices that come up through the ceiling. Anything that reminds him of the womb. He is trying to recreate me.&lt;/p&gt;
+
+&lt;p&gt;I am tempted, sometimes, to collect my husband’s new baby.  He is pudgy and gurgly and just starting to smile. But he isn’t my baby, and I know all too well the pain that it would cause if I took him from his family. So instead I haunt the house that once was mine, and listen to the children’s laughter, and try to collect only little things that won’t be missed.&lt;/p&gt;
+
+&lt;h4 id=&quot;about-the-author&quot;&gt;About the author&lt;/h4&gt;
+&lt;p&gt;Caroline M. Yoachim lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in &lt;em&gt;Fantasy &amp;amp; Science Fiction&lt;/em&gt;, &lt;em&gt;Clarkesworld&lt;/em&gt;, &lt;em&gt;Asimov’s&lt;/em&gt;, and &lt;em&gt;Lightspeed&lt;/em&gt;, among other places.  Her debut short story collection, &lt;em&gt;Seven Wonders of a Once and Future World &amp;amp; Other Stories&lt;/em&gt;, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at &lt;a href=&quot;carolineyoachim.com&quot;&gt;carolineyoachim.com&lt;/a&gt;.&lt;/p&gt;</content><author><name>Caroline M. Yoachim</name></author><category term="flash fiction" /><summary type="html">The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries. His name is Gavin, and he is thin and wrinkly and covered in fine brown hair. Funny looking, as preemies often are, but sweet nonetheless. Margie keeps him wrapped in a blanket of cobwebs, which I think is disgusting. I’ve always hated spiders.</summary></entry><entry><title type="html">Dragon Soap</title><link href="http://localhost:4000/magazine/short-story/dragon-soap" rel="alternate" type="text/html" title="Dragon Soap" /><published>2016-11-02T11:17:05-04:00</published><updated>2016-11-02T11:17:05-04:00</updated><id>http://localhost:4000/magazine/short-story/dragon-soap</id><content type="html" xml:base="http://localhost:4000/magazine/short-story/dragon-soap">&lt;p&gt;FIXME add Illustration with caption=”Illustration by Galen Dara” alt=”A woman crouches calf-deep in a swamp, rifle at the ready. Dragon surround her.””&lt;/p&gt;
+
+&lt;p&gt;Gran never did like it when I used the Winchester to deal with dragons — so I went and did a damn fool thing and set out to hunt them in the dead of night. It wasn’t hard to sneak by Gran. She snored twice as loud as she barked, which was saying something.&lt;/p&gt;
+
+&lt;p&gt;I clambered down the hill from our farm and into the swamp. A half-moon glowed above the trees, casting strange shadows over the curtains of moss and standing pools of water. It almost made the mud look like opals, but that didn’t change the smell.&lt;/p&gt;
+
+&lt;p&gt;I kept the rifle at a ready carry. The smooth, well-worn wood felt solid in my grip, despite the apothecary’s anti-mange lotion I’d slathered on my hands — and every other inch of exposed skin on my body. I wasn’t keen on coming home riddled with bug bites.&lt;/p&gt;
+
+&lt;p&gt;Something splashed behind me. I whirled. But it wasn’t no dragon — just my ten-year-old little brother Ted, tripping into a pool and soaked half-way up his britches.&lt;/p&gt;
+
+&lt;p&gt;“Tarnation, Ted! You shouldn’t be here!” I slung the gun over my back. Not my favorite way to carry it, or the quickest draw, but at least with it pointed straight up I could guarantee Ted wouldn’t run in front of my muzzle. Probably.&lt;/p&gt;
+
+&lt;p&gt;“You shouldn’t be here, either.”&lt;/p&gt;
+
+&lt;p&gt;Ten-year-olds are all smart-mouths. “Get on home.”&lt;/p&gt;
+
+&lt;p&gt;“Send me home, and I’ll wake up Gran. I’m the man of the house, Maisy. I belong out here,” he said.&lt;/p&gt;
+
+&lt;p&gt;He tried so hard to be grown-up, but if he were a man, he’d know how to swallow his pride and do what was important. If Gran woke, she’d froth herself into a right fit with us both gone. If Ted had stayed, she’d at least have a body to complain to. “Your pants are wet.”&lt;/p&gt;
+
+&lt;p&gt;He did his best to walk forward in a dignified-like manner. “You’re not sending me away. We’ve got to cull the dragons back. I know one of them tore up a row of radishes and made off with a chicken last night. You and Gran ain’t good at hiding nothing from me.”&lt;/p&gt;
+
+&lt;p&gt;Maybe even more pressing, we needed the money. The apothecary in town didn’t pay much for a swamp-dragon — but she paid &lt;em&gt;something&lt;/em&gt;. I’d been planning on selling that chicken to get Gran more of her tonic. Now we only had one, and we needed her bad for eggs and eating up grubs in the garden.&lt;/p&gt;
+
+&lt;p&gt;“Fine. Be quiet. And stay &lt;em&gt;behind&lt;/em&gt; me. I’ll be shooting things in front.”&lt;/p&gt;
+
+&lt;p&gt;Ted pulled a face. “I’m not an idiot.”&lt;/p&gt;
+
+&lt;p&gt;He was almost adorable when he pouted like that. Would have been, if he’d been five years younger.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t see much in the way of tracks, but I could smell the blood-rust tang of mange eggs. I followed it. The little mange-bugs would bite anything that moved, but they needed fresh dragon blood to hatch their eggs.&lt;/p&gt;
+
+&lt;p&gt;Ted seemed to trip over every branch and stick behind me. Man of the house, indeed.&lt;/p&gt;
+
+&lt;p&gt;We walked and walked, the mange-stench getting stronger with every step. With this kind of reek, we had to be coming to a dragon’s nest or something. Couldn’t be less than twenty of them ahead. I pulled my shirt over my nose, but I still didn’t see nothing.&lt;/p&gt;
+
+&lt;p&gt;“M-Maisy?” Ted asked nervously, like he’d just realized he was afraid of the dark.&lt;/p&gt;
+
+&lt;p&gt;I brushed more moss aside, mud sucking at my boots. Water stretched ahead of me — we’d have to go around. It was at least thirty feet wide, practically a pond.&lt;/p&gt;
+
+&lt;p&gt;“Maisy?” he tried again.&lt;/p&gt;
+
+&lt;p&gt;I squinted. Three, maybe four, lithe adult dragons, each a bit bigger than a raccoon, wriggled in the shallows on the far side of the pond. Strange. Four dragons couldn’t make a mange-stink this bad. Maybe I just couldn’t see the others in the moonlight.&lt;/p&gt;
+
+&lt;p&gt;“I’m going to get a closer look.” If I sold a whole mess of dragons into the apothecary, I could buy Gran’s tonic and a new flock of chickens. Maybe we could finally really get on our feet and I wouldn’t have to sneak out to shoot dragons. “You stay here.”&lt;/p&gt;
+
+&lt;p&gt;I wasn’t particularly worried about getting bit or clawed by the critters. I knew what I was doing — but Ted didn’t and thought he did.&lt;/p&gt;
+
+&lt;p&gt;“I’m all itchy.”&lt;/p&gt;
+
+&lt;p&gt;“Yeah. Wet pants’ll do that to a man.” I started off.&lt;/p&gt;
+
+&lt;p&gt;A slap. Another slap. He was hitting himself, swatting at bugs. “I keep getting &lt;em&gt;bites&lt;/em&gt;. It hurts, Maisy.”&lt;/p&gt;
+
+&lt;p&gt;I turned round. Even in the bad light, I could tell this wasn’t good. Wasn’t no mere mosquitoes. The blisters on his face and hands were turning black.&lt;/p&gt;
+
+&lt;p&gt;“Ted. Did you follow me &lt;em&gt;without&lt;/em&gt; rubbing down with anti-mange?”&lt;/p&gt;
+
+&lt;p&gt;“I… I didn’t want to lose you. You move fast through the swamp.”&lt;/p&gt;
+
+&lt;p&gt;Idiot. “We’ve got to get you back.”&lt;/p&gt;
+
+&lt;p&gt;“Back where?” he asked, but he was already wobbling on his feet.&lt;/p&gt;
+
+&lt;p&gt;I put my arm around his shoulder — the arm without the Winchester slung around it — and dragged him along. “The longer we wait, the worse it’ll be. Trust me.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We didn’t have none of the apothecary’s anti-mange soap, so I sent Ted out with the lye stuff to wash by the rain barrel. I left him the lotion — it worked best as a repellent, but it might help some. He stumbled back inside soon enough, curled up, and went to sleep.&lt;/p&gt;
+
+&lt;p&gt;I woke to Gran screeching, “What the devil, Ted!”&lt;/p&gt;
+
+&lt;p&gt;The mange got him bad. The bites were still black, and the skin round them had turned purple. I felt like I was looking at a boy who’d suddenly grown a hundred tiny black eyes.&lt;/p&gt;
+
+&lt;p&gt;After that, it didn’t take long for the story to come out.&lt;/p&gt;
+
+&lt;p&gt;“Neither of you got more sense than a newborn chick!” Gran ranted. “What were you thinking, trying to shoot up dragons? And at night?”&lt;/p&gt;
+
+&lt;p&gt;I’d been thinking that she wouldn’t have to know a lick about it. Her gnarled old hands were already trembling, and it wasn’t noon. She must’ve started rationing her tonic down.&lt;/p&gt;
+
+&lt;p&gt;Gran knelt next to Ted and rubbed a cut-open radish over his bites, to help with the pain and the itch. Poor kid. Laying groaning on his pallet with his sweaty hair plastered to his head, he looked a lot younger. Like he did before Ma and Pa went up to heaven.&lt;/p&gt;
+
+&lt;p&gt;“They’re tearing up the radishes, they’ve eaten most of the chickens, and we needed a couple corpses to sell in town,” I said. “Looks like we’ll need more than a few now. He has to have the anti-mange soap, Gran. Lotion ain’t strong enough.”&lt;/p&gt;
+
+&lt;p&gt;“Ask Beth to sell us her soap on credit,” Gran said.&lt;/p&gt;
+
+&lt;p&gt;I choked on air, laughing. Credit?&lt;/p&gt;
+
+&lt;p&gt;“I won’t have you shooting no more dragons. It’s killing dragons what brought this horrible mange plague. Spilling their blood everywhere.”&lt;/p&gt;
+
+&lt;p&gt;“Gran.” I didn’t outright say she was plain dead wrong. I didn’t know how the mange had gotten so bad so quickly, but it’d surely be worse if folks weren’t shooting their breeding ground.&lt;/p&gt;
+
+&lt;p&gt;“Don’t you &lt;em&gt;Gran&lt;/em&gt; me, young lady. You really think it’s coincidence that as soon as Beth offers to buy up corpses, the mange gets ten times worse than it’s ever been? Used to be you’d get a dragon maybe once every other year sneaking out of the swamp and tearing up radishes to rub on himself for a bad case of mange. But now!”&lt;/p&gt;
+
+&lt;p&gt;I shook my head. “That doesn’t account for the chickens.”&lt;/p&gt;
+
+&lt;p&gt;“So long as you’re going to hike for a radish, why not snatch a snack?”&lt;/p&gt;
+
+&lt;p&gt;She had a point there.&lt;/p&gt;
+
+&lt;p&gt;“Beth’s so proud of her apothecary skills, so proud she found some way to make use of lesser dragon bones. But if folks round here had a lick of sense, they’d stop selling carcasses to her. Including you, Maisy!”&lt;/p&gt;
+
+&lt;p&gt;She’d worked herself up and was scrubbing Ted like he was a pile of Saturday laundry.&lt;/p&gt;
+
+&lt;p&gt;“Can you stop trying to skin me?” he groaned. “I’m not a rabbit. I’m your grandson. Promise.”&lt;/p&gt;
+
+&lt;p&gt;Gran took herself a deep breath and calmed down, but I still spoke slow and careful. For Ted’s sake. I had no love for that stuck-up Beth, but Gran could blame bad weather on the woman. “Honestly, I can’t feel bad about selling dragons to her. Even if I wish someone else were profiting by it, the medicine she makes out of the bones seems to do a world of good for all those folks up north with coal miner’s lung.”&lt;/p&gt;
+
+&lt;p&gt;“Folks up north,” Gran muttered it like she was cussing. “What about folks here? Beth’s medicine probably doesn’t even work.”&lt;/p&gt;
+
+&lt;p&gt;Based on how many fancy new clothes she’d been able to buy lately, I doubted that. “Do you have some other idea of how to make quick money?”&lt;/p&gt;
+
+&lt;p&gt;Gran pursed her lips. Of course she didn’t. “Beth ought to be right ashamed of herself and all this mange she’s caused. All this damage to people’s farms. You tell her she &lt;em&gt;owes&lt;/em&gt; us, then come back with that soap.”&lt;/p&gt;
+
+&lt;p&gt;“I can say that, but it won’t do a lick of good. Beth ain’t just giving us soap.”
+Gran thought about it for a second. Then she snatched a wooden carving of a bird off the mantle — Pa had made it. “Take this.”&lt;/p&gt;
+
+&lt;p&gt;It felt heavier than lead in my hands. “It’s not worth nothing.” Not except to us. I remembered watching Pa make it — his long, calloused fingers gently turning the wood in his hands. Ted moaned again. I don’t know if he was just in pain, or if he was protesting, too.&lt;/p&gt;
+
+&lt;p&gt;“It’s not to pay her. It’s collateral for our loan.”&lt;/p&gt;
+
+&lt;p&gt;That might actually work. Beth would get a kick out of taking something we cherished. She’d probably burn it as soon as I left.&lt;/p&gt;
+
+&lt;p&gt;“Maisy,” Gran prompted sharply.&lt;/p&gt;
+
+&lt;p&gt;I’d just been standing there, looking at it and dawdling. If my folks were still around, we wouldn’t be like this — me and Gran and Ted scratching just to get by. “Yes, Gran. I’m going.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Beth had a nice spot in town, between the tinsmith and the leather-worker. The wooden sign was painted in garish red, with letters so flourished they were hard to read: &lt;em&gt;Madame Jade’s Apothecary. Best Tonics, Medicines, and Restoratives.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I pushed inside, setting off a small bell hanging from the door. The inside was worse than the out — every inch covered either in bottles or in red-and-gold tassels and posters. Usually it reeked like pickled cabbage in here, but today the air was thick with the smell of rendering tallow.&lt;/p&gt;
+
+&lt;p&gt;Beth strode out of the back, dressed-up in a silk robe with her hair stuck on top of her head with sticks and a lot of make-up all over her face — like she was really from the East, where they had the world’s most brilliant apothecaries. They’d figured out how to use dragon bones in the first place, and out there, they had proper dragons bigger than houses.&lt;/p&gt;
+
+&lt;p&gt;“Greetings and welcome to my humble store,” she said, giving a bow that reeked of arrogance.&lt;/p&gt;
+
+&lt;p&gt;I casually stuck my hands in my pockets. “Heya Beth. How you been?”&lt;/p&gt;
+
+&lt;p&gt;Beth bristled. She hated it when people didn’t play along with her, when they didn’t bow and scrape and call her Madame Jade. But she wasn’t from the East any more than I was, and I wasn’t going to pretend otherwise. She pursed her red-painted lips. “I don’t see any carcasses, Maisy. Do you actually have business here?”&lt;/p&gt;
+
+&lt;p&gt;“Need some anti-mange soap. Ted’s covered in bites.”&lt;/p&gt;
+
+&lt;p&gt;Beth gave me a flat glare and held out her hand for coin. I’d already outstayed my welcome.&lt;/p&gt;
+
+&lt;p&gt;“Gran wants you to take it on credit. We’ll pay you back.”&lt;/p&gt;
+
+&lt;p&gt;“I don’t take credit from customers.”&lt;/p&gt;
+
+&lt;p&gt;“We’re not customers. We’re family.”&lt;/p&gt;
+
+&lt;p&gt;She let out a bark of a laugh. “I think that makes it worse. I know exactly what your Gran thinks of me.”&lt;/p&gt;
+
+&lt;p&gt;Well. It’s not like Gran ever claimed to be discreet or mild-tongued. I liked that about her. You never could say she didn’t speak her mind. “It’s for Ted, not her. And I brought some collateral.”&lt;/p&gt;
+
+&lt;p&gt;I pulled out that fine little bird.&lt;/p&gt;
+
+&lt;p&gt;Beth smirked. “I’m not in the business of storing other folks’ trash. It looks like something an owl vomited up. Your Pa make that?”&lt;/p&gt;
+
+&lt;p&gt;She was trying to rile me up, but I hadn’t expected Beth to stoop so low as to insult the dead. I wanted to give her an earful until her skull burst, but the weight of the bird helped me remember why I was there. I could waste my breath insulting Beth when Ted was better.&lt;/p&gt;
+
+&lt;p&gt;“I’m one of your best dragon-suppliers. Cut me a half bar of soap and I’ll get you a carcass within the week.”&lt;/p&gt;
+
+&lt;p&gt;“I only sell whole bars and I’m not about to make exceptions. Go shoot me a pair of dragons and bring them back here. Then we can trade like civilized people,” Beth sniffed.&lt;/p&gt;
+
+&lt;p&gt;Surely even Beth could have compassion for a kid. “Ted’s already bruising. He needs it bad.”&lt;/p&gt;
+
+&lt;p&gt;“So go hunting, Maisy. Stop wasting time here.”&lt;/p&gt;
+
+&lt;p&gt;A new scent prickled my nose. “Something burning back there?”&lt;/p&gt;
+
+&lt;p&gt;Beth gasped and ran. I followed her a few paces. She did in fact have a pot full of white tallow, trimmed and cubed, rendering down on her fancy pot-bellied stove. She snatched a pair of towels and pulled it off the heat.&lt;/p&gt;
+
+&lt;p&gt;“You gotta do some kind of magic apothecary thing during the rendering to make the lotion or soap work? Cause if not, you really should’ve let the butcher do that.” Old Carson charged a fair price, and he had a pot big enough to do half a cow at a time.&lt;/p&gt;
+
+&lt;p&gt;Beth ignored me, red lips pursed as she poked at her tallow with a spoon.&lt;/p&gt;
+
+&lt;p&gt;“Is that whole batch ruined?” I asked hopefully — it’d serve her right.&lt;/p&gt;
+
+&lt;p&gt;“It’s fine,” she snapped. “I only render it myself to ensure my ingredients are &lt;em&gt;quality&lt;/em&gt;. Unfortunately, I have much less control over the caliber of my customers. Get out, swamp rat. Now. Or do I need to chase you with a broom?”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I walked back home parallel along the canal, but a good ways from it. Townfolk had cut it a decade ago so they could let the swamp compost their trash instead of doing it themselves. Corn husks and chicken bones bobbed downstream with considerably less-attractive human waste. Right then, I hated folks who were too good for a normal latrine like everyone else. People like Beth. She was worse than most, pretending to come from a noble place she’d never even seen.&lt;/p&gt;
+
+&lt;p&gt;Still, I should’ve begged better. Bowed and scraped and put on a show, calling her Madame Jade and everything, but I’ve got too much Gran in me for my own good.&lt;/p&gt;
+
+&lt;p&gt;I veered from the canal and up the hill to our little farm. The succulent smell of boiling chicken filled the air. I frowned, then jogged the rest of the way.&lt;/p&gt;
+
+&lt;p&gt;“Gran?” I pushed the door open. “What are you doing?”&lt;/p&gt;
+
+&lt;p&gt;“Cooking.”&lt;/p&gt;
+
+&lt;p&gt;I groaned. “Tell me we’ve still got a chicken.”&lt;/p&gt;
+
+&lt;p&gt;“Liars go to hell, Maisy, and while my old bones wouldn’t mind some warmth, I’m fixing on spending my afterlife with your folks.” Gran nodded toward Ted. “Look at him. He needs all the help he can get, and chicken broth is good for any ailment. We don’t have the luxury to think about tomorrow — we have to survive today first. You got the soap?”&lt;/p&gt;
+
+&lt;p&gt;I stepped all the way inside and knelt by Ted’s mattress. His skin shone feverish, and his bites glittered. They were already transforming into tiny scales.&lt;/p&gt;
+
+&lt;p&gt;Tarnation. I should have begged Beth nice. I set the bird carving next to him, hoping it might bring him some comfort or luck.&lt;/p&gt;
+
+&lt;p&gt;Ted blinked at me, like he couldn’t quite focus. “Maisy?”&lt;/p&gt;
+
+&lt;p&gt;I took his hand and squeezed it, his scales scratching my skin. He must be allergic. Most cases never got this bad. The anti-mange lotion might slow it, but without soap, the scales would just keep spreading, until his whole body was locked down stiff in them. And when a body can’t move, it eventually wastes away into a skeleton.&lt;/p&gt;
+
+&lt;p&gt;“You’ll be right as rain soon, Ted.” I brushed his hair out of his eyes, then grabbed the Winchester off the wall.&lt;/p&gt;
+
+&lt;p&gt;Gran glared at me. “I won’t have you shooting no dragons! That’s what caused this in the first place.”&lt;/p&gt;
+
+&lt;p&gt;I pointed at Ted and spat her own words back at her. “We don’t have the luxury to think about tomorrow — we have to survive today first.”&lt;/p&gt;
+
+&lt;p&gt;Gran’s face wrinkled up tight like she was sucking down a sour pickle. Her right hand started to tremble. She &lt;em&gt;had&lt;/em&gt; to be rationing her tonic. “I don’t like it.”&lt;/p&gt;
+
+&lt;p&gt;“Got any other ideas? You want me to take this gun into town, shoot Beth, and steal the soap instead?”&lt;/p&gt;
+
+&lt;p&gt;Gran paused.&lt;/p&gt;
+
+&lt;p&gt;“I wasn’t serious, Gran.”&lt;/p&gt;
+
+&lt;p&gt;“I know, I know. I just need time to think. I left the chicken head and guts out by the stump. Go take care of them. I’ll come up with something before you finish.”&lt;/p&gt;
+
+&lt;p&gt;I slung the gun over my back, headed outside, and grabbed a shovel. I dug a two-foot hole and dumped the feather, skin, guts, and head into it. Then I turned our compost pile overtop — that would ensure critters wouldn’t smell the carcass and go digging for it. The compost itself smelled good — warm and earthy. Real. I wasn’t no town-dweller, sneering at others because I was too self-important to work up a sweat.&lt;/p&gt;
+
+&lt;p&gt;By the time I finished, Gran hadn’t come outside with any brilliant ideas. So I rubbed on some anti-mange lotion and headed down the hill to the swamp. I’d need two dead dragons to buy the soap, and more than that for Gran’s tonic.&lt;/p&gt;
+
+&lt;p&gt;I prayed that I really had found a nest last night. I’d worry about spilled blood spreading the mange and itchy dragons tearing up the farm in search of produce latter.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Soon as I reached the swamp, I switched to a two-hand carry, ready to shoot quickly. I ducked around moss and watched my step. Long before I reached the pond, though, I caught a wiff of rust. Had a mangy dragon been this way recently?&lt;/p&gt;
+
+&lt;p&gt;I slowed down. I watched the sunlight and shadows over the stagnant pools of water. Not a ripple.&lt;/p&gt;
+
+&lt;p&gt;Carefully, I stepped over a rotten log. Right onto a dragon’s tail.&lt;/p&gt;
+
+&lt;p&gt;I stumbled back, too slow. The dragon burst from the log, hissing. Claws raked into my calf. That burned something fierce.&lt;/p&gt;
+
+&lt;p&gt;I cracked the butt of the Winchester against its scaly face. It screeched in anger, flopping backwards. Giving me just enough time to get my feet under me proper.&lt;/p&gt;
+
+&lt;p&gt;I shot. The Winchester cracked the air, making my ears ring. I pumped another cartridge into the chamber, but I didn’t fire. Dragon wasn’t moving. I’d gotten him clean between the eyes.&lt;/p&gt;
+
+&lt;p&gt;Well, that was one carcass I could haul in. One more and I could buy the soap. I hobbled over to a nearby rock to get a proper look at my injured calf. Little beast had torn through my boots and shredded the bottom of my pants. I ripped the bottom of the latter clean off and tied it tight around the gashes. They weren’t deep enough to threaten bleeding out, but they hurt like the devil. And with part of my leg exposed, I was sure to get some mange on it.&lt;/p&gt;
+
+&lt;p&gt;“Thanks, big fellow. Just what I needed today.”&lt;/p&gt;
+
+&lt;p&gt;He didn’t respond of course, what with blood running down his snout from that third eye I’d given him. The little flurries of mange all around him clouded to his head, licked it up, and began laying eggs. The white froth looked just like soap scum — it matched the patches already on his back and forelegs. The little bugs must not have realized he was dead, yet. Mange liked fresh blood —they always left soon as a carcass bloated open or other critters tore into it.&lt;/p&gt;
+
+&lt;p&gt;Gran was wrong. This fatal wound wasn’t any different than one he could take from a fall or fighting another dragon. No reason why it ought to make the mange spread.&lt;/p&gt;
+
+&lt;p&gt;I didn’t want to haul him to the pond with me, so I slung his carcass up into the branch of a tree. Not real professional, but I hoped it would prevent scavengers from dragging him off.&lt;/p&gt;
+
+&lt;p&gt;Something itched my calf. I slapped at it, then swore as pain flared across my wound. Sooner I got this done, the better.&lt;/p&gt;
+
+&lt;p&gt;I hurried as fast as it was wise across the swamp. My whole leg throbbed by the time I reached the pond. With an open wound, I was probably going to need anti-mange soap as bad as Ted.&lt;/p&gt;
+
+&lt;p&gt;Once we healed up, we’d figure out how to get Gran’s tonic. And replace the chickens. And eat when winter came, given the dragons had torn up so much of the garden looking for radishes.&lt;/p&gt;
+
+&lt;p&gt;My leg better heal up right quick. I was going to spend the rest of my life in this swamp, hunting dragons so we could survive.&lt;/p&gt;
+
+&lt;p&gt;I edged along the pool, trying to find a better vantage. Once again, I pulled my shirt over my nose, trying not to gag on the sharp, metallic reek of mange. There was swamp-reek, too, and something sickly sweet and potent in the hot afternoon.&lt;/p&gt;
+
+&lt;p&gt;But I only found six dragons, nosing around several largish shapes bobbing in the water, not the huge nest my nose had led me to believe there would be. I found a tree not too far away that looked solid and clambered up. Then I crawled out along one long branch and aimed the Winchester.&lt;/p&gt;
+
+&lt;p&gt;But there were those uncanny shapes in the water. The dragons were whimpering and pushing them around. And was that — half a pumpkin? Then I spotted a brown rum bottle. Other bits of floatsam bobbed in that curve of the pond.&lt;/p&gt;
+
+&lt;p&gt;The trash from the canal must gather here. Were the dragons eating it up, like pigs taking to slop?&lt;/p&gt;
+
+&lt;p&gt;I held still, ignoring my hurt leg and the uncomfortable angle of the branch digging into my stomach. A pair of dragons managed to flip one of the large, bobbing things up onto the bank.&lt;/p&gt;
+
+&lt;p&gt;It was another dragon. The corpse of one. All flayed open. Had to be one Beth had butchered — no animal teeth made those kind of nice cuts. And it was covered — tail to snout — in the pale froth of mange-eggs. I thought it might be a trick of the light, but then I spotted another dozen carcasses on the shore. No wonder this place stank so bad.&lt;/p&gt;
+
+&lt;p&gt;The live dragons sent up a mournful, haunting wail and rubbed up against their dead fellows. That only got them covered in its blood and guts and eggs. The mange swarmed thick around them and the open carcasses.&lt;/p&gt;
+
+&lt;p&gt;What had Beth done to those bodies, to make the mange take to dead dragons like that? Had she done it on purpose, so more people would need to buy her soap and lotion? She should have just hired someone to compost them for her. I’d have done it, if she threw in some of her soap.&lt;/p&gt;
+
+&lt;p&gt;But as the dragons nestled their fellow and grieved, I saw the reason for her secrecy. They rubbed away the guts and slime, showing bones sticking out. All the bones.&lt;/p&gt;
+
+&lt;p&gt;Beth wasn’t buying those carcasses because she’d figured out how to use the skeletons of lesser dragons. She wasn’t making medicine for no miners up north. I’d been a damned fool. I should have realized something was wrong when I caught high-and-mighty Beth rendering her own tallow.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I hauled the fellow I’d shot earlier back home, then asked Gran to help me butcher him up.&lt;/p&gt;
+
+&lt;p&gt;“Weren’t you going to sell this?” she asked, sitting next to me outside.&lt;/p&gt;
+
+&lt;p&gt;“I think I can do better for Ted than that.”&lt;/p&gt;
+
+&lt;p&gt;Gran didn’t ask more questions. She was old, but when her hands weren’t shaking, she was one deft butcher. Soon we had nice, white-yellow chunks of dragon fat. I asked her to start rendering them into tallow inside, while I buried the messy leftovers with the chicken carcass.&lt;/p&gt;
+
+&lt;p&gt;I scooped up some water from our leeching barrel and boiled it down into right strong lye. By then it was long past dark, but neither me nor Gran had any thoughts of going to sleep. Gran cooked the lye and the tallow together until we had something that looked like mashed potatoes. Gran crammed most of it into our soap mold. Some she just plopped onto a plate so it’d cool faster.&lt;/p&gt;
+
+&lt;p&gt;“Anti-mange soap,” I said. “The bugs might like dragon blood, but they apparently can’t abide dragon fat. That’s why they stick with live dragons — all their fat is still safely inside.”&lt;/p&gt;
+
+&lt;p&gt;Butcher out all the fat and dump the rest of the carcass in the swamp, and you’d create the perfect mange breeding ground.&lt;/p&gt;
+
+&lt;p&gt;Gran poked at the lump on the plate. “Looks like fine soap. You sure?”&lt;/p&gt;
+
+&lt;p&gt;“Do you think Beth’s a no-good lazy charlatan?”&lt;/p&gt;
+
+&lt;p&gt;“Right. Let’s try it on your leg first, then.”&lt;/p&gt;
+
+&lt;p&gt;The soap would have been harder and better with more time to cure. It stung like the devil, but the itch disappeared as soon as we rinsed my calf off.&lt;/p&gt;
+
+&lt;p&gt;We sponge-bathed Ted’s limbs. Half the little scales flaked off him, and the swelling went down. He groaned softly at first, but then started protesting out loud.&lt;/p&gt;
+
+&lt;p&gt;“Ain’t natural to wash a body so often,” he mumbled, slurring the words, eyes still closed.&lt;/p&gt;
+
+&lt;p&gt;I tried to reassure him. “We’re helping you get better.”&lt;/p&gt;
+
+&lt;p&gt;“Get offa me, or I’ll kick you in the shins, Maisy.”&lt;/p&gt;
+
+&lt;p&gt;“You’d have to stand up first. Besides, we’re done now,” I said. Gran was already taking away the rags.&lt;/p&gt;
+
+&lt;p&gt;“You’re done ’cause you’re scared of me.”&lt;/p&gt;
+
+&lt;p&gt;I gently brushed the hair from his eyes. “That’s right. You’re terrifying. Now shut up and go back to sleep, sweat pea.”&lt;/p&gt;
+
+&lt;p&gt;For once, Ted listened. The feverish sheen to his skin had gone away, and he was breathing slow and regular. Looked like he’d be fine.&lt;/p&gt;
+
+&lt;p&gt;“Come eat,” Gran said, filling two bowls with chicken soup. “Shouldn’t go to bed on an empty stomach.”&lt;/p&gt;
+
+&lt;p&gt;I joined her by the fire. My eyes felt dry as cotton and my bones ached with tired, but my soul finally felt light.&lt;/p&gt;
+
+&lt;p&gt;Gran was smiling, too. “Beth caused this mange outbreak, throwing dragon carcasses in the swamp like that. Whether she’s daft or whether she did it on purpose to prey on innocent folks so they’d buy more soap, I figure we can get her run out of town by tomorrow night.”&lt;/p&gt;
+
+&lt;p&gt;For an old woman who couldn’t abide a soul shooting dragons, she sure had a mean streak. “Gran. Then everyone’ll be shooting up dragons for tallow. You think all of them are going to handle their carcasses any better than Beth?”&lt;/p&gt;
+
+&lt;p&gt;Gran’s face puckered again. Nope. “Beth deserves it. She’s family and she left Ted to rot.”&lt;/p&gt;
+
+&lt;p&gt;“We can do better than a mob, Gran. Once that soap is hard enough to cut, I’ll start selling it in town at half Beth’s price. I’ll buy carcasses for double.”&lt;/p&gt;
+
+&lt;p&gt;I’d make lotion, too. That was easy — just add a little oil to the tallow so it spread easy.&lt;/p&gt;
+
+&lt;p&gt;“But the mange — “&lt;/p&gt;
+
+&lt;p&gt;“We’ll compost the dead dragons proper ourselves. That’ll get the mange under control, eventually. Dragons will stop bothering folks’ farms for radishes all the time, we’ll cut Beth out of what I suspect is her best business, and we’ll make a tidy profit on the side. Once the mange is back to normal, I’ll stop paying for carcasses and just go hunting myself — just enough to keep folks supplied with what little lotion and soap they’ll need.”&lt;/p&gt;
+
+&lt;p&gt;By then, we’ll have more than enough money to replace our chickens and buy Gran a mess of tonic. We wouldn’t be scraping by anymore — we could plan for tomorrow. Though I might have to hike to the city for tonic, if Beth was feeling disagreeable with us.&lt;/p&gt;
+
+&lt;p&gt;Gran took a few more spoonfuls of soup, thinking it over. “Beth will watch her business wither away?”&lt;/p&gt;
+
+&lt;p&gt;“Yup. Much worse than being driven clean out of town.”&lt;/p&gt;
+
+&lt;p&gt;Gran nodded. “I like your plan, Maisy. Just promise me you’ll sell the soap right in front of her store, where she can watch.”&lt;/p&gt;
+
+&lt;p&gt;“Yes, Gran.”&lt;/p&gt;
+
+&lt;h4 id=&quot;about-the-author&quot;&gt;About the author&lt;/h4&gt;
+&lt;p&gt;M.K. Hutchins regularly draws on her background in archaeology when writing fiction. Her YA fantasy novel Drift was both a Junior Library Guild Selection and a VOYA Top Shelf Honoree. Her short fiction appears in Fireside Magazine, Podcastle, IGMS, Daily Science Fiction, and elsewhere. A long-time Idahoan, she now lives in Utah with her husband and four children. Find her at &lt;a href=&quot;http://mkhutchins.com&quot;&gt;mkhutchins.com&lt;/a&gt;&lt;/p&gt;</content><author><name>M.K. Hutchins</name></author><category term="short story" /><summary type="html">FIXME add Illustration with caption=”Illustration by Galen Dara” alt=”A woman crouches calf-deep in a swamp, rifle at the ready. Dragon surround her.””</summary></entry><entry><title type="html">Issue 38 — November 2016</title><link href="http://localhost:4000/magazine/announcement/issue-38-november-2016" rel="alternate" type="text/html" title="Issue 38 — November 2016" /><published>2016-11-01T11:17:05-04:00</published><updated>2016-11-01T11:17:05-04:00</updated><id>http://localhost:4000/magazine/announcement/issue-38-november-2016</id><content type="html" xml:base="http://localhost:4000/magazine/announcement/issue-38-november-2016">&lt;p&gt;Welcome to Issue 38! This month we open with an aching little ghost story by Fireside alum Caroline Yoachim, &lt;em&gt;Paperclips and Memories and Things That Won’t Be Missed.&lt;/em&gt; Next up is &lt;em&gt;Sometimes the Crossroads Come to You,&lt;/em&gt; a terrific time-travel story from Mikki Kendall. And finally there is another story that guest editor Daniel José Older selected, &lt;em&gt;Dragon Soap&lt;/em&gt; by M.K. Hutchins. It’s a gorgeous trip into the swamp, both the humid kind and the human kind.
+We’re taking next month off, so we will see you again in January! Thanks as always for reading!&lt;/p&gt;</content><author><name>Brian J. White</name></author><category term="announcement" /><summary type="html">Welcome to Issue 38! This month we open with an aching little ghost story by Fireside alum Caroline Yoachim, Paperclips and Memories and Things That Won’t Be Missed. Next up is Sometimes the Crossroads Come to You, a terrific time-travel story from Mikki Kendall. And finally there is another story that guest editor Daniel José Older selected, Dragon Soap by M.K. Hutchins. It’s a gorgeous trip into the swamp, both the humid kind and the human kind.
+We’re taking next month off, so we will see you again in January! Thanks as always for reading!</summary></entry><entry><title type="html">The Get-Get Man</title><link href="http://localhost:4000/magazine/short-story/the-get-get-man" rel="alternate" type="text/html" title="The Get-Get Man" /><published>2016-10-02T11:17:05-04:00</published><updated>2016-10-02T11:17:05-04:00</updated><id>http://localhost:4000/magazine/short-story/the-get-get-man</id><content type="html" xml:base="http://localhost:4000/magazine/short-story/the-get-get-man">&lt;p&gt;&lt;em&gt;Selected by guest editor Daniel José Older&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Get-Get Man travels at night, sharp as a scalpel, dark as soot. He cuts through the yards and streets, slicing and taking what doesn’t make way. They say you can only see him from the side. If you see him head on it’s probably too, late because which way would you run anyway? He is as wide as the sky, deeper than the grave, and he always gets what he came for.&lt;/p&gt;
+
+&lt;p&gt;The Get-Get Man makes a sound like a badly played violin, the rattle of chain link fences, the hiss of cats as they curl up and away in tight. He was just a story though until someone spotted the Get-Get Man over in Greenwood and once in Tchula, but that old woman had cataracts so it could have been a shadow or the line of smoke from her cigarette.&lt;/p&gt;
+
+&lt;p&gt;The Get-Get Man steals things from the world, borrows them really, because they usually show up in another place, cut out and put somewhere else. Like that bird bath Mrs. Weaver had made especially in the shape of Jesus. That bird bath turned up all the way across town in some lady’s bedroom. That lady said it was like someone unwrapped the thing out of thin air. She wouldn’t get out of bed until the police came. Or that’s what Mrs. Mooznick said, but Mom says she’s always making stuff up and it wasn’t on the News so it couldn’t be real. When Mom heard us talking about the Get-Get Man, her face went still and sharp, sort of like when she has to drive into the sun on the way home from DayPlay, so we stopped talking about it in front of her.&lt;/p&gt;
+
+&lt;p&gt;I didn’t really mean to believe in him until he split Miss Minnie’s big white Cadillac right down the middle like one of the pictures in the science books at school where you can see the insides of cows and chickens only it wasn’t pink stomachs and red hearts inside, it was gray seat stuffing, Tic-Tacs, wires, plastic, and melted metal. That’s when I knew he was coming for me and they were right: You really can call him with a stupid rhyme, a piece of white thread, and just one drop of blood. I shouldn’t have done it, but they dared me to and I was only seven and didn’t know any better. That was their job because they were older, but they stood around laughing too loud while I did it. That was a year ago and we’d all forgotten about it.&lt;/p&gt;
+
+&lt;p&gt;My sister took one look at the half-in-two Cadillac and shook her head.&lt;/p&gt;
+
+&lt;p&gt;“You’re fucked, Amber Lynn,” was all she said and walked straight back to our house fast like he was right behind us. She took everything that was hers out of my room and told me to stay away from her. For good. Like I was already gotten.&lt;/p&gt;
+
+&lt;p&gt;She must have told everyone else on the block because suddenly no one would play with me anymore. Not even Ella Rae who used to beg me to pick her for my team. Not even snot-nosed Oliver who couldn’t bribe people to play with him, even for the good candy.&lt;/p&gt;
+
+&lt;p&gt;For two weeks everyone walked a big circle around me or moved to the other side of the street and I got used to playing alone in my room. They called me the Get-Get Girl when they thought I wasn’t looking and anything that was lost was suddenly my fault. “Go ask Amber, I bet she went and Got it.”&lt;/p&gt;
+
+&lt;p&gt;I didn’t cry in front of them except for that first time though. I didn’t even tell on Leslie when Mom asked me what was going on and if we’d had a fight. Maybe that’s why Leslie finally started talking to me again and even let me choose the channels. She still wouldn’t let me borrow her clothes though.&lt;/p&gt;
+
+&lt;p&gt;Everything was almost back to normal when Jeremy saw him over near the park and the Robeson’s cat turned up with only half a tail.&lt;/p&gt;
+
+&lt;p&gt;“I saw him! The Get-Get Man. He was hissing like a snake,” Jeremy said with the lisp that got him beat up every other day at school.&lt;/p&gt;
+
+&lt;p&gt;“What did he look like?” And there were more questions that Jeremy couldn’t seem to answer or maybe didn’t want to. He looked scared. When Silas pushed him for not answering fast enough he started crying.&lt;/p&gt;
+
+&lt;p&gt;That’s when they all started looking at me like I was the one who made him cry. Even Leslie. But instead of that snotty older sister look of meanness she always got, she just looked scared. So scared she yelled at everyone to shutup and they all did, but the quiet was way worse than all the yelling. Because now they were trying not to look at me and I wanted to hit them or at least run away, but Leslie grabbed my arm and yanked me hard all the way home.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The Get-Get Man is like a long piece of paper but he’s also deep like a book. Deep enough to print and hold all the things he’s seen and collected all the way back to before and maybe even farther. Not like pictures in a book, but like movies all rolled up and waiting to be played. Or songs maybe. Or maybe even memories. But whose memories? And what do you play them on? Maybe the Get-Get Man isn’t a person at all but like a video camera.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I didn’t tell anyone about the end of the cat’s tail I found in my room. Orange tabby and sliced clean. I buried it in the back yard under the bushes with an old birthday card granny had sent me with the bloody horror movie Jesus on the front so maybe he’d go to heaven or his tail would and he could find it later.&lt;/p&gt;
+
+&lt;p&gt;I stayed up all night listening for the hissing, occasionally looking out my window into the backyard hoping I wouldn’t see his dark outline against the garage. When it got to be too much and I was starting to understand what they meant when they said someone died of fright in books, I walked down the hall to Leslie’s room, but the door was locked. Even though I used the secret knock and whispered her name, the door didn’t open.&lt;/p&gt;
+
+&lt;p&gt;I ran back to my room and turned all the lights on, but then I got worried that the lights would give me away so I turned them all back off and ran back to the bed. Then there was nothing to do but sit there in the dark feeling my body get harder and harder with stillness until I was like a thing made out of wood or stone.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I thought I heard hissing, but it always turned out to be the wind in the trees, or the curtains moving, and once it was my own breathing made loud by all the three in the morning quiet. I didn’t even know what three in the morning was like until then.&lt;/p&gt;
+
+&lt;p&gt;Nothing happened that night or the next night even though it felt like it had to. It didn’t even matter anymore that no one looked at me or talked to me, because everything had gone sort of fuzzy from all the sleep I wasn’t sleeping. Mom finally decided I was sick and sent me up to bed even though I wanted to lie on the couch and watch cartoons. I got my way finally and watched the colorful blobs move across the screen and wondered who was making these stupid shows. They weren’t even cats or mice or squid anymore, just big pieces of color moving around. When I asked Mom about it she just looked at me funny and felt my head like I had a fever.&lt;/p&gt;
+
+&lt;p&gt;When Leslie got home from school she didn’t even fight about which shows to watch or who got to be on the computer and she’d gotten so polite and weird I knew it had to be bad. Everyone was probably talking about it. About me, the Get-Get Girl, and how I’d been gotten. And now she was the Get-Get Girl’s sister, which was almost as bad.&lt;/p&gt;
+
+&lt;p&gt;When she brought me a bowl of tomato soup for dinner, I tried to be nice, but it wouldn’t come out right.&lt;/p&gt;
+
+&lt;p&gt;“Whatever,” was all I said to her and she didn’t even tell on me for not saying “thank you.”&lt;/p&gt;
+
+&lt;p&gt;The next day I decided I’d had enough of all the avoiding and walked over to everyone playing in Oliver’s huge front yard. They all just looked up at me and stopped what they were doing.&lt;/p&gt;
+
+&lt;p&gt;“Can I play?” I asked and sat down, wondering what they were dong with all the weird-shaped colored pieces of paper.&lt;/p&gt;
+
+&lt;p&gt;Oliver and Jamie just looked at me and nodded, but Silas started picking up the paper, his hands and arms all jerky like he was a puppet.&lt;/p&gt;
+
+&lt;p&gt;“No way you’re touching my cards, you freak!” he said. I looked over at Leslie who usually defended me when she wasn’t picking on me, but she kept her eyes down on whatever she was drawing on the sidewalk.&lt;/p&gt;
+
+&lt;p&gt;“Scaredy-cat!” I screamed. “You’re just afraid the Get-Get Man will get you instead of me!” I yelled and kicked the rest of the paper around before running away.&lt;/p&gt;
+
+&lt;p&gt;“You’re so ugly the Get-Get man doesn’t even want you!” he yelled after me, and I felt sick with anger.&lt;/p&gt;
+
+&lt;p&gt;That night Leslie came to my room and tried to play cards with me. They didn’t look like real cards to me and I told her if she didn’t want me touching her cards she could just go to hell.&lt;/p&gt;
+
+&lt;p&gt;She was real quiet for a minute and I finally looked at her, but she looked strange like she’d been flattened out against the screen so I looked away.&lt;/p&gt;
+
+&lt;p&gt;“You’re crazy,” she said and left me alone finally.&lt;/p&gt;
+
+&lt;p&gt;The next morning there was part of a Gameboy and a stack of money on the floor where the cat tail had been. The money looked dirty and worn out, but it was all twenty dollar bills even though part of them was missing, like someone had used the big paper slicer at school on it. The one we weren’t ever allowed to touch even if the teacher was standing right there.&lt;/p&gt;
+
+&lt;p&gt;The morning after that, part of a finger. It was bigger than Mom’s, with pale skin and sort of stubby with dirt under the nail. I should have been scared or at least grossed out, but I didn’t feel much of anything anymore and anyway, it looked like that plastic finger with fake blood you can buy at Halloween, only less real. I buried it in the backyard next to the cat tail, but I didn’t put a card on top. I put one of the twenty dollar pieces in my pocket and went to the store. He looked at me funny, but took the money pieces. All the candy made me sick. I piled what was I hadn’t eaten all around my room, dividing them by color and size, spreading them out into thin layers and puddles, then countries and continents, on my rug. I didn’t have to worry about Leslie coming in and stealing it so I left it all there in the open where I could look at what was mine whenever I wanted. It reminded me that I was real like a map of all the things that could be mine even though I’d lost everything and just didn’t know it yet.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I wish I’d known sooner that only &lt;em&gt;things&lt;/em&gt; could be gotten. I would have kept wanting non-things, like for Mom to notice me. But it wouldn’t have mattered anyway. She’d given up on me or maybe she just stopped noticing the way everyone else did when the world went flat and I was gotten. I had to remind her and Leslie that I was still there. I left clothing, books, plates of food they would never eat around the house, but they still looked at me strangely for a moment each time we met in the hallway or the bathroom. There was always that slight hesitation, the confusion they tried to mask but that never really left their eyes.&lt;/p&gt;
+
+&lt;p&gt;Gotten.&lt;/p&gt;
+
+&lt;p&gt;So I started concentrating on wanting only things that couldn’t be gotten: good dreams, love, someone smiling at me for no reason. Every once in a while I’d slip and there would be the hissing dark before a new sneaker or a pant leg would appear on my bedroom floor. Like the way our cat, Maizie, would bring dead mice and butterflies before she got hit by that car.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I don’t want a dog. I don’t want a dog.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Look what happened with the orange tabby cat. But sometimes saying you don’t want something is just as bad.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I know you’re thinking that I did the right thing, that I saved my sister, but I didn’t. I was too worried about saving myself and when I finally tried, she was already gone.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I used to sit outside Mom’s door waiting for her to come out just so she might see me, talk to me on her way to the bathroom or the kitchen. We weren’t allowed in her bedroom when the door was shut and the door was usually shut. Especially at times like these when her latest religion or guru or whatever had stopped working right. And they always did. I don’t know what she was looking for. Magic maybe, but the big impossible kind like in the movies and in the Bible and in paintings. Even I know that kind of magic isn’t real anymore and probably never was.&lt;/p&gt;
+
+&lt;p&gt;I don’t sit outside Mom’s room anymore and I’m not sure if it’s because I’m afraid she’ll get gotten or because I’m hoping she will. Because then I wouldn’t have to wait for her ever or pretend to believe in her kind of magic.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I don’t want Mom to get gotten. I don’t want Mom to get gotten.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I wished sometimes that he would get it over with, just get whatever it was he wanted and then I wouldn’t have to worry about it anymore.&lt;/p&gt;
+
+&lt;p&gt;I wondered what he looked like. Was he tall and dark? Short and blonde? Did he wear a dark overcoat or overalls? Did he have fangs like a vampire or did he look like Dr. Peters, the dentist? My room was suddenly too dark and quiet and I pulled the blanket over my head hoping to hide myself or at least hide how alone I was. All I had was the gotten candies and they were too sweet to do anything.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;“God! You’re such a loser! Anyone else would be getting cool stuff for us, but not perfect you!” Leslie yelled. Mom wasn’t home, so she could yell as loud as she wanted. “All I wanted was an iPhone. Not, like a yacht or a Mercedes or something. You could just get it easy, but nooooo,” she drew out that no into a kid’s mean sing-song even though she was too old for that sort of thing anymore. She was a teenager now. Sometimes she would get started talking like this and not stop.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I wondered if I could &lt;em&gt;get&lt;/em&gt; words to stop them. Get her mouth just for a minute. Get the minutes she was taking with all this yelling. But at least she was talking to me. Sort of.&lt;/p&gt;
+
+&lt;p&gt;And she was right. I probably could’ve gotten an iPhone, easy. Or at least a piece of one. But I didn’t for a lot of reasons. One of them, the biggest probably, was just meanness. The Get-Get Man wasn’t hers. He was mine. When I’d been gotten and everyone knew it, she’d locked her door to me. She took everybody’s side against me. Which meant only the Get-Get Man was on what was left of my side and there was no way I was going to share that with her. Or anything else.&lt;/p&gt;
+
+&lt;p&gt;She screamed in frustration, pulling her hair as she turned away. I thought she was going to leave and slam my door but she didn’t. She just stood there holding her hair, bent at the waist like her stomach hurt. I almost didn’t hear her when she spoke.&lt;/p&gt;
+
+&lt;p&gt;“You could at least make the Get-Get Man &lt;em&gt;get&lt;/em&gt; that creep, Gary.”&lt;/p&gt;
+
+&lt;p&gt;“Why? What did he do?” I asked but didn’t really ask. I didn’t want an answer and Leslie made it obvious that she wasn’t going to give me one. And that I was too stupid to breathe.&lt;/p&gt;
+
+&lt;p&gt;My stomach got hot and sick, but I didn’t really know why. Just that she was maybe saying something bad had happened, but at the same time not saying anything at all really. I didn’t want to think about that. About Pastor Gary. He was creepy and too nice and always showing up when Mom wasn’t home even though I never let him in. Even though he begged and said it was OK he just wanted to tell me something even though Mom said never to let anyone in no matter what. She would’ve said it was OK to let Gary in because she thought he was perfect, but he never asked her and neither did I. And I had no idea how to &lt;em&gt;get&lt;/em&gt; him anyway. I couldn’t make the Get-Get Man do anything. But I wasn’t going to admit that to Leslie, so I pretended not to hear. I pretended not to know anything.&lt;/p&gt;
+
+&lt;p&gt;Finally, she unbent and let go of her hair, but her shoulders were still hunched like she was in trouble.&lt;/p&gt;
+
+&lt;p&gt;“Whatever. I knew you wouldn’t help,” she said and left without even slamming the door.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When I came home from school, Mom and Pastor Gary were waiting for me. I thought at first that I was in trouble even though none of my teachers or even the clerks at the Quik-e mart even noticed me anymore. Mom had that serious look on her face, her hands folded in front as she stood there with an almost-smile as Pastor Gary told me Leslie had run away with her boyfriend. His voice was soft, but it was still the voice he used in his church that used to be a candle store in the strip mall. They were both acting like I was a camera or an audience. I didn’t know what to say. Probably I was supposed to ask where she was, but she’d run away so they wouldn’t know anyway.&lt;/p&gt;
+
+&lt;p&gt;“The police will probably come by later, but we’ll be at the church praying for Leslie’s soul,” he said and Mom just nodded. Maybe she was taking Xanax again. I thought they could probably be out looking for her or go over to Mark’s house to make sure they weren’t there in the basement or something instead of praying, but I didn’t say anything. I just nodded like Mom and asked if I could go upstairs to my room.&lt;/p&gt;
+
+&lt;p&gt;Mom blinked and looked back and forth between Pastor Gary like she wasn’t sure what to say to me. Like she was waiting for Pastor Gary to be the Mom or tell her how to be one. So I walked around them into the kitchen to see if there was anything to eat. The hissing got louder as I looked through the fridge and the cabinets, finally deciding on a bowl of cereal that was probably stale. At least the milk was good. I could barely hear them talking and finally the sounds of the front door closing hard and locking me in. I went out front and put the chain on the door in case Pastor Gary decided to come back with Mom’s keys since she was obviously his zombie and he could make her do anything. I worried for a minute that Leslie might come back and how would she get in with the chain on, but she’d just yell until I came downstairs so I left it like that.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A few months later I found Leslie on Facebook. She had a different name and the pictures were blurry, but it could have been her. She didn’t post that often, but there were pictures of different places that looked familiar. Mainly she posted about the Red River Killer, so I started researching him too. Like most killers, no one knew much about him except for the bodies of the women and girls he killed, the places where he left their bodies, the things he did to them.&lt;/p&gt;
+
+&lt;p&gt;I friended her, but she never friended me back so it felt like the Red River Killer was our only connection. And it was the same Red River that ran past our town. My town now. I had no idea what Leslie’s town was. Leslie followed other serial killers and posted articles about them, but the Red River Killer was her favorite. And mine.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It happened one night that wasn’t any different from any other night except that I was wanting things kind of bad and I was tired of being gotten and not getting anything for it. I heard the hissing and felt the usual fear spreading over me like a sunburn, but this time rather than wait inside that lit up box of a bedroom, I decided I would go out to meet him. I wondered what had been gotten and tried to think of all the things that I’d accidentally wanted:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;iPhone&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;cool new clothes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;new car&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a giant TV&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Xbox&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;laptop&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Too many things. I hadn’t wanted them for long, but I didn’t know how long was long enough yet. How hard I had to want them. I was tired of wearing Leslie’s old clothes because Mom never remembered to get me new ones or yelled at me when I asked. I was tired of having to “borrow” pens and paper and all the things everyone else just seemed to somehow have without even trying. Maybe if I wore the right things, had a cool phone, people would see me again.&lt;/p&gt;
+
+&lt;p&gt;I followed the glowing squares on the stairs carved from the dark by the hard light from my open door and wondered and hoped and not-hoped about all of those wanted things. Maybe I could want just one? Maybe the iPhone? The dark line of the shadows where the light wasn’t looked like holes I could drop right through, but the stairs held.&lt;/p&gt;
+
+&lt;p&gt;The hissing got louder as I touched my way through the dark and light in the hall, the pantry, the kitchen, too afraid to turn on the lights. Too afraid to give myself away even though I’d been gotten already and the Get-Get Man probably knew exactly where I was anyway.&lt;/p&gt;
+
+&lt;p&gt;The thing out there, the Get-Get Man, didn’t move closer but stayed in the dark polygon of the garage’s sharp shadow. The darkest part of the world.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t help it standing there: I thought of money and gold and candy and cars and TVs.&lt;/p&gt;
+
+&lt;p&gt;I wanted. Hard.&lt;/p&gt;
+
+&lt;p&gt;I stood to the side of the back door looking out the glass panes into the blurry yard. The Olshewsky’s motion light was on, the one my mother complained about every morning for lighting up her room at random intervals all night as every cat and possum in the neighborhood set it off. Like the stairs, the yard was lit in hard bright and black geometries like puzzle pieces empty and filled. There was no one and nothing in the yard that I could see except the rusty swingset nobody played on anymore, but the hissing was louder here. It seemed like it was coming from everywhere, even the linoleum. I knew exactly where it stood. He stood. She stood. The hissing seemed to come from multiple mouths hissing in different frequencies blended together. A chorus, a harmony of static.&lt;/p&gt;
+
+&lt;p&gt;Sliding the chain out of its channel seemed to take forever, seemed to chime loud over the static. Same with the deadbolt. I had to bend to get key hung on a nail on the side of the cabinet near the floor so the thieves couldn’t reach it. Scrabbling for the key seemed to wake up the fear again, fear of whatever was outside so I started to want again. And the things I wanted, one way or another, were out there. So I wanted like I used to want, like my sister and all the other kids and even my mom probably wanted all the time in huge sucking, sobbing gobs and mouths of want. Unfillable deep holes and pits of want.&lt;/p&gt;
+
+&lt;p&gt;The grass was still wet and cool under my bare feet, the hissing almost drowned out the mechanical tick and whine of cicadas in the trees and shrubs. Out in the yard the differences between light and dark were even sharper, like it had been drawn with a ruler and inked in.&lt;/p&gt;
+
+&lt;p&gt;I tried to walk like I wasn’t scared. I tried to walk like I wanted. Everything. Anything.&lt;/p&gt;
+
+&lt;p&gt;I thought about all of those pieces of pictures of me on their phones. I thought about a whole me in the frame.&lt;/p&gt;
+
+&lt;p&gt;I want. I want. I want.&lt;/p&gt;
+
+&lt;p&gt;I felt bigger with each step, filling with static, like I’d already (been) gotten and was full of the things rubbing and sliding against each other, popping in and out of existence like particles. The hissing was deafening now, piling up in the yard. I couldn’t hear my own mantra, my own breathing or steps.&lt;/p&gt;
+
+&lt;p&gt;“I want. I want,” I said over and over, yelling until the hissing became the words and the words became hissing and I was saying them together: “Get. Get. Get.”&lt;/p&gt;
+
+&lt;p&gt;I expected a twisted dark man or something like a monster, a video game portal or spaceship, but the figure I could only begin to make out was small and even darker than the rest of the fuzzy black inside the hard shadow. Carved and sharp, it stepped forward when I did then stopped when I hesitated. We stood facing each other.&lt;/p&gt;
+
+&lt;p&gt;I drew in a breath to speak or maybe scream and the Get-Get Man did too. When I raised a hand to stop whatever it was about to do, it raised a shadow hand at me like it would grab me. I understood then that it was mirroring me, a dark, sharp reflection full of static. A shadow in the wrong place.&lt;/p&gt;
+
+&lt;p&gt;“I don’t,” I began, then stopped when it hissed back.&lt;/p&gt;
+
+&lt;p&gt;“Shit,” I said.&lt;/p&gt;
+
+&lt;p&gt;“Get,” it hissed.&lt;/p&gt;
+
+&lt;p&gt;“What do you want?”&lt;/p&gt;
+
+&lt;p&gt;“Want.”&lt;/p&gt;
+
+&lt;p&gt;I stepped toward it, hand still raised. The hissing became a pressure like swimming to the bottom of the diving pool only worse and the Get-Get pushed and pulled at me, wanting me like no one did anymore, like no one ever had. And I wanted back. All of the things it could&lt;/p&gt;
+
+&lt;p&gt;“Get.”&lt;/p&gt;
+
+&lt;p&gt;When our fingers touched, I expected cool, like the surface of a mirror, but it was a slow warm pull, like sliding into my own skin. The dark moved over my lighter skin — an eclipse — my pale, reflective surfaces pushing the shadow into a faint glow. Impossible for a shadow in the same place at the same time as light. My skin was electric, static, finally quiet as it canceled itself out.&lt;/p&gt;
+
+&lt;p&gt;“I WantGet.”&lt;/p&gt;
+
+&lt;p&gt;I stepped and we stepped all the way into each other and the world opened up and flattened to the event horizon at the same moment, all the moments.&lt;/p&gt;
+
+&lt;p&gt;We laughed a long loud hiss, edged and empty, but already ours, already gotten. So much to fill and now we had the part that wanted and wanted and didn’t worry because it also had the part that knew how to get.&lt;/p&gt;
+
+&lt;p&gt;“Gotten,” we said and smiled all mouth and teeth and everywhere at once, everything we wanted. Wanted.&lt;/p&gt;
+
+&lt;p&gt;Gotten.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When the head showed up the next morning I screamed, but no one came running so probably Mom either never made it home or had gone out early. But the head. I’d been so careful. Had only wanted things. Which was probably why it was only a part, or that’s what I told myself even though I knew this was a thing I secretly wanted. And there was the new iPhone I’d gotten next to it, still new in its now-bloody box. The memory of Getting was like a terrible craving, worse than candy, but I was used to silencing that want. I thought of the things that couldn’t be gotten: sunlight, memories of playing with Leslie before I’d been Gotten and she wasn’t so hateful.&lt;/p&gt;
+
+&lt;p&gt;The head sat there bleeding and oozing onto the faded colors of the smiley-face sun rug in my room looking familiar in a way I didn’t want to think about. I had no idea when Mom would be home so I had to do something even if I didn’t want to go near it. So I wrapped it up in the sunny rug and buried it behind the garage in the gap between the back wall and the neighbor’s fence where no one could see me digging. I threw up on top of the dirt mound and thought about how I would have to get a new rug. I thought of all the other killers and then tried not to.&lt;/p&gt;
+
+&lt;p&gt;I never found out who the head belonged to, but the Red River Killer stopped killing.&lt;/p&gt;
+
+&lt;p&gt;I messaged Leslie thinking I’d done it for her, but she never answered.&lt;/p&gt;
+
+&lt;h4 id=&quot;about-the-author&quot;&gt;About the author&lt;/h4&gt;
+&lt;p&gt;Melissa Moorer was struck by lightning when she was eight. Her work has been published in luminous journals such as Electric Literature, The Future Fire, Heiresses of Russ 2015, The Butter/The Toast, The Offing Mag (forthcoming), LCRW, Hot Metal Bridge, FLAPPERHOUSE, Vestal Review. She was Assistant Editor at The Butter/The Toast where she wrote”’This Writer’s On Fire’”series for Roxane Gay. She still does research for Roxane Gay, which is the coolest job in the world.&lt;/p&gt;</content><author><name>Melissa Moorer</name></author><category term="short story" /><summary type="html">Selected by guest editor Daniel José Older</summary></entry><entry><title type="html">Speak</title><link href="http://localhost:4000/magazine/flash-fiction/speak" rel="alternate" type="text/html" title="Speak" /><published>2016-10-02T11:17:05-04:00</published><updated>2016-10-02T11:17:05-04:00</updated><id>http://localhost:4000/magazine/flash-fiction/speak</id><content type="html" xml:base="http://localhost:4000/magazine/flash-fiction/speak">&lt;p&gt;&lt;em&gt;Selected by guest editor Daniel José Older&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Pale skin, poreless. Plastic polymer. Eyes too big. Nose too straight. Black-wire lashes. Mouth like an open wound, boiling with insect larvae. She’s been dead for days.&lt;/p&gt;
+
+&lt;p&gt;Camera pans out.&lt;/p&gt;
+
+&lt;p&gt;Tattered red dress. No shoes. An arm stretched like a prayer. Rats squirming loose from between the slats of her ribs. The shot lingers on the slope of a brown nipple. Zooms out; refocuses on the detritus that surrounds her, a funeral pyre of plastic and rot. A drunk pisses against the wall three feet away.&lt;/p&gt;
+
+&lt;p&gt;Maurice contemplates the headline, even as a communication channel dilates. His editor’s voice pours through the frequency, abrasive, baton-blunt. &lt;em&gt;No. Just another whore. Not worth the time. Skip.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;He clenches teeth, tears himself from the woman’s blank stare.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;SPEAK FOR US&lt;/p&gt;
+
+&lt;p&gt;The malware is cigarette burn, stove-top kiss; pinprick inferno that slithers through his firewalls like a nest of tapeworms.&lt;/p&gt;
+
+&lt;p&gt;SPEAK FOR US&lt;/p&gt;
+
+&lt;p&gt;Words crawl through. Video clips of dying, dying, dead and dying things. A demand loops; his vision suffocates under a flurry of letters.&lt;/p&gt;
+
+&lt;p&gt;SPEAK SPEAK SPEAK —&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;“Are you listening to me?”&lt;/p&gt;
+
+&lt;p&gt;Maurice pivots in his chair, lanky arms crossing over a xylophone chest. His mouth puckers like a bullet wound, then smooths to silence. Control, he demands of himself. Breathe. The air-conditioning growls. Under its percussions, he hears an echo. SPEAK SPEAK SPEAK.&lt;/p&gt;
+
+&lt;p&gt;“People know the third world isn’t safe.” American twang, white man’s confident bass. His editor looks fifty, going on thirty-eight. Broad shoulders. Hundred-dollar haircut. Oil-black Berluti loafers, skinny tie, leather blazer made to order. “It’s not news.”&lt;/p&gt;
+
+&lt;p&gt;“Isn’t news what we say it is?” says Maurice, petulant. He slicks fingers through dark curls, over the roof of his skull, down to where the input cable punctures bone. Detaches. Data fizzes, fritzes; a glint of binary as Maurice escapes the World Wide Web.&lt;/p&gt;
+
+&lt;p&gt;SPEAK SPEAK SPEAK. The words, diffused and distorted, quiver like a second heart. He knows he should get his security network checked, have one of the Company’s mercury-eyed technicians remove the anomalous content. But he can’t. Won’t. It’s hard. If he can’t speak for them, the least he could do is listen.&lt;/p&gt;
+
+&lt;p&gt;“Maybe if you were working for the New York Times.” The other man’s mouth coils. “But you’re not. Out of the chair. I can take feeds.”&lt;/p&gt;
+
+&lt;p&gt;Editor — name is Frank, frank like his conduct and his armament of words — sits down and jacks himself in, even as Maurice screws the cap back onto his own port. Can’t be too careful with cheap technology, he thinks. Every day, the feeds swarm with stories of those who were not: information junkies with brain pans full of maggots, college kids bristling with wasp babies, ant-eaten coma patients. Too many to accrete hits, too many to care.&lt;/p&gt;
+
+&lt;p&gt;Maurice lets his eyes travel over his editor’s neural port; envy blooms, astringent and cold. Tech that sharp would cost his entire pension. The knowledge squares the set of his chin as he seats himself in front of an old-fashioned keyboard. He stretches arms and fingers, endures each aching pop of ligament and tendon with a convulsion of effort. His lungs burn for a cigarette. But not yet, not yet. This is his penance, this nicotine starvation; his pale show of solidarity for the ones with haunted, silent mouths.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Three waxen-faced teenagers dead. Cause: back-alley physicians, snake-oil miracles, rusted tools thick with bacterium.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Frank’s voice:&lt;/em&gt; Old news. No angle. Skip.&lt;/p&gt;
+
+&lt;p&gt;A waitress gone missing; nineteen-year-old nobody from Maurice’s old neighbourhood. Corkscrew black hair, hopeful eyes, nutmeg face almost textbook pretty.&lt;/p&gt;
+
+&lt;p&gt;Frank’s voice: &lt;em&gt;Skip. We’re not that kind of paper.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Young widow roasted alive in a crematory. Voluntary sutee, her family hisses. Murder, her friends cry. Murder murder murder.&lt;/p&gt;
+
+&lt;p&gt;Frank’s voice: &lt;em&gt;Skip.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;“Are you fucking kidding me?” Maurice sucks on his cigarette. He can’t breathe, can barely contain the riot of emotions. A muscle in his jaw spasms in protest.&lt;/p&gt;
+
+&lt;p&gt;Frank’s machine-gun rumble sings with warning. “What?”&lt;/p&gt;
+
+&lt;p&gt;“Really? You want to skip that last one?”&lt;/p&gt;
+
+&lt;p&gt;Silence crushes them. The air thickens, arms itself with words unspoken, so dense that you could split it with a knife. Frank lowers his eyebrows, gaze still glazed, seeing-not-seeing as he tilts his skull at Maurice. His eyes, colorless and cold as ice, coruscate with a thousand lines of code. “Is this a joke?”&lt;/p&gt;
+
+&lt;p&gt;“No,” answers Maurice, too quick. “I… No. It’s just that it was fucking medieval.”&lt;/p&gt;
+
+&lt;p&gt;“And what would you have us do about it?”&lt;/p&gt;
+
+&lt;p&gt;“Let me write about it, maybe?” says Maurice, who passes for privilege too easily for his own liking, who is white to everyone but his girlfriend, his parents. “It’s news, ain’t it? A family performing centuries-old ritualistic murder and then trying to cover it up? That’s murder. That’s news.”&lt;/p&gt;
+
+&lt;p&gt;“Unless one of the victims recorded the act on Vine—”&lt;/p&gt;
+
+&lt;p&gt;“Fuck you, Frank.” Maurice squeezes his fist shut. He tastes ash and rage and an old, old hate. “She was nineteen. She had no fucking business—”&lt;/p&gt;
+
+&lt;p&gt;“Maurice —” Frank pins the bridge of his nose between his fingers and sighs. “In case you haven’t noticed, you work in technology. We report on hardware. VR games. Advances in bio-mechanical prosthetics. Sapient sex toys.  If the girl was killed by a self-propagating, self-modifying virus named Sutee? Sure. We could do something about this. But this is not our beat.”&lt;/p&gt;
+
+&lt;p&gt;“Still a life.”&lt;/p&gt;
+
+&lt;p&gt;Frank says nothing, only makes a velvety cat-noise deep in his throat. He shakes his head. His voice, when he speaks again, is almost sad. “A life.”&lt;/p&gt;
+
+&lt;p&gt;Maurice shoots from his chair. Behind his eyelids: a chiaroscuro of roasted flesh and tight-lipped men, a woman bent like a broken doll. Faces, so many faces, tumbling, tumbling through his memory cache. He fumbles for his cigarette box, hands shaking so hard that he almost drops it, almost misses the button for the door.&lt;/p&gt;
+
+&lt;p&gt;Steel panels open with a pneumatic hiss. The city hits him with the stench of car exhaust and day-old trash and cheap hot dogs from around the corner. Rain writhes. Maurice pulls his coat tight about his shoulders as he looks up into the lights eeling through the gloom. Like a million indifferent eyes, he thinks.&lt;/p&gt;
+
+&lt;p&gt;He breathes deeply, drinks in the cancerous distillation of chemicals; takes a moment to appreciate he probably won’t be around long enough to see how much worse the world could get. Social media itches like the tar in his lungs, but he resists. There is so only much he can imbibe before he sinks into a delirium of helplessness.&lt;/p&gt;
+
+&lt;p&gt;From behind his eyelids, electronic ghosts watch him shudder.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;SPEAK SPEAK SPEAK SPEAK&lt;/p&gt;
+
+&lt;p&gt;Maurice lets it in after that night, brings down the divide between inner and outer. Lets it nest in his ribs, drawing breath from his hurt. Lets it fester and grow. It blunders into all the hollow spaces of his brain, the gap between autonomous thought, between every revolution of social media.&lt;/p&gt;
+
+&lt;p&gt;SPEAK FOR US SPEAK FOR US SPEAK&lt;/p&gt;
+
+&lt;p&gt;He feeds it drafts he will never finish: dirges for cold cases, a photo essay composed of bruises, inflammatory blog posts filled with crowdsourced brimstone. All the hate in the world. All the ache. All the voices that could never speak, will never speak. All of it. All of it. Until there is nothing in Maurice but screaming.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The air burns hot and sweet with cloves as Maurice, hands shaking with so much force that he feels eighty-nine, lights a cigarette. His mind, agoraphobic from familiarity, rattles at the emptiness.&lt;/p&gt;
+
+&lt;p&gt;“Thirty years of email correspondence, Snapchat pictures, private chat logs, and every bank account in your extended family line. Ready to be beamed out, if you don’t stay the fuck there.”&lt;/p&gt;
+
+&lt;p&gt;The older man does not move, but Maurice can see his eyes oscillating from data point to data point. His breath thins. “Why are you doing this?”&lt;/p&gt;
+
+&lt;p&gt;“Because you’re part of the problem,” says Maurice, almost apologetic. “Media is the voice of the people and all that, you know? We tell the stories. We decide whose stories get told.”&lt;/p&gt;
+
+&lt;p&gt;Another long, long drag on his cigarette. He watches as Frank’s hands constrict around the armrests. His grip is noose-tight, so tight his knuckles go bone-white.&lt;/p&gt;
+
+&lt;p&gt;“What you’re doing is illegal—”&lt;/p&gt;
+
+&lt;p&gt;“Technically,” Maurice corrects. “What you’re doing is illegal.”&lt;/p&gt;
+
+&lt;p&gt;“Maurice.” Frank’s voice cracks like a skull.&lt;/p&gt;
+
+&lt;p&gt;The thin man drinks smoke. “It’s fine. It’d be fine. You won’t fry. Tell them it was a hack. Tell them it was… ambush. Tell them—”&lt;/p&gt;
+
+&lt;p&gt;A shrug. “It doesn’t matter. You’ll be fine. Just hang tight, Frank. Someone will come get you.”&lt;/p&gt;
+
+&lt;p&gt;“Maurice.”&lt;/p&gt;
+
+&lt;p&gt;He bares teeth and turns. Already, his vision is clotting with notifications, reports, emails like bullets from a firing squad: what’s going on with your boss what is your boss doing what the fuck is happening what what what tell us tell us. Speak speak speak.&lt;/p&gt;
+
+&lt;p&gt;A sigh. Maurice slopes to the door, a tired junkyard mutt, ragged and run-down by long, cold nights. He feels old. So very, very old.&lt;/p&gt;
+
+&lt;p&gt;SPEAK SPEAK SPEAK.&lt;/p&gt;
+
+&lt;p&gt;The words keep time with his step, as he bleeds into the city, invisible against the press of a million, rain-battered bodies. **&lt;/p&gt;
+
+&lt;h4 id=&quot;about-the-author&quot;&gt;About the author&lt;/h4&gt;
+&lt;p&gt;Cassandra Khaw is the business developer for Ysbryd Games. When not otherwise writing press releases, she writes intersectional fiction that combines myth and modern-day malaise. Her work can be found in places like &lt;em&gt;Uncanny&lt;/em&gt;, &lt;em&gt;Clarkesworld&lt;/em&gt;, and &lt;em&gt;Fireside&lt;/em&gt;. Her first novella was &lt;em&gt;Rupert Wong, Cannibal Chef&lt;/em&gt;, and now she has &lt;em&gt;Hammers on Bone&lt;/em&gt; coming out with Tor.com in October. Also, she punches things.&lt;/p&gt;</content><author><name>Cassandra Khaw</name></author><category term="flash fiction" /><summary type="html">Selected by guest editor Daniel José Older</summary></entry><entry><title type="html">Rabbit Heart</title><link href="http://localhost:4000/magazine/flash-fiction/rabbit-heart" rel="alternate" type="text/html" title="Rabbit Heart" /><published>2016-10-02T11:17:05-04:00</published><updated>2016-10-02T11:17:05-04:00</updated><id>http://localhost:4000/magazine/flash-fiction/rabbit-heart</id><content type="html" xml:base="http://localhost:4000/magazine/flash-fiction/rabbit-heart">&lt;p&gt;The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries. His name is Gavin, and he is thin and wrinkly and covered in fine brown hair. Funny looking, as preemies often are, but sweet nonetheless. Margie keeps him wrapped in a blanket of cobwebs, which I think is disgusting. I’ve always hated spiders.&lt;/p&gt;
+
+&lt;p&gt;Did you know that ghosts are like pack rats? We collect of all manner of things: Barbie hairs and memories and peanut shells and dreams of death. Invoices and autumn leaves and the words on the tip of your tongue. Margie collected Gavin, and now she collects cobwebs from my attic to be sure that he stays warm.&lt;/p&gt;
+
+&lt;p&gt;Technically it isn’t my attic; it belongs to my husband now. My former husband. He lives in what was once my house, with his new wife and her two kids and a newborn baby boy. The baby looks like Gavin might have, if Gavin had lived.&lt;/p&gt;
+
+&lt;p&gt;Here is the problem with collecting. Whatever you take, the living no longer have. So a ghost with good intentions, one who takes away stubbed toes and sunburns, ends up surrounded by pain. A malicious ghost ends up with cotton candy and laughter and baby smiles and — well, it’s hard to stay mean surrounded by all that. That’s why most ghosts collect harmless stuff like paperclips and lint.&lt;/p&gt;
+
+&lt;p&gt;Margie wanted to be good. When she was alive, she miscarried five times. There was something wrong with her, something that kept her from carrying a baby to term. When she died, she wanted to help other women, to keep them from suffering the way that she’d suffered. She found a woman, thirty-four weeks pregnant, whose baby had died because a blood clot cut off his supply of nutrients and oxygen. Margie took the lifeless baby and named him Gavin. The pregnant woman, of course, was me.&lt;/p&gt;
+
+&lt;p&gt;Remember the problem with collecting? I woke up one morning without my baby, and with no real explanation why. The doctors were baffled, and I was devastated. I had lost my little boy, and there wasn’t even a cheek to kiss, no tiny body for me to hold one time before I said goodbye.&lt;/p&gt;
+
+&lt;p&gt;My friends and family tried to help, but they didn’t understand. My husband buried his grief in work and stayed at the office late while I cried myself to sleep. No one remembered the bottle of Percocet left over from when I got my wisdom teeth removed, so no one thought to take it away from me.&lt;/p&gt;
+
+&lt;p&gt;Margie haunts the attic, so I mostly haunt downstairs. I spent my first few years of ghosthood collecting lipstick from the purses of my husband’s girlfriends, but eventually I got over my jealousy. He remarried, and the house is nicer with children in it. Now I collect stray socks from the dryer and baby toys that fall behind the furniture.&lt;/p&gt;
+
+&lt;p&gt;I’m using the socks to make a quilt for Gavin, to replace the terrible cobwebs that Margie uses. I need perhaps a dozen more socks to finish it. In the meantime, I take the toys to the attic, and give them to Margie. She died old enough that her memory is bad, and she doesn’t remember that the baby she holds is my son. She simply sits in her rocking chair and cuddles his tiny body up against her chest. She tells him how his mother would have loved him, if he’d lived, and she gives him the toys that I bring.&lt;/p&gt;
+
+&lt;p&gt;All ghosts are collectors, even my unborn baby boy. He collects static from the radio and warm water from the bath and muffled voices that come up through the ceiling. Anything that reminds him of the womb. He is trying to recreate me.&lt;/p&gt;
+
+&lt;p&gt;I am tempted, sometimes, to collect my husband’s new baby.  He is pudgy and gurgly and just starting to smile. But he isn’t my baby, and I know all too well the pain that it would cause if I took him from his family. So instead I haunt the house that once was mine, and listen to the children’s laughter, and try to collect only little things that won’t be missed.&lt;/p&gt;
+
+&lt;h4 id=&quot;about-the-author&quot;&gt;About the author&lt;/h4&gt;
+&lt;p&gt;Caroline M. Yoachim lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in &lt;em&gt;Fantasy &amp;amp; Science Fiction&lt;/em&gt;, &lt;em&gt;Clarkesworld&lt;/em&gt;, &lt;em&gt;Asimov’s&lt;/em&gt;, and &lt;em&gt;Lightspeed&lt;/em&gt;, among other places.  Her debut short story collection, &lt;em&gt;Seven Wonders of a Once and Future World &amp;amp; Other Stories&lt;/em&gt;, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at &lt;a href=&quot;carolineyoachim.com&quot;&gt;carolineyoachim.com&lt;/a&gt;.&lt;/p&gt;</content><author><name>Alyssa Wong</name></author><category term="flash fiction" /><summary type="html">The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries. His name is Gavin, and he is thin and wrinkly and covered in fine brown hair. Funny looking, as preemies often are, but sweet nonetheless. Margie keeps him wrapped in a blanket of cobwebs, which I think is disgusting. I’ve always hated spiders.</summary></entry><entry><title type="html">Issue 37 — October 2016</title><link href="http://localhost:4000/magazine/announcement/issue-37-october-2016" rel="alternate" type="text/html" title="Issue 37 — October 2016" /><published>2016-10-01T11:17:05-04:00</published><updated>2016-10-01T11:17:05-04:00</updated><id>http://localhost:4000/magazine/announcement/issue-37-october-2016</id><content type="html" xml:base="http://localhost:4000/magazine/announcement/issue-37-october-2016">&lt;p&gt;Welcome to Issue 37! We’ve got three stories selected by guest editor Daniel José Older this month, all of them creepy in their own ways, in keeping with the Halloween spirit. We open with a wrenching little flash fiction piece, &lt;em&gt;Rabbit Heart&lt;/em&gt; by Alyssa Wong, about a person who rebuilds families one body at a time. Next is Cassanda Khaw’s &lt;em&gt;Speak&lt;/em&gt;, a fierce look inside what passes for news these days, and what is really important.  (This one warmed my black little newsie heart.) And finally we have &lt;em&gt;The Get-Get Man&lt;/em&gt; by Melissa Moorer, a disturbing paranormal story that creeped me right the hell out.
+Thanks as always for reading!&lt;/p&gt;</content><author><name>Brian J. White</name></author><category term="announcement" /><summary type="html">Welcome to Issue 37! We’ve got three stories selected by guest editor Daniel José Older this month, all of them creepy in their own ways, in keeping with the Halloween spirit. We open with a wrenching little flash fiction piece, Rabbit Heart by Alyssa Wong, about a person who rebuilds families one body at a time. Next is Cassanda Khaw’s Speak, a fierce look inside what passes for news these days, and what is really important.  (This one warmed my black little newsie heart.) And finally we have The Get-Get Man by Melissa Moorer, a disturbing paranormal story that creeped me right the hell out.
+Thanks as always for reading!</summary></entry><entry><title type="html">Boldly Going Nowhere</title><link href="http://localhost:4000/magazine/article/boldly-going-nowhere" rel="alternate" type="text/html" title="Boldly Going Nowhere" /><published>2016-08-01T11:17:05-04:00</published><updated>2016-08-01T11:17:05-04:00</updated><id>http://localhost:4000/magazine/article/boldly-going-nowhere</id><content type="html" xml:base="http://localhost:4000/magazine/article/boldly-going-nowhere">&lt;p&gt;I’ve been told that a good internet essay begins with some showcasing of a writer’s voice.
+You want the reader to feel like they’re watching you settle down for a fireside chat. Maybe I’m holding a glass of scotch in my right hand and wearing a classy blazer with those leather shoulder patches. That broadcasts the fact that I’m here in an official capacity, but my casual blue jeans underneath mean I’m just a regular dude, right?
+Feeling chill? Because I’m here, as you relax, to talk to about race and representation in our wonderful field of science fiction and fantasy.&lt;/p&gt;
+
+&lt;p&gt;Oh, before you get up to leave in the back (yeah, I see you), I’m going to start by telling you a personal anecdote about Leonard Nimoy.&lt;/p&gt;
+
+&lt;p&gt;Spock!&lt;/p&gt;
+
+&lt;p&gt;See, telling a personal anecdote is one of the best ways to get past your guard. You relax a little because I’m telling a story (and one about a celebrity, to boot! We know from heavy internet research that a story about a celebrity will hook people even harder!) and not about to hit everyone with a dense article full of annoying things like facts! And research! Which only certain kinds of annoying folk love who haven’t come to terms with the fact that we live in a post-factual world today.&lt;/p&gt;
+
+&lt;p&gt;The truth is I like facts and numbers. It’s the super-rationalist in me. But I’ve come to realize I’m a smaller part of the population. Show me a graph and I’m your man. Yet, I’m a writer, I should understand how much people love stories, how easing someone into an essay with an anecdote solidifies the experience and gives them something to hold onto.&lt;/p&gt;
+
+&lt;p&gt;What does this have to do with Spock?&lt;/p&gt;
+
+&lt;p&gt;Spock would have loved graphs and facts as well. Arched that eyebrow of his and said “fascinating” when you laid some cold truth on him. Spock wouldn’t have gotten on the internet and raged on about people “taking over” his genre. I know that because my whole love of facts and science comes in part from Spock.&lt;/p&gt;
+
+&lt;p&gt;Leonard Nimoy was the first person I saw in media who represented a mixed-race person. Like me! I look white to most people, but my biological father had a pick that he could stick in his hair and go about his business. As a child, I would take one of his picks and stick it in my own long, wavy hair and get pissed off as it ever so slowly would just slide right off my scalp and off to the floor.&lt;/p&gt;
+
+&lt;p&gt;Spock looked like a Vulcan. But he wasn’t. He wasn’t human either. He was always trying to navigate expectations people had of him. Struggling to walk a path that was both, neither, some of everything. He could pass, if he wanted, but he still claimed both sides of his heritage.&lt;/p&gt;
+
+&lt;p&gt;I never met him. I didn’t even know how much of an impact he had on me until the actor Leonard Nimoy passed. I found myself shaken by loss, a vacuum appeared in a place I didn’t even know existed. Unnerved, I realized that seeing a bi-racial character in science fiction was very important on a raw, fundamental level. And I’m likely, in no small amount, “fascinated” by charts and data due to my early fascination with the character Leonard Nimoy embodied.&lt;/p&gt;
+
+&lt;p&gt;Getting validated is really important to us humans. It’s why bands shout out “Hello Grand Rapids, Michigan, we’re excited to be here tonight with you!” and everyone goes nuts “That’s us! They’re talking about us!” An actor mentions a town name in a live interview on late night TV and someone in the crowd shouts an inarticulate “Yeah!” and some sort of energy lands in the air.&lt;/p&gt;
+
+&lt;p&gt;This is why I believe we see pure joy in the eyes of girls who are meeting Daisy Ridley, as they see themselves striding outer space and traversing stars. Why so many women went into forensic science after watching the X-Files as young women. Why I got a little too excited that Rihanna was voicing the main character in the movie Home recently, putting some Caribbean gyal in my science fiction.&lt;/p&gt;
+
+&lt;p&gt;I don’t remember the first time a writer with novels under their belt lecturing new writers in this field told me novels with characters of color didn’t sell, and that I shouldn’t write them. In the late ’90s it was repeated to me with such distressing frequency thatI tuned it out as I set out to build a career that included a diversity of characters.&lt;/p&gt;
+
+&lt;p&gt;I don’t remember the first time I was told there were plenty of diverse writers in the field, and had the same few names repeated to me over and over again.&lt;/p&gt;
+
+&lt;p&gt;I do, however, remember the first time I basically wrote a version of this essay almost ten years ago in 2007. I got tired of people saying the same four names—“Hopkinson, Butler, Delany, Barnes”—as a list of writers of color when I would point out the whiteness of the science fiction field. With some 1,500–2,000 members of the Science Fiction and Fantasy Writers of America (and not every science fiction and fantasy writer is a member of SFWA, and new writers just spooling up might not be), in order for our field to just match the demographics of the USA that meant SFWA should have had at least 150–200 African-American writers because twelve percent of the US population was African-American. Not four. (Were there more than four black SFWA members? Of course. But no one could name them. And there certainly were not 150–200.)&lt;/p&gt;
+
+&lt;p&gt;Well, almost ten years later we have more writers of color. People can now name new names like Kai Ashante Wilson, Saladin Ahmed, Nnedi Okorafor, Wes Chu, Ken Liu, N. K. Jemisin, Karen Lord, Alaya Dawn Johnson, Daniel José Older, Alyssa Wong, and more. This is great, without a doubt I’m excited that in some years I haven’t read every single piece of work by writers of the color out that year, which is how it used to be in my first decade in this field.&lt;/p&gt;
+
+&lt;p&gt;But, in a sad repeat of the essay I wrote in 2007, frustrated by those who kept telling me the field was diverse, this quite simply doesn’t reflect the demographics of the U.S.A, where a lot of English-language science fiction and fantasy is published… let alone reflective of the vast freaking world of billions of people across the globe.&lt;/p&gt;
+
+&lt;p&gt;To match the U.S.A’s demographics, there should be about 200 members of SFWA who would choose African-American on a census bureau questionnaire. 90 who would choose Asian-American. 18 Native-American. 54 like me, who would choose two or more races on the census questionnaire.&lt;/p&gt;
+
+&lt;p&gt;Basically, every time you go see a bunch of writers, in person or in print, about 30% of them should be something other than white.&lt;/p&gt;
+
+&lt;p&gt;Just to reflect demographics.&lt;/p&gt;
+
+&lt;p&gt;If you’re not seeing that, then it’s an indication that something is happening to distort the playing field a certain direction. And the growth over the last ten years has been slow. In ten years, at this growth rate, we’ll still be very far from the hundreds of writers in the field we should be seeing.&lt;/p&gt;
+
+&lt;p&gt;So back to Spock. Here in this report from Fireside, you’re going to see lot of data and graphs that show some facts. They show the facts that as a genre—one I love and have chosen to make my living and invest many years of my life writing—we’re still radically unrepresentative. And the first rule of fixing an issue is to recognize and admit it.&lt;/p&gt;
+
+&lt;p&gt;I think Spock would have found the evidence incontrovertible. And hopefully my anecdotes helped you realize the impact representation, both in terms of characters and writers who can bring those characters to life, can have on making sure that we all see ourselves in the future. That we all get inspired by our genre.&lt;/p&gt;
+
+&lt;p&gt;So the question I pose is going to be quite direct. What are you going to do to help change this?&lt;/p&gt;</content><author><name>Tobias Buckell</name></author><category term="essay" /><summary type="html">I’ve been told that a good internet essay begins with some showcasing of a writer’s voice.
+You want the reader to feel like they’re watching you settle down for a fireside chat. Maybe I’m holding a glass of scotch in my right hand and wearing a classy blazer with those leather shoulder patches. That broadcasts the fact that I’m here in an official capacity, but my casual blue jeans underneath mean I’m just a regular dude, right?
+Feeling chill? Because I’m here, as you relax, to talk to about race and representation in our wonderful field of science fiction and fantasy.</summary></entry></feed>

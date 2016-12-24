@@ -1,0 +1,74 @@
+/*------------------------------------*\
+    $BUTTONS
+\*------------------------------------*/
+.btn {
+	display: inline-block;
+	background: $color__highlight;
+	color: $white;
+	line-height: 1;
+	padding: $pad;
+	margin-top: $space;
+	margin-bottom: $space;
+	border: 0;
+	border-radius: $border-radius;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 300;
+	@include transition(background, 0.4s, ease-in-out);
+
+	&:hover, &:focus {
+		background: $color__highlight--focus;
+		border: 10px, $color__highlight--focus;
+		color: $white;
+	}
+
+	&.disabled {
+		background: $gray-light-2;
+		color: $gray;
+	}
+}
+
+.btn-small {
+	padding: $pad-half;
+}
+
+.btn-large {
+	text-transform: uppercase;
+	font-size: 1.4rem;
+}
+
+
+.text-btn {
+	font-style: italic;
+	color: $color__highlight;
+	@include transition(color, 0.4s, ease-in-out);
+
+	&:hover, &:focus {
+		color: $color__highlight--focus;
+	}
+}
+
+.reverse {
+	display: inline-block;
+	background: $white;
+	color: $color__highlight;
+	border: 1px solid $color__highlight;
+	&:hover, &:focus {
+		background: $color__highlight--focus;
+		border: 1px solid $white;
+		color: $white;
+	}
+}
+
+.donate {
+	display: inline-block;
+	background: $white;
+	color: $color__highlight;
+	border: none;
+	max-width: 20em;
+	padding: 0;
+	line-height: 0;
+	&:hover {
+		background: none;
+	}
+}

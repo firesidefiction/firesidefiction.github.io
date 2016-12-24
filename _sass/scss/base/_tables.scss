@@ -1,0 +1,52 @@
+/*------------------------------------*\
+    $Table
+\*------------------------------------*/
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 1px solid $color__base;
+	width: 100%;
+}
+th {
+	text-align: left;
+	border: 1px solid $color__base;
+	padding: 0.2em;
+}
+td {
+	border: 1px solid $color__base;
+	padding: 0.2em;
+}
+
+.content-note-container {
+	border: 1px solid $color__highlight;
+	padding: $pad;
+}
+.content-note {
+	//font-size: $font-size-large;
+	font-weight: 100;
+	border: none;
+	width: auto;
+	margin: 0 auto;
+	h3 {
+		font-weight: 300;
+	}
+	td, th {
+		border: none;
+	}
+	.score {
+		text-align: right;
+		//font-size: $font-size-large;
+		color: $color__highlight--focus;
+		//line-height: $font-size-med-2;
+	}
+}
+
+.legend {
+	border: 1px solid $color__base--light;
+	//font-size: $font-size-small;
+	font-weight: 400;
+	margin: $space-and-half auto $space-double;
+	.score {
+		color: $color__base;
+	}
+}
