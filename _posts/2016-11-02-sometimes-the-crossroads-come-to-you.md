@@ -6,6 +6,7 @@ date:   2016-11-02 10:17:05 -0500
 category: short story
 permalink: /issue38/chapter/23/
 teaser: "“If you’re darker than warm beige we don’t recommend using this unit to visit the past prior to 2150. Only go into the recent past, or into the future.”"
+published: true
 ---
 “If you’re darker than warm beige we don’t recommend using this unit to visit the past prior to 2150. Only go into the recent past, or into the future.” The salesbot made a point of making eye contact with me as it highlighted that shade on the color chart. “Of course, if you choose one of the upgraded holo-projecting units, then you can visit any time you like; they are guaranteed to give the best appearance for any period.”
 

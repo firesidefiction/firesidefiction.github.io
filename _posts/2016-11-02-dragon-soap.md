@@ -6,6 +6,7 @@ date:   2016-11-02 10:17:05 -0500
 category: short story
 permalink: /issue38/chapter/25/
 teaser: "Gran never did like it when I used the Winchester to deal with dragons — so I went and did a damn fool thing and set out to hunt them in the dead of night. It wasn’t hard to sneak by Gran. She snored twice as loud as she barked, which was saying something."
+published: true
 ---
 FIXME add Illustration with caption="Illustration by Galen Dara" alt="A woman crouches calf-deep in a swamp, rifle at the ready. Dragon surround her.""
 

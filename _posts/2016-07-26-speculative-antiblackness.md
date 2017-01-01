@@ -6,6 +6,7 @@ date:   2016-07-26 10:17:05 -0500
 category: essay
 permalink: article/speculative-antiblackness
 teaser: "My name is Troy. I am a black man born of black parents, and I’ve been a black man for about thirty years."
+published: true
 ---
 Before I get into the meat of the thing, allow me to introduce myself.
 

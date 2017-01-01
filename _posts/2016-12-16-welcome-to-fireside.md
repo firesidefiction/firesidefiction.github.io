@@ -6,6 +6,7 @@ date:   2016-12-16 10:17:05 -0500
 category: news
 permalink: /news/welcome-to-the-fireside-beta
 teaser: "Help me kick some tires."
+published: true
 ---
 This is the all-new beta site for Fireside Magazine. It runs on a static site generator called [Jekyll](https://jekyllrb.com), and is served off [Github Pages](https://pages.github.com). The idea is that, with a little bit of Markdown and Git knowledge, we can make Fireside production as simple as editing some plain text flies in a folder, and making a push to [the Fireside git repository](https://github.com/firesidefiction/magazine "The Fireside Magazine repository on GitHub").
 

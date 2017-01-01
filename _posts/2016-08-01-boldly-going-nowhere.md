@@ -6,6 +6,7 @@ date:   2016-08-01 10:17:05 -0500
 category: essay
 permalink: article/boldly-going-nowhere
 teaser: "Leonard Nimoy was the first person I saw in media who represented a mixed-race person. Like me!"
+published: true
 ---
 I’ve been told that a good internet essay begins with some showcasing of a writer’s voice.
 You want the reader to feel like they’re watching you settle down for a fireside chat. Maybe I’m holding a glass of scotch in my right hand and wearing a classy blazer with those leather shoulder patches. That broadcasts the fact that I’m here in an official capacity, but my casual blue jeans underneath mean I’m just a regular dude, right?
