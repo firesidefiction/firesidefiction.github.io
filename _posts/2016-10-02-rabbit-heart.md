@@ -4,7 +4,7 @@ title:  Rabbit Heart
 author: Alyssa Wong
 date:   2016-10-02 10:17:05 -0500
 category: flash fiction
-permalink: /flash-fiction/rabbit-heart
+permalink: /issue37/chapter/rabbit-heart/
 teaser: "The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries. His name is Gavin, and he is thin and wrinkly and covered in fine brown hair."
 ---
 The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries. His name is Gavin, and he is thin and wrinkly and covered in fine brown hair. Funny looking, as preemies often are, but sweet nonetheless. Margie keeps him wrapped in a blanket of cobwebs, which I think is disgusting. I’ve always hated spiders.

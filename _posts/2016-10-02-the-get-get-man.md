@@ -4,7 +4,7 @@ title:  The Get-Get Man
 author: Melissa Moorer
 date:   2016-10-02 10:17:05 -0500
 category: short story
-permalink: /short-story/the-get-get-man
+permalink: /issue37/chapter/the-get-get-man/
 teaser: "The Get-Get Man travels at night, sharp as a scalpel, dark as soot. He cuts through the yards and streets, slicing and taking what doesn’t make way. They say you can only see him from the side."
 ---
 _Selected by guest editor Daniel José Older_
