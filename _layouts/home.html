@@ -10,6 +10,11 @@ layout: default
     {% for post in paginator.posts %}
       {% if post.category == "short story" or post.category == "flash fiction" %}
         <div class="entry story">
+          {% if post.art %}
+            <figure>
+              <img class="" src="{{ site.url }}/magazine/illustration/{{ post.art }}" alt="{{ post.caption }}">
+            </figure>
+          {% endif %}
           <h4>{{ post.category }}</h4>
           <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
           <h3>by {{ post.author }}</h3>
@@ -25,19 +30,7 @@ layout: default
       {% endif %}
     {% endfor %}
 
-    <ol class="pagination">
-      {% if paginator.previous_page %}
-        <li class="previous"><a href="{{ paginator.previous_page_path | relative_url }}">Previous</a></li>
-      {% else %}
-        <li></li>
-      {% endif %}
-        <li class="current">Page {{ paginator.page }} of {{ paginator.total_pages }}</li>
-      {% if paginator.next_page %}
-      	<li class="next"><a href="{{ paginator.next_page_path | relative_url }}">Next</a></li>
-      {% else %}
-        <li></li>
-      {% endif %}
-    </ol>
+    {% include pagination.html %}
 
 <!-- FIXME add category tabs here -->
 

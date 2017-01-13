@@ -7,6 +7,9 @@ category: short story
 permalink: /issue37/chapter/the-get-get-man/
 teaser: "The Get-Get Man travels at night, sharp as a scalpel, dark as soot. He cuts through the yards and streets, slicing and taking what doesn’t make way. They say you can only see him from the side."
 published: true
+art: the-get-get-man.jpg
+caption: Illustration for the get get man.
+artist: Galen Dara
 ---
 _Selected by guest editor Daniel José Older_
 

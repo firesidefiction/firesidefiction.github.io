@@ -2,12 +2,17 @@
 layout: default
 ---
 {% include magazine-logo.html %}
-
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+{% if page.art %}
+  <figure>
+    <img class="" src="{{ site.url }}/magazine/illustration/{{ page.art }}" alt="{{ page.caption }}">
+  </figure>
+{% endif %}
+<article class="post">
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    {% if page.artist %}<p>Illustration by {{ page.artist }}</p>{% endif %}
   </header>
 
   <div class="post-content" itemprop="articleBody">
