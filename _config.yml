@@ -22,11 +22,13 @@ url: "firesidefiction.github.io" # the base hostname & protocol for your site, e
 twitter_username: firesidefiction
 github_username:  firesidefiction
 google_analytics: UA-42281130-2
+paginate: 10
 
 # Build settings
 markdown: kramdown
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock

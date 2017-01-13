@@ -45,22 +45,24 @@ footer nav ul {
 	justify-content: center;
 
 	li {
-		border-right: 1px solid lighten($color__base--light, 30%);
-		font-weight: 100;
-		&:last-child {
-			border: 0;
-		}
+		font-weight: 300;
 	}
 	a {
-		padding: $pad;
+		padding: 0 $pad;
 		color: $color__highlight;
 		@include transition(background-color, 0.3s, ease);
 		&:hover {
 			color: $color__highlight--focus;
 		}
 	}
-	.current a {
-		color: $color__base--light;
+	.current {
+		padding: 0 $pad;
+	}
+	.previous {
+		border-right: 1px solid lighten($color__base--light, 30%);
+	}
+	.next {
+		border-left: 1px solid lighten($color__base--light, 30%);
 	}
 }
 

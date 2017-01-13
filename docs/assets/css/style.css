@@ -287,11 +287,12 @@ header nav ul a { color: #fff; }
 @media all and (max-width: 46.8em) { footer nav ul { display: inline; text-align: left; } }
 
 .pagination { overflow: hidden; display: flex; justify-content: center; }
-.pagination li { border-right: 1px solid #dadada; font-weight: 100; }
-.pagination li:last-child { border: 0; }
-.pagination a { padding: 1em; color: #610C0D; -webkit-transition: background-color 0.3s ease; -moz-transition: background-color 0.3s ease; -ms-transition: background-color 0.3s ease; -o-transition: background-color 0.3s ease; transition: background-color 0.3s ease; }
+.pagination li { font-weight: 300; }
+.pagination a { padding: 0 1em; color: #610C0D; -webkit-transition: background-color 0.3s ease; -moz-transition: background-color 0.3s ease; -ms-transition: background-color 0.3s ease; -o-transition: background-color 0.3s ease; transition: background-color 0.3s ease; }
 .pagination a:hover { color: #8e1213; }
-.pagination .current a { color: #8d8d8d; }
+.pagination .current { padding: 0 1em; }
+.pagination .previous { border-right: 1px solid #dadada; }
+.pagination .next { border-left: 1px solid #dadada; }
 
 .sidenav { max-width: 20em; margin: 0 auto; }
 .sidenav ul { padding: 0 0 0 1em; }
