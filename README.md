@@ -59,48 +59,48 @@ Some of the parameters are required, and some are optional. If you're not going 
 
 The parameters in the front matter are pretty self-explanatory,  but let's go over what each one means one by one anyway.
 
-### `layout: story | post | article`
+##### `layout: story | post | article`
 The `layout` parameter is **required**. It tells Jekyll what this document should look like.
 Only one of three values are allowed: `story` for fiction, `post` for news items, and `article` for nonfiction.
 
-### `title:  The Title of The Thing`
+##### `title:  The Title of The Thing`
 The `title` parameter is **required**. It tells Jekyll what the display title of the content should be.
 This parameter allows free-form text. (The only exception is colons. Since YAML uses colons for its notation, if we need a colon in our text, we need to escape it as `&#58`, or consider using something else, like an em dash.)
 
-### `author: Author Name`
+##### `author: Author Name`
 The `author` parameter is **required**. It tells Jekyll who wrote the thing.
 This parameter allows free-form text.
 
-### `date: 2017-mm-dd 12:00:01 -0500`
+##### `date: 2017-mm-dd 12:00:01 -0500`
 The `date` parameter is **required**. It tells Jekyll what publishing date to display along with the content.
 This parameter needs the date to be in the particular format shown:  `yyyy-mm-dd hh:mm:ss: -0500`. The date is important, but we don't really care about the time, so we always leave that set to `12:00:01 -0500`, which is midnight on Eastern Standard Time.
 
-### `category: short story | flash fiction | announcement | essay`
+##### `category: short story | flash fiction | announcement | essay`
 The `category` parameter is **required**. It tells Jekyll what label to use when presenting the content on the site. 
 This parameter can take free-form text, but Jekyll will give the four categories listed — `short story`, `flash fiction`, `announcement`, and `article` — special treatment, so we want to stick to those. If you want to add a new category, let Pablo know, so that he can tell Jekyll to treat it special, too.
 
-### `permalink: the-title-of-the-thing | /issue38/chapter/25/`
+##### `permalink: the-title-of-the-thing | /issue38/chapter/25/`
 The `permalink` parameter is **required**. It sets a custom permalink piece of content.
 For new content, we will be using clean, human-readable URLs that match the title of the piece of content. For instance, if the `permalink` parameter is set to `dragon-soap`, the URL for the story will be `fireisdefiction.com/dragon-soap`. For content that we're migrating from Wordpress, we will want to keep the content's current URL, so that we don't break existing links, so we use everything after the 'fireisdefiction.com' part of the Wordpress URL.
 
-### `published: true | false`
+##### `published: true | false`
 The `published` parameter is **required**. It tells Jekyll to either publish the piece of content, or ignore it if it's not ready yet.
 Only two values are allowed: `true` or `false`.
 
 
-### `teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."`
+##### `teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."`
 The `teaser` parameter is **optional**. It should be a short summary or teaser for the piece of content. It can be a direct quote form the piece, or something new. This will show up on the homepage.
 This parameter allows free-form text.
 
-### `art: the-title-of-the-thing.jpg`
+##### `art: the-title-of-the-thing.jpg`
 The `art` parameter is **optional**. It tells Jekyll the file name of an accompanying featured illustration.
 This parameter takes a filename, which should be the same as the permalink based on the title of the piece, and it must include the file extension (.jpg, for instance).
 
-### `caption: A description of the artwork for screen readers`
+##### `caption: A description of the artwork for screen readers`
 The `caption` parameter is **required** if you also include the `art` parameter. It sets a description of the image as alt-text for screen readers. It should be a short description of the content of the image, itself, as opposed to a description of what the image is. For instance, it should read "A woman crouching in a swamp, with a rifle in her hand." rather than "Illustration for the story Dragon Soap."
 This parameter allows free-form text.
 
-### `artist: Galen Dara`
+##### `artist: Galen Dara`
 The `artist` parameter is **required** if you also include the `art` parameter. It sets the artist name for the featured illustration.
 This parameter allows free-form text.
 
