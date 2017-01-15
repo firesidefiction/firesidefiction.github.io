@@ -2,10 +2,17 @@
 This is the source for Fireside Magazine. It runs on (Jekyll)[https://jekyllrb.com], and is served off (Github Pages)[https://pages.github.com]. The idea is that, with a little bit of Markdown and Git knowledge, we can make Fireside production as simple as editing some plain text flies in a folder, and making a push to (the Fireside git repository)[https://github.com/firesidefiction].
 
 # Writing and editing content in Fireside
-You can update the content on fireside magazine by editing the text files inside the `_posts` folder.
+You can update the content on Fireside magazine by editing the text files inside the `_posts` folder.
+
 Fireside is written and edited in raw text files, using Markdown, a plain text formatting syntax system. This allows editors to focus on consistent, semantic formatting of the content, rather than worry about presentation, which can change from platform to platform and over time.
 
 Our site's robot helper, Jekyll, automatically converts raw text files written in Markdown into HTML when we publish. This guide outlines the rules we need to follow to ensure that Jekyll doesn't get confused. Robots are so needy. Anyway, onward.
+
+All Fireside documents *must* be named using the following naming convention:
+
+`yyyy-mm-dd-title-of-the-thing.md`
+
+The year, month, and date must correspond to the day it was published, and the rest of the text should be the title of the piece. The `.md` file extension indicates it's a Markdown file.
 
 Each Fireside document is composed of three parts:
 - The Front Matter
@@ -81,7 +88,7 @@ The `published` parameter is **required**. It tells Jekyll to either publish the
 Only two values are allowed: `true` or `false`.
 
 
-### `teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."` 
+### `teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."`
 The `teaser` parameter is **optional**. It should be a short summary or teaser for the piece of content. It can be a direct quote form the piece, or something new. This will show up on the homepage.
 This parameter allows free-form text.
 
@@ -103,7 +110,7 @@ The content section is where the, um, content of the piece goes. This is where w
 - use double underscores or asterisks for **strong emphasis**
 - write links like this: [link text](http://url.com)
 - use four dashes for section breaks: ---- 
-- use a > for blockquotes
+- use a \> for blockquotes
 - add a blank line between paragraphs, otherwise the line will be a regular carriage return, not the start of a new paragraph.
 
 ## Author Bio
