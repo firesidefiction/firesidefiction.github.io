@@ -18,18 +18,32 @@ Let's go through each one individually.
 Every piece of content that we post to Fireside *must* include front matter. The front matter *must* be the first thing in the document, and *must* be surrounded by three dashes. The front matter *must* be in YAML format, which is simply: `parameter: value`.
 
 Here's what it looks like: 
+like: 
+
 > ---
+> 
 > layout: story | post | article
+> 
 > title:  The Title of The Thing
+> 
 > author: Author Name
+> 
 > date:   2017-mm-de 12:00:01 -0500
+> 
 > category: short story | flash fiction | announcement | essay
+> 
 > permalink: the-title-of-the-thing | /issue38/chapter/25/
+> 
 > published: true | false
+> 
 > teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."
+> 
 > art: the-title-of-the-thing.jpg
+> 
 > caption: A description of the artwork for screen readers
+> 
 > artist: Galen Dara
+> 
 > ---
 
 Simple, right? The above template includes all the parameters available, and all the values possible, separated by pipes ( | ). You can copy/paste it directly into your document as a starting point. 
