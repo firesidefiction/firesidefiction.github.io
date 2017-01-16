@@ -1,5 +1,5 @@
 # Fireside Magazine
-This is the source for Fireside Magazine. It runs on (Jekyll)[https://jekyllrb.com], and is served off (Github Pages)[https://pages.github.com]. The idea is that, with a little bit of Markdown and Git knowledge, we can make Fireside production as simple as editing some plain text flies in a folder, and making a push to (the Fireside git repository)[https://github.com/firesidefiction].
+This is the source for Fireside Magazine. It runs on [Jekyll](https://jekyllrb.com), and is served off [Github Pages](https://pages.github.com). The idea is that, with a little bit of Markdown and Git knowledge, we can make Fireside production as simple as editing some plain text flies in a folder, and making a push to (the Fireside git repository)[https://github.com/firesidefiction].
 
 # Getting set up
 Before you can update the content on fireside, you need to clone the git repository for the site to your computer or tablet. In order to do that you’ll need to set up a user account at [GitHub](https://github.com), and download the [GitHub Desktop app for Mac or Windows](https://desktop.github.com). If you’re working in iOS, you can download [Working Copy](https://workingcopyapp.com) instead.
