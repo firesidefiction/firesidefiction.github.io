@@ -1,6 +1,9 @@
 # Fireside Magazine
 This is the source for Fireside Magazine. It runs on (Jekyll)[https://jekyllrb.com], and is served off (Github Pages)[https://pages.github.com]. The idea is that, with a little bit of Markdown and Git knowledge, we can make Fireside production as simple as editing some plain text flies in a folder, and making a push to (the Fireside git repository)[https://github.com/firesidefiction].
 
+# Getting set up
+Before you can update the content on fireside, you need to clone the git repository for the site to your computer or tablet. In order to do that you’ll need to set up a user account at [GitHub](https://github.com), and download the [GitHub Desktop app for Mac or Windows](https://desktop.github.com). If you’re working in iOS, you can download [Working Copy](https://workingcopyapp.com) instead.
+
 # Writing and editing content in Fireside
 You can update the content on Fireside magazine by editing the text files inside the `_posts` folder.
 
@@ -24,36 +27,36 @@ Let's go through each one individually.
 ## Front matter
 Every piece of content that we post to Fireside *must* include front matter. The front matter *must* be the first thing in the document, and *must* be surrounded by three dashes. The front matter *must* be in YAML format, which is simply: `parameter: value`.
 
-Here's what it looks like: 
-like: 
+Here's what it looks like:
+like:
 
 > ---
-> 
+>
 > layout: story | post | article
-> 
+>
 > title:  The Title of The Thing
-> 
+>
 > author: Author Name
-> 
+>
 > date:   2017-mm-de 12:00:01 -0500
-> 
+>
 > category: short story | flash fiction | announcement | essay
-> 
+>
 > permalink: the-title-of-the-thing | /issue38/chapter/25/
-> 
+>
 > published: true | false
-> 
+>
 > teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."
-> 
+>
 > art: the-title-of-the-thing.jpg
-> 
+>
 > caption: A description of the artwork for screen readers
-> 
+>
 > artist: Galen Dara
-> 
+>
 > ---
 
-Simple, right? The above template includes all the parameters available, and all the values possible, separated by pipes ( | ). You can copy/paste it directly into your document as a starting point. 
+Simple, right? The above template includes all the parameters available, and all the values possible, separated by pipes ( | ). You can copy/paste it directly into your document as a starting point.
 
 Some of the parameters are required, and some are optional. If you're not going to use an optional parameter, simply delete it — but don't just leave it blank. That will confuse the robot.
 
@@ -76,7 +79,7 @@ The `date` parameter is **required**. It tells Jekyll what publishing date to di
 This parameter needs the date to be in the particular format shown:  `yyyy-mm-dd hh:mm:ss: -0500`. The date is important, but we don't really care about the time, so we always leave that set to `12:00:01 -0500`, which is midnight on Eastern Standard Time.
 
 ##### `category: short story | flash fiction | announcement | essay`
-The `category` parameter is **required**. It tells Jekyll what label to use when presenting the content on the site. 
+The `category` parameter is **required**. It tells Jekyll what label to use when presenting the content on the site.
 This parameter can take free-form text, but Jekyll will give the four categories listed — `short story`, `flash fiction`, `announcement`, and `article` — special treatment, so we want to stick to those. If you want to add a new category, let Pablo know, so that he can tell Jekyll to treat it special, too.
 
 ##### `permalink: the-title-of-the-thing | /issue38/chapter/25/`
@@ -109,7 +112,7 @@ The content section is where the, um, content of the piece goes. This is where w
 - use single underscores or asterisks for _emphasis_
 - use double underscores or asterisks for **strong emphasis**
 - write links like this: [link text](http://url.com)
-- use four dashes for section breaks: ---- 
+- use four dashes for section breaks: ----
 - use a \> for blockquotes
 - add a blank line between paragraphs, otherwise the line will be a regular carriage return, not the start of a new paragraph.
 
