@@ -4,6 +4,15 @@ This is the source for Fireside Magazine. It runs on (Jekyll)[https://jekyllrb.c
 # Getting set up
 Before you can update the content on fireside, you need to clone the git repository for the site to your computer or tablet. In order to do that you’ll need to set up a user account at [GitHub](https://github.com), and download the [GitHub Desktop app for Mac or Windows](https://desktop.github.com). If you’re working in iOS, you can download [Working Copy](https://workingcopyapp.com) instead.
 
+## Setting up your local repository
+First, install the appropriate git app on your system. Once that's done, and you've signed into the app using your GitHub credentials, it's time to 'clone' the repository. 
+
+### On macOS or Windows
+Go to the [Fireside Magazine repo](https://github.com/firesidefiction/magazine), click the 'Clone or Download' button, then click 'Open in Desktop.' Your GitHub Desktop app should automatically launch, and present you with a save window. Once you've saved the repo somewhere on your system, you're ready to work.
+
+### On iOS
+In Working Copy, tap on the `+` sign and select 'Clone repository.' And select the 'firesidefiction: magazine' repository.
+
 # Writing and editing content in Fireside
 You can update the content on Fireside magazine by editing the text files inside the `_posts` folder.
 
@@ -31,29 +40,29 @@ Here's what it looks like:
 like:
 
 > ---
->
+> 
 > layout: story | post | article
->
+> 
 > title:  The Title of The Thing
->
+> 
 > author: Author Name
->
+> 
 > date:   2017-mm-de 12:00:01 -0500
->
+> 
 > category: short story | flash fiction | announcement | essay
->
+> 
 > permalink: the-title-of-the-thing | /issue38/chapter/25/
->
+> 
 > published: true | false
->
+> 
 > teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."
->
+> 
 > art: the-title-of-the-thing.jpg
->
+> 
 > caption: A description of the artwork for screen readers
->
+> 
 > artist: Galen Dara
->
+> 
 > ---
 
 Simple, right? The above template includes all the parameters available, and all the values possible, separated by pipes ( | ). You can copy/paste it directly into your document as a starting point.
