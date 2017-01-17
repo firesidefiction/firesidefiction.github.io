@@ -4,7 +4,7 @@ title: About Fireside Fiction Company
 permalink: /about/
 ---
 
-## What is Fireside Magazine?
+## What the hell is Fireside?
 Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story magazine. We have two goals: to find and publish great stories regardless of genre, and to pay our writers and artists well. We’ve published dozens of writers since then, from well-known names to authors making their first sale. We put out three issues in 2012, and were able to shift to monthly issues in 2013.
 
 [back to the top](#masthead)
