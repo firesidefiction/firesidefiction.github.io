@@ -2,7 +2,7 @@
 layout: story
 title:  Delta Child
 author: Malon Edwards
-date:   2016-09-02 10:17:05 -0500
+date:   2016-09-02 12:01:00 -0500
 category: flash fiction
 permalink: /issue36/chapter/delta-child/
 teaser: "As long as I eat, I heal. Today, it’s my rotted right arm that needs it."
