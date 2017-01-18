@@ -96,7 +96,7 @@ This parameter needs the date to be in the particular format shown:  `yyyy-mm-dd
 
 ##### `category: short story | flash fiction | announcement | essay | book`
 The `category` parameter is **required**. It tells Jekyll what label to use when presenting the content on the site.
-This parameter can take free-form text, but Jekyll will give the five categories listed — `short story`, `flash fiction`, `announcement`, `article`, and `book` — special treatment, so we want to stick to those. If you want to add a new category, let Pablo know, so that he can tell Jekyll to treat it special, too.
+This parameter can take free-form text, but Jekyll will give the five categories listed — `short story`, `flash fiction`, `announcement`, `essay`, and `book` — special treatment, so we want to stick to those. If you want to add a new category, let Pablo know, so that he can tell Jekyll to treat it special, too.
 
 ##### `permalink: the-title-of-the-thing | /issue38/chapter/25/`
 The `permalink` parameter is **required**. It sets a custom permalink piece of content.
