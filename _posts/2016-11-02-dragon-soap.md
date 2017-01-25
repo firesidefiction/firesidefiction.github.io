@@ -2,7 +2,7 @@
 layout: story
 title:  Dragon Soap
 author: M.K. Hutchins
-date:   2016-11-02 10:17:05 -0500
+date:   2016-11-02 12:01:00 -0500
 category: short story
 permalink: /issue38/chapter/25/
 teaser: "Gran never did like it when I used the Winchester to deal with dragons — so I went and did a damn fool thing and set out to hunt them in the dead of night. It wasn’t hard to sneak by Gran. She snored twice as loud as she barked, which was saying something."

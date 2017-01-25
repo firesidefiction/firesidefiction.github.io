@@ -2,7 +2,7 @@
 layout: story
 title:  Rabbit Heart
 author: Alyssa Wong
-date:   2016-10-02 10:17:05 -0500
+date:   2016-10-02 12:01:00 -0500
 category: flash fiction
 permalink: /issue37/chapter/rabbit-heart/
 teaser: "The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries. His name is Gavin, and he is thin and wrinkly and covered in fine brown hair."

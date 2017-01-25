@@ -2,7 +2,7 @@
 layout: story
 title:  Ariadne, Abandoned on Naxos
 author: S.M. Mack
-date:   2016-08-01 10:17:05 -0500
+date:   2016-08-01 12:01:00 -0500
 category: short story
 permalink: /issue35/chapter/ariadne-abandoned-on-naxos/
 teaser: "You are six when your mother is cursed."

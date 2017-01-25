@@ -2,7 +2,7 @@
 layout: story
 title:  Emergency Management Protocol
 author: C. C. S. Ryan
-date:   2016-09-04 10:17:05 -0500
+date:   2016-09-04 12:01:00 -0500
 category: short story
 permalink: /issue36/chapter/emergency-management-protocol/
 teaser: "You want to see a whole year into the future, kid?"

@@ -2,7 +2,7 @@
 layout: story
 title:  Paperclips and Memories and Things That Won’t Be Missed
 author: Caroline M. Yoachim
-date:   2016-11-02 10:17:05 -0500
+date:   2016-11-02 12:01:00 -0500
 category: flash fiction
 permalink: /issue38/chapter/21/
 teaser: "The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries."

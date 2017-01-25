@@ -2,7 +2,7 @@
 layout: post
 title:  Welcome to the Fireside Beta Site
 author: Pablo Defendini
-date:   2016-12-16 10:17:05 -0500
+date:   2016-12-16 12:01:00 -0500
 category: news
 permalink: /news/welcome-to-the-fireside-beta
 teaser: "Help me kick some tires."

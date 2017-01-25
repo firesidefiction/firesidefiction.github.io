@@ -2,7 +2,7 @@
 layout: story
 title:  Sometimes the Crossroads Come to You
 author: Mikki Kendall
-date:   2016-11-02 10:17:05 -0500
+date:   2016-11-02 12:01:00 -0500
 category: short story
 permalink: /issue38/chapter/23/
 teaser: "“If you’re darker than warm beige we don’t recommend using this unit to visit the past prior to 2150. Only go into the recent past, or into the future.”"
