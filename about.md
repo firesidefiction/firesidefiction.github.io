@@ -1,5 +1,5 @@
 ﻿---
-layout: books
+layout: about
 title: AboutFireside Fiction Company
 permalink: /about/
 ---
