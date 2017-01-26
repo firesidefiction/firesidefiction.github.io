@@ -1,6 +1,6 @@
 ﻿---
 layout: about
-title: About Fireside Fiction Company
+title: AboutFireside Fiction Company
 permalink: /about/
 ---
 
