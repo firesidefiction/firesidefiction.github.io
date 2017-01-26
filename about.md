@@ -1,7 +1,9 @@
 ﻿---
+
 layout: about
 title: About Fireside Fiction Company
 permalink: /about/
+
 ---
 
 ## What is Fireside?
