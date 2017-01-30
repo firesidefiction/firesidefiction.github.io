@@ -5,7 +5,7 @@ This is the source for Fireside Magazine. It runs on [Jekyll](https://jekyllrb.c
 Before you can update the content on fireside, you need to clone the git repository for the site to your computer or tablet. In order to do that you’ll need to set up a user account at [GitHub](https://github.com), and download the [GitHub Desktop app for Mac or Windows](https://desktop.github.com). If you’re working in iOS, you can download [Working Copy](https://workingcopyapp.com) instead.
 
 ## Setting up your local repository
-First, install the appropriate git app on your system. Once that's done, and you've signed into the app using your GitHub credentials, it's time to 'clone' the repository. 
+First, install the appropriate git app on your system. Once that's done, and you've signed into the app using your GitHub credentials, it's time to 'clone' the repository.
 
 ### On macOS or Windows
 Go to the [Fireside Magazine repo](https://github.com/firesidefiction/magazine), click the 'Clone or Download' button, then click 'Open in Desktop.' Your GitHub Desktop app should automatically launch, and present you with a save window. Once you've saved the repo somewhere on your system, you're ready to work.
@@ -47,29 +47,29 @@ Here's what it looks like:
 like:
 
 > ---
-> 
+>
 > layout: story | post | article | book
-> 
+>
 > title:  The Title of The Thing
-> 
+>
 > author: Author Name
-> 
+>
 > date:   2017-mm-de 12:00:01 -0500
-> 
+>
 > category: short story | flash fiction | announcement | essay | book
-> 
+>
 > permalink: the-title-of-the-thing | /issue38/chapter/25/
-> 
+>
 > published: true | false
-> 
+>
 > teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."
-> 
+>
 > art: the-title-of-the-thing.jpg
-> 
+>
 > caption: A description of the artwork for screen readers
-> 
+>
 > artist: Galen Dara
-> 
+>
 > ---
 
 Simple, right? The above template includes all the parameters available, and all the values possible, separated by pipes ( | ). You can copy/paste it directly into your document as a starting point.
@@ -82,9 +82,9 @@ The parameters in the front matter are pretty self-explanatory,  but let's go ov
 The `layout` parameter is **required**. It tells Jekyll what this document should look like.
 Only one of three values are allowed: `story` for fiction, `post` for news items, `article` for nonfiction, and `book` for book promo pages.
 
-##### `title:  The Title of The Thing`
+##### `title:  "The Title of The Thing"`
 The `title` parameter is **required**. It tells Jekyll what the display title of the content should be.
-This parameter allows free-form text. _(The only exception is colons. Since YAML uses colons for its notation, if we need a colon in our text, we need to escape it as `&#58`, or consider using something else, like an em dash.)_
+This parameter allows free-form text. In order for all characters to read properly, the text of the title *must* be surrounded by double quotes.
 
 ##### `author: Author Name`
 The `author` parameter is **required**. It tells Jekyll who wrote the thing.
@@ -110,7 +110,7 @@ Only two values are allowed: `true` or `false`.
 
 ##### `teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."`
 The `teaser` parameter is **optional**. It should be a short summary or teaser for the piece of content. It can be a direct quote form the piece, or something new. This will show up on the homepage.
-This parameter allows free-form text.
+This parameter allows free-form text. In order for all characters to read properly, the text of the title *must* be surrounded by double quotes.
 
 ##### `art: the-title-of-the-thing.jpg`
 The `art` parameter is **optional**. It tells Jekyll the file name of an accompanying featured illustration.
@@ -136,10 +136,29 @@ The content section is where the, um, content of the piece goes. This is where w
 ## Author Bio
 TK (I'm still not sure how I'm going to deal with this — whether they will be hard coded into each story or whether I'll add them as an include working off a data file.)
 
-# Publishing to the site
-The Fireside website updates its contents as soon as you publish, or 'push', your changes to the 'magazine' repository on GitHub.com. 
+## Artwork requirements and layout guidelines
 
-As you've been working on your device, your git client application has been keeping track of your changes. Each time you complete a significant chunk of work, you should write a short commit message describing the changes that you've made, and commit your changes to your local repository. 
+All illustrations go in the `illustration` folder. They *must* measure 3200 x 1800 pixels and *must* be named `title-of-the-story.jpg` — all lower case, dashes instead of spaces.
+
+All other images go in the `images` folder.
+
+When a story is first published on the site, it takes the top position on the homepage. If the story has a featured image, the image will bleed off the screen, slide under the logotype of the magazine, and will butt up directly against the bottom of the site header. This is the same presentation we use on individual story pages.
+
+Depending on what the top middle of the illustration contains, the logotype on the homepage could become obscured by the illustration, but that's OK—the bold presentation of the white icon over the red header is enough of an indicator for the magazine brand.
+
+When the story with the illustration is no longer the newest item on the site, it will slide down the homepage. At that point the illustration shrinks to fit inside the red fiction box within the layout. This is just a scaling change—we're still not cropping the illustration.
+
+For magazine layout purposes, we can lay a simple 3 x 4 grid over the illustration to block off some areas.
+
+The top middle cell in the grid is where the magazine logotype will generally be placed. Avoid using that area for elements in the illustration which shouldn't be obscured.
+
+The 1/3 width column created by the grid serves as a minimum width of the image. When we crop the image vertically, for ebook covers and for portrait-oriented phone wallpapers, we'll only be able to use  approximately one column's width.
+
+We can crop wherever we want, obviously—we don't need to' just take the center column, or the left column, etc.—but the width of one column is the narrowest the crop will ever get.
+
+# Publishing to the site
+The Fireside website updates its contents as soon as you publish, or 'push', your changes to the 'magazine' repository on GitHub.com.
+
+As you've been working on your device, your git client application has been keeping track of your changes. Each time you complete a significant chunk of work, you should write a short commit message describing the changes that you've made, and commit your changes to your local repository.
 
 Once you've made all your changes and made all your commits, it's time to publish to the site. You do that by 'pushing' your local commits up to GitHub, where Jekyll will take care of taking your files and 'deploying' them to the site.
-
