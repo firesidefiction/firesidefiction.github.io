@@ -84,7 +84,7 @@ Only one of three values are allowed: `story` for fiction, `post` for news items
 
 ##### `title:  The Title of The Thing`
 The `title` parameter is **required**. It tells Jekyll what the display title of the content should be.
-This parameter allows free-form text. _(The only exception is colons. Since YAML uses colons for its notation, if we need a colon in our text, we need to escape it as `&#58`, or consider using something else, like an em dash.)_
+This parameter allows free-form text. _(The only exception is colons. Since YAML uses colons for its notation, if we need a colon in our text, we need to escape it as `&#58;`, or consider using something else, like an em dash.)_
 
 ##### `author: Author Name`
 The `author` parameter is **required**. It tells Jekyll who wrote the thing.
