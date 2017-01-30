@@ -8,20 +8,23 @@ permalink: /issue35/chapter/your-body-by-default/
 teaser: "The IED blew your body into pieces: bone and brain and blood, sprayed in the sand with the twisted shell of your tank"
 published: true
 art: your-body-by-default.jpg
-caption: four panels, all mirroring a man with a square jaw, outer panels in dark blue. The center panel is in color - pinks and soft teals, with a male and female figure overlayed on one another, each figure touching their chin with their left hand.
+caption: "four panels, all mirroring a man with a square jaw, outer panels in dark blue. The center panel is in color - pinks and soft teals, with a male and female figure overlayed on one another, each figure touching their chin with their left hand."
 artist: Galen Dara
 ---
 
 Selected by guest editor Daniel José Older
 
 They brought you back because they want something from you. Maybe one day they will bring people back because they can or because it’s the right thing to do — but for now there’s you and there’s them and there’s the unspoken obligations that lie between you both.
+
 ----
+
 The IED blew your body into pieces: bone and brain and blood, sprayed in the sand with the twisted shell of your tank.
 Maybe you weren’t always happy with your body; maybe your breasts were smaller than you would have liked and your toes reminded you of tree roots and there was that one mole right in the middle of your back that you always managed to catch with the hook of your bra; but it was *your *body. Your history was written in scars and tattoos. And you knew it, inside and out.
 
 You made it yours over the years — the shaved sides of your head accenting the bright shock of magenta hair spilling over the top, the solid black contact lenses that made pupil and iris indistinguishable, the ornate scrolling ink that wrapped your ribcage.
 
 This hunk of flesh you now inhabit is foreign. It is devoid of scar and ink and memory. It bulges or dips in all the wrong places. What it *is* is wrong, just as what it isn’t is wrong. It’s ten kinds of not you and you’re helpless under this skin.
+
 ----
 You hurl yourself against the glass and you claw with hands that aren’t yours until the fingers bleed and you feel a distant kind of pain, a traitorous sensation reminding you that you’re stuck in this body.
 
@@ -33,6 +36,7 @@ You scream until the fervor shreds your throat and they send big nurses with mus
 This body betrays you yet again.
 
 It pulls your mind down deep into the black.
+
 ----
 There were three other women in your squad and you loved each of them, though never in the same way. You knew as soon as you saw their faces under those helmets that they would become entwined with you — with your very identity — one way or another.
 
@@ -57,6 +61,7 @@ You rewind and play your last memories again and again. A shadowed face, the sol
 The women you love are not in the black. You are not there either. There is only darkness and an overriding, panicky sense of being completely alone, bereft even of yourself.
 
 ----
+
 “This can’t be legal,” you say, suppressing a shudder at the sound of your voice, echoing off the walls of the small cube. You think of it as an interrogation chamber: two chairs, a small foldout table, slate gray walls, and the small beady eye of a camera in the pale corner of the ceiling.
 
 “I assure you, Corporal Benik, this is all completely legal. Or at least…” he hesitates, affects a quick smile, “…it’s not *illegal*.”
@@ -141,6 +146,7 @@ You stare down at your hands, at your thighs; your square shoulders sink.
 This is your body, by default.
 
 ----
+
 Endless weeks pass. Monotone days — medical tests, physical training, rehab. Everyone speaks softly and the nurses are posted at the door, eyes always on you, hands always ready to find a syringe and put you down.
 
 But you’ve stopped raging. You go through the motions for them, while the fire eats you up from inside. You push yourself in the physical training sections of the day. You wear this body out so you don’t have to toss and turn on the thin mattress at night, so you won’t have to dream.
@@ -156,6 +162,7 @@ On your down time, when you’re alone except for the camera, you close your eye
 Sometimes at night you curl up in a ball and press your face into the pillow and pretend you’re sleeping, but really you try to suffocate yourself. You never can finish the job. You weep silently and pray — to the god you gave up in the desert — to set you free from this place.
 
 ----
+
 “What do you want from me?”
 
 Natasha sits across from you in the interrogation room again. She seems more confident; you feel calmer. More resigned, and you hate yourself for it.
@@ -205,6 +212,7 @@ It’s wrong. It’s all wrong. You don’t know what to do with this.
 Natasha leaves the room quietly. Apparently she doesn’t know either.
 
 ----
+
 “I have a surprise for you.” Natasha again.
 
 You can’t quite meet her eye. She’s never visited you in your room. You’re terrified your body will act without your permission again, so you don’t even look at her. You stare at your thumbs. What are guys supposed to think about? Baseball?
