@@ -82,9 +82,9 @@ The parameters in the front matter are pretty self-explanatory,  but let's go ov
 The `layout` parameter is **required**. It tells Jekyll what this document should look like.
 Only one of three values are allowed: `story` for fiction, `post` for news items, `article` for nonfiction, and `book` for book promo pages.
 
-##### `title:  The Title of The Thing`
+##### `title:  "The Title of The Thing"`
 The `title` parameter is **required**. It tells Jekyll what the display title of the content should be.
-This parameter allows free-form text. _(The only exception is colons. Since YAML uses colons for its notation, if we need a colon in our text, we need to escape it as `&#58;`, or consider using something else, like an em dash.)_
+This parameter allows free-form text. In order for all characters to read properly, the text of the title *must* be surrounded by double quotes.
 
 ##### `author: Author Name`
 The `author` parameter is **required**. It tells Jekyll who wrote the thing.
@@ -110,7 +110,7 @@ Only two values are allowed: `true` or `false`.
 
 ##### `teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."`
 The `teaser` parameter is **optional**. It should be a short summary or teaser for the piece of content. It can be a direct quote form the piece, or something new. This will show up on the homepage.
-This parameter allows free-form text.
+This parameter allows free-form text. In order for all characters to read properly, the text of the title *must* be surrounded by double quotes.
 
 ##### `art: the-title-of-the-thing.jpg`
 The `art` parameter is **optional**. It tells Jekyll the file name of an accompanying featured illustration.
