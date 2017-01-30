@@ -5,7 +5,7 @@ author: Lauren M. Roy
 date:   2016-08-02 12:01:00 -0500
 category: short story
 permalink: /issue35/chapter/27/
-teaser: "Lady Fantastic died yesterday. She was one of the classics, one of the first to don her cape and soar over the skyline, one of that golden generation who inspired every hero who came after.
+teaser: "Lady Fantastic died yesterday. She was one of the classics, one of the first to don her cape and soar over the skyline, one of that golden generation who inspired every hero who came after."
 published: true
 ---
 
@@ -32,4 +32,4 @@ So of course her obituary starts with how she was a mother of three. How she mad
 
 ####About the Author
 
-Lauren M. Roy has been an independent bookseller, a publisher sales rep, and is completing her bookselling hat trick as an author. Her Night Owls urban fantasy series is published by Ace Books, and her YA fantasy The Fire Children is published by Solaris. Her flash fiction has appeared in Fireside Magazine and on Podcastle. Lauren lives in Southeastern Massachusetts with her husband, their cats, and the ghosts of the houseplants she forgets to water. 
+Lauren M. Roy has been an independent bookseller, a publisher sales rep, and is completing her bookselling hat trick as an author. Her Night Owls urban fantasy series is published by Ace Books, and her YA fantasy The Fire Children is published by Solaris. Her flash fiction has appeared in Fireside Magazine and on Podcastle. Lauren lives in Southeastern Massachusetts with her husband, their cats, and the ghosts of the houseplants she forgets to water.
