@@ -1,6 +1,6 @@
 ---
 layout: story
-title:  In Memoriam: Lady Fantastic
+title:  In Memoriam&#58 Lady Fantastic
 author: Lauren M. Roy
 date:   2016-08-02 12:01:00 -0500
 category: short story
