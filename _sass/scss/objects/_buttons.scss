@@ -1,7 +1,7 @@
 /*------------------------------------*\
     $BUTTONS
 \*------------------------------------*/
-.btn {
+.btn, input[type="submit"] {
 	display: inline-block;
 	background: $color__highlight;
 	color: $white;

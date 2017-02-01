@@ -328,9 +328,7 @@ footer .nav a:hover { color: #8e1213; }
 @media all and (min-width: 39.8em) { .marketing { display: flex; } }
 .marketing div { padding: 0 0.5em 0 0; }
 
-.footer-marketing { max-width: 60em; margin: 2em auto; }
-@media all and (min-width: 39.8em) { .footer-marketing { display: flex; } }
-.footer-marketing div, .footer-marketing form { padding: 0 0.5em; }
+#mc_embed_signup { min-width: 320px; max-width: 500px; }
 
 .legal { text-align: center; margin-top: 2em; }
 
@@ -361,9 +359,9 @@ footer .nav a:hover { color: #8e1213; }
 
 /*------------------------------------*\ $BUTTONS
 \*------------------------------------*/
-.btn { display: inline-block; background: #610C0D; color: #fff; line-height: 1; padding: 1em; margin-top: 1em; margin-bottom: 1em; border: 0; border-radius: 0.25em; text-align: center; text-transform: uppercase; font-weight: 300; -webkit-transition: background 0.4s ease-in-out; -moz-transition: background 0.4s ease-in-out; -ms-transition: background 0.4s ease-in-out; -o-transition: background 0.4s ease-in-out; transition: background 0.4s ease-in-out; }
-.btn:hover, .btn:focus { background: #8e1213; border: 10px, #8e1213; color: #fff; }
-.btn.disabled { background: #eee; color: #808080; }
+.btn, input[type="submit"] { display: inline-block; background: #610C0D; color: #fff; line-height: 1; padding: 1em; margin-top: 1em; margin-bottom: 1em; border: 0; border-radius: 0.25em; text-align: center; text-transform: uppercase; font-weight: 300; -webkit-transition: background 0.4s ease-in-out; -moz-transition: background 0.4s ease-in-out; -ms-transition: background 0.4s ease-in-out; -o-transition: background 0.4s ease-in-out; transition: background 0.4s ease-in-out; }
+.btn:hover, .btn:focus, input[type="submit"]:hover, input[type="submit"]:focus { background: #8e1213; border: 10px, #8e1213; color: #fff; }
+.btn.disabled, input[type="submit"].disabled { background: #eee; color: #808080; }
 
 .btn-small { padding: 0.5em; }
 
