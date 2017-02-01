@@ -83,3 +83,11 @@ footer {
 	//font-size: $font-size-small;
 	margin-top: $space-double;
 }
+
+.social {
+	display: flex;
+	justify-content: center;
+	a {
+		margin: $space-double;
+	}
+}

@@ -6,6 +6,6 @@ a {
 	@include transition(color,0.3s,ease-in-out);
 
 	&:hover, &:focus {
-		//color: $color__highlight--focus;
+		color: $color__highlight--focus;
 	}
 }
