@@ -3,7 +3,7 @@ layout: default
 ---
 {% if page.art %}
   <figure class="story-illustration">
-    <img class="" src="{{ site.baseurl }}/illustration/{{ page.art }}" alt="{{ page.caption }}">
+    <img src="{{ site.baseurl }}/illustration/{{ page.art }}" alt="{{ page.caption }}">
   </figure>
 {% endif %}
 {% include story-logo.html %}
@@ -11,7 +11,7 @@ layout: default
   <header class="story-header">
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
     {% if page.author %}<p class="byline">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></p>{% endif %}
-    <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.artist %} • Illustration by {{ page.artist }}</p>{% endif %}</p>
+    <p>{{ page.date | date: "%b %Y" }}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}</p>
   </header>
 
   <div>

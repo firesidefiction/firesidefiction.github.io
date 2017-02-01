@@ -466,7 +466,8 @@ article h4 + p { font-family: "museo-sans", "museo sans", Georgia, Times, "Times
 .story-header h1, .post-header h1 { font-size: 2.5em; line-height: 1.2em; margin-bottom: 0.25em; }
 .story-header p, .post-header p { text-indent: 0; }
 
-.story-illustration { position: relative; z-index: 0; margin: 0; }
+.story-illustration { position: relative; z-index: 0; margin: -6em 0 0 0; }
+.story-illustration img { width: 100%; }
 
 .byline { font-size: 1.4375em; font-weight: 300; margin: 0.5em; }
 
