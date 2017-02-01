@@ -1,21 +1,20 @@
 ---
 layout: default
 ---
-{% include magazine-logo.html %}
 {% if page.art %}
-  <figure>
+  <figure class="story-illustration">
     <img class="" src="{{ site.baseurl }}/illustration/{{ page.art }}" alt="{{ page.caption }}">
   </figure>
 {% endif %}
-<article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-    {% if page.artist %}<p>Illustration by {{ page.artist }}</p>{% endif %}
+{% include story-logo.html %}
+<article>
+  <header class="story-header">
+    <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+    {% if page.author %}<p class="byline">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></p>{% endif %}
+    <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.artist %} • Illustration by {{ page.artist }}</p>{% endif %}</p>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
+  <div>
     {{ content }}
   </div>
 

@@ -66,7 +66,7 @@ like:
 >
 > art: the-title-of-the-thing.jpg
 >
-> caption: A description of the artwork for screen readers
+> caption: "A description of the artwork for screen readers"
 >
 > artist: Galen Dara
 >
@@ -118,7 +118,7 @@ This parameter takes a filename, which should be the same as the permalink based
 
 ##### `caption: A description of the artwork for screen readers`
 The `caption` parameter is **required** if you also include the `art` parameter. It sets a description of the image as alt-text for screen readers. It should be a short description of the content of the image, itself, as opposed to a description of what the image is. For instance, it should read "A woman crouching in a swamp, with a rifle in her hand." rather than "Illustration for the story Dragon Soap."
-This parameter allows free-form text.
+This parameter allows free-form text. In order for all characters to read properly, the text of the title *must* be surrounded by double quotes.
 
 ##### `artist: Galen Dara`
 The `artist` parameter is **required** if you also include the `art` parameter. It sets the artist name for the featured illustration.

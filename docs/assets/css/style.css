@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*------------------------------------*\ $VARIABLES
 \*------------------------------------*/
 /*------------------------------------*\ $MIXINS
@@ -82,7 +83,7 @@ h4, h5 { font-weight: 300; font-family: "museo-sans", "museo sans", Georgia, Tim
 /* Text-Related Elements */
 p { margin-bottom: 1em; }
 
-.story p { text-indent: 1.5em; }
+article p { text-indent: 1.5em; font-size: 1.1em; font-weight: 300; }
 
 /* Blockquote */
 blockquote { font-style: italic; color: #808080; padding-left: 1.5em; margin-top: 0.5em; margin-bottom: 1em; text-indent: none; }
@@ -272,7 +273,8 @@ td { border: 1px solid #5a5a5a; padding: 0.2em; }
 
 /*------------------------------------*\ $PAGE STRUCTURE
 \*------------------------------------*/
-.header-logo { margin: 0 auto 1em; text-align: center; }
+.header-logo { position: absolute; top: .5em; left: 50%; -webkit-transform: translateX(-50%); transform: translateX(-50%); }
+.header-logo svg { position: relative; z-index: 9999; }
 
 /*------------------------------------*\ $NAVIGATION
 \*------------------------------------*/
@@ -307,7 +309,8 @@ header nav ul a { color: #fff; }
 
 /*------------------------------------*\ $MAIN CONTENT AREA
 \*------------------------------------*/
-main { padding: 0 0.5em 2em 0.5em; overflow: hidden; margin: -2.5em  0 0 0; }
+main { padding: 0; overflow: hidden; margin: 0; }
+main > section { margin-top: 6em; }
 
 /*------------------------------------*\ $FOOTER
 \*------------------------------------*/
@@ -456,19 +459,26 @@ footer .nav a:hover { color: #8e1213; }
 
 .section-title { margin-bottom: 0.5em; }
 
+article { max-width: 42em; margin: 0 auto; padding: 0.5em; }
+article hr { background: none; text-align: center; margin: 2em 0 4em 0; }
+article hr:after { content: '• • •'; }
+article h4 { margin-top: 6em; }
+article h4 + p { font-family: "museo-sans", "museo sans", Georgia, Times, "Times New Roman", serif; font-size: 1em; }
+
 .story-header { text-align: center; }
-.story-header h1 { font-size: 2.5em; margin-bottom: 0.25em; }
+.story-header h1 { font-size: 2.5em; line-height: 1.2em; margin-bottom: 0.25em; }
+.story-header p { text-indent: 0; }
 
-.byline { font-weight: 300; margin-bottom: 0.5em; }
+.story-illustration { position: relative; z-index: 0; margin: 0; }
 
-.illustrator { margin-bottom: 0.5em; }
+.byline { font-size: 1.4375em; font-weight: 300; margin: 0.5em; }
+
+.illustrator { font-size: 1em; margin: 0.5em 0 2em; }
 
 .social-share { overflow: hidden; margin-bottom: 1em; }
 .social-share li { float: left; margin-right: 0.5em; }
 .social-share a { background: #333; color: #fff; display: block; padding: 0.5em; }
 .social-share a:hover { background: #808080; }
-
-article { max-width: 40em; margin: 0 auto; padding: 0.5em; }
 
 .comments li { margin-bottom: 1em; }
 
