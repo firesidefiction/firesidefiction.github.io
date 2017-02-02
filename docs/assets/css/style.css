@@ -297,6 +297,9 @@ footer .nav a:hover { color: #8e1213; }
 .entry.story a { color: #fff; }
 .entry.story h1 { font-size: 1.8em; line-height: 1.2; font-weight: 100; }
 
+.header-logo + .story { max-width: 100%; margin-top: -6em; }
+.header-logo + .story div { max-width: 45em; margin: 0 auto; }
+
 /* about us */
 .about-us { margin: 1em auto; max-width: 60em; }
 @media all and (min-width: 46.8em) { .about-us { display: flex; } }

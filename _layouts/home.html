@@ -9,18 +9,21 @@ layout: default
       {% if post.category == "short story" or post.category == "flash fiction" %}
         <div class="entry story">
           {% if post.art %}
-            <figure>
-              <img class="" src="{{ site.baseurl }}/illustration/{{ post.art }}" alt="{{ post.caption }}">
-            </figure>
+            <a href="{{ post.url | relative_url }}">
+              <figure>
+                <img class="" src="{{ site.baseurl }}/illustration/{{ post.art }}" alt="{{ post.caption }}">
+              </figure>
+            </a>
           {% endif %}
           <div>
             <h4>{{ post.category }}</h4>
-            <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+            <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
             <h3>by {{ post.author }}</h3>
             <p>{{ post.teaser }}</p>
           </div>
         </div>
-        {% else %}
+
+      {% else %}
       <div class="entry news">
         <h4>{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</h4>
         <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>

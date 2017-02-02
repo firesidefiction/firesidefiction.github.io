@@ -44,6 +44,15 @@
 	}
 }
 
+.header-logo + .story {
+	max-width: 100%;
+	margin-top: -6em;
+	div {
+		max-width: 45em;
+		margin: 0 auto;
+	}
+}
+
 /* about us */
 .about-us {
 	margin: $space auto;
