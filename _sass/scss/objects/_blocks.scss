@@ -26,7 +26,13 @@
 		background: $color__fireside-red;
 		border-radius: $border-radius;
 		margin: 1em auto;
-		padding: $pad*2;
+		overflow: hidden;
+		figure, figure img {
+			margin-bottom: -.5em;
+		}
+		div {
+			padding: $pad*2;
+		}
 		a {
 			color: $white;
 		}

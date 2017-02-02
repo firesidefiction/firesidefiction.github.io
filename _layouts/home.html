@@ -3,7 +3,6 @@ layout: default
 ---
 {% include magazine-logo.html %}
 
-
   {{ content }}
 
     {% for post in paginator.posts %}
@@ -14,10 +13,12 @@ layout: default
               <img class="" src="{{ site.baseurl }}/illustration/{{ post.art }}" alt="{{ post.caption }}">
             </figure>
           {% endif %}
-          <h4>{{ post.category }}</h4>
-          <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
-          <h3>by {{ post.author }}</h3>
-          <p>{{ post.teaser }}</p>
+          <div>
+            <h4>{{ post.category }}</h4>
+            <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+            <h3>by {{ post.author }}</h3>
+            <p>{{ post.teaser }}</p>
+          </div>
         </div>
         {% else %}
       <div class="entry news">
