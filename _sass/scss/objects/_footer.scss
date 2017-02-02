@@ -67,19 +67,22 @@ footer {
 		padding: 0 $pad-half 0 0 ;
 	}
 }
-.footer-marketing {
-	max-width: 60em;
-	margin: 2em auto;
-	@media all and (min-width: $bp-small-3) {
-		display: flex;
-	}
-	div, form {
-		padding: 0 $pad-half;
-	}
+
+#mc_embed_signup {
+	min-width: 320px;
+	max-width: 500px;
 }
 
 .legal {
 	text-align: center;
 	//font-size: $font-size-small;
 	margin-top: $space-double;
+}
+
+.social {
+	display: flex;
+	justify-content: center;
+	a {
+		margin: $space-double;
+	}
 }

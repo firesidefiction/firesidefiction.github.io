@@ -10,13 +10,18 @@
     </header>
 
     <main aria-label="Content">
+      <section>
         {{ content }}
+      </section>
     </main>
 
     <footer>
       <hr/>
+      {% include call-to-action.html %}
+      <hr/>
       {% include company-slug.html %}
       {% include navigation-extended.html %}
+      {% include social-media-icons.html %}
       {% include marketing.html %}
       {% include legal.html %}
     </footer>

@@ -2,7 +2,10 @@
     $MAIN CONTENT AREA
 \*------------------------------------*/
 main {
-	padding: 0 $pad-half $pad-double $pad-half ;
+	padding: 0;
 	overflow: hidden;
-	margin: -2.5em  0 0 0;
+	margin: 0;
+	& > section {
+		margin-top: 6em;
+	}
 }

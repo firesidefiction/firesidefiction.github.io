@@ -21,17 +21,8 @@
 @import "scss/base/media";
 @import "scss/base/forms";
 @import "scss/base/tables";
-@import "scss/base/animation";
 @import "scss/base/styleguide";
 
-
-
-
-
-/*------------------------------------*\
-    $LAYOUT
-\*------------------------------------*/
-@import "scss/objects/layout";
 
 
 /*------------------------------------*\
@@ -58,9 +49,6 @@
 @import "scss/objects/blocks";
 @import "scss/objects/lists";
 @import "scss/objects/tooltip";
-@import "scss/objects/accordion";
 @import "scss/objects/tabs";
 @import "scss/objects/sections";
 @import "scss/objects/article";
-@import "scss/objects/comments";
-@import "scss/objects/messaging";

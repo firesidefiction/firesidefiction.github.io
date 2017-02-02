@@ -26,7 +26,13 @@
 		background: $color__fireside-red;
 		border-radius: $border-radius;
 		margin: 1em auto;
-		padding: $pad*2;
+		overflow: hidden;
+		figure, figure img {
+			margin-bottom: -.5em;
+		}
+		div {
+			padding: $pad*2;
+		}
 		a {
 			color: $white;
 		}
@@ -35,6 +41,15 @@
 			line-height: 1.2;
 			font-weight: 100;
 		}
+	}
+}
+
+.header-logo + .story {
+	max-width: 100%;
+	margin-top: -6em;
+	div {
+		max-width: 45em;
+		margin: 0 auto;
 	}
 }
 

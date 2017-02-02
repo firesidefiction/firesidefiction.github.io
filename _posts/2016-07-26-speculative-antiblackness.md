@@ -26,4 +26,5 @@ An intentional commitment to diversity and inclusion is more than just a diversi
 
 (Read Fireside’s report, editorial, essays, and an interview with N.K. Jemisin.)
 
+#### About the Author
 Troy L. Wiggins is a writer from Memphis, Tennessee. His short fiction has appeared in Griots: Sisters of the Spear, Long Hidden: Speculative Fiction From the Margins of History, Expanded Horizons, and Memphis Noir.

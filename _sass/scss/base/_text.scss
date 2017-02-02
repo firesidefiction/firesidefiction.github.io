@@ -3,9 +3,11 @@ p {
 	margin-bottom: $space;
 }
 
-.story {
+article {
     p {
         text-indent: $space*1.5;
+				font-size: 1.1em;
+				font-weight: 300;
     }
 }
 
