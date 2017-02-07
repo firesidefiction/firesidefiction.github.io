@@ -7,7 +7,7 @@ layout: default
   </figure>
 {% endif %}
 {% include story-logo.html %}
-<article>
+<article class="fiction">
   <header class="story-header">
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
     {% if page.author %}<p class="byline">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></p>{% endif %}
@@ -17,5 +17,5 @@ layout: default
   <div>
     {{ content }}
   </div>
-  
+
 </article>

@@ -84,7 +84,9 @@ h4, h5 { font-weight: 300; font-family: "museo-sans", "museo sans", Georgia, Tim
 /* Text-Related Elements */
 p { margin-bottom: 1em; }
 
-article p { text-indent: 1.5em; font-size: 1.1em; font-weight: 300; }
+article p { font-size: 1.1em; font-weight: 300; }
+
+.fiction p { text-indent: 1.5em; margin-bottom: 0.33333em; }
 
 /* Blockquote */
 blockquote { font-style: italic; color: #808080; padding-left: 1.5em; margin-top: 0.5em; margin-bottom: 1em; text-indent: none; }
