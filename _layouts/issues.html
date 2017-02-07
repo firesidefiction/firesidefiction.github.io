@@ -16,7 +16,7 @@ layout: default
             <h2>{{ post.title }}</h2>
             <p>{{ post.content }}</p>
             {% if post.download-link %}
-              <a href="{{ post.download-link }}" class="btn">Download ebook files</a>
+              <a href="{{site.baseurl }}{{ post.download-link }}" class="btn">Download ebook files</a>
             {% endif %}
           </div>
         {% endif %}
