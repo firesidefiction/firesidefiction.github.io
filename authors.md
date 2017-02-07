@@ -6,31 +6,38 @@ permalink: /authors
 
 This is gonna be everyone. I'm not quite sure how we'll generate this page automatically, just yet.
 
-### Author Name
-- [Their Story on Fireside](link)
-- [Their Other Story on Fireside](link)
+### Tobias S. Buckell
+- [_Press Enter to Execute_]({{ site.baseurl}}/issue1/chapter/press-enter-to-execute/)
 
 ***
 
-### Author Name
-- [Their Story on Fireside](link)
+### Frank Cvetkovic
+- [_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
 ***
 
-### Author Name
-- [Their Story on Fireside](link)
-- [Their Other Story on Fireside](link)
-- [Yet Another Story on Fireside](link)
+### Michael Lee Harris
+- [_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
 ***
 
-### Author Name
-- [Their Story on Fireside](link)
-- [Their Other Story on Fireside](link)
+### D.J. Kirkbride
+- [_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
 ***
 
-### Author Name
-- [Their Story on Fireside](link)
+### Adam P. Knave
+- [_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
 ***
+
+### Ken Liu
+- [_To the Moon_]({{ site.baseurl}}/issue1/chapter/to-the-moon/)
+
+***
+
+### Chuck Wendig
+[_Emerald Lakes, an Atlanta Burns story_]({{ site.baseurl}}/issue1/chapter/emerald-lakes/)
+
+### Christie Yant
+- [_Temperance_]({{ site.baseurl}}/issue1/chapter/temperance/)
