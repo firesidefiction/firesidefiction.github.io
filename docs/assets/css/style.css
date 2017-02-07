@@ -99,7 +99,7 @@ hr.solid { background: #808080; }
 
 abbr { border-bottom: 1px dotted #808080; cursor: help; font-weight: 600; }
 
-ol, ul { margin: 0; padding: 0; list-style: none; }
+ol, ul { margin: 0 0 1em 0; padding: 0; list-style: none; }
 
 /* Definition Lists */
 dl { overflow: hidden; margin: 0 0 1em; }
