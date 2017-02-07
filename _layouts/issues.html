@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% include magazine-logo.html %}
+
+  <article class="post-content">
+    <h2>{{ page.title }}</h2>
+    {{ content }}
+    <section class="issue-bookshelf">
+      {% for post in site.posts %}
+        {% if post.category == "issue" %}
+          <div>
+            <img src="{{ site.baseurl }}/images/{{ post.cover }}" alt="Cover image for {{ post.title }}">
+          </div>
+          <div>
+            <h2>{{ post.title }}</h2>
+            <p>{{ post.content }}</p>
+            {% if post.download-link %}
+              <a href="{{ post.download-link }}" class="btn">Download ebook files</a>
+            {% endif %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </section>
+  </article>

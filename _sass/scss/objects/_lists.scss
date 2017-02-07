@@ -72,3 +72,20 @@
 		padding: $pad/2;
 	}
 }
+
+.issue-bookshelf {
+	display: flex;
+	border-bottom: 1px solid $gray;
+	div {
+		padding: $pad/2;
+		img {
+			min-width: 8em;
+		}
+	}
+	&:last-of-type {
+		border-bottom: none;
+	}
+	p {
+		margin-bottom: $space/4;
+	}
+}

@@ -341,6 +341,12 @@ footer .nav a:hover { color: #8e1213; }
 .bookshelf { display: flex; justify-content: flex-start; flex-wrap: wrap; }
 .bookshelf div { max-width: 12em; padding: 0.5em; }
 
+.issue-bookshelf { display: flex; border-bottom: 1px solid #808080; }
+.issue-bookshelf div { padding: 0.5em; }
+.issue-bookshelf div img { min-width: 8em; }
+.issue-bookshelf:last-of-type { border-bottom: none; }
+.issue-bookshelf p { margin-bottom: 0.25em; }
+
 .tooltip-container { display: inline-block; position: relative; }
 .tooltip-container:hover .tooltip { display: block; }
 

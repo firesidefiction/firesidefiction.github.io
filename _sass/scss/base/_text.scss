@@ -4,10 +4,10 @@ p {
 }
 
 article {
-    p {
-				font-size: 1.1em;
-				font-weight: 300;
-    }
+  p {
+		font-size: 1.1em;
+		font-weight: 300;
+  }
 }
 
 .fiction p {
@@ -17,34 +17,34 @@ article {
 
 /* Blockquote */
 blockquote {
-    font-style:italic;
-    color: $gray;
+  font-style:italic;
+  color: $gray;
 	padding-left: $pad*1.5;
 	margin-top: $space/2;
-    margin-bottom: $space;
-    text-indent: none;
+  margin-bottom: $space;
+  text-indent: none;
 }
 
 aside {
-    //font-size: $font-size-large;
-    font-weight: 300;
-    line-height: 1.3;
+  //font-size: $font-size-large;
+  font-weight: 300;
+  line-height: 1.3;
 }
 
 /* Horizontal Rule */
 hr {
 	border: 0;
-    height: 1px;
-    background: $gray-light-3;
-    margin: $space-double 0;
-    &.solid {
-        background: $gray;
-    }
+  height: 1px;
+  background: $gray-light-3;
+  margin: $space-double 0;
+  &.solid {
+      background: $gray;
+  }
 }
 
 abbr {
-    border-bottom: 1px dotted $gray;
-    cursor: help;
-    //font-size: $font-size-small;
-    font-weight: 600;
+  border-bottom: 1px dotted $gray;
+  cursor: help;
+  //font-size: $font-size-small;
+  font-weight: 600;
 }
