@@ -92,7 +92,7 @@ This parameter allows free-form text.
 
 ##### `date: 2017-mm-dd 12:00:01 -0500`
 The `date` parameter is **required**. It tells Jekyll what publishing date to display along with the content.
-This parameter needs the date to be in the particular format shown:  `yyyy-mm-dd hh:mm:ss: -0500`. The date is important, but we don't really care about the time, so we always leave that set to `12:00:01 -0500`, which is midnight on Eastern Standard Time.
+This parameter needs the date to be in the particular format shown:  `yyyy-mm-dd hh:mm:ss: -0500`. For new content, the date is important, but we don't really care about the time, so we always leave that set to `12:00:01 -0500`, which is midnight on Eastern Standard Time. For old issues, every piece of content should have the same date—the first. Of the corresponding month—but each piece should have a different time, with the editors letter being the latest piece.
 
 ##### `category: short story | flash fiction | announcement | essay | book`
 The `category` parameter is **required**. It tells Jekyll what label to use when presenting the content on the site.
