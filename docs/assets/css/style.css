@@ -277,6 +277,8 @@ abbr { border-bottom: 1px dotted #808080; cursor: help; font-weight: 600; }
 .btn:hover, .btn:focus, input[type="submit"]:hover, input[type="submit"]:focus { background: #8e1213; border: 10px, #8e1213; color: #fff; }
 .btn.disabled, input[type="submit"].disabled { background: #eee; color: #808080; }
 
+.patreon-btn { padding: 1em 2em 1.3em; }
+
 .btn-small { padding: 0.5em; }
 
 .btn-large { text-transform: uppercase; font-size: 1.4rem; }
