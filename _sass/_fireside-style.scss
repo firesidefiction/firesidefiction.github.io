@@ -1,6 +1,5 @@
 @charset "utf-8";
 
-
 @import "scss/generic/variables";
 @import "scss/generic/mixins";
 @import "scss/generic/reset";
@@ -12,24 +11,20 @@
 /*------------------------------------*\
     $GLOBAL ELEMENTS
 \*------------------------------------*/
-@import "scss/base/global-classes";
 @import "scss/base/main";
 @import "scss/base/links";
-@import "scss/base/headings";
 @import "scss/base/media";
 @import "scss/base/forms";
 @import "scss/base/tables";
-@import "scss/base/styleguide";
-
 
 
 /*------------------------------------*\
     $PAGE STRUCTURE
 \*------------------------------------*/
-@import "scss/objects/logos";
-@import "scss/objects/nav";
-@import "scss/objects/main";
-@import "scss/objects/footer";
+@import "scss/base/logos";
+@import "scss/base/nav";
+@import "scss/base/footer";
+@import "scss/base/article";
 
 
 
@@ -42,11 +37,10 @@
 /*------------------------------------*\
     $COMPONENTS
 \*------------------------------------*/
-@import "scss/objects/icons";
-@import "scss/objects/buttons";
-@import "scss/objects/blocks";
-@import "scss/objects/lists";
-@import "scss/objects/tooltip";
-@import "scss/objects/tabs";
-@import "scss/objects/sections";
-@import "scss/objects/article";
+@import "scss/base/icons";
+@import "scss/base/buttons";
+@import "scss/base/blocks";
+@import "scss/base/lists";
+@import "scss/base/tooltip";
+@import "scss/base/tabs";
+@import "scss/base/sections";
