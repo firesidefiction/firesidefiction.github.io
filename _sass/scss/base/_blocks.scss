@@ -29,6 +29,7 @@
 		overflow: hidden;
 		figure, figure img {
 			margin-bottom: -.5em;
+			width: 100%;
 		}
 		div {
 			padding: $pad*2;
@@ -46,7 +47,7 @@
 
 .header-logo + .story {
 	max-width: 100%;
-	margin-top: -6em;
+	margin-top: -6.97em;
 	div {
 		max-width: 45em;
 		margin: 0 auto;

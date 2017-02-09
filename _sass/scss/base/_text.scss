@@ -35,12 +35,11 @@ p {
 
 article {
   p {
-		font-size: 1.1em;
-		font-weight: 300;
+		font-size: 1.2em;
   }
 }
 
-.fiction p {
+.fiction {
 	text-indent: $space*1.5;
 	margin-bottom: $space/3;
 }

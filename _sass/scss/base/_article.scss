@@ -23,6 +23,10 @@ article {
 	}
 }
 
+main > section {
+	margin-top: 7em;
+}
+
 .story-header {
 	text-align: center;
 }
@@ -41,7 +45,7 @@ article {
 .story-illustration {
 	position: relative;
 	z-index: 0;
-	margin: -6em 0 0 0;
+	margin: -6.97em 0 0 0;
 	img {
 		width: 100%;
 	}
