@@ -3,19 +3,22 @@ article {
 	max-width: 42em;
 	margin: 0 auto;
 	padding: $pad-half;
+	h4 {
+		margin-top: 6em;
+		& + p {
+			font-family: $font-secondary;
+			font-size: 1em;
+		}
+	}
+}
+
+.fiction {
 	hr {
 		background: none;
 		text-align: center;
 		margin: $space-double 0 $space-quad 0;
 		&:after {
 			content: '• • •';
-		}
-	}
-	h4 {
-		margin-top: 6em;
-		& + p {
-			font-family: $font-secondary;
-			font-size: 1em;
 		}
 	}
 }

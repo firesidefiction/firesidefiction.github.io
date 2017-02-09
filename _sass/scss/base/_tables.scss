@@ -4,18 +4,45 @@
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-	border: 1px solid $color__base;
 	width: 100%;
-}
-th {
-	text-align: left;
-	border: 1px solid $color__base;
-	padding: 0.2em;
+	max-width: 500px;
+	margin: $space auto;
 }
 td {
-	border: 1px solid $color__base;
-	padding: 0.2em;
+	border: none;
+	padding: $pad/2;
+	&:first-child {
+		text-align: right;
+	}
 }
+
+.about-us {
+	h4 {
+		margin: 0;
+		text-align: center;
+	}
+	table + p, h6 {
+		width: 100%;
+		max-width: 500px;
+		margin: $space auto;
+		font-size: .8em;
+		font-weight: 100;
+	}
+	h6 {
+		margin-bottom: 0;
+	}
+	h6 + table {
+		font-size: .8em;
+		font-weight: 100;
+		margin-top: 0;
+		td {
+			padding: $pad/6;
+		}
+	}
+}
+
+
+
 
 .content-note-container {
 	border: 1px solid $color__highlight;

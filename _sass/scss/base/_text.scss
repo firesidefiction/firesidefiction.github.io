@@ -25,6 +25,12 @@ blockquote {
   text-indent: none;
 }
 
+.about-us blockquote:first-of-type {
+	font-size: $font-size-large;
+	color: $color__fireside-red;
+	padding-left: $pad*1;
+}
+
 aside {
   //font-size: $font-size-large;
   font-weight: 300;
