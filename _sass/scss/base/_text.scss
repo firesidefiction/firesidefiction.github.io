@@ -54,3 +54,62 @@ abbr {
   //font-size: $font-size-small;
   font-weight: 600;
 }
+
+//Intro text
+.intro {
+	//font-size: $font-size-med-2;
+	text-indent: 0;
+}
+
+//Pullquote
+.pullquote {
+	font-family: $font-secondary;
+	//font-size: $font-size-large;
+}
+
+//Caption
+.caption {
+	font-style: italic;
+}
+
+//Passages of text
+.text {
+	a {
+		text-decoration: underline;
+	}
+
+	ul {
+		list-style: disc;
+		margin: 0 0 $space 1.2em;
+
+		ul {
+			margin-bottom: 0;
+		}
+	}
+
+	ol {
+		list-style: decimal;
+		margin: 0 0 $space 1.5em;
+
+		ol {
+			margin-bottom: 0;
+		}
+	}
+}
+
+.bookshelf {
+	h2 {
+		font-size: 1.2em;
+		line-height: 1.2em;
+	}
+	h3 {
+		font-size: 1em;
+		line-height: 1.2em;
+	}
+}
+
+.book-content {
+	h3 {
+		font-size: 1.8em;
+	}
+}

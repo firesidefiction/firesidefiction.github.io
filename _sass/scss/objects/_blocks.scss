@@ -89,3 +89,27 @@
 		text-decoration: underline;
 	}
 }
+
+.book-header {
+	margin-top: $space;
+	@media all and (min-width: $bp-med) {
+		display: flex;
+		figure {
+			max-width: 25em;
+			margin-right: 1em;
+		}
+	}
+}
+
+.book-metadata ul {
+	@media all and (min-width: $bp-med) {
+		display: flex;
+		flex-direction: column;
+	}
+	li {
+		width: 100%;
+	}
+	a {
+		color: $white;
+	}
+}

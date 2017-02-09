@@ -16,8 +16,6 @@
 @import "scss/base/main";
 @import "scss/base/links";
 @import "scss/base/headings";
-@import "scss/base/text";
-@import "scss/base/lists";
 @import "scss/base/media";
 @import "scss/base/forms";
 @import "scss/base/tables";
@@ -38,7 +36,7 @@
 /*------------------------------------*\
     $TEXT Styles
 \*------------------------------------*/
-@import "scss/objects/text";
+@import "scss/base/text";
 
 
 /*------------------------------------*\

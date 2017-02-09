@@ -24,9 +24,11 @@ header nav ul {
 	}
 	a {
 		color: $white;
-		//@include transition(all, 0.3s, ease);
+		@include transition(all, 0.3s, ease);
 		&:hover {
-			//color: $color__highlight--focus;
+			color: $white;
+			border-bottom: 1px solid $white;
+			padding: 0 $pad/3 $pad/6;
 		}
 	}
 }

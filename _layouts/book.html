@@ -3,27 +3,41 @@ layout: default
 ---
 {% include books-logo.html %}
 
-    <article class="post-content">
-      <div>
-        <img src="{{ site.baseurl }}/images/{{ page.cover }}" alt="Cover image for {{ page.title }}">
-        <h2>{{ page.title }}</h2>
-        <h3>{{ page.author }}</h3>
-        <p>{{ page.description }}</p>
-        {% if page.amazon %}
-          <a href="{{ post.amazon }}">Buy on Amazon</a>
-        {% endif %}
-        {% if page.ibooks %}
-          <a href="{{ post.ibooks }}">Buy on iBooks</a>
-        {% endif %}
-        {% if page.kobo %}
-          <a href="{{ post.kobo }}">Buy on Kobo</a>
-        {% endif %}
-        {% if page.nook %}
-          <a href="{{ post.nook }}">Buy on Nook</a>
-        {% endif %}
-        {% if page.goodreads %}
-          <a href="{{ post.goodreads }}">Add to Goodreads</a>
-        {% endif %}
-      </div>
-      {{ content }}
+    <article>
+        <header class="story-header">
+          <h1>{{ page.title }}</h1>
+          <h2>a {{ page.length }} by {{ page.author }}</h2>
+        </header>
+        <section class="book-header">
+          <figure>
+            <img src="{{ site.baseurl }}/images/{{ page.cover }}" alt="Cover image for {{ page.title }}">
+          </figure>
+          <div class="book-metadata">
+            <ul>
+              {% if page.amazon %}
+                <a href="{{ page.amazon }}"><li class="btn">
+                Buy on Amazon</li></a>
+              {% endif %}
+              {% if page.ibooks %}
+                <a href="{{ page.ibooks }}"><li class="btn">
+                Buy on iBooks</li></a>
+              {% endif %}
+              {% if page.kobo %}
+                <a href="{{ page.kobo }}"><li class="btn">
+                Buy on Kobo</li></a>
+              {% endif %}
+              {% if page.nook %}
+                <a href="{{ page.nook }}"><li class="btn">
+                Buy on Nook</li></a>
+              {% endif %}
+              {% if page.goodreads %}
+                <a href="{{ page.goodreads }}"><li class="btn">
+                Add to Goodreads</li></a>
+              {% endif %}
+            </ul>
+          </div>
+        </section>
+        <section class="book-content">
+        {{ content }}
+      </section>
     </article>
