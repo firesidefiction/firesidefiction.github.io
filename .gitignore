@@ -1,3 +1,5 @@
 docs/
 .sass-cache/
 .jekyll-metadata
+
+*.plist
