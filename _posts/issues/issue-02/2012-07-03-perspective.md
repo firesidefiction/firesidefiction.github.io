@@ -2,7 +2,7 @@
 layout: story
 title:  Perspective
 author: Jake Kerr
-date:   2013-07-03 12:01:00 -0500
+date:   2012-07-03 12:01:00 -0500
 category: short story
 permalink: /issue2/chapter/perspective/
 teaser: "The worst part about picking my son up from the police station was the walk to get there. I hadn't been outside in years, but it was still the same — black molecular paint permanently defacing an already wretched city."

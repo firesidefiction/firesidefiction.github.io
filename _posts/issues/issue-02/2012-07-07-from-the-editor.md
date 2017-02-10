@@ -2,7 +2,7 @@
 layout: post
 title:  WOW. ISSUE TWO.
 author: Brian J. White
-date:   2013-07-07 12:01:00 -0500
+date:   2012-07-07 12:01:00 -0500
 category: announcement
 permalink: /issue2/front-matter/from-the-editor/
 teaser: ""

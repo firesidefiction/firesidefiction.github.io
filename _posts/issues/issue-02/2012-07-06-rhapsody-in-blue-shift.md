@@ -2,7 +2,7 @@
 layout: story
 title:  Rhapsody in Blue Shift
 author: Stephen Blackmoore
-date:   2013-07-06 12:01:00 -0500
+date:   2012-07-06 12:01:00 -0500
 category: short story
 permalink: /issue2/chapter/rhapsody-in-blue-shift/
 teaser: "When I met George Gershwin I was cleaning up D Deck. The gravitational retractors had gone offline, sending clothing, magazines, a thousand odds and ends into the air."

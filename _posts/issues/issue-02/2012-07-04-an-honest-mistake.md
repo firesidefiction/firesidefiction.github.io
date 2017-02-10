@@ -2,7 +2,7 @@
 layout: story
 title:  An Honest Mistake
 author: Written by Brian White; art by Steve Walker; letters by Frank Cvetkovic
-date:   2013-07-04 12:01:00 -0500
+date:   2012-07-04 12:01:00 -0500
 category: comic
 permalink: /issue1/chapter/an-honest-mistake/
 teaser: ""
