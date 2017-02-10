@@ -4,28 +4,30 @@ title: Fireside Authors
 permalink: /authors
 ---
 
-This is gonna be everyone. I'm not quite sure how we'll generate this page automatically, just yet.
+# Fireside Authors
+
+This is a list of all the creators who have contributed to Fireside.
 
 ## Tobias S. Buckell
-- [_Press Enter to Execute_]({{ site.baseurl}}/issue1/chapter/press-enter-to-execute/)
+[_Press Enter to Execute_]({{ site.baseurl}}/issue1/chapter/press-enter-to-execute/)<br/>
 
 ## Frank Cvetkovic
-- [_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
+[_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
 ## Michael Lee Harris
-- [_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
+[_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
 ## D.J. Kirkbride
-- [_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
+[_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
 ## Adam P. Knave
-- [_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
+[_Snow Ninjas of the Hymalayas_]({{ site.baseurl}}/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
 ## Ken Liu
-- [_To the Moon_]({{ site.baseurl}}/issue1/chapter/to-the-moon/)
+[_To the Moon_]({{ site.baseurl}}/issue1/chapter/to-the-moon/)
 
 ## Chuck Wendig
-- [_Emerald Lakes, an Atlanta Burns story_]({{ site.baseurl}}/issue1/chapter/emerald-lakes/)
+[_Emerald Lakes, an Atlanta Burns story_]({{ site.baseurl}}/issue1/chapter/emerald-lakes/)
 
 ## Christie Yant
-- [_Temperance_]({{ site.baseurl}}/issue1/chapter/temperance/)
+[_Temperance_]({{ site.baseurl}}/issue1/chapter/temperance/)
