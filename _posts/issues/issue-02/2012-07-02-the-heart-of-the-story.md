@@ -2,7 +2,7 @@
 layout: story
 title:  The Heart of the Story
 author: Kat Howard
-date:   2013-07-02 12:01:00 -0500
+date:   2012-07-02 12:01:00 -0500
 category: short story
 permalink: /issue2/chapter/the-heart-of-the-story/
 teaser: "The world was created with a word. Or at least so we say, in the story we tell of it."
