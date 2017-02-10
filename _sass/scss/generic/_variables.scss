@@ -9,7 +9,7 @@ $gray-light-2 : #eee;
 $gray-light-3 : #ddd;
 $gray-med : #666;
 $gray-dark : #333;
-$gray-dark-2 : #131313;
+$gray-dark-2 : #303030;
 $white : #fff;
 $black : #000;
 $dim : rgba(0,0,0,0.5);
@@ -24,7 +24,7 @@ $information : #000db5;
 $color__dark-grey: #5a5a5a;
 
 // Default Color
-$color__default: $color__dark-grey;
+$color__default: $gray-dark-2;
 
 // Fireside Red
 $color__fireside-red: #610C0D;

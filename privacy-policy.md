@@ -5,7 +5,7 @@ permalink: legal/privacy-policy
 ---
 _This Privacy Policy was last modified on December 15, 2016._
 
-Fireside Fiction Company (“us”, “we”, or “our”) operates firesidefictionicompany.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+Fireside Fiction Company (“us”, “we”, or “our”) operates firesidefictioncompany.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at firesidefictionicompany.com.
 

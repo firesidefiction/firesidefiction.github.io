@@ -1,0 +1,80 @@
+ol, ul {
+	margin: 0 0 $space 0;
+	padding: 0;
+	list-style: none;
+}
+
+.about-us, article {
+	ul {
+		list-style: disc;
+		margin-left: $space;
+		text-indent: 0;
+	}
+}
+
+.sidenav {
+	ul {
+		list-style: none;
+	}
+}
+
+/* Definition Lists */
+dl {
+	overflow: hidden;
+	margin: 0 0 $space;
+}
+
+dt {
+	font-weight: 700;
+}
+
+dd {
+	margin-left: 1em;
+	margin-bottom: .5em;
+}
+
+.inline-list {
+	li {
+		display: inline-block;
+	}
+}
+
+/* Social List */
+.social-list {
+	li {
+		margin: 0 0.4rem $space 0;
+	}
+
+	a {
+		font-size: 1.6em;
+	}
+}
+
+
+/* Book List */
+.bookshelf {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	div {
+		max-width: 12em;
+		padding: $pad/2;
+	}
+}
+
+.issue-bookshelf {
+	display: flex;
+	border-bottom: 1px solid $gray;
+	div {
+		padding: $pad/2;
+		img {
+			width: 20em;
+		}
+	}
+	&:last-of-type {
+		border-bottom: none;
+	}
+	p {
+		margin-bottom: $space/4;
+	}
+}

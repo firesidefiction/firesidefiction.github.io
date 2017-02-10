@@ -1,16 +1,46 @@
 /* Text-Related Elements */
+h1   {
+	font-weight: 100;
+}
+
+h2    {
+	font-weight: 300;
+}
+
+h3   {
+	font-weight: 300;
+}
+
+h4, h5   {
+	font-weight: 300;
+	font-family: $font-secondary;
+	text-transform: uppercase;
+}
+
+h6    {
+
+}
+
+.page-title {
+	text-align: center;
+}
+
+.subheading {
+	font-weight: normal;
+}
+
 p {
 	margin-bottom: $space;
 }
 
 article {
   p {
-		font-size: 1.1em;
-		font-weight: 300;
+		font-size: 1.2em;
+		font-weight: 300
   }
 }
 
-.fiction p {
+.fiction {
 	text-indent: $space*1.5;
 	margin-bottom: $space/3;
 }

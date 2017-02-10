@@ -7,7 +7,7 @@ permalink: /about/
 ## What is Fireside?
 Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story magazine. We started out with the goals of finding and publishing great stories regardless of genre, and paying our writers well. Since Nov. 8, 2016, we have a third goal: resisting the global rise of fascism and far-right populism, starting with the current occupant of the White House.
 
-[back to the top](#masthead)
+[back to the top](#top-of-page)
 
 ***
 
@@ -16,7 +16,7 @@ Fair pay is a big deal for us. We think creative people should be able to make a
 
 Fireside pays 12.5 cents per word, well above the 5 or 6 cents currently considered to be the minimum professional rate. In fact, we pay better than almost every other [SFWA-qualifying market](http://www.sfwa.org/about/join-us/sfwa-membership-requirements/#short). For illustrations, we pay $400 for a full-color piece.
 
-[back to the top](#masthead)
+[back to the top](#top-of-page)
 
 ***
 
@@ -29,7 +29,7 @@ Running Fireside isn’t cheap. Most of our revenue goes to pay for our writers 
 ## One-Time Contribution
 Don't want the commitment of backing every month, but still want to throw some cash in our hat? You can, through [Paypal](https://www.paypal.com/donate/?token=ZhQUzaJ5GdK4KKNeGAv0uTRKVqnxOufOgvi8nNC2JulhXAYKCCyxW7zApIbczFn09lk8eG).
 
-[back to the top](#masthead)
+[back to the top](#top-of-page)
 
 ***
 
@@ -39,12 +39,12 @@ Don't want the commitment of backing every month, but still want to throw some c
 Brian White has been a newspaper journalist for over a decade, largely as an editor. He spends a lot of time on Twitter as [@talkwordy](https://twitter.com/talkwordy), where you can generally find him yelling about clowns, hedgehogs, and bigots. He lives around Boston with his amazing wife and two cats that are generally also amazing, though murderous.
 
 ### [Elsa Sjunneson-Henry](https://feministsonar.com)—Assistant Editor
-Elsa Sjunneson-Henry is a half-blind, half-deaf, half- Scandinavian writer and editor from Seattle, Washington. She’s got an MA in Women’s History, and she uses that to write about disability and media. She’s enough of a nerd that she ended up making games writing a large part of her freelance career. You can find her yelling about disability and fiction in many places on the internet, including [Feminist Sonar](https://feministsonar.com/), her blog on the intersection of disability issues, gender, sexuality, and media. She’s the author of [_A Place Out of Time_](http://www.firesidefiction.com/issue34/chapter/a-place-out-of-time/) and is also included in the [_Ghost in the Cogs_](http://amzn.to/2au3fe0) anthology. Reports indicate she’s been called a dragon more than once. Supposedly that’s a good thing. Currently, she lives in New Jersey with her delightfully quirky husband, a hound dog, and two cats who may hate her. You can find Elsa on Twitter [@snarkbat](https://twitter.com/snarkbat).
+Elsa Sjunneson-Henry is a half-blind, half-deaf, half-Scandinavian writer and editor from Seattle, Washington. She’s got an MA in Women’s History, and she uses that to write about disability and media. She’s enough of a nerd that she ended up making games writing a large part of her freelance career. You can find her yelling about disability and fiction in many places on the internet, including [Feminist Sonar](https://feministsonar.com/), her blog on the intersection of disability issues, gender, sexuality, and media. She’s the author of [_A Place Out of Time_](http://www.firesidefiction.com/issue34/chapter/a-place-out-of-time/) and is also included in the [_Ghost in the Cogs_](http://amzn.to/2au3fe0) anthology. Reports indicate she’s been called a dragon more than once. Supposedly that’s a good thing. Currently, she lives in New Jersey with her delightfully quirky husband, a hound dog, and two cats who may hate her. You can find Elsa on Twitter [@snarkbat](https://twitter.com/snarkbat).
 
 ### [Pablo Defendini](https://twitter.com/pablod)—Design & Technology Director
 Pablo Defendini is [a designer for hire](https://defendini.com), with a focus on editorial design for digital media. Occasionally he'll do some illustration and printmaking for his own amusement. He also gets really nerdy exploring new forms for [building digital comics out of HTML and CSS](https://digitalcomics.co/). He helped launch [Tor.com](https://tor.com/), before moving on to work for companies that sit in the overlap between publishing and technology, like [Open Road Media](https://openroadmedia.com/) and [O'Reilly](https://safaribooksonline.com/). Pablo was born and raised in San Juan, Puerto Rico, lives in New York City, and works with clients all over the world.
 
-[back to the top](#masthead)
+[back to the top](#top-of-page)
 
 ***
 
@@ -56,7 +56,7 @@ Pablo Defendini is [a designer for hire](https://defendini.com), with a focus on
 
 > In the meantime, we are working on revising our submissions guidelines. Check back here soon!
 
-[back to the top](#masthead)
+[back to the top](#top-of-page)
 
 ***
 
@@ -102,11 +102,11 @@ Fireside Fiction Company provides content notes to guide readers who may wish to
 
 <p></p>
 
-[back to the top](#masthead)
+[back to the top](#top-of-page)
 
 ***
 
 ## More Questions?
 If there’s something we haven’t addressed here, please feel free to email editor Brian White at [questions@firesidefiction.com](mailto:questions@firesidefiction.com). (Please do NOT send submissions here. Any stories sent to this address will be deleted unread.)
 
-[back to the top](#masthead)
+[back to the top](#top-of-page)
