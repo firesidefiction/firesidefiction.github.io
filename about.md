@@ -1,6 +1,6 @@
-﻿---
+---
 layout: about
-title: AboutFireside Fiction Company
+title: About Fireside Fiction Company
 permalink: /about/
 ---
 
@@ -12,27 +12,22 @@ Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story mag
 ***
 
 ## Fair pay for everyone
-Fair pay is a big deal for us. We think creative people should be able to make a living from their work.
+Fair pay is a big deal for us. We think creative people should be able to make a living from their work. This is one of our [core values](../values.html).
 
-Fireside pays 12.5 cents per word, well above the 5 or 6 cents currently considered to be the minimum professional rate. For illustrations, we pay $400.
+Fireside pays 12.5 cents per word, well above the 5 or 6 cents currently considered to be the minimum professional rate. In fact, we pay better than almost every other [SFWA-qualifying market](http://www.sfwa.org/about/join-us/sfwa-membership-requirements/#short). For illustrations, we pay $400 for a full-color piece.
 
 [back to the top](#masthead)
 
 ***
 
-## Support Fireside
+## Supporting Fireside
 
-Running Fireside isn’t cheap. We’re working to wean ourselves from Kickstarter and to build up sustainable support.
+Running Fireside isn’t cheap. Most of our revenue goes to pay for our writers and artists. The rest of our revenue goes to site maintenance and other administrative costs.
 
-Most of our revenue goes to the fair pay for our writers and artists. The rest of our money goes to site maintenance and other administrative costs.
+{% include call-to-action.html %}
 
-If you’re been enjoying Fireside and like our mission of great storytelling and fair pay, please consider supporting us so we’re around for years to come.
-
-### Patreon
-Get ebooks along with patron-only extras.
-
-### One-Time Contribution
-Want to throw some cash in our hat? You can, through Paypal.
+## One-Time Contribution
+Don't want the commitment of backing every month, but still want to throw some cash in our hat? You can, through [Paypal](https://www.paypal.com/donate/?token=ZhQUzaJ5GdK4KKNeGAv0uTRKVqnxOufOgvi8nNC2JulhXAYKCCyxW7zApIbczFn09lk8eG).
 
 [back to the top](#masthead)
 
@@ -55,11 +50,11 @@ Pablo Defendini is [a designer for hire](https://defendini.com), with a focus on
 
 ## Submissions Guidelines
 
-## Fireside is currently closed to submissions
+> Fireside is currently closed to submissions.
 
-We are working on revising our guidelines. Check back here soon!
+> We'll be re-opening to submissions in the Spring of 2017.
 
-We'll be re-opening to submissions in March.
+> In the meantime, we are working on revising our submissions guidelines. Check back here soon!
 
 [back to the top](#masthead)
 
@@ -69,60 +64,43 @@ We'll be re-opening to submissions in March.
 Fireside Fiction Company provides content notes for books and stories to guide readers who may wish to seek out or avoid particular story elements. These content notes may contain spoilers.
 Content notes are not the same as the ratings found on movies, TV shows, and video games. The intent is to help trauma survivors avoid being surprised by story elements that may trigger pain or emotional distress. So we don’t offer warnings about general violence, profanity, sex, or other things one sees in a movie rating.
 
-We welcome suggestions for elements to include or exclude. You can email us at [books@firesidefiction.com](mailto:books@firesidefiction.com).
+We welcome suggestions for elements to include or exclude. You can email us at [contentnotes@firesidefiction.com](mailto:contentnotes@firesidefiction.com).
 
 Here is a list of the elements we currently offer notes for:
 
 - Alcohol Abuse
-
 - Animal Abuse
-
 - Child Abuse
-
 - Child Death
-
 - Domestic Violence
-
 - Drug Abuse
-
 - Emotional Abuse
-
 - Gender-Bias Violence
-
 - LGBTQ-Bias Violence
-
 - Racial/Ethnic-Bias Violence
-
 - Self-Harm
-
 - Sexual Assault
-
 - Suicide
-
 - Torture
 
 Here is an example of a content note:
 
-### Content note
-Fireside Fiction Company provides content notes to guide readers who may wish to seek out or avoid particular story elements. A current list of all the elements covered in our content notes can be found at [firesidefiction.com/about-fireside](https://firesidefiction.com/about-fireside).We welcome your suggestions for elements to include or exclude.
-
-Legend:
-
-•	| One scene of mild intensity
-
-••	| One scene of moderate intensity
-
-•••	| Multiple scenes of mild to moderate intensity
-
-••••	| One scene of high intensity
-
-•••••	| Multiple scenes of high intensity
-
-## This Book Contains:
+#### This Book Contains
 
 •••	| Emotional Abuse
-
 ••	| Racial-Bias Violence
+
+Fireside Fiction Company provides content notes to guide readers who may wish to seek out or avoid particular story elements. A current list of all the elements covered in our content notes can be found at [firesidefiction.com/about-fireside](https://firesidefiction.com/about-fireside).We welcome your suggestions for elements to include or exclude.
+
+###### Legend:
+
+•	| One scene of mild intensity
+••	| One scene of moderate intensity
+•••	| Multiple scenes of mild to moderate intensity
+••••	| One scene of high intensity
+•••••	| Multiple scenes of high intensity
+
+<p></p>
 
 [back to the top](#masthead)
 
