@@ -14,12 +14,17 @@ artist: Galen Dara
 
 _Selected by guest editor Daniel José Older_
 
-*5 Reasons I Have To Break Up With Nia (Zoraida Tun’s journal)*
-* 1. Dragged me here, never see her anymore anyway*
-* 2. Promised we’d set up one household together in six months, and it’s been a year*
-* 3. Stuck me with her stupid pet orchid*
-* 4. ...OK, it’s pretty much all about #1.*
-* 5. ...See 4.*
+#### *5 Reasons I Have To Break Up With Nia (Zoraida Tun’s journal)*
+
+*1. Dragged me here, never see her anymore anyway*
+
+*2. Promised we’d set up one household together in six months, and it’s been a year*
+
+*3. Stuck me with her stupid pet orchid*
+
+*4. ...OK, it’s pretty much all about #1.*
+
+*5. ...See 4.*
 
 ----
 
@@ -31,12 +36,17 @@ Seven. That’s bad, but she’s never even been up there, so she can’t pictur
 
 ----
 
-*5 Worst Things About This Place (Zoraida Tun’s journal)*
-* 1. No use for teledildonics specialists (“thriving maker culture” MY ASS), working for godforsaken municipality instead*
-* 2. That is not a proper sky color*
-* 3. Winter nights way too long (especially alone)*
-* 4. Communications infrastructure still being built (!) *
-* 5. Currently available housing way too small. Well, it would be. If there were two people in it.*
+#### *5 Worst Things About This Place (Zoraida Tun’s journal)*
+
+*1. No use for teledildonics specialists (“thriving maker culture” MY ASS), working for godforsaken municipality instead*
+
+*2. That is not a proper sky color*
+
+*3. Winter nights way too long (especially alone)*
+
+*4. Communications infrastructure still being built (!)*
+
+*5. Currently available housing way too small. Well, it would be. If there were two people in it.*
 
 ----
 
@@ -54,13 +64,13 @@ Zory accepts the connection. Text appears on the screen.
 
 Zory makes a face. “Are you in some kind of shantytown hotel with a bootleg satellite linkup or what? We still need to talk.”
 
-* Havent chked msgs, sry. zory, I think im trapped*
+*Havent chked msgs, sry. zory, I think im trapped*
 
 “What?”
 
-* hueg quake up here, didn’t you see the news?*
+*hueg quake up here, didn’t you see the news?*
 
-* ugh, sorry fr typos. never used txt entry on this before. Its so weird.*
+*ugh, sorry fr typos. never used txt entry on this before. Its so weird.*
 
 Oh shit. “You’re in Northern Domain. I forgot.” Zory flushes.
 
@@ -72,23 +82,23 @@ She presses the backs of her hands into her eyes. “Are you hurt? Are you safe?
 
 *Not hurt. just stuck. No power here, no light. Door won’t open.*
 
-* Feel better talking to you thoguh.*
+*Feel better talking to you thoguh.*
 
-“Where *are *you?”
+“Where *are* you?”
 
-* going thru archival data hives, old schooool! Way out in an outpost. don’t think anyone knows exactly where I am.*
+*going thru archival data hives, old schooool! Way out in an outpost. don’t think anyone knows exactly where I am.*
 
-* Tried a million things arlready *
+*Tried a million things arlready*
 
-* Tired connecting by txt to hq, but no txt connections, maybe becuase that new system update*
+*Tired connecting by txt to hq, but no txt connections, maybe becuase that new system update*
 
-* Txt connections are obslete I guess hA HA HA But anyway, I have you, itll be ok*
+*Txt connections are obslete I guess hA HA HA But anyway, I have you, itll be ok*
 
-* Long as I don’t chew my own arm off from boredom anyway*
+*Long as I don’t chew my own arm off from boredom anyway*
 
-* Guess I’ll check for some kind of non0bvious exit again*
+*Guess I’ll check for some kind of non0bvious exit again*
 
-* fuck ;afterchok*
+*fuck ;afterchok*
 
 “What? Nia, what?”
 
@@ -97,17 +107,17 @@ Zory stares at the screen, waiting for more words to appear where video of Nia s
 
 ----
 
-*5 Responsibilities Of Municipal Employees In An Emergency (virtual poster, Zoraida Tun’s work space)*
+#### *5 Responsibilities Of Municipal Employees In An Emergency (virtual poster, Zoraida Tun’s work space)*
 
-* 1. Assess situation and identify any possible threats to life safety.*
+*1. Assess situation and identify any possible threats to life safety.*
 
-* 2. Take action to protect themselves and members of the public in their immediate vicinity.*
+*2. Take action to protect themselves and members of the public in their immediate vicinity.*
 
-* 3. Note critical information on slate and immediately copy to headquarters.*
+*3. Note critical information on slate and immediately copy to headquarters.*
 
-* 4. Report time-sensitive life safety information to supervisor.*
+*4. Report time-sensitive life safety information to supervisor.*
 
-* 5. Follow response procedures established by their department’s emergency plan. See 090a-q.*
+*5. Follow response procedures established by their department’s emergency plan. See 090a-q.*
 
 ----
 
@@ -123,7 +133,7 @@ Zory stares at the news feed’s jumble of words, not really processing them: *a
 
 “No shit,” Zory grumbles, but the apartment is used to it and doesn’t inquire further. She drums her fingers and is trying to think, when Nia reconnects.
 
-* think I cracked a rib or smoething. Feel like ive got asthma. *
+*think I cracked a rib or smoething. Feel like ive got asthma.*
 
 Zory takes a deep breath herself. “How bad? Severe shortness of breath?”
 
@@ -133,21 +143,21 @@ Zory takes Nia through the rest of the first aid questions. “I think you’re 
 
 *Ok*
 
-* But zory*
+*But zory*
 
-* everythig OK on your end*
+*everythig OK on your end*
 
-* I mean, I can’t hear you*
+*I mean, I can’t hear you*
 
-* And your’e probably upset*
+*And your’e probably upset*
 
-* But seems like something is wrong*
+*But seems like something is wrong*
 
-* ?*
+*?*
 
-* I love you zory*
+*I love you zory*
 
-* zory ?*
+*zory ?*
 
 Zory closes her eyes. Nia’s never been good at picking up on Zory’s body language or the subtext of her discontent. But now, *now* she can tell? Fuck.
 
@@ -155,17 +165,17 @@ She sighs. It’s probably because of what she *didn’t* say. But Zory doesn’
 
 ----
 
-*Reasons To Give Nia — Use this during the call so you don’t wimp out!!! (Zoraida Tun’s journal)*
+#### *Reasons To Give Nia — Use this during the call so you don’t wimp out!!! (Zoraida Tun’s journal)*
 
-* 1. You broke your promise*
+*1. You broke your promise*
 
-* 2. We’re already separated. Literally*
+*2. We’re already separated. Literally*
 
-* 3. We basically don’t have a relationship anymore*
+*3. We basically don’t have a relationship anymore*
 
-* 4. I need to find a good life for myself somewhere*
+*4. I need to find a good life for myself somewhere*
 
-* 5. ...*
+*5. ...*
 
 ----
 
@@ -173,9 +183,9 @@ She sighs. It’s probably because of what she *didn’t* say. But Zory doesn’
 
 *...Ok*
 
-* I’m around 64 n, 22 w. East of the lab base up here. *
+*I’m around 64 n, 22 w. East of the lab base up here.*
 
-* The room is in a printed hut. You know the north s been having development issues...*
+*The room is in a printed hut. You know the north s been having development issues...*
 
 Nia keeps typing. Zory puts a mute on the convo so that her voice commands don’t get transcribed. Occasionally she types “k” so Nia knows she’s there. She’s trying to pace back and forth, trying to figure out what to do, and not succeeding at either.
 
@@ -223,7 +233,7 @@ The building is only a few minutes away by tram, but on foot... at least a coupl
 
 She waves the connection off, then sends Nia’s convo to her slate and clips it to her tank top. She taps a bud into one ear in case Nia gets audio back, and unmutes the convo. “I’m going to the office, but it’s going to take a while. Do you have water?” She shakes her head at herself as she straps on her shoes. It’s like she was infected by the emergency training.
 
-* You know I alway stravel with my water bottle :)*
+*You know I alway stravel with my water bottle :)*
 
 “Well, good. Ration it out and keep still.”
 
@@ -231,7 +241,7 @@ Zory starts to head out, but reconsiders. She goes over to the sink and pops in 
 
 ----
 
-*Tell Your Friends And Family! 5 Reasons To Emigrate From Their World To Ours (display, municipal recreation area)*
+#### *Tell Your Friends And Family! 5 Reasons To Emigrate From Their World To Ours (display, municipal recreation area)*
 
 *1. Mild weather! Never less than 20 C or more than 30 C!*
 
@@ -311,7 +321,7 @@ Zory feels time stop. They have to find Nia. She fantasizes briefly about someho
 
 Zory laughs, managing to keep one eye on her code as it goes through a final round of debugging. “We’re going to talk about *that* later. You need to open it now if you can.” When Nia’s in a hurry or distracted (which is usually), she puts things in her big bag — the one she takes everywhere — and then she forgets about them. Zory has found molded rice-balls, multiple identical discs of expired and unopened medications, and souvenirs from long-finished trips in there.
 
-*Uh, okay? *
+*Uh, okay?*
 
 *Omh nmy god Zory, you made them for me!*
 
@@ -373,7 +383,7 @@ The sun will be rising soon, Zory realizes. She gets herself more coffee, but sh
 
 ----
 
-*5 Best Things About Nia (Zoraida Tun’s journal)*
+####*5 Best Things About Nia (Zoraida Tun’s journal)*
 
 *1. Adventurous*
 
