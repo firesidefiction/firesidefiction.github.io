@@ -25,12 +25,3 @@ Also, a bit of capitalism. [We've opened a store on Zazzle](http://www.zazzle.co
 And finally, [we also have opened a Tumblr](http://firesidefiction.tumblr.com/), if you're on there.
 
 Thanks, as always!
-
-
-
-[1]: http://www.firesidefiction.com/issue7/chapter/catch-a-fallen-star/
-[2]: http://www.firesidefiction.com/issue7/chapter/the-last-good-day/
-[3]: http://www.firesidefiction.com/issue7/chapter/sure-i-am-metaphysically-sinking-into-a-more-terrifying-universe-but-we-all-have-our-things-to-deal-with/
-[4]: http://www.firesidefiction.com/issue7/chapter/the-forever-endeavor-part-four/
-[5]: http://www.zazzle.com/firesidefictionco?rf=238456961614688862
-[6]: http://firesidefiction.tumblr.com/

@@ -2,7 +2,7 @@
 layout: story
 title:  "Catch a Fallen Star"
 author: Jennifer Campbell-Hicks
-date:   2013-10-02 12:01:00 -0500
+date:   2013-11-04 12:01:00 -0500
 category: short story
 permalink: /issue7/chapter/catch-a-fallen-star/
 teaser: "The kid was quick, darting ahead of Valentin around chunks of concrete and metal scraps that lay in the street like a giant child’s playthings."
