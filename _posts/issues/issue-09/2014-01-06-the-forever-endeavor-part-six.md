@@ -11,8 +11,6 @@ published: true
 
 Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Five]({{ site.baseurl}}/issue9/chapter/20/)
 
-
-
 ## 22. A PLATE OF STRANGE MEAT
 
 ### Philadelphia, Pennsylvania: October 22nd, 2011.
