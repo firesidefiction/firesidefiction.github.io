@@ -21,7 +21,7 @@ She swaggered up to Jimmy, who was shouting orders. "I hear there's a kraken in 
 
 Elizabeth almost explained that she was here to join the army. Then she looked at the boys, running around with their sticks, and decided she wasn't interested after all. She would start her own army.
 
-∞
+----
 
 Pirates needed swords, and Elizabeth knew just the right magic for that. She collected all the butter knives from the kitchen and stabbed them into the dirt around the maple tree in her yard. Her mother made her bring the knives back in at lunchtime, but the magic had worked by then and the tree had grown some lovely sword-branches. Butter knives weren't very sharp, so the swords were blunt practice swords, but her mother wouldn't let her have the steak knives, so Elizabeth decided that practice swords would have to do.
 
@@ -39,7 +39,7 @@ They needed something to guard their treasure, and Elizabeth knew just the spell
 
 They trained until it got dark, and they were a good army. In the morning, they would battle the kraken.
 
-∞
+----
 
 Elizabeth met her army at O'Malley Park. They found kraken tracks in the gravel behind the swings, and followed them to the jogging path that wound around in the woods. Elizabeth heard yelling, and a couple boys from Jimmy's army ran past, fleeing from the kraken.
 
