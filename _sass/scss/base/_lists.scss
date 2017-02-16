@@ -65,10 +65,27 @@ dd {
 .issue-bookshelf {
 	display: flex;
 	border-bottom: 1px solid $gray;
+	flex-direction: column;
+	justify-content: space-between;
 	div {
 		padding: $pad/2;
+		font-size: .8em;
 		img {
-			width: 20em;
+			min-width: 8em;
+			max-width: 8em;
+			border: 1px solid $color__fireside-red;
+		}
+	}
+	.issue-book {
+		display: flex;
+		margin-bottom: 1em;
+		border-bottom: 1px solid $color__dark-grey;
+		.metadata {
+			flex-grow: 5;
+		}
+		.button {
+			min-width: 17em;
+			flex-grow: 1;
 		}
 	}
 	&:last-of-type {

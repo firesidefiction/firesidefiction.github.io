@@ -9,16 +9,20 @@ layout: default
     <section class="issue-bookshelf">
       {% for post in site.posts %}
         {% if post.category == "issue" %}
-          <div>
-            <img src="{{ site.baseurl }}/images/{{ post.cover }}" alt="Cover image for {{ post.title }}">
-          </div>
-          <div>
-            <h2>{{ post.title }}</h2>
-            <p>{{ post.content }}</p>
-            {% if post.download-link %}
-              <a href="{{site.baseurl }}{{ post.download-link }}" class="btn">Download ebook files</a>
-            {% endif %}
-          </div>
+          <section class="issue-book">
+            <div class="image">
+              <img src="{{ site.baseurl }}/images/{{ post.cover }}" alt="Cover image for {{ post.title }}">
+            </div>
+            <div class="metadata">
+              <h2>{{ post.title }}</h2>
+              <p>{{ post.content }}</p>
+            </div>
+            <div class="button">
+              {% if post.download-link %}
+                <a href="{{site.baseurl }}{{ post.download-link }}" class="btn">Download ebook files</a>
+              {% endif %}
+            </div>
+          </section>
         {% endif %}
       {% endfor %}
     </section>
