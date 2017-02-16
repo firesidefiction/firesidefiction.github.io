@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  From the Editor
+title:  "From the Editor: Issue 8"
 author: Brian J. White
 date:   2013-12-07 12:01:00 -0500
 category: announcement

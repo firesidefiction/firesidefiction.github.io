@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  From the Editor
+title:  "Of Rats and Men: Issue 7"
 author: Brian J. White
 date:   2013-11-07 12:01:00 -0500
 category: announcement
