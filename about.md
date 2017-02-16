@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## What is Fireside?
-Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story magazine. We started out with the goals of finding and publishing great stories regardless of genre, and paying our writers well. Since Nov. 8, 2016, we have a third goal: resisting the global rise of fascism and far-right populism, starting with the current occupant of the White House.
+Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story magazine. We began with the goals of finding and publishing great stories regardless of genre, and paying our writers well. Since Nov. 8, 2016, we have a third goal: resisting the global rise of fascism and far-right populism, starting with the current occupant of the White House.
 
 [back to the top](#top-of-page)
 
@@ -14,7 +14,7 @@ Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story mag
 ## Fair pay for everyone
 Fair pay is a big deal for us. We think creative people should be able to make a living from their work. This is one of our [core values](../values.html).
 
-Fireside pays 12.5 cents per word, well above the 5 or 6 cents currently considered to be the minimum professional rate. In fact, we pay better than almost every other [SFWA-qualifying market](http://www.sfwa.org/about/join-us/sfwa-membership-requirements/#short). For illustrations, we pay $400 for a full-color piece.
+Fireside pays 12.5 cents per word, well above the 6 cents currently considered to be the minimum professional rate. In fact, we pay better than almost every other [SFWA-qualifying market](http://www.sfwa.org/about/join-us/sfwa-membership-requirements/#short). For illustrations, we pay $400 for a full-color piece.
 
 [back to the top](#top-of-page)
 
