@@ -6,7 +6,7 @@ layout: default
   {{ content }}
 
     {% for post in paginator.posts %}
-      {% if post.category == "short story" or post.category == "flash fiction" %}
+      {% if post.category == "short story" or post.category == "flash fiction" or post.category == "comic" %}
         <div class="entry story">
           {% if post.art %}
             <a href="{{ post.url | relative_url }}">
@@ -22,8 +22,9 @@ layout: default
             <p>{{ post.teaser }}</p>
           </div>
         </div>
+      {% endif %}
 
-      {% else %}
+      {% if post.category == "news" or post.category == "announcement" or post.category == "essay" %}
       <div class="entry news">
         <h4>{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</h4>
         <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
