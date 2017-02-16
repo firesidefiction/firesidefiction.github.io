@@ -107,6 +107,6 @@ Fireside Fiction Company provides content notes to guide readers who may wish to
 ***
 
 ## More Questions?
-If there’s something we haven’t addressed here, please feel free to email editor Brian White at [questions@firesidefiction.com](mailto:questions@firesidefiction.com). (Please do NOT send submissions here. Any stories sent to this address will be deleted unread.)
+If there’s something we haven’t addressed here, please feel free to email us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com). (Please do _not_ send submissions here. Any stories sent to this address will be deleted unread.)
 
 [back to the top](#top-of-page)
