@@ -2,10 +2,10 @@
 layout: story
 title: Forever Now
 author: A.E. Decker
-date:   2016-04-02 12:01:00 -0500
+date:   2016-04-04 12:01:00 -0500
 category: short story
 permalink: /issue32/chapter/forever-now/
-teaser: "“I’ve lost my parents,” Rita told the man in the many-colored hat."
+teaser: "I’ve lost my parents, Rita told the man in the many-colored hat."
 published: true
 art: forever-now.jpg
 caption: a little girl with two afro buns on either side of her head holds a picture frame, standing in the center of a multicolored background.
@@ -280,6 +280,6 @@ She hugged him hard. His fur was as silky as the touch of whipped cream melting 
 
 “Yes,” she replied. A single, white-gold feather shimmered behind Ferdinand’s ear. Grinning through her tears, she hugged him again. “Everything’s just great now.”
 
-
 #### About the Author
+
 A. E. Decker, a former ESL tutor and tai chi instructor, lives in Pennsylvania. Her young adult novel, The Falling of the Moon, is published by [World Weaver Press](http://www.worldweaverpress.com/store/p78/The_Falling_of_the_Moon.html). A graduate of the Odyssey Writers' Workshop, she is the author of numerous short stories and a five-year member of the Bethlehem Writers Group. Like all writers, she is owned by three cats. Come visit her site, [Words Meet World](http://www.wordsmeetworld.com/), for free stories and fur Daleks.
