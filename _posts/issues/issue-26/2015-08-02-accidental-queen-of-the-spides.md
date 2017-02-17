@@ -1,22 +1,13 @@
 ---
 layout: story
-title:  "The Eleventh Hour"
-author: Lauren M. Roy
-date:   2015-07-02 12:01:00 -0500
+title:  "Accidental Queen of the Spiders"
+author: Zina Hutton
+date:   2015-08-02 12:01:00 -0500
 category: flash fiction
-permalink: /issue25/chapter/the-eleventh-hour/
-teaser: "She gave me an hour to save the world."
+permalink: /issue26/chapter/accidental-queen-of-the-spides/
+teaser: "No one ever talks about how many spiders live on the island."
 published: true
 ---
-
-
-[Source](http://www.firesidefiction.com/issue26/chapter/accidental-queen-of-the-spides/ "Permalink to Accidental Queen of the Spiders")
-
-# Accidental Queen of the Spiders
-
-####
-
-## by Zina Hutton
 
 No one ever talks about how many spiders live on the island.
 
@@ -78,24 +69,6 @@ She takes the package because she can't imagine doing otherwise.
 
 Underneath the webbing is a crown.
 
-###
-
-### Help Fireside continue to publish great fiction.  
-Your ongoing [support on Patreon][1] gives us a sustainable future.
-
-###
-
-[Back to Issue 26][2]
-
-Back when she was a child, Zina Hutton jumped out of a window to escape dance class in the Virgin Islands. Now she's an aspiring fantasy writer who tends to leap headfirst into new stories and worlds the second that inspiration strikes. Zina lives in hot and humid South Florida and she's never far away from a notebook and her precious Kindle.  You can find her at [Stitch's Media Mix][3] and on twitter as [@stichomancery][4].
-
-[1]: https://www.patreon.com/firesidefiction
-[2]: http://www.firesidefiction.com/issue26/
-[3]: https://stitchmediamix.wordpress.com/
-[4]: https://twitter.com/stichomancery
-
-
-
 #### About the Author
 
-Lauren M. Roy has been an independent bookseller, a publisher sales rep, and is completing her bookselling hat trick as an author. Her _Night Owls_ urban fantasy series is published by Ace Books, and her YA fantasy _The Fire Children_ is published by Solaris. Her flash fiction has appeared in Fireside Magazine and on Podcastle. Lauren lives in Southeastern Massachusetts with her husband, their cats, and the ghosts of the houseplants she forgets to water.
+Back when she was a child, Zina Hutton jumped out of a window to escape dance class in the Virgin Islands. Now she's an aspiring fantasy writer who tends to leap headfirst into new stories and worlds the second that inspiration strikes. Zina lives in hot and humid South Florida and she's never far away from a notebook and her precious Kindle.  You can find her at [Stitch's Media Mix](https://stitchmediamix.wordpress.com/) and on twitter as [@stichomancery](https://twitter.com/stichomancery).

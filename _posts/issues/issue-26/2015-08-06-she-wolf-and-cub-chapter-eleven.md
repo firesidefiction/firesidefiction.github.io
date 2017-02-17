@@ -1,24 +1,15 @@
 ---
 layout: story
-title:  "She Wolf and Cub: Chapter Ten"
+title:  "She Wolf and Cub: Chapter Eleven"
 author: Lilith Saintcrow
-date:   2015-07-06 12:01:00 -0500
+date:   2015-08-06 12:01:00 -0500
 category: serial
-permalink: /issue25/chapter/she-wolf-and-cub-chapter-ten/
-teaser: "The fourpad exploded, chunks of meat flying and a burst of hot blood."
+permalink: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
+teaser: "They came from below."
 published: true
 ---
 
-
-[Source](http://www.firesidefiction.com/issue26/chapter/she-wolf-and-cub-chapter-eleven/ "Permalink to She Wolf and Cub: Chapter Eleven")
-
-# She Wolf and Cub: Chapter Eleven
-
-####
-
-## by Lilith Saintcrow
-
-Jump to: [Chapter Ten][1]
+Jump to: [Chapter Ten]({{ site.baseurl }}/issue25/chapter/she-wolf-and-cub-chapter-ten/)
 
 ## Black Hat Collective
 
@@ -42,7 +33,7 @@ _Geoff, biting his lip a little as he concentrated on the watermaker. His head u
 
 _Sam on the other side of the tank wall, his face unreadable as I floated. He'd come by to check on me during upgrades, and often stood there watching, turned into a green ghost by the restraint gel or tinted blue by the narcofluid. Sam splayed in the sand, limbs akimbo, watching me contain Geoff's struggles. What was that look on his face? There and gone in less than a heartbeat._
 
-_"_He_ wants her alive."_
+"_He_ wants her alive."_
 
 _Who?_
 
@@ -106,7 +97,7 @@ _They have nanos, all right. They're not agents? The measurements…_
 
 _The Collective._
 
-* * *
+----
 
 Swimming up again. A stinging all over me. Voices.
 
@@ -206,7 +197,7 @@ Mercifully, I grayed into anaerobic reserve mode. It didn't halt the inevitable.
 
 I drowned.
 
-* * *
+----
 
 Green glow. A vertical restraint tank is a tube of nonshatter plasilca; it cradles and cushions. The cramwrap dissolving in floating gauze veils, so slowly. Time stretches, slows, limbs heavy and resistant. Just enough oxygen and glucose to keep you right above shutdown, and the veils of chemical restraint turn the nanos all the way down. Pulse, respiration, metabolism all throttled back to deepcycle norms. It's not like a stasis tank, blissful oblivion floating in blue narcofluid. This was for the treatments that required an agent to still have some baseline activity, not the absolute blankness of stasis.
 
@@ -280,7 +271,7 @@ _Get out of here._
 
 Hanging in the restraint gel, I twitched.
 
-* * *
+----
 
 _Thud_.
 
@@ -312,28 +303,7 @@ And again.
 
 _Thud._
 
-Jump to: [Chapter Twelve][2]
-
-###
-
-### Help Fireside continue to publish great fiction.  
-Your ongoing [support on Patreon][3] gives us a sustainable future.
-
-###
-
-[Back to Issue 26][4]
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/][5], on Twitter at [@lilithsaintcrow][6] and on [Facebook][7].
-
-[1]: http://www.firesidefiction.com/issue25/chapter/she-wolf-and-cub-chapter-ten/
-[2]: http://www.firesidefiction.com/issue27/chapter/she-wolf-and-cub-chapter-twelve/
-[3]: https://www.patreon.com/firesidefiction
-[4]: http://www.firesidefiction.com/issue26/
-[5]: http://www.lilithsaintcrow.com/
-[6]: https://twitter.com/lilithsaintcrow
-[7]: https://www.facebook.com/pages/Lilith-Saintcrow/172118402032
-
-
+Jump to: [Chapter Twelve]({{ site.baseurl }}/issue27/chapter/she-wolf-and-cub-chapter-twelve/)
 
 #### About the Author
 
