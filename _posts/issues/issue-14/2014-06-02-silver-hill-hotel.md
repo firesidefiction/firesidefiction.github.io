@@ -9,15 +9,6 @@ teaser: "Silver Hill Hotel, Pine County, Nevada. Erected late 1800s, one of the 
 published: true
 ---
 
-
-[Source](http://www.firesidefiction.com/issue14/chapter/silver-hill-hotel/ "Permalink to Silver Hill Hotel | Issue 14")
-
-# Silver Hill Hotel | Issue 14
-
-####
-
-## by David Alex Shepherd
-
 Silver Hill Hotel, Pine County, Nevada.
 
 Erected late 1800s, one of the oldest hotels operating in America. The gravel lot slopes; forget your parking brake and roll off a cliff to what locals call "The Scrap Heap." An abandoned mine sits behind the hotel, a cemetery for locals, a photo op for tourists. Unsure footing keeps people from getting too close. The hotel wears the weathered look of a life-long miner, crusted with dirt that'll never be removed.
