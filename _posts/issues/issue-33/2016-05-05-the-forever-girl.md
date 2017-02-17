@@ -2,13 +2,14 @@
 layout: story
 title:  The Forever Girl
 author: R.F. Thull
-date:   2016-05-03 12:01:00 -0500
+date:   2016-05-05 12:01:00 -0500
 category: short story
-permalink: issue33/chapter/the-forever-girl/
+permalink: /issue33/chapter/the-forever-girl/
 teaser: "The girl shifted limply and moaned. Two sleepy words came out. “OK, promise.”
 That was when the trouble had started."
 published: true
 ---
+
 Lily swelled and shrank with slow breaths, on the brink of sleep. Her dark curls were frazzled from play and her dress was disheveled, wrinkled with undone ribbons and chocolate-frosting handprints smeared down the front. Two hours ago she had been prancing around the yard with a dozen other kids in her wake, blowing out birthday candles, squealing and bounding off furniture. Now she was curled on her mother’s lap like a cat. The other children had gone and the house was a holy wreck.
 
 Four years old today. Soon, Val thought, Lily would be too big to fall asleep in her arms. There had been a twinge of jealously in her during the party — as ridiculous as that was. But Lily had been so happy with the other kids, so fiercely in control. She was pulling away already.
@@ -122,7 +123,6 @@ It was easier the next time, and the next time. More weekends without Lily in a 
 Val took her daughter’s hand. “Promise you’ll grow up,” she said.
 
 Lily smiled sweetly. Two words came out. “OK, promise.”
-
 
 #### About the Author
 R. L. Thull is a graphic designer with a small robot collection. Her fiction has received an honorable mention in the L. Ron Hubbard Writers of the Future contest. She resides in Minneapolis, Minnesota with her husband and two misbehaving cats.

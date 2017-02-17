@@ -2,13 +2,14 @@
 layout: story
 title:  If X is a Real Number
 author: Sofie Bird
-date:   2016-05-04 12:01:00 -0500
+date:   2016-05-06 12:01:00 -0500
 category: short story
-permalink: issue33/chapter/if-x-is-a-real-number/
+permalink: /issue33/chapter/if-x-is-a-real-number/
 teaser: "There is a number on my screen so small it’s just a line of zeroes too long for the ship’s console to display.
 It is our chances of survival."
 published: true
 ---
+
 There is a number on my screen so small it’s just a line of zeroes too long for the ship’s console to display.
 
 It is our chances of survival.
@@ -241,6 +242,6 @@ I float, arms waving in the space you left. I fill my mind with Mira’s hair, T
 
 The line of zeroes glare up at me from my console, still too long to display.
 
-
 #### About the Author
+
 Sofie Bird writes speculative fiction in Melbourne, Australia, and pays the bills as a technical writer, where no one looks at her askance for wanting to know everything. She also programs, weaves, sculpts glass, and maintains a website at [sofiebird.net](http://sofiebird.net). Sofie is a graduate of the Odyssey Writing Workshop, has published poetry in the Australian periodical Blue Dog, and her fiction has appeared in Orson Scott Card’s Intergalactic Medicine Show, and the anthology *Temporally Out Of Order*, by Zombies Need Brains. You can follow her on Twitter [@sofie\_bird](https://twitter.com/@sofie_bird).

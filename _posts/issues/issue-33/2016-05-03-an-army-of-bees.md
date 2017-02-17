@@ -2,12 +2,13 @@
 layout: story
 title:  An Army of Bees
 author: Caroline Yoachim
-date:   2016-05-06 12:01:00 -0500
+date:   2016-05-03 12:01:00 -0500
 category: short story
 permalink: /issue33/chapter/an-army-of-bees/
 teaser: "Last winter, my veins held only blood and not an army of nanobots."
 published: true
 ---
+
 Last winter, my veins held only blood and not an army of nanobots. You were four, and I thought my fatigue was a normal side effect of parenthood. Surely the exhaustion was from chasing you around the house, or too many nights of interrupted sleep. I convinced myself that nothing was wrong, but other symptoms appeared: a lingering cough, chest pain, night sweats.
 
 Lumps swelled up in my neck, and I went to see a doctor. The prognosis was bad, but I qualified for a spot in a research study. My treatment started in March. The weather was warm and bees emerged from their hives to visit the first flowers of spring.
@@ -30,6 +31,6 @@ On the first day of kindergarten, I walked you to school. I held your hand, and 
 
 I’m sorry I can’t defeat this enemy and have a lifetime of peace with you. Bees are creatures of summer, and my tiny buzzing army cannot win another war.
 
-
 #### About the Author
+
 Caroline M. Yoachim lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in Fantasy & Science Fiction, Clarkesworld, Asimov's, and Lightspeed, among other places.  Her debut short story collection, *Seven Wonders of a Once and Future World & Other Stories*, is coming out with Fairwood Press in August 2016.  For more about Caroline, check out her [website] (http://carolineyoachim.com).
