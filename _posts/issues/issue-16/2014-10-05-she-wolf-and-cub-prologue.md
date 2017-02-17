@@ -5,7 +5,7 @@ author: Lilith Saintcrow
 date:   2014-10-05 12:01:00 -0500
 category: serial
 permalink: issue16/chapter/she-wolf-and-cub-prologue/
-teaser: "It's midnight and Dale stands on the beach in bare feet, wet sand sucking at his toes."
+teaser: "The bar was dim, full of fauxsmoke. Modern ersatz cigs don't kill you like the old ones, and synthetic liquor doesn't bite either."
 published: true
 art: maternal-type.jpg
 caption: Illustration for Maternal Type

@@ -5,7 +5,7 @@ author: Lilith Saintcrow
 date:   2014-10-06 12:01:00 -0500
 category: serial
 permalink: /issue16/chapter/she-wolf-and-cub-chapter-one/
-teaser: "It's midnight and Dale stands on the beach in bare feet, wet sand sucking at his toes."
+teaser: "I thought derailing — or just plain getting off — a sealed train in the middle of the Waste would be difficult, but not impossible."
 published: true
 art: she-wolf-and-cub-chapter-one.jpg
 caption: Illustration for She Wolf and Cub Chapter One
