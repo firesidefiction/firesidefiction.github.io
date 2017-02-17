@@ -9,7 +9,7 @@ teaser: "He didn't complain, even when the sunlight worked through the wrappings
 published: true
 ---
 
-Jump to: [Chapter One]( {{ site.baseurl }}/issue16/chapter/she-wolf-and-cub-chapter-one/)
+Jump to: [Chapter One]({{ site.baseurl }}/issue16/chapter/she-wolf-and-cub-chapter-one/)
 
 ## Cannibal Warfare
 
