@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome to the First Issue of Fireside
+title:  "Issue 1 — Welcome to the First Issue of Fireside"
 author: Brian J. White
 date:   2012-03-07 12:01:00 -0500
 category: announcement

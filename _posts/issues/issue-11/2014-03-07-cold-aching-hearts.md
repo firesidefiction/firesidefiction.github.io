@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cold, Aching Hearts: Issue 11"
+title:  "Issue 11 — Cold, Aching Hearts"
 author: Brian J. White
 date:   2014-03-07 12:01:00 -0500
 category: announcement

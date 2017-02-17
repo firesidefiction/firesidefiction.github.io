@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "From the Editor: Issue 16"
+title:  "Issue 16 — From the Editor"
 author: Brian J. White
 date:   2014-10-07 12:01:00 -0500
 category: announcement

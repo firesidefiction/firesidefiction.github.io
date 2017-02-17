@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Year Two: Issue 4"
+title:  "Issue 4 — Welcome to Year Two"
 author: Brian J. White
 date:   2013-08-07 12:01:00 -0500
 category: announcement

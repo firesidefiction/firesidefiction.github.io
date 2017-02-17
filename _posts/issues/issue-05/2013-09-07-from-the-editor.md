@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hugos and Stories and Art, Oh Yeah! Issue 5"
+title:  "Issue 5 — Hugos and Stories and Art, Oh Yeah!"
 author: Brian J. White
 date:   2013-09-07 12:01:00 -0500
 category: announcement

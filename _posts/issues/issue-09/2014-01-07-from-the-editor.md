@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aw, geez mom! Issue 9"
+title:  "Issue 9 — Aw, geez mom!"
 author: Brian J. White
 date:   2014-01-07 12:01:00 -0500
 category: announcement

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WOW. ISSUE TWO. Issue 2"
+title:  "Issue 2 — WOW. ISSUE TWO."
 author: Brian J. White
 date:   2012-07-07 12:01:00 -0500
 category: announcement

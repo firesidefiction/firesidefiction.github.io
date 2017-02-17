@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "From the Editor: Issue 20"
+title:  "Issue 20 — From the Editor"
 author: Brian J. White
 date:   2015-02-07 12:01:00 -0500
 category: announcement

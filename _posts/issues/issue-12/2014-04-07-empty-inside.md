@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Empty Inside: Issue 12"
+title:  "Issue 12 — Empty Inside"
 author: Brian J. White
 date:   2014-04-07 12:01:00 -0500
 category: announcement
