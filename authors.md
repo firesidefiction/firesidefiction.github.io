@@ -6,8 +6,6 @@ permalink: /authors
 
 This is a list of all the creators who have contributed to Fireside.
 
-{% include authors-abc.html %}
-
 ## A
 
 ### Daniel Abraham
