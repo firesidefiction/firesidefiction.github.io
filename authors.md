@@ -361,11 +361,11 @@ This is a list of all the creators who have contributed to Fireside.
 
 [back to the top](#top-of-page)
 
-----
+<!-- ----
 
 ## Q
 
-[back to the top](#top-of-page)
+[back to the top](#top-of-page) -->
 
 ----
 
@@ -458,7 +458,7 @@ This is a list of all the creators who have contributed to Fireside.
 
 [back to the top](#top-of-page)
 
-----
+<!-- ----
 
 ## U
 
@@ -468,7 +468,7 @@ This is a list of all the creators who have contributed to Fireside.
 
 ## V
 
-[back to the top](#top-of-page)
+[back to the top](#top-of-page) -->
 
 ----
 
