@@ -9,7 +9,7 @@ Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story mag
 
 [back to the top](#top-of-page)
 
-***
+----
 
 ## Fair pay for everyone
 Fair pay is a big deal for us. We think creative people should be able to make a living from their work. This is one of our [core values](../values.html).
@@ -18,7 +18,7 @@ Fireside pays 12.5 cents per word, well above the 6 cents currently considered t
 
 [back to the top](#top-of-page)
 
-***
+----
 
 ## Supporting Fireside
 
@@ -31,7 +31,7 @@ Don't want the commitment of backing every month, but still want to throw some c
 
 [back to the top](#top-of-page)
 
-***
+----
 
 ## The Fireside Team
 
@@ -46,7 +46,7 @@ Pablo Defendini is [a designer for hire](https://defendini.com), with a focus on
 
 [back to the top](#top-of-page)
 
-***
+----
 
 ## Submissions Guidelines
 
@@ -63,7 +63,7 @@ Fireside will be open to submissions for several one-week periods in 2017. Here'
 
 [back to the top](#top-of-page)
 
-***
+----
 
 ## Content Notes
 Fireside Fiction Company provides content notes for books and stories to guide readers who may wish to seek out or avoid particular story elements. These content notes may contain spoilers.
@@ -109,7 +109,7 @@ Fireside Fiction Company provides content notes to guide readers who may wish to
 
 [back to the top](#top-of-page)
 
-***
+----
 
 ## More Questions?
 If there’s something we haven’t addressed here, please feel free to email us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com). (Please do _not_ send submissions here. Any stories sent to this address will be deleted unread.)
