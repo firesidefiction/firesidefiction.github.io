@@ -2,15 +2,16 @@
 layout: story
 title:  The Get-Get Man
 author: Melissa Moorer
-date:   2016-10-02 12:01:00 -0500
+date:   2016-10-04 12:01:00 -0500
 category: short story
 permalink: /issue37/chapter/the-get-get-man/
 teaser: "The Get-Get Man travels at night, sharp as a scalpel, dark as soot. He cuts through the yards and streets, slicing and taking what doesn’t make way. They say you can only see him from the side."
 published: true
 art: the-get-get-man.jpg
-caption: Illustration for the get get man.
+caption: Illustration for The Get-Get Man
 artist: Galen Dara
 ---
+
 _Selected by guest editor Daniel José Older_
 
 The Get-Get Man travels at night, sharp as a scalpel, dark as soot. He cuts through the yards and streets, slicing and taking what doesn’t make way. They say you can only see him from the side. If you see him head on it’s probably too, late because which way would you run anyway? He is as wide as the sky, deeper than the grave, and he always gets what he came for.
@@ -39,11 +40,11 @@ Everything was almost back to normal when Jeremy saw him over near the park and 
 
 That’s when they all started looking at me like I was the one who made him cry. Even Leslie. But instead of that snotty older sister look of meanness she always got, she just looked scared. So scared she yelled at everyone to shutup and they all did, but the quiet was way worse than all the yelling. Because now they were trying not to look at me and I wanted to hit them or at least run away, but Leslie grabbed my arm and yanked me hard all the way home.
 
-***
+----
 
 The Get-Get Man is like a long piece of paper but he's also deep like a book. Deep enough to print and hold all the things he’s seen and collected all the way back to before and maybe even farther. Not like pictures in a book, but like movies all rolled up and waiting to be played. Or songs maybe. Or maybe even memories. But whose memories? And what do you play them on? Maybe the Get-Get Man isn’t a person at all but like a video camera.
 
-***
+----
 
 I didn’t tell anyone about the end of the cat’s tail I found in my room. Orange tabby and sliced clean. I buried it in the back yard under the bushes with an old birthday card granny had sent me with the bloody horror movie Jesus on the front so maybe he’d go to heaven or his tail would and he could find it later.
 
@@ -83,7 +84,7 @@ The next morning there was part of a Gameboy and a stack of money on the floor w
 
 The morning after that, part of a finger. It was bigger than Mom’s, with pale skin and sort of stubby with dirt under the nail. I should have been scared or at least grossed out, but I didn't feel much of anything anymore and anyway, it looked like that plastic finger with fake blood you can buy at Halloween, only less real. I buried it in the backyard next to the cat tail, but I didn't put a card on top. I put one of the twenty dollar pieces in my pocket and went to the store. He looked at me funny, but took the money pieces. All the candy made me sick. I piled what was I hadn’t eaten all around my room, dividing them by color and size, spreading them out into thin layers and puddles, then countries and continents, on my rug. I didn't have to worry about Leslie coming in and stealing it so I left it all there in the open where I could look at what was mine whenever I wanted. It reminded me that I was real like a map of all the things that could be mine even though I'd lost everything and just didn't know it yet.
 
-***
+----
 
 I wish I’d known sooner that only *things* could be gotten. I would have kept wanting non-things, like for Mom to notice me. But it wouldn’t have mattered anyway. She’d given up on me or maybe she just stopped noticing the way everyone else did when the world went flat and I was gotten. I had to remind her and Leslie that I was still there. I left clothing, books, plates of food they would never eat around the house, but they still looked at me strangely for a moment each time we met in the hallway or the bathroom. There was always that slight hesitation, the confusion they tried to mask but that never really left their eyes.
 
@@ -95,11 +96,11 @@ So I started concentrating on wanting only things that couldn’t be gotten: goo
 
 Look what happened with the orange tabby cat. But sometimes saying you don't want something is just as bad.
 
-***
+----
 
 I know you’re thinking that I did the right thing, that I saved my sister, but I didn’t. I was too worried about saving myself and when I finally tried, she was already gone.
 
-***
+----
 
 I used to sit outside Mom’s door waiting for her to come out just so she might see me, talk to me on her way to the bathroom or the kitchen. We weren’t allowed in her bedroom when the door was shut and the door was usually shut. Especially at times like these when her latest religion or guru or whatever had stopped working right. And they always did. I don't know what she was looking for. Magic maybe, but the big impossible kind like in the movies and in the Bible and in paintings. Even I know that kind of magic isn't real anymore and probably never was.
 
@@ -107,13 +108,13 @@ I don’t sit outside Mom’s room anymore and I’m not sure if it’s because 
 
 *I don’t want Mom to get gotten. I don’t want Mom to get gotten.*
 
-***
+----
 
 I wished sometimes that he would get it over with, just get whatever it was he wanted and then I wouldn’t have to worry about it anymore.
 
 I wondered what he looked like. Was he tall and dark? Short and blonde? Did he wear a dark overcoat or overalls? Did he have fangs like a vampire or did he look like Dr. Peters, the dentist? My room was suddenly too dark and quiet and I pulled the blanket over my head hoping to hide myself or at least hide how alone I was. All I had was the gotten candies and they were too sweet to do anything.
 
-***
+----
 
 “God! You’re such a loser! Anyone else would be getting cool stuff for us, but not perfect you!” Leslie yelled. Mom wasn’t home, so she could yell as loud as she wanted. “All I wanted was an iPhone. Not, like a yacht or a Mercedes or something. You could just get it easy, but nooooo,” she drew out that no into a kid’s mean sing-song even though she was too old for that sort of thing anymore. She was a teenager now. Sometimes she would get started talking like this and not stop.
 
@@ -133,7 +134,7 @@ Finally, she unbent and let go of her hair, but her shoulders were still hunched
 
 “Whatever. I knew you wouldn’t help,” she said and left without even slamming the door.
 
-***
+----
 
 When I came home from school, Mom and Pastor Gary were waiting for me. I thought at first that I was in trouble even though none of my teachers or even the clerks at the Quik-e mart even noticed me anymore. Mom had that serious look on her face, her hands folded in front as she stood there with an almost-smile as Pastor Gary told me Leslie had run away with her boyfriend. His voice was soft, but it was still the voice he used in his church that used to be a candle store in the strip mall. They were both acting like I was a camera or an audience. I didn’t know what to say. Probably I was supposed to ask where she was, but she’d run away so they wouldn’t know anyway.
 
@@ -141,13 +142,13 @@ When I came home from school, Mom and Pastor Gary were waiting for me. I thought
 
 Mom blinked and looked back and forth between Pastor Gary like she wasn’t sure what to say to me. Like she was waiting for Pastor Gary to be the Mom or tell her how to be one. So I walked around them into the kitchen to see if there was anything to eat. The hissing got louder as I looked through the fridge and the cabinets, finally deciding on a bowl of cereal that was probably stale. At least the milk was good. I could barely hear them talking and finally the sounds of the front door closing hard and locking me in. I went out front and put the chain on the door in case Pastor Gary decided to come back with Mom’s keys since she was obviously his zombie and he could make her do anything. I worried for a minute that Leslie might come back and how would she get in with the chain on, but she’d just yell until I came downstairs so I left it like that.
 
-***
+----
 
 A few months later I found Leslie on Facebook. She had a different name and the pictures were blurry, but it could have been her. She didn’t post that often, but there were pictures of different places that looked familiar. Mainly she posted about the Red River Killer, so I started researching him too. Like most killers, no one knew much about him except for the bodies of the women and girls he killed, the places where he left their bodies, the things he did to them.
 
 I friended her, but she never friended me back so it felt like the Red River Killer was our only connection. And it was the same Red River that ran past our town. My town now. I had no idea what Leslie’s town was. Leslie followed other serial killers and posted articles about them, but the Red River Killer was her favorite. And mine.
 
-***
+----
 
 It happened one night that wasn’t any different from any other night except that I was wanting things kind of bad and I was tired of being gotten and not getting anything for it. I heard the hissing and felt the usual fear spreading over me like a sunburn, but this time rather than wait inside that lit up box of a bedroom, I decided I would go out to meet him. I wondered what had been gotten and tried to think of all the things that I’d accidentally wanted:
 
@@ -221,7 +222,7 @@ We laughed a long loud hiss, edged and empty, but already ours, already gotten. 
 
 Gotten.
 
-***
+----
 
 When the head showed up the next morning I screamed, but no one came running so probably Mom either never made it home or had gone out early. But the head. I’d been so careful. Had only wanted things. Which was probably why it was only a part, or that’s what I told myself even though I knew this was a thing I secretly wanted. And there was the new iPhone I’d gotten next to it, still new in its now-bloody box. The memory of Getting was like a terrible craving, worse than candy, but I was used to silencing that want. I thought of the things that couldn’t be gotten: sunlight, memories of playing with Leslie before I’d been Gotten and she wasn’t so hateful.
 
@@ -232,4 +233,5 @@ I never found out who the head belonged to, but the Red River Killer stopped kil
 I messaged Leslie thinking I’d done it for her, but she never answered.
 
 #### About the author
+
 Melissa Moorer was struck by lightning when she was eight. Her work has been published in luminous journals such as Electric Literature, The Future Fire, Heiresses of Russ 2015, The Butter/The Toast, The Offing Mag (forthcoming), LCRW, Hot Metal Bridge, FLAPPERHOUSE, Vestal Review. She was Assistant Editor at The Butter/The Toast where she wrote”’This Writer's On Fire’”series for Roxane Gay. She still does research for Roxane Gay, which is the coolest job in the world.

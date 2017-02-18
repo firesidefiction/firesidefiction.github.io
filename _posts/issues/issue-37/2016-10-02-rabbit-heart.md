@@ -8,6 +8,7 @@ permalink: /issue37/chapter/rabbit-heart/
 teaser: "The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries. His name is Gavin, and he is thin and wrinkly and covered in fine brown hair."
 published: true
 ---
+
 The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries. His name is Gavin, and he is thin and wrinkly and covered in fine brown hair. Funny looking, as preemies often are, but sweet nonetheless. Margie keeps him wrapped in a blanket of cobwebs, which I think is disgusting. I’ve always hated spiders.
 
 Did you know that ghosts are like pack rats? We collect of all manner of things: Barbie hairs and memories and peanut shells and dreams of death. Invoices and autumn leaves and the words on the tip of your tongue. Margie collected Gavin, and now she collects cobwebs from my attic to be sure that he stays warm.
@@ -31,4 +32,5 @@ All ghosts are collectors, even my unborn baby boy. He collects static from the 
 I am tempted, sometimes, to collect my husband’s new baby.  He is pudgy and gurgly and just starting to smile. But he isn’t my baby, and I know all too well the pain that it would cause if I took him from his family. So instead I haunt the house that once was mine, and listen to the children’s laughter, and try to collect only little things that won’t be missed.
 
 #### About the author
+
 Caroline M. Yoachim lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in _Fantasy & Science Fiction_, _Clarkesworld_, _Asimov's_, and _Lightspeed_, among other places.  Her debut short story collection, _Seven Wonders of a Once and Future World & Other Stories_, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at [carolineyoachim.com](carolineyoachim.com).
