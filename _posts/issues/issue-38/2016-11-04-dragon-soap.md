@@ -2,7 +2,7 @@
 layout: story
 title:  Dragon Soap
 author: M.K. Hutchins
-date:   2016-11-02 12:01:00 -0500
+date:   2016-11-04 12:01:00 -0500
 category: short story
 permalink: /issue38/chapter/25/
 teaser: "Gran never did like it when I used the Winchester to deal with dragons — so I went and did a damn fool thing and set out to hunt them in the dead of night. It wasn’t hard to sneak by Gran. She snored twice as loud as she barked, which was saying something."
@@ -76,7 +76,7 @@ Idiot. “We’ve got to get you back.”
 
 I put my arm around his shoulder — the arm without the Winchester slung around it — and dragged him along. “The longer we wait, the worse it’ll be. Trust me.”
 
-***
+----
 
 We didn’t have none of the apothecary’s anti-mange soap, so I sent Ted out with the lye stuff to wash by the rain barrel. I left him the lotion — it worked best as a repellent, but it might help some. He stumbled back inside soon enough, curled up, and went to sleep.
 
@@ -137,7 +137,7 @@ That might actually work. Beth would get a kick out of taking something we cheri
 
 I’d just been standing there, looking at it and dawdling. If my folks were still around, we wouldn’t be like this — me and Gran and Ted scratching just to get by. “Yes, Gran. I’m going.”
 
-***
+----
 
 Beth had a nice spot in town, between the tinsmith and the leather-worker. The wooden sign was painted in garish red, with letters so flourished they were hard to read: *Madame Jade’s Apothecary. Best Tonics, Medicines, and Restoratives.*
 
@@ -191,7 +191,7 @@ Beth ignored me, red lips pursed as she poked at her tallow with a spoon.
 
 “It’s fine,” she snapped. “I only render it myself to ensure my ingredients are *quality*. Unfortunately, I have much less control over the caliber of my customers. Get out, swamp rat. Now. Or do I need to chase you with a broom?”
 
-***
+----
 
 I walked back home parallel along the canal, but a good ways from it. Townfolk had cut it a decade ago so they could let the swamp compost their trash instead of doing it themselves. Corn husks and chicken bones bobbed downstream with considerably less-attractive human waste. Right then, I hated folks who were too good for a normal latrine like everyone else. People like Beth. She was worse than most, pretending to come from a noble place she’d never even seen.
 
@@ -237,7 +237,7 @@ By the time I finished, Gran hadn’t come outside with any brilliant ideas. So 
 
 I prayed that I really had found a nest last night. I’d worry about spilled blood spreading the mange and itchy dragons tearing up the farm in search of produce latter.
 
-***
+----
 
 Soon as I reached the swamp, I switched to a two-hand carry, ready to shoot quickly. I ducked around moss and watched my step. Long before I reached the pond, though, I caught a wiff of rust. Had a mangy dragon been this way recently?
 
@@ -289,7 +289,7 @@ But as the dragons nestled their fellow and grieved, I saw the reason for her se
 
 Beth wasn’t buying those carcasses because she’d figured out how to use the skeletons of lesser dragons. She wasn’t making medicine for no miners up north. I’d been a damned fool. I should have realized something was wrong when I caught high-and-mighty Beth rendering her own tallow.
 
-***
+----
 
 I hauled the fellow I’d shot earlier back home, then asked Gran to help me butcher him up.
 
@@ -358,4 +358,5 @@ Gran nodded. “I like your plan, Maisy. Just promise me you’ll sell the soap 
 “Yes, Gran.”
 
 #### About the author
+
 M.K. Hutchins regularly draws on her background in archaeology when writing fiction. Her YA fantasy novel Drift was both a Junior Library Guild Selection and a VOYA Top Shelf Honoree. Her short fiction appears in Fireside Magazine, Podcastle, IGMS, Daily Science Fiction, and elsewhere. A long-time Idahoan, she now lives in Utah with her husband and four children. Find her at [mkhutchins.com](http://mkhutchins.com)
