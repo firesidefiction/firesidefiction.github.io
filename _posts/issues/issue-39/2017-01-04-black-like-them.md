@@ -456,8 +456,6 @@ Unfortunately, I am going to have to call in the authorities. I wish that it did
 
 Ms. Lovington, please show Mr. Disher out.
 
-subhead">We couldn't bring you stories like this every month without the support of our subscribers and Patreon backers.
-
 #### About the author
 
 Troy L. Wiggins is a writer and co-editor of [Fiyah Magazine of Black Speculative Fiction](http://www.fiyahlitmag.com/). His short fiction has appeared in the _Griots: Sisters of the Spear_, _Long Hidden: Speculative Fiction From the Margins of History_, and _Memphis Noir_ anthologies. Troy lives in Memphis with his wife, their two dogs, and entirely too many books. Find him on twitter [@TroyLWiggins](https://twitter.com/TroyLWiggins).

@@ -11,10 +11,10 @@ layout: default
   <header class="story-header">
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
     {% if page.author %}<p class="byline">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></p>{% endif %}
-    <p>{{ page.date | date: "%b %Y" }}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}</p>
+    <p>{{ page.date | date: "%B %Y" }}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}</p>
   </header>
 
-  <div>
+  <div class="content">
     {{ content }}
   </div>
 
