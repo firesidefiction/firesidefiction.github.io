@@ -29,8 +29,9 @@ ol, ul {
 	 list-style: none;
 	 display: flex;
 	 justify-content: space-between;
+	 flex-wrap: wrap;
 	 li {
-		 margin: 0 $space/2;
+		 margin: $space/2;
 	 }
  }
 }
