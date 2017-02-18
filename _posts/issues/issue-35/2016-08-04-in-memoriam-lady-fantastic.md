@@ -2,7 +2,7 @@
 layout: story
 title:  "In Memoriam: Lady Fantastic"
 author: Lauren M. Roy
-date:   2016-08-02 12:01:00 -0500
+date:   2016-08-04 12:01:00 -0500
 category: short story
 permalink: /issue35/chapter/27/
 teaser: "Lady Fantastic died yesterday. She was one of the classics, one of the first to don her cape and soar over the skyline, one of that golden generation who inspired every hero who came after."
@@ -45,7 +45,6 @@ In fifth grade, I dressed as her for Halloween. The skirt went down past my knee
  It’s sad, knowing Lady Fantastic will never again soar through the atmosphere, but when I look up at night and seek out that tiny red dot, I’ll remember all the things she did to help my daughter go even higher, even farther.
 
  Like I said, she never minded sharing the sky.
-
 
 ####About the Author
 

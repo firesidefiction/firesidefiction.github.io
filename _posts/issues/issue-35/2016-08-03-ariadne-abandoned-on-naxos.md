@@ -2,15 +2,12 @@
 layout: story
 title:  Ariadne, Abandoned on Naxos
 author: S.M. Mack
-date:   2016-08-01 12:01:00 -0500
+date:   2016-08-03 12:01:00 -0500
 category: short story
 permalink: /issue35/chapter/ariadne-abandoned-on-naxos/
 teaser: "You are six when your mother is cursed."
 published: true
 ---
-
-
-
 
 _Selected by guest editor Daniel José Older_
 
@@ -110,6 +107,6 @@ Dionysus steps forward and reaches out. When you take his hand, his palm is soft
 
 The corners around his eyes crease when he smiles. The warmth in it chases the chill from your skin and your bones, and the wind roars past you both.
 
-
 #### About the Author
-S.M. Mack, colloquially known as Smack, has had stories and poems published in Vine Leaves Literary Journal's _Best of 2015_ collection, _Gone Lawn_, _The Art of Deduction_, and _Into the Teeth of the Wind_.  She is a participant in the Awkward Robots Clarion Class of 2012’s _Red Volume_, _Orange Volume_, and forthcoming _Yellow Volume_ fundraising anthologies, and can always be found on Twitter at [@whatsmacksaid] (https://twitter.com/whatsmacksaid).
+
+S.M. Mack, colloquially known as Smack, has had stories and poems published in Vine Leaves Literary Journal's _Best of 2015_ collection, _Gone Lawn_, _The Art of Deduction_, and _Into the Teeth of the Wind_.  She is a participant in the Awkward Robots Clarion Class of 2012’s _Red Volume_, _Orange Volume_, and forthcoming _Yellow Volume_ fundraising anthologies, and can always be found on Twitter at [@whatsmacksaid](https://twitter.com/whatsmacksaid).

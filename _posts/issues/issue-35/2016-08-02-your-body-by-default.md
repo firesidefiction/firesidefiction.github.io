@@ -2,7 +2,7 @@
 layout: story
 title: Your Body, By Default
 author: Alexis A. Hunter
-date:   2016-08-04 12:01:00 -0500
+date:   2016-08-02 12:01:00 -0500
 category: short story
 permalink: /issue35/chapter/your-body-by-default/
 teaser: "The IED blew your body into pieces: bone and brain and blood, sprayed in the sand with the twisted shell of your tank"
@@ -19,7 +19,7 @@ They brought you back because they want something from you. Maybe one day they w
 ----
 
 The IED blew your body into pieces: bone and brain and blood, sprayed in the sand with the twisted shell of your tank.
-Maybe you weren’t always happy with your body; maybe your breasts were smaller than you would have liked and your toes reminded you of tree roots and there was that one mole right in the middle of your back that you always managed to catch with the hook of your bra; but it was *your *body. Your history was written in scars and tattoos. And you knew it, inside and out.
+Maybe you weren’t always happy with your body; maybe your breasts were smaller than you would have liked and your toes reminded you of tree roots and there was that one mole right in the middle of your back that you always managed to catch with the hook of your bra; but it was *your* body. Your history was written in scars and tattoos. And you knew it, inside and out.
 
 You made it yours over the years — the shaved sides of your head accenting the bright shock of magenta hair spilling over the top, the solid black contact lenses that made pupil and iris indistinguishable, the ornate scrolling ink that wrapped your ribcage.
 
@@ -78,19 +78,19 @@ The chain rattles around your ankles when you stand.
 
 That draws his attention, lightning-quick, alarm blowing color into his cheeks.
 
-“Please, sit.” He looks at the camera deliberately. After a pause, you sink back to the chair and let him prattle on, because it’s what he needs to do, what they want him to do, and your job is to sit docile and compliant. But a thought snakes through your head and you barely hear him speaking because it’s so loud crashing through your skull: *would they expect this sort of submission if I had been a man? Is that why they… why they brought *me *back?*
+“Please, sit.” He looks at the camera deliberately. After a pause, you sink back to the chair and let him prattle on, because it’s what he needs to do, what they want him to do, and your job is to sit docile and compliant. But a thought snakes through your head and you barely hear him speaking because it’s so loud crashing through your skull: *would they expect this sort of submission if I had been a man? Is that why they… why they brought* me *back?*
 
 “…and so there’s no legislation, you see, on our… activities… because no one knows what we’re doing here, no one knows it’s even possible yet.” You tune back in to see the light in his eyes. Something like pride, like he thinks he’s some kind of hero. “Across the world, what we’ve done for you is nothing but a theoretical possibility.”
 
-“*For *me?” The words escape without your permission. You meant to be what they needed until the opportunity came to be more. But the word *for *burns through you like a hot knife. Your fists clench on the table-top and he watches them, that wariness creeping back into his face.
+“*For* me?” The words escape without your permission. You meant to be what they needed until the opportunity came to be more. But the word *for* burns through you like a hot knife. Your fists clench on the table-top and he watches them, that wariness creeping back into his face.
 
 “Excuse me?”
 
-“What you’ve done *for *me?” You’re on the verge of another explosion of rage. You don’t remember being prone before to outbursts like the one in your room. Is this what it feels like to be a man? Or have they simply pushed your soul beyond what a soul is made to bear? Wouldn’t anybody react this way? “Don’t you mean, what you’ve done *to *me?”
+“What you’ve done *for* me?” You’re on the verge of another explosion of rage. You don’t remember being prone before to outbursts like the one in your room. Is this what it feels like to be a man? Or have they simply pushed your soul beyond what a soul is made to bear? Wouldn’t anybody react this way? “Don’t you mean, what you’ve done *to* me?”
 
 The quaver in your voice must sound off all kinds of alarm in his animal brain. He’s got his back to the wall, and you’re thinking about how thick the chains on your ankles are — and whether or not you could bust them with your new strength — when a harsh buzz sounds. The man steps to the door, which cracks open just a hair. Soft words are exchanged and the man leaves; a woman takes his place, and you draw in a calming breath.
 
-You settle a little as she takes up his tablet, takes up his chair. She meets your eyes and leans forward as if trying to peer *into *you. This is better. She’s looking at you — you inside this fleshy prison — not at the construct around you.
+You settle a little as she takes up his tablet, takes up his chair. She meets your eyes and leans forward as if trying to peer *into* you. This is better. She’s looking at you — you inside this fleshy prison — not at the construct around you.
 
 “Corporal Benik, my name is Natasha Leonard, I’m going to be taking your case from here out. I apologize for my associate. He doesn’t exactly…” She glances at the camera, smiles, a plastic expression, and then settles back into your conversation.
 
@@ -108,7 +108,7 @@ You settle a little as she takes up his tablet, takes up his chair. She meets yo
 
 She squirms, glances at the tablet, and you wonder if it’s feeding her lines. If it is, she’s good at delivering them with conviction. That or she’s completely bought into the bullshit.
 
-“Unfortunately, Chaudron Industries has only produced male vessels so far. I think the important thing to focus on, however, is that we *did *rescue you—”
+“Unfortunately, Chaudron Industries has only produced male vessels so far. I think the important thing to focus on, however, is that we *did* rescue you—”
 
 “Why?”
 
@@ -128,11 +128,11 @@ She leans in, voice lower, almost begging you to understand. “Female bodies ar
 
 “So we’re not worth the cost? I’m not given a choice because you’re cutting corners—”
 
-“We are *not *cutting corners.” The moment the words snap from her lips she tenses, then draws a deep breath and continues in that pressed-calm voice — the one you can imagine narrating a propaganda video. “Creating female vessels is, you understand, simply too expensive at this point in time. But we did *not* scrimp in constructing your body. Early on we discovered that the transfer of consciousness wouldn’t work with clones. So every Chaudron Industries body uses the same programming — the same, roadmap, if you will, but each body is unique.
+“We are *not* cutting corners.” The moment the words snap from her lips she tenses, then draws a deep breath and continues in that pressed-calm voice — the one you can imagine narrating a propaganda video. “Creating female vessels is, you understand, simply too expensive at this point in time. But we did *not* scrimp in constructing your body. Early on we discovered that the transfer of consciousness wouldn’t work with clones. So every Chaudron Industries body uses the same programming — the same, roadmap, if you will, but each body is unique.
 
 “And as I said, we work within a short window to transfer minds — if we had focused on producing both male and female housing, we would never have reached the point where we could have transferred you, Corporal Benik.”
 
-*Too expensive.* Too time-consuming. Your fists are clenched again, and a fragment of your mind feels like it’s spinning out of control. Your vision distorts, bending the woman’s face into waves. You feel yourself beginning to hyperventilate and you know you should calm down before they dose you with something, but there are no women. *There are no women. *They can’t move you into a more-right body.
+*Too expensive.* Too time-consuming. Your fists are clenched again, and a fragment of your mind feels like it’s spinning out of control. Your vision distorts, bending the woman’s face into waves. You feel yourself beginning to hyperventilate and you know you should calm down before they dose you with something, but there are no women. *There are no women.* They can’t move you into a more-right body.
 
 *You’re stuck. You’re fucking stuck.*
 
@@ -277,7 +277,6 @@ But what about tomorrow? And the day after? You don’t know.
 
 For now there’s only you, and them, and the half-spoken obligations that lie between you both.
 
-
-
 #### About the Author
-Alexis A. Hunter revels in the endless possibilities of speculative fiction.  Over fifty of her short stories have appeared in magazines such as Shimmer, Apex, Fantastic Stories of the Imagination, and more.  To learn more, visit (alexisahunter.com).
+
+Alexis A. Hunter revels in the endless possibilities of speculative fiction.  Over fifty of her short stories have appeared in magazines such as Shimmer, Apex, Fantastic Stories of the Imagination, and more.  To learn more, visit [alexisahunter.com](http://www.alexisahunter.com).
