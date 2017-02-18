@@ -18,6 +18,23 @@ ol, ul {
 	}
 }
 
+.alphanav {
+	position: fixed;
+	bottom: 0;
+	padding: 1em;
+	background-color: white;
+	border-top: 1px solid lighten($color__base--light, 30%);
+	ul {
+	 margin: 0;
+	 list-style: none;
+	 display: flex;
+	 justify-content: space-between;
+	 li {
+		 margin: 0 $space/2;
+	 }
+ }
+}
+
 /* Definition Lists */
 dl {
 	overflow: hidden;
