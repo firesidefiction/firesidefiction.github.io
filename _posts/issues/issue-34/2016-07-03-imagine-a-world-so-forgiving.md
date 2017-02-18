@@ -8,8 +8,8 @@ permalink: /issue34/chapter/imagine-a-world-so-forgiving/
 teaser: "It was a shitty fucking mission."
 published: true
 ---
-Selected by guest editor Daniel José Older
 
+_Selected by guest editor Daniel José Older_
 
 Her ship thundered into the ground, and Caroline stumbled out from the wreckage into a bright haze of ivy and trees. No one had set foot on Earth since the terraforming team had arrived thirty years prior. Before them, a century. Humanity had escaped its ruined cradle and scarcely looked back. All around her, the sunlight was unnatural and soft, filtered through ozone and clouds and canopy. She blinked, blinked again, then rubbed her eyes.
 
@@ -311,6 +311,6 @@ Her vision grew dark.
 
 “But still, fuck you.”
 
-
 #### About the Author
+
 Margaret Killjoy is an author and editor who travels with no fixed home. Margaret’s most recent book is A Country of Ghosts, a utopian novel published by Combustion Books in 2014. They (blog) [birdsbeforethestorm.net] and say things as [@magpiekilljoy] (http://twitter.com/magpiekilljoy) on Twitter.

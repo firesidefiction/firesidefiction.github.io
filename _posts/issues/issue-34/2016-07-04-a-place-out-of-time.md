@@ -82,4 +82,5 @@ We linger at our fixed point in time – our imperfect home – hoping desperate
 We keep ourselves safe by remaining out of time.
 
 #### About the Author
-Elsa Sjunneson-Henry is a .5 deaf .5 blind writer from Seattle, Washington. She has a Master's Degree in Women's History from Sarah Lawrence College. Her work has appeared at Disability in Kidlit, XOJane, Offbeat Bride, The Women's Media Center blog, and many other places. When not writing, she walks her hound dog on Revolutionary War battlefields with her husband. You can find her in Apex's _Upside Down_ anthology, at her site [Feminist Sonar] (www.feministsonar.com), or on Twitter [@snarkbat] (www.twitter.com/snarkbat).
+
+Elsa Sjunneson-Henry is a .5 deaf .5 blind writer from Seattle, Washington. She has a Master's Degree in Women's History from Sarah Lawrence College. Her work has appeared at Disability in Kidlit, XOJane, Offbeat Bride, The Women's Media Center blog, and many other places. When not writing, she walks her hound dog on Revolutionary War battlefields with her husband. You can find her in Apex's _Upside Down_ anthology, at her site [Feminist Sonar] (www.feministsonar.com), or on Twitter [@snarkbat](www.twitter.com/snarkbat).
