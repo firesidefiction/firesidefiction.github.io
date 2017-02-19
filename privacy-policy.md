@@ -32,4 +32,4 @@ Fireside Fiction Company has no control over, and assumes no responsibility for,
 Fireside Fiction Company may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us.
+If you have any questions about this Privacy Policy, please contact us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com).

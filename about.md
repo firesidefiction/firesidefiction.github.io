@@ -198,7 +198,7 @@ Here is an example of a content note:
 •••	| Emotional Abuse
 ••	| Racial-Bias Violence
 
-Fireside Fiction Company provides content notes to guide readers who may wish to seek out or avoid particular story elements. A current list of all the elements covered in our content notes can be found at [firesidefiction.com/about-fireside](https://firesidefiction.com/about-fireside).We welcome your suggestions for elements to include or exclude.
+Fireside Fiction Company provides content notes to guide readers who may wish to seek out or avoid particular story elements. A current list of all the elements covered in our content notes can be found at [firesidefiction.com/about-us](https://firesidefiction.com/about-us).We welcome your suggestions for elements to include or exclude.
 
 ###### Legend:
 

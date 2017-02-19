@@ -31,4 +31,4 @@ Please review this Agreement periodically for changes. If you do not agree to an
 Published and generated with permission from www.TermsFeed.com.
 
 ## Contact Us
-If you have any questions about this Agreement, please contact us.
+If you have any questions about this Agreement, please contact us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com).
