@@ -50,7 +50,11 @@ Pablo Defendini is [a designer for hire](https://defendini.com), with a focus on
 
 ## Submissions Guidelines
 
-Fireside will be open to submissions for several one-week periods in 2017. Here's our current schedule (subject to change). We accept flash fiction of up to 1,000 words, and short stories from 1,000 to 4,000 words. This is a firm upper limit, as our Patreon grows we will be able to increase the word count we can accept.
+### Fireside is currently closed to submissions.
+
+Fireside will be open to submissions for several one-week periods in 2017. We accept flash fiction of up to 1,000 words, and short stories from 1,000 to 4,000 words.
+
+Here's our current schedule (subject to change).
 
 - March 19-25 (Flash fiction only)
 - April 16-22 (Flash fiction and short stories)
@@ -59,6 +63,104 @@ Fireside will be open to submissions for several one-week periods in 2017. Here'
 - September 17-23 (Flash fiction and short stories)
 - November 5-11 (Flash fiction and short stories)
 
+Fireside is only able to publish and pay for our fantastic stories with the support of our Patreon backers. As our support grows, we’ll be able to publish more stories and longer stories, and raise our already leading pay rates even higher. Please consider supporting us on Patreon.
+
+### The rules
+
+So, you’ve got a story to tell? We want to hear it. Probably.
+
+(Please read all our guidelines before submitting. Seriously.)
+
+Boy, are we mean. Believe us, though, all these rules are based on actual problems we have encountered in previous submissions periods. We get thousands of submissions and have a small staff, so please don’t make our lives harder.
+
+Fireside accepts original, previously unpublished submissions of short fiction, of any genre, up to 4,000 words. That’s a hard limit, so please don’t ask if your 4,015-word story is OK. It’s not. We ***do not*** accept unsolicited submissions of novels, comics, poetry, art, photography, or anything other than short stories of up to 4,000 words. Again, don’t ask. Don’t query. Just don’t.
+
+If you submit a novel or anything way over the word count limits, we’ll probably blacklist you.
+
+Under our new, more frequent submissions schedule, you can only submit one story per submissions period. If you get a rejection, you can’t submit again during that period.
+
+We don’t accept submissions that are currently submitted elsewhere (known as simultaneous submissions). We don’t accept submissions that you have published yourself, be it on your blog, via Patreon, or anywhere else.
+
+If we’ve rejected a story previously, don’t submit it again unless we’ve asked you to, even if it’s been heavily revised. If you do submit it, we’ll reject it unread. We are paying attention.
+
+You can ONLY submit stories through Submittable. If you email anyone on our staff a story, it will be deleted unread.
+
+OK? Great! On to the fun stuff!
+
+### Payment & rights
+
+Fireside pays 12.5 cents per word, with payment on completion of edits (which generally happen about a month before publication). We buy first world publication rights and six-month exclusivity, as well as the right to reprint the story once, non-exclusively, in a Fireside anthology.
+
+### What we’re looking for
+
+The best way to get an idea of what we love is to read stories we’ve already published. In general though, Fireside loves great storytelling, meaning stories that go somewhere, that keep people reading to find out what happens next.
+
+We’re not looking for character studies or metafiction or hallucinatory visions. (We *like* those things; it’s just not what we publish in Fireside.)
+
+We really do mean any genre, too. Fireside has a heavy tilt toward speculative fiction, but some of our favorite stories have been completely non-genre. ([Sell It Like Death](http://www.firesidefiction.com/issue6/chapter/sell-it-like-death/) is just one example.)
+
+We want to hear the stories only you can tell. We love stories that reflect writers’ backgrounds, especially those of traditionally marginalized communities (sometimes referred to as Own Voices stories). This is NOT at all to say if you are a writer from a marginalized community that your submission has to be Own Voices.
+
+We are committed to being inclusive of all the wonderful differences in our world, both in terms of who we publish and the subjects of the stories. Please don’t self-reject. (But if you’re a white writer you better be sure you’ve done your research and aren’t just throwing a brown face on a white character. Or whatever the equivalent is for the kind of character you are writing outside of your experience of privilige.)
+
+Speaking of which:
+
+### Inclusivity
+
+Inclusivity. Diversity. Decolonization. There are a lot of ways people are talking about breaking the white-male dominance of publishing. We tend to like inclusivity as a mission statement, but however you phrase it, Fireside wants to reflect the endless array of people in the world.
+
+We welcome stories from all writers, and we are especially interested in stories including (but not limited to) the lives, experiences, and viewpoints of women, people of color, LGBTQIA people, people with disabilities, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
+
+In July 2016, we published [\#BlackSpecFic](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717#.oszo8bdcm), a special report on the marginalization of black writers in speculative fiction magazines. You can read all the details at the link above, but the summary is: it’s really terrible. To that end, Fireside particularly encourages submissions from black writers. Send us your stories.
+
+We have gone back and forth about whether to have submissions periods targeted to black writers and members of other marginalized communities. For now, we are not doing this. After a lot of discussion within Fireside and with writers, editors, and other trusted voices, we do not want to ghettoize submissions, or create a sense that marginalized writers have to wait their turn to submit. But we are going to track how this goes, and we are very open to revisiting this policy in the future if things do not improve.
+
+### The Blacklist
+
+OK let’s get mean again for a second. We get some total garbage in our submissions. It pisses us off, it upsets our staff & our readers, and we’re never ever going to publish it. So here is a list of things that will get you on our blacklist:
+
+- Depictions of rape or sexual assault.
+- Depictions of child molestation or brutalization of children.
+- ***Any*** sexual depictions of children. Yes, anyone under 18 is a child. (Seriously what is wrong with you?)
+- Depictions of brutalization of women, people of color, LGBTQIA people, people with disabilities, or any other marginalized people for reasons of hate.
+- Depictions of graphic torture.
+- Depictions of animal abuse.
+- Plagiarism.
+
+This is ***not*** saying stories cannot touch on, address, or talk about these issues. But we don’t want these acts illustrated in detail in Fireside.
+
+But if we think it crosses the line, we’ll blacklist you. There are no appeals.
+
+And seriously, don’t email us to argue why *your* terrible subject matter deserves to be considered. You can publish your story somewhere else. Maybe in a flaming dumpster.
+
+# We also don’t want
+
+Here are things we aren’t interested in publishing stories about. They won’t get you on the blacklist, but you’re wasting your time and ours by submitting them.
+- Cannibals.
+- Terrorism or disaster porn (we know it when we see it).
+- Erotica.
+- Stories in which sexual attraction is the main focus of the entire story.
+- Stories in which the focus is on the main character’s dick. Or what he wants to do with his dick. This is a surprisingly popular subject matter in our submissions inbox. Just no.
+- Fanfic, or any stories set in someone else’s world or using their characters.
+- Stories “ripped from the headlines.”
+
+## Manuscript formatting
+
+Please use standard manuscript format. We’ve been loose about this requirement in the past, but we are not going to be any longer. [Here is a good guide](http://www.sfwa.org/2008/11/manuscript-preparation/) to standard manuscript format.
+
+Please use only Times New Roman or a Courier font. Our assistant editor is low vision and would like to be able to actually read your story, and serifed fonts help with this. And for the love of god, only use *one* font and do not use font colors other than black, backgrounds, or any illustrations.
+
+Make sure you’ve turned off mark-up and sent a document free of comments and edits.
+
+We accept only .doc, .docx, and .rtf files.
+
+## A final note
+
+Fireside usually publishes no more than 10,000 words a month. We accept submissions up to 4,000 words, but frankly, we have a very high bar for stories that long, because they take up such a big chunk of our word count. And we’re perpetually short on flash pieces (under 1,000 words). This is to say, if you want an easy way to increase your chances, don’t automatically send us your longest pieces. Got a great 2,500-word story? Please send it! We love really short fiction, and we need it!
+
+### How to submit: Fireside is currently closed to submissions.
+
+We next open on March 19. See our schedule above for more info.
 
 
 [back to the top](#top-of-page)
