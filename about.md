@@ -115,9 +115,9 @@ In July 2016, we published [\#BlackSpecFic](https://medium.com/fireside-fiction-
 
 We have gone back and forth about whether to have submissions periods targeted to black writers and members of other marginalized communities. For now, we are not doing this. After a lot of discussion within Fireside and with writers, editors, and other trusted voices, we do not want to ghettoize submissions, or create a sense that marginalized writers have to wait their turn to submit. But we are going to track how this goes, and we are very open to revisiting this policy in the future if things do not improve.
 
-### The Blacklist
+### 7 easy ways to get banned from submitting
 
-OK let’s get mean again for a second. We get some total garbage in our submissions. It pisses us off, it upsets our staff & our readers, and we’re never ever going to publish it. So here is a list of things that will get you on our blacklist:
+OK let’s get mean again for a second. We get some total garbage in our submissions. It pisses us off, it upsets our staff & our readers, and we’re never ever going to publish it. So here is a list of things that will get you banned from Fireside:
 
 - Depictions of rape or sexual assault.
 - Depictions of child molestation or brutalization of children.
@@ -133,9 +133,9 @@ But if we think it crosses the line, we’ll blacklist you. There are no appeals
 
 And seriously, don’t email us to argue why *your* terrible subject matter deserves to be considered. You can publish your story somewhere else. Maybe in a flaming dumpster.
 
-# We also don’t want
+### We also don’t want
 
-Here are things we aren’t interested in publishing stories about. They won’t get you on the blacklist, but you’re wasting your time and ours by submitting them.
+Here are things we aren’t interested in publishing stories about. They won’t get you banned, but you’re wasting your time and ours by submitting them.
 - Cannibals.
 - Terrorism or disaster porn (we know it when we see it).
 - Erotica.
@@ -144,7 +144,7 @@ Here are things we aren’t interested in publishing stories about. They won’t
 - Fanfic, or any stories set in someone else’s world or using their characters.
 - Stories “ripped from the headlines.”
 
-## Manuscript formatting
+### Manuscript formatting
 
 Please use standard manuscript format. We’ve been loose about this requirement in the past, but we are not going to be any longer. [Here is a good guide](http://www.sfwa.org/2008/11/manuscript-preparation/) to standard manuscript format.
 
@@ -154,7 +154,7 @@ Make sure you’ve turned off mark-up and sent a document free of comments and e
 
 We accept only .doc, .docx, and .rtf files.
 
-## A final note
+### A final note
 
 Fireside usually publishes no more than 10,000 words a month. We accept submissions up to 4,000 words, but frankly, we have a very high bar for stories that long, because they take up such a big chunk of our word count. And we’re perpetually short on flash pieces (under 1,000 words). This is to say, if you want an easy way to increase your chances, don’t automatically send us your longest pieces. Got a great 2,500-word story? Please send it! We love really short fiction, and we need it!
 
