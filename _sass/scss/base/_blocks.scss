@@ -24,9 +24,11 @@
 	&.story {
 		color: $white;
 		background: $color__fireside-red;
-		border-radius: $border-radius;
 		margin: 1em auto;
 		overflow: hidden;
+		@media all and (min-width: $bp-med) {
+			border-radius: $border-radius;
+		}
 		figure, figure img {
 			margin-bottom: -.5em;
 			width: 100%;
