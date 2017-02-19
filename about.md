@@ -158,10 +158,11 @@ We accept only .doc, .docx, and .rtf files.
 
 Fireside usually publishes no more than 10,000 words a month. We accept submissions up to 4,000 words, but frankly, we have a very high bar for stories that long, because they take up such a big chunk of our word count. And we’re perpetually short on flash pieces (under 1,000 words). This is to say, if you want an easy way to increase your chances, don’t automatically send us your longest pieces. Got a great 2,500-word story? Please send it! We love really short fiction, and we need it!
 
-### How to submit: Fireside is currently closed to submissions.
+### How to submit
+
+### Fireside is currently closed to submissions.
 
 We next open on March 19. See our schedule above for more info.
-
 
 [back to the top](#top-of-page)
 
