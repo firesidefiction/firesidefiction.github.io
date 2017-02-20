@@ -6,9 +6,9 @@ date:   2017-02-09 12:01:00 -0500
 category: news
 permalink: /news/welcome-to-the-fireside-beta
 teaser: "Help us kick some tires."
-published: true
+published: false
 ---
-Welcome to the private beta for the new Fireside Fiction website. If you're reading this, you've been given access so that you can help us kick the tires and generally make sure that everything is ship-shape before we launch on February 21. 
+Welcome to the private beta for the new Fireside Fiction website. If you're reading this, you've been given access so that you can help us kick the tires and generally make sure that everything is ship-shape before we launch on February 21.
 
 The new site is a much simpler design than the previous one. Instead of separating our stories into issues, each with its own mini homepage, we are reverting back to a classic blog-style, reverse-chronological 'river' of content on the homepage. The homepage river will display both the short stories and flash fic you've come to expect from Fireside, as well as the nonfiction and news content that we've been previously publishing on Medium. Fiction will always have pride of place on our homepage river, so our short stories and flash fic look different than our editorial content.
 
