@@ -11,7 +11,7 @@ layout: default
         {% if post.category == "issue" %}
           <section class="issue-book">
             <div class="image">
-              <img src="{{ site.baseurl }}/images/{{ post.cover }}" alt="Cover image for {{ post.title }}">
+              <img src="{{ site.url }}/images/{{ post.cover }}" alt="Cover image for {{ post.title }}">
             </div>
             <div class="metadata">
               <h2>{{ post.title }}</h2>
@@ -19,7 +19,7 @@ layout: default
             </div>
             <div class="button">
               {% if post.download-link %}
-                <a href="{{site.baseurl }}{{ post.download-link }}" class="btn">Download ebook files</a>
+                <a href="{{site.url }}{{ post.download-link }}" class="btn">Download ebook files</a>
               {% endif %}
             </div>
           </section>

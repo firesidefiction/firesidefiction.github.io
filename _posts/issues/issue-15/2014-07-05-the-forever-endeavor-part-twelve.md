@@ -9,7 +9,7 @@ teaser: "It's midnight and Dale stands on the beach in bare feet, wet sand sucki
 published: true
 ---
 
-Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Eleven]({{ site.baseurl }}/issue13/chapter/the-forever-endeavor-part-eleven/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Eleven]({{ site.url }}/issue13/chapter/the-forever-endeavor-part-eleven/)
 
 ## 53. COSMIC FORCES AT YOUR LOCAL WAFFLE HOUSE
 

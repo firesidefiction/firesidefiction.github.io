@@ -9,7 +9,7 @@ teaser: "The sheets braid the space between their tangled legs."
 published: true
 ---
 
-Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Eight]({{ site.baseurl}}/issue11/chapter/the-forever-endeavor-part-eight/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Eight]({{ site.url}}/issue11/chapter/the-forever-endeavor-part-eight/)
 
 ## 35. TANGLED SHEETS
 
@@ -289,7 +289,7 @@ And then he punches the button.
 
 
 
-Jump to: [Part Ten]({{ site.baseurl}}/issue13/chapter/the-forever-endeavor-part-ten/)
+Jump to: [Part Ten]({{ site.url}}/issue13/chapter/the-forever-endeavor-part-ten/)
 
 #### About the Author
 

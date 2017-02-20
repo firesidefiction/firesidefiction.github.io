@@ -9,7 +9,7 @@ teaser: "The big bastard is already at the table, drinking a Godawari Lager, gre
 published: true
 ---
 
-Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Three]({{ site.baseurl}}/issue6/chapter/the-forever-endeavor-part-three/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Three]({{ site.url}}/issue6/chapter/the-forever-endeavor-part-three/)
 
 ## 13. THE BIRD AND THE WORM
 
@@ -383,7 +383,7 @@ A gunshot.
 
 Upstairs, Dale finds his father dead on the toilet with a gun in his mouth (the cheek catching the barrel like a net bulging with a dead fish) and a box of .44 shells cradled between his thighs.
 
-Jump to: [Part Five]({{ site.baseurl}}/issue8/chapter/the-forever-endeavor-part-five/)
+Jump to: [Part Five]({{ site.url}}/issue8/chapter/the-forever-endeavor-part-five/)
 
 #### About the Author
 

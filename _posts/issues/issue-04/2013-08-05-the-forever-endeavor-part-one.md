@@ -507,7 +507,7 @@ And that's when Dale knows he's dead.
 The gun goes off just as his thumb presses the black button.
 
 
-Jump to: [Part Two]({{ site.baseurl }}/issue5/chapter/the-forever-endeavor-part-two/)
+Jump to: [Part Two]({{ site.url }}/issue5/chapter/the-forever-endeavor-part-two/)
 
 #### About the Author
 

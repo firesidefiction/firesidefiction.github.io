@@ -8,7 +8,7 @@ permalink: issue6/chapter/the-forever-endeavor-part-three/
 teaser: "Five days till Christmas, and three days after the event which shall not be acknowledged."
 published: true
 ---
-Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Two]({{ site.baseurl}}/issue5/chapter/the-forever-endeavor-part-two/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Two]({{ site.url}}/issue5/chapter/the-forever-endeavor-part-two/)
 
 ## 10. IS BLISS
 
@@ -374,7 +374,7 @@ And suddenly he sees his future, shining and bright. A future without mistakes. 
 
 A future that will allow him to get Susannah back.
 
-Jump to: [Part Four]({{ site.baseurl}}/issue7/chapter/the-forever-endeavor-part-four/)
+Jump to: [Part Four]({{ site.url}}/issue7/chapter/the-forever-endeavor-part-four/)
 
 #### About the Author
 

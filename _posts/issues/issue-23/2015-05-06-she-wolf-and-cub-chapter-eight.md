@@ -9,7 +9,7 @@ teaser: "Coming up from a numbpatch is always the same."
 published: true
 ---
 
-Jump to: [Chapter Seven]({{ site.baseurl }}/issue22/chapter/she-wolf-and-cub-chapter-seven/)
+Jump to: [Chapter Seven]({{ site.url }}/issue22/chapter/she-wolf-and-cub-chapter-seven/)
 
 ## Agent Warfare
 
@@ -293,7 +293,7 @@ Two hours later, we plunged into the night under the Vines, lit only by faint fu
 
 We went anyway.
 
-Jump to: [Chapter Nine]({{ site.baseurl }}/issue24/chapter/she-wolf-and-cub-chapter-nine/)
+Jump to: [Chapter Nine]({{ site.url }}/issue24/chapter/she-wolf-and-cub-chapter-nine/)
 
 #### About the Author
 
