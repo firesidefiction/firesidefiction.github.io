@@ -5,7 +5,7 @@ layout: default
 
     <article class="post-content">
       <div>
-        <img src="{{ site.url }}/images/{{ page.cover }}" alt="Cover image for {{ page.title }}">
+        <img src="{{ "/images/{{ page.cover }}" | relative_url }}" alt="Cover image for {{ page.title }}">
         <h2>{{ page.title }}</h2>
         <p>{{ page.description }}</p>
         {% if page.goodreads %}
