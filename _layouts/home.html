@@ -11,7 +11,7 @@ layout: default-home
           {% if post.art %}
             <a href="{{ post.url | relative_url }}">
               <figure>
-                <img class="" src="{{ "/illustration/{{ post.art }}" | relative_url }}" alt="{{ post.caption }}">
+                <img class="" src="{{ site.url }}/illustration/{{ post.art }}" alt="{{ post.caption }}">
               </figure>
             </a>
           {% endif %}
