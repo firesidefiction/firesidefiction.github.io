@@ -18,8 +18,8 @@ layout: default
               <p>{{ post.content }}</p>
             </div>
             <div class="button">
-              {% if post.download-link %}
-                <a href="{{ {{ post.download-link }} | relative_url }}" class="btn">Download ebook files</a>
+              {% if post.download %}
+                <a href="{{ post.download }}" class="btn">Download ebook files</a>
               {% endif %}
             </div>
           </section>
