@@ -6,7 +6,7 @@ date:   2017-02-21 12:01:00 -0500
 category: short story
 permalink: /the-revolution-brought-to-you-by-nike
 teaser: “Consumers know it when they see bullshit. They’re not interested in empty words anymore. They’re not interested in garbage awareness campaigns that don’t solve anything, either. They want action. So what does that mean for Nike, hot shot?”
-published: true
+published: false
 art: the-revolution-brought-to-you-by-nike.jpg
 caption: A woman wearing a T-shirt with three Nike swooshes arranged like the arrows in the anti-fascist circle confronts a heavily militarized cop amid a huge protest crowd.
 artist: Galen Dara
