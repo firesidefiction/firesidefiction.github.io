@@ -3,7 +3,7 @@ layout: default
 ---
 {% if page.art %}
   <figure class="story-illustration">
-    <img src="{{ "/illustration/{{ page.art }}" | relative_url }}"alt="{{ page.caption }}">
+    <img src="{{ /illustration/{{ page.art }} | relative_url }}"alt="{{ page.caption }}">
   </figure>
 {% endif %}
 {% include story-logo.html %}
