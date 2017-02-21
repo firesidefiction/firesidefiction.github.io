@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Style Guide
-permalink: /about/
+permalink: /styleguide/
 ---
 
 Oh, look! Fireside has a damned style guide!
