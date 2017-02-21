@@ -64,13 +64,19 @@ footer {
 		display: flex;
 	}
 	div {
+		flex-grow: 1;
 		padding: 0 $pad-half 0 0 ;
+		max-width: 550px
+	}
+	.field {
+		flex-grow: 2;
 	}
 }
 
 #mc_embed_signup {
-	min-width: 320px;
-	max-width: 500px;
+	h2 {
+		text-align: center;
+	}
 }
 
 .legal {
