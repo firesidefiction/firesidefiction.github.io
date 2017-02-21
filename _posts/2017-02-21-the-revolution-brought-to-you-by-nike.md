@@ -62,7 +62,7 @@ Her grandmother’s face on the tiny screen was crinkled up with concern. “How
 
 “Even if you lose, you haven’t lost yet.” Her lola’s voice was fire on the other end of the line. “As long as you breathe, as long as you have a voice to speak, you have power, my Corazon. Remember where you come from.”
 
-### 2. THE CONCEPT
+## 2. THE CONCEPT
 
 Holiday’s office was all shelves stacked with forty years of crystal trophies, reference books, toys. His broad windows looked west, where the sun was setting over the Hudson River. The walls were orange with playful splashes of white and blue. The furniture was made of all-natural materials. It could’ve blended into a Starbucks, or an Apple Store.
 
@@ -218,7 +218,7 @@ Her mother’s creased face collapsed into the origami configuration of long-che
 
 “It was frightening,” her grandmother said. “It was wild and terrible and we didn’t know if we were all going to die or if we could somehow change everything. But we couldn’t suffer any more. We couldn’t *not* do it.”
 
-### 3. THE PITCH
+## 3. THE PITCH
 
 The Nike conference room was heavy on aluminum. The lights were too bright, the casters on the chairs were too loud, and everything echoed a little too much. There was no messy conference speaker phone in here, no exposed cables; the table was bare, save for elegant glasses of water nobody was drinking, and pitchers beaded with sweat.
 
@@ -284,7 +284,7 @@ Corazon wiggled her toes thoughtfully. “What do you think finally tipped the b
 
 “We won with the truth, Corazon. We won by taking over TV and radio stations and broadcasting the truth. But mostly we won by making the people know they were not alone.”
 
-### 4. PRODUCTION
+## 4. PRODUCTION
 
 The kickoff meeting was… well. It was something. Holiday wasn’t there; he was busy putting out fires on an automotive account over a disastrous consumer test. But there were a slew of new faces on board to implement Corazon’s ambitious strategy. There was the social media director, the media planner, the accounts supervisor, a whole team of art directors and junior copywriters and event producers and brand strategists and UX people and…
 
@@ -372,7 +372,7 @@ But the flip side of this meant that when he said a kind word, it counted tenfol
 
 “Oh, and one more thing,” Holiday said. “We’re pushing the launch up to go along with the press release so we can leverage this. Don’t fuck it up.”
 
-### 5. THE LAUNCH
+## 5. THE LAUNCH
 
 Launch day came on a bright Tuesday, amid a flurry of reports that the executive office had pushed through a series of contracts requiring the president’s own hotel properties be the preferred vendor for all federal travel going forward. Another day, another straw that was somehow never the last one.
 
@@ -478,7 +478,7 @@ Her grandmother broke in. “Don’t try to frighten her,” she chided. “Cora
 
 “I’m not afraid,” Corazon said. She was lying, of course. But her grandmother didn’t need to know that.
 
-### 6. THE REVOLUTION
+## 6. THE REVOLUTION
 
 When Corazon got to the agency Monday morning, the offices and wide-open workspaces were completely bare. The screens were all gone, the papers confiscated. Even the mood boards Gregoria has put together were gone and the whiteboards had all been erased.
 
@@ -610,7 +610,7 @@ Corazon’s heart surged. Finally he’d said something true and honest: the peo
 
 As a parting shot he flipped the bird on a national broadcast. “Fuck Nike,” he said. “Bunch of assholes who sell ugly shoes made by toddlers in Singapore.”
 
-### 7. THE POST-MORTEM
+## 7. THE POST-MORTEM
 
 At last Corazon collapsed into her grandmother’s arms, the adrenaline of a week finally gone and leaving her more than halfway to hallucinating. Her grandmother guided her to the guest bedroom and helped her out of her jacket. She stroked Corazon’s hair gently in the cool and dark. “Sleep. You deserve it.”
 
