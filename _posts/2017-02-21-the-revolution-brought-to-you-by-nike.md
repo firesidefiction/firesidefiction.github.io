@@ -6,11 +6,12 @@ date:   2017-02-21 12:01:00 -0500
 category: short story
 permalink: /the-revolution-brought-to-you-by-nike
 teaser: “Consumers know it when they see bullshit. They’re not interested in empty words anymore. They’re not interested in garbage awareness campaigns that don’t solve anything, either. They want action. So what does that mean for Nike, hot shot?”
-published: false
+published: true
 art: the-revolution-brought-to-you-by-nike.jpg
 caption: A woman wearing a T-shirt with three Nike swooshes arranged like the arrows in the anti-fascist circle confronts a heavily militarized cop amid a huge protest crowd.
 artist: Galen Dara
 ---
+
 ### 1. THE BRIEF
 
 Corazon clicked to the slide she’d been dreading: long-term trends for brand engagement. It was dire.
@@ -637,6 +638,6 @@ They were going to sell so many shoes.
 
 #### About the author
 
-Andrea Phillips is an award-winning game designer and author. Currently she co-writes the serials [Bookburners](https://www.serialbox.com/serials/556edb3cada6e270f8e2641d) and [ReMade](https://www.serialbox.com/serials/5755b744ada6e220cd1d9948). Her debut novel, *[Revision](http://www.firesidefiction.com/book/revision)*, is about a wiki where your edits come true. Andrea lived in Angeles City in the Philippines as a child, in the years before and after the 1986 People Power Revolution. This was extremely formative to her.
+Andrea Phillips is an award-winning game designer and author. Currently she co-writes the serials [Bookburners](https://www.serialbox.com/serials/556edb3cada6e270f8e2641d) and [ReMade](https://www.serialbox.com/serials/5755b744ada6e220cd1d9948). Her debut novel, [*Revision*](/book/revision), is about a wiki where your edits come true. Andrea lived in Angeles City in the Philippines as a child, in the years before and after the 1986 People Power Revolution. This was extremely formative to her.
 
 You can find Andrea on Twitter at [@andrhia](http://twitter.com/andrhia). You know, if you like that sort of thing.
