@@ -12,7 +12,7 @@ caption: A woman wearing a T-shirt with three Nike swooshes arranged like the ar
 artist: Galen Dara
 ---
 
-### 1. THE BRIEF
+## 1. THE BRIEF
 
 Corazon clicked to the slide she’d been dreading: long-term trends for brand engagement. It was dire.
 
