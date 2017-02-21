@@ -58,6 +58,12 @@ main > section {
 	}
 }
 
+.story-body {
+	h1, h2, h3, h4, h5, h6 {
+		text-indent: 0;
+	}
+}
+
 .byline {
 	font-size: $font-size-large;
 	font-weight: 300;
