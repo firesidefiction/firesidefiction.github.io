@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Style Guide
-permalink: /styleguide/
+permalink: /blink-blink-no-style-guide-to-see-here/
 ---
 
 Oh, look! Fireside has a damned style guide!
