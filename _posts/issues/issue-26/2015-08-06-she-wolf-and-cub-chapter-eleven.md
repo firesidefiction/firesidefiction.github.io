@@ -9,7 +9,7 @@ teaser: "They came from below."
 published: true
 ---
 
-Jump to: [Chapter Ten]({{ site.url }}/issue25/chapter/she-wolf-and-cub-chapter-ten/)
+Jump to: [Chapter Ten](/issue25/chapter/she-wolf-and-cub-chapter-ten/)
 
 ## Black Hat Collective
 
@@ -303,7 +303,7 @@ And again.
 
 _Thud._
 
-Jump to: [Chapter Twelve]({{ site.url }}/issue27/chapter/she-wolf-and-cub-chapter-twelve/)
+Jump to: [Chapter Twelve](/issue27/chapter/she-wolf-and-cub-chapter-twelve/)
 
 #### About the Author
 

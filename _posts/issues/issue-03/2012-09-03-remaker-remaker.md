@@ -246,7 +246,7 @@ That I cannot do.
 
 ----
 
-_Note to readers: This story has a follow-up in Issue 25, [A Clockwork Heart]({{ site.url }}/issue25/chapter/a-clockwork-heart/)._
+_Note to readers: This story has a follow-up in Issue 25, [A Clockwork Heart](/issue25/chapter/a-clockwork-heart/)._
 
 #### About the Author
 

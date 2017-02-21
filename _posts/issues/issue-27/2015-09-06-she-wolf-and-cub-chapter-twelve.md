@@ -9,7 +9,7 @@ teaser: "Fading bitterness coating the tongue."
 published: true
 ---
 
-Jump to: [Chapter Eleven]({{ site.url }}/issue26/chapter/she-wolf-and-cub-chapter-eleven/)
+Jump to: [Chapter Eleven](/issue26/chapter/she-wolf-and-cub-chapter-eleven/)
 
 ## Who Owns You Now?
 
@@ -411,7 +411,7 @@ But I could wait until my kid was grown. By then, I might even have some sort of
 
 With a grateful sigh, I cycled down.
 
-Jump to: [Coda]({{ site.url }}/issue27/chapter/she-wolf-and-cub-chapter-thirteen/)
+Jump to: [Coda](/issue27/chapter/she-wolf-and-cub-chapter-thirteen/)
 
 #### About the Author
 

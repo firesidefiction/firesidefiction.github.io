@@ -12,7 +12,7 @@ caption: Illustration for She Wolf and Cub Chapter One
 artist: Galen Dara
 ---
 
-Jump to: [Prologue]({{ site.url }}/issue16/chapter/she-wolf-and-cub-prologue/)
+Jump to: [Prologue](/issue16/chapter/she-wolf-and-cub-prologue/)
 
 ## Sealed Train
 
@@ -202,7 +202,7 @@ That seemed to reassure him. At least, he stopped shaking so badly. I waited, im
 
 _Oh, for fucksake._ "I am _now_. Come on, we need to get out of here. Sooner or later they'll send thopters to check this piece of track. We need to be far away when that happens."
 
-Jump to: [Chapter Two]({{ site.url }}/issue17/chapter/she-wolf-and-cub-chapter-two/)
+Jump to: [Chapter Two](/issue17/chapter/she-wolf-and-cub-chapter-two/)
 
 #### About the Author
 

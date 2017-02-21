@@ -9,7 +9,7 @@ teaser: "I hadn't laughed like that since… well, since far before I was implem
 published: true
 ---
 
-Jump to: [Chapter Six]({{ site.url }}/issue21/chapter/she-wolf-and-cub-chapter-six/)
+Jump to: [Chapter Six](/issue21/chapter/she-wolf-and-cub-chapter-six/)
 
 ## Myth
 
@@ -263,7 +263,7 @@ It didn't matter where he got it. The point was, I went down _hard_, everything 
 
 Blackness. Gone.
 
-Jump to: [Chapter Eight]({{ site.url }}/issue23/chapter/she-wolf-and-cub-chapter-eight/)
+Jump to: [Chapter Eight](/issue23/chapter/she-wolf-and-cub-chapter-eight/)
 
 #### About the Author
 

@@ -9,7 +9,7 @@ teaser: "The fourpad exploded, chunks of meat flying and a burst of hot blood."
 published: true
 ---
 
-Jump to: [Chapter Nine]({{ site.url }}/issue24/chapter/she-wolf-and-cub-chapter-nine/)
+Jump to: [Chapter Nine](/issue24/chapter/she-wolf-and-cub-chapter-nine/)
 
 ## Non-Alliance
 
@@ -217,7 +217,7 @@ I lunged, my bladed hand crunching in the throat of the closest silver-eyed agen
 
 Then my handler shot me. Or rather, he lifted a familiar black dial-box, and thumbed the switch while pointing the wand end at me. Another nano reset pulse crashed into me, and I went down hard.
 
-Jump to: [Chapter Eleven]({{ site.url }}/issue26/chapter/she-wolf-and-cub-chapter-eleven/)
+Jump to: [Chapter Eleven](/issue26/chapter/she-wolf-and-cub-chapter-eleven/)
 
 #### About the Author
 

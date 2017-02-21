@@ -9,7 +9,7 @@ teaser: "At first, I thought the township was a worm."
 published: true
 ---
 
-Jump to: [Chapter Two]({{ site.url }}/issue17/chapter/she-wolf-and-cub-chapter-two/)
+Jump to: [Chapter Two](/issue17/chapter/she-wolf-and-cub-chapter-two/)
 
 ## Township Vega
 
@@ -273,7 +273,7 @@ I could mark "ramming a lectric shivprobe through his chest and popping his Dism
 
 And if my handler had shown up _here_, who else could be not-so-far behind?
 
-Jump to: [Chapter Four]({{ site.url }}/issue19/chapter/she-wolf-and-cub-chapter-four/)
+Jump to: [Chapter Four](/issue19/chapter/she-wolf-and-cub-chapter-four/)
 
 #### About the Author
 
