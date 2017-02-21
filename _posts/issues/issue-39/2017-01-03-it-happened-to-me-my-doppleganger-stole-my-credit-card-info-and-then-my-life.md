@@ -5,7 +5,7 @@ author: Nino Cipri
 date:   2017-01-03 12:01:00 -0500
 category: short story
 permalink: /issue39/chapter/it-happened-to-me-my-doppleganger-stole-my-credit-card-info-and-then-my-life/
-teaser: "The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries."
+teaser: "The Nono thing started when you were a toddler. Nono was your favorite word, and your father and I liked to say that it wasn't you who'd pulled all of the dishtowels out of the drawer. It was Nono."
 published: true
 ---
 

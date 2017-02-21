@@ -5,7 +5,7 @@ author: Troy L. Wiggins
 date:   2017-01-04 12:01:00 -0500
 category: short story
 permalink: /issue39/chapter/black-like-them/
-teaser: "Gran never did like it when I used the Winchester to deal with dragons — so I went and did a damn fool thing and set out to hunt them in the dead of night. It wasn’t hard to sneak by Gran. She snored twice as loud as she barked, which was saying something."
+teaser: "According to the most recent census numbers, approximately twelve percent of Americans identify as African-American. Take a look around. Do you see any African-American people — black people — around you? We would urge you to look a bit closer. Perhaps they're not as black as you think."
 published: true
 art: black-like-them.jpg
 caption: A woman crouches calf-deep in a swamp, rifle at the ready. Dragons surround her.

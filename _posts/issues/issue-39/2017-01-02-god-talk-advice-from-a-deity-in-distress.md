@@ -5,7 +5,7 @@ author: Alexis A. Hunter
 date:   2017-01-02 12:01:00 -0500
 category: flash fiction
 permalink: /issue39/chapter/god-talk-advice-from-a-deity-in-distress/
-teaser: "The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries."
+teaser: "What makes a god a monster? What makes a monster a god? The answer to both questions is the same: power."
 published: true
 ---
 
