@@ -9,7 +9,7 @@ teaser: "Dale presses the button."
 published: true
 ---
 
-Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Nine]({{ site.baseurl}}/issue12/chapter/the-forever-endeavor-part-nine/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Nine]({{ site.url}}/issue12/chapter/the-forever-endeavor-part-nine/)
 
 
 
@@ -283,7 +283,7 @@ Dale retracts his hand, as if Walter might be able to snap the chains of the han
 
 But Dale ignores Walter's pleas as he drags the bodies, one by one, out the front door of his house.
 
-Jump to: [Part Eleven]({{ site.baseurl}}/issue14/chapter/the-forever-endeavor-part-eleven/)
+Jump to: [Part Eleven]({{ site.url}}/issue14/chapter/the-forever-endeavor-part-eleven/)
 
 #### About the Author
 

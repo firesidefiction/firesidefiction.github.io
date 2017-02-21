@@ -9,7 +9,7 @@ teaser: "Carsona was a corporation town."
 published: true
 ---
 
-Jump to: [Chapter Five]({{ site.baseurl }}/issue20/chapter/she-wolf-and-cub-chapter-five/)
+Jump to: [Chapter Five](/issue20/chapter/she-wolf-and-cub-chapter-five/)
 
 ## He's Taken
 
@@ -219,7 +219,7 @@ I'll admit it.
 
 I actually started to laugh.
 
-Jump to: [Chapter Seven]({{ site.baseurl }}/issue22/chapter/she-wolf-and-cub-chapter-seven/)
+Jump to: [Chapter Seven](/issue22/chapter/she-wolf-and-cub-chapter-seven/)
 
 #### About the Author
 

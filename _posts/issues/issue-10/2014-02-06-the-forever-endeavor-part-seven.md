@@ -9,7 +9,7 @@ teaser: "Dale is shaking."
 published: true
 ---
 
-Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Six]({{ site.baseurl}}issue9/chapter/20/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Six]({{ site.url}}issue9/chapter/20/)
 
 ## 26. HOT DALE-ON-DALE ACTION
 
@@ -465,7 +465,7 @@ A stain on his shirt. Hair a-muss.
 
 "Welcome to the party, pal," Drunk Gun-Toting Dale says, and laughs.
 
-Jump to: [Part Eight]({{ site.baseurl}}/issue11/chapter/the-forever-endeavor-part-eight/)
+Jump to: [Part Eight]({{ site.url}}/issue11/chapter/the-forever-endeavor-part-eight/)
 
 #### About the Author
 

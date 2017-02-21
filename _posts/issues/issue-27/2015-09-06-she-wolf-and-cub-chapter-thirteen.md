@@ -9,7 +9,7 @@ teaser: "They came from below."
 published: true
 ---
 
-Jump to: [Chapter Twelve]({{ site.baseurl }}/issue27/chapter/she-wolf-and-cub-chapter-twelve/)
+Jump to: [Chapter Twelve](/issue27/chapter/she-wolf-and-cub-chapter-twelve/)
 
 _The wheat-haired man crouches in a clearing, his breath a tuneless whistle as he turns a few dials, points the antenna correctly. "Activate relay." A crackling, the scan run through a code or two, time of day and latitude taken into consideration. The machinery picks up a signal, and he stops whistling._
 

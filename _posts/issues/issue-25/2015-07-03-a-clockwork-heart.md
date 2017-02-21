@@ -9,7 +9,7 @@ teaser: "Myss, the three-hundred-year old harpy, rarely cursed, but she did now.
 published: true
 ---
 
-_Note to readers: This story is a follow-up to Lucas's Issue 3 story,_ [Remaker Remaker]({{ site.baseurl }}/issue3/chapter/remaker-remaker/)
+_Note to readers: This story is a follow-up to Lucas's Issue 3 story,_ [Remaker Remaker](/issue3/chapter/remaker-remaker/)
 
 ----
 
@@ -289,4 +289,4 @@ Julian nodded dumbly. They made their way slowly down the stairs. As they passed
 
 #### About the Author
 
-Lucas J.W. Johnson is a writer, game designer, and entrepreneur. He's published several short stories, including [_Remaker, Remaker_]({{ site.baseurl }}/issue3/chapter/remaker-remaker/) in Fireside, a companion piece to _Clockwork Heart_. He also founded [Silverstring Media](http://silverstringmedia.com/), a narrative design and new media production studio, where he's consulted and written for award-winning games like _Extrasolar_ and Crypt of the _Necrodancer_, and developed original games like the critically-acclaimed _Glitchhikers_ and the coffee-themed horror game _Morning Rituals_. Lucas has been designing narratives since Grade 3, when he was first introduced to tabletop RPGs, and continues to game regularly. He lives with his boyfriend in Vancouver, B.C.
+Lucas J.W. Johnson is a writer, game designer, and entrepreneur. He's published several short stories, including [_Remaker, Remaker_](/issue3/chapter/remaker-remaker/) in Fireside, a companion piece to _Clockwork Heart_. He also founded [Silverstring Media](http://silverstringmedia.com/), a narrative design and new media production studio, where he's consulted and written for award-winning games like _Extrasolar_ and Crypt of the _Necrodancer_, and developed original games like the critically-acclaimed _Glitchhikers_ and the coffee-themed horror game _Morning Rituals_. Lucas has been designing narratives since Grade 3, when he was first introduced to tabletop RPGs, and continues to game regularly. He lives with his boyfriend in Vancouver, B.C.

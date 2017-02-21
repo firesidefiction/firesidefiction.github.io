@@ -9,7 +9,7 @@ teaser: "Dale is shaking."
 published: true
 ---
 
-Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Four]({{ site.baseurl}}/issue7/chapter/the-forever-endeavor-part-four/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Four]({{ site.url}}/issue7/chapter/the-forever-endeavor-part-four/)
 
 
 
@@ -413,7 +413,7 @@ Then he marches back to his car, mud glomming onto his shoes. He whistles, confi
 
 
 
-Jump to: [Part Six]({{ site.baseurl}}/issue9/chapter/20/)
+Jump to: [Part Six]({{ site.url}}/issue9/chapter/20/)
 
 #### About the Author
 

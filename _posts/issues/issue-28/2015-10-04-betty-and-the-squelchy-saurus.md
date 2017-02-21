@@ -248,7 +248,7 @@ Your ongoing [support on Patreon][1] gives us a sustainable future.
 **Caroline M. Yoachim** lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in Fantasy & Science Fiction, Clarkesworld, Asimov's, and Lightspeed, among other places.  Her debut short story collection, Seven Wonders of a Once and Future World & Other Stories, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at [carolineyoachim.com][3].
 
 [1]: https://www.patreon.com/firesidefiction
-[2]: {{ site.baseurl }}/issue28/
+[2]: /issue28/
 [3]: http://carolineyoachim.com
 
 

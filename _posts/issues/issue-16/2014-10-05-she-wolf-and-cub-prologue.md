@@ -452,7 +452,7 @@ He didn't take his hand away. I didn't take mine away either.
 
 "We've got a long way to go," I told him, and held his fingers as the train slid through the City's walls.  
 
-Jump to: [Chapter One]({{ site.baseurl }}/issue16/chapter/she-wolf-and-cub-chapter-one/)
+Jump to: [Chapter One](/issue16/chapter/she-wolf-and-cub-chapter-one/)
 
 #### About the Author
 

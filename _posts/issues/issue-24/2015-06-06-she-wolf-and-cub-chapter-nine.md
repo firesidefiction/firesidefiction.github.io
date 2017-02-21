@@ -9,7 +9,7 @@ teaser: "During the day, the canopy turned everything below into aqueous green s
 published: true
 ---
 
-Jump to: [Chapter Eight]({{ site.baseurl }}/issue23/chapter/she-wolf-and-cub-chapter-eight/)
+Jump to: [Chapter Eight](/issue23/chapter/she-wolf-and-cub-chapter-eight/)
 
 ## I Think She's Serious
 
@@ -289,7 +289,7 @@ That was when they hit me, knocking me right through the shimmer.
 
 The second-gens could live on the bigger mammals as well. And if Geoff could find me, of course his cousins could, too.
 
-Jump to: [Chapter Ten]({{ site.baseurl }}/issue25/chapter/she-wolf-and-cub-chapter-ten/)
+Jump to: [Chapter Ten](/issue25/chapter/she-wolf-and-cub-chapter-ten/)
 
 #### About the Author
 

@@ -11,7 +11,7 @@ published: true
 
 _(Content Note: This excerpt contains one scene of moderate intensity touching on suicide and one scene of mild intensity touching on sexual assault.)_
 
-Take On Me, _the debut novel from Minerva Zimmerman, is on sale now! [You can read more about the book here]({{ site.baseurl }}/books/), and also find links to order it for Kindle, iBooks, Nook, and Kobo. If you enjoy the first chapters, please spread the word. Thanks for reading!_
+Take On Me, _the debut novel from Minerva Zimmerman, is on sale now! [You can read more about the book here](/books/), and also find links to order it for Kindle, iBooks, Nook, and Kobo. If you enjoy the first chapters, please spread the word. Thanks for reading!_
 
 
 ## Chapter One
@@ -1080,8 +1080,8 @@ Alex took one hand off the wheel and pointed at her. "You do."
 
 Alex tapped the stick with the silver ring on his index finger. "I told you, I had a brother like that."
 
-Take On Me, _the debut novel from Minerva Zimmerman, is on sale now! [You can read more about the book here]({{ site.baseurl }}/books/), and also find links to order it for Kindle, iBooks, Nook, and Kobo. If you enjoy the first chapters, please spread the word. Thanks for reading!_
+Take On Me, _the debut novel from Minerva Zimmerman, is on sale now! [You can read more about the book here](/books/), and also find links to order it for Kindle, iBooks, Nook, and Kobo. If you enjoy the first chapters, please spread the word. Thanks for reading!_
 
 #### About the Author
 
-Minerva Zimmerman has managed to remain Statistically Chaotic Neutral despite rumors to the contrary. She is the author of [_The Shattered Ones_]({{ site.baseurl }}/books/) series of novels from Fireside, and her short fiction has appeared in anthologies from Crossed Genres and Broken Eye Books. She can be found at [minervazimmerman.com](http://minervazimmerman.com) or as [@grumpymartian](https://twitter.com/grumpymartian) on Twitter.
+Minerva Zimmerman has managed to remain Statistically Chaotic Neutral despite rumors to the contrary. She is the author of [_The Shattered Ones_](/books/) series of novels from Fireside, and her short fiction has appeared in anthologies from Crossed Genres and Broken Eye Books. She can be found at [minervazimmerman.com](http://minervazimmerman.com) or as [@grumpymartian](https://twitter.com/grumpymartian) on Twitter.

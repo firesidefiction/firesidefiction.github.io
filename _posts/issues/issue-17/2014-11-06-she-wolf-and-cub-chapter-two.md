@@ -9,7 +9,7 @@ teaser: "He didn't complain, even when the sunlight worked through the wrappings
 published: true
 ---
 
-Jump to: [Chapter One]({{ site.baseurl }}/issue16/chapter/she-wolf-and-cub-chapter-one/)
+Jump to: [Chapter One](/issue16/chapter/she-wolf-and-cub-chapter-one/)
 
 ## Cannibal Warfare
 
@@ -273,7 +273,7 @@ Looked like something else was true about the Waste as well.
 
 The worms.
 
-Jump to: [Chapter Three]({{ site.baseurl }}/issue18/chapter/she-wolf-and-cub-chapter-three/)
+Jump to: [Chapter Three](/issue18/chapter/she-wolf-and-cub-chapter-three/)
 
 #### About the Author
 

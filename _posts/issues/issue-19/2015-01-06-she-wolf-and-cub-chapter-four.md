@@ -9,7 +9,7 @@ teaser: "He marched right up to the bar, a loose limber stride just a touch too 
 published: true
 ---
 
-Jump to: [Chapter Three]({{ site.baseurl }}/issue18/chapter/she-wolf-and-cub-chapter-three/)
+Jump to: [Chapter Three](/issue18/chapter/she-wolf-and-cub-chapter-three/)
 
 ## Sam
 
@@ -299,7 +299,7 @@ Hearing his lost, forlorn little voice say it out loud was squirm-worthy. I swal
 
 _I don't know_. Only I did, I just couldn't explain it, and we needed to get the hell out of here. I needed to think about things, especially those agents with their weird silver eye-sheen, and I thought best while moving. "It's _Mom_, Geoff. Mother if you're feeling formal. You can top off with one of his fourpads while I go through his gear, and by dawn we're going to be far away."
 
-Jump to: [Chapter Five]({{ site.baseurl }}/issue20/chapter/she-wolf-and-cub-chapter-five/)
+Jump to: [Chapter Five](/issue20/chapter/she-wolf-and-cub-chapter-five/)
 
 #### About the Author
 

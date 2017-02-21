@@ -9,7 +9,7 @@ teaser: "Dale is shaking."
 published: true
 ---
 
-Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Five]({{ site.baseurl}}/issue9/chapter/20/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Five]({{ site.url}}/issue9/chapter/20/)
 
 ## 22. A PLATE OF STRANGE MEAT
 
@@ -343,7 +343,7 @@ She stiffens. Her mouth forms a tight line.
 
 
 
-Jump to: [Part Seven](({{ site.baseurl}}/issue10/chapter/the-forever-endeavor-part-seven/)
+Jump to: [Part Seven](({{ site.url}}/issue10/chapter/the-forever-endeavor-part-seven/)
 
 #### About the Author
 

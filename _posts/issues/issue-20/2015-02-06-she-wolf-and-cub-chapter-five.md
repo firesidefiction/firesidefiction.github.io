@@ -9,7 +9,7 @@ teaser: "Stars, those faraway nuclear fires you never see through a city's statv
 published: true
 ---
 
-Jump to: [Chapter Four]({{ site.baseurl }}/issue19/chapter/she-wolf-and-cub-chapter-four/)
+Jump to: [Chapter Four](/issue19/chapter/she-wolf-and-cub-chapter-four/)
 
 ## Night Moves
 
@@ -427,7 +427,7 @@ There was the sleeping-roll, the light blanket. The packs he liked to rest his b
 
 He was, quite simply, gone.
 
-Jump to: [Chapter Six]({{ site.baseurl }}/issue21/chapter/she-wolf-and-cub-chapter-six/)
+Jump to: [Chapter Six](/issue21/chapter/she-wolf-and-cub-chapter-six/)
 
 #### About the Author
 

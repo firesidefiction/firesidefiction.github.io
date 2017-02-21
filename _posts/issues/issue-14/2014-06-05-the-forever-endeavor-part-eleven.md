@@ -9,7 +9,7 @@ teaser: "It's midnight and Dale stands on the beach in bare feet, wet sand sucki
 published: true
 ---
 
-Jump to: [Beginning]({{ site.baseurl}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Ten]({{ site.baseurl }}/issue13/chapter/the-forever-endeavor-part-ten/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Ten](/issue13/chapter/the-forever-endeavor-part-ten/)
 
 ## 45. MISTAKES WERE MADE
 
@@ -403,7 +403,7 @@ They shake hands. Bard shrugs.
 
 
 
-Jump to: [Part Twelve]({{ site.baseurl }}/issue15/chapter/the-forever-endeavor-part-twelve/)
+Jump to: [Part Twelve](/issue15/chapter/the-forever-endeavor-part-twelve/)
 
 #### About the Author
 

@@ -225,7 +225,7 @@ And he does.
 
 
 
-Jump to: [Part Nine]({{ site.baseurl}}/issue12/chapter/the-forever-endeavor-part-nine/
+Jump to: [Part Nine]({{ site.url}}/issue12/chapter/the-forever-endeavor-part-nine/
 
 #### About the Author
 
