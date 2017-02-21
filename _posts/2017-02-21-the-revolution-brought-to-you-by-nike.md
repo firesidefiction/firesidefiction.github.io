@@ -212,7 +212,7 @@ Corazon FaceTimed her grandmother herself once she got home that night, curled u
 
 Corazon bit her lip. “Tell me again about People Power.”
 
-Her mother’s creased face collapsed into the origami configuration of long-cherished pride. “Our finest hour,” she said.
+Her grandmother’s creased face collapsed into the origami configuration of long-cherished pride. “Our finest hour,” she said.
 
 “What was it like?”
 
