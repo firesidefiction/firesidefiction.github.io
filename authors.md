@@ -324,6 +324,8 @@ permalink: /authors
 
 — [_Children of Rouwen_](/issue23/chapter/children-of-rouwen/)
 
+— [_The Revolution, Brought to You by Nike_](/the-revolution-brought-to-you-by-nike)
+
 ### Katie Pugh
 — [_Reborn_](/issue12/chapter/27/)
 
