@@ -24,7 +24,5 @@ I got the tattoo at the top of this post on January 3. It was the first one my a
 Is every story going to be political? Too late. Every story has ALWAYS been political. Some, like Andrea Phillips *[The Revolution, Brought to You by Nike](http://firesidefiction.com/the-revolution-brought-to-you-by-nike)*, will be more explicitly so than others. We’ll work to make you laugh and cry and to give you the strength to fight, on the streets, on the phones, on the Internet and in your homes and schools and places of worship.
 
 We’ll be there with you. We will fight. And we will win.
-
 #### About the author
-
 Brian J. White is the editor and publisher of Fireside.
