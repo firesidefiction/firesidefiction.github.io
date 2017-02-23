@@ -16,7 +16,7 @@ Welcome to the resistance.
 Let’s face it, the world is terrifying these days. Donald Trump. Brexit. Marine Le Pen and a hundred other racist far-right populists riding a wave of fear toward power and destruction. Our families, our neighbors, and our values are under assault by cowards who puff themselves up by screeching hate and lies and rancid ideas.
 
 We can’t let this darkness take hold.
- 
+
 Fireside relaunched this week with a new website, but most importantly, a new reason for being. Yes, we’re still going to be telling great stories from all genres and all communities. But we’re going to be resisting, too.
 
 I got the tattoo at the top of this post on January 3. It was the first one my artist did in the new year, and she said it felt right to start 2017 that way. The words on my arm are the ones Woody Guthrie wrote on his guitars and banjos. Art is a weapon. There is power in writing, in words, in music and painting and photography. The power to inspire. To teach. To give hope and comfort and joy. Fireside is going to be looking for stories and essays that help anchor us to the world that we deserve, not to the one these sons of bitches are trying to sell us while they steal our futures.
@@ -25,4 +25,10 @@ Is every story going to be political? Too late. Every story has ALWAYS been poli
 
 We’ll be there with you. We will fight. And we will win.
 
+----
+
 *Want to help Fireside resist? Doing this isn’t cheap. Help us pay our writers and artists [by supporting us on Patreon](https://www.patreon.com/firesidefiction), for as little as $2 a month. Thank you.*
+
+#### About the author
+
+Brian J. White is the editor and publisher of Fireside.
