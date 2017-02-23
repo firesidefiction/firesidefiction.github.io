@@ -25,10 +25,6 @@ Is every story going to be political? Too late. Every story has ALWAYS been poli
 
 We’ll be there with you. We will fight. And we will win.
 
-----
-
-*Want to help Fireside resist? Doing this isn’t cheap. Help us pay our writers and artists [by supporting us on Patreon](https://www.patreon.com/firesidefiction), for as little as $2 a month. Thank you.*
-
 #### About the author
 
 Brian J. White is the editor and publisher of Fireside.
