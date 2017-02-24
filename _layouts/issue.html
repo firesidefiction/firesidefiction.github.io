@@ -4,9 +4,13 @@ layout: default
 {% include magazine-logo.html %}
 
     <article class="post-content">
-      <div>
-        <img src="/images/{{ page.cover }}" alt="Cover image for {{ page.title }}">
-        <h2>{{ page.title }}</h2>
+       <h1>{{ page.title }}</h1>
+      <div class="issue-book">
+        <div>
+          <img src="/images/{{ page.cover }}" alt="Cover image for {{ page.title }}">
+        </div>
+        <div>
+        {{ content }}
+        </div>
       </div>
-      {{ content }}
     </article>
