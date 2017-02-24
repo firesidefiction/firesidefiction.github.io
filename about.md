@@ -14,7 +14,7 @@ Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story mag
 ## Fair pay for everyone
 Fair pay is a big deal for us. We think creative people should be able to make a living from their work. This is one of our [core values](../values.html).
 
-Fireside pays 12.5 cents per word, well above the 6 cents currently considered to be the minimum professional rate. In fact, we pay better than almost every other [SFWA-qualifying market](http://www.sfwa.org/about/join-us/sfwa-membership-requirements/#short). For illustrations, we pay $400 for a full-color piece.
+Fireside pays 12.5 cents per word, well above the 6 cents currently considered to be the minimum professional rate. In fact, we pay better than almost every other [<abbr title="Sif Wah">SFWA</abbr>-qualifying market](http://www.sfwa.org/about/join-us/sfwa-membership-requirements/#short). For illustrations, we pay $400 for a full-color piece.
 
 [back to the top](#top-of-page)
 
@@ -109,7 +109,7 @@ Speaking of which:
 
 Inclusivity. Diversity. Decolonization. There are a lot of ways people are talking about breaking the white-male dominance of publishing. We tend to like inclusivity as a mission statement, but however you phrase it, Fireside wants to reflect the endless array of people in the world.
 
-We welcome stories from all writers, and we are especially interested in stories including (but not limited to) the lives, experiences, and viewpoints of women, people of color, LGBTQIA people, people with disabilities, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
+We welcome stories from all writers, and we are especially interested in stories including (but not limited to) the lives, experiences, and viewpoints of women, people of color, <abbr title="L.  G. B.  T. Q. I.  A.">LGBTQIA</abbr>  people, people with disabilities, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
 
 In July 2016, we published [\#BlackSpecFic](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717#.oszo8bdcm), a special report on the marginalization of black writers in speculative fiction magazines. You can read all the details at the link above, but the summary is: it’s really terrible. To that end, Fireside particularly encourages submissions from black writers. Send us your stories.
 
@@ -122,7 +122,7 @@ OK let’s get mean again for a second. We get some total garbage in our submiss
 - Depictions of rape or sexual assault.
 - Depictions of child molestation or brutalization of children.
 - ***Any*** sexual depictions of children. Yes, anyone under 18 is a child. (Seriously what is wrong with you?)
-- Depictions of brutalization of women, people of color, LGBTQIA people, people with disabilities, or any other marginalized people for reasons of hate.
+- Depictions of brutalization of women, people of color, <abbr title="L.  G. B.  T. Q. I.  A.">LGBTQIA</abbr>  people, people with disabilities, or any other marginalized people for reasons of hate.
 - Depictions of graphic torture.
 - Depictions of animal abuse.
 - Plagiarism.
@@ -152,7 +152,7 @@ Please use only Times New Roman or a Courier font. Our assistant editor is low v
 
 Make sure you’ve turned off mark-up and sent a document free of comments and edits.
 
-We accept only .doc, .docx, and .rtf files.
+We accept only <abbr title="doc">.doc</abbr>, <abbr title="doc x">.docx</abbr>, and <abbr title="R. T. F.">.rtf</abbr> files.
 
 ### A final note
 

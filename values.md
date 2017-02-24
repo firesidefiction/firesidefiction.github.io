@@ -16,7 +16,7 @@ See our [submissions guidelines]({{ "/about#submissions-guidelines" | relative_u
 Fireside believes in fair pay for good work—it really is that simple. Creating and promoting art is hard work, just like any other, and anyone putting in the time to create it—or to support those who do—deserves to be compensated not just fairly, but generously. That means that whenever Fireside makes more money than it needs to operate and improve, we will use that money to raise our pay rates.
 
 ## 4: Commitment to inclusive representation
-Fireside is committed to publishing marginalized voices, including but not limited to women, people of color, LGBTQIA people, and people with disabilities. Fair doesn't always mean equal, and sometimes some groups need additional attention in order to have the same opportunities that straight, white, abled, cis males have.
+Fireside is committed to publishing marginalized voices, including but not limited to women, people of color, <abbr title="L.  G. B.  T. Q. I.  A.">LGBTQIA</abbr>  people, and people with disabilities. Fair doesn't always mean equal, and sometimes some groups need additional attention in order to have the same opportunities that straight, white, abled, cis males have.
 
 ## 5: Community and raising awareness
 Fireside uses its platform to amplify marginalized voices and to call attention to issues that we think need to be talked about. Fireside is a progressive organization, and we think it's important to be an active catalyst for change. That means being an engaged part of our community and efforts toward social justice.
