@@ -1,16 +1,12 @@
 ---
 layout: default
 ---
-{% include books-logo.html %}
+{% include magazine-logo.html %}
 
     <article class="post-content">
       <div>
         <img src="/images/{{ page.cover }}" alt="Cover image for {{ page.title }}">
         <h2>{{ page.title }}</h2>
-        <p>{{ page.description }}</p>
-        {% if page.goodreads %}
-          <a href="{{ post.goodreads }}">Download ebook files</a>
-        {% endif %}
       </div>
       {{ content }}
     </article>
