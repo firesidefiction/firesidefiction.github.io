@@ -28,6 +28,7 @@ h6    {
 
 .page-title {
 	text-align: center;
+	margin-bottom: $space/2;
 }
 
 .subheading {
@@ -149,5 +150,11 @@ abbr {
 .book-content {
 	h3 {
 		font-size: 1.8em;
+	}
+}
+
+.post-content {
+	h1 {
+		font-size: 2em;
 	}
 }

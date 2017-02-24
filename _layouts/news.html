@@ -6,13 +6,13 @@ layout: default
 <article>
 
   <header class="post-header">
-    <h4>{{ page.date | date: "%b %-d, %Y" }} | {{ page.category }}</h4>
+    <p class="category">{{ page.date | date: "%b %-d, %Y" }} | {{ page.category }}</p>
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    {% if page.author %}By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    {% if page.author %}<h2>By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
   </header>
 
   <div>
     {{ content }}
   </div>
-  
+
 </article>
