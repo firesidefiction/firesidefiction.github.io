@@ -44,6 +44,10 @@ ol, ul {
 	 flex-wrap: wrap;
 	 li {
 		 margin: $space/2;
+		 font-size: .7em;
+		 font-weight: 300;
+	   font-family: $font-secondary;
+	   text-transform: uppercase;
 	 }
  }
 }

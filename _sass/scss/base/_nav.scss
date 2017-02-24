@@ -84,7 +84,10 @@ footer nav ul {
 		li {
 			padding: $pad-half;
 			border-bottom: 1px solid lighten($color__base--light, 30%);
-			@include transition(border-bottom,0.3s,ease);
+			font-size: .7em;
+			font-weight: 300;
+ 	   	font-family: $font-secondary;
+ 	   	text-transform: uppercase;@include transition(border-bottom,0.3s,ease);
 			&:hover {
 				border-bottom: 1px solid $color__highlight--focus;
 			}
