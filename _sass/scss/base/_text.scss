@@ -87,13 +87,6 @@ hr {
   }
 }
 
-abbr {
-  border-bottom: 1px dotted $gray;
-  cursor: help;
-  //font-size: $font-size-small;
-  font-weight: 600;
-}
-
 //Intro text
 .intro {
 	//font-size: $font-size-med-2;
@@ -137,13 +130,12 @@ abbr {
 }
 
 .bookshelf {
-	h2 {
-		font-size: 1.2em;
-		line-height: 1.2em;
-	}
-	h3 {
-		font-size: 1em;
-		line-height: 1.2em;
+	font-size: 1em;
+	line-height: 1.2em;
+	font-weight: 300;
+	a {
+		display: block;
+		font-weight: 400;
 	}
 }
 

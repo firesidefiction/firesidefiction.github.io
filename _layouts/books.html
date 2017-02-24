@@ -11,9 +11,9 @@ layout: default
             <div>
               <a href="/{{ post.permalink }}">
                 <img src="/images/book-covers/{{ post.cover }}" alt="Cover image for {{ post.title }}">
-                <h2>{{ post.title }}</h2>
+                {{ post.title }}
               </a>
-              <h3>by {{ post.author }}</h3>
+              by {{ post.author }}
             </div>
           {% endif %}
         {% endfor %}
