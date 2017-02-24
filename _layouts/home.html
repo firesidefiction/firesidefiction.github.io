@@ -16,8 +16,8 @@ layout: default-home
             </a>
           {% endif %}
           <div>
-            <h4>{{ post.category }}</h4>
-            <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+            <p class="category">{{ post.category }}<p/>
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
             <h3>by {{ post.author }}</h3>
             <p>{{ post.teaser }}</p>
           </div>
@@ -26,8 +26,8 @@ layout: default-home
 
       {% if post.category == "news" or post.category == "announcement" or post.category == "essay" %}
       <div class="entry news">
-        <h4>{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</h4>
-        <h1><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+        <p class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</p>
+        <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
         <h3>by {{ post.author }}</h3>
         <p>{{ post.teaser }}</p>
       </div>
@@ -35,5 +35,3 @@ layout: default-home
     {% endfor %}
 
     {% include pagination.html %}
-
-<!-- FIXME add category tabs here -->

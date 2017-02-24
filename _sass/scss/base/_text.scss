@@ -11,10 +11,15 @@ h3   {
 	font-weight: 300;
 }
 
-h4, h5   {
+h4, h5, .category   {
 	font-weight: 300;
 	font-family: $font-secondary;
 	text-transform: uppercase;
+}
+
+.category {
+	font-size: .8em;
+	margin: 0;
 }
 
 h6    {
