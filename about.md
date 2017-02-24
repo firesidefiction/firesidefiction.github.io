@@ -195,18 +195,18 @@ Here is an example of a content note:
 
 #### This Book Contains
 
-•••	| Emotional Abuse
-••	| Racial-Bias Violence
+<abbr title="3 dots">•••</abbr>	| Emotional Abuse
+<abbr title="2 dots">••</abbr>	| Racial-Bias Violence
 
 Fireside Fiction Company provides content notes to guide readers who may wish to seek out or avoid particular story elements. A current list of all the elements covered in our content notes can be found at [firesidefiction.com/about-us](https://firesidefiction.com/about-us).We welcome your suggestions for elements to include or exclude.
 
 ###### Legend:
 
-•	| One scene of mild intensity
-••	| One scene of moderate intensity
-•••	| Multiple scenes of mild to moderate intensity
-••••	| One scene of high intensity
-•••••	| Multiple scenes of high intensity
+<abbr title="1 dot">•</abbr>	| One scene of mild intensity
+<abbr title="2 dots">••</abbr>	| One scene of moderate intensity
+<abbr title="3 dots">•••</abbr>	| Multiple scenes of mild to moderate intensity
+<abbr title="4 dots">••••</abbr>	| One scene of high intensity
+<abbr title="5 dots">•••••</abbr>	| Multiple scenes of high intensity
 
 <p></p>
 
