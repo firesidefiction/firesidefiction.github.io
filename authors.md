@@ -144,8 +144,6 @@ permalink: /authors
 ### John F. Gardner
 — [_The Last Good Day_](/issue7/chapter/the-last-good-day/)
 
-— [_First, Bite Just a Finger_](/issue8/chapter/first-bite-just-a-finger/)
-
 ### Sam Gorenstein
 — [_Sure I am Metaphysically Sinking Into a More Terrifying Universe, but We All Have Our Things to Deal With_](/issue7/chapter/sure-i-am-metaphysically-sinking-into-a-more-terrifying-universe-but-we-all-have-our-things-to-deal-with/)
 
@@ -414,6 +412,9 @@ permalink: /authors
 
 ### Jordan Taylor
 — [_Red as Blood, White as Snow, Black as Ebony_](/issue32/chapter/red-as-blood-white-as-snow-black-as-ebony/)
+
+### Johann Thorsson
+— [_First, Bite Just a Finger_](/issue8/chapter/first-bite-just-a-finger/)
 
 ### R.L. Thull
 — [_The Forever Girl_](/issue33/chapter/the-forever-girl/)
