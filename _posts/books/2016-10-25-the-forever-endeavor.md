@@ -29,7 +29,3 @@ But Walter has a solution. It's his job. Solutions. He's a detective, after all.
 
 ### Reviews
 _Publishers Weekly_ praised _The Forever Endeavor_ for its "creative narrative and a sense for visceral action" and said "Wendig successfully busts the niche’s conventions wide open, and he throws in a few winking asides to his previous work that will evoke a grim chortle from his fans."
-
-Review 2 text goes here.
-
-Review 2 text goes here.
