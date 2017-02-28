@@ -14,16 +14,17 @@ article {
 	}
 }
 
-.fiction {
-	hr {
-		background: none;
-		text-align: center;
-		text-indent: 0;
-		margin: $space-double 0 $space-quad 0;
-		&:after {
-			content: '• • •';
-		}
+hr {
+	background: none;
+	text-align: center;
+	text-indent: 0;
+	margin: $space-double 0 $space-quad 0;
+	&:after {
+		content: '• • •';
 	}
+}
+
+.fiction {
 	.content p:first-child {
 		text-indent: 0;
 	}
