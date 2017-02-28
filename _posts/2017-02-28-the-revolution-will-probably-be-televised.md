@@ -26,11 +26,11 @@ Some ideas, I learned, are dangerous.
 
 Growing up as a child on military bases, you are exposed to many ideas earlier and faster than you might have elsewhere. Another such idea was a question. What would you die for? What is so important to you that you would willingly give your life?
 
--
+----
 
 I am not a Filipina. This was not my story, because it was not my revolution. And yet this is my life and my memory. If not mine, then whose?
 
--
+----
 
 It's easy to think that advertising is an unimportant job, a leech job. That nothing Nike or Cheerios or Target does matters at all, excepting that they are trying to sell you something. That if they do good, it is purely a matter of self-interest and thus should be discounted.
 
@@ -44,11 +44,11 @@ I know this is a commercial transaction. You know. This does not transform a tru
 
 I do the same work and sometimes the same bleeding for corporations as I do for myself. Or more properly, for you who are reading this. I am only one artist, with one brain. If I do good while in their employ, does it not count because they wish to sell something?
 
--
+----
 
 I heard once that Marcos had been a good president, to begin with. He built roads and schools. And then...
 
--
+----
 
 Guns did not win the People Power Revolution. Snipers and helicopters were present, and they played a role, to be sure. But as revolutions go, this one was nearly bloodless.
 
@@ -58,7 +58,7 @@ Revolutionaries took over a television station. They broadcast Corazon Aquino's 
 
 So. In my child's understanding of revolution, some ideas are so dangerous that they can topple a regime, simply by seeing them on television.
 
--
+----
 
 Culture is made of many small ideas, squashed together like bits of clay. Here is how we know what foods are acceptable for breakfast; here is how we know what is desirable in a coat, in a shoe, in a life partner. Here is how we know how to engage in an argument. Here is how we know who is our equal and who is our enemy.
 
