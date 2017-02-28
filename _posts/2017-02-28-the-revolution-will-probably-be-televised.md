@@ -4,7 +4,7 @@ title:  The Revolution Was Televised
 author: Andrea Phillips
 date:   2017-02-28 12:01:00 -0500
 category: essay
-permalink: /the-revolution-will-probably-be-televised
+permalink: /the-revolution-was-televised
 teaser: "Here in America, the only thing people remember is the shoes."
 published: true
 
