@@ -14,18 +14,18 @@ article {
 	}
 }
 
-hr {
-	background: none;
-	border: 0;
-	text-align: center;
-	text-indent: 0;
-	margin: $space-double 0 $space-quad 0;
-	&:after {
-		content: '• • •';
-	}
-}
 
 .fiction {
+	hr {
+		background: none;
+		border: 0;
+		text-align: center;
+		text-indent: 0;
+		margin: $space-double 0 $space-quad 0;
+		&:after {
+			content: '• • •';
+		}
+	}
 	.content p:first-child {
 		text-indent: 0;
 	}
