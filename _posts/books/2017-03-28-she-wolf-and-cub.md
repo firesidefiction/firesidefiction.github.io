@@ -12,7 +12,7 @@ amazon:
 ibooks:
 kobo:
 nook:
-goodreads:
+goodreads: https://www.goodreads.com/book/show/34408146-she-wolf-and-cub
 ---
 
 ### Description
