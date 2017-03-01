@@ -1,6 +1,6 @@
 ---
 layout: issue
-title: "Issue 40: March 2017”
+title: "Issue 40: March 2017"
 date: 2017-03-01 12:01:00 -0500
 category: issue
 permalink: /issue40/
