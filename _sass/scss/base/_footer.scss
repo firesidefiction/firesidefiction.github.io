@@ -33,19 +33,6 @@ footer {
 				color: $color__highlight--focus;
 			}
 		}
-
-		&.active {
-		}
-
-		@media all and (min-width: $bp-med) {
-
-			li {
-			}
-
-			a {
-			}
-
-		}
 	}
 }
 
@@ -76,9 +63,11 @@ footer {
 
 .legal {
 	text-align: center;
-	//font-size: $font-size-small;
 	margin-top: $space-double;
 	padding-bottom: $space*4;
+	a {
+		text-decoration: none;
+	}
 }
 
 .social {
@@ -86,5 +75,6 @@ footer {
 	justify-content: center;
 	a {
 		margin: $space-double;
+		text-decoration: none;
 	}
 }

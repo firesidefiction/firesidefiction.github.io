@@ -1,9 +1,13 @@
 /* Links */
 a {
 	color: $color__highlight;
-	text-decoration: none;
+	text-decoration: underline;
 	@include transition(color,0.3s,ease-in-out);
 	&:hover, &:focus {
 		color: $color__highlight--focus;
 	}
+}
+
+h2 a {
+	text-decoration: none;
 }

@@ -31,6 +31,19 @@ article {
 	}
 }
 
+.nonfiction {
+	hr {
+		background: none;
+		border: 0;
+		text-align: center;
+		text-indent: 0;
+		margin: $space-double 0 $space-quad 0;
+		&:after {
+			content: '—';
+		}
+	}
+}
+
 main > section {
 	margin-top: 7em;
 }
