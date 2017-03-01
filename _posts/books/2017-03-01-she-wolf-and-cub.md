@@ -1,21 +1,22 @@
 ---
 layout: book
 title: She Wolf and Cub
-author: Andrea Phillips
-date: 2017-03-28 12:01:00 -0500
+author: Lilith Saintcrow
+date: 2017-03-01 12:01:00 -0500
 category: book
 permalink: book/she-wolf-and-cub
-published: false
+published: true
 length: novel
 cover: she-wolf-and-cub.jpg
-amazon:
-ibooks:
-kobo:
-nook:
+amazon: https://www.amazon.com/dp/B06XC3W4HC
+ibooks: https://itunes.apple.com/us/book/she-wolf-and-cub/id1210096085
+kobo: https://www.kobo.com/us/en/ebook/she-wolf-and-cub
 goodreads: https://www.goodreads.com/book/show/34408146-she-wolf-and-cub
 ---
 
 ### Description
+
+*Coming on March 28. Preorder now!*
 
 Ever since they gave her a new cyborg body and a steady stream of murderous work, she’s known the rules. Keep your head down, do your job, don’t get involved.
 
