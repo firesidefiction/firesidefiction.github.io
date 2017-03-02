@@ -6,7 +6,7 @@ date:   2017-03-02 12:01:00 -0500
 category: news
 permalink: /about-our-new-site
 teaser: "We're pretty excited about our new site, so I thought I'd talk a bit about the new visual design, our new technology stack, and our workflow."
-published: false
+published: true
 ---
 
 We're pretty excited about our new site. we've been working on it in one form or another for about a year, and much of the interesting stuff that we're doing is actually invisible to the reader—it's happening backstage—so I thought I'd talk a bit about the improvements we made when refreshing our visual design, rethinking our our technology stack and our workflow.
