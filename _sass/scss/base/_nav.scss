@@ -25,6 +25,7 @@ header nav ul {
 	a {
 		color: $white;
 		@include transition(all, 0.3s, ease);
+		text-decoration: none;
 		&:hover {
 			color: $white;
 			border-bottom: 1px solid $white;
@@ -37,6 +38,9 @@ footer nav ul {
 	@media all and (max-width: $bp-med) {
 		display: inline;
 		text-align: left;
+	}
+	a {
+		text-decoration: none;
 	}
 }
 
@@ -77,6 +81,7 @@ footer nav ul {
 		padding: 0 0 0 $pad;
 		a {
 			color: $color__base--dark;
+			text-decoration: none;
 			&:hover {
 				color: $color__highlight--focus;
 			}
