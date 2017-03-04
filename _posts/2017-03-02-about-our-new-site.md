@@ -6,20 +6,20 @@ date:   2017-03-02 12:01:00 -0500
 category: news
 permalink: /about-our-new-site
 teaser: "We're pretty excited about our new site, so I thought I'd talk a bit about the new visual design, our new technology stack, and our workflow."
-published: false
+published: true
 ---
 
 We're pretty excited about our new site. We've been working on it in one form or another for about a year, and much of the interesting stuff that we're doing is actually invisible to the reader — it's happening backstage — so I thought I'd talk a bit about the improvements we made when refreshing our visual design and rethinking our our technology stack and our workflow.
 
-The previous Fireside site was organized around the conceit of issues. That led us to build the site using a deeply customized version of WordPress which relied heavily on plugins and custom themes. This site served us well, but it was very complex. Over time bit rot set in, and the site became slower and slower, both for readers, and for Brian, Elsa, and I when working on editing and publishing the magazine. So when we set out to rethink the site to reflect our shift to a more blog-like publishing schedule, we doubled down on simplicty as one of our core guiding principles. 
+The previous Fireside site was organized around the conceit of issues. That led us to build the site using a deeply customized version of WordPress which relied heavily on plugins and custom themes. This site served us well, but it was very complex. Over time bit rot set in, and the site became slower and slower, both for readers, and for Brian, Elsa, and I when working on editing and publishing the magazine. So when we set out to rethink the site to reflect our shift to a more blog-like publishing schedule, we doubled down on simplicty as one of our core guiding principles.
 
-This preoccupation with simplicity manifests itself most obviously in the refreshed visual design of the Fireside brand and the magazine site. For the site, we maintained our minimal aesthetic, with the same clean reading interface that we've always favored — if it ain't broke, don't fix it. But we also made some iterative improvements: we tightened up the typography a bit, and improved the accessibility of the text, increasing color contrast and using heavier font weigths throughout the site. 
+This preoccupation with simplicity manifests itself most obviously in the refreshed visual design of the Fireside brand and the magazine site. For the site, we maintained our minimal aesthetic, with the same clean reading interface that we've always favored — if it ain't broke, don't fix it. But we also made some iterative improvements: we tightened up the typography a bit, and improved the accessibility of the text, increasing color contrast and using heavier font weigths throughout the site.
 
 When rethinking the broader visual identity of Fireside Fiction Company, we got rid of the separate typeface we were using for the Fireside logotype, and reduced the number of colors on the logo mark to just one: Fireside Red (#610C0D). This led to a starker and bolder visual presentation, in keeping with our [newly affirmed focus on antifascist resistance](/this-machine-fights-fascism). We first tried out this new look in our [\#BlackSpecFic](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717#.2l9wb6vpb) series last summer, and we've been refining and expanding it since into a full identity system.
 
-When we decided to rebuild as well as redesign, we wanted to make sure our new site was damn fast — nobody likes to wait for a webpage to load, especially when it's basically just simple, static text and the occasional image. So we also worked on keeping complexity out of the _structure_ of the site and out of the workflow that we use to update it. 
+When we decided to rebuild as well as redesign, we wanted to make sure our new site was damn fast — nobody likes to wait for a webpage to load, especially when it's basically just simple, static text and the occasional image. So we also worked on keeping complexity out of the _structure_ of the site and out of the workflow that we use to update it.
 
-I'd been keeping an eye on the work being done with static site generators, and realized that since all Fireside is doing is working with text files, static site generators and their focus on simplicity and portability would work nicely for us as well. 
+I'd been keeping an eye on the work being done with static site generators, and realized that since all Fireside is doing is working with text files, static site generators and their focus on simplicity and portability would work nicely for us as well.
 
 Wait, so what is a static site generator? OK, this is where it gets geeky. Strap in, nerds:
 
