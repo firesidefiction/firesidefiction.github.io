@@ -8,7 +8,7 @@ permalink: /issue39/chapter/black-like-them/
 teaser: "According to the most recent census numbers, approximately twelve percent of Americans identify as African-American. Take a look around. Do you see any African-American people — black people — around you? We would urge you to look a bit closer. Perhaps they're not as black as you think."
 published: true
 art: black-like-them.jpg
-caption: A woman crouches calf-deep in a swamp, rifle at the ready. Dragons surround her.
+caption: The image of a black man is repeated three times. Inside each of them, a person is trapped. In the background, angry people protest.
 artist: Galen Dara
 ---
 
