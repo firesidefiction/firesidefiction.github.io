@@ -5,7 +5,7 @@ author: Brian J. White
 date:   2017-03-05 12:01:00 -0500
 category: news
 permalink: /dont-talk-to-strangers
-teaser: "Fireside received an email today from someone using a pseudonym asking a bunch of questions about the \#BlackSpecFic report, and talking about a counter-report they claim to be preparing"
+teaser: "Fireside received an email today from someone using a pseudonym asking a bunch of questions about the \#BlackSpecFic report, and talking about a counter-report they claim to be preparing."
 published: true
 ---
 
