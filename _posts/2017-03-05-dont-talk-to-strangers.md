@@ -9,4 +9,4 @@ teaser: "Fireside received an email today from someone using a pseudonym asking 
 published: true
 ---
 
-Just a short note. Fireside received an email today from someone using a pseudonym asking a bunch of questions about the [\#BlackSpecFic report](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717#.ehi4tjrr4), and talking about a counter-report they claim to be preparing. Fireside does not engage with people using pseudonyms to discuss important issues like this, and we have told them as much. We look forward to their report coming to light so we can have a public discussion.
+Just a short note. Fireside received an email today from someone using a pseudonym asking a bunch of questions about the [\#BlackSpecFic report](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717#.ehi4tjrr4), and talking about a counter-report they claim to be preparing. Fireside doesn't engage with people using pseudonyms to discuss important issues like this, and we have told them as much. We look forward to their report coming to light so we can have a public discussion.
