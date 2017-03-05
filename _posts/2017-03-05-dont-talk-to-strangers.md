@@ -5,7 +5,7 @@ author: Brian J. White
 date:   2017-03-05 12:01:00 -0500
 category: news
 permalink: /dont-talk-to-strangers
-teaser: "We're pretty excited about our new site, so I thought I'd talk a bit about the new visual design, our new technology stack, and our workflow."
+teaser: "Fireside received an email today from someone using a pseudonym asking a bunch of questions about the \#BlackSpecFic report, and talking about a counter-report they claim to be preparing"
 published: true
 ---
 
