@@ -13,4 +13,4 @@ Just a short note. Fireside received an email today from someone using a pseudon
 
 **UPDATE:** In reply to this email, I just sent a link to the above post. I just got back an email: "I am disappointed in your response. A fellow editor spoke very highly of you."
 
-My official response: ¯\_(ツ)_/¯
+My official response: <span>¯\_(ツ)_/¯</span>
