@@ -224,7 +224,7 @@ The Nike conference room was heavy on aluminum. The lights were too bright, the 
 
 Corazon had initially pitched the concept to only the Nike marketing team, but she was fast-tracked to a meeting with the executive suite: the brand president, the CEO, the general counsel. They were all decades older than Corazon. And they all seemed vastly annoyed to be there.
 
-Corazon swallowed hard. It wasn’t normal that she’d even meet these executives at all. Typically she’d only have to present to those internal marketing people once, and they would would in turn bring her ideas to their bosses. She wasn’t ready.
+Corazon swallowed hard. It wasn’t normal that she’d even meet these executives at all. Typically she’d only have to present to those internal marketing people once, and they would in turn bring her ideas to their bosses. She wasn’t ready.
 
 Too late to turn back now.
 
