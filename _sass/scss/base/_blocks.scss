@@ -26,7 +26,6 @@
 		background: $color__fireside-red;
 		margin: 1em auto;
 		overflow: hidden;
-		z-index:10000;
 		@media all and (min-width: $bp-med) {
 			border-radius: $border-radius;
 		}
@@ -55,6 +54,7 @@
 	div {
 		max-width: 45em;
 		margin: 0 auto;
+		padding-top: 1em;
 	}
 }
 
