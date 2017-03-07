@@ -26,6 +26,7 @@
 		background: $color__fireside-red;
 		margin: 1em auto;
 		overflow: hidden;
+		z-index:10000;
 		@media all and (min-width: $bp-med) {
 			border-radius: $border-radius;
 		}
