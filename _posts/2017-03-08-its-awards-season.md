@@ -9,7 +9,7 @@ teaser: "And that means that it's time for us to bug you, dear readers, about no
 published: true
 ---
 
-It's awards season. And that means that it's time for us to bug you, dear readers, about nominating and voting for some of our fantastic short fiction. We've been pretty low-key about this stuff for the last five years, but as much as we always say we don't care about awards, that fact is that they _do_ matter, if only in terms of visibility (I won't lie-it's nice to know that people dig our work, too). We win awards, more people know about us, more people give us money, we get to pay some of the highest rates for more kickass writing and artwork. Rinse, repeat—it's the circle of life. 
+It's awards season. And that means that it's time for us to bug you, dear readers, about nominating and voting for some of our fantastic short fiction. We've been pretty low-key about this stuff for the last five years, but as much as we always say we don't care about awards, that fact is that they _do_ matter, if only in terms of visibility (I won't lie—it's nice to know that people dig our work, too). We win awards, more people know about us, more people give us money, we get to pay some of the highest rates for more kickass writing and artwork. Rinse, repeat—it's the circle of life. 
 
 So with that in mind, here's a few things to look out for as you fire up your internets to vote and nominate:
 
