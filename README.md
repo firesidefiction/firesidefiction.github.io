@@ -126,7 +126,7 @@ This parameter allows free-form text.
 The content section is where the, um, content of the piece goes. This is where we use markdown notation to format the text according to its meaning (rather than according to its visual style). We'll use the following conventions and notation for writing markdown for Fireside:
 - use single underscores or asterisks for _emphasis_
 - use double underscores or asterisks for **strong emphasis**
-- write links like this: [link text](http://url.com)
+- write links like this: `[link text](http://url.com)`
 - use four dashes for section breaks: ----
 - use a \> for blockquotes
 - add a blank line between paragraphs, otherwise the line will be a regular carriage return, not the start of a new paragraph.
