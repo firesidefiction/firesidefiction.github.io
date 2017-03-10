@@ -22,6 +22,10 @@ We continue to perpetually assume that Brian is both himself and the Fireside tw
 
 Kit kats can only be eaten the wrong way.
 
+Elsa's handle is @snarkbat not @elsabat, you poor bastards.
+
+Elsa is the keeper of Brian's captivity.
+
 *Stories*
 
 Author names are not bolded.
