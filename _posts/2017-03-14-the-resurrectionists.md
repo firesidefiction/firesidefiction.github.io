@@ -10,6 +10,8 @@ teaser: "They’d gone three days without seeing anything more than mesas and mi
 published: true
 ---
 
+_Selected by guest editor Daniel José Older_
+
 They’d gone three days without seeing anything more than mesas and miles of bone-sand before Kade saw the newspaper. At first he took it for a haunt, gliding across the dunes, and he’d elbowed Marya before he realized his mistake. “Oberon’s balls,” he said as he watched the newsprint flutter and fall to the sand. “A sign of civilization at last.”
 
 “Don’t get your hopes up,” Marya said, raising her flute and playing a minor scale with her good hand. As the last note faded, a dust devil lifted the newspaper and deposited it at Kade’s feet.
