@@ -7,7 +7,7 @@ date:   2017-03-14 12:01:00 -0500
 category: short story
 permalink: /the-resurrectionists
 teaser: "They’d gone three days without seeing anything more than mesas and miles of bone-sand before Kade saw the newspaper."
-published: false
+published: true
 ---
 
 They’d gone three days without seeing anything more than mesas and miles of bone-sand before Kade saw the newspaper. At first he took it for a haunt, gliding across the dunes, and he’d elbowed Marya before he realized his mistake. “Oberon’s balls,” he said as he watched the newsprint flutter and fall to the sand. “A sign of civilization at last.”
@@ -257,5 +257,3 @@ It was cool and clear when they set out the next morning. As they rode across th
 “Armistice day,” Marya said, gazing at the sliver of the sun visible in the east. “Isn’t peace grand?”
 
 The sun stabbed at Kade’s eyes as it breached the horizon, and after a heartbeat, he turned away. “Go ask the dead,” he told her. “They’re the only ones who’d know.”
-
-#### About the author
