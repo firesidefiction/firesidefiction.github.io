@@ -259,3 +259,7 @@ It was cool and clear when they set out the next morning. As they rode across th
 “Armistice day,” Marya said, gazing at the sliver of the sun visible in the east. “Isn’t peace grand?”
 
 The sun stabbed at Kade’s eyes as it breached the horizon, and after a heartbeat, he turned away. “Go ask the dead,” he told her. “They’re the only ones who’d know.”
+
+#### About the author
+
+Alec Austin is a game designer with a tendency to ask questions like "What would Total War look like in Faerie?".  He holds a Masters in Comparative Media Studies from MIT, and is an alumnus of the Clarion West and Viable Paradise writing workshops.  Alec's fiction has appeared in Apex, Beneath Ceaseless Skies, Strange Horizons, and other venues.  He lives in Los Angeles.
