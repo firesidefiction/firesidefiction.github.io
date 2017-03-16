@@ -3,7 +3,7 @@ layout: post
 title:  About Our New Site
 author: Pablo Defendini
 date:   2017-03-02 12:01:00 -0500
-category: news
+category: essay
 permalink: /about-our-new-site
 teaser: "We're pretty excited about our new site, so I thought I'd talk a bit about the new visual design, our new technology stack, and our workflow."
 published: true
