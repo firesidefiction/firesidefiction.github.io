@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blind Lady Vs. Git and Markdown"
+title: "Blind Lady Vs. Git & Markdown"
 author: Elsa Sjunneson-Henry
 date: 2017-03-16 12:01:00 -0500
 category: essay
