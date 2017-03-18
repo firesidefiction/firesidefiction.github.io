@@ -172,7 +172,7 @@ We next open on March 19. See our schedule above for more info.
 Fireside Fiction Company provides content notes for books and stories to guide readers who may wish to seek out or avoid particular story elements. These content notes may contain spoilers.
 Content notes are not the same as the ratings found on movies, TV shows, and video games. The intent is to help trauma survivors avoid being surprised by story elements that may trigger pain or emotional distress. So we don’t offer warnings about general violence, profanity, sex, or other things one sees in a movie rating.
 
-We welcome suggestions for elements to include or exclude. You can email us at [contentnotes@firesidefiction.com](mailto:contentnotes@firesidefiction.com).
+We welcome suggestions for elements to include or exclude. You can email us at [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com).
 
 Here is a list of the elements we currently offer notes for:
 
@@ -198,7 +198,7 @@ Here is an example of a content note:
 <abbr title="3 dots">•••</abbr>	| Emotional Abuse
 <abbr title="2 dots">••</abbr>	| Racial-Bias Violence
 
-Fireside Fiction Company provides content notes to guide readers who may wish to seek out or avoid particular story elements. A current list of all the elements covered in our content notes can be found at [firesidefiction.com/about-us](https://firesidefiction.com/about-us).We welcome your suggestions for elements to include or exclude.
+Fireside Fiction Company provides content notes to guide readers who may wish to seek out or avoid particular story elements. A current list of all the elements covered in our content notes can be found at [firesidefiction.com/about/#content-notes](http://firesidefiction.com/about/#content-notes).We welcome your suggestions for elements to include or exclude.
 
 ###### Legend:
 
