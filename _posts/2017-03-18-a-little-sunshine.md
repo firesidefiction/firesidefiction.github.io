@@ -4,7 +4,7 @@ title: "A Little Sunshine"
 author: Pablo Defendini
 date: 2017-03-18 12:01:00 -0500
 category: news
-permalink: /blind-lady-vs-git-markdown
+permalink: /a-little-sunshine
 teaser: "One of Fireside's core values is transparency: We think that it’s important to be forthright with the way we run things around here, in order to build trust with the the wider world."
 published: true
 ---
