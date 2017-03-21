@@ -1,6 +1,6 @@
 ---
 layout: story
-title:  “Radio Werewolf“
+title:  Radio Werewolf
 author: Cassandra Khaw
 date:   2017-03-21 12:01:00 -0500
 category: flash fiction
