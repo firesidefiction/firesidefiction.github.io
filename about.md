@@ -50,20 +50,19 @@ Pablo Defendini is [a designer for hire](http://defendini.com), with a focus on 
 
 ## Submissions Guidelines
 
-### Fireside is now open to submissions.
+### Fireside is currently closed to submissions.
 
 Fireside will be open to submissions for several one-week periods in 2017. We accept flash fiction of up to 1,000 words, and short stories from 1,000 to 4,000 words.
 
 Here's our current schedule (subject to change).
 
-- March 19-25 (Flash fiction only)
 - April 16-22 (Flash fiction and short stories)
 - June 18-24 (Flash fiction and short stories)
 - July 23-29 (Flash fiction only)
 - September 17-23 (Flash fiction and short stories)
 - November 5-11 (Flash fiction and short stories)
 
-Fireside is only able to publish and pay for our fantastic stories with the support of our Patreon backers. As our support grows, we’ll be able to publish more stories and longer stories, and raise our already leading pay rates even higher. Please consider supporting us on Patreon.
+Fireside is only able to publish and pay for our fantastic stories with the support of our Patreon backers. As our support grows, we’ll be able to publish more stories and longer stories, and raise our already leading pay rates even higher. Please consider [supporting us on Patreon](https://www.patreon.com/firesidefiction).
 
 ### The rules
 
@@ -160,9 +159,7 @@ Fireside usually publishes no more than 10,000 words a month. We accept submissi
 
 ### How to submit
 
-### Fireside is now open for flash fiction submissions until March 25.
-
-{% include submit-button.html %}
+Fireside will next open for submissions on April 16.
 
 [back to the top](#top-of-page)
 
