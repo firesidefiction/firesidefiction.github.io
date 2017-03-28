@@ -11,13 +11,12 @@ cover: she-wolf-and-cub.jpg
 amazon: https://www.amazon.com/dp/B06XC3W4HC
 ibooks: https://itunes.apple.com/us/book/she-wolf-and-cub/id1210096085
 kobo: https://www.kobo.com/us/en/ebook/she-wolf-and-cub
+nook: http://www.barnesandnoble.com/w/she-wolf-and-cub-lilith-saintcrow/1126044793
 goodreads: https://www.goodreads.com/book/show/34408146-she-wolf-and-cub
 printbook:
 ---
 
 ### Description
-
-*Coming on March 28. Preorder now!*
 
 Ever since they gave her a new cyborg body and a steady stream of murderous work, she’s known the rules. Keep your head down, do your job, don’t get involved.
 
