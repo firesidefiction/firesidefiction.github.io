@@ -1,11 +1,11 @@
 ---
 layout: post
-title: “Out today: She Wolf and Cub, a novel by Lilith Saintcrow“
+title: "Out today: She Wolf and Cub, a novel by Lilith Saintcrow"
 author: Brian J. White
 date: 2017-03-28 12:01:00 -0500
 category: news
 permalink: /she-wolf-and-cub-release
-teaser: “Ever since they gave her a new cyborg body and a steady stream of murderous work, she’s known the rules. Keep your head down, do your job, don’t get involved. Then they sent her to assassinate a child.”
+teaser: "Ever since they gave her a new cyborg body and a steady stream of murderous work, she’s known the rules. Keep your head down, do your job, don’t get involved. Then they sent her to assassinate a child."
 published: true
 ---
 
