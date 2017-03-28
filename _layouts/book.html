@@ -14,9 +14,13 @@ layout: default
           </figure>
           <div class="book-metadata">
             <ul>
+              {% if page.printbook %}
+                <a href="{{ page.printbook }}"><li class="btn">
+                Buy in Paperback</li></a>
+              {% endif %}
               {% if page.amazon %}
                 <a href="{{ page.amazon }}"><li class="btn">
-                Buy on Amazon</li></a>
+                Buy on Kindle</li></a>
               {% endif %}
               {% if page.ibooks %}
                 <a href="{{ page.ibooks }}"><li class="btn">

@@ -12,6 +12,7 @@ amazon: https://www.amazon.com/dp/B06XC3W4HC
 ibooks: https://itunes.apple.com/us/book/she-wolf-and-cub/id1210096085
 kobo: https://www.kobo.com/us/en/ebook/she-wolf-and-cub
 goodreads: https://www.goodreads.com/book/show/34408146-she-wolf-and-cub
+printbook:
 ---
 
 ### Description
