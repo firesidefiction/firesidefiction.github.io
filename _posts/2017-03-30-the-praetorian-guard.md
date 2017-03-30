@@ -729,7 +729,7 @@ No. For the *people* of the Empire.
 
 That’s who mattered. This wasn’t about some idealized State; ideals were dangerous. Vivarius was a man of ideals.
 
-Lia fought for the people. And as the airship flew into the above Londinium, she was starting to see that a war was brewing against them.
+Lia fought for the people. And as the airship flew into the clouds above Londinium, she was starting to see that a war was brewing against them.
 
 #### About the author
 
