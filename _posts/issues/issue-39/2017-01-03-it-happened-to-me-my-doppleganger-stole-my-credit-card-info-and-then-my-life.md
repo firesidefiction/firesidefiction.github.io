@@ -49,7 +49,7 @@ I tapped my pencil's teddy bear-shaped eraser against the paper, and then slowly
 
 _Dear Nono,_
 
-_Hi! I want to be penpals. We had fun together but I get in less trouble now, so I guess thats good. I miss you too. _
+_Hi! I want to be penpals. We had fun together but I get in less trouble now, so I guess thats good. I miss you too._
 
 _Here are some questions. Whats your favorite TV show? Do you like any boys? Do you go to school where you are and do you hate it?_
 
