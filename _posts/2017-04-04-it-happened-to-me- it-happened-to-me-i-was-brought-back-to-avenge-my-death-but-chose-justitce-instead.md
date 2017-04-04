@@ -6,7 +6,7 @@ date:   2017-04-04 12:01:00 -0500
 category: flash fiction
 permalink: it-happened-to-me-i-was-brought-back-to-avenge-my-death-but-chose-justitce-instead
 teaser: "Dirty river water filling my mouth, the tastes of oil and mud and rust; plastic zip-ties cutting into the skin of my wrists; lights on the surface of the water receding away from me. That’s what I remember from before I died."
-published: false
+published: true
 ---
 
 *Editor’s note: This is the third story we’re publishing in Nino’s “It Happened To Me” series. You can read [the first one here](/issue39/chapter/it-happened-to-me-my-doppleganger-stole-my-credit-card-info-and-then-my-life/) and [the second one here](/it-happened-to-me-i-melded-my-consciousness-wtih-the-giant-alien-mushroom-floating-above-chicago).*
