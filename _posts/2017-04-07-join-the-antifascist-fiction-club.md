@@ -14,7 +14,7 @@ So our design and technology director, Pablo Defendini, designed this fantastic 
 
 ![Antifascist Fiction Club Pin](/images/graphics/antifa-pin-product-shot.png)
 
-Right now, the only way to get a pin is to back a new $20 reward level on our Patreon. We’ll use $5 of every pledge to support the Southern Poverty Law Center and the American Civil Liberties Union each month on your behalf. We think their respective missions of monitoring hate groups and defending our rights in a time of unprecedented attack are essential in the resistance.
+Right now, the only way to get a pin is to back [a new $20 reward level on our Patreon](https://www.patreon.com/firesidefiction). We’ll use $5 of every pledge to support the [Southern Poverty Law Center](https://www.splcenter.org) and the [American Civil Liberties Union](https://www.aclu.org) each month on your behalf. We think their respective missions of monitoring hate groups and defending our rights in a time of unprecedented attack are essential in the resistance.
 
 We may never get a perfect happily ever after, but this doesn't have to end in darkness. Donald Trump and Marine LePen and Nigel Farage and all their ilk don’t get to write the end of this story. We do.
 
