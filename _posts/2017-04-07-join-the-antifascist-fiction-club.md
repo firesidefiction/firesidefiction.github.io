@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "Join the Antifascist Fiction Club"
 author: Brian J. White
