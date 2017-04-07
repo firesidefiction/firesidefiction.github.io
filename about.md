@@ -159,6 +159,7 @@ Fireside usually publishes no more than 10,000 words a month. We accept submissi
 
 ### How to submit
 
+{% include submissions-closed-button.html %}
 Fireside will next open for submissions on April 16.
 
 [back to the top](#top-of-page)
