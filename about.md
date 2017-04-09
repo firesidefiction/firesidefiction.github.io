@@ -90,6 +90,8 @@ OK? Great! On to the fun stuff!
 
 Fireside pays 12.5 cents per word, with payment on completion of edits (which generally happen about a month before publication). We buy first world publication rights and six-month exclusivity, as well as the right to reprint the story once, non-exclusively, in a Fireside anthology.
 
+Fireside pays in U.S. dollars, and can send payments to most places in the world, using the recipient's preferred payout method (within reason).
+
 ### What we’re looking for
 
 The best way to get an idea of what we love is to read stories we’ve already published. In general though, Fireside loves great storytelling, meaning stories that go somewhere, that keep people reading to find out what happens next.
@@ -170,7 +172,7 @@ Fireside will next open for submissions on April 16.
 Fireside Fiction Company provides content notes for books and stories to guide readers who may wish to seek out or avoid particular story elements. These content notes may contain spoilers.
 Content notes are not the same as the ratings found on movies, TV shows, and video games. The intent is to help trauma survivors avoid being surprised by story elements that may trigger pain or emotional distress. So we don’t offer warnings about general violence, profanity, sex, or other things one sees in a movie rating.
 
-We welcome suggestions for elements to include or exclude. You can email us at [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com).
+We welcome suggestions for elements to include or exclude. You can email us at [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com). (Please do _not_ send submissions here. Any stories sent to this address will be deleted unread.)
 
 Here is a list of the elements we currently offer notes for:
 
