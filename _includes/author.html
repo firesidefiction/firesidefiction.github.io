@@ -1,0 +1,9 @@
+<div class="author-info">
+  {% if include.img %}
+  <figure><img src="/images/{{ include.img }}" alt="{{ include.title }}"/></figure>
+  {% endif %}
+  <div>
+    <h1><a href="{{ include.url }}">{{ include.name }}</a></h1>
+    <p>{{ include.bio }}</p>
+  </div>
+</div>

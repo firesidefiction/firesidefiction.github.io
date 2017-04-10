@@ -118,3 +118,24 @@
 		color: $white;
 	}
 }
+
+.author-info {
+	display: flex;
+	margin-bottom: 1em;
+	border-bottom: 1px solid lighten($color__base--light, 30%);
+	&:last-of-type {
+		border-bottom: 0;
+	}
+	figure {
+		margin-right: 1em;
+		min-width: 100px;
+		max-width: 100px;
+	}
+	h1 {
+		font-size: 1.5em;
+		font-weight: 300;
+	}
+	p {
+		font-size: 1em;
+	}
+}
