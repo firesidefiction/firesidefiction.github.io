@@ -5,7 +5,7 @@ author: Kate Lechler
 date: 2017-04-11 12:01:00 -0500
 category: flash fiction
 permalink: the-hulders-husband-says-dont
-teaser: “The first word I learned that day was “perfect.” He repeated it, over and over, running hot fingers down the skin of my cheek and neck. His hands found the ragged wooden edges of the hole in my back, danced down to the base of my spine, stroked down the furred length of my tail.”
+teaser: "The first word I learned that day was “perfect.” He repeated it, over and over, running hot fingers down the skin of my cheek and neck. His hands found the ragged wooden edges of the hole in my back, danced down to the base of my spine, stroked down the furred length of my tail."
 published: true
 ---
 
