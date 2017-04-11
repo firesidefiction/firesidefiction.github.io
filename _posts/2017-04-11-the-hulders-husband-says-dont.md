@@ -100,3 +100,7 @@ I unlace my arms from my mother’s cloak and lay it gently across him, pulling 
 “Don’t,” he murmurs, shifting, his mouth the soft red O. His eyes snap open, hands to his throat. “Don’t!”
 
 I do.
+
+####About the author
+
+Kate Lechler's work has appeared in Podcastle, Metaphorosis, and Arsenika, and is forthcoming from Superstition Review. She teaches British literature at the University of Mississippi in Oxford, Miss., where she lives with her husband, a dog, a cat, and seven fish. When she’s not at school, you can find her sitting on a lawn chair in her carport, writing about genetically-engineered unicorns and dragons.
