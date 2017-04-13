@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Here are the stories we bought in March, and some statistics on race"
+title: "Here are the stories we bought in March, along with some statistics on race and ethnicity"
 author: Brian J. White
 date: 2017-04-09 12:01:00 -0500
 category: news
 permalink: /march2017-submissions-results
-teaser: "Author pics!"
-published: false
+teaser: "We were open to flash fiction submissions (stories of 1,000 words or less) last month. We received 567 stories and accepted 17."
+published: true
 ---
 We were open to flash fiction submissions (stories of 1,000 words or less) last month. We received 567 stories and accepted 17, an acceptance rate just a hair under 3 percent. The stories run the gamut of genres, with an especially healthy dose of fairy tales.
 
