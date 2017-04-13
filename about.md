@@ -98,7 +98,7 @@ The best way to get an idea of what we love is to read stories we’ve already p
 
 We’re not looking for character studies or metafiction or hallucinatory visions. (We *like* those things; it’s just not what we publish in Fireside.)
 
-We really do mean any genre, too. Fireside has a heavy tilt toward speculative fiction, but some of our favorite stories have been completely non-genre. ([Sell It Like Death](http://www.firesidefiction.com/issue6/chapter/sell-it-like-death/) is just one example.)
+We really do mean any genre, too. Fireside has a heavy tilt toward speculative fiction, but some of our favorite stories have been completely non-genre. ([Sell It Like Death](http://firesidefiction.com/issue6/chapter/sell-it-like-death/) is just one example.)
 
 We want to hear the stories only you can tell. We love stories that reflect writers’ backgrounds, especially those of traditionally marginalized communities (sometimes referred to as Own Voices stories). This is NOT at all to say if you are a writer from a marginalized community that your submission has to be Own Voices.
 
