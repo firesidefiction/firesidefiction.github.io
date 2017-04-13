@@ -8,11 +8,12 @@ permalink: /march2017-sumbissions-results
 teaser: "Author pics!"
 published: false
 ---
-Here's a post showing how to add author information into a page. Add a block like the ones below for each author, adn fill in the values for each parameter (img, name, url, and bio). Add author images to the new images/avatars/ folder in the repository. If the author doesn't provide an image, that's fine, just don't include the 'img' parameter.
+Here's a post showing how to add author information into a page. Add a block like the ones below for each author, and fill in the values for each parameter (img, name, url, and bio). Add author images to the new images/avatars/ folder in the repository. If the author doesn't provide an image, that's fine, just don't include the 'img' parameter.
 
 {% include author.html
             img="avatars/rdsullivan.jpg"
             name="R.D. Sullivan"
+            story="Title of the Story"
             bio="R. D. Sullivan lives in Northern California with her family and two very bad dogs, where she runs a subcontracting business. Beyond fiction, she likes to spend her time performing stand-up and producing short films. R.D.’s grandmother would like you that all of R.D.’s talent comes from her."
             %}
 
@@ -20,12 +21,14 @@ Here's a post showing how to add author information into a page. Add a block lik
             img="avatars/suyidavies.jpg"
             name="Suyi Davies Okungbowa"
             url="http://suyidavies.com"
+            story="Title of the Story"
             bio="Suyi Davies Okungbowa writes crime and speculative fiction from Lagos, Nigeria. His fiction has been published in Lightspeed, Mothership Zeta, The Dark, Omenana, Lights Out: Resurrection (anthology) and A World of Horror (forthcoming anthology), amongst other places. He is a charter member of the African Speculative Fiction Society. When he’s not writing, Suyi works in visual communications. In-between, he plays piano, guitar, FIFA, and searches for spaces to fit new bookshelves. He lives on the web at suyidavies.com and tweets at @IAmSuyiDavies."
             %}
 
 {% include author.html
             img="avatars/tarirondoro.jpg"
             name="Tariro Ndoro"
+            story="Title of the Story"
             url="http://tarirondoro.wordpress.com/"
             bio="Tariro Ndoro obtained her Master’s degree in Creative Writing from Rhodes University in 2016. Her poetry has appeared in numerous journals and anthologies including Kotaz, Oxford Poetry and New Contrast; and her fiction has been featured in AFREADA. Tariro currently lives in Harare, where she’s trying to validate the copious amount of time she spends reading by writing something every now and then. She can be stalked at tarirondoro.wordpress.com."
             %}
