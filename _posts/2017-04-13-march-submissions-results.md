@@ -2,7 +2,7 @@
 layout: post
 title: "Here are the stories we bought in March, along with some statistics on race and ethnicity"
 author: Brian J. White
-date: 2017-04-09 12:01:00 -0500
+date: 2017-04-13 00:01:00 -0500
 category: news
 permalink: /march2017-submissions-results
 teaser: "We were open to flash fiction submissions (stories of 1,000 words or less) last month. We received 567 stories and accepted 17."
@@ -10,7 +10,7 @@ published: true
 ---
 We were open to flash fiction submissions (stories of 1,000 words or less) last month. We received 567 stories and accepted 17, an acceptance rate just a hair under 3 percent. The stories run the gamut of genres, with an especially healthy dose of fairy tales.
 
-This was also our first submissions period in which we asked submitters to take a quick, anonymous, 100% voluntary survey in which we asked people's race and ethnicity. This is part of our effort in the wake of our [#BlackSpecFic] report](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717) to get a better understanding of who is submitting to Fireside, so we can continue working on our mission of inclusivity.
+This was also our first submissions period in which we asked submitters to take a quick, anonymous, 100% voluntary survey in which we asked people's race and ethnicity. This is part of our effort in the wake of our [#BlackSpecFic report](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717) to get a better understanding of who is submitting to Fireside, so we can continue working on [our mission of inclusivity](http://firesidefiction.com/values#4-commitment-to-inclusive-representation).
 
 Of the 567 submitters, 488 people responded to the survey, or 86 percent. While this is not a scientific survey and we cannot verify the responses, we're very happy that so many people participated as we feel it gives us a solid look at the  submissions pool for the period.
 
@@ -24,12 +24,12 @@ Here are the results of the survey in a graphic. (People could select multiple o
 
 And in plain text:
 
--Black: 37 (7.6%)
--Hispanic/Latinx: 30 (6.1%)
--Asian/Pacific Islander: 33 (6.8%)
--First Peoples/Native American/Native Canadian 14 (2.9%)
--White: 389 (79.7%)
--Other: 37 (7.6%)
+- Black: 37 (7.6%)
+- Hispanic/Latinx: 30 (6.1%)
+- Asian/Pacific Islander: 33 (6.8%)
+- First Peoples/Native American/Native Canadian 14 (2.9%)
+- White: 389 (79.7%)
+- Other: 37 (7.6%)
 
 If you're interested in digging in deeper, [the full spreadsheet of responses can be found here](https://docs.google.com/spreadsheets/d/1bTzq7qopshOe7PPSMCziSO4p35Kt6LV5RM1n6a0XKtU/edit?usp=sharing).
 
@@ -37,9 +37,7 @@ This is just one data point. We'll be collecting the same information on all of 
 
 (Speaking of which, we're opening to submissions for short stories of 1,000-4,000 words on Sunday for one week!)
 
-Without further ado:
-
-# Here's what we bought last month
+Without further ado, here's what we bought last month:
 
 {% include author.html
             name="Dawn Bonanno"
@@ -154,7 +152,7 @@ Without further ado:
             img="avatars/johnwiswell.jpg"
             name="John Wiswell"
             story="A Silhouette Against Armageddon"
-            bio="John (@wiswell) lives where New York keeps all its trees. He's previously appeared at Fireside with "Bones at the Door," and he has a new Horror story coming soon to Pseudopod. He intends to donate his body to medical science, which will make romantic apocalypses harder on him."
+            bio="John (@wiswell) lives where New York keeps all its trees. He's previously appeared at Fireside with 'Bones at the Door,' and he has a new Horror story coming soon to Pseudopod. He intends to donate his body to medical science, which will make romantic apocalypses harder on him."
             %}
 
 {% include author.html

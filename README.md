@@ -128,7 +128,7 @@ The content section is where the, um, content of the piece goes. This is where w
 - use double underscores or asterisks for **strong emphasis**
 - write links like this: `[link text](http://url.com)`
 - use four dashes for section breaks: ----
-- use a \> for blockquotes
+- use a `>` for blockquotes
 - add a blank line between paragraphs, otherwise the line will be a regular carriage return, not the start of a new paragraph.
 
 ## Author Bio
