@@ -9,11 +9,9 @@ teaser: "The first word I learned that day was “perfect.” He repeated it, ov
 published: true
 ---
 
-*You taught me language; and my profit on't*
-
-*Is, I know how to curse.*
-
-—Caliban, *The Tempest,* 1.2
+\> *You taught me language; and my profit on't*
+\> *Is, I know how to curse.*
+\> —Caliban, *The Tempest,* 1.2
 
 ----
 
