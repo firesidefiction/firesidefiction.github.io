@@ -70,7 +70,7 @@ Without further ado, here's what we bought last month:
 {% include author.html
             img="avatars/malonedwards.jpg"
             name="Malon Edwards"
-            story=""Junebug's Magical Magnificent Mercurial Barbershop"
+            story="Junebug's Magical Magnificent Mercurial Barbershop"
             url="http://malonedwards.com"
             bio="Malon Edwards was born and raised on the South Side of Chicago, but now lives in the Greater Toronto Area, where he was lured by his beautiful Canadian wife. Many of his short stories are set in an alternate Chicago and feature  people of color. Malon also serves as Managing Director and Grants Administrator for the Speculative Literature Foundation, which provides a number of grants for writers of speculative literature."
             %}
@@ -115,7 +115,7 @@ Without further ado, here's what we bought last month:
             img="avatars/russellnichols.jpg"
             name="Russell Nichols"
             story="How to Sync Your Spouse"
-            url="http://russellnichols.com."
+            url="http://russellnichols.com"
             bio="Russell Nichols is a spec-fic writer and endangered journalist from Richmond, CA. His story about a black vampire on trial in Boston was included in the Best of Apex Magazine: Volume 1. Find his work in Terraform,  Fiyah Lit Mag, Nightmare Magazine's POC Destroy Horror special issue and other anthologies. He left the States in 2011 to wander the world, living out of a backpack with his wife. Look for him at russellnichols.com."
             %}
 
