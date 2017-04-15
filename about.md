@@ -88,7 +88,7 @@ OK? Great! On to the fun stuff!
 
 ### Payment & rights
 
-Fireside pays 12.5 cents per word, with payment on completion of edits (which generally happen about a month before publication). We buy first world publication rights and six-month exclusivity, as well as the right to reprint the story once, non-exclusively, in a Fireside anthology.
+Fireside pays 12.5 cents per word, with payment on completion of edits (which generally happen about a month before publication). We buy first world publication rights and six-month exclusivity, as well as the right to reprint the story once, non-exclusively, in a Fireside anthology. You can see exactly what rights are acquired by reading our [contract boilerplate for stories](/legal/story-contract-boilerplate). You can see our [contract boilerplate for illustrations](/legal/illustration-contract-boilerplate), as well.
 
 Fireside pays in U.S. dollars, and can send payments to most places in the world, using the recipient's preferred payout method (within reason).
 
@@ -112,7 +112,7 @@ Inclusivity. Diversity. Decolonization. There are a lot of ways people are talki
 
 We welcome stories from all writers, and we are especially interested in stories including (but not limited to) the lives, experiences, and viewpoints of women, people of color, <abbr title="L.  G. B.  T. Q. I.  A.">LGBTQIA</abbr>  people, people with disabilities, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
 
-In July 2016, we published [\#BlackSpecFic](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717#.oszo8bdcm), a special report on the marginalization of black writers in speculative fiction magazines. You can read all the details at the link above, but the summary is: it’s really terrible. To that end, Fireside particularly encourages submissions from black writers. Send us your stories.
+In July 2016, we published [#BlackSpecFic](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717#.oszo8bdcm), a special report on the marginalization of black writers in speculative fiction magazines. You can read all the details at the link above, but the summary is: it’s really terrible. To that end, Fireside particularly encourages submissions from black writers. Send us your stories.
 
 We have gone back and forth about whether to have submissions periods targeted to black writers and members of other marginalized communities. For now, we are not doing this. After a lot of discussion within Fireside and with writers, editors, and other trusted voices, we do not want to ghettoize submissions, or create a sense that marginalized writers have to wait their turn to submit. But we are going to track how this goes, and we are very open to revisiting this policy in the future if things do not improve.
 
