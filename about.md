@@ -50,7 +50,7 @@ Pablo Defendini is [a designer for hire](http://defendini.com), with a focus on 
 
 ## Submissions Guidelines
 
-### Fireside is currently closed to submissions.
+### Fireside is now open to submissions.
 
 Fireside will be open to submissions for several one-week periods in 2017. We accept flash fiction of up to 1,000 words, and short stories from 1,000 to 4,000 words.
 
@@ -161,7 +161,9 @@ Fireside usually publishes no more than 10,000 words a month. We accept submissi
 
 ### How to submit
 
-{% include submissions-closed-button.html %}
+### Fireside is now open for short fiction submissions until April 22.
+
+{% include submit-button.html %}
 Fireside will next open for submissions on April 16.
 
 [back to the top](#top-of-page)
