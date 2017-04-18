@@ -53,4 +53,4 @@ Nik stood agape. Master Aidan knew everything, even things kept secret within ba
 
 #### About the author
 
-Sarah Goslee is a cyborg, a mad scientist, and a string enthusiast. She writes about all of those things, often in less than 140 characters as [@phiala](https:/twitter.com/phiala), and in rather more than 140 at [sarahgoslee.com](http://www.sarahgoslee.com). She spends a lot of time kayaking in central Pennsylvania.
+[Sarah Goslee](http://www.sarahgoslee.com) shares many traits with her cats: she is insatiably curious, spends much time playing with string, and is on the third of her nine lives. Unlike the cats, however, she pays her bills and can write somewhat more intelligibly than "xdfjjkds."
