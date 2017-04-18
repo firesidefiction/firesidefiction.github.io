@@ -6,7 +6,7 @@ date: 2017-04-18 12:01:00 -0500
 category: short story
 permalink: balance-point
 teaser: "Nik came here to learn magic, not to be ignored by everyone — even the teachers — except when it was time for tea."
-published: false
+published: true
 ---
 
 Nik stood against the wall, waiting until Master Aidan needed something. Now and then the fire required more wood, or something had to be fetched, or tea brewed. An apprentice served a master. An apprentice learned by listening, and by doing. It was just so frustrating that *doing* was something that any servant could manage. Nik came here to learn magic, not to be ignored by everyone — even the teachers — except when it was time for tea. Kid stuff was easy: lighting candles, calling birds, seeing in the dark. But there was so much more that only came with training. The masters could create fireworks, make plants grow, do all kinds of magnificent stuff. But all apprentices ever did was regular stuff anyone could do. It wasn‘t safe to do magic without preparation, people could get hurt, whatever. Only people who could do magic could pass all the stupid tests to get in, but then they were promptly told not to do any magic ever or they‘d be kicked out. Even if they did magic all the time before coming here. Nik was determined to stay, but it was awful boring. Eventually Master Aidan looked up from his notebook, and blinked blearily. ”Still here, boy? Even the most dutiful apprentice should have some fun tonight. I don‘t want to see you again until tomorrow afternoon. Shoo.”
@@ -52,3 +52,5 @@ Nik stood agape. Master Aidan knew everything, even things kept secret within ba
 ”Your lessons begin in my office at noon.”
 
 #### About the author
+
+Sarah Goslee is a cyborg, a mad scientist, and a string enthusiast. She writes about all of those things, often in less than 140 characters as [@phiala](https:/twitter.com/phiala), and in rather more than 140 at [sarahgoslee.com](http://www.sarahgoslee.com). She spends a lot of time kayaking in central Pennsylvania.
