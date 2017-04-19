@@ -43,7 +43,7 @@ The water vanished. The cold fog disappeared. The last few shards of ice dropped
 
 ”Your magic is a thing of in-betweens, neither this nor that, neither male nor female,” Aidan said, and Nik was suddenly incredibly aware of the sodden tunic clinging to curves and bulges usually hidden. ”It‘s no wonder that on this night your strength is beyond what you‘re used to, or can hold.
 
-”You will learn control in the middles of things. Noon and midnight will be solid weights that hold you in check. But when you‘re ready you will train at dawn and dusk, and at the edge of the sea. There you will find your power.
+”You will learn control in the middles of things. Noon and midnight will be solid weights that hold you in check. But when you‘re ready you will train at dawn and dusk, and at the edge of the sea. There you will find your power."
 
 Nik stood agape. Master Aidan knew everything, even things kept secret within baggy clothes and convenient shadows.
 
