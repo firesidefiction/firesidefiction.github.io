@@ -56,7 +56,6 @@ Fireside will be open to submissions for several one-week periods in 2017. We ac
 
 Here's our current schedule (subject to change).
 
-- April 16-22 (Short stories only)
 - June 18-24 (Flash fiction and short stories)
 - July 23-29 (Flash fiction only)
 - September 17-23 (Flash fiction and short stories)
@@ -161,9 +160,9 @@ Fireside usually publishes no more than 10,000 words a month. We accept submissi
 
 ### How to submit
 
-### Fireside is now open for short fiction submissions until April 22.
+### Fireside is currently closed for submissions. We will reopen on June 18.
 
-{% include submit-button.html %}
+{% include submissions-closed-button.html %}
 
 
 [back to the top](#top-of-page)
