@@ -73,7 +73,7 @@ Boy, are we mean. Believe us, though, all these rules are based on actual proble
 
 Fireside accepts original, previously unpublished submissions of short fiction, of any genre, up to 4,000 words. That’s a hard limit, so please don’t ask if your 4,015-word story is OK. It’s not. We ***do not*** accept unsolicited submissions of novels, comics, poetry, art, photography, or anything other than short stories of up to 4,000 words. Again, don’t ask. Don’t query. Just don’t.
 
-If you submit a novel or anything way over the word count limits, we’ll probably blacklist you.
+If you submit a novel or anything way over the word count limits, we’ll probably not want to work with you in the future, and we'll make a note of that.
 
 Under our new, more frequent submissions schedule, you can only submit one story per submissions period. If you get a rejection, you can’t submit again during that period.
 
@@ -129,7 +129,7 @@ OK let’s get mean again for a second. We get some total garbage in our submiss
 
 This is ***not*** saying stories cannot touch on, address, or talk about these issues. But we don’t want these acts illustrated in detail in Fireside.
 
-But if we think it crosses the line, we’ll blacklist you. There are no appeals.
+But if we think it crosses the line, we’ll make a note of it and we'll never accept work from you in the future. There are no appeals.
 
 And seriously, don’t email us to argue why *your* terrible subject matter deserves to be considered. You can publish your story somewhere else. Maybe in a flaming dumpster.
 
