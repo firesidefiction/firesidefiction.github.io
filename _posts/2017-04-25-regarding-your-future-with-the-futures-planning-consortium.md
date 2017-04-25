@@ -23,7 +23,6 @@ In addition, FPC Senior Planners will be delivering a Remediation Chart to me by
 The office party has been moved to next Thursday and will be a potluck. See Frank to sign up.
 
 ----
-
 <br/>
 Re: Calendaring problems <br/>
 From: C.A. Sandra <br/>
@@ -182,7 +181,7 @@ Request timed out.
 
 Request timed out.
 
-\… \|
+… \|
 
 Still here motherfuckers. - CAS
 
