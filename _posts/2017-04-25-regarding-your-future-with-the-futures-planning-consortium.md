@@ -1,13 +1,14 @@
 ---
 layout: story
 title: "Regarding Your Future With The Futures Planning Consortium"
-author: Raq Winchester & Fran Wilde
+author: "Raq Winchester & Fran Wilde"
 date: 2017-04-25 12:01:00 -0500
 category: short story
 permalink: regarding-your-future-with-the-futures-planning-consortium
 teaser: "Due to someone mistakenly scheduling the office party synchronously with the rollout of the 2016 local adjustment planning calendar upgrade to version 16.5, I think some apologies are in order. I am sure the responsible party or parties will want to make amends. As a result of this error, the rise of fascism in Europe has accelerated, the next global extinction launched without supervision, and the party caterers were sent to 1620 BCE."
 published: true
 ---
+
 Re: Calendaring problems <br/>
 From: Rita Blunt <br/>
 To: All
@@ -223,5 +224,5 @@ It’s my pleasure to introduce our new Chief Operations Officer, C.A. Sandra. S
 #### About the authors
 
 Rachel Winchester has worked for and with the US Intelligence Community for 18 years, currently serving as a strategic innovation expert and futurist for the IC. She has served in multiple overseas posts in positions ranging from counter-terrorism to support; her current work applies training, facilitation, narrative, and game design best practices to intelligence. She writes for the Center for the Study of Intelligence and her blog on hacking is the second most popular blog on the IC's secure network.
-
-Fran Wilde is the author of the Andre Norton- and Compton Crook Award-winning, Nebula-nominated novel *Updraft* (Tor 2015), its sequels, *Cloudbound* (2016) and *Horizon* (2017), and the Nebula- and Hugo-nominated novelette *The Jewel and Her Lapidary* (Tor.com Publishing 2016). Her short stories appear in Asimov’s, Tor.com, Beneath Ceaseless Skies, Shimmer, Nature, and the 2017 Year's Best Dark Fantasy and Horror. She writes for publications including The Washington Post, Tor.com, Clarkesworld, iO9.com, and GeekMom.com. You can find her on twitter \@fran_wilde, Facebook \@franwildewrites and at [franwilde.net](http://franwilde.net/).
+<br/><br/>
+Fran Wilde is the author of the Andre Norton- and Compton Crook Award-winning, Nebula-nominated novel *Updraft* (Tor 2015), its sequels, *Cloudbound* (2016) and *Horizon* (2017), and the Nebula- and Hugo-nominated novelette *The Jewel and Her Lapidary* (Tor.com Publishing 2016). Her short stories appear in Asimov’s, Tor.com, Beneath Ceaseless Skies, Shimmer, Nature, and the 2017 Year's Best Dark Fantasy and Horror. She writes for publications including The Washington Post, Tor.com, Clarkesworld, iO9.com, and GeekMom.com. You can find her on twitter @fran_wilde, Facebook @franwildewrites and at [franwilde.net](http://franwilde.net/).
