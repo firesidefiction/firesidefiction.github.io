@@ -21,6 +21,9 @@ permalink: /authors
 ### Edward Ashton
 — [_The Bird_](/issue31/chapter/the-bird/ )
 
+### Alec Austin
+— [_The Resurrectionists_](/the-resurrectionists)
+
 ----
 
 ## B
@@ -75,6 +78,10 @@ permalink: /authors
 — [_A Silly Love Story_](/issue20/chapter/a-silly-love-story/)
 
 — [_It Happened To Me: My Doppleganger Stole My Credit Card Info, and then My Life_](/issue38/chapter/21/)
+
+— [_It Happened To Me: I Melded My Consciousness With the Giant Alien Mushroom Floating Above Chicago_](/it-happened-to-me-i-melded-my-consciousness-wtih-the-giant-alien-mushroom-floating-above-chicago)
+
+— [_It Happened To Me: I Was Brought Back to Avenge My Death, But Chose Justice Instead_](/it-happened-to-me-i-was-brought-back-to-avenge-my-death-but-chose-justice-instead)
 
 ### Krystal Claxton
 — [_The Filigreed Cage_](/issue4/chapter/the-filigreed-cage/)
@@ -150,6 +157,8 @@ permalink: /authors
 ### Sarah Goslee
 — [_The Kingfisher Manifesto_](/issue31/chapter/the-kingfisher-manifesto/)
 
+— [_Balance Point_](/balance-point)
+
 ### Megan Grey
 — [_Missing_](/issue15/chapter/missing/)
 
@@ -210,6 +219,8 @@ permalink: /authors
 
 — [_A Clockwork Heart_](/issue25/chapter/a-clockwork-heart/)
 
+— [_The Praetorian Guard_](/the-praetorian-guard)
+
 ### David Jonas
 — [_Repossession_](/issue13/chapter/reposession/)
 
@@ -236,6 +247,8 @@ permalink: /authors
 ### Cassanda Khaw
 — [_Speak_](/issue37/chapter/speak/)
 
+— [_Radio Werewolf_](/radio-werewolf)
+
 ### Margaret Killjoy
 — [_Imagine a World So Forgiving_](/issue34/chapter/imagine-a-world-so-forgiving/)
 
@@ -259,6 +272,9 @@ permalink: /authors
 
 ### Rebecca M. Latimer
 — [_All Manner of Men and Monsters_](/issue18/chapter/all-manner-of-men-and-monsters/)
+
+### Kate Lechler
+— [_The Hulder’s Husband Says Don’t_](/the-hulders-husband-says-dont)
 
 ### Ken Liu
 — [_To the Moon_](/issue1/chapter/to-the-moon/)
@@ -441,6 +457,9 @@ permalink: /authors
 
 ### Troy L. Wiggins
 — [_Black Like Them_](/issue38/chapter/25/)
+
+### Raq Winchester & Fran Wilde
+— [_Regarding Your Future With The Futures Planning Consortium_](/regarding-your-future-with-the-futures-planning-consortium)
 
 ### John Wiswell
 — [_Bones at the Door_](/issue27/chapter/bones-at-the-door/)
