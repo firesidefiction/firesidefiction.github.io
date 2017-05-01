@@ -4,7 +4,7 @@ title:  "It Happened To Me: I Was Brought Back to Avenge My Death, But Chose Jus
 author: Nino Cipri
 date:   2017-04-04 12:01:00 -0500
 category: flash fiction
-permalink: it-happened-to-me-i-was-brought-back-to-avenge-my-death-but-chose-justitce-instead
+permalink: it-happened-to-me-i-was-brought-back-to-avenge-my-death-but-chose-justice-instead
 teaser: "Dirty river water filling my mouth, the tastes of oil and mud and rust; plastic zip-ties cutting into the skin of my wrists; lights on the surface of the water receding away from me. That’s what I remember from before I died."
 published: true
 ---
