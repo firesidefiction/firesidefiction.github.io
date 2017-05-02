@@ -14,6 +14,8 @@ artist: Galen Dara
 
 *Content note: This story deals extensively with issues of child abuse and alcohol abuse.*
 
+*Selected by guest editor Daniel José Older*
+
 # Day One
 
 Daddy says he can still hear it, but we can *all* still hear it, pawing at the bag of chips I left on the counter downstairs, snuffling into the salt. Do bears like chips?Oliver sits, playing some game. Daddy shushes him but Oliver keeps playing. You’d think being the oldest he’d be more concerned about bears in the house.Joanna, have you seen my phone? Daddy’s too busy checking the lock on the door to see me shrug. He searches for his phone so we can call the police and the firemen and the bear patrol. Daddy’s jokes are terrible when he’s scared.
