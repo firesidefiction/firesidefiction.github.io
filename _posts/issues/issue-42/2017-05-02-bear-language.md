@@ -6,7 +6,7 @@ date: 2017-05-02 12:01:00 -0500
 category: short story
 permalink: bear-language
 teaser: "Daddy says he can still hear it, but we can *all* still hear it, pawing at the bag of chips I left on the counter downstairs, snuffling into the salt. Do bears like chips?"
-published: false
+published: true
 art: bear-language.jpg
 caption: A young girl stands in front of a roaring bear. In the background is a slightly run down house and the moon, looming large above everything.
 artist: Galen Dara
