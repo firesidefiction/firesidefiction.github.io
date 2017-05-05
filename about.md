@@ -154,6 +154,12 @@ Make sure you’ve turned off mark-up and sent a document free of comments and e
 
 We accept only <abbr title="doc">.doc</abbr>, <abbr title="doc x">.docx</abbr>, and <abbr title="R. T. F.">.rtf</abbr> files.
 
+### Turnaround and feedback
+
+We usually take about a month from the close of a submissions period to review everything that comes in, so you can expect to hear back from us within that time period. 
+
+Due to the high volume of submissions we get, unfortunately we can't provide feedback on your individual submission if we've rejected it—we have a finite amount of editorial energy, and we need to expend it on the stories that we do acquire. Find some beta readers, join a writers' group, and better luck next time. (No, we won't make an exception just for you. Writing in to ask for one will make us not want to work with you in the future.)
+
 ### A final note
 
 Fireside usually publishes no more than 10,000 words a month. We accept submissions up to 4,000 words, but frankly, we have a very high bar for stories that long, because they take up such a big chunk of our word count. And we’re perpetually short on flash pieces (under 1,000 words). This is to say, if you want an easy way to increase your chances, don’t automatically send us your longest pieces. Got a great 2,500-word story? Please send it! We love really short fiction, and we need it!
