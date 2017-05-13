@@ -4,7 +4,7 @@ title:  "The Forever Endeavor: Part Seven"
 author: Chuck Wendig
 date:   2014-02-06 12:01:00 -0500
 category: serial
-permalink: /issue9/chapter/20/
+permalink: /issue10/chapter/the-forever-endeavor-part-seven/
 teaser: "Dale is shaking."
 published: true
 ---
