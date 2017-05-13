@@ -413,7 +413,7 @@ Then he marches back to his car, mud glomming onto his shoes. He whistles, confi
 
 
 
-Jump to: [Part Six]({{ site.url}}/issue9/chapter/20/)
+Jump to: [Part Six]({{ site.url}}/issue9/chapter/the-forever-endeavor-part-six/)
 
 #### About the Author
 

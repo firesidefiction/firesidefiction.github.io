@@ -4,12 +4,12 @@ title:  "The Forever Endeavor: Part Six"
 author: Chuck Wendig
 date:   2014-01-06 12:01:00 -0500
 category: serial
-permalink: /issue9/chapter/20/
+permalink: /issue9/chapter/the-forever-endeavor-part-six/
 teaser: "Dale is shaking."
 published: true
 ---
 
-Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Five]({{ site.url}}/issue9/chapter/20/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Five]({{ site.url}}/issue8/chapter/the-forever-endeavor-part-five/)
 
 ## 22. A PLATE OF STRANGE MEAT
 

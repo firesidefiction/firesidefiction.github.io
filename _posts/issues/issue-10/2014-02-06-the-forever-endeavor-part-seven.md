@@ -9,7 +9,7 @@ teaser: "Dale is shaking."
 published: true
 ---
 
-Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Six]({{ site.url}}issue9/chapter/20/)
+Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Six]({{ site.url}}/issue9/chapter/the-forever-endeavor-part-six/)
 
 ## 26. HOT DALE-ON-DALE ACTION
 
