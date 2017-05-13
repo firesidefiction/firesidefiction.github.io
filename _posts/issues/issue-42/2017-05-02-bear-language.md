@@ -12,11 +12,11 @@ caption: A young girl stands in front of a roaring bear. In the background is a 
 artist: Galen Dara
 ---
 
-*Content note: This story deals extensively with issues of child abuse and alcohol abuse.*
+> *Content note: This story deals extensively with issues of child abuse and alcohol abuse.*
 
-*Selected by guest editor Daniel José Older*
+> Selected by guest editor Daniel José Older
 
-# Day One
+## Day One
 
 Daddy says he can still hear it, but we can *all* still hear it, pawing at the bag of chips I left on the counter downstairs, snuffling into the salt. Do bears like chips?Oliver sits, playing some game. Daddy shushes him but Oliver keeps playing. You’d think being the oldest he’d be more concerned about bears in the house.Joanna, have you seen my phone? Daddy’s too busy checking the lock on the door to see me shrug. He searches for his phone so we can call the police and the firemen and the bear patrol. Daddy’s jokes are terrible when he’s scared.
 
@@ -42,7 +42,7 @@ I curl up on the bed. Daddy is still on the floor. We both try to sleep.
 
 Oliver keeps playing his game, and I watch him as he ignores us all. Only before I go to sleep I see him look at Daddy and then me, and he rolls his eyes as he always does whenever we have a weekend alone with Daddy. He turns back to his game and is still playing when I close my eyes.
 
-# Day Two
+## Day Two
 
 I hear the pop and hiss of the television come to life downstairs; the static hiccup of the bear flipping through channels wakes me up.
 
@@ -140,7 +140,7 @@ I hum with him. Even Oliver has the ghost of a smile on his face.
 
 We hum until it gets dark and we sleep.  
 
-# Day Three
+## Day Three
 
 Don’t you Bad D-ucking talk to me like that, Daddy says, spinning on his heels, the bottle following him, drops of brown splashing on his socks.
 
@@ -168,7 +168,7 @@ Don’t you say a fucking word, mister.
 
 I heard it that time.
 
-# Day Four
+## Day Four
 
 Daddy is almost out of his second bottle of Daddy Juice and it’s making him itchy; his whole body is one big cotton sweater. He watches the liquid like he’s looking at an ant farm.
 
@@ -222,7 +222,7 @@ We’ll be OK, he says. So, so soon.
 
 The faucet runs in the bathroom.
 
-# Day Five
+## Day Five
 
 There’s a rumbling beneath us.
 
@@ -282,7 +282,7 @@ Susan falls back to her feet and swings her massive head around. You’re safe n
 
 Oliver goes up to Susan, wraps his arms around her big head, and cries into her warm, brown fur.
 
-# Day Six
+## Day Six
 
 After getting off the phone with Mommy, (who kept calling and calling, who we told nothing was wrong, because there’s no way to tell her about Daddy), Susan’s cubs come over. There’s a young girl and an older boy, just like Oliver and me.
 
@@ -316,7 +316,7 @@ Even so, he seems much happier now and the bruise is only a tender purple, mostl
 
 But whenever Daddy howls, I see him touch it and his eyes go hard and glassy like volcanic rock and he nods to himself, just so, as if to say, don’t forget, never forget.
 
-# Day Seven
+## Day Seven
 
 I saw Daddy last night, I say to Oliver.
 
@@ -400,7 +400,7 @@ Your bear language is getting quite good, Susan says, soft silkworms spinning in
 
 I cry into her and wish that Daddy would stop his howling.
 
-# Day Eight
+## Day Eight
 
 Susan shoves my backpack across the floor with her large snout. Oliver stands by the counter, counting up the bills from Daddy’s wallet. We need to buy more food, because Susan can’t go to the store.
 

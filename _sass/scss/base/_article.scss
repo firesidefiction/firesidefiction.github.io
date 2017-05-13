@@ -59,7 +59,8 @@ main > section {
 		line-height: 1.2em;
 		margin-bottom: $space-quarter;
 	}
-	p {
+	p, h2, blockquote p {
+		font-family: $font-secondary;
 		text-indent: 0;
 	}
 }
@@ -76,6 +77,10 @@ main > section {
 .story-body {
 	h1, h2, h3, h4, h5, h6 {
 		text-indent: 0;
+		margin-top: 1em;
+	}
+	p {
+		margin-bottom: 0;
 	}
 }
 
