@@ -343,7 +343,7 @@ She stiffens. Her mouth forms a tight line.
 
 
 
-Jump to: [Part Seven](({{ site.url}}/issue10/chapter/the-forever-endeavor-part-seven/)
+Jump to: [Part Seven]({{ site.url}}/issue10/chapter/the-forever-endeavor-part-seven/)
 
 #### About the Author
 
