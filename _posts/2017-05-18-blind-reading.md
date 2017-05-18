@@ -1,10 +1,11 @@
+---
 layout: article
-title:  Blind Reading is in Braille or Large Print
-author: Brian J. White
+title:  "Blind Reading is in Braille or Large Print"
+author: Elsa Sjunneson-Henry
 date:   2017-05-18 12:01:00 -0500
 category: essay
 permalink: /blind-reading
-teaser: "Ableism creeps into our language all the time. It’s an ever-present, ever-haunting monster. Words that seem innocuous to many, well, they’re not so innocuous to me."
+teaser: "Ableism creeps into our language all the time. Words that seem innocuous to many, well, they’re not so innocuous to me."
 published: false
 ---
 
