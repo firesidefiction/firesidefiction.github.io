@@ -12,7 +12,7 @@ This agreement is made between Fireside Fiction Company (or 'Fireside'), and `[A
 
 ## Schedule
 ### Acceptance:
-The Story will be considered accepted after revisions have been approved by the Author and by Fireside.
+The Story will be considered accepted after revisions have been approved by the Author and by Fireside. Once the story has been accepted, the Author should invoice Fireside for payment.
 
 ### Exclusivity:
 The Author agrees not to publish or permit others to publish the Story in any form prior to the Story’s publication in Fireside Magazine and for a period of six (6) months after the Story's publication in Fireside Magazine, unless the Author obtains Fireside’s prior written approval.
@@ -21,7 +21,7 @@ The Author agrees not to publish or permit others to publish the Story in any fo
 If the Story is selected for a 'best of the year' anthology, Fireside agrees to waive exclusivity, provided the Author gives prior written notice of such selection.
 
 ## Payment
-In consideration for the rights granted by the Author to Fireside, and the Author’s performance of obligations under this Agreement, the Author will receive a payment in the sum of **USD 12.5 cents per word**, which will be paid immediately upon acceptance of the Story.
+In consideration for the rights granted by the Author to Fireside, and the Author’s performance of obligations under this Agreement, the Author will receive a payment in the sum of **USD 12.5 cents per word**, which will be paid immediately upon receipt of an invoice from the Author.
 
 Fireside's right to use the Story is conditioned upon receipt of payment, and upon Fireside’s compliance with the terms of this agreement.
 

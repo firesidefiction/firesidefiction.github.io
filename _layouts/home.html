@@ -16,7 +16,7 @@ layout: default-home
             </a>
           {% endif %}
           <div>
-            <p class="category">{{ post.category }}<p/>
+            <p class="category">{{ post.category }}</p>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
             <h3>by {{ post.author }}</h3>
             <p>{{ post.teaser }}</p>
