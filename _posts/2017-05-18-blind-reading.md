@@ -6,7 +6,7 @@ date:   2017-05-18 12:01:00 -0500
 category: essay
 permalink: /blind-reading
 teaser: "Ableism creeps into our language all the time. Words that seem innocuous to many, well, they’re not so innocuous to me."
-published: false
+published: true
 ---
 
 Ableism creeps into our language all the time. It’s an ever-present, ever-haunting monster. Words that seem innocuous to many, well, they’re not so innocuous to me.
@@ -43,7 +43,7 @@ Which brings us back to the idea of the blind read: It’s about not knowing thi
 
 Publishing has an ableism problem. We don’t have enough disabled writers out there. We don’t have enough disabled narratives that ring with truth out there. We don’t have enough, and every single time we use ableist language to describe how we do things, we’re probably pushing people away. It might not seem like it, but we need to change the language.
 
-We need to read anonymously, not blindly. We need to talk about epic tales, not crazy tales. We need to erase words like dumb, idiotic, lame, and stupid from the way that we describe bad stories.
+We need to read anonymously, not blindly. We need to talk about epic tales, not crazy tales. We need to erase words like dumb, idiotic, lame, and stupid from the way that we describe poorly written stories.
 
 We have to do better, and that means looking hard at the words we use and considering that perhaps we aren’t as evolved as we like to think.
 
