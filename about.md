@@ -156,7 +156,7 @@ We accept only <abbr title="doc">.doc</abbr>, <abbr title="doc x">.docx</abbr>, 
 
 ### Turnaround and feedback
 
-We usually take about a month from the close of a submissions period to review everything that comes in, so you can expect to hear back from us within that time period. 
+We usually take about a month from the close of a submissions period to review everything that comes in, so you can expect to hear back from us roughly within that time period. (Emphasis on the word 'roughly.' We're a small team, and sometimes things take longer than expected. Please be patient.)
 
 Due to the high volume of submissions we get, unfortunately we can't provide feedback on your individual submission if we've rejected it—we have a finite amount of editorial energy, and we need to expend it on the stories that we do acquire. Find some beta readers, join a writers' group, and better luck next time. (No, we won't make an exception just for you. Writing in to ask for one will make us not want to work with you in the future.)
 
