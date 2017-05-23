@@ -2,12 +2,13 @@
 layout: story
 title:  "Friendly Emily"
 author: Kevin Hearne
-date:   2017-05-23 12:01:00 -0500
-category: flach fiction
+date:   2017-05-22 12:01:00 -0500
+category: flash fiction
 permalink: friendly-emily
 teaser: "She heard my boots crunch around the bend in the trail, looked up, and gave a tiny smirk when she saw me stop in confusion. Instead of saying hello or asking for help, she tried to reassure me. “Don’t worry, Mister, I won’t eat you,” she said. “I’m not hungry right now.”"
 published: true
 ---
+
 Lots of my friends went swimming in whiskey after the election, and I may have taken a quick dip myself. Some of them were still swimming — going for distance, I guess. But deadening the pain like that didn’t help me cope very well. I rediscovered hiking, going out to see with my own eyes the kind of happy little trees and mountains that Bob Ross used to paint on public television. His landscapes had always been so remarkably free of fascists, and I found that Rocky Mountain National Park was the same.
 
 It was not, I discovered, free of lost children. Five miles away from any trailhead or shuttle stop, high up in the peaks, a young girl examined a carefully picked dandelion in the puffball stage. The park isn’t a meat-grinding abattoir like, say, a Los Angeles freeway during rush hour, or the unavoidable Thanksgiving dinner with my racist in-laws, but neither is it completely safe for kids to wander around in all alone.
