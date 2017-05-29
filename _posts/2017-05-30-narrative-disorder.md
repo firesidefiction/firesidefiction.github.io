@@ -8,7 +8,7 @@ category: short story
 permalink: narrative-disorder
 teaser: "Mishima was the youngest person ever to be diagnosed. Her third-year teacher became suspicious after overhearing her retell a five-minute trip to the bathroom as an epic saga with two subplots and an unexpected denouement (minor sink malfunction)."
 art: narrative_disorder.jpg
-caption: A woman in a long coat flies through the air, one leg extended in a kick with the other curled beneath her.
+caption: A woman in a long coat leaps through the air, one leg extended in a kick with the other curled beneath her.
 artist: Galen Dara
 published: false
 
@@ -320,4 +320,4 @@ When she finally tells a man she is sharing her bed with about the condition, sh
 
 #### About the author
 
-xxx
+Malka Older is a writer, aid worker, and PhD candidate. Her writing can be found at Leveler, Tor.com, Bengal Lights, Sundog Lit, Capricious, Reservoir, Inkscrawl, Rogue Agent, in the poetry anthology My Cruel Invention, and in Chasing Misery, an anthology of writing by female aid workers. Her science fiction political thriller Infomocracy is the first full-length novel from Tor.com, and the sequel Null States will be published in 2017. She was nominated for the 2016 John W. Campbell Award for Best New Writer. Named Senior Fellow for Technology and Risk at the Carnegie Council for Ethics in International Affairs for 2015, she has more than a decade of experience in humanitarian aid and development, Her doctoral work on the sociology of organizations at the Institut d’Études Politques de Paris (Sciences Po) explores the dynamics of multi-level governance and disaster response using the cases of Hurricane Katrina and the Japan tsunami of 2011.
