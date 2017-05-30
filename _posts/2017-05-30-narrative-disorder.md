@@ -10,7 +10,7 @@ teaser: "Mishima was the youngest person ever to be diagnosed. Her third-year te
 art: narrative_disorder.jpg
 caption: A woman in a long coat leaps through the air, one leg extended in a kick with the other curled beneath her.
 artist: Galen Dara
-published: false
+published: true
 
 ---
 
