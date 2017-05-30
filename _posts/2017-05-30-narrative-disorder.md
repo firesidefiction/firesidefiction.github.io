@@ -294,7 +294,7 @@ It is obvious that spying is more dangerous than security, at least for Mishima.
 
 ----
 
-*The debrief is largely genial; a few senior analysts, or spymasters, pointing out the ways Mishima already knows she messed up. She should have taken the time to explore the Liberty centenal before heading out to sea (*although,* Mishima counters privately, *that could have triggered surveillance just as easily). She should not have boarded the ship without back-up, or at least more data about who or what might be on there. Yes, she kept the three men running the scheme fairly confused, but at least one of them suspected she was from Information, and it won’t take Liberty long to come to the same conclusion. *
+*The debrief is largely genial; a few senior analysts, or spymasters, pointing out the ways Mishima already knows she messed up. She should have taken the time to explore the Liberty centenal before heading out to sea* (although,*Mishima counters privately,* that could have triggered surveillance just as easily). *She should not have boarded the ship without back-up, or at least more data about who or what might be on there. Yes, she kept the three men running the scheme fairly confused, but at least one of them suspected she was from Information, and it won’t take Liberty long to come to the same conclusion. *
 
 *Then comes the moment Mishima has dreaded through all her many careers. Her supervisor blinks through her file, projected at personal eye-level so she can’t see it, and asks, “Do you think your narrative disorder had anything to do with the impulsivity of your actions in this case?”*
 
