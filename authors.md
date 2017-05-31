@@ -177,6 +177,9 @@ permalink: /authors
 ### Michael Lee Harris
 — [_Snow Ninjas of the Hymalayas_](/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
+### Kevin Hearne
+— [_Friendly Emily_](/friendly-emily)
+
 ### Thord D. Hedengren
 — [_My Name is Ronald by the Way_](/issue20/chapter/my-name-is-ronald-by-the-way/)
 
@@ -238,6 +241,8 @@ permalink: /authors
 
 ### Mikki Kendall
 — [_Sometimes the Crossroads Come to You_](/issue38/chapter/23/)
+
+— [_Snow White_](/snow-white)
 
 ### Keffy R. M. Kehrli
 — [_Mice_](/issue4/chapter/mice/)
@@ -326,6 +331,9 @@ permalink: /authors
 ### Daniel José Older
 — [_Stay_](/issue22/chapter/stay/)
 
+### Malka Older
+— [_Narrative Disorder_](/narrative-disorder)
+
 ----
 
 ## P
@@ -401,8 +409,9 @@ permalink: /authors
 — [_Nobody's Goddess_](/issue23/chapter/nobodys-goddess/)
 
 ### Elsa Sjunneson-Henry
-
 — [_A Place Out of Time_](/issue34/chapter/a-place-out-of-time/)
+
+— [_Blind Reading is in Braille or Large Print_](/blind-reading)
 
 ### Addison Smith
 — [_Hope for Enthos_](/issue10/chapter/hope-for-enthos/)
