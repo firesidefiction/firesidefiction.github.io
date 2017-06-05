@@ -26,8 +26,8 @@ Running Fireside isn’t cheap. Most of our revenue goes to pay for our writers 
 
 {% include call-to-action.html %}
 
-## One-Time Contribution
-Don't want the commitment of backing every month, but still want to throw some cash in our hat? You can, through [Paypal](https://www.paypal.com/donate/?token=ZhQUzaJ5GdK4KKNeGAv0uTRKVqnxOufOgvi8nNC2JulhXAYKCCyxW7zApIbczFn09lk8eG).
+<!-- ## One-Time Contribution
+Don't want the commitment of backing every month, but still want to throw some cash in our hat? You can, through [Paypal](https://www.paypal.com/donate/?token=ZhQUzaJ5GdK4KKNeGAv0uTRKVqnxOufOgvi8nNC2JulhXAYKCCyxW7zApIbczFn09lk8eG). -->
 
 [back to the top](#top-of-page)
 
