@@ -53,16 +53,44 @@ main > section {
 	text-indent: 0;
 }
 
-.story-header, .post-header {
+.story-header {
 	h1 {
 		font-size: 2.5em;
 		line-height: 1.2em;
 		margin-bottom: $space-quarter;
 	}
+	h2 {
+		margin-top: $space-half;
+	}
 	p, h2, blockquote p {
 		font-family: $font-secondary;
 		text-indent: 0;
 	}
+}
+
+.post-header {
+	h1 {
+		font-size: 2.5em;
+		line-height: 1.2em;
+		margin-bottom: 0;
+	}
+	h2 {
+		margin-top: $space-half;
+	}
+	p, h2, blockquote p {
+		font-family: $font-secondary;
+		text-indent: 0;
+	}
+}
+
+.book-info {
+		display: grid;
+		grid-template-columns: 30% 70%;
+		figure {
+			margin-top: -60%;
+			margin-right: 1em;
+			z-index: 999999;
+		}
 }
 
 .story-illustration {
@@ -71,6 +99,20 @@ main > section {
 	margin: -7em 0 0 0;
 	img {
 		width: 100%;
+	}
+}
+
+.book-illustration {
+	position: relative;
+	z-index: 0;
+	margin: -7em 0 0 0;
+	max-height: 200px;
+	overflow: hidden;
+	background: darken($color__fireside-red, 50%);
+	img {
+		width: 100%;
+		margin: -200px 0 0 0;
+		opacity: .5;
 	}
 }
 

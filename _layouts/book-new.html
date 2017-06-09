@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{% if page.cover %}
+  <figure class="book-illustration">
+    <img src="/images/book-covers/{{ page.cover }}" alt="{{ page.caption }}">
+  </figure>
+{% endif %}
+{% include story-logo.html %}
+
+    <article>
+      {% if page.cover %}
+        <header class="post-header book-info">
+          <figure class="book">
+            <img src="/images/book-covers/{{ page.cover }}" alt="Cover image for {{ page.title }}">
+            <ul>
+              {% if page.printbook %}
+                <a href="{{ page.printbook }}"><li class="btn">
+                Buy it!</li></a>
+              {% endif %}
+            </ul>
+          </figure>
+          {% else %}
+          <header class="post-header">
+          {% endif %}
+          <div>
+            <h1>{{ page.title }}</h1>
+            <h3>A {{ page.length }} in {{ page.serial-parts }} parts</h3>
+            <h2>by {{ page.author }}</h2>
+          </div>
+        </header>
+        <section class="book-content">
+        {{ content }}
+      </section>
+    </article>
