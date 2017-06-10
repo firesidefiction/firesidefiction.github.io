@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Twelve"
+layout: story-serial
+title:  "Who Owns You Now?"
 author: Lilith Saintcrow
 date:   2015-09-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 12
+previous-url: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
+next-url: /book/she-wolf-and-cub
 permalink: /issue27/chapter/she-wolf-and-cub-chapter-twelve/
 teaser: "Fading bitterness coating the tongue."
 published: true
 ---
-
-Jump to: [Chapter Eleven](/issue26/chapter/she-wolf-and-cub-chapter-eleven/)
-
-## Who Owns You Now?
 
 Fading bitterness coating the tongue. Concentration guttering, a candleflame under monsoon assault. Chrono useless, no attention to spare for it anyway. Reserve the glucose, drift the arm up, drift it forward so slowly, then, the punch. The breakage-star widened, and a steady stream of restraint gel oozed out, steaming as it hit the air outside.
 

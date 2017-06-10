@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Three"
+layout: story-serial
+title:  "Township Vega"
 author: Lilith Saintcrow
 date:   2014-12-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 3
+previous-url: /issue17/chapter/she-wolf-and-cub-chapter-two/
+next-url: /issue19/chapter/she-wolf-and-cub-chapter-four/
 permalink: /issue18/chapter/she-wolf-and-cub-chapter-three/
 teaser: "At first, I thought the township was a worm."
 published: true
 ---
-
-Jump to: [Chapter Two](/issue17/chapter/she-wolf-and-cub-chapter-two/)
-
-## Township Vega
 
 At first, I thought the township was a worm.
 

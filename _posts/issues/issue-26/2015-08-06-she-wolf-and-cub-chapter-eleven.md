@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Eleven"
+layout: story-serial
+title:  "Black Hat Collective"
 author: Lilith Saintcrow
 date:   2015-08-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 11
+previous-url: /issue25/chapter/she-wolf-and-cub-chapter-ten/
+next-url: /issue27/chapter/she-wolf-and-cub-chapter-twelve/
 permalink: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
 teaser: "They came from below."
 published: true
 ---
-
-Jump to: [Chapter Ten](/issue25/chapter/she-wolf-and-cub-chapter-ten/)
-
-## Black Hat Collective
 
 They came from below.
 

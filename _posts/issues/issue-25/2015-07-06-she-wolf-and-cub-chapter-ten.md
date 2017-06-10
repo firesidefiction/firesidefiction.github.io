@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Ten"
+layout: story-serial
+title:  "Non-Alliance"
 author: Lilith Saintcrow
 date:   2015-07-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 10
+previous-url: /issue24/chapter/she-wolf-and-cub-chapter-nine/
+next-url: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
 permalink: /issue25/chapter/she-wolf-and-cub-chapter-ten/
 teaser: "The fourpad exploded, chunks of meat flying and a burst of hot blood."
 published: true
 ---
-
-Jump to: [Chapter Nine](/issue24/chapter/she-wolf-and-cub-chapter-nine/)
-
-## Non-Alliance
 
 The fourpad exploded, chunks of meat flying and a burst of hot blood. It died silently, the beast with the tufted swirl on his head, and oddly enough, that was I thought about as I tumbled free of the statrifle blast's hot scorching.
 

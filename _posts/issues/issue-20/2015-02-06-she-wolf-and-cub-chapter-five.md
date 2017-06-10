@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Five"
+layout: story-serial
+title:  "Night Moves"
 author: Lilith Saintcrow
 date:   2015-02-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 5
+previous-url: /issue19/chapter/she-wolf-and-cub-chapter-four/
+next-url: /issue21/chapter/she-wolf-and-cub-chapter-six/
 permalink: /issue20/chapter/she-wolf-and-cub-chapter-five/
 teaser: "Stars, those faraway nuclear fires you never see through a city's statveiling, glittered on velvet blackness."
 published: true
 ---
-
-Jump to: [Chapter Four](/issue19/chapter/she-wolf-and-cub-chapter-four/)
-
-## Night Moves
 
 Stars, those faraway nuclear fires you never see through a city's statveiling, glittered on velvet blackness. Our tiny noises, fourpad paws shushing along sandy rock and the creak of saddles, were lost in the breathing of the wind. The Waste was a vast creature, and us just tiny motes caught in its passages.
 

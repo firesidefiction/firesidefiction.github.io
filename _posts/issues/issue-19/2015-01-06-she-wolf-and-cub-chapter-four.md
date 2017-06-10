@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Four"
+layout: story-serial
+title:  "Sam"
 author: Lilith Saintcrow
 date:   2015-01-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 4
+previous-url: /issue18/chapter/she-wolf-and-cub-chapter-three/
+next-url: /issue20/chapter/she-wolf-and-cub-chapter-five/
 permalink: /issue19/chapter/she-wolf-and-cub-chapter-four/
 teaser: "He marched right up to the bar, a loose limber stride just a touch too long to be natural."
 published: true
 ---
-
-Jump to: [Chapter Three](/issue18/chapter/she-wolf-and-cub-chapter-three/)
-
-## Sam
 
 He marched right up to the bar, a loose limber stride just a touch too long to be natural. It took him out of strike range, and the peculiar grumble of subaudible — standard for meets — thrummed through my audio intakes.
 

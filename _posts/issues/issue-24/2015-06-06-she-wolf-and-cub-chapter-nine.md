@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Nine"
+layout: story-serial
+title:  "I Think She's Serious"
 author: Lilith Saintcrow
 date:   2015-06-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 9
+previous-url: /issue23/chapter/she-wolf-and-cub-chapter-eight/
+next-url: /issue25/chapter/she-wolf-and-cub-chapter-ten/
 permalink: /issue24/chapter/she-wolf-and-cub-chapter-nine/
 teaser: "During the day, the canopy turned everything below into aqueous green shimmer that didn't raise blistering welts on Geoff's skin."
 published: true
 ---
-
-Jump to: [Chapter Eight](/issue23/chapter/she-wolf-and-cub-chapter-eight/)
-
-## I Think She's Serious
 
 During the day, the canopy turned everything below into aqueous green shimmer that didn't raise blistering welts on Geoff's skin. He avoided the faint specks and columns of unfiltered sunshine, and I caught him holding his hands out in the green glow more than once, marveling at the shadows rippling.
 

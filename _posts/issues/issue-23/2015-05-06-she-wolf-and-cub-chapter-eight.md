@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Eight"
+layout: story-serial
+title:  "Agent Warfare"
 author: Lilith Saintcrow
 date:   2015-05-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 8
+previous-url: /issue22/chapter/she-wolf-and-cub-chapter-seven/
+next-url: /issue24/chapter/she-wolf-and-cub-chapter-nine/
 permalink: /issue23/chapter/she-wolf-and-cub-chapter-eight/
 teaser: "Coming up from a numbpatch is always the same."
 published: true
 ---
-
-Jump to: [Chapter Seven](/issue22/chapter/she-wolf-and-cub-chapter-seven/)
-
-## Agent Warfare
 
 Coming up from a numbpatch is always the same. Like dawn, a thin crack of gray at the very edge of the world, the nanos getting the signal to bring you back online. You don't ever dream in that black bleakness. Still, sometimes, on the very thin razor margin between chem-induced haze and the hurtful clarity of waking, a brief burst of REM gets through.
 

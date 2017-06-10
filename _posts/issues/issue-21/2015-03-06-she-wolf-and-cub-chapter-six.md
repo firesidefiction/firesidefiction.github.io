@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Six"
+layout: story-serial
+title:  "He's Taken"
 author: Lilith Saintcrow
 date:   2015-03-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 6
+previous-url: /issue20/chapter/she-wolf-and-cub-chapter-five/
+next-url: /issue22/chapter/she-wolf-and-cub-chapter-seven/
 permalink: /issue21/chapter/she-wolf-and-cub-chapter-six/
 teaser: "Carsona was a corporation town."
 published: true
 ---
-
-Jump to: [Chapter Five](/issue20/chapter/she-wolf-and-cub-chapter-five/)
-
-## He's Taken
 
 Carsona was a corporation town. It was also close enough that the skimmers could have been raiders picking through its refuse, or even inhabitants out for a joyride. Geoff and I would have avoided the place, but whoever had taken him would have come through here.
 

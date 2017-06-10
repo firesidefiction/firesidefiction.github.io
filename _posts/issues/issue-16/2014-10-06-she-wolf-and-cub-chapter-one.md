@@ -1,9 +1,14 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter One"
+layout: story-serial
+title:  "Sealed Train"
 author: Lilith Saintcrow
 date:   2014-10-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 1
+previous-url: /issue16/chapter/she-wolf-and-cub-prologue/
+next-url: /issue17/chapter/she-wolf-and-cub-chapter-two/
 permalink: /issue16/chapter/she-wolf-and-cub-chapter-one/
 teaser: "I thought derailing — or just plain getting off — a sealed train in the middle of the Waste would be difficult, but not impossible."
 published: true
@@ -12,9 +17,6 @@ caption: Illustration for She Wolf and Cub Chapter One
 artist: Galen Dara
 ---
 
-Jump to: [Prologue](/issue16/chapter/she-wolf-and-cub-prologue/)
-
-## Sealed Train
 
 >  _"I told you, a wolf's head can still bite."_
 >

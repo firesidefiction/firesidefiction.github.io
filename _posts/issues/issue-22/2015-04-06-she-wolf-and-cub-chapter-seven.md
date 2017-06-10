@@ -1,17 +1,18 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Seven"
+layout: story-serial
+title:  "Myth"
 author: Lilith Saintcrow
 date:   2015-04-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 7
+previous-url: /issue21/chapter/she-wolf-and-cub-chapter-six/
+next-url: /issue23/chapter/she-wolf-and-cub-chapter-eight/
 permalink: /issue22/chapter/she-wolf-and-cub-chapter-seven/
 teaser: "I hadn't laughed like that since… well, since far before I was implemented."
 published: true
 ---
-
-Jump to: [Chapter Six](/issue21/chapter/she-wolf-and-cub-chapter-six/)
-
-## Myth
 
 I hadn't laughed like that since… well, since far before I was implemented. The Projekts beats any hilarity out of you soon enough.
 

@@ -1,17 +1,19 @@
 ---
-layout: story
-title:  "She Wolf and Cub: Chapter Two"
+layout: story-serial
+title:  "Cannibal Warfare"
 author: Lilith Saintcrow
 date:   2014-11-06 12:01:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 2
+previous-url: /issue16/chapter/she-wolf-and-cub-chapter-one/
+next-url: /issue18/chapter/she-wolf-and-cub-chapter-three/
 permalink: /issue17/chapter/she-wolf-and-cub-chapter-two/
 teaser: "He didn't complain, even when the sunlight worked through the wrappings and raised blistering weals on pale skin."
 published: true
 ---
 
-Jump to: [Chapter One](/issue16/chapter/she-wolf-and-cub-chapter-one/)
-
-## Cannibal Warfare
 
 He didn't complain, even when the sunlight worked through the wrappings and raised blistering weals on pale skin. He would have gone until he dropped from the fourpad's broad back and cracked his head on a rock if I hadn't been paying attention.
 
