@@ -56,7 +56,6 @@ Fireside will be open to submissions for several one-week periods in 2017. We ac
 
 Here's our schedule for the remainder of the year (subject to change):
 
-- June 18-24 (Flash fiction)
 - July 23-29 (Short stories)
 - September 17-23 (Flash fiction)
 - November 5-11 (Short stories)
