@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: book-new
 title: She Wolf and Cub
 author: Lilith Saintcrow
 date: 2017-03-01 12:01:00 -0500
@@ -7,6 +7,7 @@ category: book
 permalink: book/she-wolf-and-cub
 published: true
 length: novel
+serial-parts: 12
 cover: she-wolf-and-cub.jpg
 amazon: https://www.amazon.com/dp/B06XC3W4HC
 ibooks: https://itunes.apple.com/us/book/she-wolf-and-cub/id1210096085

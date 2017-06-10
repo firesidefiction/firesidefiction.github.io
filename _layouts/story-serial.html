@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{% if page.art %}
+  <figure class="story-illustration">
+    <img src="/illustration/{{ page.art }}" alt="{{ page.caption }}">
+  </figure>
+{% endif %}
+{% include story-logo.html %}
+<article class="fiction">
+  <header class="story-header">
+    <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+    {% if page.author %}<h2 class="byline">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
+    <div class="serial-pagination">
+      <h5><a href="foo">Previously: Foo</a></h5><h5><a href="book/the-fisher-of-bones">{{ page.serial-name }}</a>, Part {{ page.part }} <br/> {{ page.date | date: "%B %Y" }}{% if page.artist %} | Illustration by {{ page.artist }}{% endif %}</h5><h5><a href="foo">Next: Bar</a></h5>
+    </div>
+  </header>
+
+  <div class="content story-body">
+    {{ content }}
+    <h5>© {{ page.date | date: "%Y" }} {{ page.author }}</h5>
+  </div>
+  <div class="serial-pagination">
+    <h5><a href="foo">Previously: Foo</a></h5><h5><a href="book/the-fisher-of-bones">{{ page.serial-name }}</a>, Part {{ page.part }} <br/> {{ page.date | date: "%B %Y" }}{% if page.artist %} | Illustration by {{ page.artist }}{% endif %}</h5><h5><a href="foo">Next: Bar</a></h5>
+  </div>
+  <h4>About the author</h4>
+  <p>{{ page.author-bio }}</p>
+
+
+</article>
