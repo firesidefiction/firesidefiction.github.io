@@ -1,5 +1,5 @@
 ---
-layout: book-new
+layout: book
 title: The Forever Endeavor
 author: Chuck Wendig
 date: 2016-10-25 12:01:00 -0500
@@ -32,28 +32,27 @@ But Walter has a solution. It's his job. Solutions. He's a detective, after all.
 _Publishers Weekly_ praised _The Forever Endeavor_ for its "creative narrative and a sense for visceral action" and said "Wendig successfully busts the niche’s conventions wide open, and he throws in a few winking asides to his previous work that will evoke a grim chortle from his fans."
 
 ## Contents
-Part 1 — [_Form and Void_](/issue3/chapter/form-and-void/)
 
-Part 1 — [_Naming_](/foo)
+Part 1 — [_Mistakes Were Made_](/issue4/chapter/the-forever-endeavor-part-one/)
 
-Part 2 — [_Cycle_](/foo)
+Part 2 — [_Ham Salad_](/issue5/chapter/the-forever-endeavor-part-two/)
 
-Part 3 — [_Increase_](/foo)
+Part 3 — [_Is Bliss_](/issue6/chapter/the-forever-endeavor-part-three/)
 
-Part 4 — [_Loss_](/foo)
+Part 4 — [_The Bird and the Worm_](/issue7/chapter/the-forever-endeavor-part-four/)
 
-Part 5 — [_Fear_](/foo)
+Part 5 — [_Murder-Suicide_](/issue8/chapter/the-forever-endeavor-part-five/)
 
-Part 6 — [_Discovery_](/foo)
+Part 6 — [_A Plate of Strange Meat_](/issue9/chapter/the-forever-endeavor-part-six/)
 
-Part 7 — [_Storm_](/foo)
+Part 7 — [_Hot Dale-On-Dale Action_](/issue10/chapter/the-forever-endeavor-part-seven/)
 
-Part 8 — [_Anticipation_](/foo)
+Part 8 — [_Feast and Famine_](/issue11/chapter/the-forever-endeavor-part-eight/)
 
-Part 9 — [_Sundering_](/foo)
+Part 9 — [_Tangled Sheets_](/issue12/chapter/the-forever-endeavor-part-nine/)
 
-Part 10 — [_Nearness_](/foo)
+Part 10 — [_Undertow_](/issue13/chapter/the-forever-endeavor-part-ten/)
 
-Part 11 — [_Recognition_](/foo)
+Part 11 — [_Mistakes Were Made_](/issue14/chapter/the-forever-endeavor-part-eleven/)
 
-Part 12 — [_Arrival_](/foo)
+Part 12 — [_Cosmic Forces at Your Local Waffle House_](/issue15/chapter/the-forever-endeavor-part-twelve/)

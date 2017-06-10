@@ -80,3 +80,70 @@
 		background: none;
 	}
 }
+
+// Buy Books Button
+
+// These are the styles for the Buy Button, when the drop down is hidden (default state).
+ label.buy {
+  border-radius: $border-radius;
+  padding: $pad/2 $pad;
+  cursor: pointer;
+  max-width: 250px; // TODO: Make this a variable for the same max-width as a book img
+	background-color: $color__highlight;
+	color: white;
+  &:after {
+		content: url(/images/ui/expand-more.svg);
+		float: right;
+	}
+	&:hover {
+		background-color: $color__highlight--focus;
+	}
+}
+
+// These are the styles for the Buy Button, when the drop down is showing.
+ .toggle:checked ~ label.buy {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  z-index: 99999;
+	&:after {
+		content: url(/images/ui/close.svg);
+		float: right;
+	}
+ }
+
+// These are the styles for the drop down when it's visible.
+.toggled ul {
+ position: absolute;
+ margin: 0;
+ padding: $pad/2 0;
+ list-style: none;
+ min-width: 181px;
+ background-color: $color__highlight;
+ color: white;
+ border-bottom-left-radius: $border-radius;
+ border-bottom-right-radius: $border-radius;
+ z-index: 99998;
+ a {
+	 color: white;
+ }
+ li {
+	 font-family: $font-secondary;
+	 font-weight: 100;
+	 padding: $pad/2 $pad;
+	 &:hover {
+		 background-color:  $color__highlight--focus;
+	 }
+ }
+}
+
+// These are the styles for the drop down, when it is hidden (default state).
+.toggle, .toggle:not(:checked) ~ .toggled {
+ border: 0;
+ clip: rect(0 0 0 0);
+ height: 1px;
+ margin: -1px;
+ overflow: hidden;
+ padding: 0;
+ position: absolute;
+ width: 1px;
+}

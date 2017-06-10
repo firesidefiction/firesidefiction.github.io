@@ -1,5 +1,5 @@
 ---
-layout: book-new
+layout: book
 title: She Wolf and Cub
 author: Lilith Saintcrow
 date: 2017-03-01 12:01:00 -0500

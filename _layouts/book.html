@@ -1,46 +1,43 @@
 ---
 layout: default
 ---
-{% include books-logo.html %}
+{% if page.cover %}
+  <figure class="book-illustration">
+    <img src="/images/book-covers/{{ page.cover }}" alt="{{ page.caption }}">
+  </figure>
+{% endif %}
+{% include story-logo.html %}
 
     <article>
-        <header class="story-header">
-          <h1>{{ page.title }}</h1>
-          <h2>a {{ page.length }} by {{ page.author }}</h2>
-        </header>
-        <section class="book-header">
-          <figure>
+      {% if page.cover %}
+        <header class="post-header book-info">
+          <figure class="book">
             <img src="/images/book-covers/{{ page.cover }}" alt="Cover image for {{ page.title }}">
+            <input type="checkbox" class="toggle" id="{{ page.title }}" />
+
+            <!-- Label from which the `for` attribute should match the one from the checkbox toggle. -->
+            <label class="buy text__button" for="{{ page.title }}">Buy this book</label>
+
+            <!-- Content meant to be collapsed/expanded depending on the state of the checkbox. -->
+            <div class="toggled text__button">
+              <ul>
+                  {% if page.amazon %}<a href="{{ page.amazon }}"><li>Amazon</li></a>{% endif %}
+                  {% if page.ibooks %}<a href="{{ page.ibooks }}"><li>iBooks</li></a>{% endif %}
+                  {% if page.nook %}<a href="{{ page.nook }}"><li>Nook</li></a>{% endif %}
+                  {% if page.kobo %}<a href="{{ page.kobo }}"><li>Kobo</li></a>{% endif %}
+                  {% if page.goodreads %}<a href="{{ page.goodreads }}"><li>See on Goodreads</li></a>{% endif %}
+                </ul>
+            </div>
           </figure>
-          <div class="book-metadata">
-            <ul>
-              {% if page.printbook %}
-                <a href="{{ page.printbook }}"><li class="btn">
-                Buy in Paperback</li></a>
-              {% endif %}
-              {% if page.amazon %}
-                <a href="{{ page.amazon }}"><li class="btn">
-                Buy on Kindle</li></a>
-              {% endif %}
-              {% if page.ibooks %}
-                <a href="{{ page.ibooks }}"><li class="btn">
-                Buy on iBooks</li></a>
-              {% endif %}
-              {% if page.kobo %}
-                <a href="{{ page.kobo }}"><li class="btn">
-                Buy on Kobo</li></a>
-              {% endif %}
-              {% if page.nook %}
-                <a href="{{ page.nook }}"><li class="btn">
-                Buy on Nook</li></a>
-              {% endif %}
-              {% if page.goodreads %}
-                <a href="{{ page.goodreads }}"><li class="btn">
-                Add to Goodreads</li></a>
-              {% endif %}
-            </ul>
+          {% else %}
+          <header class="post-header">
+          {% endif %}
+          <div>
+            <h1>{{ page.title }}</h1>
+            <h3>A {{ page.length }} in {{ page.serial-parts }} parts</h3>
+            <h2>by {{ page.author }}</h2>
           </div>
-        </section>
+        </header>
         <section class="book-content">
         {{ content }}
       </section>
