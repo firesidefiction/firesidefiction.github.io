@@ -117,12 +117,15 @@
  margin: 0;
  padding: $pad/2 0;
  list-style: none;
- min-width: 181px;
  background-color: $color__highlight;
  color: white;
  border-bottom-left-radius: $border-radius;
  border-bottom-right-radius: $border-radius;
  z-index: 99998;
+ min-width: 250px;
+ @media all and (min-width: 690px) {
+	 min-width: 181px;
+ }
  a {
 	 color: white;
  }

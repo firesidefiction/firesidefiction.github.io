@@ -85,11 +85,18 @@ main > section {
 
 .book-info {
 		display: grid;
-		grid-template-columns: 30% 70%;
+		grid-template-columns: 100%;
+		@media all and (min-width: 690px) {
+			grid-template-columns: 30% 70%;
+		}
 		figure {
-			margin-top: -60%;
-			margin-right: 1em;
 			z-index: 999999;
+			margin: -25% auto 40px;
+			max-width: 250px;
+			@media all and (min-width: 690px) {
+				margin-top: -60%;
+				margin-right: 1em;
+			}
 		}
 }
 

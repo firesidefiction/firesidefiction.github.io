@@ -145,6 +145,14 @@ hr {
 	}
 }
 
+.book-info {
+	@media all and (max-width: 690px) {
+		h1, h2, h3 {
+			text-align: center;
+		}
+	}
+}
+
 .post-content {
 	h1 {
 		font-size: 2em;
