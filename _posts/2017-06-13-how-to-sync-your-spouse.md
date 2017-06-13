@@ -2,7 +2,7 @@
 layout: story
 title:  "How to Sync Your Spouse"
 author: Russell Nichols
-date:   2017-06-13 1:00:00 -0500
+date:   2017-06-12 1:00:00 -0500
 category: flash fiction
 permalink: how-to-sync-your-spouse
 teaser: "All over Ixesha, every tick-tocking soul says the motto of their great African nation in unison. Completely in sync. That is, except Menzi and Lindiwe."
