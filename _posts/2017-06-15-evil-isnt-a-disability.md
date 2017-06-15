@@ -71,7 +71,7 @@ Later in 2016, Lawrence O’Donnell said on his TV show, “It’s becoming more
 At the break, there was a commercial for *Don’t Breathe*. It was a horror movie about a blind killer. I thought of all the times when blind characters were portrayed as particularly helpless victims, like *Wait Until Dark* (1967), *Red Dragon* (2002), and *Julia’s Eyes* (2011). Making the killer blind seemed novel and empowering, though it’s worth noting that blind writers have a different experience of this, and that [when disabled critics approached the director, he ignored them](http://www.dominickevans.com/2016/08/dont-breathe-ableism-and-non-disabled-indifference/).
 
 That summer? I still went to see it. Frankly, I went to escape all the non-disabled people in my country.
-*Don’t Breathe* followed about three robbers (Dylan Minnette, Jane Levy, and Daniel Zovato) hoping to escape their crappy lives by robbing a blind man (Stephen Lang). He had close to a million dollars from a settlement after a wealthy driver killed his daughter. When one robber questioned targeting a blind person, another shot him down saying it didn’t make him a saint.
+*Don’t Breathe* followed three robbers (Dylan Minnette, Jane Levy, and Daniel Zovato) hoping to escape their crappy lives by robbing a blind man (Stephen Lang). He had close to a million dollars from a settlement after a wealthy driver killed his daughter. When one robber questioned targeting a blind person, another shot him down saying it didn’t make him a saint.
 
 In short order they drugged his dog, picked his locks, broke his alarm, sleep-gassed his room, and rummaged through his life. Their biggest internal conflict was how much of his house they should tear apart looking for the money.
 
