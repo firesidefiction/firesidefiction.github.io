@@ -56,9 +56,8 @@ Fireside will be open to submissions for several one-week periods in 2017. We ac
 
 Here's our schedule for the remainder of the year (subject to change):
 
-- July 23-29 (Short stories)
-- September 17-23 (Flash fiction)
-- November 5-11 (Short stories)
+- September 17-23
+- November 5-11
 
 Fireside is only able to publish and pay for our fantastic stories with the support of our Patreon backers. As our support grows, we’ll be able to publish more stories and longer stories, and raise our already leading pay rates even higher. Please consider [supporting us on Patreon](https://www.patreon.com/firesidefiction).
 
