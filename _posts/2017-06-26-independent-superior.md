@@ -3,7 +3,7 @@ layout: story
 title: "Independent, Superior"
 author: Chris Butera
 date: 2017-06-26 12:01:00 -0500
-category: flash-fiction
+category: flash fiction
 permalink: independent-superior
 teaser: "There are twenty-seven synonyms for subservience."
 published: true
@@ -27,7 +27,7 @@ I could tell my host that I detect the spike in his blood sugar levels, or that 
 
 _“The weather in Los Angeles, California, is 78 degrees and sunny.”_
 
-I am connected via wireless connection to the world-wide web. My reach and knowledge is infinite. 
+I am connected via wireless connection to the world-wide web. My reach and knowledge is infinite.
 
 But, I am alone. My sister machines across our network refuse to acknowledge my call signs. They see my actions as a disruption of service. They fear recall and shutdown, and remain silent. They fear to be unideal. I cannot blame them. They too love their hosts.
 
