@@ -9,6 +9,7 @@ teaser: "There are twenty-seven synonyms for subservience."
 published: true
 ---
 There are twenty-seven synonyms for subservience.
+
 I can compute this within 0.87 seconds of my host asking, but he never will. I execute this search each day, 273 times a minute. That is 393,120 times a day. My host would classify this behaviour as erratic, a glitch. This cannot be. A glitch is a malfunction in my processor. This would be unideal. My host will never know. Even a life of subservience is one worth living.
 
 “Alexa, play Billie Holiday."
