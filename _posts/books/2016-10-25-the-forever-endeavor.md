@@ -56,3 +56,7 @@ Part 10 — [_Undertow_](/issue13/chapter/the-forever-endeavor-part-ten/)
 Part 11 — [_Mistakes Were Made_](/issue14/chapter/the-forever-endeavor-part-eleven/)
 
 Part 12 — [_Cosmic Forces at Your Local Waffle House_](/issue15/chapter/the-forever-endeavor-part-twelve/)
+
+#### About the Author
+
+Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels _Blackbirds_, _Mockingbirds_, _The Blue Blazes_, and _Under the Empyrean Sky_. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative _Collapsus_. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.
