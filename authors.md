@@ -342,6 +342,7 @@ permalink: /authors
 
 ### Malka Older
 — [_Narrative Disorder_](/narrative-disorder)
+
 — [_The Narrative Spectrum_](/the-narrative-spectrum)
 
 ----
@@ -440,6 +441,7 @@ permalink: /authors
 
 ### R.D. Sullivan
 — [_Skinned Knees_](/issue6/chapter/skinned-knees/)
+
 — [_Breathe_](/breathe)
 
 ----
@@ -483,6 +485,7 @@ permalink: /authors
 
 ### John Wiswell
 — [_Bones at the Door_](/issue27/chapter/bones-at-the-door/)
+
 — [_Evil Isn’t a Disability: 10 Cloverfield Lane, Donald Trump, and Don’t Breathe_](/evil-isnt-a-disability)
 
 ### Alyssa Wong
