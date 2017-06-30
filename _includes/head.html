@@ -23,6 +23,17 @@
   <script src="https://use.typekit.net/mwl8huf.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
+  <script type="text/javascript" src="/assets/js/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="/assets/js/bigfoot.min.js"></script>
+  <script type="text/javascript">
+  	var bigfoot = $.bigfoot(
+  		{
+  		actionOriginalFN: "ignore",
+  		positionContent: "true"
+  		}
+  	);
+  </script>
+
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}

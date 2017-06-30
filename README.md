@@ -130,6 +130,7 @@ The content section is where the, um, content of the piece goes. This is where w
 - use four dashes for section breaks: ----
 - use a `>` for blockquotes
 - add a blank line between paragraphs, otherwise the line will be a regular carriage return, not the start of a new paragraph.
+- to add a footnote you add `[^1]` in the body of the text, and `[^1]: This is my glorious and most important footnote` at the bottom of your .markdown file.
 
 ## Author Bio
 The Author Bio Is currently hard coded into each story post. In addition, the author should be added to the `author.md` page.
