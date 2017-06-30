@@ -55,7 +55,10 @@ permalink: /authors
 — [_La Bestia_](/issue26/chapter/la-bestia/)
 
 ### Tobias S. Buckell
-— [_Press Enter to Execute_](/issue1/chapter/press-enter-to-execute/)<br/>
+— [_Press Enter to Execute_](/issue1/chapter/press-enter-to-execute/)
+
+### Chris Butera
+— [_Independent, Superior_](/independent-superior)
 
 ----
 
@@ -182,6 +185,9 @@ permalink: /authors
 
 ### Thord D. Hedengren
 — [_My Name is Ronald by the Way_](/issue20/chapter/my-name-is-ronald-by-the-way/)
+
+### Sarah Hollowell
+— [_Crow's Eye_](/crows-eye)
 
 ### Kat Howard
 — [_The Heart of the Story_](/issue2/chapter/the-heart-of-the-story/)
@@ -321,6 +327,9 @@ permalink: /authors
 ### Annie Neugebauer
 — [_Zanders the Magnificent_](/issue21/chapter/zanders-the-magnificent/)
 
+### Russell Nichols
+— [_How to Sync Your Spouse_](/how-to-sync-your-spouse)
+
 ----
 
 ## O
@@ -333,6 +342,7 @@ permalink: /authors
 
 ### Malka Older
 — [_Narrative Disorder_](/narrative-disorder)
+— [_The Narrative Spectrum_](/the-narrative-spectrum)
 
 ----
 
@@ -430,6 +440,7 @@ permalink: /authors
 
 ### R.D. Sullivan
 — [_Skinned Knees_](/issue6/chapter/skinned-knees/)
+— [_Breathe_](/breathe)
 
 ----
 
@@ -472,6 +483,7 @@ permalink: /authors
 
 ### John Wiswell
 — [_Bones at the Door_](/issue27/chapter/bones-at-the-door/)
+— [_Evil Isn’t a Disability: 10 Cloverfield Lane, Donald Trump, and Don’t Breathe_](/evil-isnt-a-disability)
 
 ### Alyssa Wong
 — [_Rabbit Heart_](/issue37/chapter/rabbit-heart/)
