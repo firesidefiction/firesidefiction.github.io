@@ -3,14 +3,13 @@
 layout: story
 title:  The Resurrectionists
 author: Alec Austin
+selected: Daniel José Older
 date:   2017-03-14 12:01:00 -0500
 category: short story
 permalink: /the-resurrectionists
 teaser: "They’d gone three days without seeing anything more than mesas and miles of bone-sand before Kade saw the newspaper."
 published: true
 ---
-
-_Selected by guest editor Daniel José Older_
 
 They’d gone three days without seeing anything more than mesas and miles of bone-sand before Kade saw the newspaper. At first he took it for a haunt, gliding across the dunes, and he’d elbowed Marya before he realized his mistake. “Oberon’s balls,” he said as he watched the newsprint flutter and fall to the sand. “A sign of civilization at last.”
 

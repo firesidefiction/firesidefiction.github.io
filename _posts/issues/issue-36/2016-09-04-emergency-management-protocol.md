@@ -2,6 +2,7 @@
 layout: story
 title:  Emergency Management Protocol
 author: C. C. S. Ryan
+selected: Daniel José Older
 date:   2016-09-04 12:01:00 -0500
 category: short story
 permalink: /issue36/chapter/emergency-management-protocol/
@@ -11,8 +12,6 @@ art: emergency-management-protocol.jpg
 caption: Illustration for Emergency Management Protocol
 artist: Galen Dara
 ---
-
-_Selected by guest editor Daniel José Older_
 
 #### *5 Reasons I Have To Break Up With Nia (Zoraida Tun’s journal)*
 
