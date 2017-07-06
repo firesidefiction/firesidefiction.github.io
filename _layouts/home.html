@@ -6,7 +6,7 @@ layout: default-home
   {{ content }}
 
     {% for post in paginator.posts %}
-      {% if post.category == "short story" or post.category == "flash fiction" or post.category == "serial" or post.category == "comic" %}
+      {% if post.category == "short story" or post.category == "flash fiction" or post.category == "comic" %}
         <div class="entry story">
           {% if post.art %}
             <a href="{{ post.url | relative_url }}">
@@ -17,6 +17,24 @@ layout: default-home
           {% endif %}
           <div>
             <p class="category">{{ post.category }}</p>
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+            <h3>by {{ post.author }}</h3>
+            <p>{{ post.teaser }}</p>
+          </div>
+        </div>
+      {% endif %}
+
+      {% if post.category == "serial" %}
+        <div class="entry story">
+          {% if post.art %}
+            <a href="{{ post.url | relative_url }}">
+              <figure>
+                <img class="" src="/illustration/{{ post.art }}" alt="{{ post.caption }}">
+              </figure>
+            </a>
+          {% endif %}
+          <div>
+            <p class="category">{{ post.category }}: {{ post.serial-name }}, Chapter {{ post.part }}</p>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
             <h3>by {{ post.author }}</h3>
             <p>{{ post.teaser }}</p>
