@@ -6,7 +6,7 @@ editor:
 date:   2017-07-11 00:00:00 -0500
 category: flash fiction
 permalink: we-who-stay-behind
-teaser: "You are Explorers. Your bodies are enhanced with drugs, with ceramics, with metals, with neural chips. You stride the world wearing seven-league boots and wrestle Kodiak bears before breakfast. "
+teaser: "You are Explorers. You are First Contact. You go through the Portal. We do not. We are the ones who stay behind."
 published: true
 ---
 
@@ -59,4 +59,4 @@ We need you, we say calmly, and extend our hands. Stay.
 
 #### About the Author
 
-Karl Dandenell is a first-generation Swedish American, survivor of Viable Paradise XVI, and active member of the Science Fiction Writers of America. He lives on an island near San Francisco with his family and 2 cat overlords. He is fond of strong tea and distilled spirits. When not sitting in project meetings, he reads a lot of speculative fiction, and serves as a First Reader for The Magazine of Fantasy & Science Fiction.
+Karl Dandenell is a first-generation Swedish American, survivor of Viable Paradise XVI, and active member of the Science Fiction Writers of America. He lives on an island near San Francisco with his family and 2 cat overlords. He is fond of strong tea and distilled spirits. When not sitting in project meetings, he reads a lot of speculative fiction, and serves as a First Reader for _The Magazine of Fantasy & Science Fiction_.
