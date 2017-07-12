@@ -6,7 +6,7 @@ date: 2017-07-13 06:01:00 -0500
 category: essay
 permalink: /the-importance-of-being-monstrous
 teaser: "The next time someone tells me to smile, I want to bare my razor-sharp teeth instead."
-published: true
+published: false
 ---
 
 In this increasingly bullshit world we live in, coping mechanisms are important. Getting through the day can be a battle when you're bombarded with explosive political bombshells every hour and one week can feel like a year. It takes its toll and everyone tries to deal in their own way. For instance, I became a monster. My advice is for you to do the same.

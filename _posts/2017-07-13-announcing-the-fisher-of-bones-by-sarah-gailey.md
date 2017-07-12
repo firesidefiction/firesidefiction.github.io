@@ -6,8 +6,8 @@ date: 2017-07-13 2:01:00 -0500
 category: news
 permalink: /announcing-the-fisher-of-bones-by-sarah-gailey
 teaser: "I’m pleased to announce that starting on August 2nd, Fireside will begin publishing a brand-new serial in twelve parts by none other than Sarah Gailey."
-published: true
---- 
+published: false
+---
 
 I’m pleased to announce that starting on August 2nd, Fireside will begin publishing _The Fisher of Bones_, a brand-new serial in twelve parts by none other than Sarah Gailey:
 
@@ -16,7 +16,7 @@ I’m pleased to announce that starting on August 2nd, Fireside will begin publi
 > Their journey is almost at an end, but now, without the Prophet, she must find a way to guide them to the place they will call Home. Through blood and through sand, against the will of her own flock, against the horrors that haunt the darkness, only she can bring her people Home.
 > The Prophet is dead. Long live the Prophetess.
 
-We’ve been publishing Sarah’s stylish prose since early last year, beginning with [_Haunted_](firesidefiction.com/issue31/chapter/haunted/), a hell of a haunted-house tale, and most recently with [_Homesick_](firesidefiction.com/issue36/chapter/homesick/), a sci-fi horror piece about longing and regret. Her novella, [_River of Teeth_](https://www.amazon.com/River-Teeth-Sarah-Gailey/dp/0765395231), was recently published by Tor.com to great reviews, and her follow-up, [_Taste of Marrow_](https://www.amazon.com/Taste-Marrow-River-Teeth-Gailey/dp/0765395258/ref=pd_sim_14_1?_encoding=UTF8&psc=1&refRID=1PDMFPPCVYVBKSGDMWV3), is coming up fast this fall. Sarah is a delightful human being, a pleasure to work with, and you should never, ever underestimate her. We’re excited to take on a more ambitious project with her, and we’re looking forward to getting it into our readers’ hands. Here’s what Brian White, who acquired and is editing _The Fisher of Bones_, has to say about it: 
+We’ve been publishing Sarah’s stylish prose since early last year, beginning with [_Haunted_](firesidefiction.com/issue31/chapter/haunted/), a hell of a haunted-house tale, and most recently with [_Homesick_](firesidefiction.com/issue36/chapter/homesick/), a sci-fi horror piece about longing and regret. Her novella, [_River of Teeth_](https://www.amazon.com/River-Teeth-Sarah-Gailey/dp/0765395231), was recently published by Tor.com to great reviews, and her follow-up, [_Taste of Marrow_](https://www.amazon.com/Taste-Marrow-River-Teeth-Gailey/dp/0765395258/ref=pd_sim_14_1?_encoding=UTF8&psc=1&refRID=1PDMFPPCVYVBKSGDMWV3), is coming up fast this fall. Sarah is a delightful human being, a pleasure to work with, and you should never, ever underestimate her. We’re excited to take on a more ambitious project with her, and we’re looking forward to getting it into our readers’ hands. Here’s what Brian White, who acquired and is editing _The Fisher of Bones_, has to say about it:
 
 > _Fisher of Bones_ is everything I love about Sarah Gailey: smart, inventive, and soaked in blood. Wait, forget I said that last one. Anyway, I loved working on this with Sarah, and I think you're going to enjoy taking this journey with us.
 
