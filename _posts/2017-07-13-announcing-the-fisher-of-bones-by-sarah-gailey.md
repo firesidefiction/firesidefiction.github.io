@@ -5,7 +5,7 @@ author: Pablo Defendini
 date: 2017-07-13 14:01:00 -0500
 category: news
 permalink: /announcing-the-fisher-of-bones-by-sarah-gailey
-teaser: "I’m pleased to announce that starting on August 2nd, Fireside will begin publishing a brand-new serial in twelve parts by none other than Sarah Gailey."
+teaser: "I’m pleased to announce that starting on August 2, Fireside will begin publishing a brand-new serial in twelve parts by none other than Sarah Gailey."
 published: true
 ---
 
