@@ -6,7 +6,7 @@ date: 2017-07-13 06:01:00 -0500
 category: essay
 permalink: /the-importance-of-being-monstrous
 teaser: "The next time someone tells me to smile, I want to bare my razor-sharp teeth instead."
-published: false
+published: true
 ---
 
 In this increasingly bullshit world we live in, coping mechanisms are important. Getting through the day can be a battle when you're bombarded with explosive political bombshells every hour and one week can feel like a year. It takes its toll and everyone tries to deal in their own way. For instance, I became a monster. My advice is for you to do the same.
@@ -23,7 +23,7 @@ Much ink has been spilled about my generation, the mysterious Millennials. We’
 
 Self-care comes in many forms. Some people do yoga, some people garden, and some people give themselves the persona of a necromancer and flippantly discuss murder and pulling off heists. If the world is already on fire, why not become a dragon? Maybe the fire won't burn as badly then. This world is filled to the brim with monsters, grinning two faced fuckers in badly fitting suits. When confronted with the monstrous, why not become a monster? The next time someone tells me to smile, I want to bare my razor-sharp teeth instead.
 
-As a child I always admired villains. I loved Disney bad guys more than the princesses. They had better songs and outrageous costumes. Bond villains had style and panache. Dracula was doing everyone a favor taking down those whiny Victorians, the Wolfman was misunderstood, and Cthulhu just wanted to sleep. Often times it felt like the villains made more sense than the good guys. The monsters were more compelling than the people hunting them. Given the choice between Frankenstein’s creature or the frothing at the mouth, pitchfork and torches waving townsfolk, I'd pick Frankenstein's creature every time. In a world that expects you to just take whatever bullshit it throws at you it feels good to have an outlet that allows you to sharpen your metaphorical blades and contemplate what you'd do if you stopped playing nice. When life hands you lemons, rig them with explosives and throw them back.
+As a child I always admired villains. I loved Disney bad guys more than the princesses. They had better songs and outrageous costumes. Bond villains had style and panache. Dracula was doing everyone a favor taking down those whiny Victorians, the Wolfman was misunderstood, and Cthulhu just wanted to sleep. Often times it felt like the villains made more sense than the good guys. The monsters were more compelling than the people hunting them. Given the choice between Frankenstein’s creature or the frothing at the mouth, pitchfork and torches waving townsfolk, I'd pick Frankenstein's creature every time. In a world that expects you to just take whatever bullshit it throws at you it feels goody to have an outlet that allows you to sharpen your metaphorical blades and contemplate what you'd do if you stopped playing nice. When life hands you lemons, rig them with explosives and throw them back.
 
 Everyone has secret inner worlds no one else knows about. We all have games we play in our heads when we're alone, stories we tell ourselves to occupy our time. All of us have built intricate mythologies about ourselves, cobbled together from things we love and people we know. We're all legends in our own minds. We all want to pretend that news of our displeasure turns us into John Wick and the fact we are angry is met with a single horrified "oh".
 
