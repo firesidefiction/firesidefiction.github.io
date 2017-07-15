@@ -9,7 +9,7 @@ teaser: "I’m pleased to announce that starting on August 2, Fireside will begi
 published: true
 ---
 
-I’m pleased to announce that starting on August 2nd, Fireside will begin publishing _The Fisher of Bones_, a brand-new serial in twelve parts by none other than Sarah Gailey:
+We’re pleased to announce that starting on August 2nd, Fireside will begin publishing _The Fisher of Bones_, a brand-new serial in twelve parts by none other than Sarah Gailey:
 
 > The Prophet is dead.
 > The eyes of the Gods have turned to his daughter. But she isn't ready. Not for the whispers in her ear, for the divinations... for the blood. Her people's history and their future, carved by ancients into the bones of long dead behemoths, are now her burden. Only she can read them, interpret the instructions, and guide them to the Promised Land.
