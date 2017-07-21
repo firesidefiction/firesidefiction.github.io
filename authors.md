@@ -15,6 +15,9 @@ permalink: /authors
 ### Day Al-Mohamed
 — [_Death's Garden_](/issue17/chapter/deaths-garden/)
 
+### K. C. Alexander
+— [_Four Tons Too Late_](/issue11/chapter/four-tons-too-late/)
+
 ### E.C. Ambrose
 — [_Carver_](/issue13/chapter/carver/)
 
@@ -88,9 +91,6 @@ permalink: /authors
 
 ### Krystal Claxton
 — [_The Filigreed Cage_](/issue4/chapter/the-filigreed-cage/)
-
-### Karina Cooper
-— [_Four Tons Too Late_](/issue11/chapter/four-tons-too-late/)
 
 ### Frank Cvetkovic
 — [_Snow Ninjas of the Hymalayas_](/issue1/chapter/snow-ninjas-of-the-hymalayas/)
