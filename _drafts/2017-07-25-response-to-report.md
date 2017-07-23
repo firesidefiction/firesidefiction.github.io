@@ -2,6 +2,7 @@
 layout: blackspecfic
 title: "A response to the #BlackSpecFic Report"
 author: De Ana Jones
+editor: Mikki Kendall
 date: 2017-07-23 00:01:00 -0500
 category: "#Blackspecfic"
 permalink: /a-response-to-blackspecfic
