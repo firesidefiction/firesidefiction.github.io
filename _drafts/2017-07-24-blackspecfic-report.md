@@ -2,7 +2,7 @@
 layout: blackspecfic
 title: "The 2016 #BlackSpecFic Report"
 author: Cecily Kane
-date: 2017-07-24 00:01:00 -0500
+date: 2017-07-23 00:01:00 -0500
 category: "#Blackspecfic"
 permalink: /blackspecfic2016
 teaser: "A couple of years ago, we noticed an alarming pattern in speculative fiction publications: while sometimes diverse in other ways, they published few to no stories by Black writers. Last year's report confirmed that perception. A year later, how are we doing?"
