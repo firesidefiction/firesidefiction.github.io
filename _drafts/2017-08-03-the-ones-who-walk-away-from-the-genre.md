@@ -2,6 +2,7 @@
 layout: blackspecfic
 title: "The Ones Who Walk Away from the Genres"
 author: "Jennifer Marie Brissett"
+editor: Mikki Kendall
 date: 2017-07-23 00:01:00 -0500
 category: "#Blackspecfic"
 permalink: /the-ones-who-walk-away-from-the-genre
