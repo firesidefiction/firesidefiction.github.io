@@ -160,3 +160,15 @@ hr {
 		font-size: 2em;
 	}
 }
+
+.bigfoot-footnote {
+	p {
+		font-size: $font-size-small;
+	}
+}
+.footnotes {
+	font-size: $font-size-small;
+	li {
+		margin-top: $space-double;
+	}
+}
