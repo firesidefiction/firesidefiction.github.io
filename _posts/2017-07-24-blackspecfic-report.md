@@ -9,7 +9,7 @@ teaser: "A couple of years ago, we noticed an alarming pattern in speculative fi
 published: true
 ---
 
-> The data that the #BlackSpecFic Report is based on is [in this spredsheet](https://docs.google.com/spreadsheets/d/1qbPDBXLS5jRcpU5LHvkdXaBOlajRy0hrvLvLw3rfVFk/edit?usp=sharing).
+> The data that the #BlackSpecFic Report is based on is [in this spreadsheet](https://docs.google.com/spreadsheets/d/1qbPDBXLS5jRcpU5LHvkdXaBOlajRy0hrvLvLw3rfVFk/edit?usp=sharing).
 
 A couple of years ago, we[^1] noticed an alarming pattern in speculative fiction publications: while sometimes diverse in other ways, they published few to no stories by Black writers. Our [2015 investigation](https://medium.com/fireside-fiction-company/antiblack-racism-in-speculative-fiction-7e30eff97008) of over 60 science fiction and fantasy magazines confirmed those perceptions. Only about 2% of the original stories[^2] we could find in the field were Black-authored. Given that people of the African diaspora make up about 13% of the U.S. population and a larger portion of the world population [^3], the discrepancy disturbed us. And the math suggested that there was no possible way this lack of representation was random happenstance.
 
