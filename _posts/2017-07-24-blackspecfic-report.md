@@ -9,6 +9,8 @@ teaser: "A couple of years ago, we noticed an alarming pattern in speculative fi
 published: true
 ---
 
+> The data that the #BlackSpecFic Report is based on is [in this spredsheet](https://docs.google.com/spreadsheets/d/1qbPDBXLS5jRcpU5LHvkdXaBOlajRy0hrvLvLw3rfVFk/edit?usp=sharing).
+
 A couple of years ago, we[^1] noticed an alarming pattern in speculative fiction publications: while sometimes diverse in other ways, they published few to no stories by Black writers. Our [2015 investigation](https://medium.com/fireside-fiction-company/antiblack-racism-in-speculative-fiction-7e30eff97008) of over 60 science fiction and fantasy magazines confirmed those perceptions. Only about 2% of the original stories[^2] we could find in the field were Black-authored. Given that people of the African diaspora make up about 13% of the U.S. population and a larger portion of the world population [^3], the discrepancy disturbed us. And the math suggested that there was no possible way this lack of representation was random happenstance.
 
 A year after our initial report, many questions remain. To what extent is this problem due to submission and acceptance rates? And while it is almost assuredly both, how does the recursive[^4] nature between the two work? The sample and data points we have can’t fully answer those. There are questions for which numbers alone are inadequate to answer, and we think this is one of them. The data collected here seeks answers to other questions, the most important of which in our view is: within this structurally racist[^5] state of affairs, how are new writers faring? What happens when we take a deeper look at the field?
@@ -65,7 +67,7 @@ Progress isn’t always linear; not all magazines have equal resources or lead t
 
  **White stakeholders in this field:** remember that, while we live in a world that tries to convince us differently, “fault” and “responsibility” look similar but are fundamentally different paradigms.
 
-This particular section of the report isn’t the source of many answers. For those, see both [last year’s materials](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717) and upcoming ones: a roundtable with the staff of Fiyah Magazine and response essays by De Ana Jones, Chesya Burke, Maurice Broaddus, and Jennifer Brissett.
+This particular section of the report isn’t the source of many answers. For those, see both [last year’s materials](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717) and upcoming ones: a roundtable with the staff of Fiyah Magazine and response essays by De Ana Jones, Chesya Burke, Maurice Broaddus, and Jennifer Marie Brissett.
 
 ----
 
