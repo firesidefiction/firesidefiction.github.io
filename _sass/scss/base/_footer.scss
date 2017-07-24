@@ -72,8 +72,16 @@ footer {
 		height: 48px;
 	}
 	div {
-		display: flex;
-		justify-content: space-between;
+		.btn {
+			width: 100%;
+		}
+		@media all and (min-width: $bp-small-3) {
+			display: flex;
+			justify-content: space-between;
+			.btn {
+				width: auto;
+			}
+		}
 	}
 }
 

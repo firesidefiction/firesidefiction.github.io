@@ -1,7 +1,7 @@
 ---
 layout: blackspecfic
 title: "Addressing a problem"
-author: "The Book Smugglers"
+author: "Ana Grilo & Thea James"
 date: 2017-07-23 00:01:00 -0500
 category: "#Blackspecfic"
 permalink: /addressing-a-problem
@@ -31,6 +31,6 @@ We are only one small indie press, though, in an ocean of publishers and venues.
 
 The more we _all_ do, the better for our community.
 
-#### About The Book Smugglers
+#### About the author
 
-Like many foolhardy ideas, The Book Smugglers was born of a time of great adversity. Faced with threats concerning the overwhelming volume of books purchased on a daily basis, Ana Grilo and Thea James resorted to “smuggling” books home in huge handbags to avoid scrutiny. In 2008, the devious duo founded The Book Smugglers, a blog dedicated to speculative and genre fiction for all ages. In addition to being an outlet for Ana and Thea’s bottomless obsession with books, reviews, and assorted popgeekery, it is also the home of [Book Smugglers Publishing](http://thebooksmugglers.com/book-smugglers-publishing) — an independent digital-first publisher of SFF fiction and nonfiction.
+Thea James is half of the maniacal book review duo behind [The Book Smugglers](http://thebooksmugglers.com). When she isn't voraciously devouring the latest and greatest in speculative fiction, or swamped in papers and proposals, she can be found blogging, watching bad horror movies and concocting general plans toward world domination.
