@@ -3,14 +3,14 @@ layout: blackspecfic
 title: "A Note from the Editor of the #BlackSpecFic Responses"
 author: Mikki Kendall
 editor:
-date: 2017-07-25 00:01:00 -0500
+date: 2017-07-25 11:00:00 -0500
 category: "#Blackspecfic"
 permalink: /a-note-from-the-editor-of-the-blackspecfic-responses
-teaser: "I’ve always written stories, but the process of actually getting them published eluded me."
+teaser: "When I agreed to work on the #BlackSpecFic project as an editor I wanted to broaden other writers' platforms in the same way that I have expanded mine over the years."
 published: true
 ---
 
-Last year when I was approached to write about the #BlackSpecFic report, the numbers weren’t really a surprise. I have a pretty good ratio for submission vs. publication. I also have a social media footprint that makes it hard to ignore me. This year when I agreed to work on the project as an editor I wanted to broaden other writers' platforms in the same way that I have expanded mine over the years. As an editor on this project and others, I went out of my way to reach out to new writers. That list includes De Ana Jones, who sold her first story to me for Hidden Youth, the anthology I co-edited with Chesya Burke. Now, lest you think this means that the road to being invited this year was working with me, I’ve never worked with Maurice Broaddus or Jennifer Marie Brissett. I admire their work, admire the trajectory of their careers. And I wanted to get responses from writers who were coming at this from all levels.
+Last year when I was approached to write about the #BlackSpecFic report, the numbers weren’t really a surprise. I have a pretty good ratio for submission vs. publication. I also have a social media footprint that makes it hard to ignore me. This year when I agreed to work on the project as an editor I wanted to broaden other writers' platforms in the same way that I have expanded mine over the years. As an editor on this project and others, I went out of my way to reach out to new writers. That list includes De Ana Jones, who sold her first story to me for _Hidden Youth_, the anthology I co-edited with Chesya Burke. Now, lest you think this means that the road to being invited this year was working with me, I’ve never worked with Maurice Broaddus or Jennifer Marie Brissett. I admire their work, admire the trajectory of their careers. And I wanted to get responses from writers who were coming at this from all levels.
 
 One of the things that is harder to see when you’re talking about so few Black writers being published is that even though we all write under the broad umbrella of speculative fiction, we don’t tell the same stories. As an editor for any publication, it’s not just a question of saying you’re committed to diversity, it’s actually being willing not only to explicitly invite Black writers in, but also to step outside your comfort zone. If you claim that you can’t find the kinds of stories that fit your vision from Black writers? You’re lying to yourself. And while I would never presume to know what you’re thinking, perhaps you should examine your unconscious biases. Ask yourself why you think that there are no Black writers creating stories that you want to read. Special issues are fine, are in fact necessary, but putting out a good magazine or anthology includes being willing to read and publish stories that challenge your expectations year round.
 
