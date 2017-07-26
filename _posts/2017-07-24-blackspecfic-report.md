@@ -67,7 +67,7 @@ Progress isn’t always linear; not all magazines have equal resources or lead t
 
  **White stakeholders in this field:** remember that, while we live in a world that tries to convince us differently, “fault” and “responsibility” look similar but are fundamentally different paradigms.
 
-This particular section of the report isn’t the source of many answers. For those, see both [last year’s materials](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717) and upcoming ones: a roundtable with the staff of Fiyah Magazine and response essays by De Ana Jones, Chesya Burke, Maurice Broaddus, and Jennifer Marie Brissett.
+This particular section of the report isn’t the source of many answers. For those, see both [last year’s materials](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717) and upcoming ones: [a roundtable with the staff of Fiyah Magazine](http://firesidefiction.com/fiyah-roundtable) and response essays by De Ana Jones, Chesya Burke, Maurice Broaddus, and Jennifer Marie Brissett, edited by [Mikki Kendall](http://firesidefiction.com/a-note-from-the-editor-of-the-blackspecfic-responses).
 
 ----
 
