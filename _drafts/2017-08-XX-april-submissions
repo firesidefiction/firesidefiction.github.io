@@ -13,11 +13,11 @@ For a week this April, we were open to short-story submissions of up to 4,000 wo
 
 This was our second submissions period in which we asked submitters to take a quick, anonymous, 100% voluntary survey in which we asked people’s race and ethnicity. (You can read the results of the first survey here.) [http://firesidefiction.com/march2017-submissions-results]
 
-This is part of our effort in the wake of our first #BlackSpecFic report [LINK] to get a better understanding of who is submitting to Fireside, so we can continue working on our mission of inclusivity. (Our second #BlackSpecFic report [LINK]  is unrolling now.)
+This is part of our effort in the wake of our first /#BlackSpecFic report [LINK] to get a better understanding of who is submitting to Fireside, so we can continue working on our mission of inclusivity. (Our second /#BlackSpecFic report [LINK]  is unrolling now.)
 
 Of the 850 submitters, 735 responded to the survey, or about 86 percent, the same response rate as the first survey. While this is not a scientific survey and we cannot verify the responses, we’re very happy that so many people continue to participate, as we feel it gives us a solid look at who is submitting to Fireside.
 
-Also as before, there were only a few jackass responses, including “Decline to state. Please stop perpetuating myths of ethnicity by acknowleding them. Other than isozyme variants in a few genes here and there, this concept should be gone within about seven generations of global travel” and someone said who said that they were white but thought it was helpful to add that they had non-white daughters in law and once lived near a Native American reservation. Three dipshits filled in “Human” as their race. 
+Also as before, there were only a few jackass responses, including “Decline to state. Please stop perpetuating myths of ethnicity by acknowleding them. Other than isozyme variants in a few genes here and there, this concept should be gone within about seven generations of global travel” and someone  who said that they were white but thought it was helpful to add that they had non-white daughters in law and once lived near a Native American reservation. Three dipshits filled in “Human” as their race.
 
 Whatever.
 
@@ -39,7 +39,14 @@ This is only our second data point. We’ll be collecting the same information o
 
 And now! Here are the stories we bought from April:
 
-The Secret Lives of the Nine Negro Teeth of George Washington by Phenderson Clark
+{% include author.html
+            name="Phenderson Clark"
+            story="The Secret Lives of the Nine Negro Teeth of George Washington"
+            url=""
+            bio=""
+            %}
+
+ by
 Hehua by 	Millie Ho
 River Boy by 	Innocent Ilo
 Flow by Marissa Lingen
