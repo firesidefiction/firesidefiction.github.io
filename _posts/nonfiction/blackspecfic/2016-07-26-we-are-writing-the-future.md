@@ -3,7 +3,7 @@ layout: blackspecfic
 title: "We Are Writing the Future"
 author: Anonymous
 date: 2016-07-26 00:01:00 -0500
-category: "#Blackspecfic"
+category: "Blackspecfic"
 permalink: /we-are-writing-the-future
 teaser: "This is going to be personal. For me, not for you."
 published: true

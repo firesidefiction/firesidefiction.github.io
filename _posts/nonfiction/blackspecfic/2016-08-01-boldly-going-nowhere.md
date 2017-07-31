@@ -4,7 +4,7 @@ title:  Boldly Going Nowhere
 author: Tobias Buckell
 date:   2016-08-01 12:01:00 -0500
 category: essay
-permalink: article/boldly-going-nowhere
+permalink: /boldly-going-nowhere
 teaser: "Leonard Nimoy was the first person I saw in media who represented a mixed-race person. Like me!"
 published: true
 ---

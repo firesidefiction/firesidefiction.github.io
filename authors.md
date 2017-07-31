@@ -34,6 +34,9 @@ permalink: /authors
 ### Brent Baldwin
 — [_Who We Once Were, Who We Will Never Be_](/issue19/chapter/who-we-once-were-who-we-will-never-be/)
 
+### Meghan Ball
+— [_The Importance of Being Monstrous_](/the-importance-of-being-monstrous)
+
 ### Elizabeth Bear
 — [_Form and Void_](/issue3/chapter/form-and-void/)
 
@@ -92,6 +95,9 @@ permalink: /authors
 ### Krystal Claxton
 — [_The Filigreed Cage_](/issue4/chapter/the-filigreed-cage/)
 
+### Tina Connolly
+— [_Queen Aster, Who Dances_](/queen-aster-who-dances)
+
 ### Frank Cvetkovic
 — [_Snow Ninjas of the Hymalayas_](/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
@@ -100,6 +106,9 @@ permalink: /authors
 ----
 
 ## D
+
+### Karl Dandenell
+— [_We Who Stay Behind_](/we-who-stay-behind)
 
 ### James Darrow
 — [_Reversal_](/issue15/chapter/reversal/)
@@ -322,7 +331,10 @@ permalink: /authors
 ## N
 
 ### Mari Ness
+
 — [_The Middle Child’s Practical Guide to Surviving a Fairy Tale_](/issue33/chapter/the-middle-childs-practical-guide-to-surviving-a-fairy-tale/)
+
+— [_The Witch in the Tower_](/the-witch-in-the-tower)
 
 ### Annie Neugebauer
 — [_Zanders the Magnificent_](/issue21/chapter/zanders-the-magnificent/)
@@ -344,6 +356,9 @@ permalink: /authors
 — [_Narrative Disorder_](/narrative-disorder)
 
 — [_The Narrative Spectrum_](/the-narrative-spectrum)
+
+### M. E. Owen
+— [_Intruder_](/intruder)
 
 ----
 

@@ -2,7 +2,7 @@
 layout: blackspecfic
 title: "Two Percent"
 author: Justina Ireland
-date: 2017-07-24 00:01:00 -0500
+date: 2016-07-24 00:01:00 -0500
 category: "#Blackspecfic"
 permalink: /two-percent
 teaser: "The science fiction and fantasy community has a problem with race. More specifically, SFF publishing as a whole is and continues to be antiblack."

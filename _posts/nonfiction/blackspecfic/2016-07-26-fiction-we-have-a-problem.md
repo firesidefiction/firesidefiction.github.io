@@ -24,13 +24,13 @@ We don’t need the numbers to know that racism is a problem in our field. [But 
 
 ![](/images/graphics/blackspecfic2015-1.png)
 
-**Are you _fucking_ kidding me?**
+_Are you **fucking** kidding me?_
 
 Sadly, no.
 
 These numbers are powerful. Because what they point to is this: this isn’t random. This isn’t some fluke, as [Cecily Kane, Ethan Robinson, and Weston Allen, the report’s researchers, found](https://medium.com/@Cecily_Kane/7e30eff97008#.h0f2ptqtn).
 
-> The probability that it is random chance that only 1.96 percent of published writers are black in a country where 13.2 percent of the population is black is 0.00000000000000000000000000000000000000000000000000000000000000000000000000000321%.
+> The probability that it is random chance that only 1.96 percent of published writers are black in a country where 13.2 percent of the population is black is 0.000000000000000000000000000000000000000000000000000<br/>00000000000000000000000000321%.
 
 ![](/images/graphics/blackspecfic2015-2.png)
 

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{% include story-logo.html %}
+
+<article>
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h2>{{ page.subtitle }}</h2>
+  </header>
+
+  <div>
+    {{ content }}
+  </div>
+  <div class="call-to-action blackspecfic">
+    <h2>Help us keep this conversation going</h2>
+    <p>We spent around $1,700 paying the various people involved in producing the latest #BlackSpecFic report and its accompanying essays. This type of work is a core part of our mission, and it is only possible due to your direct support.</p>
+    <p>You can make a one-time contribution, or become one of our recurring monthly backers, but either way, your cash will go toward helping us ensure a bright future for a thriving, sustainable field.</p>
+    <div>
+      <a href="https://www.patreon.com/bePatron?u=48543" class="btn patreon-btn">Become a backer</a>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="H8QG4XN26D2Z6">
+        <input type="submit" class="btn patreon-btn" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" value="make a contribution" alt="make a contribution">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+      </form>
+    </div>
+  </div>
+</article>
