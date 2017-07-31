@@ -3,7 +3,7 @@ layout: blackspecfic
 title: "Zero Percent Chance"
 author: "Chesya Burke"
 editor: Mikki Kendall
-date: 2017-07-23 00:01:00 -0500
+date: 2017-07-31 05:01:00 -0500
 category: "#Blackspecfic"
 permalink: /zero-percent-chance
 teaser: "Let that sink in for a moment. For the second year in a row, the stats show that it is not possible the absence of black writers within the field is random."
