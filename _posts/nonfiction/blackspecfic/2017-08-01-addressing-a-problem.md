@@ -1,8 +1,8 @@
 ---
 layout: blackspecfic
 title: "Addressing a problem"
-author: "Ana Grilo & Thea James"
-date: 2017-07-23 00:01:00 -0500
+author: "Thea James"
+date: 2017-08-01 12:01:00 -0500
 category: "#Blackspecfic"
 permalink: /addressing-a-problem
 teaser: "Like much of the SFF community, we were incredibly dismayed with the report’s findings — this had to change."

@@ -28,6 +28,9 @@ by Chesya Burke
 ### [_One Year Later and We Still Have Work To Do_](/one-year-later)
 by Khaalidah Muhammad-Ali
 
+### [_Addressing a problem_](/addressing-a-problem)
+by Thea James
+
 
 ----
 
