@@ -21,6 +21,7 @@ If I’d just gotten cremated, at least I wouldn’t go through this. Should’v
 You died thirty-three years before me, left me for a third of a century with a business in the red, and when sepsis finally caught me and I got to sleep eternally in your stupid burial plot, I get woken up by the End Times just in time to get graverobbed. Thirty-three years missing your cold hands in my bed. I miss your cold hands, and that rose gold engagement ring you just wouldn't take off even in winter. I miss all your dumb beauties.
 
 This sucks worse than being dead.
+
 The shovel scrapes across the aluminum above with the sound of a cat getting a colonoscopy. No pine box down here. I didn't pay all that money for worms to bother me. I hope he’s ready to fight a pissed off skeleton, and if he’s just vandalizing the gay graves, I’ll kick his ass twice for the price of one.
 
 I try to hold onto the lid, but of course I didn't buy a model with internal handles. Weird enough having those on my bath tub. Instead I crack my fingernails digging them into the satin lining, winding the fabric around my hands. My pockets are empty; I guess Catholics want you to fight off Satan barehanded.
@@ -43,7 +44,7 @@ Light falls across the hand on my lid, shining on a rose gold engagement ring. M
 
 He kisses my forehead with a lipless mouth. “That’s what I thought.”
 
-“Shut up for a minute,” I say, hugging him until his rib bones creek, burying what's left of my nose in his collar.
+“Shut up for a minute,” I say, hugging him until his rib bones creak, burying what's left of my nose in his collar.
 
 The aluminum siding has no give, and we smoosh together like we used to sharing a twin bed in his aunt’s attic. It's cramped and awful and I forgot how much I needed it. I twine my arms around him, and he links his fingers with mine. No skin and he still has cold hands. I squeeze them, gently as I can, as he shuts the coffin lid over us both, shutting out the clarion calls of Heaven and Hell. The dead have risen, and now two of them can finally rest in peace.
 
