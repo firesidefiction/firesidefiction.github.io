@@ -25,6 +25,9 @@ by De Ana Jones
 ### [_Zero Percent Chance_](/zero-percent-chance)
 by Chesya Burke
 
+### [_The Ones Who Walk Away from the Genres_](/the-ones-who-walk-away-from-the-genre)
+by Jennifer Marie Brissett
+
 ### [_One Year Later and We Still Have Work To Do_](/one-year-later)
 by Khaalidah Muhammad-Ali
 
