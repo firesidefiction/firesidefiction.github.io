@@ -11,8 +11,8 @@ previous-url: /the-fisher-of-bones/chapter-one-naming
 permalink: /the-fisher-of-bones/chapter-one-naming
 next-url: /the-fisher-of-bones/chapter-one-naming
 teaser: "The moon was dark the night our Prophet died."
-published: false
-author-bio: "Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey)."
+published: true
+author-bio: "Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and _The Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey)."
 ---
 
 The moon was dark the night our Prophet died.
