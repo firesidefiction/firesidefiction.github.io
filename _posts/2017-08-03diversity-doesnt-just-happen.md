@@ -3,7 +3,7 @@ layout: blackspecfic
 title: "Diversity Doesn’t Just Happen"
 author: "Maurice Broaddus"
 editor: Mikki Kendall
-date: 2017-07-23 00:01:00 -0500
+date: 2017-08-03 02:01:00 -0500
 category: "#Blackspecfic"
 permalink: /diversity-doesn't-just-happen
 teaser: "My big fear after last year’s report was that there might be a few cosmetic changes followed by several rounds of congratulatory back-patting; I saw several things that made me hopeful."
