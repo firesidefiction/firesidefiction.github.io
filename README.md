@@ -93,7 +93,7 @@ This parameter allows free-form text.
 
 ##### `editor: Editor Name`
 The `editor` parameter is **required**. It tells Jekyll who edited the thing.
-This parameter allows free-form text, and can be left blank. If it is left blank, or if the parameter isn't present in the front matter (as in older posts) the site will display 'Brian White' as the default.
+This parameter allows free-form text, and can be left blank. If it is left blank, the site will display nothing. If the parameter is not present in the front matter (as in older posts) the site will display 'Brian White' as the default.
 
 ##### `date: 2017-mm-dd 00:00:01 -0500`
 The `date` parameter is **required**. It tells Jekyll what publishing date to display along with the content.

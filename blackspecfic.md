@@ -28,11 +28,17 @@ by Chesya Burke
 ### [_The Ones Who Walk Away from the Genres_](/the-ones-who-walk-away-from-the-genre)
 by Jennifer Marie Brissett
 
+### [_Diversity Doesn’t Just Happen_](/diversity-doesn't-just-happen)
+by Maurice Broaddus
+
 ### [_One Year Later and We Still Have Work To Do_](/one-year-later)
 by Khaalidah Muhammad-Ali
 
 ### [_Addressing a problem_](/addressing-a-problem)
 by Thea James
+
+### [_It's up to us_](/its-up-to-us)
+by Pablo Defendini
 
 
 ----
