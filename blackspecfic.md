@@ -37,7 +37,7 @@ by Khaalidah Muhammad-Ali
 ### [_Addressing a problem_](/addressing-a-problem)
 by Thea James
 
-### [_It's up to us_](/its-up-to-us)
+### [_It's Up to Us_](/its-up-to-us)
 by Pablo Defendini
 
 

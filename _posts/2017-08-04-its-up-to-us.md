@@ -1,6 +1,6 @@
 ---
 layout: blackspecfic
-title: "It's up to us"
+title: "It's Up to Us"
 author: "Pablo Defendini"
 editor:
 date: 2017-08-04 00:01:00 -0500
