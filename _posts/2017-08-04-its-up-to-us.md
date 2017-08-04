@@ -6,7 +6,7 @@ editor:
 date: 2017-08-04 00:01:00 -0500
 category: "#Blackspecfic"
 permalink: /its-up-to-us
-teaser: "My big fear after last year’s report was that there might be a few cosmetic changes followed by several rounds of congratulatory back-patting; I saw several things that made me hopeful."
+teaser: "A note from our publisher."
 published: true
 ---
 
