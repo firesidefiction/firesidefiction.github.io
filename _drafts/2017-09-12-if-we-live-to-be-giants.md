@@ -1,4 +1,4 @@
-----
+---
 layout: story 
 title: If We Live to Be Giants
 author: Allison Mulder
@@ -8,7 +8,7 @@ category: flash fiction
 permalink: if-we-live-to-be-giants
 published: false
 teaser: “Grandpa measures our heights every day against the hallway markings. Rhiannon and I stand flat as we can, afraid even breathing will subtly lengthen our spines.”
-----
+---
 
 Grandpa measures our heights every day against the hallway markings. Rhiannon and I stand flat as we can, afraid even breathing will subtly lengthen our spines.
 

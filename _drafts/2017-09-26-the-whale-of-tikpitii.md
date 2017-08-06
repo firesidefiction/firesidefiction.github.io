@@ -7,11 +7,11 @@ date: 2017-09-26 00:00:01 -0500
 category: flash fiction
 permalink: the-whale-of-tikpitii
 published: false
-teaser: "The legend says that your great grandfather, Uvuzwa – Whale of Tikpiti'i taught the seas to obey him. ... Standing here, against the blue walls of your palace, I ask myself if the Whale of Tikpiti'i also used his influence to squash maggots like me."
+teaser: "The legend says that your great grandfather, Uvuzwa – Whale of Tikpiti'i taught the seas to obey him. …Standing here, against the blue walls of your palace, I ask myself if the Whale of Tikpiti'i also used his influence to squash maggots like me."
 ---
 
 You didn't think I had it in me, did you? On the Island Tikpiti'i there is a way of doing things and a way of not doing things. You, Harold Onyame, are a prince. I am a maggot. You never thought I’d challenge you.
-On the Island Tikpiti’i, there is a pecking order. The legend says that your great grandfather, Uvuzwa–Whale of Tikpiti'i taught the seas to obey him. Otherwise there'd be no way to fish, no way to survive. Standing here, against the blue walls of your palace, I ask myself if the Whale of Tikpiti'i also used his influence to squash maggots like me.
+On the Island Tikpiti’i, there is a pecking order. The legend says that your great grandfather, Uvuzwa – Whale of Tikpiti'i taught the seas to obey him. Otherwise there'd be no way to fish, no way to survive. Standing here, against the blue walls of your palace, I ask myself if the Whale of Tikpiti'i also used his influence to squash maggots like me.
 I can see it in my mind: men and women bowing down to this man who must have had large eyes like you, who must have had feet that face different directions, who must have ruined village girls by telling them they would be his Queen. Even as he threw them to the curb, they must have thanked him. I see it like the bioscopes they show in Alau City. But did he force any of them like you forced me?
 “Thank you, great one of Onyame,” they must have said. The brothers of ruined girls would have kneeled before him, would have thanked him for ruining their sisters. They would not challenge for a stick fight, would not bay like angry beasts. I want to vomit.
 ----

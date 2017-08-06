@@ -1,4 +1,4 @@
-----
+---
 layout: story 
 title: Reaching Beyond
 author: Evelyn Wong
@@ -7,21 +7,21 @@ date: 2017-09-19 00:00:01 -0500
 category: short story
 permalink: reaching-beyond
 published: false
-teaser: “A choked sob sounded before the person sucked in a hiccupping breath. “The Chans. They came for them at night...and they…” the voice broke down.”
-----
+teaser: “A choked sob sounded before the person sucked in a hiccupping breath. “The Chans. They came for them at night… and they…” the voice broke down.”
+---
 
 _October 1965 - Semarang, Indonesia_
 The blazing sun beamed down on me through the palm trees. My legs pumped madly as I ran through the tall grass, looking for a place to hide. A grin spread across my face as I spotted the perfect hiding place—under our neighbour’s porch three doors down. I wiggled under the loose board, brushing spiders and insects from my arms. Light footsteps walked through the grass, passing me. I was about to leap out of my hiding spot when I heard heavier footsteps walking up the stairs. 
 The knocks came rapidfire. The door opened and I heard a gasp. 
 “Who did it happen to this time?” My ears perked when I heard Aunty Lina’s shaky voice. She was my favourite aunty in the neighbourhood because she made the best nasi goreng. “Who?” The strain in her voice made my shoulders hunch forward. 
-A choked sob sounded before the person sucked in a hiccupping breath. “The Chans. They came for them at night...and they…” the voice broke down. I froze. The Chans? I knew a Lily Chan from class; I wondered if they were talking about the same family. I heard Aunty Lina murmuring something before the door closed. The tiniest pit unfolded in my stomach. 
+A choked sob sounded before the person sucked in a hiccupping breath. “The Chans. They came for them at night… and they…” the voice broke down. I froze. The Chans? I knew a Lily Chan from class; I wondered if they were talking about the same family. I heard Aunty Lina murmuring something before the door closed. The tiniest pit unfolded in my stomach. 
 I crawled from my hiding place to see my little brother charging between the houses. “Found you!” he called. 
-Waving my hand to quiet him, I tiptoed over, crouching underneath the open window. I could hear snippets of their conversation floating down. My little brother’s eyes were curious as he positioned himself next to me. 	
+Waving my hand to quiet him, I tiptoed over, crouching underneath the open window. I could hear snippets of their conversation floating down. My little brother’s eyes were curious as he positioned himself next to me.
 “Lan! Diam! What are you doing there?” We both jumped to our feet. Our nanny, Nurul, strode towards us. “I’ve been calling you for the past ten minutes. What are you doing under Aunty Lina’s window? Are you snooping?” 
 A flush broke out over my cheeks as my brother shook his head. I stared at the grass, feeling the blades tickling my calves. “Lan? Did something happen?” 
 My hands scrunched into fists. “I think so.”
  	Nurul lifted my chin with her finger. “Tell me,” she said. I knew I could trust Nurul; she never treated me like I was twelve. 
-I took a deep breath. “I...think something happened to the Chans.” 
+I took a deep breath. “I… think something happened to the Chans.” 
 Diam tugged on my hand. “Lan, what happened to the Chans?” I shook my head, pulling my hand away and hugging it to my side. 
 Our nanny swallowed hard then stood. “Let’s go home. I’m sure your mom will want to speak with Aunty Lina.” She took both our hands, distracting Diam with a story about a monkey who had magical powers. Their happy chatter floated around me, disappearing into the background as I looked back at Aunty Lina’s house.  
 ----
@@ -45,9 +45,9 @@ _October 1965 - Semarang, Indonesia_
 I straightened and went back to the dishes. “I know.” 
 ----
 The next morning, I woke up early and tried not to wake Nisa as I slipped out of bed. Tiptoeing past my parents’ room, I stopped at the sound of their tense voices and pressed an ear to their door. 
-“...the Chans,” Mom said. “It’s starting Hai, this is what they warned us about.” Prickles of fear crawled up my shoulders and neck. 
+“…the Chans,” Mom said. “It’s starting Hai, this is what they warned us about.” Prickles of fear crawled up my shoulders and neck. 
 Dad sighed. The bed squeaked, stealing his low response. 
-“I don’t care!” Mom’s voice rose for a second before dropping low. “The Chans weren’t far from here,” she hissed. “If we’re discovered…” her voice trailed off. I pressed my ear harder against their door. 	
+“I don’t care!” Mom’s voice rose for a second before dropping low. “The Chans weren’t far from here,” she hissed. “If we’re discovered…” her voice trailed off. I pressed my ear harder against their door.
 “Lan? What’s going on?” a sleepy voice asked from behind. I jumped out of my skin. Spinning around, I saw Aldi in his pyjamas, rubbing sleep from his eyes. 
 I grabbed his hand and lead him to the bathroom. “Nothing. Let’s get ready for school, okay?” 
 He yawned. “Were you listening to Mom and Dad?” He caught my eye in the mirror. My eyes darted away.
@@ -71,11 +71,12 @@ _October 1965 - Semarang, Indonesia_
  Mrs. Cho sighed. “It’s difficult for us right now, Lan.” A line appeared between her eyebrows. “I didn’t want to worry everyone—”
 “They’re killing Chinese people, aren’t they?” I blurted out. “That’s what happened to L-Lily?” I saw the answer in Mrs. Cho’s face. The pit in my stomach opened, geysering up my throat. I turned my head in time, missing most of my clothes. Mrs. Cho ran to my side, patting my back as I threw up what little lunch I had. Tears streamed down my cheeks. 
 We sat in silence before Mrs. Cho grabbed some towels from her desk and cleaned up my mess. “Lan, I need your mom to sign this, okay?” She scribbled something down, folded the paper and slid it towards me. 
-My throat still burned but I swallowed and stuffed the paper into my pocket. My legs shook as I walked towards the door. I looked at Mrs. Cho. “Why—?”	“You’re a good student, Lan. Make sure your mom sees that.” 
+My throat still burned but I swallowed and stuffed the paper into my pocket. My legs shook as I walked towards the door. I looked at Mrs. Cho. “Why—?”
+“You’re a good student, Lan. Make sure your mom sees that.” 
 Head down, I hurried to the post where I normally met Diam and Aldi to walk home. When I got there, the street was empty. Panic settled in my churning stomach. If Mom ever found out I left them alone, she would skin me alive. Cursing myself, I scurried home, praying I would get there before my parents did. 
 My thoughts swirled around what the paper might say; I didn’t dare look at it. Pressing my hand against my pocket to make sure it was safe, I picked up the pace and ran home. 
 As I passed Aunty Lina’s house, I heard voices rising in anger. Skidding to a stop, I stood transfixed. 
-“...you know I’m not Chinese, Suharto.” A gasp sounded accompanied by the sound of a dish breaking. 
+“…you know I’m not Chinese, Suharto.” A gasp sounded accompanied by the sound of a dish breaking. 
 “You’re hiding something, Lina,” a deep voice said. “If I find out you’re hiding those filthy orang Cina, or helping them, you’ll pay.” A yelp sounded. The front door slammed. A young man in military fatigues walked onto Aunty Lina’s porch, glaring at me. “What are you looking at?” 
 High-pitched voices came from the side and I saw Diam and Aldi running towards me. I shook my head and raced to meet my brothers, spinning them around before they could see the soldier standing on Aunty Lina’s porch. Looking over my shoulder, I saw him straighten his uniform, his eyes following us. “Let’s go,” I said, pushing my brothers ahead of me. 
 Once home, my brothers sat down to do homework while I stood at the sink washing vegetables. The cold water ran over my hands as I passed the greens beneath it. Most of our neighbours were Indonesian but I had never thought of them as different before; we all wanted to create a happy life for ourselves.
@@ -128,6 +129,5 @@ _October 1965 - Semarang, Indonesia_
 
 #### About the author
 
-It's taken Evelyn a circuitous time to arrive at her actual purpose in life — writing stories. A reformed brand marketer, she now spends her time experiencing everything life has to offer, weaving them into her stories. 
-
+It's taken Evelyn a circuitous time to arrive at her actual purpose in life—writing stories. A reformed brand marketer, she now spends her time experiencing everything life has to offer, weaving them into her stories. 
 Evelyn participated in a Bulgarian artist residency in May and will continue with others throughout Europe for the rest of this year.
