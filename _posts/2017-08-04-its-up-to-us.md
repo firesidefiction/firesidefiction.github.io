@@ -10,7 +10,7 @@ teaser: "A note from our publisher."
 published: true
 ---
 
-I live in Brooklyn. Specifically, I’m privileged to live really close to the Brooklyn Museum. This weekend, I ducked in on my way back home from a meeting to check out a small exhibit on [the Equal Justice Inititative's research into the history of racial terror lynchings](https://eji.org/news/lynching-in-america-exhibit-opens-at-brooklyn-museum). On the opening wall there’s a quote by James Baldwin that just stopped me in my tracks:
+I live in Brooklyn. Specifically, I’m privileged to live really close to the Brooklyn Museum. This weekend, I ducked in on my way back from a meeting to check out a small exhibit on [the Equal Justice Inititative's research into the history of racial terror lynchings](https://eji.org/news/lynching-in-america-exhibit-opens-at-brooklyn-museum). On the opening wall there’s a quote by James Baldwin that just stopped me in my tracks:
 
 ![Not everything that is faced can be changed, but nothing can be changed until it is faced.](/images/graphics/bma-quote-1.jpg)
 

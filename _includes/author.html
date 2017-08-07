@@ -4,6 +4,6 @@
   {% endif %}
   <div>
     <h2><em>{{ include.story }}</em>, by <a href="{{ include.url }}">{{ include.name }}</a></h2>
-    <p>{{ include.bio }}</p>
+    <p>{{ include.bio | markdownify }}</p>
   </div>
 </div>
