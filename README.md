@@ -8,7 +8,7 @@ Before you can update the content on Fireside, you need to clone the git reposit
 First, install the appropriate git app on your system. Once that's done, and you've signed into the app using your GitHub credentials, it's time to 'clone' the repository.
 
 ### On macOS or Windows
-Go to the [Fireside Magazine repo](https://github.com/firesidefiction/magazine), click the 'Clone or Download' button, then click 'Open in Desktop.' Your GitHub Desktop app should automatically launch, and present you with a save window. Once you've saved the repo somewhere on your system, you're ready to work.
+Go to the [Fireside Magazine repo](https://github.com/firesidefiction/firesidefiction.github.io), click the 'Clone or Download' button, then click 'Open in Desktop.' Your GitHub Desktop app should automatically launch, and present you with a save window. Once you've saved the repo somewhere on your system, you're ready to work.
 
 ### On iOS
 In Working Copy, tap on the `+` sign and select 'Clone repository.' And select the 'firesidefiction: magazine' repository.
