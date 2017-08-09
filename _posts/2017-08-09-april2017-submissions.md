@@ -13,7 +13,7 @@ For a week this April, we were open to short-story submissions of up to 4,000 wo
 
 This was our second submissions period in which we asked submitters to take a quick, anonymous, 100% voluntary survey in which we asked people’s race and ethnicity. (You can read the results of the first survey [here](http://firesidefiction.com/march2017-submissions-results)).
 
-This is part of our effort in the wake of [our first /#BlackSpecFic report](/blackspecfic-2015) to get a better understanding of who is submitting to Fireside, so we can continue working on our mission of inclusivity. ([Our second /#BlackSpecFic report](/blackspecfic) just wrapped up last week.)
+This is part of our effort in the wake of [our first #BlackSpecFic report](/blackspecfic-2015) to get a better understanding of who is submitting to Fireside, so we can continue working on our mission of inclusivity. ([Our second #BlackSpecFic report](/blackspecfic) just wrapped up last week.)
 
 Of the 850 submitters, 735 responded to the survey, or about 86 percent, the same response rate as the first survey. While this is not a scientific survey and we cannot verify the responses, we’re very happy that so many people continue to participate, as we feel it gives us a solid look at who is submitting to Fireside.
 
