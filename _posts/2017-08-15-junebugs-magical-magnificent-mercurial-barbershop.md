@@ -26,7 +26,7 @@ I couldn’t help but smile. My boy. But my smile didn’t last long.
 
 As Junebug and the three old men worked to rebuild the barbershop, earth and air majicks twisting and snaking and undulating in fluid synchronicity, I couldn’t help but think to myself:
 
-Ella was right. But so was I.
+Ella was right. But so was I.
 
 I crossed my arms, clutched my shoulders, and closed my eyes. Two tears trickled through my lashes.
 
