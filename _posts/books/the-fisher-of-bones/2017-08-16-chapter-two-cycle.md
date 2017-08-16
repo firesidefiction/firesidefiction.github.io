@@ -2,16 +2,16 @@
 layout: story-serial
 title:  "Cycle"
 author: Sarah Gailey
-date:   2017-08-16 01:01:00 -0500
+date:   2017-08-16 06:01:00 -0500
 category: serial
 serial-name: The Fisher of Bones
 serial-url: /book/the-fisher-of-bones
 part: 2
 previous-url: /the-fisher-of-bones/chapter-one-naming
 permalink: /the-fisher-of-bones/chapter-two-cycle
-next-url: /the-fisher-of-bones/chapter-two-increase
+next-url: /the-fisher-of-bones/chapter-two-cycle
 teaser: "The Gods Whispers woke me in the night."
-published: false
+published: true
 author-bio: "Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey)."
 ---
 
