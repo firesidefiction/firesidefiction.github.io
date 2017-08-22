@@ -2,19 +2,21 @@
 layout: story
 title: Three Laws
 author: Andrea Phillips
-editor: Brian J. WHite
-date: 2017-09-22 00:00:01 -0500
+editor: Brian J. White
+date: 2017-09-22 01:00:01 -0500
 category: short story
 permalink: three-laws
-published: false
+published: true
 teaser: “Doctor Susan Hobbes, the lead investigator for the Emergent Robotic Behaviors Division of American Robotics Corp., was deeply and profoundly annoyed.”
 art: three-laws.jpg
-caption: A woman sits at a couch, back to the viewer. in front of her, a body lies prone. There's a splatter of blood on the floor.
+caption: A woman sits at a couch, back to the viewer. in front of her, a body lies prone. There's a puddle of blood on the floor.
 artist: Daniel Stolle
 ---
 
 > *A robot may not harm its owner or, through inaction, allow its owner to be harmed.*
+
 > *A robot must obey the orders given to it by its owner, except where such orders would conflict with the First Law.*
+
 > *A robot must protect the assets of its owner as long as such protection does not conflict with the First or Second Law.*
 
 ----
@@ -140,6 +142,7 @@ She examined her tree of possibilities again. No obvious hardware issue, or at l
 Susan turned back to Dashiel, who was staring with horror at Iris, his back all but pressed to the door. Iris was no threat to him, but the human mind is built poorly for risk assessment.
 
 Susan sighed, pressed the bridge of her nose. No easy answers today; this was going to take some effort on her part after all. “I think I need a better idea of exactly what happened,” she said. “There will be security footage of Mr. Won’s office. Show it to me.”
+
 ----
 
 The video recording of Mr. Won’s office was awful compared to the laser-sharp hologram Susan had walked through earlier: flattened color, grainy resolution, and worst of all no audio whatsoever. It was the spiritual twin of the security room itself with its taped-together vinyl office chairs and dull steel desks.
