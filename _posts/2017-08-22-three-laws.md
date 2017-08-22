@@ -3,7 +3,7 @@ layout: story
 title: Three Laws
 author: Andrea Phillips
 editor: Brian J. White
-date: 2017-09-22 01:00:01 -0500
+date: 2017-08-22 01:00:01 -0500
 category: short story
 permalink: three-laws
 published: true
