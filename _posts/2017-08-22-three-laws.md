@@ -83,7 +83,7 @@ He hurried after her. “Of course, of course. Right this way.” He followed he
 
 Susan swept into Mr. Won’s office. The “reproduction of the scene” turned out to be a full holographic representation of the room from as Won’s security team had found it. The image was ghostly but sharp: the dead body lying on the grass; Iris sitting patiently, waiting for instructions.
 
-Susan examined the robot’s motionless face, the positioning of the corpse, the few belongings scattered on the floor. Iris had movied quickly and decisively; there was no sign of an extended struggle, not that Won would have been able to defend himself from her in any event. Susan began a more comprehensive examination of the environment. Won’s personal tablet was gone along with his body, but the holographic replica showed a ghost of its screen. A page from a contract flickered there, something about complete assumption of liabilities.
+Susan examined the robot’s motionless face, the positioning of the corpse, the few belongings scattered on the floor. Iris had moved quickly and decisively; there was no sign of an extended struggle, not that Won would have been able to defend himself from her in any event. Susan began a more comprehensive examination of the environment. Won’s personal tablet was gone along with his body, but the holographic replica showed a ghost of its screen. A page from a contract flickered there, something about complete assumption of liabilities.
 
 For his part, Dashiel stared at the holographic body with lingering horror. “I thought robots couldn’t hurt human beings — they have to protect their owner, right? Protecting Mr. Won was Iris’ entire function, so… how could she…” His hands trembled.
 
@@ -147,7 +147,7 @@ Susan sighed, pressed the bridge of her nose. No easy answers today; this was go
 
 The video recording of Mr. Won’s office was awful compared to the laser-sharp hologram Susan had walked through earlier: flattened color, grainy resolution, and worst of all no audio whatsoever. It was the spiritual twin of the security room itself with its taped-together vinyl office chairs and dull steel desks.
 
-Susan skipped backwards through hours of Iris sitting peacably, waiting for sunrise with Mr. Won dead at her feet. Iris sat motionless through the night, animated only by the subtle adjustments that made it look like she took breath and shifted her weight. The video broke into a whirl of indistinct motion, and then Iris stood in the corner, hands folded neatly in front of her, as Mr. Won paced and spoke on the phone.
+Susan skipped backwards through hours of Iris sitting peaceably, waiting for sunrise with Mr. Won dead at her feet. Iris sat motionless through the night, animated only by the subtle adjustments that made it look like she took breath and shifted her weight. The video broke into a whirl of indistinct motion, and then Iris stood in the corner, hands folded neatly in front of her, as Mr. Won paced and spoke on the phone.
 
 The whirl. That was the moment Susan needed. She stepped through the video one frame at a time. *Mr. Won gesturing, beaming widely. Mr. Won laughing. He nods emphatically. He steps to his desk, pulls out his tablet. He swipes across the screen and then—*
 
