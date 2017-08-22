@@ -203,7 +203,7 @@ Susan turned back to her screens without answering. All she could find was a mon
 
 Her mind strayed back to the bow Iris had performed after the act.
 
-If she were functioning perfectly, Iris would know that the video would only be seen by an investigator of the murder. Further, Iris would know that this would be no ordinary crime investigation. Irise would know that American Robotics would send someone from the Emergent Robotic Behaviors Division. Iris would know that for a malfunction of such a magnitude, the company would send the head of the division.
+If she were functioning perfectly, Iris would know that the video would only be seen by an investigator of the murder. Further, Iris would know that this would be no ordinary crime investigation. Iris would know that American Robotics would send someone from the Emergent Robotic Behaviors Division. Iris would know that for a malfunction of such a magnitude, the company would send the head of the division.
 
 Iris has known that Susan would watch the video. Iris was sending a message to *her*.
 
