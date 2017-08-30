@@ -5,7 +5,7 @@ author: Sarah Gailey
 date:   2017-08-30 01:00:00 -0500
 category: serial
 serial-name: The Fisher of Bones
-serial-url: /book/the-fisher-of-bones
+serial-url: /the-fisher-of-bones/chapter-one-naming
 part: 3
 previous-url: /the-fisher-of-bones/chapter-two-cycle
 permalink: /the-fisher-of-bones/chapter-three-increase
