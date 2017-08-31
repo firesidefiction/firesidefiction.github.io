@@ -22,4 +22,4 @@ You didn't think I had it in me, did you? On the Island Tikpiti'i there is a way
 
 #### About the author
 
-Tariro Ndoro holds an MA in Creative Writing from Rhodes University in South Africa and currently lives in Harare, Zimbabwe where she was born. Her work has appeared or is forthcoming in _Afreada_, _New Contrast_ and _Oxford Poetry_ amongst others. Her blog is [tarirondoro.wordpress.com](https://tarirondoro.wordpress.com/) and rare twitter sightings of her have been reported at [@MissTariN](https://twitter.com/MissTariN).
+Tariro Ndoro holds an MA in Creative Writing from Rhodes University in South Africa and currently lives in Harare, Zimbabwe where she was born. Her work has appeared or is forthcoming in _Afreada_, _New Contrast_ and _Oxford Poetry_ amongst others. Her blog is [tarirondoro.wordpress.com](https://tarirondoro.wordpress.com/) and rare twitter sightings of her have been reported at [@MissTariN](https://twitter.com/MissTariN).

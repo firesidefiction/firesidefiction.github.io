@@ -9,14 +9,14 @@ permalink: reaching-beyond
 published: false
 teaser: “A choked sob sounded before the person sucked in a hiccupping breath. “The Chans. They came for them at night… and they…” the voice broke down.”
 art: reaching-beyond.jpg
-caption:
+caption: "Two children holding hands, walk past two adults in the foreground."
 artist: Galen Dara
 ---
 
 _October 1965 - Semarang, Indonesia_
 The blazing sun beamed down on me through the palm trees. My legs pumped madly as I ran through the tall grass, looking for a place to hide. A grin spread across my face as I spotted the perfect hiding place—under our neighbour’s porch three doors down. I wiggled under the loose board, brushing spiders and insects from my arms. Light footsteps walked through the grass, passing me. I was about to leap out of my hiding spot when I heard heavier footsteps walking up the stairs.
 The knocks came rapidfire. The door opened and I heard a gasp.
-“Who did it happen to this time?” My ears perked when I heard Aunty Lina’s shaky voice. She was my favourite aunty in the neighbourhood because she made the best nasi goreng. “Who?” The strain in her voice made my shoulders hunch forward. 
+“Who did it happen to this time?” My ears perked when I heard Aunty Lina’s shaky voice. She was my favourite aunty in the neighbourhood because she made the best nasi goreng. “Who?” The strain in her voice made my shoulders hunch forward.
 A choked sob sounded before the person sucked in a hiccupping breath. “The Chans. They came for them at night… and they…” the voice broke down. I froze. The Chans? I knew a Lily Chan from class; I wondered if they were talking about the same family. I heard Aunty Lina murmuring something before the door closed. The tiniest pit unfolded in my stomach.
 I crawled from my hiding place to see my little brother charging between the houses. “Found you!” he called.
 Waving my hand to quiet him, I tiptoed over, crouching underneath the open window. I could hear snippets of their conversation floating down. My little brother’s eyes were curious as he positioned himself next to me.
@@ -133,4 +133,4 @@ _October 1965 - Semarang, Indonesia_
 #### About the author
 
 It's taken Evelyn a circuitous time to arrive at her actual purpose in life—writing stories. A reformed brand marketer, she now spends her time experiencing everything life has to offer, weaving them into her stories.
-Evelyn participated in a Bulgarian artist residency in May and will continue with others throughout Europe for the rest of this year.
+Evelyn participated in a Bulgarian artist residency in May and will continue with others throughout Europe for the rest of this year.

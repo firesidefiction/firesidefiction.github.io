@@ -1,5 +1,5 @@
 ---
-layout: story 
+layout: story
 title: If We Live to Be Giants
 author: Allison Mulder
 editor: Julia Rios
