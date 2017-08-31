@@ -13,6 +13,8 @@ caption: "Two children holding hands, walk past two adults in the foreground."
 artist: Galen Dara
 ---
 
+> *Content note: This story briefly alludes to child death.*
+
 _October 1965 - Semarang, Indonesia_
 The blazing sun beamed down on me through the palm trees. My legs pumped madly as I ran through the tall grass, looking for a place to hide. A grin spread across my face as I spotted the perfect hiding place—under our neighbour’s porch three doors down. I wiggled under the loose board, brushing spiders and insects from my arms. Light footsteps walked through the grass, passing me. I was about to leap out of my hiding spot when I heard heavier footsteps walking up the stairs.
 The knocks came rapidfire. The door opened and I heard a gasp.
