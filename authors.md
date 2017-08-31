@@ -141,6 +141,8 @@ permalink: /authors
 
 — [_Delta Child_](/issue36/chapter/delta-child/)
 
+— [_Junebug’s Magical Magnificent Mercurial Barbershop_](/junebugs-magical-magnificent-mercurial-barbershop)
+
 ### Renee Elizabeth
 — [_Time Out_](/issue23/chapter/time-out/)
 
@@ -349,6 +351,9 @@ permalink: /authors
 ### Sandra M. Odell
 — [_Listening to it Rain_](/issue5/chapter/listening-to-it-rain/)
 
+### Suyi Davies Okungbowa
+— [_Our Secrets, In Keys_](/our-secrets-in-keys)
+
 ### Daniel José Older
 — [_Stay_](/issue22/chapter/stay/)
 
@@ -373,6 +378,8 @@ permalink: /authors
 — [_Children of Rouwen_](/issue23/chapter/children-of-rouwen/)
 
 — [_The Revolution, Brought to You by Nike_](/the-revolution-brought-to-you-by-nike)
+
+— [_Three Laws_](/three-laws)
 
 ### Katie Pugh
 — [_Reborn_](/issue12/chapter/27/)
@@ -503,6 +510,8 @@ permalink: /authors
 
 — [_Evil Isn’t a Disability: 10 Cloverfield Lane, Donald Trump, and Don’t Breathe_](/evil-isnt-a-disability)
 
+— [_A Silhouette Against Armageddon_](/a-silhouette-against-armageddon)
+
 ### Alyssa Wong
 — [_Rabbit Heart_](/issue37/chapter/rabbit-heart/)
 
@@ -531,6 +540,8 @@ permalink: /authors
 — [_An Army of Bees_](/issue33/chapter/an-army-of-bees/)
 
 — [_Paperclips and Memories and Things That Won’t Be Missed_](/issue38/chapter/21/)
+
+— [_Until the Day We Go Home_](/until-the-day-we-go-home)
 
 ----
 
