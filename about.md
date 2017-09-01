@@ -149,9 +149,9 @@ This is _**not**_ saying stories cannot touch on, address, or talk about these i
 
 ### Manuscript formatting
 
-Please use standard manuscript format. We’ve been loose about this requirement in the past, but we are not going to be any longer. Here is a good guide to standard manuscript format.
+Please use standard manuscript format. We’ve been loose about this requirement in the past, but we are not going to be any longer. [Here is a good guide to standard manuscript format](http://www.sfwa.org/2008/11/manuscript-preparation/).
 
-Please use only Times New Roman or a Courier font. Our managing editor is low vision and would like to be able to actually read your story, and serifed fonts help with this. And please only use one font and do not use font colors other than black, backgrounds, or any illustrations.
+Please use only Times New Roman or a Courier font. Our managing editor is low vision and would like to be able to actually read your story, and serif fonts help with this. Please only use one font and do not use font colors other than black. Don’t include backgrounds, or any illustrations.
 
 Make sure you’ve turned off mark-up and sent a document free of comments and edits.
 
