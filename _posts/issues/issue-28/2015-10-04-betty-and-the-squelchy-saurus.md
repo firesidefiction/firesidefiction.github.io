@@ -240,19 +240,10 @@ The book hit the hamper and dropped to the closet floor. To Squelchy's surprise,
 
 Squelchy Saurus wondered if Betty would ever love her that much. It must be a wonderful thing, to be real. Could children love monsters? Squelchy suspected it was rare. But if Betty was leaving snacks for her, they were off to a good start.
 
-### Help Fireside continue to publish great fiction.  
-Your ongoing [support on Patreon][1] gives us a sustainable future.
-
-#### [Back to Issue 28][2]
+#### About the Author
 
 **Caroline M. Yoachim** lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in Fantasy & Science Fiction, Clarkesworld, Asimov's, and Lightspeed, among other places.  Her debut short story collection, Seven Wonders of a Once and Future World & Other Stories, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at [carolineyoachim.com][3].
 
 [1]: https://www.patreon.com/firesidefiction
 [2]: /issue28/
 [3]: http://carolineyoachim.com
-
-
-
-#### About the Author
-
-Sofia Samatar is the author of the novel A Stranger in Olondria and winner of the John W. Campbell Award, the Crawford Award, the British Fantasy Award, and the World Fantasy Award. Her second book, The Winged Histories, is forthcoming in 2016. She co-edits the journal Interfictions and lives in California. You can find her at [sofiasamtar.com](http://www.sofiasamatar.com/) and [@SofiaSamatar](https://twitter.com/SofiaSamatar).
