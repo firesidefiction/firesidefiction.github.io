@@ -5,7 +5,7 @@ permalink: legal/story-contract-boilerplate
 ---
 > _This is the text of the standard contract that Fireside uses for its fiction, available for reference. While this is our starting point, individual contracts may differ, depending on the particular terms reached with each author._
 
-> _This Agreement was last updated on April 14, 2017._
+> _This Agreement was last updated on September 19, 2017._
 
 ## Summary
 
