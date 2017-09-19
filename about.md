@@ -105,7 +105,7 @@ OK? Great! On to the fun stuff!
 
 ### Payment & rights
 
-Fireside pays 12.5 cents per word, with payment on completion of edits (which generally happen about a month before publication). We buy first world publication rights and six-month exclusivity, as well as the right to reprint the story once, non-exclusively, in a Fireside anthology. You can see exactly what rights are acquired by reading our [contract boilerplate for stories](https://firesidefiction.com/legal/story-contract-boilerplate).
+Fireside pays 12.5 cents per word, with payment on completion of edits (which generally happen about a month before publication). We buy first world publication rights and six-month exclusivity, as well as the right to reprint the story, non-exclusively, in Fireside anthologies. You can see exactly what rights are acquired by reading our [contract boilerplate for stories](https://firesidefiction.com/legal/story-contract-boilerplate).
 
 Fireside pays in U.S. dollars, and can send payments to most places in the world, using the recipient’s preferred payout method (within reason).
 
