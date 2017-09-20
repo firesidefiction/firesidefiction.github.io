@@ -5,9 +5,9 @@ author: Sarah Gailey
 date:   2017-08-02 01:01:00 -0500
 category: serial
 serial-name: The Fisher of Bones
-serial-url: /the-fisher-of-bones/chapter-one-naming
+serial-url: /book/the-fisher-of-bones
 part: 1
-previous-url: /the-fisher-of-bones/chapter-one-naming
+previous-url: /book/the-fisher-of-bones
 permalink: /the-fisher-of-bones/chapter-one-naming
 next-url: /the-fisher-of-bones/chapter-two-cycle
 teaser: "The moon was dark the night our Prophet died."
