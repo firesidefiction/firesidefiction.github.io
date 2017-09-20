@@ -1,10 +1,10 @@
 ---
 layout: article
 title:  Speculative Antiblackness
-author: Troy L Wiggins
+author: Troy L. Wiggins
 date:   2016-07-26 12:01:00 -0500
 category: essay
-permalink: article/speculative-antiblackness
+permalink: speculative-antiblackness
 teaser: "My name is Troy. I am a black man born of black parents, and I’ve been a black man for about thirty years."
 published: true
 ---

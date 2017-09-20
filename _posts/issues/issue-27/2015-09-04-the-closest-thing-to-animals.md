@@ -342,9 +342,9 @@ I told her I'd written a poem for her.
 
 _her hand_
 
-the fog
+_the fog_
 
-my hand"
+_my hand_"
 
 ----
 
@@ -366,4 +366,4 @@ On the quilt there were elephants and bees and whales. There were people fleeing
 
 #### About the Author
 
-Sofia Samatar is the author of the novel A Stranger in Olondria and winner of the John W. Campbell Award, the Crawford Award, the British Fantasy Award, and the World Fantasy Award. Her second book, The Winged Histories, is forthcoming in 2016. She co-edits the journal Interfictions and lives in California. You can find her at [sofiasamtar.com](http://www.sofiasamatar.com/) and [@SofiaSamatar](https://twitter.com/SofiaSamatar).
+Sofia Samatar is the author of the novels _A Stranger in Olondria_ and _The Winged Histories_, and the short story collection, _Tender_. She is the recipient of the Crawford Award, the British Fantasy Award, the World Fantasy Award, and the John W. Campbell Award. Find out more at [sofiasamatar.com](http://sofiasamatar.com).

@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  "Four Tons Too Late"
-author: Karina Cooper
+author: K. C. Alexander
 date:   2014-03-04 12:01:00 -0500
 category: short story
 permalink: /issue11/chapter/four-tons-too-late/
@@ -472,4 +472,4 @@ It's all Sabrina ever wanted.
 
 #### About the Author
 
-After writing happily ever afters for all of her friends in school, Karina Cooper eventually grew up (sort of), went to work in the real world (kind of), where she decided that making stuff up was way more fun (true!). She is the author of dark and sexy paranormal romances, steampunk adventures, crossover urban fantasy, and continues to write across multiple genres with mad glee. Her award winning steampunk series, [The St. Croix Chronicles](http://www.karinacooper.com/books/st-croix-chronicles/), has been nominated for multiple RT Reviewers' Choice Awards. One part glamour, one part dork and all imagination, Karina is also a gamer, an avid reader, a borderline hermit and an activist. She co-exists with a husband, a menagerie and a severe coffee habit. Visit her at [karinacooper.com](http://www.karinacooper.com), because she says so.
+K. C. Alexander is the author of _Necrotech_—a transhumanist sci-fi called “a speed freak rush” by NYT bestseller Richard Kadrey and “a violent thrillride” by award-nominated Stephen Blackmoore. She co-wrote _Mass Effect: Andromeda: Nexus Uprising_ with _NYT_ bestseller Jason M. Hough, Bioware’s first novelization for Mass Effect: Andromeda. Other credits consist of short stories to Fireside magazine and a contribution to _Geeky Giving_. Specialties include voice-driven prose, imperfect characters, and reckless profanity. Also, creative ways to murder the deserving—in fiction. Probably. She champions mental health awareness and prefers animals to people. And she writes anything she wants to. Keep up at [kcalexander.com](http://www.kcalexander.com).

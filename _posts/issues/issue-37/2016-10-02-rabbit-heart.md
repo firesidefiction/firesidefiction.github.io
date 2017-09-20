@@ -2,14 +2,13 @@
 layout: story
 title:  Rabbit Heart
 author: Alyssa Wong
+selected: Daniel José Older
 date:   2016-10-02 12:01:00 -0500
 category: flash fiction
 permalink: /issue37/chapter/rabbit-heart/
 teaser: "When the Xiongs’ only son died, instead of calling the crematorium and arranging for a funeral, the family came to me."
 published: true
 ---
-
-_Selected by guest editor Daniel José Older_
 
 When the Xiongs’ only son died, instead of calling the crematorium and arranging for a funeral, the family came to me.
 

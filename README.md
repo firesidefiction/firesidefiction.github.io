@@ -8,7 +8,7 @@ Before you can update the content on Fireside, you need to clone the git reposit
 First, install the appropriate git app on your system. Once that's done, and you've signed into the app using your GitHub credentials, it's time to 'clone' the repository.
 
 ### On macOS or Windows
-Go to the [Fireside Magazine repo](https://github.com/firesidefiction/magazine), click the 'Clone or Download' button, then click 'Open in Desktop.' Your GitHub Desktop app should automatically launch, and present you with a save window. Once you've saved the repo somewhere on your system, you're ready to work.
+Go to the [Fireside Magazine repo](https://github.com/firesidefiction/firesidefiction.github.io), click the 'Clone or Download' button, then click 'Open in Desktop.' Your GitHub Desktop app should automatically launch, and present you with a save window. Once you've saved the repo somewhere on your system, you're ready to work.
 
 ### On iOS
 In Working Copy, tap on the `+` sign and select 'Clone repository.' And select the 'firesidefiction: magazine' repository.
@@ -43,24 +43,24 @@ Let's go through each one individually.
 ## Front matter
 Every piece of content that we post to Fireside *must* include front matter. The front matter *must* be the first thing in the document, and *must* be surrounded by three dashes. The front matter *must* be in YAML format, which is simply: `parameter: value`.
 
-Here's what it looks like:
+Here's what it a basic story or post looks like:
 like:
 
 > ---
 >
-> layout: story | post | article | book
+> layout: story | post | article | book | blackspecfic | story-serial
 >
-> title:  "The Title of The Thing"
+> title:  The Title of The Thing
 >
 > author: Author Name
 >
+> editor: Editor Name
+>
 > date:   2017-mm-de 12:00:01 -0500
 >
-> category: short story | flash fiction | announcement | essay | book | serial
+> category: short story | flash fiction | announcement | essay | book | serial | #Blackspecfic
 >
 > permalink: the-title-of-the-thing | /issue38/chapter/25/
->
-> published: true | false
 >
 > teaser: "A short summary or teaser for the piece of content. Can be a direct quote form the piece, or something new. This will show up on the homepage."
 >
@@ -70,6 +70,7 @@ like:
 >
 > artist: Galen Dara
 >
+> published: true | false
 > ---
 
 Simple, right? The above template includes all the parameters available, and all the values possible, separated by pipes ( | ). You can copy/paste it directly into your document as a starting point.
@@ -78,7 +79,7 @@ Some of the parameters are required, and some are optional. If you're not going 
 
 The parameters in the front matter are pretty self-explanatory,  but let's go over what each one means one by one anyway.
 
-##### `layout: story | post | article | book`
+##### `layout: story | post | article | book | blackspecfic | story-serial`
 The `layout` parameter is **required**. It tells Jekyll what this document should look like.
 Only one of three values are allowed: `story` for fiction, `post` for news items, `article` for nonfiction, and `book` for book promo pages.
 
@@ -90,11 +91,15 @@ This parameter allows free-form text. In order for all characters to read proper
 The `author` parameter is **required**. It tells Jekyll who wrote the thing.
 This parameter allows free-form text.
 
-##### `date: 2017-mm-dd 12:00:01 -0500`
-The `date` parameter is **required**. It tells Jekyll what publishing date to display along with the content.
-This parameter needs the date to be in the particular format shown:  `yyyy-mm-dd hh:mm:ss: -0500`. For new content, the date is important, but we don't really care about the time, so we always leave that set to `12:00:01 -0500`, which is midnight on Eastern Standard Time.
+##### `editor: Editor Name`
+The `editor` parameter is **required**. It tells Jekyll who edited the thing.
+This parameter allows free-form text, and can be left blank. If it is left blank, the site will display nothing. If the parameter is not present in the front matter (as in older posts) the site will display 'Brian White' as the default.
 
-##### `category: short story | flash fiction | announcement | essay | book`
+##### `date: 2017-mm-dd 00:00:01 -0500`
+The `date` parameter is **required**. It tells Jekyll what publishing date to display along with the content.
+This parameter needs the date to be in the particular format shown:  `yyyy-mm-dd hh:mm:ss: -0500`. For new content, the date is important, but we don't really care about the time, so we usually leave that set to `00:00:01 -0500`, which is midnight on Eastern Standard Time. On the rare occasion that we post more than one piece in one day, we can use the time to determine the order of the posts in the stream.
+
+##### `category: short story | flash fiction | announcement | essay | book | serial | #Blackspecfic`
 The `category` parameter is **required**. It tells Jekyll what label to use when presenting the content on the site.
 This parameter can take free-form text, but Jekyll will give the five categories listed — `short story`, `flash fiction`, `announcement`, `essay`, and `book` — special treatment, so we want to stick to those. If you want to add a new category, let Pablo know, so that he can tell Jekyll to treat it special, too.
 
@@ -122,15 +127,34 @@ This parameter allows free-form text. In order for all characters to read proper
 The `artist` parameter is **required** if you also include the `art` parameter. It sets the artist name for the featured illustration.
 This parameter allows free-form text.
 
+#### Special content types
+
+Some content type, like serials, take additional parameters (all optional by definition) in their metadata:
+
+##### `serial-name: The Name of the Serial`
+The `serial-name` parameter tells Jekyll what the display title of the serial as a whole should be.
+
+##### `serial-url: the-name-of-the-serial`
+The `serial-url` parameter tells Jekyll what the link for the main index page for the serial is.
+
+##### `part: 888`
+The `part` parameter tells Jekyll what part of the serial this is.
+
+##### `previous-url`
+The `previous-url` parameter tells Jekyll the URL of the last episode of the serial, so that Jekyll can build proper navigation.
+
+##### `next-url`
+The `next-url` parameter tells Jekyll the URL of the next episode of the serial, so that Jekyll can build proper navigation.
+
 ## Content
 The content section is where the, um, content of the piece goes. This is where we use markdown notation to format the text according to its meaning (rather than according to its visual style). We'll use the following conventions and notation for writing markdown for Fireside:
-- use single underscores or asterisks for _emphasis_
+- use single underscores or asterisks for *emphasis*
 - use double underscores or asterisks for **strong emphasis**
 - write links like this: `[link text](http://url.com)`
-- use four dashes for section breaks: ----
+- use four dashes for section breaks: `----`
 - use a `>` for blockquotes
 - add a blank line between paragraphs, otherwise the line will be a regular carriage return, not the start of a new paragraph.
-- to add a footnote you add `[^1]` in the body of the text, and `[^1]: This is my glorious and most important footnote` at the bottom of your .markdown file.
+- to add a footnote you add `[^1]` in the body of the text, and `[^1]: This is my glorious and most important footnote` at the bottom of your markdown file.
 
 ## Author Bio
 The Author Bio Is currently hard coded into each story post. In addition, the author should be added to the `author.md` page.

@@ -2,6 +2,7 @@
 layout: story
 title:  "Queen Aster, Who Dances"
 author: Tina Connolly
+editor: 
 date:   2017-07-03 12:00:00 -0500
 category: flash fiction
 permalink: queen-aster-who-dances

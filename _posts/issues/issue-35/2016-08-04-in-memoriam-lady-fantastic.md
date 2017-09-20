@@ -46,6 +46,6 @@ In fifth grade, I dressed as her for Halloween. The skirt went down past my knee
 
  Like I said, she never minded sharing the sky.
 
-####About the Author
+#### About the Author
 
 Lauren M. Roy has been an independent bookseller, a publisher sales rep, and is completing her bookselling hat trick as an author. Her Night Owls urban fantasy series is published by Ace Books, and her YA fantasy The Fire Children is published by Solaris. Her flash fiction has appeared in Fireside Magazine and on Podcastle. Lauren lives in Southeastern Massachusetts with her husband, their cats, and the ghosts of the houseplants she forgets to water.

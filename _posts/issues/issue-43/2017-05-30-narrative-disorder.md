@@ -286,7 +286,7 @@ She mentioned to her supervisor that she was interested in doing something a lit
 
 ----
 
-Even when she has finally grown-up, Mishima catches herself giving in, and is ashamed. Curled around the sweet warmth of her two-year-old, her feet reaching down to find her partner’s, she knows that she is as happy as she as ever been, and yet her mind insists on telling itself to sleep with a story.
+Even when she has finally grown-up, Mishima catches herself giving in, and is ashamed. Curled around the sweet warmth of her two-year-old, her feet reaching down to find her partner’s, she knows that she is as happy as she has ever been, and yet her mind insists on telling itself to sleep with a story.
 
 ----
 

@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  "Rocket Ship Nirvana"
-author: Karina Cooper
+author: Jason Ridler
 date:   2014-04-04 12:01:00 -0500
 category: short story
 permalink: /issue12/chapter/30/

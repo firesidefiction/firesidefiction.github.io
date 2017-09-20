@@ -2,6 +2,7 @@
 layout: story
 title: Your Body, By Default
 author: Alexis A. Hunter
+selected: Daniel José Older
 date:   2016-08-02 12:01:00 -0500
 category: short story
 permalink: /issue35/chapter/your-body-by-default/
@@ -11,8 +12,6 @@ art: your-body-by-default.jpg
 caption: "four panels, all mirroring a man with a square jaw, outer panels in dark blue. The center panel is in color - pinks and soft teals, with a male and female figure overlayed on one another, each figure touching their chin with their left hand."
 artist: Galen Dara
 ---
-
-Selected by guest editor Daniel José Older
 
 They brought you back because they want something from you. Maybe one day they will bring people back because they can or because it’s the right thing to do — but for now there’s you and there’s them and there’s the unspoken obligations that lie between you both.
 

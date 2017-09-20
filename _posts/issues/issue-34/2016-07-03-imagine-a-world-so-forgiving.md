@@ -2,14 +2,13 @@
 layout: story
 title:  Imagine a World So Forgiving
 author: Margaret Killjoy
+selected: Daniel José Older
 date:   2016-07-03 12:01:00 -0500
 category: short story
 permalink: /issue34/chapter/imagine-a-world-so-forgiving/
 teaser: "It was a shitty fucking mission."
 published: true
 ---
-
-_Selected by guest editor Daniel José Older_
 
 Her ship thundered into the ground, and Caroline stumbled out from the wreckage into a bright haze of ivy and trees. No one had set foot on Earth since the terraforming team had arrived thirty years prior. Before them, a century. Humanity had escaped its ruined cradle and scarcely looked back. All around her, the sunlight was unnatural and soft, filtered through ozone and clouds and canopy. She blinked, blinked again, then rubbed her eyes.
 

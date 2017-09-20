@@ -2,6 +2,7 @@
 layout: story
 title: "Bear Language"
 author: "Martin Cahill"
+selected: Daniel José Older
 date: 2017-05-02 12:01:00 -0500
 category: short story
 permalink: bear-language
@@ -13,8 +14,6 @@ artist: Galen Dara
 ---
 
 > *Content note: This story deals extensively with issues of child abuse and alcohol abuse.*
-
-> Selected by guest editor Daniel José Older
 
 ## Day One
 

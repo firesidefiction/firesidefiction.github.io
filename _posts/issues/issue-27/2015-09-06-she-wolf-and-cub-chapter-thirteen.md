@@ -1,15 +1,19 @@
 ---
-layout: story
+layout: story-serial
 title:  "She Wolf and Cub: Coda"
 author: Lilith Saintcrow
 date:   2015-09-06 12:02:00 -0500
 category: serial
+serial-name: She Wolf and Cub
+serial-url: /book/she-wolf-and-cub
+part: 13
+previous-url: /issue27/chapter/she-wolf-and-cub-chapter-twelve/
+next-url: /book/she-wolf-and-cub
 permalink: /issue27/chapter/she-wolf-and-cub-chapter-thirteen/
 teaser: "They came from below."
 published: true
 ---
 
-Jump to: [Chapter Twelve](/issue27/chapter/she-wolf-and-cub-chapter-twelve/)
 
 _The wheat-haired man crouches in a clearing, his breath a tuneless whistle as he turns a few dials, points the antenna correctly. "Activate relay." A crackling, the scan run through a code or two, time of day and latitude taken into consideration. The machinery picks up a signal, and he stops whistling._
 

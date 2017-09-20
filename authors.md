@@ -15,6 +15,9 @@ permalink: /authors
 ### Day Al-Mohamed
 — [_Death's Garden_](/issue17/chapter/deaths-garden/)
 
+### K. C. Alexander
+— [_Four Tons Too Late_](/issue11/chapter/four-tons-too-late/)
+
 ### E.C. Ambrose
 — [_Carver_](/issue13/chapter/carver/)
 
@@ -30,6 +33,9 @@ permalink: /authors
 
 ### Brent Baldwin
 — [_Who We Once Were, Who We Will Never Be_](/issue19/chapter/who-we-once-were-who-we-will-never-be/)
+
+### Meghan Ball
+— [_The Importance of Being Monstrous_](/the-importance-of-being-monstrous)
 
 ### Elizabeth Bear
 — [_Form and Void_](/issue3/chapter/form-and-void/)
@@ -89,8 +95,8 @@ permalink: /authors
 ### Krystal Claxton
 — [_The Filigreed Cage_](/issue4/chapter/the-filigreed-cage/)
 
-### Karina Cooper
-— [_Four Tons Too Late_](/issue11/chapter/four-tons-too-late/)
+### Tina Connolly
+— [_Queen Aster, Who Dances_](/queen-aster-who-dances)
 
 ### Frank Cvetkovic
 — [_Snow Ninjas of the Hymalayas_](/issue1/chapter/snow-ninjas-of-the-hymalayas/)
@@ -100,6 +106,9 @@ permalink: /authors
 ----
 
 ## D
+
+### Karl Dandenell
+— [_We Who Stay Behind_](/we-who-stay-behind)
 
 ### James Darrow
 — [_Reversal_](/issue15/chapter/reversal/)
@@ -131,6 +140,8 @@ permalink: /authors
 — [_If Wishes Were Obfuscation Codes_](/issue24/chapter/if-wishes-were-obfuscation-codes/)
 
 — [_Delta Child_](/issue36/chapter/delta-child/)
+
+— [_Junebug’s Magical Magnificent Mercurial Barbershop_](/junebugs-magical-magnificent-mercurial-barbershop)
 
 ### Renee Elizabeth
 — [_Time Out_](/issue23/chapter/time-out/)
@@ -322,7 +333,10 @@ permalink: /authors
 ## N
 
 ### Mari Ness
+
 — [_The Middle Child’s Practical Guide to Surviving a Fairy Tale_](/issue33/chapter/the-middle-childs-practical-guide-to-surviving-a-fairy-tale/)
+
+— [_The Witch in the Tower_](/the-witch-in-the-tower)
 
 ### Annie Neugebauer
 — [_Zanders the Magnificent_](/issue21/chapter/zanders-the-magnificent/)
@@ -337,6 +351,9 @@ permalink: /authors
 ### Sandra M. Odell
 — [_Listening to it Rain_](/issue5/chapter/listening-to-it-rain/)
 
+### Suyi Davies Okungbowa
+— [_Our Secrets, In Keys_](/our-secrets-in-keys)
+
 ### Daniel José Older
 — [_Stay_](/issue22/chapter/stay/)
 
@@ -344,6 +361,9 @@ permalink: /authors
 — [_Narrative Disorder_](/narrative-disorder)
 
 — [_The Narrative Spectrum_](/the-narrative-spectrum)
+
+### M. E. Owen
+— [_Intruder_](/intruder)
 
 ----
 
@@ -358,6 +378,8 @@ permalink: /authors
 — [_Children of Rouwen_](/issue23/chapter/children-of-rouwen/)
 
 — [_The Revolution, Brought to You by Nike_](/the-revolution-brought-to-you-by-nike)
+
+— [_Three Laws_](/three-laws)
 
 ### Katie Pugh
 — [_Reborn_](/issue12/chapter/27/)
@@ -488,6 +510,8 @@ permalink: /authors
 
 — [_Evil Isn’t a Disability: 10 Cloverfield Lane, Donald Trump, and Don’t Breathe_](/evil-isnt-a-disability)
 
+— [_A Silhouette Against Armageddon_](/a-silhouette-against-armageddon)
+
 ### Alyssa Wong
 — [_Rabbit Heart_](/issue37/chapter/rabbit-heart/)
 
@@ -516,6 +540,8 @@ permalink: /authors
 — [_An Army of Bees_](/issue33/chapter/an-army-of-bees/)
 
 — [_Paperclips and Memories and Things That Won’t Be Missed_](/issue38/chapter/21/)
+
+— [_Until the Day We Go Home_](/until-the-day-we-go-home)
 
 ----
 

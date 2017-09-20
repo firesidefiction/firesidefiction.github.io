@@ -5,6 +5,8 @@ h1   {
 
 h2    {
 	font-weight: 300;
+	line-height: $space*1.25;
+	//margin-bottom: $space/2; This affects the spacing above the byline on the homepage 
 }
 
 h3   {
@@ -156,5 +158,17 @@ hr {
 .post-content {
 	h1 {
 		font-size: 2em;
+	}
+}
+
+.bigfoot-footnote {
+	p {
+		font-size: $font-size-small;
+	}
+}
+.footnotes {
+	font-size: $font-size-small;
+	li {
+		margin-top: $space-double;
 	}
 }

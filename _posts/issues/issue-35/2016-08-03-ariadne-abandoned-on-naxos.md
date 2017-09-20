@@ -2,6 +2,7 @@
 layout: story
 title:  Ariadne, Abandoned on Naxos
 author: S.M. Mack
+selected: Daniel José Older
 date:   2016-08-03 12:01:00 -0500
 category: short story
 permalink: /issue35/chapter/ariadne-abandoned-on-naxos/

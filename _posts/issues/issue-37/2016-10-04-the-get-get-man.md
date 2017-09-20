@@ -2,6 +2,7 @@
 layout: story
 title:  The Get-Get Man
 author: Melissa Moorer
+selected: Daniel José Older
 date:   2016-10-04 12:01:00 -0500
 category: short story
 permalink: /issue37/chapter/the-get-get-man/
@@ -11,8 +12,6 @@ art: the-get-get-man.jpg
 caption: Illustration for The Get-Get Man
 artist: Galen Dara
 ---
-
-_Selected by guest editor Daniel José Older_
 
 The Get-Get Man travels at night, sharp as a scalpel, dark as soot. He cuts through the yards and streets, slicing and taking what doesn’t make way. They say you can only see him from the side. If you see him head on it’s probably too, late because which way would you run anyway? He is as wide as the sky, deeper than the grave, and he always gets what he came for.
 

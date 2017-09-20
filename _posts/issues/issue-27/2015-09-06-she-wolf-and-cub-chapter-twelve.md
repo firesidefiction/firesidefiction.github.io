@@ -8,7 +8,7 @@ serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 12
 previous-url: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
-next-url: /book/she-wolf-and-cub
+next-url: /issue27/chapter/she-wolf-and-cub-chapter-thirteen/
 permalink: /issue27/chapter/she-wolf-and-cub-chapter-twelve/
 teaser: "Fading bitterness coating the tongue."
 published: true

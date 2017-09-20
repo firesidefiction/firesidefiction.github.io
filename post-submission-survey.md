@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Post-Submission Survey
-permalink: /post-submisison-survey-april-2017
+permalink: /post-submisison-survey
 ---
 Thanks for your submission.
 
-Last year, we published a report called [#BlackSpecFic](https://medium.com/fireside-fiction-company/blackspecfic-571c00033717#.cpwlx160w), examining racism in short speculative ficiton publications. As part of our effort to address the exclusion of black writers, we are trying to get a sense of who is submitting to Fireside.
+For the last two years, we've published a report called [#BlackSpecFic](https://firesidefiction.com/blackspecfic), examining racism in short speculative ficiton publications. As part of our effort to address the exclusion of black writers, we are trying to get a sense of who is submitting to Fireside.
 
 The data collected on this questionnaire is 100% anonymous—this form is completely separate from our submissions system, and won't be tied to your submissions at all.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeaa4sQFFKkH9isxzy3heqocsJZhLz1WopnIzA3GQtiT4xl5g/viewform?embedded=true" width="600" height="870" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfQWUL8FQ92tqUKaetVDj4QZBC906RAsEX4BUT0RArC8oAX3w/viewform?embedded=true" width="600" height="870" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

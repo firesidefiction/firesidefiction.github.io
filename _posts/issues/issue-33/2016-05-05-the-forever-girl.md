@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  The Forever Girl
-author: R.F. Thull
+author: R.L. Thull
 date:   2016-05-05 12:01:00 -0500
 category: short story
 permalink: /issue33/chapter/the-forever-girl/

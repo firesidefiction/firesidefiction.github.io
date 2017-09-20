@@ -55,6 +55,8 @@ Chapter Eleven — [_Black Hat Collective_](/issue26/chapter/she-wolf-and-cub-ch
 
 Chapter Twelve — [_Who Owns You Now?_](/issue27/chapter/she-wolf-and-cub-chapter-twelve/)
 
+Chapter Thirteen — [_Coda_](/issue27/chapter/she-wolf-and-cub-chapter-thirteen/)
+
 #### About the author
 
 Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).
