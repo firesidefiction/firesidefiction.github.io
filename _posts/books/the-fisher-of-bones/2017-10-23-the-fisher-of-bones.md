@@ -10,7 +10,7 @@ length: novellette
 serial-parts: 12
 cover: the-fisher-of-bones-cover-image.jpg
 amazon: https://www.amazon.com/dp/B075PGX6YJ/ref=sr_1_2?ie=UTF8&qid=1505916410&sr=8-2&keywords=the+fisher+of+bones
-ibooks:
+ibooks: https://itunes.apple.com/us/book/the-fisher-of-bones/id1285805171?ls=1&mt=11
 kobo:
 nook:
 goodreads:
