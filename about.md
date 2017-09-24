@@ -50,7 +50,7 @@ Brian started Fireside in 2012 with a Kickstarter and a whole lot of love. Over 
 
 ## Submissions Guidelines
 
-### Fireside is Closer to submissions.
+### Fireside is closed to submissions.
 
 Fireside will be open to submissions for several one-week periods in 2017. We accept flash fiction of up to 1,000 words, and short stories from 1,000 to 4,000 words.
 
