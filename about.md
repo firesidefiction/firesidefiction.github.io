@@ -165,7 +165,7 @@ Due to the high volume of submissions we get, unfortunately we can’t provide f
 
 ### Fireside is open for submissions.
 
-{% include submit-button.html %}
+{% include submissions-closed-button.html %}
 
 
 [back to the top](#top-of-page)
