@@ -50,13 +50,12 @@ Brian started Fireside in 2012 with a Kickstarter and a whole lot of love. Over 
 
 ## Submissions Guidelines
 
-### Fireside is open to submissions.
+### Fireside is Closer to submissions.
 
 Fireside will be open to submissions for several one-week periods in 2017. We accept flash fiction of up to 1,000 words, and short stories from 1,000 to 4,000 words.
 
 Here’s our schedule for the remainder of the year (subject to change):
 
-- September 17-23
 - November 5-11
 
 Fireside is only able to publish and pay for our fantastic stories with the support of our Patreon backers. As our support grows, we’ll be able to publish more stories and longer stories, and raise our already leading pay rates even higher. Please consider [supporting us on Patreon](https://www.patreon.com/firesidefiction).
@@ -163,7 +162,7 @@ We usually take about a month from the close of a submissions period to review e
 
 Due to the high volume of submissions we get, unfortunately we can’t provide feedback on your individual submission if we’ve rejected it—we have a finite amount of editorial energy, and we need to expend it on the stories that we do acquire. Find some beta readers, join a writers’ group, and better luck next time. If you are uncertain on where to find critical feedback, we’ve heard positive things about Critters.org and The Online Writing Workshop, but we are not affiliated with either place.
 
-### Fireside is open for submissions.
+### Fireside is closed for submissions.
 
 {% include submissions-closed-button.html %}
 
