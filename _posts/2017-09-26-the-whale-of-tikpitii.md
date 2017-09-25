@@ -3,10 +3,10 @@ layout: story
 title: The Whale of Tikpiti’i
 author: Tariro Ndoro
 editor: Julia Rios
-date: 2017-09-26 00:00:01 -0500
+date: 2017-09-26 05:00:01 -0500
 category: flash fiction
 permalink: the-whale-of-tikpitii
-published: false
+published: true
 teaser: "The legend says that your great grandfather, Uvuzwa – Whale of Tikpiti'i taught the seas to obey him. …Standing here, against the blue walls of your palace, I ask myself if the Whale of Tikpiti'i also used his influence to squash maggots like me."
 ---
 
