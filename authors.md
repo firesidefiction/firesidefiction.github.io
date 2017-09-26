@@ -328,9 +328,15 @@ permalink: /authors
 ### Lisa Nohealani Morton
 — [_To Fall, and Pause, and Fall_](/issue20/chapter/to-fall-and-pause-and-fall/)
 
+### Alison Mulder
+— [_If We Live to Be Giants_](/if-we-live-to-be-giants)
+
 ----
 
 ## N
+
+### Tariro Ndoro
+-[_The Whale of Tikpiti’i_](/the-whale-of-tikpitii)
 
 ### Mari Ness
 
@@ -515,6 +521,9 @@ permalink: /authors
 ### Alyssa Wong
 — [_Rabbit Heart_](/issue37/chapter/rabbit-heart/)
 
+### Evelyn Wong
+— [_Reaching Beyond_](/reaching-beyond)
+
 ----
 
 ## X
@@ -542,6 +551,8 @@ permalink: /authors
 — [_Paperclips and Memories and Things That Won’t Be Missed_](/issue38/chapter/21/)
 
 — [_Until the Day We Go Home_](/until-the-day-we-go-home)
+
+— [_Feeding Mr. Whiskers_](/feeding-mr-whiskers)
 
 ----
 
