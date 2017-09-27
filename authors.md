@@ -162,6 +162,8 @@ permalink: /authors
 
 — [_Homesick_](/issue36/chapter/homesick/)
 
+— [_The Fisher of Bones: A Serial_](/the-fisher-of-bones/chapter-one-naming)
+
 ### John F. Gardner
 — [_The Last Good Day_](/issue7/chapter/the-last-good-day/)
 
