@@ -37,9 +37,9 @@ Chapter Three — [_Increase_](/the-fisher-of-bones/chapter-three-increase)
 
 Chapter Four — [_Loss_](/the-fisher-of-bones/chapter-four-loss)
 
-Chapter Five — _Fear_
+Chapter Five — [_Fear_](/the-fisher-of-bones/chapter-five-fear)
 
-Chapter Six — _Discovery_
+Chapter Six — [_Discovery_](/the-fisher-of-bones/chapter-six-discovery)
 
 Chapter Seven — _Storm_
 
