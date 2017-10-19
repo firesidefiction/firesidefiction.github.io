@@ -2,7 +2,7 @@
 layout: post
 title:  'Hurricane Bookstore Wrap-Up'
 author: Pablo Defendini
-date:   2017-10-13 01:01:00 -0500
+date:   2017-10-19 01:01:00 -0500
 category: news
 permalink: /hurricane-bookstore-wrapup
 teaser: "In which me tiro el Cerati y les digo ‘gracias… totales,’ and talk about where to send money to Puerto Rico."
