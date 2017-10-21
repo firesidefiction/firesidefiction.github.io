@@ -1,22 +1,13 @@
 ---
 layout: story
-title:  "My Name is Ronald by the Way"
-author: Thord D. Hedengren
+title:  "Pride and Profanity"
+author: Aidan Doyle
 date:   2015-02-02 12:01:00 -0500
 category: flash fiction
-permalink: issue20/chapter/my-name-is-ronald-by-the-way/
-teaser: "Slippery. That was the feeling I couldn't shake after speaking to the salesman."
+permalink: issue21/chapter/pride-and-profanity/
+teaser: "Heavily armored punctuation guarded the palace gates. “Where’s your invitation?” a belligerent semicolon demanded."
 published: true
 ---
-
-
-[Source](http://www.firesidefiction.com/issue21/chapter/pride-and-profanity/ "Permalink to Pride and Profanity | Issue 21")
-
-# Pride and Profanity | Issue 21
-
-####
-
-## by Aidan Doyle
 
 Heavily armored punctuation guarded the palace gates. "Where's your invitation?" a belligerent semicolon demanded.
 
@@ -90,13 +81,6 @@ It took a while for the other words to adjust to their new freedom, but most of 
 
 And I was finally welcomed into polite society. The elderly told me how nice it was to hear my name. The religious praised me in their sermons. One of the happiest days of my life was when I was guest of honor at a kindergarten graduation ceremony. The young words shouted out my name with joy, and my heart filled with pride.
 
-Aidan Doyle is an Australian writer and computer programmer. He has visited more than 90 countries, and his experiences include teaching English in Japan, interviewing ninjas in Bolivia, and going ten-pin bowling in North Korea. Find him online at [aidandoyle.net][1] and [@aidan_doyle][2].
-
-[1]: http://www.aidandoyle.net
-[2]: https://twitter.com/@aidan_doyle
-
-
-
 #### About the Author
 
-Thord D. Hedengren is addicted to words, and the stories they make. He writes fiction, short and long, as well as freelance articles and columns for various media outlets. He's a renowned web developer and designer, and the author of SMASHING WORDPRESS: BEYOND THE BLOG and THE WRITER'S IPAD, among other techy things. You'll find him wasting away on Twitter as [@tdh](https://twitter.com/tdh), or writing about just about anything at [tdh.me](http://tdh.me). Thord lives in Sweden, the Land of Kings.
+Aidan Doyle is an Australian writer and computer programmer. He has visited more than 90 countries, and his experiences include teaching English in Japan, interviewing ninjas in Bolivia, and going ten-pin bowling in North Korea. Find him online at [aidandoyle.net](http://www.aidandoyle.net) and [@aidan_doyle](https://twitter.com/@aidan_doyle).
