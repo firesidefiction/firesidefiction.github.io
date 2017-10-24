@@ -3,7 +3,7 @@ layout: story
 title: H&D Plumbing
 author: Courtney Floyd
 editor: Julia Rios
-date: 2017-10-24 00:00:01 -0500
+date: 2017-10-24 01:00:01 -0500
 category: flash fiction
 permalink: h-n-d-plumbing
 published: true
