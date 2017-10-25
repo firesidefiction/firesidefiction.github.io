@@ -41,7 +41,7 @@ Chapter Five — [_Fear_](/the-fisher-of-bones/chapter-five-fear)
 
 Chapter Six — [_Discovery_](/the-fisher-of-bones/chapter-six-discovery)
 
-Chapter Seven — _Storm_
+Chapter Seven — [_Storm_](/the-fisher-of-bones/chapter-seven-storm)
 
 Chapter Eight — _Anticipation_
 
