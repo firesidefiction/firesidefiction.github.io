@@ -103,7 +103,7 @@ The boy started shaking his head, looking around as if someone would come and sa
 
 ----
 
-<p>Maia burst into my tent, breathless. “Where’s my son?” she said, the fervent fury of a mother in her voice.
+Maia burst into my tent, breathless. “Where’s my son?” she said, the fervent fury of a mother in her voice.
 
 “I’m here, Mama,” he said, rising from his place beside the sleeping mat. His arms were covered in a thick coat of foul, sparking white.
 
