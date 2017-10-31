@@ -78,8 +78,14 @@ permalink: /authors
 
 — [_The Memory Who Became a Girl_](/issue32/chapter/the-memory-who-became-a-girl/ )
 
+### Christa Carmen
+— [_Something Borrowed, Something Blood-Soaked_](/something-borrowed-something-blood-soaked)
+
 ### Dantzel Cherry
 — [_Shrugging Off the Weight of the World_](/issue11/chapter/shrugging-off-the-weight-of-the-world/)
+
+### Innocent Chizaram Ilo
+— [_River Boy_](/river-boy)
 
 ### Nino Cipri
 — [_Better Girls from Broken Parts_](/issue17/chapter/better-girls-from-broken-parts/)
@@ -150,6 +156,9 @@ permalink: /authors
 
 ## F
 
+### Courtney Floyd
+— [_H&D Plumbing_](/h-n-d-plumbing)
+
 ### Eric Francis
 — [_The Boy_](/issue17/chapter/the-boy/)
 
@@ -198,6 +207,9 @@ permalink: /authors
 
 ### Thord D. Hedengren
 — [_My Name is Ronald by the Way_](/issue20/chapter/my-name-is-ronald-by-the-way/)
+
+### Carlos Hernandez
+— [_Geppetto_](/geppetto)
 
 ### Sarah Hollowell
 — [_Crow's Eye_](/crows-eye)
@@ -442,6 +454,10 @@ permalink: /authors
 
 ### Effie Seiberg
 — [_Re: Little Miss Apocalypse Playset_](/issue30/chapter/re-little-miss-apocalypse-playset/)
+
+
+### Cherrelle Shelton
+— [_Banshee_](/banshee)
 
 ### Alex Shvartsman
 — [_He Who Watches_](/issue26/chapter/he-who-watches/)
