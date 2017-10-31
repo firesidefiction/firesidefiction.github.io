@@ -95,9 +95,9 @@ This parameter allows free-form text.
 The `editor` parameter is **required**. It tells Jekyll who edited the thing.
 This parameter allows free-form text, and can be left blank. If it is left blank, the site will display nothing. If the parameter is not present in the front matter (as in older posts) the site will display 'Brian White' as the default.
 
-##### `date: 2017-mm-dd 00:00:01 -0500`
+##### `date: 2017-mm-dd 01:00:01 -0500`
 The `date` parameter is **required**. It tells Jekyll what publishing date to display along with the content.
-This parameter needs the date to be in the particular format shown:  `yyyy-mm-dd hh:mm:ss: -0500`. For new content, the date is important, but we don't really care about the time, so we usually leave that set to `00:00:01 -0500`, which is midnight on Eastern Standard Time. On the rare occasion that we post more than one piece in one day, we can use the time to determine the order of the posts in the stream.
+This parameter needs the date to be in the particular format shown:  `yyyy-mm-dd hh:mm:ss: -0500`. For new content, the date is important, but we don't really care about the time, so we usually leave that set to `01:00:01 -0500`, which is 1am on Eastern Standard Time. On the rare occasion that we post more than one piece in one day, we can use the time to determine the order of the posts in the stream.
 
 ##### `category: short story | flash fiction | announcement | essay | book | serial | #Blackspecfic`
 The `category` parameter is **required**. It tells Jekyll what label to use when presenting the content on the site.
