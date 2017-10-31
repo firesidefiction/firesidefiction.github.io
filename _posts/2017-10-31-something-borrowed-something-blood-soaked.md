@@ -10,7 +10,9 @@ published: true
 teaser: “This should feel romantic, she thought wistfully as Luke pushed past her out the door. And anyway, it wasn’t my idea to spend the last hour going to the forest’s edge with such a heavy load.”
 ---
 
-The fire gave an inviting crackle as Bella’s new husband locked her in a fervent embrace. Bella pulled back. “We should get going. Everyone will be wondering where we are.” “Chill, Bel,” Luke said. “No one expects the bride and groom to appear right after the wedding. Besides...” He pressed his face obnoxiously into the bodice of her gown. “It’s your fault we’re so late.” Bella pulled away again and started across the lobby of the Stanley Hotel, catching her reflection in the window along with dozens of candle-lit Jack-o’-lanterns. _This should feel romantic_, she thought wistfully as Luke pushed past her out the door. _And anyway, it wasn’t my idea to spend the last hour going to the forest’s edge with such a heavy load_.
+The fire gave an inviting crackle as Bella’s new husband locked her in a fervent embrace. Bella pulled back. “We should get going. Everyone will be wondering where we are.”
+
+“Chill, Bel,” Luke said. “No one expects the bride and groom to appear right after the wedding. Besides...” He pressed his face obnoxiously into the bodice of her gown. “It’s your fault we’re so late.” Bella pulled away again and started across the lobby of the Stanley Hotel, catching her reflection in the window along with dozens of candle-lit Jack-o’-lanterns. _This should feel romantic_, she thought wistfully as Luke pushed past her out the door. _And anyway, it wasn’t my idea to spend the last hour going to the forest’s edge with such a heavy load_.
 
 Ghost hunters peppered the patio, wielding EMF meters and handheld audio recorders like weapons, hoping the historic hotel would cough up a paranormal phenomenon. _Maybe this will be their lucky night_, Bella thought. She didn’t believe in ghosts, but if anyone was stubborn enough to come back and haunt these halls, it would be Aunt Louise.
 
