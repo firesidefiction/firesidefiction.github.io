@@ -6,7 +6,7 @@ h1   {
 h2    {
 	font-weight: 300;
 	line-height: $space*1.25;
-	//margin-bottom: $space/2; This affects the spacing above the byline on the homepage 
+	//margin-bottom: $space/2; This affects the spacing above the byline on the homepage
 }
 
 h3   {
@@ -87,6 +87,22 @@ hr {
   &.solid {
       background: $gray;
   }
+}
+
+.fiction code {
+	font-weight: 700;
+	font-family: $font-secondary;
+	font-size: $font-size-small-2;
+	text-transform: uppercase;
+}
+
+blockquote code {
+	color: $color__base--dark;
+	margin-left: 3em;
+}
+
+blockquote cite {
+	margin-left: 12em;
 }
 
 //Intro text
