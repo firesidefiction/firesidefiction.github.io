@@ -16,11 +16,11 @@ I should explain: my clinic is currently looking to hire several new doctors fro
 
 This time, I have devised a number of clinical scenarios for distribution to everyone involved in recruitment. For example:
 
----- 
+----
 
 **SCENARIO:** Pubescent juvenile with history of life-threatening Eridanian pulse allergy. Patient presents with recurrent, severe migraines and intermittent episodes of precognition with heightened athletic ability.
 
----- 
+----
 
 The job applicant is supposed to consider the scenario and render a professional opinion. Can a reliable diagnosis be made based on the facts available? Are further tests required? If so, which ones? In this case, many doctors will take the scenario to be a lighthearted reference to our system‘s famous Planetary Messiahs and will give a response like “Patient appears to be in the process of becoming a galactic hero. Suggest contacting Messiahs‘ Academy to arrange a full assessment.“
 
@@ -28,11 +28,11 @@ But those doctors who note the detail about pulse allergy and who have been keep
 
 A number of the scenarios contain tricks like this. But of course it would be no good for them all to be the same, so I have also included several like the following:
 
----- 
+----
 
 **SCENARIO:** Early-30s human in previously good health, recently returned from suspended animation long-haul trip through the Rosette Nebula. Patient has been experiencing low energy, involuntary teeth-grinding, insomnia, loss of appetite and other malaise.
 
----- 
+----
 
 This would seem at first to be straightforward. Mild depression is common in these life-lag cases where the traveller has aged only a few months while several years have passed for their friends and family. In that case it would be appropriate to order a basic blood workup and refer to cognitive therapy. But there is also the reference to the patient visiting the Rosette Nebula. All the symptoms mentioned have been observed during the incubation phase of infection by the Rosette Mind Virus, before the more frightening behaviour and personality changes that come later. Is that worth pursuing?
 
@@ -54,7 +54,7 @@ Through barely gritted teeth I said, “What I had in mind was a number of patie
 
 “These symptoms,“ the other goon said. “Are you aware they are associated with exposure to highly illegal biological weaponry?“
 
-“I am not an expert in the law,“ I said, “only in treating the sick.“ 
+“I am not an expert in the law,“ I said, “only in treating the sick.“
 
 They gave me their card and left. Once they were gone and my heart rate had returned to something approaching normal I dropped the card out of sight, into a file marked “Hazardous Organisms.”
 
@@ -74,6 +74,4 @@ This week our grant was restored and shipments of clinical supplies are back on 
 
 #### About the author
 
-Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the Trailer Park of Terror comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest][1].
-
-[1]:	https://twitter.com/stuwest
+Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the Trailer Park of Terror comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://twitter.com/stuwest).
