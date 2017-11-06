@@ -7,7 +7,7 @@ date: 2017-11-07 00:00:01 -0500
 category: flash fiction
 permalink: the-scenarist
 published: false
-teaser: “This is something that has caused problems in the past. New clinicians arrive from light years away, bringing impressive lists of publications and achievements—and staggering ignorance of the medical issues we face in this part of the galaxy.”
+teaser: "This is something that has caused problems in the past. New clinicians arrive from light years away, bringing impressive lists of publications and achievements—and staggering ignorance of the medical issues we face in this part of the galaxy."
 ---
 
 Some things can only be learned from experience, but I have always been a strong believer in the value of studying for exams. This is why I am spending so much clinic time lately dealing with imaginary patients.
