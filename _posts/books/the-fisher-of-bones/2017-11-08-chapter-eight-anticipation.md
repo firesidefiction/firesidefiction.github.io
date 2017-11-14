@@ -11,7 +11,7 @@ previous-url: /the-fisher-of-bones/chapter-seven-storm
 permalink: /the-fisher-of-bones/chapter-eight-anticipation
 next-url: /book/the-fisher-of-bones
 teaser: "My bones ached and spread as we crossed into the grassy flatlands, but I did not stop walking."
-published: false
+published: true
 author-bio: "Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey)."
 ---
 
@@ -93,7 +93,7 @@ I rested a palm on the swell of my belly and wondered what unasked-for gift the 
 
 ----
 
-<p>I must have fallen asleep in the middle of my prayers. When I opened my eyes, it was dark; my hand still rested over the shifting hill of my baby. Outside of my tent, voices rose and fell like waves crashing on some distant shore.
+I must have fallen asleep in the middle of my prayers. When I opened my eyes, it was dark; my hand still rested over the shifting hill of my baby. Outside of my tent, voices rose and fell like waves crashing on some distant shore.
 
 I struggled to sit up, listened to the voices outside. There was a rumble of wheels, a shout, a thump. By the time I made it to the tentflap and looked outside, the commotion had passed. Sam sat outside of my tent, a fresh bruise swelling under one eye.
 

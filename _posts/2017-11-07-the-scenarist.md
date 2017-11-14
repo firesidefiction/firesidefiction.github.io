@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2017-11-07 00:00:01 -0500
 category: flash fiction
 permalink: the-scenarist
-published: false
+published: true
 teaser: "This is something that has caused problems in the past. New clinicians arrive from light years away, bringing impressive lists of publications and achievements—and staggering ignorance of the medical issues we face in this part of the galaxy."
 ---
 
@@ -74,4 +74,8 @@ This week our grant was restored and shipments of clinical supplies are back on 
 
 #### About the author
 
+<<<<<<< HEAD:_drafts/2017-11-07-the-scenarist.md
 Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the Trailer Park of Terror comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://twitter.com/stuwest).
+=======
+Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the Trailer Park of Terror comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://twitter.com/stuwest).
+>>>>>>> origin/master:_posts/2017-11-07-the-scenarist.md
