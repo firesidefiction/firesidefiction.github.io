@@ -43,9 +43,9 @@ Chapter Six — [_Discovery_](/the-fisher-of-bones/chapter-six-discovery)
 
 Chapter Seven — [_Storm_](/the-fisher-of-bones/chapter-seven-storm)
 
-Chapter Eight — _Anticipation_
+Chapter Eight — [_Anticipation_](/the-fisher-of-bones/chapter-eight-anticipation)
 
-Chapter Nine — _Sundering_
+Chapter Nine — [_Sundering_](/the-fisher-of-bones/chapter-nine-sundering)
 
 Chapter Ten — _Nearness_
 
