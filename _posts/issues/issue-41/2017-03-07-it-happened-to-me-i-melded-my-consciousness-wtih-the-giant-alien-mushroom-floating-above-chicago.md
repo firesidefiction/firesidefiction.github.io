@@ -3,7 +3,7 @@ layout: story
 title:  "It Happened To Me: I Melded My Consciousness With the Giant Alien Mushroom Floating Above Chicago"
 author: Nino Cipri
 date:   2017-03-07 12:01:00 -0500
-category: short story
+category: flash fiction
 permalink: it-happened-to-me-i-melded-my-consciousness-wtih-the-giant-alien-mushroom-floating-above-chicago
 teaser: "I was twenty-three, and on my lunch break when the giant alien mushroom bloomed in the sky over Lake Michigan."
 published: true

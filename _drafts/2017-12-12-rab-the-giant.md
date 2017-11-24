@@ -1,5 +1,5 @@
-----
-layout: story 
+---
+layout: story
 title: Rab the Giant versus the Wich of the Waterfall
 author: Brian M. Milton
 editor: Julia Rios
@@ -8,7 +8,10 @@ category: short story
 permalink: rab-the-giant
 published: false
 teaser: The lady looked him up and down and then sagged against the doorjamb, a look of infinite tiredness washing across her face. "Are you the giant of Glasgow? I was expecting more and, with the way things have been going, I won’t be surprised if I’ve got the wrong place."
-----
+art: rab-the-giant-versus-the-witch-of-the-waterfall.png
+caption: "A frazzled woman sits at a table, sipping from a cup of tea. She looks sleep deprived. A gigantic man sits across from her, idly looking at his tablet."
+artist: Marianne Khalil
+---
 
 Once upon a time there was a giant called Rab who lived in Glasgow and almost no one came to his door to kill him anymore. He had lived there since the time before legend, long before there even was a Glasgow, when giants and witches and kings and fairies and goblins fought, loved and tricked their way across the land. It was a time when you had to live on your wits and you could only survive by being clever enough to escape from the traps and tricks that you'll have heard about in other fairy stories. It was a time of hotheads and feuds but luckily for him Rab was a more thoughtful person who managed to survive, more by avoiding than outwitting or fighting. So it was that he kept living in Glasgow right up to the present day.
 This presented its own problems as time and the world moved on from those early, legendary, days. Such as when Rab’s house was scheduled to be knocked down to build a shipyard or when the local bishop declared him a devil. Here he could not avoid the issues and had to prove his cleverness, to out-think these more modern challenges. In the instance of the bishop he helped John Knox to foment the Reformation in Scotland and so got rid of the problem. The modern world was not his definition of perfect but he was happy, living in a spacious ground floor tenement flat just off Crow Road, in the once again upcoming West End of the city. For instance, Rab could no longer go hunting over the hills or fishing in the Clyde and instead had a job in a timber yard where his fellow workers knew him as 'Wee Rab' and his payslip said Robert Giant. He missed the space, but he liked the company.
@@ -60,7 +63,7 @@ Once upon a time there was a giant called Rab who lived in Glasgow and almost no
 "Hmm," the witch paused to think and took another bite. "This really is lovely cake by the way."
 Rab smiled. "Thanks, I do like making it."
 The witch finished off her cake. "No, I think I'll just have to fight you in the traditional way." She pushed her chair back and stood up, chanting ancient words under her breath that had not been heard in Glasgow for thousands of years. She closed her eyes and straightened up, holding out her arms and summoning all the power she knew to her. Shadows flowed out of the corners and swirled around her body, twisting impossibly around her torso and arms. The air crackled with power as the darkness writhed and danced. On the edge of hearing voices muttered in tongues that were ancient when the Picts fished in the Clyde. Winifred lifted her hands and swirled then in a complex pattern, drawing the shadows into a dark mass above her head. She opened her eyes, which now glowed with a sickly green tinge, and concentrated on the giant.
-As this was happening Rab stumbled backwards out of his chair, the hair on the back of his neck rising and his beard doubling in volume as energies he’d long since forgotten about filled his kitchen with ominous static. Falling against the worktop he saw his smartphone (actually a small tablet, but the right size for a giant’s phone) and grabbed it. Rab tapped an app icon and the light in the centre of the ceiling blazed into life. Abruptly the shadows vanished and the room returned to mundane normality. 
+As this was happening Rab stumbled backwards out of his chair, the hair on the back of his neck rising and his beard doubling in volume as energies he’d long since forgotten about filled his kitchen with ominous static. Falling against the worktop he saw his smartphone (actually a small tablet, but the right size for a giant’s phone) and grabbed it. Rab tapped an app icon and the light in the centre of the ceiling blazed into life. Abruptly the shadows vanished and the room returned to mundane normality.
 "What? How did you do that?" The witch looked around her and up at the electric lightbulb in the ceiling in confusion.
 "Oh, this, it's really quite nifty, working the lights from my phone. I thought the Internet of Things was a daft idea until one of the guys at the yard persuaded me to try it and now all the lights in the house are smart. Watch." Rab tapped several more icons on his phone and lights flashed on and off all across the flat.
 "But, but, you're a giant? Where did you learn such magic?"
@@ -74,7 +77,7 @@ Once upon a time there was a giant called Rab who lived in Glasgow and almost no
 “There, I’ve pinged her the basics. I’m sure she’ll call back when she’s free. More tea?”
 Winifred smiled a weary smile. “Thank you. I will take another cup. I’m not sure I believe you in all this but…” At this Winifred’s face suddenly slackened, her eyes drooped and she slumped forward, her head clonking on the table. Rab rushed forward and checked her. She was fast asleep.
 Rab’s phone gave off a soft chime. He picked it up and read the message:
-‘I’d completely forgotten all about Winnie. Of course I’m not upset at her anymore and I lift her curse. Tell her to give me a call and we’ll set up a meeting. 
+‘I’d completely forgotten all about Winnie. Of course I’m not upset at her anymore and I lift her curse. Tell her to give me a call and we’ll set up a meeting.
 Cheers,
 Callie’
 Rab carefully lifted up Winifred and carried her through to his spare room, laying her on top of the bed. She snored quietly before curling up into a ball.
@@ -84,4 +87,4 @@ Once upon a time there was a giant called Rab who lived in Glasgow and almost no
 
 Brian M. Milton is a short, tweed bound writer living in the wilds south of Glasgow. He splits his time between running away from bees, writing up daft ideas and trying to work for a living. He is a member of the Glasgow Science Fiction Writers Circle and has many bruises to show for their robust critiquing methods.
 
-He has also been published in anthologies such as _Thirty Years of Rain_ and _Caledonia Dreamin’_ as well as the magazine _KZine_ and can be found shouting at things on the internet as [@munchkinstein](https://twitter.com/munchkinstein)
+He has also been published in anthologies such as _Thirty Years of Rain_ and _Caledonia Dreamin’_ as well as the magazine _KZine_ and can be found shouting at things on the internet as [@munchkinstein](https://twitter.com/munchkinstein)
