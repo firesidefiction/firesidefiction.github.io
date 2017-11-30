@@ -7,13 +7,13 @@ date: 2017-12-19 00:00:01 -0500
 category: flash fiction
 permalink: the-gingerbread-pox
 published: false
-teaser: "I'm the Gingerbread Pox!" the cloud announced, all abuzz, as it hovered before its latest target. “You can't avoid catching me!"
+teaser: "“I'm the Gingerbread Pox!” the cloud announced, all abuzz, as it hovered before its latest target. “You can't avoid catching me!”"
 ---
 A swirl of oven-warm crumbs composed the cloud, spicy and pungent. In their coordinated roiling, they took on the vague contours of a man.
 
 “I'm the Gingerbread Pox!” the cloud announced, all abuzz, as it hovered before its latest target. “You can't avoid catching me!
 
-“I've destroyed a Fairy Godmother, and an Emperor who had no clothes, and an old woman and her seventeen children, all living in a shoe! And seven dwarfs, and a peasant girl in a pumpkin coach, and a grandmother and her granddaughter, dressed in a red cloak! And three little pigs, and three blind mice, and an evil witch, and a Big Bad Wolf! 
+“I've destroyed a Fairy Godmother, and an Emperor who had no clothes, and an old woman and her seventeen children, all living in a shoe! And seven dwarfs, and a peasant girl in a pumpkin coach, and a grandmother and her granddaughter, dressed in a red cloak! And three little pigs, and three blind mice, and an evil witch, and a Big Bad Wolf!
 
 “And I'll destroy you too!”
 

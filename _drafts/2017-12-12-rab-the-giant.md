@@ -1,11 +1,11 @@
 ---
 layout: story
-title: Rab the Giant versus the Wich of the Waterfall
+title: Rab the Giant versus the Witch of the Waterfall
 author: Brian M. Milton
 editor: Julia Rios
 date: 2017-12-12 00:00:01 -0500
 category: short story
-permalink: rab-the-giant
+permalink: rab-the-giant-versus-the-witch-of-the-waterfall
 published: false
 teaser: "The lady looked him up and down and then sagged against the doorjamb, a look of infinite tiredness washing across her face. 'Are you the giant of Glasgow? I was expecting more and, with the way things have been going, I won’t be surprised if I've got the wrong place.'"
 art: rab-the-giant-versus-the-witch-of-the-waterfall.png
