@@ -401,6 +401,9 @@ permalink: /authors
 
 — [_Three Laws_](/three-laws)
 
+### Vina Jie-Min Prasad
+— [_Portrait of Skull with Man_](/portrait-of-skull-with-man)
+
 ### Katie Pugh
 — [_Reborn_](/issue12/chapter/27/)
 
@@ -422,6 +425,9 @@ permalink: /authors
 — [_The Eleventh Hour_](/issue25/chapter/the-eleventh-hour/)
 
 — [_In Memoriam: Lady Fantastic_](/issue35/chapter/27/)
+
+### Eden Royce
+— [_A Cure for Ghosts_](/a-cure-for-ghosts)
 
 ### Robert Lowell Russell
 — [_Twenty Parsecs East of the Earth Bypass, Closed on Sundays_](/issue18/chapter/twenty-parsecs-east-of-the-earth-bypass-closed-on-sundays/)
@@ -455,7 +461,6 @@ permalink: /authors
 ### Effie Seiberg
 — [_Re: Little Miss Apocalypse Playset_](/issue30/chapter/re-little-miss-apocalypse-playset/)
 
-
 ### Cherrelle Shelton
 — [_Banshee_](/banshee)
 
@@ -484,6 +489,9 @@ permalink: /authors
 
 ### Alexandre Stone
 — [_The Work_](/issue16/chapter/the-work/)
+
+### Hayley Stone
+— [_Caesura_](/caesura)
 
 ### R.D. Sullivan
 — [_Skinned Knees_](/issue6/chapter/skinned-knees/)
@@ -522,6 +530,9 @@ permalink: /authors
 — [_Emerald Lakes, an Atlanta Burns story_](/issue1/chapter/emerald-lakes/)
 
 — [_The Forever Endeavor: A Serial_](/issue4/chapter/the-forever-endeavor-part-one/)
+
+### Stu West
+— [_The Scenarist_](/the-scenarist)
 
 ### Troy L. Wiggins
 — [_Black Like Them_](/issue38/chapter/25/)
