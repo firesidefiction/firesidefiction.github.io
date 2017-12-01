@@ -6,7 +6,7 @@ date: 2017-12-01 01:01:00 -0500
 category: news
 permalink: /september2017-submissions-results
 teaser: "We were open to flash and short story submissions of up to 4,000 words. We received 1,022 submissions and accepted 26."
-published: false
+published: true
 ---
 
 In September we had our first reading period in which I was acting as the Fiction Editor instead of Brian J. White. We were open to flash and short story submissions of up to 4,000 words. We received 1,022 submissions and accepted 26, an acceptance rate of about 2.5 percent. This is likely a lot higher than our acceptance rate will be in future reading periods, but for various reasons, I went a little wild this time.
