@@ -174,8 +174,7 @@ And now! Here are the stories we bought from September:
             name="Kendra Sims"
             story="Mirrors in the Valley"
             url="http://edenroyce.com"
-            bio="Eden Royce is the recipient of the Speculative Literature Foundation’s Diverse Worlds grant and a regular contributor to Graveyard Shift Sisters. Her fiction has appeared in _FIYAH Literary Magazine of Black Speculative Fiction_ and on _PodCastle_. She is the author of the short story collection, _Spook Lights: Southern Gothic Horror_.
-            You can find her work on [www.edenroyce.com](http://edenroyce.com) and her tweets [@edenroyce.](https://twitter.com/edenroyce)"
+            bio="Kendra Sims pursues a PhD in Epidemiology, in order to craft data-driven narratives. When the realities of research don't satisfy her musings on race, mental health, and disability, she turns to fiction. Cross her palm with a cup of tea, and she just might read your Tarot cards. "
             img="kendra-sims.jpg"
             %}
 
