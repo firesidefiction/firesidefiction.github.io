@@ -173,7 +173,7 @@ And now! Here are the stories we bought from September:
 {% include author.html
             name="Kendra Sims"
             story="Mirrors in the Valley"
-            url="http://edenroyce.com"
+            url=""
             bio="Kendra Sims pursues a PhD in Epidemiology, in order to craft data-driven narratives. When the realities of research don't satisfy her musings on race, mental health, and disability, she turns to fiction. Cross her palm with a cup of tea, and she just might read your Tarot cards. "
             img="kendra-sims.jpg"
             %}
