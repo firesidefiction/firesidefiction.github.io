@@ -12,7 +12,9 @@ permalink: /the-fisher-of-bones/chapter-eight-anticipation
 next-url: /the-fisher-of-bones/chapter-nine-sundering
 teaser: "My bones ached and spread as we crossed into the grassy flatlands, but I did not stop walking."
 published: true
-author-bio: "Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey)."
+author-img: sarah-gailey.jpg
+author-bio: |
+  Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey).
 ---
 
 My bones ached and spread as we crossed into the grassy flatlands, but I did not stop walking. I set my feet into the red-brown half-moon footprints that Naomi left on the earth in front of me, feeling almost at home in the soft sadness of missing my own monthly blood.

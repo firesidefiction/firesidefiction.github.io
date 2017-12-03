@@ -12,7 +12,9 @@ permalink: /the-fisher-of-bones/chapter-nine-sundering
 next-url: /book/the-fisher-of-bones
 teaser: "The tablets foretold the shadow that passed over the moon on the day of my daughter’s birth."
 published: true
-author-bio: "Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey)."
+author-img: sarah-gailey.jpg
+author-bio: |
+  Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey).
 ---
 
 The tablets foretold the shadow that passed over the moon on the day of my daughter’s birth.

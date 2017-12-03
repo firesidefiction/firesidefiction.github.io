@@ -12,7 +12,9 @@ permalink: /the-fisher-of-bones/chapter-two-cycle
 next-url: /the-fisher-of-bones/chapter-three-increase
 teaser: "The Gods Whispers woke me in the night."
 published: true
-author-bio: "Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey)."
+author-img: sarah-gailey.jpg
+author-bio: |
+  Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey).
 ---
 
 The Gods Whispers woke me in the night. My eyes opened and at first I grabbed for Marc, but I stopped myself before my hand could land on my sleeping husband’s bare chest. My palm hovered over his heart, just above the thick carpet of blonde hair that stretched between his nipples and his navel.

@@ -12,7 +12,9 @@ permalink: /the-fisher-of-bones/chapter-ten-nearness
 next-url: /book/the-fisher-of-bones
 teaser: "Ducky had just finally fallen asleep when the rear flap of canvas on the back of my wagon snapped open."
 published: false
-author-bio: "Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey)."
+author-img: sarah-gailey.jpg
+author-bio: |
+  Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey).
 ---
 
 Ducky had just finally fallen asleep when the rear flap of canvas on the back of my wagon snapped open.
@@ -99,4 +101,4 @@ I breathed heavily through my nose. “Shit,” I spat. “Shit.”
 
 The Gods’ own stillness settled over me like a mantle. I walked over to him, rested my hand on his shoulder. “Of course, my son,” I said, my voice heavy with comfort and authority. The buzzard that had been circling overhead landed heavily behind me, having finally decided that I wasn’t a threat. As it began tearing the flesh off one of the faces that rested in the line on the ground, I prayed to the Gods for mercy, comfort, and peace. Under my hand, Hino’s shoulders shuddered.
 
-In the distance, I heard the oncoming rumble of our wagon train, catching up to us at last.</p>
+In the distance, I heard the oncoming rumble of our wagon train, catching up to us at last.

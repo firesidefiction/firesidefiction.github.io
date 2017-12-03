@@ -8,6 +8,8 @@ category: flash fiction
 permalink: a-rabbit-egg-for-flora
 published: false
 teaser: "Flora stares at the egg, her finger poised over the button that will initiate the hatching sequence. 'It's probably an elephant.' "
+author-bio: |
+  Caroline M. Yoachim lives in Seattle and loves cold cloudy weather. She is the author of dozens of short stories, appearing in _Fantasy & Science Fiction_, _Clarkesworld_, _simov’s_, and _Lightspeed_, among other places. Her debut short story collection, _Seven Wonders of a Once and Future World & Other Stories_, came out with Fairwood Press in August 2016. For more about Caroline, check out her website at [carolineyoachim.com](http://carolineyoachim.com/).
 ---
 The back door is tinged purple when I go out to throw my morning coffee grounds onto the compost heap. A faint rainbow tints the yard in concentric circles, progressing from purple through all the other colors before ending in a large red dot in the middle of the — admittedly rather weedy — vegetable patch that Flora had planted with her other mum, back before Kalida moved out.
 
@@ -39,7 +41,7 @@ The nanites shape the pile of raw materials into a black snake with lime green s
 
 “We‘ll see.“ I‘ve been working on the requirements for bunnies for months, trying to repopulate our yard and several nearby parks with the plants and animals required to sustain them. It was supposed to be a present for Flora‘s fourth birthday, but Menagerie is a slow-playing game, and the neighbors inadvertently thwarted my efforts by introducing squirrels, which occupy a similar niche. “Go inside and get dressed, it‘s almost time for school.“
 
----- 
+----
 
 After work I hurry down the street, ignoring all the egg-rainbow overlays. My boss kept me late and stopping for eggs isn‘t worth the two dollars per minute the preschool will charge me if I miss my pick-up time. I chat with a Filipina lawyer on an online dating site while I walk, but the conversation fizzles out before I reach the school. I make it just on time.
 
@@ -75,7 +77,7 @@ The nanites begin building. The creature is definitely a bird, and a large one a
 
 “It‘s a hawk,“ the dark-haired boy says, “and about time. Something needs to eat some squirrels.“
 
----- 
+----
 
 “Can I see your badges, Mama?“ Flora asks. It‘s Saturday morning, and we‘ve just finished our pancakes.
 
@@ -91,7 +93,7 @@ We walk to the hardware store and return with a bag of clover seed. We find a go
 
 “It‘ll take longer than a day for the clover to grow,“ I warn her, but I hope it grows quickly. The sooner we get our yard set up for rabbits, the smaller the chance that someone will introduce chipmunks or some new species of mouse.
 
----- 
+----
 
 Someone _does_ introduce mice, and after we recover from that there‘s a glitch where the drones stop delivering eggs for a few days. I start to worry that by the time we earn our rabbit, Flora will be bored with bunnies and onto something new, but she still carries Pink Bunny everywhere she goes.
 
@@ -116,9 +118,3 @@ She pushes the button, and I hold my breath, waiting. The nanites do their work.
 I laugh. We‘ll never have elephants here, but if the game runs long enough, someone _somewhere_ might manage to earn one, and maybe I can take Flora on a grand adventure to go see it. We can plan and save for a dream vacation to Africa, much as we‘d worked to earn our rabbit. In the meantime, we‘ll need a more realistic goal. “How about a bluejay?“
 
 “Blue is my favorite color,“ Flora announces. I take her hand and we go inside, already plotting how to get our next animal.
-
-#### About the author
-
-Caroline M. Yoachim lives in Seattle and loves cold cloudy weather. She is the author of dozens of short stories, appearing in Fantasy & Science Fiction, Clarkesworld, Asimov’s, and Lightspeed, among other places. Her debut short story collection, Seven Wonders of a Once and Future World & Other Stories, came out with Fairwood Press in August 2016. For more about Caroline, check out her website at [carolineyoachim.com][1].
-
-[1]:	http://carolineyoachim.com/

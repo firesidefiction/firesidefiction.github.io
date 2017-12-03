@@ -11,6 +11,11 @@ teaser: "The lady looked him up and down and then sagged against the doorjamb, a
 art: rab-the-giant-versus-the-witch-of-the-waterfall.png
 caption: "A frazzled woman sits at a table, sipping from a cup of tea. She looks sleep-deprived. A gigantic man sits across from her, idly looking at his tablet."
 artist: Marianne Khalil
+author-img: brian-m-milton.jpg
+author-bio: |
+  Brian M. Milton is a short, tweed-bound writer living in the wilds south of Glasgow. He splits his time between running away from bees, writing up daft ideas, and trying to work for a living. He is a member of the Glasgow Science Fiction Writers Circle and has many bruises to show for their robust critiquing methods.
+
+  He has also been published in anthologies such as _Thirty Years of Rain_ and _Caledonia Dreamin’_ as well as the magazine _KZine_ and can be found shouting at things on the internet as [@munchkinstein](https://twitter.com/munchkinstein)
 ---
 
 Once upon a time there was a giant called Rab who lived in Glasgow and almost no one came to his door to kill him anymore. He had lived there since the time before legend, long before there even was a Glasgow, when giants and witches and kings and fairies and goblins fought, loved, and tricked their way across the land. It was a time when you had to live on your wits and you could only survive by being clever enough to escape from the traps and tricks that you‘ll have heard about in other fairy stories. It was a time of hotheads and feuds but luckily for him Rab was a more thoughtful person who managed to survive, more by avoiding than outwitting or fighting. So it was that he kept living in Glasgow right up to the present day.
@@ -150,12 +155,3 @@ Callie”
 Rab carefully lifted up Winifred and carried her through to his spare room, laying her on top of the bed. She snored quietly before curling up into a ball.
 
 “You better not sleep for three thousand years now.” He went to put the kettle back on.
-
-
-#### About the author
-
-Brian M. Milton is a short, tweed-bound writer living in the wilds south of Glasgow. He splits his time between running away from bees, writing up daft ideas, and trying to work for a living. He is a member of the Glasgow Science Fiction Writers Circle and has many bruises to show for their robust critiquing methods.
-
-He has also been published in anthologies such as _Thirty Years of Rain_ and _Caledonia Dreamin’_ as well as the magazine _KZine_ and can be found shouting at things on the internet as [@munchkinstein][1]
-
-[1]:	https://twitter.com/munchkinstein

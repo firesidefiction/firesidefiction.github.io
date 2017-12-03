@@ -49,8 +49,13 @@ article {
 }
 
 .fiction {
-	text-indent: $space*1.5;
-	margin-bottom: $space/3;
+	p {
+		text-indent: $space*1.5;
+		margin-bottom: $space/3;
+	}
+	.story-header p {
+		text-indent: 0;
+	}
 }
 
 /* Blockquote */

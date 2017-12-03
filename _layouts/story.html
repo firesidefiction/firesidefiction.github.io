@@ -17,7 +17,26 @@ layout: default
 
   <div class="content story-body">
     {{ content }}
+    {% if page.author-bio %}
+    <h4 class="about-the-author">About the author</h4>
+    <div class="author-info">
+      {% if page.author-img %}
+      <figure class="author-image">
+        <img src="/images/authors/{{ page.author-img }}" alt="{{ page.author }}"/>
+      </figure>
+      {% endif %}
+      <div class="author-bio">
+        <p>{{ page.author-bio | markdownify }}</p>
+      </div>
+    </div>
+    {% endif %}
     <h5>© {{ page.date | date: "%Y" }} {{ page.author }}</h5>
   </div>
 
+
 </article>
+
+
+<div class="author-info">
+
+</div>

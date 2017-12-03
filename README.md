@@ -146,6 +146,18 @@ The `previous-url` parameter tells Jekyll the URL of the last episode of the ser
 ##### `next-url`
 The `next-url` parameter tells Jekyll the URL of the next episode of the serial, so that Jekyll can build proper navigation.
 
+#### Author bios and pics
+
+Author bios can either be addedd to the end of a Markdown file (see below), or can be added directly into the front matter. Author images can also be added to each post via front matter.
+
+##### `author-img: : author-name.jpg`
+The `author-img` parameter is **optional**. It tells Jekyll the file name of an auhtor's picture.
+This parameter takes a filename, which should be the same as the author name, but all lower-case and with dashes instead of spaces, like `sarah-gailey.jpg`. It must include the file extension (.jpg, for instance).
+
+##### `author-bio`
+The `author-bio` parameter is **optional**. It should be the latest version of the Auhtor Bio from Airtable.
+This parameter allows free-form text and markdown syntax. In order for all characters to read properly, the text of the title *must* be placed after a pipe (`|`), and indented one space. Add an extra space between paragraphs.
+
 ## Content
 The content section is where the, um, content of the piece goes. This is where we use markdown notation to format the text according to its meaning (rather than according to its visual style). We'll use the following conventions and notation for writing markdown for Fireside:
 - use single underscores or asterisks for *emphasis*

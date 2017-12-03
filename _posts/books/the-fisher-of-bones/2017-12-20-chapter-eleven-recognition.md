@@ -12,7 +12,9 @@ permalink: /the-fisher-of-bones/chapter-eleven-recognition
 next-url: /book/the-fisher-of-bones
 teaser: "I stared at the chest that contained the tablets. I couldn’t tear my eyes away from the water that rested in the divot on top of the chest."
 published: false
-author-bio: "Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey)."
+author-img: sarah-gailey.jpg
+author-bio: |
+  Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey).
 ---
 
 I stared at the chest that contained the tablets. I couldn’t tear my eyes away from the water that rested in the divot on top of the chest. The sacred water — the Gods tears, shed for their sadness in missing their children. The divot was carved into the wood, deep and narrow. Salt crystals filmed the edges of the divot, white and patchy, interrupted only by a single dark smear of blood.

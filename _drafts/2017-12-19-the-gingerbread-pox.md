@@ -8,6 +8,8 @@ category: flash fiction
 permalink: the-gingerbread-pox
 published: false
 teaser: "“I'm the Gingerbread Pox!” the cloud announced, all abuzz, as it hovered before its latest target. “You can't avoid catching me!”"
+author-bio: |
+  Rachel Rodman is a writer and a biology teacher, living in the western portion of what remains of the Mesozoic continent of Laurasia. Her fiction has appeared in _Daily Science Fiction_, _Grievous Angel_, _The Future Fire_, _The Journal of Compressed Creative Arts_, and elsewhere. You can link to more of her writing: fiction, non-fiction, and somewhere-in-between, at her website, [www.rachelrodman.com](http://www.rachelrodman.com).
 ---
 A swirl of oven-warm crumbs composed the cloud, spicy and pungent. In their coordinated roiling, they took on the vague contours of a man.
 
@@ -26,9 +28,3 @@ With a casual motion — whose meaning went unnoticed — he brushed a paw again
 “I can't quite hear you,” the fox said, shaking his head. At the spicy smell of gingerbread, he secretly salivated; on the inside, too, his immune cells thrummed, waiting to assist with the digestion.
 
 “Do come closer,” he invited.
-
-#### About the author
-
-Rachel Rodman is a writer and a biology teacher, living in the western portion of what remains of the Mesozoic continent of Laurasia. Her fiction has appeared in _Daily Science Fiction_, _Grievous Angel_, _The Future Fire_, _The Journal of Compressed Creative Arts_, and elsewhere. You can link to more of her writing: fiction, non-fiction, and somewhere-in-between, at her website, [www.rachelrodman.com][1].
-
-[1]:	http://www.rachelrodman.com
