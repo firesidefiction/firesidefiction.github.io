@@ -95,7 +95,7 @@ And now! Here are the stories we bought from September:
             story="The Finger"
             url="http://www.aprilcatherinegrant.com"
             bio="April lives near Boston, and writes stories, poems, and songs. She has published poetry in _Strange Horizons_ and _Mythic Delirium_, and in the anthology _The Moment of Change_ (2012). Her other interests include traditional music, contra dancing, biking, container gardening, and appreciating actors from classic horror movies."
-            omg="april-grant.jpg"
+            img="april-grant.jpg"
             %}
 
 {% include author.html
