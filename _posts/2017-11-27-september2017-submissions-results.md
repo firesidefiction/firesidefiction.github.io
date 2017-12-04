@@ -103,7 +103,7 @@ And now! Here are the stories we bought from September:
             story="Two Years Dead"
             url="https://katykreation.wordpress.com"
             bio="Kathryn Kania is a writer and librarian living in New England. When not thinking about mythological beings, storytelling, or food, Kathryn enjoys swing dancing and walking amongst trees."
-            omg="kathryn-kania.jpg"
+            img="kathryn-kania.jpg"
             %}
 
 {% include author.html
