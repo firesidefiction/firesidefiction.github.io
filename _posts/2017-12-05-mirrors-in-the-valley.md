@@ -3,10 +3,10 @@ layout: story
 title: Mirrors in the Valley
 author: Kendra Sims
 editor: Julia Rios
-date: 2017-12-05 00:00:01 -0500
+date: 2017-12-05 01:00:01 -0500
 category: flash fiction
 permalink: mirrors-in-the-valley
-published: false
+published: true
 teaser: "'Kali,' he murmurs into the prototype’s ear, 'remember when I almost went to prison? This nice woman wants us to tell your story.'"
 author-img: kendra-sims.jpg
 author-bio: |
