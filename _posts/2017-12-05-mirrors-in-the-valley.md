@@ -52,7 +52,7 @@ He says, “In his testimony, Khion acted like we just updated a housekeeping ro
 
 ----
 
-Since Kali receives intravenous fuel, she just has to clear just two dinner plates. Braithwaite presses her against the sink. A few seconds of moving together, and she says brightly, “This is dancing!”
+Since Kali receives intravenous fuel, she has to clear just two dinner plates. Braithwaite presses her against the sink. A few seconds of moving together, and she says brightly, “This is dancing!”
 
 Complicated algorithms cue her every smile, smirk, and scowl. But what really separates her from the civilian ordinance androids Brathwaite developed for the Commonwealth of Massachusetts is her spontaneity. She might exclaim at a new blossom on the lily he keeps by the window. Or she might not.
 
@@ -70,7 +70,7 @@ While drying the plates, the prototype says, “In Trinidad as well as India, fe
 
 The R.Plica resembles a microwave roomy enough for a person. The Synthalmus laboratory, a few floors beneath the penthouse, has 20 of these 3D printers running in sync.
 
-And the custom-built Blu.Print can only be described as an electronic sarcophagus. It feeds instructions to R.Plicas, based on MRI scans and genetic mapping. Kali, lying on a nearby nearby, has a translucent sheet draped over her. It just emphasizes her nakedness.
+And the custom-built Blu.Print can only be described as an electronic sarcophagus. It feeds instructions to R.Plicas, based on MRI scans and genetic mapping. Kali, lying on a table nearby, has a translucent sheet draped over her. It just emphasizes her nakedness.
 
 “What’s your favorite story of the goddess?” Braithwaite asks her.
 
@@ -82,7 +82,7 @@ Braithwaite keeps his fingers intertwined with hers as the gurney drifts toward 
 
 This comes almost word for word from an entry from his lecture series. Each segment lasts about an hour, accompanied by schematics and a hundred pages of code. His theories and progress, disseminated on open access sites, have been translated into twenty languages. These lectures were the most damning evidence against him.
 
-“My defense claimed that we can only projecting humanity onto Kali,” he says. “But even if how we perceive her comes down to the mirror neurons in our own parietal lobes, we must concede this: she’s sufficiently polished to facilitate this reflection, and gain our empathy. Her origin notwithstanding, Kali’s intelligence is real.”
+“My defense claimed that we can only project humanity onto Kali,” he says. “But even if how we perceive her comes down to the mirror neurons in our own parietal lobes, we must concede this: she’s sufficiently polished to facilitate this reflection, and gain our empathy. Her origin notwithstanding, Kali’s intelligence is real.”
 
 Each 3D printer has clear walls, revealing needles that weave stem cells. The mesh frame inside structures the material’s growth, then provides energy for fast-forwarded cell division. Every few hours, the culture outgrows its petri dish. Mechanic arms gently transfer the material to bigger containers.
 
