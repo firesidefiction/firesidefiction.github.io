@@ -9,7 +9,7 @@ serial-url: /book/the-fisher-of-bones
 part: 9
 previous-url: /the-fisher-of-bones/chapter-eight-anticipation
 permalink: /the-fisher-of-bones/chapter-nine-sundering
-next-url: /book/the-fisher-of-bones
+next-url:  /the-fisher-of-bones/chapter-ten-nearness
 teaser: "The tablets foretold the shadow that passed over the moon on the day of my daughter’s birth."
 published: true
 author-img: sarah-gailey.jpg

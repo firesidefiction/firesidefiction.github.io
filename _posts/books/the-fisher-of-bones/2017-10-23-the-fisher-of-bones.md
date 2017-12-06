@@ -47,7 +47,7 @@ Chapter Eight — [_Anticipation_](/the-fisher-of-bones/chapter-eight-anticipati
 
 Chapter Nine — [_Sundering_](/the-fisher-of-bones/chapter-nine-sundering)
 
-Chapter Ten — _Nearness_
+Chapter Ten — [_Nearness_](/the-fisher-of-bones/chapter-ten-nearness)
 
 Chapter Eleven — _Recognition_
 
