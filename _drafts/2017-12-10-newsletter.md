@@ -1,0 +1,6 @@
+Hello everybody!
+This week we published [_Mirrors in the Valley_](https://firesidefiction.com/mirrors-in-the-valley), a flash piece by Kendra Sims that explores the nature of consciousness, subservience, and Silicon Valley hubris.
+We also published part ten of Sarah Gailey’s Serial, _The Fisher of Bones_. We’re getting close to the end, and shit is getting real, as they say. This week, Fisher’s band finally catches up to the renegades who abandoned them a few episodes back. Remember, if you want to finish up the story before we post it all, you can buy [the ebook or paperback editions](https://firesidefiction.com/book/the-fisher-of-bones) on our site.
+Thanks to everyone who has sent comics down to Puerto Rico after my request last week. You know who you are, and you’re pretty awesome humans. 
+It’s December, and as the year winds down, our preparations for 2018 wind up — we’ve got big, big plans for Fireside in the new year, and we can’t wait to share them with you. In the meantime, we’re cranking away at the accepted stories form our last reading period. Acceptance notices are going out, and authors have started tweeting their excitement. Once everyone has been notified, and they; e all signed their contracts, we’ll make an announcement post. 
+As always, thanks for reading.
