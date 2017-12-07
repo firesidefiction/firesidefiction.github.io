@@ -85,6 +85,27 @@ footer {
 	}
 }
 
+.support-buttons {
+	@media all and (min-width: $bp-small-3) {
+		display: flex;
+	}
+	div {
+		flex-basis: 50%;
+		margin-right: 1em;
+	}
+	form {
+		flex-basis: 50%;
+		@media all and (min-width: $bp-small-3) {
+			margin-left: 1em;
+		}
+		td {
+			padding: 0;
+		}
+		select {
+			width: 100%;
+		}
+	}
+}
 
 .legal {
 	text-align: center;
