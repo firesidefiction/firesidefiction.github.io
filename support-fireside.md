@@ -15,6 +15,9 @@ permalink: /memberful-test/
 <a href="https://firesidefiction.memberful.com/checkout?plan=25780">Fireside Patron: $20.00 per month</a>
 
 Visa: 4242 4242 4242 4242
+
 Mastercard: 5555 5555 5555 4444
+
 American Express: 3782 822463 10005
+
 Use any future Expiration Date, Name on card, CVC, and Billing Zip in test mode.
