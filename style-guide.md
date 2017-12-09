@@ -4,6 +4,8 @@ title: Style Guide
 permalink: /blink-blink-no-style-guide-to-see-here/
 ---
 
+<a href="https://firesidefiction.memberful.com/checkout?plan=25778">Buy Sample Plan for $25/month.</a>
+
 Oh, look! Fireside has a damned style guide!
 
 *General*
