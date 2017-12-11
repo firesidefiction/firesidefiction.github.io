@@ -5,7 +5,7 @@ permalink: legal/story-contract-boilerplate
 ---
 > _This is the text of the standard contract that Fireside uses for its fiction, available for reference. While this is our starting point, individual contracts may differ, depending on the particular terms reached with each author._
 
-> _This Agreement was last updated on September 19, 2017._
+> _This Agreement was last updated on December 11, 2017._
 
 ## Summary
 
@@ -29,7 +29,7 @@ Payment will be made via the Author's preferred payment method, within reason. F
 
 ## Copyrights and Usage
 
-The Author grants to Fireside non-exclusive, non-assignable, and non-transferrable first-world English-language rights to publish the Story on the Fireside Magazine website and in ebook editions of Fireside Magazine.
+The Author grants to Fireside non-exclusive, non-assignable, and non-transferrable first-world English-language rights to publish the Story on the Fireside Magazine website and in print and ebook editions of Fireside Magazine.
 
 The Author also grants to Fireside rights to republish the Story in any anthology of stories that have previously appeared in Fireside Magazine, whether in print or ebook editions, within twenty-four (24) months of the Work’s publication in Fireside Magazine.
 
