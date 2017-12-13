@@ -13,7 +13,7 @@ GEM
       execjs
     coffee-script-source (1.11.1)
     colorator (1.1.0)
-    commonmarker (0.17.7)
+    commonmarker (0.17.7.1)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.0.5)
     ethon (0.11.0)
@@ -200,7 +200,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
-    pathutil (0.16.0)
+    pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
     rb-fsevent (0.10.2)
