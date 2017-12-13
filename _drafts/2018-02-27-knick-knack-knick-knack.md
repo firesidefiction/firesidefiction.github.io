@@ -6,7 +6,7 @@ date: 2018-02-27 00:00:01 -0500
 category: flash fiction
 permalink: knick-knack-knick-knack
 published: false
-teaser: “‘Idara, you are not a witch, okay?!’ Mama said. ‘You are a kind and sweet little girl and when I’m done with you, you will be a strong, independent woman,’ she told me.”
+teaser: “Your mother’s house is a bit of a burden now, all rattletraps and dust, tucked between the oaks and Spanish moss. You are tasked with emptying out this old witch’s hut.”
 author-img: holly-lyn-walrath.jpg
 author-bio: |
 Holly Lyn Walrath is a writer of poetry and short fiction. Her work has appeared or is forthcoming in _Strange Horizons_, _Crab Fat Magazine_, _Mithila Review_, _Luna Station Quarterly_, and elsewhere. She is a freelance editor and volunteer with Writespace literary center in Houston, Texas. Find her on Twitter [@HollyLynWalrath](https://twitter.com/HollyLynWalrath) or at [www.hlwalrath.com](http://www.hlwalrath.com/)  
