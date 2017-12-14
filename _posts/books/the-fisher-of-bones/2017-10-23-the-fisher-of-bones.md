@@ -11,7 +11,7 @@ serial-parts: 12
 cover: the-fisher-of-bones-cover-image.jpg
 amazon: https://www.amazon.com/dp/B075PGX6YJ/ref=sr_1_2?ie=UTF8&qid=1505916410&sr=8-2&keywords=the+fisher+of+bones
 ibooks: https://itunes.apple.com/us/book/the-fisher-of-bones/id1285805171?ls=1&mt=11
-kobo:
+kobo: https://www.kobo.com/us/en/ebook/the-fisher-of-bones
 nook:
 goodreads: https://www.goodreads.com/book/show/36292847-the-fisher-of-bones
 printbook:
