@@ -1,3 +1,5 @@
+---
+layout: story
 title: Iyanuoluwa-Mercy of God
 author: Jojo Bee
 editor: Julia Rios
@@ -8,8 +10,8 @@ published: false
 teaser: “When the blue-eyed devil first led me to the ship, I thought it was for a better life. The village chief told me it was an honor. He said it would be good for me to go and wouldn’t I like to explore?”
 author-img: jojo-bee.jpg
 author-bio: |
-As a child Jojo was a wild thing who spent her time climbing trees, playing with animals, and dreaming up adventure. She now spends her time playing roller derby, cuddling her three pets... and dreaming up adventure. She believes representation matters and strives to portray vivid and complex characters, as colorful as her imagination.  
-----
+  As a child Jojo was a wild thing who spent her time climbing trees, playing with animals, and dreaming up adventure. She now spends her time playing roller derby, cuddling her three pets... and dreaming up adventure. She believes representation matters and strives to portray vivid and complex characters, as colorful as her imagination.  
+---
 
 One day a blue-eyed devil came and took me away.
 
