@@ -9,7 +9,7 @@ serial-url: /book/the-fisher-of-bones
 part: 7
 previous-url: /the-fisher-of-bones/chapter-six-discovery
 permalink: /the-fisher-of-bones/chapter-seven-storm
-next-url: /book/the-fisher-of-bones/chapter-eight-anticipation
+next-url: /the-fisher-of-bones/chapter-eight-anticipation
 teaser: "What happened to Marc was my fault."
 published: true
 author-img: sarah-gailey.jpg
