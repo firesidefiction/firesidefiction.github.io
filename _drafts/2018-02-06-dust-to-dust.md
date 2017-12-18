@@ -1,4 +1,5 @@
-layout:story
+---
+layout: story
 title: Dust to Dust
 author: Mary Robinette Kowal
 editor: Julia Rios
@@ -9,8 +10,8 @@ published: false
 teaser: “Lloyd bent down and kissed her on the nape of her neck, smelling the cherry wood and bird-of-paradise dust he'd mixed for her. Her skin was warm and tender beneath his lips. All was well.”
 author-img: mary-robinette-kowal.jpg
 author-bio: |
-Mary Robinette Kowal is the author of historical fantasy novels: _Ghost Talkers_, and The Glamourist Histories series. She is also a three time Hugo Award winner. Her short fiction appears in _Uncanny_, _Tor.com_, and _Asimov’s_. Mary, a professional puppeteer, lives in Chicago. Visit her online at [maryrobinettekowal.com](http://maryrobinettekowal.com).  
-----
+  Mary Robinette Kowal is the author of historical fantasy novels: _Ghost Talkers_, and The Glamourist Histories series. She is also a three time Hugo Award winner. Her short fiction appears in _Uncanny_, _Tor.com_, and _Asimov’s_. Mary, a professional puppeteer, lives in Chicago. Visit her online at [maryrobinettekowal.com](http://maryrobinettekowal.com).  
+---
 
 The mudroom got darn hot in the summer, but he couldn't risk doing magic inside the house. It got into the air conditioning and caused all kinds of trouble. Some magics he'd chance, but the Lord knew he didn't want anything interfering with Edna's health.
 Lloyd took a swig of his iced tea and let the tart liquid wash some of the dust out of his mouth. Wiping his lips off with the back of his tanned arm, he set the glass down in its ring of condensation on the linoleum tabletop. Sweat trickled down the back of his neck. Sure could use some rain to break the heat. So long as Edna and the kids didn't get caught in it.
@@ -20,17 +21,17 @@ The mudroom got darn hot in the summer, but he couldn't risk doing magic inside 
 Edna knocked on the glass pane set in the door. Lloyd shook his head and kept cranking. He could just imagine her, popping her gum in the kitchen, waiting for him to finish so she could come in without stirring up the dust. The children weren't always so good about that, particularly Luther. That boy wouldn't know how to slow down if you tied him to a tree.
 When he'd ground the last of the feathers, Lloyd draped a damp cloth on the bowl of dust and straightened, his back protesting from how long he'd been hunched over. He picked up his iced tea and carried into the kitchen. The air-conditioner hummed and blasted out a steady stream of cool air. It was almost cold after the mudroom
 Lloyd had a little bit of a love-hate relationship with the air-conditioner. He would grant that it was convenient. With it, Edna didn’t have to ask him to grind up the stream-smoothed stone, fern, and willow bark that made up a cooling spell.
-That convenience had also put him out of a job, though. Once, big department stores like Loveman’s had employed men like him as cooling and heating pulvesters. But mechanical contraptions didn’t require a pension. 
+That convenience had also put him out of a job, though. Once, big department stores like Loveman’s had employed men like him as cooling and heating pulvesters. But mechanical contraptions didn’t require a pension.
 Edna sat at the round, oak table she'd inherited from her grandma and flipped through the pages of a seed catalog. The rest of the day's mail sat on the table in front of her. He gave her a quick once over to make sure her powder was holding.
 Her plump cheeks had a healthy pink glow, and a delicate blue vein throbbed at her temple. Lloyd bent down and kissed her on the nape of her neck, smelling the cherry wood and bird-of-paradise dust he'd mixed for her. Her skin was warm and tender beneath his lips. All was well.
 "Mail's come." She turned another page, not looking up at him.
-"So I see." A little jolt of electricity went through him, but neither of them acknowledged the long manila envelope sitting on top of the stack. Tennessee Valley Bank and Loan. He'd bet that Edna must have pulled it out and turned it over half-a-dozen times while she waited for him. 
+"So I see." A little jolt of electricity went through him, but neither of them acknowledged the long manila envelope sitting on top of the stack. Tennessee Valley Bank and Loan. He'd bet that Edna must have pulled it out and turned it over half-a-dozen times while she waited for him.
 He set the iced tea on the table and picked up the envelope without sitting down. The envelope was thick with papers, which he tried not to take as a bad sign. Best to have no expectations. But his palms started sweating anyway.
 He cleared his throat. "Kids home from school yet?
 "I sent them over to Ma's."
-Lloyd nodded and ripped the envelope open. The words went straight into his brain and started everything else to melt. 
+Lloyd nodded and ripped the envelope open. The words went straight into his brain and started everything else to melt.
 Foreclosure.
-Lord. How was he going to break it to her? Any of it. 
+Lord. How was he going to break it to her? Any of it.
 When he'd mortgaged the house, he'd had a promising career in magic, but it seemed like every day a new pre-packaged spell came out. First the lay-off and now it was getting so the only folks who hired him were ones who needed a tailor-made spell. Lloyd cleared his throat and folded the papers back up. "Looks like we'll get some rain this evening."
 "Lloyd Tucker Willis. If you think I want to talk about the weather, you got another think coming." Edna let the catalog slap against the table. "What's it say?"
 He couldn't form the words, still, so he handed the sheaf of papers to her. So he had something to do with his hands, he picked up the iced tea. His stomach turned upside down and queasy, so Lloyd set the glass back down without sipping from it. Walking to the kitchen sink, he couldn't bring himself to look at Edna.
@@ -41,7 +42,7 @@ The mudroom got darn hot in the summer, but he couldn't risk doing magic inside 
 "Lloyd... why?" She stood and came to stand beside him. "Was it my doctor bills? You should've said—"
 "You died."
 He hadn't meant to blurt it out, but there it was. Edna froze, her mouth open. The clock over the sink ticked forward but all he could hear was the sound of his pulse filling his ears.
-Edna pulled her chewing gum from her mouth and dropped into the wastebasket. Swallowing, she washed her hands and let them run under the water so long it was like she was trying to rinse powder off. He'd thought of that. Her doing dishes or bathing the kids. He was a damn good pulvester and thought about the ramifications so he'd put the spell on her hairbrush. 
+Edna pulled her chewing gum from her mouth and dropped into the wastebasket. Swallowing, she washed her hands and let them run under the water so long it was like she was trying to rinse powder off. He'd thought of that. Her doing dishes or bathing the kids. He was a damn good pulvester and thought about the ramifications so he'd put the spell on her hairbrush.
 Wiping her hands on her apron, Edna turned to face him. "What do you mean—died?"
  Lloyd wet his lips and stared at the linoleum floor she was so proud of. They'd put it in. Before. "The doc couldn't do anything about the cancer. So I made a resurrection powder."
 "Those are... those are _wrong_."
@@ -72,4 +73,4 @@ The mudroom got darn hot in the summer, but he couldn't risk doing magic inside 
 "This is a sin. I am a walking sin." She took another breath, full and deep and how could she not see that she was alive. She shook her head again and pushed past him. "I'm going for a walk."
 Lloyd looked out the window to the lowering thunderclouds. "Rain's coming on."
 "I know." The back door opened. "Tell the kids I loved them."
-The door shut, and his wife strode across the fields to meet the rain.
+The door shut, and his wife strode across the fields to meet the rain.

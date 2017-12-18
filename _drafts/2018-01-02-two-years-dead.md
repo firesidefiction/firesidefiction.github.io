@@ -1,4 +1,5 @@
-layout:story
+---
+layout: story
 title: Two Years Dead
 author: Kathryn Kania
 editor: Julia Rios
@@ -9,11 +10,11 @@ published: false
 teaser: “I used an old picture from my Facebook, one sort of buried, not my profile pic. Didn’t want anyone image searching me and finding a dead chick.”
 author-img: kathryn-kania.jpg
 author-bio: |
-Kathryn Kania is a writer and librarian living in New England. When not thinking about mythological beings, storytelling, or food, Kathryn enjoys swing dancing and walking amongst trees.  
-----
+  Kathryn Kania is a writer and librarian living in New England. When not thinking about mythological beings, storytelling, or food, Kathryn enjoys swing dancing and walking amongst trees.  
+---
 
 When I opened up my OKCupid profile, I was already two years dead.
- 
+
 The first few months of my afterlife, I had stuck around my old apartment because it felt like what I was supposed to do but I could tell the dude who moved in had enough problems without walking through a cold patch of air (me) unexpectedly or sometimes catching a glimpse of me out of the corner of his eye. Plus, he was a grad student. So, really, I was just making him lose his mind quicker. Now, I tried, mostly, to stay out of people’s way but it got lonely, floating around from abandoned building to abandoned building.
 
 Sometimes I’d go to the library after hours. I could sneak into the room where they stored the laptops and get on the internet. It looks a little weird when I do it these days, I sort of have to meld partially with it? It’s hard to explain but I look like I have a laptop for my hands. I’d just surf all night until the sun came up. I guess it wasn’t too much different from what I used to do except it wasn’t my apartment and I was dead.

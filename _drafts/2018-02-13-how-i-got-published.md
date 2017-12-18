@@ -1,3 +1,5 @@
+---
+layout: story
 title: How I Got Published (12 Tips from a Bestselling Author)
 author: Dominica Phetteplace
 editor: Julia Rios
@@ -8,12 +10,12 @@ published: false
 teaser: “I was too stung by rejection to query this second novel. I could have tried self-publishing, but it was easier just to give up on humanity.”
 author-img: dominica-phetteplace.jpg
 author-bio: |
-Dominica Phetteplace is a math tutor who writes literary and science fiction. Her work has appeared in _Analog_, _Asimov’s_, _Clarkesworld_ and _F&SF_. She has won a Pushcart Prize, a Rona Jaffe Award, a Barbara Deming Award and fellowships from the MacDowell Colony, I-Park and Marble House Project.  
-----
+  Dominica Phetteplace is a math tutor who writes literary and science fiction. Her work has appeared in _Analog_, _Asimov’s_, _Clarkesworld_ and _F&SF_. She has won a Pushcart Prize, a Rona Jaffe Award, a Barbara Deming Award and fellowships from the MacDowell Colony, I-Park and Marble House Project.  
+---
 
 **1.**
 
-First I wrote a book. Don’t skip this step. It’s a fact that most people who want to publish a book have never even written an entire one. 
+First I wrote a book. Don’t skip this step. It’s a fact that most people who want to publish a book have never even written an entire one.
  My book was about my childhood. In other words: tragic, but also leavened by moments of humor.
 
 ----
@@ -30,7 +32,7 @@ First I wrote a book. Don’t skip this step. It’s a fact that most people who
 
 ----
 **5.**
-If you have read either of my first two books you would know that my parents were human.  You would know that they abandoned me. They made me and later were repulsed by me. After I had cooled to the touch, they left me in the jungle to be raised by orangutans. 
+If you have read either of my first two books you would know that my parents were human.  You would know that they abandoned me. They made me and later were repulsed by me. After I had cooled to the touch, they left me in the jungle to be raised by orangutans.
 
 ----
  **6.**
@@ -47,8 +49,8 @@ First I wrote a book. Don’t skip this step. It’s a fact that most people who
 ----
 **9.**
 I used black magic to conjure a new race of beings out of ash and salt. They frightened me. I abandoned them. My work-in-progress is about how I am like my parents even though I hardly knew them.
-  Most of these new people that I made perished. They crumbled, they dissolved in the rain. But the ones who had a little bit of dirt in them were hardy and flexible. They were highly intelligent and resourceful. They devised rituals that allowed them to procreate among each other. They fashioned themselves into hominids and passed as humans. They absorbed human culture and improved on it. They had a broader, more inclusive view of what art was. 
-They were resistant to disease and climate change. As environmental pressures caused the human race to die out, the rock people thrived. 
+  Most of these new people that I made perished. They crumbled, they dissolved in the rain. But the ones who had a little bit of dirt in them were hardy and flexible. They were highly intelligent and resourceful. They devised rituals that allowed them to procreate among each other. They fashioned themselves into hominids and passed as humans. They absorbed human culture and improved on it. They had a broader, more inclusive view of what art was.
+They were resistant to disease and climate change. As environmental pressures caused the human race to die out, the rock people thrived.
 
 ----
  **10.**
@@ -59,9 +61,9 @@ First I wrote a book. Don’t skip this step. It’s a fact that most people who
 The hardest thing about publishing is trying to figure out a way to tell an empathetic, hyper-intelligent race of mineral-based beings a story they hadn’t heard before. I can’t. I can only tell you things you already know.
   For instance: you are doomed to repeat some, but not all, of the mistakes of whoever brought you into being.  
 Or: you are greater than the magic and rock you were made from.  
- Or: you may have been abandoned, but you still did a pretty good job of figuring things out for yourselves. 
- When my first book finally came out, it was a hit, despite its many shortcomings. I’m hardly in the position of giving anyone in my audience advice, yet still I persist. This is a haughtiness that curses many best-selling authors. 
+ Or: you may have been abandoned, but you still did a pretty good job of figuring things out for yourselves.
+ When my first book finally came out, it was a hit, despite its many shortcomings. I’m hardly in the position of giving anyone in my audience advice, yet still I persist. This is a haughtiness that curses many best-selling authors.
 
 ----
  **12.**
-My work in progress is a short story collection. Every story is about how I learned to become an adult. It was an easy book to start writing, but I’m having a hard time finishing it. I might not be able to. I hope I can.  
+My work in progress is a short story collection. Every story is about how I learned to become an adult. It was an easy book to start writing, but I’m having a hard time finishing it. I might not be able to. I hope I can.  

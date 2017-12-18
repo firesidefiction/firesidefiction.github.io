@@ -12,7 +12,7 @@ cover: the-fisher-of-bones-cover-image.jpg
 amazon: https://www.amazon.com/dp/B075PGX6YJ/ref=sr_1_2?ie=UTF8&qid=1505916410&sr=8-2&keywords=the+fisher+of+bones
 ibooks: https://itunes.apple.com/us/book/the-fisher-of-bones/id1285805171?ls=1&mt=11
 kobo: https://www.kobo.com/us/en/ebook/the-fisher-of-bones
-nook:
+nook: https://www.barnesandnoble.com/w/the-fisher-of-bones-sarah-gailey/1127659946;jsessionid=A53E8E8F23CBAF6E85B75C29307483B3.prodny_store01-atgap10?ean=2940158893841
 goodreads: https://www.goodreads.com/book/show/36292847-the-fisher-of-bones
 printbook:
 ---
