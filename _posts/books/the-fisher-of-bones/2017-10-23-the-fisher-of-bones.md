@@ -14,6 +14,7 @@ ibooks: https://itunes.apple.com/us/book/the-fisher-of-bones/id1285805171?ls=1&m
 kobo: https://www.kobo.com/us/en/ebook/the-fisher-of-bones
 nook: https://www.barnesandnoble.com/w/the-fisher-of-bones-sarah-gailey/1127659946;jsessionid=A53E8E8F23CBAF6E85B75C29307483B3.prodny_store01-atgap10?ean=2940158893841
 goodreads: https://www.goodreads.com/book/show/36292847-the-fisher-of-bones
+fireside: https://store.firesidefiction.com/products/the-fisher-of-bones-by-sarah-gailey
 printbook:
 ---
 
@@ -49,7 +50,7 @@ Chapter Nine — [_Sundering_](/the-fisher-of-bones/chapter-nine-sundering)
 
 Chapter Ten — [_Nearness_](/the-fisher-of-bones/chapter-ten-nearness)
 
-Chapter Eleven — _Recognition_
+Chapter Eleven — [_Recognition_](/the-fisher-of-bones/chapter-eleven-recognition)
 
 Chapter Twelve — _Arrival_
 

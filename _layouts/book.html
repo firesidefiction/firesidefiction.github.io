@@ -21,6 +21,7 @@ layout: default
             <!-- Content meant to be collapsed/expanded depending on the state of the checkbox. -->
             <div class="toggled text__button">
               <ul>
+                  {% if page.fireside %}<a href="{{ page.fireside }}"><li>The Fireside Shop</li></a>{% endif %}
                   {% if page.amazon %}<a href="{{ page.amazon }}"><li>Amazon</li></a>{% endif %}
                   {% if page.ibooks %}<a href="{{ page.ibooks }}"><li>iBooks</li></a>{% endif %}
                   {% if page.nook %}<a href="{{ page.nook }}"><li>Nook</li></a>{% endif %}

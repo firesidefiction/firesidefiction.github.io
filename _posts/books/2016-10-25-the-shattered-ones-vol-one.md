@@ -9,6 +9,7 @@ published: true
 length: novel
 cover: the-shattered-ones-cover-image.jpg
 amazon: https://www.amazon.com/Shattered-Ones-Vol-Summer-Running/dp/098610406X/
+fireside: https://store.firesidefiction.com/collections/frontpage/products/the-shattered-ones-vol-1
 ibooks:
 kobo:
 nook:

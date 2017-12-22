@@ -9,7 +9,7 @@ serial-url: /book/the-fisher-of-bones
 part: 10
 previous-url: /the-fisher-of-bones/chapter-nine-sundering
 permalink: /the-fisher-of-bones/chapter-ten-nearness
-next-url: /book/the-fisher-of-bones
+next-url: /the-fisher-of-bones/chapter-eleven-recognition
 teaser: "Ducky had just finally fallen asleep when the rear flap of canvas on the back of my wagon snapped open."
 published: true
 author-img: sarah-gailey.jpg
