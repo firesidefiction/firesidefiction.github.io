@@ -57,7 +57,8 @@ On occasion or for special events, Fireside may wish to promote Author, the Stor
 
 **Rights Reversion:** If Fireside fails to publish the Story within twenty-four (24) months of the date of this agreement, all rights granted hereunder shall immediately revert to the Author. In such event, the Author shall retain any payments made under this agreement prior to such reversion.
 
-**Credit and Copies:** A credit line suitable to the design of the page will be used. Fireside agrees to list a proper copyright notice for the Story. The Author will be credited on any table of contents pages and at the beginning of the story as [Author's Preferred Pen Name].
+**Credit and Copies:** A credit line suitable to the design of the page will be used. Fireside agrees to list a proper copyright notice for the Story. The Author will be credited on any table of contents pages and at the beginning of the story as [Author's Preferred Pen Name]. The Author is also entitled to one contributor copy of any print publication in which the Story appears.
+
 
 **Severability:** If any term of this Agreement is to any extent illegal, otherwise invalid, or incapable of being enforced, such term shall be excluded to the extent of such invalidity or unenforceability; all other terms hereof shall remain in full force and in effect; and, to the extent permitted and possible, the invalid or unenforceable term shall be deemed replaced by a term that is valid and enforceable and that comes closest to expressing the intention of such invalid or unenforceable term.
 
