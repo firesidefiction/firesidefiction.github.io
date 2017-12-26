@@ -3,10 +3,10 @@ layout: story
 title: A Rabbit Egg for Flora
 author: Caroline M. Yoachim
 editor: Julia Rios
-date: 2017-12-26 00:00:01 -0500
+date: 2017-12-26 01:00:01 -0500
 category: flash fiction
 permalink: a-rabbit-egg-for-flora
-published: false
+published: true
 teaser: "Flora stares at the egg, her finger poised over the button that will initiate the hatching sequence. 'It's probably an elephant.' "
 author-bio: |
   Caroline M. Yoachim lives in Seattle and loves cold cloudy weather. She is the author of dozens of short stories, appearing in _Fantasy & Science Fiction_, _Clarkesworld_, _simov’s_, and _Lightspeed_, among other places. Her debut short story collection, _Seven Wonders of a Once and Future World & Other Stories_, came out with Fairwood Press in August 2016. For more about Caroline, check out her website at [carolineyoachim.com](http://carolineyoachim.com/).

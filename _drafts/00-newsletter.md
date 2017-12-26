@@ -16,8 +16,8 @@ We also published the penultimate chapter in Sarah Gailey’s [_The  Fisher of B
 
 The Fireside Shop is going strong, one week in! In particular, as we expected, lots of people are excited to finally get their hands on one of our [Antifascist Fiction Club pins](https://store.firesidefiction.com/products/antifascist-fiction-club-hard-enamel-pin). Many thanks to those of you who have spread the word.
 
-We’re closing in on the end of the year, and despite some setbacks, we’re in decent shape. Our Patreon seems to be holding steady at around $2,000 per month, and our direct memberships are growing strong — we’ve brought in around $400 there, so we’re now just little weaker than we were at the beginning of the month, but not as bad as we feared.
+We’re closing in on the end of the year, and despite some setbacks, we’re in decent shape. Our Patreon seems to be holding steady at around $2,000 per month, and our direct subscriptions are growing strong — we’ve brought in around $300 or $400 there, so we’re now just little weaker than we were at the beginning of the month, but not as bad as we feared.
 
-Speaking of: Did you forget about that one last gift you had to get? Having trouble figuring out what to get the voracious reader in your life? Well, here is your friendly reminder that you can gift a yearly subscription to Fireside directly on our site, now.
+Speaking of direct subscriptions: Did you forget about that one last gift you had to get? Having trouble figuring out what to get the voracious reader in your life? Well, here is your friendly reminder that you can [gift a yearly subscription to Fireside directly on our site](https://firesidefiction.com/#support-fireside).
 
 As I’ve mentioned in previous emails, we have lots in store for you in 2018, and we can’t wait to share with you. In the meantime, happy holidays — I’ll catch you on New Year’s Eve!
