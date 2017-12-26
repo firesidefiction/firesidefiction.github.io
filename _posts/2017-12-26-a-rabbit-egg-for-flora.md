@@ -3,7 +3,7 @@ layout: story
 title: A Rabbit Egg for Flora
 author: Caroline M. Yoachim
 editor: Julia Rios
-date: 2017-12-26 00:00:01 -0500
+date: 2017-12-26 01:00:01 -0500
 category: flash fiction
 permalink: a-rabbit-egg-for-flora
 published: false
