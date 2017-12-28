@@ -336,6 +336,9 @@ permalink: /authors
 ### Stefon Mears
 — [_Ask The Cats_](/issue11/chapter/ask-the-cats/)
 
+### Brian M. Milton
+— [_Rab the Giant versus the Witch of the Waterfall_](/rab-the-giant-versus-the-witch-of-the-waterfall)
+
 ### Melissa Moorer
 — [_The Get-Get Man_](/issue37/chapter/the-get-get-man/)
 
@@ -418,8 +421,11 @@ permalink: /authors
 ### Jason Ridler
 — [_Rocket Ship Nirvana_](/issue12/chapter/30/)
 
+### Rachel Rodman
+— [_The Gingerbread Pox_](/the-gingerbread-pox)
+
 ### Lauren M. Roy
-— [_Ex Astris_](//issue9/chapter/ex-astris/)
+— [_Ex Astris_](/issue9/chapter/ex-astris/)
 
 ### Lauren Roy
 — [_The Eleventh Hour_](/issue25/chapter/the-eleventh-hour/)
@@ -466,6 +472,9 @@ permalink: /authors
 
 ### Alex Shvartsman
 — [_He Who Watches_](/issue26/chapter/he-who-watches/)
+
+### Kendra Sims
+— [_Mirrors in the Valley_](/mirrors-in-the-valley)
 
 ### Amber D. Sistla
 — [_Nobody's Goddess_](/issue23/chapter/nobodys-goddess/)
@@ -582,6 +591,8 @@ permalink: /authors
 — [_Until the Day We Go Home_](/until-the-day-we-go-home)
 
 — [_Feeding Mr. Whiskers_](/feeding-mr-whiskers)
+
+— [_A Rabbit Egg for Flora_](/a-rabbit-egg-for-flora)
 
 ----
 

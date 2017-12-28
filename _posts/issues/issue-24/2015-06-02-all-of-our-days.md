@@ -1,6 +1,6 @@
 ---
 layout: story
-title:  "Time Out"
+title:  "All of Our Days"
 author: Jeff Xilon
 date:   2015-06-02 12:01:00 -0500
 category: flash fiction

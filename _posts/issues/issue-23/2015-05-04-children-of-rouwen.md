@@ -10,6 +10,8 @@ published: true
 art: children-of-rouwen.jpg
 caption: Illustration for Children of Rouwen
 artist: Galen Dara
+author-bio: |
+  Andrea Phillips is an award-winning transmedia writer, game designer and author. She has worked on projects such as iOS fitness games "Zombies, Run!" and "The Walk," "The Maester's Path" for HBO's "Game of Thrones," human rights game "America 2049," and the independent commercial "ARG Perplex City." Her projects have variously won the Prix Jeunesse Interactivity Prize, a Broadband Digital award, a Canadian Screen Award, a BIMA, the Origins Vanguard Innovation Award, and others. Her book "A Creator's Guide to Transmedia Storytelling" is used to teach digital storytelling at universities around the world. Her independent work includes the Kickstarted serial "The Daring Adventures of Captain Lucy Smokeheart" and "The McKinnon Account," a short story that unfolds in your email inbox. Her short fiction has been published in Escape Pod and the "Jews vs. Aliens anthology." [Andrea's website](http://www.deusexmachinatio.com/) | [Andrea on Twitter: @andrhia](https://twitter.com/andrhia)
 ---
 
 The new house was too small for the three of them, really. Even so, it was more than she could strictly afford.
@@ -205,7 +207,3 @@ They returned at dawn to find their mother curled up against the gate, red-eyed 
 A chill ran down Laura's spine. "You decided you can't live a hundred years in Rouwen after all?"
 
 "No," Molly said, with a small, sad smile. It spoke of battles won and lost, triumph and sorrow deeper than oceans. "We did."
-
-#### About the Author
-
-Andrea Phillips is an award-winning transmedia writer, game designer and author. She has worked on projects such as iOS fitness games "Zombies, Run!" and "The Walk," "The Maester's Path" for HBO's "Game of Thrones," human rights game "America 2049," and the independent commercial "ARG Perplex City." Her projects have variously won the Prix Jeunesse Interactivity Prize, a Broadband Digital award, a Canadian Screen Award, a BIMA, the Origins Vanguard Innovation Award, and others. Her book "A Creator's Guide to Transmedia Storytelling" is used to teach digital storytelling at universities around the world. Her independent work includes the Kickstarted serial "The Daring Adventures of Captain Lucy Smokeheart" and "The McKinnon Account," a short story that unfolds in your email inbox. Her short fiction has been published in Escape Pod and the "Jews vs. Aliens anthology." [Andrea's website](http://www.deusexmachinatio.com/) | [Andrea on Twitter: @andrhia](https://twitter.com/andrhia)
