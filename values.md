@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fireside Fiction Company Values
+title: Fireside Values
 permalink: /values
 ---
 
