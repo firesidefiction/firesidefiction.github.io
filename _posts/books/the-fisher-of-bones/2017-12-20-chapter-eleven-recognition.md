@@ -9,7 +9,7 @@ serial-url: /book/the-fisher-of-bones
 part: 11
 previous-url: /the-fisher-of-bones/chapter-ten-nearness
 permalink: /the-fisher-of-bones/chapter-eleven-recognition
-next-url: /book/the-fisher-of-bones
+next-url: /the-fisher-of-bones/chapter-twelve-arrival
 teaser: "I stared at the chest that contained the tablets. I couldn’t tear my eyes away from the water that rested in the divot on top of the chest."
 published: true
 author-img: sarah-gailey.jpg

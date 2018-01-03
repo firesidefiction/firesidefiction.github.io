@@ -52,7 +52,7 @@ Chapter Ten — [_Nearness_](/the-fisher-of-bones/chapter-ten-nearness)
 
 Chapter Eleven — [_Recognition_](/the-fisher-of-bones/chapter-eleven-recognition)
 
-Chapter Twelve — _Arrival_
+Chapter Twelve — [_Arrival_](/the-fisher-of-bones/chapter-twelve-arrival)
 
 #### About the author
 
