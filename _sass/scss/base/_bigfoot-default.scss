@@ -112,7 +112,7 @@ $button-inner-circle-left-margin:       1*$button-inner-circle-size !default;   
 $button-color:                          $color__dark-grey !default;             // Background color of the button
 $button-hovered-color:                  $button-color !default;                  // Background color of the button when being hovered
 $button-activating-color:               $button-color !default;                  // Background color of the button when being clicked
-$button-active-color:                   $button-color !default;                  // Background color of the button when active
+$button-active-color:                   $color__fireside-red !default;                  // Background color of the button when active
 $button-standard-opacity:               0.2 !default;                            // Opacity for when the button is just sittin' there
 $button-hovered-opacity:                0.5 !default;                            // Opacity for when the button is being hovered over
 $button-activating-opacity:             $button-hovered-opacity !default;        // Opacity for when the button is being clicked
@@ -578,7 +578,7 @@ $button-transition-properties:      background-color !default;
 
   // TEXT
   -webkit-font-smoothing: subpixel-antialiased;
-  line-height: normal;
+  line-height: 1.4em;
 
   // INTERIOR ELEMENTS
   img { max-width: 100%; }
