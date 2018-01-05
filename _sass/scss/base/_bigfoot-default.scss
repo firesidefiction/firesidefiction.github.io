@@ -205,7 +205,7 @@ $button-transition-properties:      background-color !default;
   margin: 0 $button-right-margin 0 $button-left-margin;
 
   // BACKDROP
-  border: 1px solid $color__dark-grey;
+  border: none;
   border-radius: $button-border-radius;
   cursor: pointer;
   background-color: rgba($button-color, $button-standard-opacity);
