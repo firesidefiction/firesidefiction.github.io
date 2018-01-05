@@ -23,7 +23,8 @@
 $popover-width:                         22em !default;                           // Ideal width of the popover
 $popover-max-width:                     90% !default;                            // Best as a % to accommodate smaller viewports
 $popover-max-height:                    100em !default;                           // Maximum size of the content area
-$popover-color-background:              rgb(250, 250, 250) !default;             // Color of the popover background
+$popover-color:                         $white !default;
+$popover-color-background:              $color__fireside-red !default;             // Color of the popover background
 $popover-border-radius:                 0.5em !default;                          // Radius of the corners of the popover
 $popover-border:                        1px solid rgb(195, 195, 195) !default;   // Border of the popover/ tooltip
 $popover-inactive-opacity:              0 !default;                              // Opacity of the popover when instantiated/ deactivating
@@ -108,7 +109,7 @@ $button-right-margin:                   0.1em !default;                         
 $button-vertical-adjust:                -0.1em !default;                         // Pushes the buttons along the vertical axis to align it with text as desired
 $button-inner-circle-left-margin:       1*$button-inner-circle-size !default;    // Space between the ellipsis circles
 
-$button-color:                          rgb(110, 110, 110) !default;             // Background color of the button
+$button-color:                          $color__dark-grey !default;             // Background color of the button
 $button-hovered-color:                  $button-color !default;                  // Background color of the button when being hovered
 $button-activating-color:               $button-color !default;                  // Background color of the button when being clicked
 $button-active-color:                   $button-color !default;                  // Background color of the button when active
@@ -118,7 +119,7 @@ $button-activating-opacity:             $button-hovered-opacity !default;       
 $button-active-opacity:                 1 !default;                              // Opacity for when the button is active
 $button-active-style-delay:             0.1s !default;                           // Delay before applying .active styles; this can be used to match to the popover activation transition
 
-$button-inner-circle-color:             white !default;                          // Background color of the ellipsis circle
+$button-inner-circle-color:             $color__fireside-red !default;                          // Background color of the ellipsis circle
 $button-inner-circle-border:            none !default;                           // Border of the ellipsis circle
 
 
@@ -204,7 +205,7 @@ $button-transition-properties:      background-color !default;
   margin: 0 $button-right-margin 0 $button-left-margin;
 
   // BACKDROP
-  border: none;
+  border: 1px solid $color__dark-grey;
   border-radius: $button-border-radius;
   cursor: pointer;
   background-color: rgba($button-color, $button-standard-opacity);
@@ -276,6 +277,9 @@ $button-transition-properties:      background-color !default;
 
   // Gets rid of margin on the last circle
   &:last-child { margin-right: 0; }
+  circle {
+    fill: $color__fireside-red;
+  }
 }
 
 
@@ -390,6 +394,7 @@ $button-transition-properties:      background-color !default;
 
   // TEXT
   line-height: 0;
+  color: $popover-color;
 
   // TRANSITIONS
   transition-property: $popover-transition-properties;
