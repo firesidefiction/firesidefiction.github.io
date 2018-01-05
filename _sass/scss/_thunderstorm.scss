@@ -1,0 +1,49 @@
+.thunderstorm {
+  font-family: 'bagatela';
+  font-size: 1em;
+  //text-align: center;
+  color: blue;
+  .home {
+    height: 10px;
+    width: 100%;
+    background-color: $color__fireside-red;
+  }
+  h1 {
+    font-family: 'herencia';
+    font-size: 3em;
+    line-height: 1em;
+    text-align: center;
+  }
+  .header {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column-reverse;
+    figure {
+      margin-top: -4em;
+      margin-bottom: 0;
+    }
+  }
+  .stanza {
+    padding: 1em;
+  }
+  .bylines {
+    text-align: center;
+  }
+  .grid-1 {
+    .drops {
+      figure {
+        width: 50%;
+        margin: -1em auto 0;
+      }
+    }
+    .heart {
+
+    }
+  }
+  .credits {
+    text-align: center;
+  }
+  .fireside-badge {
+    opacity: .3;
+  }
+}
