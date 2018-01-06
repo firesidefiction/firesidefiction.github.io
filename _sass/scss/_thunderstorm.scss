@@ -1,12 +1,22 @@
 .thunderstorm {
   font-family: 'bagatela';
   font-size: 1em;
-  //text-align: center;
-  color: blue;
+  animation: colorchange 30s infinite;
+  -webkit-animation: colorchange 30s infinite;
   .home {
     height: 10px;
     width: 100%;
     background-color: $color__fireside-red;
+    animation: opacity 2s 1;
+    -webkit-animation: opacity 2s 1;
+  }
+  h1, p {
+    animation: opacity-delayed 8s 1;
+    -webkit-animation: opacity-delayed 8s 1;
+  }
+  figure {
+    animation: opacity-delayed 10s 1;
+    -webkit-animation: opacity-delayed 10s 1;
   }
   h1 {
     font-family: 'herencia';
@@ -29,21 +39,140 @@
   .bylines {
     text-align: center;
   }
-  .grid-1 {
-    .drops {
-      figure {
-        width: 50%;
-        margin: -1em auto 0;
-      }
+  .drops {
+    figure {
+      width: 50%;
+      margin: -1em auto 0;
     }
-    .heart {
-
+  }
+  .heart {
+    margin-top: -4em;
+    margin-bottom: -6em;
+  }
+  .arabic-text {
+    padding: 1.2em .5em;
+    font-weight: 500;
+  }
+  .raaed {
+    background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/raaed-light.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: $fade;
+    &:hover {
+      background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/raaed.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      color: rgba(0,0,0,0);
+    }
+  }
+  .aasfi {
+    background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/aasfi-light.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: $fade;
+    &:hover {
+      background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/aasfi.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      color: rgba(0,0,0,0);
+    }
+  }
+  .ghaymi {
+    background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/ghaymi-light.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: $fade;
+    &:hover {
+      background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/ghaymi.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      color: rgba(0,0,0,0);
+    }
+  }
+  .aaskar {
+    background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/aaskar-light.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: $fade;
+    &:hover {
+      background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/aaskar.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      color: rgba(0,0,0,0);
+    }
+  }
+  .hammam {
+    background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/hammam-light.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: $fade;
+    &:hover {
+      background: url("/illustration/thunderstorm-in-glasgow-july-25-2013/hammam.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      color: rgba(0,0,0,0);
     }
   }
   .credits {
-    text-align: center;
+    //text-align: center;
+    font-family: $font-secondary;
+    font-size: $font-size-small-2;
+    border-top: 1px solid $gray-light-3;
+    padding: 2em 1em;
+    color: $color__dark-grey;
   }
   .fireside-badge {
     opacity: .3;
+    text-align: center;
+    margin: 1em;
+  }
+  @keyframes colorchange
+  {
+    0%   {color: #8f0223;}
+    25%  {color: #77518e;}
+    50%  {color: #363d50;}
+    75%  {color: #1a4335;}
+    100% {color: #8f0223;}
+  }
+
+  @-webkit-keyframes colorchange
+  {
+    0%   {color: #8f0223;}
+    25%  {color: #77518e;}
+    50%  {color: #363d50;}
+    75%  {color: #1a4335;}
+    100% {color: #8f0223;}
+  }
+  @keyframes opacity
+  {
+    0%   {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  @-webkit-keyframes opacity
+  {
+    0%   {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  @keyframes opacity-delayed
+  {
+    0%   {opacity: 0;}
+    10%  {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  @-webkit-keyframes opacity-delayed
+  {
+    0%   {opacity: 0;}
+    10%  {opacity: 0;}
+    100% {opacity: 1;}
   }
 }
