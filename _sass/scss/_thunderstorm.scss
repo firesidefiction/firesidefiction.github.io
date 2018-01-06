@@ -9,6 +9,10 @@
   @media all and (min-width: 600px) {
     font-size: 1.6em;
   }
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+  }
   .home {
     height: 10px;
     width: 100%;
