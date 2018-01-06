@@ -1,8 +1,14 @@
 .thunderstorm {
   font-family: 'bagatela';
   font-size: 1em;
-  animation: colorchange 30s infinite;
-  -webkit-animation: colorchange 30s infinite;
+  @media all and (min-width: 500px) {
+    font-size: 1.4em;
+  }
+  @media all and (min-width: 600px) {
+    font-size: 1.6em;
+  }
+  animation: colorchange 10s infinite;
+  -webkit-animation: colorchange 10s infinite;
   .home {
     height: 10px;
     width: 100%;
