@@ -49,13 +49,14 @@ Payment will be made via the Artist's preferred payment method, within reason. F
 ## Copyrights and Usage
 The Artist grants to Fireside non-exclusive, non-assignable, and non-transferable worldwide rights to reproduce the Illustration on the Fireside Magazine website, in print and in ebook editions of Fireside Magazine, as a companion piece to the Story,  in perpetuity.
 
-The Artist also grants Fireside the right to use the Illustration for promotional, merchandising,  and marketing purposes related to the Story, in perpetuity.
+The Artist also grants Fireside the non-exclusive, non-assignable, and non-transferable right to use the Illustration for promotional, merchandising,  and marketing purposes,  in perpetuity.
+
+The Artist further grants Fireside a non-exclusive, non-assignable, and non-transferable license to archive the Illustration online and the non-exclusive right to reproduce and display the Illustration, or excerpts of the Illustration, on the Fireside Magazine website, for a period of at least thirty-six (36) months. After thirty-six (36) months, the Artist may withdraw all rights from Fireside, provided the Artist requests it via written notice.
 
 The Artist also grants to Fireside rights to republish the Illustration in an anthology of stories that have previously appeared in Fireside Magazine, whether in print or ebook editions, in perpetuity.
 
-The Artist further grants Fireside a nonexclusive, non-assignable, and non-transferable license to archive the Illustration online and the non-exclusive right to reproduce and display the Illustration, or excerpts of the Illustration, on the Fireside Magazine website, for a period of at least thirty-six (36) months. After thirty-six (36) months, the Artist may withdraw all rights from Fireside, provided the Artist requests it via written notice.
-
 Ownership all original art remains with the Artist.
+
 
 ## Terms
 
