@@ -14,7 +14,7 @@ teaser: "I stared at the chest that contained the tablets. I couldn’t tear my 
 published: true
 author-img: sarah-gailey.jpg
 author-bio: |
-  Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey).
+  Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Oakland, California. Her nonfiction has been published by _Mashable_ and the _Boston Globe_, and her fiction has been published internationally. She is a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to her work at [www.sarahgailey.com](http://www.sarahgailey.com). She tweets [@gaileyfrey](http://twitter.com/gaileyfrey). Her novella [_The Fisher of Bones_ is available for sale from Fireside](https://firesidefiction.com/book/the-fisher-of-bones).
 ---
 
 I stared at the chest that contained the tablets. I couldn’t tear my eyes away from the water that rested in the divot on top of the chest. The sacred water — the Gods tears, shed for their sadness in missing their children. The divot was carved into the wood, deep and narrow. Salt crystals filmed the edges of the divot, white and patchy, interrupted only by a single dark smear of blood.
