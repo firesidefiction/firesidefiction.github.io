@@ -12,8 +12,6 @@ caption: "Alt text for image"
 artist: Molly Crabapple
 author-bio:
 ---
-(The front matter above is used on the site, but what is below is not the actual text of the poem that ends up on the site. But I've put it in here in order for us to still retain markdown files with front matter as the single source of truth for our workflow.)
-
 Rattle my heart, four-chambered sound
 loosen my language from my teeth
 tumble raaed out from a fallow throat
