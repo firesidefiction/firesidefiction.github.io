@@ -1,14 +1,31 @@
 .thunderstorm {
+
+  //————————————————————————————
+  //————————————————————————————
+
+  //  typography
+
+  //————————————————————————————
+  //————————————————————————————
+
   font-family: 'bagatela';
-  font-size: 1em;
-  animation: colorchange 10s infinite;
-  -webkit-animation: colorchange 10s infinite;
+  font-size: .8em;
+  @media all and (min-width: 375px) {
+    font-size: 1em;
+  }
   @media all and (min-width: 500px) {
     font-size: 1.4em;
   }
   @media all and (min-width: 600px) {
     font-size: 1.6em;
   }
+  h1 {
+    font-family: 'herencia';
+    font-size: 3em;
+    line-height: 1em;
+    text-align: center;
+  }
+
   main {
     max-width: 800px;
     margin: 0 auto;
@@ -17,9 +34,17 @@
     height: 10px;
     width: 100%;
     background-color: $color__fireside-red;
-    animation: opacity 2s 1;
-    -webkit-animation: opacity 2s 1;
   }
+
+  //————————————————————————————
+  //————————————————————————————
+
+  //  animations
+
+  //————————————————————————————
+  //————————————————————————————
+  animation: colorchange 10s infinite;    // for .thunderstorm
+  -webkit-animation: colorchange 10s infinite;
   h1, p {
     animation: opacity-delayed 8s 1;
     -webkit-animation: opacity-delayed 8s 1;
@@ -28,42 +53,59 @@
     animation: opacity-delayed 10s 1;
     -webkit-animation: opacity-delayed 10s 1;
   }
-  h1 {
-    font-family: 'herencia';
-    font-size: 3em;
-    line-height: 1em;
-    text-align: center;
+  .home {
+    animation: opacity 2s 1;
+    -webkit-animation: opacity 2s 1;
   }
-  .header {
-    margin-top: 1em;
-    display: flex;
-    flex-direction: column-reverse;
-    figure {
-      margin-top: -4em;
-      margin-bottom: 0;
-    }
+
+  @keyframes colorchange
+  {
+    0%   {color: #8f0223;}
+    25%  {color: #77518e;}
+    50%  {color: #363d50;}
+    75%  {color: #1a4335;}
+    100% {color: #8f0223;}
   }
-  .stanza {
-    padding: 1em;
-    z-index: 9999999;
-    white-space: nowrap;
+
+  @-webkit-keyframes colorchange
+  {
+    0%   {color: #8f0223;}
+    25%  {color: #77518e;}
+    50%  {color: #363d50;}
+    75%  {color: #1a4335;}
+    100% {color: #8f0223;}
   }
-  .bylines p {
-    text-align: center;
-    @media all and (min-width: 500px) {
-      font-size: .7em;
-    }
+  @keyframes opacity
+  {
+    0%   {opacity: 0;}
+    100% {opacity: 1;}
   }
-  .drops {
-    figure {
-      width: 50%;
-      margin: -1em auto 0;
-    }
+  @-webkit-keyframes opacity
+  {
+    0%   {opacity: 0;}
+    100% {opacity: 1;}
   }
-  .heart {
-    margin-top: -4em;
-    margin-bottom: -6em;
+  @keyframes opacity-delayed
+  {
+    0%   {opacity: 0;}
+    10%  {opacity: 0;}
+    100% {opacity: 1;}
   }
+  @-webkit-keyframes opacity-delayed
+  {
+    0%   {opacity: 0;}
+    10%  {opacity: 0;}
+    100% {opacity: 1;}
+  }
+
+//————————————————————————————
+//————————————————————————————
+
+//  arabic rollovers
+
+//————————————————————————————
+//————————————————————————————
+
   .arabic-text {
     padding: 1.2em .5em;
     font-weight: 500;
@@ -138,6 +180,54 @@
       color: rgba(0,0,0,0);
     }
   }
+
+
+//————————————————————————————
+//————————————————————————————
+
+//  base layout
+
+//————————————————————————————
+//————————————————————————————
+
+  .header {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column-reverse;
+    figure {
+      margin-top: -4em;
+      margin-bottom: 0;
+    }
+  }
+  .stanza {
+    padding: 1em;
+    z-index: 9999999;
+    white-space: nowrap;
+  }
+  .bylines p {
+    text-align: center;
+  }
+  .drops {
+    figure {
+      width: 50%;
+      margin: -1em auto 0;
+    }
+  }
+  .heart {
+    margin: -4em 0;
+  }
+  .stone {
+    margin: -2em 0 0;
+  }
+
+//————————————————————————————
+//————————————————————————————
+
+//  footer
+
+//————————————————————————————
+//————————————————————————————
+
   .credits {
     font-family: $font-secondary;
     font-size: $font-size-small-2;
@@ -148,107 +238,14 @@
   .fireside-badge {
     opacity: .3;
     text-align: center;
-    margin: 1em;
-  }
-  @keyframes colorchange
-  {
-    0%   {color: #8f0223;}
-    25%  {color: #77518e;}
-    50%  {color: #363d50;}
-    75%  {color: #1a4335;}
-    100% {color: #8f0223;}
+    margin: 2em;
   }
 
-  @-webkit-keyframes colorchange
-  {
-    0%   {color: #8f0223;}
-    25%  {color: #77518e;}
-    50%  {color: #363d50;}
-    75%  {color: #1a4335;}
-    100% {color: #8f0223;}
-  }
-  @keyframes opacity
-  {
-    0%   {opacity: 0;}
-    100% {opacity: 1;}
-  }
-  @-webkit-keyframes opacity
-  {
-    0%   {opacity: 0;}
-    100% {opacity: 1;}
-  }
-  @keyframes opacity-delayed
-  {
-    0%   {opacity: 0;}
-    10%  {opacity: 0;}
-    100% {opacity: 1;}
-  }
-  @-webkit-keyframes opacity-delayed
-  {
-    0%   {opacity: 0;}
-    10%  {opacity: 0;}
-    100% {opacity: 1;}
-  }
-  .grid-1 {
-    display: grid;
-    grid-template-areas: "byline byline byline heart heart"
-                         "drops drops drops heart heart"
-                         "stanza-1 stanza-1 stanza-1 heart heart";
-  }
-  .grid-2 {
-    display: grid;
-    grid-template-areas: "stanza-3 stanza-3 stanza-3 stone stone"
-                         "stanza-4 stanza-4 stanza-4 stone stone";
-  }
-  .bylines {
-    grid-area: byline;
-    @media all and (min-width: 768px) {
-      margin-bottom: -2em
-    }
-  }
-  .drops {
-    grid-area: drops;
-    @media all and (min-width: 768px) {
-      margin-top: -5em
-    }
-  }
-  #stanza-1 {
-    grid-area: stanza-1;
-    white-space: nowrap;
-    @media all and (min-width: 768px) {
-      margin-right: -5em;
-      margin-top: -12em
-    }
-  }
-  .heart {
-    grid-area: heart;
-    @media all and (min-width: 768px) {
-      width: 400%;
-      margin: 0 0 0 -140%;
-    }
-  }
-  #stanza-2 {
-    @media all and (min-width: 768px) {
-      margin-top: -7em
-    }
-  }
-  p.stz-1-1 {
-    margin-left: 2em;
-  }
-  .stone {
-    grid-area: stone;
-    @media all and (min-width: 768px) {
-      width: 400%;
-      margin: 7em 0 0 -14em;
-    }
-  }
-  #stanza-3 {
-    grid-area: stanza-3;
-  }
-  #stanza-4 {
-    grid-area: stanza-4;
-    @media all and (min-width: 768px) {
-      margin-top: 8em;
-    }
-  }
+//————————————————————————————
+//————————————————————————————
+
+//  responsive layout grids
+
+//————————————————————————————
+//————————————————————————————
 }
