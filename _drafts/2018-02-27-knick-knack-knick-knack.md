@@ -7,13 +7,13 @@ date: 2018-02-27 00:00:01 -0500
 category: flash fiction
 permalink: knick-knack-knick-knack
 published: false
-teaser: “Your mother’s house is a bit of a burden now, all rattletraps and dust, tucked between the oaks and Spanish moss. You are tasked with emptying out this old witch’s hut.”
+teaser: "Your mother’s house is a bit of a burden now, all rattletraps and dust, tucked between the oaks and Spanish moss. You are tasked with emptying out this old witch’s hut."
 author-img: holly-lyn-walrath.jpg
 author-bio: |
-  Holly Lyn Walrath is a writer of poetry and short fiction. Her work has appeared or is forthcoming in _Strange Horizons_, _Crab Fat Magazine_, _Mithila Review_, _Luna Station Quarterly_, and elsewhere. She is a freelance editor and volunteer with Writespace literary center in Houston, Texas. Find her on Twitter [@HollyLynWalrath](https://twitter.com/HollyLynWalrath) or at [www.hlwalrath.com](http://www.hlwalrath.com/)  
+ Holly Lyn Walrath is a writer of poetry and short fiction. Her work has appeared or is forthcoming in _Strange Horizons_, _Crab Fat Magazine_, _Mithila Review_, _Luna Station Quarterly_, and elsewhere. She is a freelance editor and volunteer with Writespace literary center in Houston, Texas. Find her on Twitter [@HollyLynWalrath](https://twitter.com/HollyLynWalrath) or at [www.hlwalrath.com](http://www.hlwalrath.com/)
 ---
 
-When you were a child white skulls used to follow you through the woods. You tried to catch a glimpse of them, but when you turned your head their skeleton bodies would disappear, fading into the canopy. Only their bone-voices remained, clacking through the trees, knick knack, knick knack.
+When you were a child, white skulls used to follow you through the woods. You tried to catch a glimpse of them, but when you turned your head their skeleton bodies would disappear, fading into the canopy. Only their bone-voices remained, clacking through the trees, knick knack, knick knack.
 
 And then how you ran! Not because you were scared, but because running made it easier to see them. With the trees blurring and the wind in your ears, they were like stars in a velvet-green sky, their empty-eyed faces tilting sideways in comic curiosity. How you used to laugh at their songs and sing along, your child-voice making a sweet harmony with their bone drumming. Then, at night, how they climbed down to the lowest branches and watched you sleep through the window. How they shone like shadows of the moon.
 
@@ -31,7 +31,7 @@ You were supposed to be a witch’s daughter, but I see how wrong it was to want
 
 It’s lonely out here in the woods.
 
-I taught you all the spells but you don’t need them now. You lock the door, placing the key in your purse. The house gets one last long look as you memorize the bell beside the door, the crooked windows, the gingerbread-lattice roof, the silent feeling of the woods.
+I taught you all the spells, but you don’t need them now. You lock the door, placing the key in your purse. The house gets one last long look as you memorize the bell beside the door, the crooked windows, the gingerbread-lattice roof, the silent feeling of the woods.
 
 Do I imagine your eyes flick once more to the treetops? Do I imagine you drive a little faster, take the turns a little harder, so you can catch the spirits on the wind? Do you see us, our white faces a thousand and one?
 
