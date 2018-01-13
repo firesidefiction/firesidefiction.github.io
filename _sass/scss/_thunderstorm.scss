@@ -43,7 +43,7 @@
 
   //————————————————————————————
   //————————————————————————————
-  animation: colorchange 10s infinite;    // for .thunderstorm
+  animation: colorchange 20s infinite;    // for .thunderstorm
   -webkit-animation: colorchange 10s infinite;
   h1, p {
     animation: opacity-delayed 8s 1;
@@ -60,20 +60,20 @@
 
   @keyframes colorchange
   {
-    0%   {color: #8f0223;}
+    0%   {color: #B00A70;}
     25%  {color: #77518e;}
     50%  {color: #363d50;}
     75%  {color: #1a4335;}
-    100% {color: #8f0223;}
+    100% {color: #B00A70;}
   }
 
   @-webkit-keyframes colorchange
   {
-    0%   {color: #8f0223;}
+    0%   {color: #B00A70;}
     25%  {color: #77518e;}
     50%  {color: #363d50;}
     75%  {color: #1a4335;}
-    100% {color: #8f0223;}
+    100% {color: #B00A70;}
   }
   @keyframes opacity
   {
@@ -219,15 +219,6 @@
   .stone {
     margin: -2em 0 0;
   }
-
-//————————————————————————————
-//————————————————————————————
-
-//  footer
-
-//————————————————————————————
-//————————————————————————————
-
   .credits {
     font-family: $font-secondary;
     font-size: $font-size-small-2;
@@ -248,4 +239,114 @@
 
 //————————————————————————————
 //————————————————————————————
+  @media all and (min-width: 760px) {
+    .grid-1, .grid-2 {
+      display: flex;
+      flex-direction: column;
+    }
+    .drops {
+      margin: 0 auto;
+    }
+    .heart, .stone {
+      display: flex;
+      max-width: 50%;
+      align-self: flex-end;
+    }
+    .heart {
+      margin: -13.5em 0 -5em;
+    }
+    .stone {
+      margin: -13.5em 0 -8em;
+    }
+    .rain, .fence, .hands {
+      display: flex;
+      padding: 1em 2em
+    }
+    #stz-1-1 {
+      margin-left: 2em;
+    }
+    #stz-1-2 {
+      margin-left: 1em;
+    }
+    #stz-1-4 {
+      margin-left: 3em;
+    }
+    #stz-2-3 {
+      margin-left: 5em;
+    }
+    #stz-2-4 {
+      margin-left: 6em;
+    }
+    #stz-2-5 {
+      margin-left: 4em;
+    }
+    #stz-2-6 {
+      margin-left: 4em;
+    }
+    #stz-2-7 {
+      margin-left: 9em;
+    }
+    #stz-3-1 {
+      margin-left: 8em;
+    }
+    #stz-3-2 {
+      margin-left: 3em;
+    }
+    #stz-3-5 {
+      margin-left: 1em;
+    }
+    #stz-3-6 {
+      margin-left: 1em;
+    }
+    #stz-4-1 {
+      margin-left: 2em;
+    }
+    #stz-4-2 {
+      margin-left: 3em;
+    }
+    #stz-4-3 {
+      margin-left: 3em;
+    }
+    #stz-4-4 {
+      margin-left: 2em;
+    }
+    #stz-4-5 {
+      margin-left: 8em;
+    }
+    #stz-5-1 {
+      margin-left: 4em;
+    }
+    #stz-5-2 {
+      margin-left:8em;
+    }
+    #stz-5-3 {
+      margin-left: 5em;
+    }
+    #stz-5-4 {
+      margin-left: 8em;
+    }
+    #stz-5-5 {
+      margin-left: 3em;
+    }
+    #stz-5-6 {
+      margin-left: 6em;
+    }
+    #stz-5-7 {
+      margin-left: 3em;
+    }
+    #stz-5-8 {
+      margin-left: 8em;
+    }
+    #stz-5-9 {
+      margin-left: 7em;
+    }
+  }
+  @media all and (min-width: 900px) {
+    .header {
+      align-items: center;
+    }
+    figure {
+      width: 130%;
+    }
+  }
 }
