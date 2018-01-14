@@ -191,6 +191,7 @@
 
   .header {
     margin-top: 1em;
+    -js-display: flex;
     display: flex;
     flex-direction: column-reverse;
     figure {
@@ -240,6 +241,7 @@
 //————————————————————————————
   @media all and (min-width: 760px) {
     .grid-1, .grid-2 {
+      -js-display: flex;
       display: flex;
       flex-direction: column;
     }
@@ -247,6 +249,7 @@
       margin: 0 auto;
     }
     .heart, .stone {
+      -js-display: flex;
       display: flex;
       max-width: 50%;
       align-self: flex-end;
@@ -258,6 +261,7 @@
       margin: -13.5em 0 -8em;
     }
     .rain, .fence, .hands {
+      -js-display: flex;
       display: flex;
       padding: 1em 2em
     }
@@ -346,6 +350,13 @@
     }
     figure {
       width: 130%;
+    }
+  }
+  @media all and (min-width: 1200px) {
+    .header {
+      figure {
+        width: 200%;
+      }
     }
   }
 }
