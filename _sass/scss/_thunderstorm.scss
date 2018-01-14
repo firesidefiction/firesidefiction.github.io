@@ -43,8 +43,9 @@
 
   //————————————————————————————
   //————————————————————————————
-  animation: colorchange 20s infinite;    // for .thunderstorm
-  -webkit-animation: colorchange 10s infinite;
+  animation: colorchange 30s infinite;    // for .thunderstorm
+  -webkit-animation: colorchange 30s infinite;
+  background-color: #F9F4F2;
   h1, p {
     animation: opacity-delayed 8s 1;
     -webkit-animation: opacity-delayed 8s 1;
@@ -57,23 +58,21 @@
     animation: opacity 2s 1;
     -webkit-animation: opacity 2s 1;
   }
-
   @keyframes colorchange
   {
-    0%   {color: #B00A70;}
-    25%  {color: #77518e;}
-    50%  {color: #363d50;}
-    75%  {color: #1a4335;}
-    100% {color: #B00A70;}
+    0%   {color: #1F325A;}
+    25%  {color: #5C4D65;}
+    50%  {color: #480420;}
+    75%  {color: #334E44;}
+    100% {color: #1F325A;}
   }
-
   @-webkit-keyframes colorchange
   {
-    0%   {color: #B00A70;}
-    25%  {color: #77518e;}
-    50%  {color: #363d50;}
-    75%  {color: #1a4335;}
-    100% {color: #B00A70;}
+    0%   {color: #1F325A;}
+    25%  {color: #5C4D65;}
+    50%  {color: #480420;}
+    75%  {color: #334E44;}
+    100% {color: #1F325A;}
   }
   @keyframes opacity
   {
