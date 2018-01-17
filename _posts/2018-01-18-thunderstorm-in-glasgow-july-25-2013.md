@@ -5,9 +5,9 @@ author: Amal El-Mohtar
 editor: Julia Rios
 date: 2018-01-05 01:00:01 -0500
 category: poem
-permalink: secret-permalink-to-thunderstorm-in-glasgow-july-25-2013-not-for-sharing-yet-please
+permalink: thunderstorm-in-glasgow-july-25-2013
 published: true
-teaser: Rattle my heart, four-chambered sound
+teaser: Rattle my heart, four-chambered sound...
 caption: "Alt text for image"
 artist: Molly Crabapple
 author-bio:
