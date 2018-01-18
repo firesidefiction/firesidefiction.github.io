@@ -1,14 +1,15 @@
 ---
 layout: thunderstorm
 title: Thunderstorm in Glasgow, July 25, 2013
-author: Amal El-Mohtar
+author: Amal El-Mohtar, illustrated by Molly Crabapple
 editor: Julia Rios
-date: 2018-01-05 01:00:01 -0500
+date: 2018-01-17 01:00:01 -0500
 category: poem
 permalink: thunderstorm-in-glasgow-july-25-2013
 published: true
 teaser: Rattle my heart, four-chambered sound...
-caption: "Alt text for image"
+art: thunderstorm-in-glasgow-july-25-2013.jpg
+caption: "A sketch of buildings in Beirut"
 artist: Molly Crabapple
 author-bio:
 ---
