@@ -16,7 +16,7 @@ We also published the Amal El-Mohtar/Molly Crabapple project we’ve been hintin
 
 Julia and I are at ConFusion in Detroit this weekend, where we’ve sponsored some non-alcoholic cocktails at the bar, because booze is fine but you shouldn’t feel excluded if you don’t want any. It’s our way of contributing to a more inclusive and safer community, and we hope to do more of it. So if you’re here, say hi! But also go have some refreshing non-alcoholic drinks at the bar, on us.
 
-And finally: this week we are soft-launching the next phase in Fireside’s evolution. As is our way, we’re letting you all know about it here before we start spreading the word far and wide.
+And finally: this week we are soft-launching the next phase in Fireside’s evolution.
 
 We’re launching a quarterly, high-quality, full-color, illustrated print edition of Fireside. It’s called Fireside Quarterly, and the first issue drops on July 1, 2018.
 
