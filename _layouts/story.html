@@ -18,5 +18,7 @@ layout: default
   <div class="content story-body">
     {{ content }}
     {% include bios.html %}
+    <h5>© {{ page.date | date: "%Y" }} {{ page.author }}</h5>
+  </div>
 
 </article>
