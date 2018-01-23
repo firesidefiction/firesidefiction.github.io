@@ -6,11 +6,12 @@ editor: Julia Rios
 date: 2018-01-23 00:00:01 -0500
 category: flash fiction
 permalink: a-legal-alien
-published: false
+published: true
 teaser: “At first, we put on our best American accents and got neat haircuts. We stopped speeding and started weeding, our exemplary flowerbeds proving the model citizens we were. Still, one of us had to go.”
 author-img: maya-kanwal.jpg
 author-bio: |
-  Maya Kanwal’s short prose appears in _Juxtaprose_, _Quarterly West_, _The Nervous Breakdown_, _The Doctor TJ Eckleburg Review 2015 Nonfiction Anthology_, _Crab Fat Magazine_ and other journals. In November 2016, Maya Kanwal's creative nonfiction essay, “Pruned Branches,” was nominated for the Pushcart Prize. Maya has a middle grade novel forthcoming. She can be can be found on twitter [@mayakanwal][1].
+  Maya Kanwal’s short prose appears in _Juxtaprose_, _Quarterly West_, _The Nervous Breakdown_, _The Doctor TJ Eckleburg Review 2015 Nonfiction Anthology_, _Crab Fat Magazine_ and other journals. In November 2016, Maya Kanwal's creative nonfiction essay, “Pruned Branches,” was nominated for the Pushcart Prize. Maya has a middle grade novel forthcoming. She can be can be found on twitter [@mayakanwal](https://twitter.com/mayakanwal).
+  
 ---
 
 When Immigration and Customs Enforcement descended on our nook of suburban Houston, we knew one of us would be taken—we were all brown. They drove up in packs, as if they had been uncaged to fulfill their destiny.
@@ -32,9 +33,3 @@ So, they requested to search his room. Ayub, being the homeowner, gave them perm
 They walked away with the boy’s laptop that day, and they walked away with the boy the next. They haven't returned to the neighborhood since then.
 
 Over celebratory sweet lassi and BBQ (extra-spicy tandoori chicken thighs), we agreed that Mustafa would be fine. He was, after all, young enough to start his life anew, if they released him and sent him back to Pakistan.
-
-<<<<<<< HEAD
-[1]:	https://twitter.com/mayakanwal
-=======
-[1]:	https://twitter.com/mayakanwal
->>>>>>> origin/master
