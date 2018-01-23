@@ -1,0 +1,21 @@
+<h4 class="about-the-author">About the author</h4>
+
+{% if page.author-img %}
+  <div class="author-info">
+    <figure class="author-image">
+      <img src="/images/authors/{{ page.author-img }}" alt="{{ page.author }}"/>
+    </figure>
+    <div class="author-bio">
+      <p>{{ page.author-bio | markdownify }}</p>
+    </div>
+  </div>
+
+  {% else %}
+
+  <div class="author-info">
+    <div>
+      <p>{{ page.author-bio | markdownify }}</p>
+    </div>
+  </div>
+
+{% endif %}

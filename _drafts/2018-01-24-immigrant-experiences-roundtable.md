@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Immigrant Experiences in Fiction and Real Life: A Roundtable Discussion
+title: 'Immigrant Experiences in Fiction and Real Life: A Roundtable Discussion'
 author: Julia Rios with Layla Al-Bedawi, Millie Ho, and Maya Kanwal
 date: 2018-01-24 01:00:01 -0500
 category: interview
 permalink: immigrant-experiences-roundtable
-published: false
+published: true
 teaser: "Humans have been moving from place to place for at least as long as we’ve recorded history, and every shifting experience creates a different story."
 author-img: layla-al-bedawi.jpg
 author-bio: |

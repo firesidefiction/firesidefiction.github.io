@@ -122,6 +122,8 @@
 }
 
 .author-info {
+	font-family: $font-secondary;
+	font-size: 1em;
 	display: flex;
 	margin-bottom: 1em;
 	border-bottom: 1px solid lighten($color__base--light, 30%);
@@ -139,6 +141,12 @@
 	}
 	p {
 		font-size: 1em;
+		text-indent: 0;
+		margin-bottom: 1em;
+		&:first-of-type {
+			margin-top: .2em;
+			margin-bottom: 0;
+		}
 	}
 }
 
@@ -153,22 +161,12 @@
 		justify-content: space-between;
 		margin: 1em 0;
 		border-bottom: 0;
-		font-family: $font-secondary;
-		font-size: 1em;
 		figure {
 			margin: 0;
 			max-width: 400px;
 		}
-		p {
-			margin-bottom: 1em;
-			text-indent: 0;
-			&:first-of-type {
-				margin-bottom: 0;
-			}
-		}
 		.author-image {
 			flex-basis: 28%;
-			margin-top: .2em;
 		}
 		.author-bio {
 			flex-basis: 70%;
