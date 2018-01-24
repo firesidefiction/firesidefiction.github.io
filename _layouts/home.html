@@ -42,7 +42,7 @@ layout: default-home
         </div>
       {% endif %}
 
-      {% if post.category == "news" or post.category == "announcement" or post.category == "essay" or post.category == "#Blackspecfic" %}
+      {% if post.category == "news" or post.category == "announcement" or post.category == "essay" or post.category == "interview" or post.category == "#Blackspecfic" %}
       <div class="entry news">
         <p class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</p>
         <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
