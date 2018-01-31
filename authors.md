@@ -12,11 +12,19 @@ permalink: /authors
 ### Jen R Albert
 — [_Katabasis_](/issue22/chapter/katabasis/)
 
+### Layla Al-Bedawi
+— [_Those We Feed_](/those-we-feed)
+
+— [_Immigrant Experiences in Fiction and Real Life: A Roundtable Discussion_](/immigrant-experiences-roundtable)
+
 ### Day Al-Mohamed
 — [_Death's Garden_](/issue17/chapter/deaths-garden/)
 
 ### K. C. Alexander
 — [_Four Tons Too Late_](/issue11/chapter/four-tons-too-late/)
+
+### Ogbewe Amadin
+— [_Riddle_](/riddle)
 
 ### E.C. Ambrose
 — [_Carver_](/issue13/chapter/carver/)
@@ -152,6 +160,9 @@ permalink: /authors
 ### Renee Elizabeth
 — [_Time Out_](/issue23/chapter/time-out/)
 
+### Amal El-Mohtar
+— [_Thunderstorm in Glasgow, July 25, 2013_](/thunderstorm-in-glasgow-july-25-2013)
+
 ----
 
 ## F
@@ -211,6 +222,11 @@ permalink: /authors
 ### Carlos Hernandez
 — [_Geppetto_](/geppetto)
 
+### Millie Ho
+— [_Hehua_](/hehua)
+
+— [_Immigrant Experiences in Fiction and Real Life: A Roundtable Discussion_](/immigrant-experiences-roundtable)
+
 ### Sarah Hollowell
 — [_Crow's Eye_](/crows-eye)
 
@@ -264,6 +280,14 @@ permalink: /authors
 ----
 
 ## K
+
+### Kathryn Kania
+— [_Two Years Dead_](/immigrant-experiences-roundtable)
+
+### Maya Kanwal
+— [_A Legal Alien_](/a-legal-alien)
+
+— [_Immigrant Experiences in Fiction and Real Life: A Roundtable Discussion_](/two-years-dead)
 
 ### Jake Kerr
 — [_Perspective_](/issue2/chapter/perspective/)
