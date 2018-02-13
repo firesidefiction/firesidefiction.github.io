@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-02-13 00:00:01 -0500
 category: flash fiction
 permalink: how-i-got-published
-published: false
+published: true
 teaser: "I was too stung by rejection to query this second novel. I could have tried self-publishing, but it was easier just to give up on humanity."
 author-img: dominica-phetteplace.jpg
 author-bio: |
@@ -66,4 +66,4 @@ First I wrote a book. Don’t skip this step. It’s a fact that most people who
 
 ----
  **12.**
-My work in progress is a short story collection. Every story is about how I learned to become an adult. It was an easy book to start writing, but I’m having a hard time finishing it. I might not be able to. I hope I can. 
+My work in progress is a short story collection. Every story is about how I learned to become an adult. It was an easy book to start writing, but I’m having a hard time finishing it. I might not be able to. I hope I can.
