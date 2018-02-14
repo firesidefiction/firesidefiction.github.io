@@ -1,23 +1,23 @@
 ---
 layout: post
-title: when your love is gone
-teaser: you'd bring them right back too.
+title:
+teaser:
 author: Pablo Defendini
-date: 2018-02-11 01:00:01 -0500
+date: 2018-02-18 01:00:01 -0500
 category: email
 published: false
 ---
 
-Hello again! Another week, and we've got another wonderful story for you. As we teased last week, Mary Robinette Kowal returned to _Fireside Magazine_ with [_Dust to Dust_](https://firesidefiction.com/dust-to-dust), a heartbreaking story about what happens when you mess with forbidden magic. Mary was one of the contributors to _Fireside Magazine_'s first foray into print, way back in the days of 2012, and we couldn't be more pleased to have her back in our pages. Or pixels, I suppose. We won't have actual pages again until July, when we launch _Fireside Quarterly_. 
+Hello everybody!
 
-Speaking of the _Quarterly_, we're hard at work putting it together, and we've announce the TOC for our first issue over on [our Drip page](https://d.rip/fireside). Go check it out, and consider subscribing. Once you see the TOC, I'm sure you'll agree that it's going to be a stellar first issue, and when it's gone, it will be gone—we're only printing enough to cover our subscribers, and maybe have a few copies on hand to give out.
+This week, we published a flash fiction piece by Dominique Phetteplace. “[How I Got Published (12 Tips from a Bestselling Author)](https://firesidefiction.com/how-i-got-published)” gets pretty meta: there’s some good advice mixed in with the gods, aliens, and magics in there, go check it out!
 
-We have more _Quarterly_-related things to announce over the next few weeks, including the artist roster for the first issue, and our nonfiction TOC. That's right, we're expanding beyond the 'fiction' in 'Fireside Fiction' (we may have to do something about our twitter handle and our website url later this year).
+In case you missed it last week, we published Mary Robinette Kowal’s moving story, “[Dust to Dust](https://firesidefiction.com/dust-to-dust).” And next week we’ve got an incredible story by Phenderson Djèlí Clark, just in time for  the President’s day holiday in the US. You won’t want to miss it.
 
-A print edition of _Fireside_ is just the beginning. The first issue of _Fireside Quarterly_ drops in July, and it kicks off a publication schedule for the back half of the year for us. You may have heard rumblings from Hillary Monahan, Rachael K. Jones, or Brian on Twitter, but that's only half the story. We'll also have more news on this front in the coming months.
+As we continue working on the print edition of Fireside, and we firm up our subscription strategy after last December’s big reshuffle, we’ve started getting back to the idea of monthly issues of Fireside. When we launched last year’s site redesign, we went all in with a pared-down, stream-like weekly publishing strategy. We wanted to see how that would work for us. Now that we’re a year or so in, we’ve been refining our approach, and we thing the weekly free content on the site is a great foundation. Everyone gets free, weekly stories online; [_Fireside Magazine_ subscribers](https://firesidefiction.com/#support-fireside) receive the monthly ebook with all the Month’s stories before they go online; and [_Fireside Quarterly_ subscribers](https://d.rip/fireside) will get three months’ worth off stories and artwork in a beautiful, premium printed magazine, before they go into the monthly _Magazine_. It’s like a matryoshka doll: Weekly fits into Monthly, fits into Quarterly. What can I say: I’m a graphic designer, I like organizing things `¯\_(ツ)_/¯`
 
-The only way we can bring you stories and artwork every month and, later this year, books is with your support. We don't do ads, we don't do grants, and we don't do rich uncles—Fireside lives and dies by your cash money subscriptions. The fact that we've made it five years is remarkable, and we want to be around for another fifty, so please [consider subscribing](https://firesidefiction.com/#support-fireside).
+We’ve been quiet on the current events front for a bit, but just because we sometimes need to take a step back from the chaos and take care of ourselves, doesn’t mean the world stops spinning. In the US, the healthcare fight is still going, even though the news has moved on. Despite having failed to repeal the Affordable Care Act, the Republican Party continues to quietly chip at protections for our most vulnerable and marginalized, most recently through HR 620, the so-called “ADA Education and Reform Act.” Among other things, HR 620 substantially undermines the Americans with Disabilities And, a landmark piece of civil rights legislation. [Here’s Senator Tammy Duckworth with an op-ed giving an overview of what’s going on](https://www.washingtonpost.com/opinions/congress-is-on-the-offensive-against-americans-with-disabilities/2017/10/17/f508069c-b359-11e7-9e58-e6288544af98_story.html?utm_term=.7852023bd985). The ACLU has [a good primer on why this new proposed law is harmful](https://www.aclu.org/other/hr-620-myths-and-truths-about-ada-education-and-reform-act), and if you’re a US cities, our own Elsa Sjunnesson Henry provides some first-person perspective on why it’s so important to call your representatives and demand that they vote against HR 620 in [this Twitter thread](https://twitter.com/snarkbat/status/963425641810092033).
 
-As always, thanks for reading!
+As always, thanks for reading, see you next week!
 
-Pablo
+Pablo 
