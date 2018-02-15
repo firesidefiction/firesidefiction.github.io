@@ -151,16 +151,6 @@ Here is a list of things that we do not want to see at Fireside:
 
 This is _**not**_ saying stories cannot touch on, address, or talk about these issues. But we don’t want these acts illustrated in detail (or worse, glorified) in Fireside. If we see stories that cross these lines in ways that our staff find personally upsetting, we may choose not to consider further submissions from you. This is out of respect for our staff who work hard, and whose feelings we respect. If you worked for us, we wouldn’t want to make you read these things either!
 
-### Manuscript formatting
-
-Please use standard manuscript format. We’ve been loose about this requirement in the past, but we are not going to be any longer. [Here is a good guide to standard manuscript format](http://www.sfwa.org/2008/11/manuscript-preparation/).
-
-Please use only Times New Roman or a Courier font. Our managing editor is low vision and would like to be able to actually read your story, and serif fonts help with this. Please only use one font and do not use font colors other than black. Don’t include backgrounds, or any illustrations.
-
-Make sure you’ve turned off mark-up and sent a document free of comments and edits.
-
-We accept only .doc, .docx, and .rtf files.
-
 ### Turnaround and feedback
 
 We usually take about a month from the close of a submissions period to review everything that comes in, so you can expect to hear back from us roughly within that time period. (Emphasis on the word ‘roughly.’ We’re a small team, and sometimes things take longer than expected. Please be patient.)
