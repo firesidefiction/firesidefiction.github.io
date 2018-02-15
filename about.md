@@ -50,6 +50,8 @@ Brian started Fireside in 2012 with a Kickstarter and a whole lot of love. Over 
 
 ## Submissions Guidelines
 
+## Fireside Magazine is currently closed for submissions. Our next open submissions period is April 23 to 27, 2018. 
+
 We accept flash fiction of up to 1,000 words, and short stories from 1,000 to 4,000 words.
 
 Fireside is only able to publish and pay for our fantastic stories with the support of our Patreon backers. As our support grows, we’ll be able to publish more stories and longer stories, and raise our already leading pay rates even higher. Please consider [supporting us on Patreon](https://www.patreon.com/firesidefiction).
