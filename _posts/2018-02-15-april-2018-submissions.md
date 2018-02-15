@@ -5,7 +5,7 @@ author: Julia Rios
 date:   2018-02-15 01:01:00 -0500
 category: news
 permalink: april-2018-submissions
-teaser: "Fireside will be open to fiction submissions of up to 4,000 words during the last week of April.”
+teaser: "Fireside will be open to fiction submissions of up to 4,000 words during the last week of April."
 published: true
 ---
 
