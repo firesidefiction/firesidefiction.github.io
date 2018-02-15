@@ -58,14 +58,25 @@ Fireside is only able to publish and pay for our fantastic stories with the supp
 
 ### Please submit:
 
-* Stories that have never been published in the English language before (translations are okay!)
-* Flash up to 1,000 words
-* Short stories up to 4,000 words
-* Stories of any genre with a strong beginning/middle/end plot arc
-* Submissions from anywhere in the world, from all kinds of voices
-* In [standard manuscript format](http://www.sfwa.org/2008/11/manuscript-preparation/)
-* Only during our scheduled reading periods
-* Only through Submittable (not via email)
+- Stories that have never been published in the English language before (translations are okay!)
+- Flash up to 1,000 words
+- Short stories up to 4,000 words
+- Stories of any genre with a strong beginning/middle/end plot arc
+- Submissions from anywhere in the world, from all kinds of voices
+- Only during our scheduled reading periods
+- Only through Submittable (not via email)
+
+### Submissions manuscript requirements
+Please follow these simple rules when sending us your file. If you don't see something listed here as a requirement, odds are that we don't care about it, and you should do whatever you feel comfortable with.
+
+- Send us Docx or RTF files only (no PDFs or Doc files, please)
+- Include the title of the story
+- Include the name of the author
+- Include the author's email address
+- Include the story's word count
+- Set your manuscript in 12 point type
+- Use a serif font like Courier or Times New Roman
+- Make sure your manuscript is double spaced
 
 ### What to expect from us:
 
