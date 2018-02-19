@@ -22,7 +22,7 @@ Fireside pays 12.5 cents per word, well above the 6 cents currently considered t
 
 ## Supporting Fireside
 
-Running Fireside isn’t cheap. Most of our revenue goes to pay for our writers and artists. The rest of our revenue goes to site maintenance and other administrative costs.
+Running Fireside isn’t cheap. Most of our revenue goes to pay for our writers and artists. The way we keep doing what we do is with your direct financial support.
 
 {% include call-to-action.html %}
 
@@ -38,7 +38,7 @@ Julia Rios is a writer, editor, podcaster, and narrator. Her fiction, non-fictio
 ### [Elsa Sjunneson-Henry](https://feministsonar.com)—Managing Editor
 Elsa Sjunneson-Henry is a half-blind, half-deaf, half-Scandinavian writer and editor from Seattle, Washington. She's the Guest Editor in Chief of Non-Fiction for _Disabled People Destroy Science Fiction_, a blogger for B&N Scifi, and a game designer. She’s the author of [_A Place Out of Time_](http://firesidefiction.com/issue34/chapter/a-place-out-of-time/) and is also included in the [_Ghost in the Cogs_](http://amzn.to/2au3fe0) anthology. Her nonfiction has been published at _The Boston Globe_, _Uncanny Magazine_, _TerribleMinds_ and other sundry locales.  Currently, she lives in New Jersey with her delightfully quirky husband, a hound dog, two cats, and a grandfather clock that chimes when it feels like it. You can find Elsa on Twitter [@snarkbat](https://twitter.com/snarkbat).
 
-### [Pablo Defendini](https://twitter.com/pablod)—Publisher
+### [Pablo Defendini](https://twitter.com/pablod)—Publisher & Art Director
 Pablo Defendini is [a designer and developer for hire](http://defendini.com), with a focus on editorial design for digital media. He helped launch [Tor.com](http://tor.com/), before moving on to work for companies that sit in the overlap between publishing and technology, like [Open Road Media](http://openroadmedia.com/) and [O'Reilly](https://safaribooksonline.com/). Pablo was born and raised in San Juan, Puerto Rico, lives in New York City, and works with people all over the world.
 
 ### [Brian White](https://talkwordy.com)—Founding Editor
@@ -48,13 +48,14 @@ Brian started Fireside in 2012 with a Kickstarter and a whole lot of love. Over 
 
 ----
 
-## Submissions Guidelines
+# Submissions Guidelines
 
-## Fireside Magazine is currently closed for submissions. Our next open submissions period is April 23 to 27, 2018. 
+## Fireside Magazine is currently closed for submissions. Our next open submissions period is April 23 to 27, 2018.
 
-We accept flash fiction of up to 1,000 words, and short stories from 1,000 to 4,000 words.
+We accept short fiction up to 4,000 words.
 
-Fireside is only able to publish and pay for our fantastic stories with the support of our Patreon backers. As our support grows, we’ll be able to publish more stories and longer stories, and raise our already leading pay rates even higher. Please consider [supporting us on Patreon](https://www.patreon.com/firesidefiction).
+We also accept illustration portfolio submissions for consideration on an ongoing basis. Please fill out [this form](https://airtable.com/shrDve4OIlTFCbFmQ) to submit your portfolio.
+
 
 ## At a Glance
 

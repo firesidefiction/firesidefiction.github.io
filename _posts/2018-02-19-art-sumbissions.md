@@ -5,13 +5,13 @@ author: Pablo Defendini
 date:   2018-02-19 01:01:00 -0500
 category: news
 permalink: were-open-to-artist-submissions
-teaser: "_Fireside_ is permanently open to artist portfolio submissions."
-published: false
+teaser: "Fireside is permanently open to artist portfolio submissions."
+published: true
 ---
 
 Starting today, and on an ongoing basis, _Fireside_ is accepting illustration portfolio submissions. If you're an artist, and would like to submit your portfolio for consideration, please fill out this form:
 
-`FORM EMBED GOES HERE`
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrDve4OIlTFCbFmQ?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="963.1304347515106" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 As _Fireside_'s art director, I keep a little 'gallery' of artists, and I'm always on the lookout for new talent. When I have a new story that I need to match up with an illustrator, I go through our gallery and pick someone whose style I think works with the story. But relying on just me as the single source of new artists to consider for _Fireside_ is limiting in a few ways: for one thing, I'm only one person, and I wear many hats at _Fireside_. I can't dedicate nearly as much time as full-time art directors can to trawling the internet, going to galleries, or attending cons in search of new talent. We're better served if I spend more of my art direction time on working with the artists we _do_ hire to develop the stunning pieces of art you see every month on our site.
 
