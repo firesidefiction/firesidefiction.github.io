@@ -139,31 +139,31 @@ There were no children delivered to her today, so the Undertaker closed all the 
 
 A chip of bone. A sliver of fingernail, carefully pared. A black coil of hair. A barrette.
 
-_I don't want my hair cut.
+_I don't want my hair cut._
 
-Come on, it'll take a second. See?
+_Come on, it'll take a second. See?_
 
-It's too short!
+_It's too short!_
 
-It'll grow back. I can see your eyes now.
+_It'll grow back. I can see your eyes now._
 
-Oh, okay. Maybe you're right._
+_Oh, okay. Maybe you're right._
 
 The Undertaker braced herself for the emotions. It was twelve years old, this grief.
  
-_I’m sorry, but your daughter—
+_I’m sorry, but your daughter—_
 
-—car going too fast—
+_—car going too fast—_
 
-—intoxication—
+_—intoxication—_
 
-—riding her bike, must've been too dark—_
+_—riding her bike, must've been too dark—_
 
 Most of that time were barely fragments of memory. Heartache. Numbness. Arguments with someone who's name she couldn't remember.
 
-_—why did you let her go out in the first—
+_—why did you let her go out in the first—_
 
-—you saying it’s my fault—_
+_—you saying it’s my fault—_
 
 Only two memories stayed with her, sharp in focus.
 
@@ -179,21 +179,21 @@ _The crow cocks its head again, as if her misery is something to study, then tak
 
 The second:
 
-_She's bringing a book with her to the cemetery (what was the name of the book she can't remember now). It had been their nightly ritual to read a book together at bedtime. There's a part of her that hungers to do it again. She hates the thought of her daughter supine under so much dirt, with the worms and centipedes to suck away at her sweetness...
+_She's bringing a book with her to the cemetery (what was the name of the book she can't remember now). It had been their nightly ritual to read a book together at bedtime. There's a part of her that hungers to do it again. She hates the thought of her daughter supine under so much dirt, with the worms and centipedes to suck away at her sweetness..._
 
-She stops.
+_She stops._
 
-The grave is covered with hundreds of crows.
+_The grave is covered with hundreds of crows._
 
-They are pecking and scratching, a chaos of feathers and claws. They are digging. She never knew crows could dig. They have dug all the way down to the coffin, tearing it into splinters, carrying it away...
+_They are pecking and scratching, a chaos of feathers and claws. They are digging. She never knew crows could dig. They have dug all the way down to the coffin, tearing it into splinters, carrying it away..._
 
-Carrying away her daughter...
+_Carrying away her daughter..._
 
-She shrieks, running into their midst, flapping her arms, grabbing what she can salvage from their grip. How dare they, how dare they do something so obscene...
+_She shrieks, running into their midst, flapping her arms, grabbing what she can salvage from their grip. How dare they, how dare they do something so obscene..._
  
-In the end, she can only rescue a few fragments.
+_In the end, she can only rescue a few fragments._
 
-It isn't until the horror of the act has finished washing over her that she realizes that, For the first time in a long time, she can think. The pain she felt hasn't vanished, but is muted. Reduced._
+_It isn't until the horror of the act has finished washing over her that she realizes that, For the first time in a long time, she can think. The pain she felt hasn't vanished, but is muted. Reduced._
 
 The Undertaker, who forsook everything twelve years ago—her name, her partner, her livelihood—sat in a house she had built with her own two hands. She laid eyes on these fragments, all that remained of her daughter, and wept.
  
