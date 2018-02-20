@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-02-20 00:00:01 -0500
 category: short story
 permalink: the-secret-lives-of-the-nine-negro-teeth-of-george-washington
-published: false
+published: true
 teaser: "When he wore that tooth, George Washington complained of hearing the heavy fall of a hammer on an anvil day and night. He ordered all iron making stopped at Mount Vernon."
 art: the-secret-lives-of-the-nine-negro-teeth-of-george-washington.jpg
 caption: "Nine ethereal Black people stand in defiance, surrounded by creepy dentures and luminous orbs."
