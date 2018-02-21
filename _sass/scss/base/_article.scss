@@ -48,7 +48,7 @@ article {
 }
 
 main > section {
-	margin-top: 7em;
+	//margin-top: 7em;
 }
 
 .story-header {
@@ -106,7 +106,7 @@ main > section {
 .story-illustration {
 	position: relative;
 	z-index: 0;
-	margin: -7em 0 0 0;
+	margin: -1.5em 0 0 0;
 	img {
 		width: 100%;
 	}
@@ -115,7 +115,7 @@ main > section {
 .book-illustration {
 	position: relative;
 	z-index: 0;
-	margin: -7em 0 0 0;
+	margin: -1.5em 0 0 0;
 	max-height: 200px;
 	overflow: hidden;
 	background: darken($color__fireside-red, 50%);
