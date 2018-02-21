@@ -4,8 +4,11 @@
 //Footer
 footer {
 	max-width: 45em;
-	margin: 0 auto;
 	padding: 0 $pad-half;
+	margin: 0 auto 100em;
+	@media all and (min-width: $bp-med) {
+		margin: 0 auto 0;
+	}
 	.nav {
 		display: flex;
 		flex-direction: column;
@@ -134,8 +137,8 @@ footer {
 
 .legal {
 	text-align: center;
-	margin-top: $space-double;
-	padding-bottom: $space*4;
+	margin-top: $space-quad;
+	padding-bottom: $space-quad;
 	a {
 		text-decoration: none;
 	}

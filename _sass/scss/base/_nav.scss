@@ -9,29 +9,26 @@ nav ul {
 	text-align: center;
 	li {
 		flex: 1;
-		margin: $pad-half;
 	}
 }
 
-header nav ul {
+header nav ul, #small-nav ul {
 	background-color: $color__highlight;
-	#authors, #submissions, #values {
-		display: none;
-		max-width: 10px;
-	}
-	#books, #about {
-		flex: 3;
+	li {
+		margin: $space-and-half $space $space-half;
 	}
 	a {
 		color: $white;
-		@include transition(all, 0.3s, ease);
 		text-decoration: none;
+		@include transition(all, 0.3s, ease);
 		&:hover {
 			color: $white;
-			border-bottom: 1px solid $white;
-			padding: 0 $pad/3 $pad/6;
 		}
 	}
+}
+
+header nav svg {
+	margin-top: -.65em
 }
 
 footer nav ul {
@@ -42,6 +39,47 @@ footer nav ul {
 	a {
 		text-decoration: none;
 	}
+}
+
+//Responsive nav
+#main-nav-books, #main-nav-shop, #main-nav-subscribe {
+	display: none;
+	@media all and (min-width: $bp-med) {
+		display: block;
+	}
+}
+
+#main-nav-menu {
+	display: block;
+	max-width: 20px;
+	@media all and (min-width: $bp-med) {
+		display: none;
+	}
+}
+
+#small-nav {
+	@media all and (min-width: $bp-med) {
+		display: none;
+	}
+	ul:first-of-type {
+		flex-direction: row;
+		padding-bottom: 0;
+		margin: 0px;
+		text-align: center;
+		li:first-of-type {
+			margin-top: .88em;
+		}
+	}
+	ul {
+		flex-direction: column;
+		padding-bottom: 100%;
+		text-align: right;
+	}
+}
+
+#small-nav ul li#small-nav-close {
+	display: block;
+	max-width: 20px;
 }
 
 //Pagination

@@ -19,6 +19,16 @@ h4, h5, .category   {
 	text-transform: uppercase;
 }
 
+nav   {
+	font-weight: 500;
+	font-family: $font-secondary;
+	text-transform: uppercase;
+}
+
+header nav, #small-nav {
+	font-size: $font-size-large;
+}
+
 .category {
 	font-size: .8em;
 	margin: 0;
