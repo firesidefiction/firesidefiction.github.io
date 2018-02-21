@@ -12,7 +12,7 @@ nav ul {
 	}
 }
 
-header nav ul {
+header nav ul, #small-nav ul {
 	background-color: $color__highlight;
 	li {
 		margin: $space-and-half $space $space-half;
@@ -39,6 +39,47 @@ footer nav ul {
 	a {
 		text-decoration: none;
 	}
+}
+
+//Responsive nav
+#main-nav-books, #main-nav-shop, #main-nav-subscribe {
+	display: none;
+	@media all and (min-width: $bp-med) {
+		display: block;
+	}
+}
+
+#main-nav-menu {
+	display: block;
+	max-width: 20px;
+	@media all and (min-width: $bp-med) {
+		display: none;
+	}
+}
+
+#small-nav {
+	@media all and (min-width: $bp-med) {
+		display: none;
+	}
+	ul:first-of-type {
+		flex-direction: row;
+		padding-bottom: 0;
+		margin: 0px;
+		text-align: center;
+		li:first-of-type {
+			margin-top: .88em;
+		}
+	}
+	ul {
+		flex-direction: column;
+		padding-bottom: 100%;
+		text-align: right;
+	}
+}
+
+#small-nav ul li#small-nav-close {
+	display: block;
+	max-width: 20px;
 }
 
 //Pagination

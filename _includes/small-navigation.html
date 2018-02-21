@@ -1,4 +1,4 @@
-  <nav id="main-nav">
+  <nav id="small-nav">
   	<ul>
       <li>
         <a id="home" href="{{ "/" | relative_url}}">
@@ -17,22 +17,26 @@
           </svg>
         </a>
       </li>
-      <li id="main-nav-books"><a href="{{ "/books" | relative_url}}">Books</a></li>
-      <li id="main-nav-shop"><a href="https://shop.firesidefiction.com">Shop</a></li>
-      <li id="main-nav-subscribe"><a href="#subscribe">Subscribe</a></li>
-      <li id="main-nav-menu">
-         <a href="#small-nav">
-          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-              <title>menu</title>
-              <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                  <g id="menu" fill="#FFFFFF">
-                      <rect id="Rectangle" x="1" y="1" width="22" height="3" rx="1.5"></rect>
-                      <rect id="Rectangle-Copy" x="1" y="10" width="22" height="3" rx="1.5"></rect>
-                      <rect id="Rectangle-Copy-2" x="1" y="19" width="22" height="3" rx="1.5"></rect>
-                  </g>
-              </g>
-          </svg>
+      <li id="small-nav-close">
+         <a href="#main-nav">
+           <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                 <g id="close" fill="#FFFFFF">
+                     <path d="M1.17180609,3.75863946 L10.4603148,13.0520109 L10.4616894,13.0506357 C11.2895355,13.8789152 12.6315495,13.8795301 13.4601536,13.0520097 L22.7650328,3.76204701 C23.4302289,3.09772086 23.4312159,2.01964783 22.7672373,1.35410351 L22.7661356,1.35300017 C22.1009546,0.68747096 21.0224832,0.68747096 20.3573022,1.35300017 L20.3572738,1.35302854 L11.9624325,9.75266021 L3.5716771,1.35751207 C2.90897102,0.694459053 1.83451217,0.694459053 1.17180609,1.35751207 C0.509100017,2.02056509 0.509100017,3.09558644 1.17180609,3.75863946 Z" id="Path-2"></path>
+                     <path d="M1.17180609,20.4572602 L10.4603148,11.1638887 L10.4616894,11.165264 C11.2895355,10.3369845 12.6315495,10.3363695 13.4601536,11.16389 L22.7650328,20.4538526 C23.4302289,21.1181788 23.4312159,22.1962518 22.7672373,22.8617961 L22.7661356,22.8628995 C22.1009546,23.5284287 21.0224832,23.5284287 20.3573022,22.8628995 L20.3572738,22.8628711 L11.9624325,14.4632394 L3.5716771,22.8583876 C2.90897102,23.5214406 1.83451217,23.5214406 1.17180609,22.8583876 C0.509100017,22.1953345 0.509100017,21.1203132 1.17180609,20.4572602 Z" id="Path-2-Copy"></path>
+                 </g>
+             </g>
+         </svg>
         </a>
       </li>
+    </ul>
+    <ul>
+      <li id="small-nav-books"><a href="{{ "/books" | relative_url}}">Books</a></li>
+      <li id="small-nav-shop"><a href="https://shop.firesidefiction.com">Shop</a></li>
+      <li id="small-nav-subscribe"><a href="#subscribe">Subscribe</a></li>
+      <li id="authors"><a href="{{ "/authors" | relative_url}}">Authors</a></li>
+      <li id="submissions"><a href="{{ "/about/#submissions-guidelines" | relative_url}}">Submissions</a></li>
+      <li id="values"><a href="{{ "/values" | relative_url}}">Values</a></li>
+      <li id="about"><a href="{{ "/about" | relative_url}}">About Us</a></li>
   	</ul>
   </nav><!--end .nav-->
