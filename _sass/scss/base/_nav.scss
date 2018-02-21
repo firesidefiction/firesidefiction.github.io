@@ -9,29 +9,26 @@ nav ul {
 	text-align: center;
 	li {
 		flex: 1;
-		margin: $pad-half;
 	}
 }
 
 header nav ul {
 	background-color: $color__highlight;
-	#authors, #submissions, #values {
-		display: none;
-		max-width: 10px;
-	}
-	#books, #about {
-		flex: 3;
+	li {
+		margin: $space-and-half $space $space-half;
 	}
 	a {
 		color: $white;
-		@include transition(all, 0.3s, ease);
 		text-decoration: none;
+		@include transition(all, 0.3s, ease);
 		&:hover {
 			color: $white;
-			border-bottom: 1px solid $white;
-			padding: 0 $pad/3 $pad/6;
 		}
 	}
+}
+
+header nav svg {
+	margin-top: -.65em
 }
 
 footer nav ul {

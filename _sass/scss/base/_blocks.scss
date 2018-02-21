@@ -49,7 +49,7 @@
 	}
 }
 
-.header-logo + .story {
+.story:first-of-type {
 	max-width: 100%;
 	margin-top: -7em;
 	border-radius: 0;
