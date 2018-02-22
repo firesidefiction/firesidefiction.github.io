@@ -5,7 +5,7 @@ author: Phenderson Djèlí Clark
 editor: Elsa Sjunneson-Henry
 date: 2018-02-22 00:00:01 -0500
 category: essay
-permalink: imagining-the-past
+permalink: imagining-the-past-speculative-fiction-and-the-recovering-of-black-history
 published: true
 teaser: Despite calls from some quarters for apolitical SFF, the reality is that for Black creators, fiction and history have always been political.
 author-img: p-djeli-clark.jpg
