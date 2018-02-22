@@ -310,6 +310,9 @@ $button-transition-properties:      background-color !default;
   display: inline-block;
   position: relative;
   text-indent: 0;
+  a {
+    color: white;
+  }
 }
 
 
