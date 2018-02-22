@@ -11,6 +11,7 @@ teaser: Despite calls from some quarters for apolitical SFF, the reality is that
 author-img: phenderson-djeli-clark.jpg
 author-bio: |
   Phenderson Djèlí Clark is a historian and occasional speculative fiction writer. His short SFF stories have appeared in such online literary spaces as _Daily Science Fiction_, _Heroic Fantasy Quarterly_, _Fantasy-Magazine_, _Tor.com_ and several print anthologies including _Griots_, _Hidden Youth_ and most recently _Clockwork Cairo_. You can read his ramblings on SFF, history, diversity and more at his blog [The Disgruntled Haradrim](https://pdjeliclark.wordpress.com). He also tweets stuff: [@pdjeliclark](https://twitter.com/pdjeliclark).
+proofread: true
 ---
 
 In 1903, writer Pauline Hopkins published a serial of short stories in The Colored American Magazine, a monthly publication that covered African-American culture—and of which she would later take over briefly as editor. The stories were titled, _Of One Blood; Or, The Hidden Self_. The main character was a young Black man named Reuel Briggs. Raised on the racism so pervasive in America of his day, Briggs had come to believe in his own inferiority, showing little concern or understanding of the Black past. This all changes, however, when he travels to Ethiopia and finds the lost 6000-year-old ancient city of Telessar: where futurist technology is based on crystals, suspended animation, and even a means of telepathy.[^1]

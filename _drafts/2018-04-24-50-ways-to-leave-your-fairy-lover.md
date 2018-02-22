@@ -10,7 +10,8 @@ published: false
 teaser: "You wrote that your fairy lover expects you to accompany him on wild hunts and to all-night dances, but he never wants to answer BuzzFeed quizzes or join your Ingress team."
 author-img: aimee-picchi.jpg
 author-bio: |
-  [Aimee Picchi](http://aimeepicchi.com/) is a journalist and SFF writer who lives in Vermont’s biggest city, which is actually very small. Her stories have appeared in publications including _Intergalactic Medicine Show_, _Flash Fiction Online_ and _Daily Science Fiction_. She’s a graduate of the Viable Paradise workshop. Aimee is a former classical musician, and is a graduate of Juilliard Pre-College and the Eastman School of Music, where she played the viola. She enjoys a good viola joke, but warns you she's heard them all. 
+  [Aimee Picchi](http://aimeepicchi.com/) is a journalist and SFF writer who lives in Vermont’s biggest city, which is actually very small. Her stories have appeared in publications including _Intergalactic Medicine Show_, _Flash Fiction Online_ and _Daily Science Fiction_. She’s a graduate of the Viable Paradise workshop. Aimee is a former classical musician, and is a graduate of Juilliard Pre-College and the Eastman School of Music, where she played the viola. She enjoys a good viola joke, but warns you she's heard them all.
+proofread: false
 ---
 
 Dear Mia,
@@ -39,4 +40,4 @@ Dear Mia,
  What about the age difference? Morgaine is considerably older than me, it’s true, but we are both fit for our ages.
  We’re off, my dear, for a month in Havana. When I get back, you may write to me at Morgaine’s estate in the Land Under the Hills.
  Much love,
-Grandma Carol
+Grandma Carol

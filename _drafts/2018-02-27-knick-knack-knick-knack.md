@@ -11,6 +11,7 @@ teaser: "Your mother’s house is a bit of a burden now, all rattletraps and dus
 author-img: holly-lyn-walrath.jpg
 author-bio: |
  Holly Lyn Walrath is a writer of poetry and short fiction. Her work has appeared or is forthcoming in _Strange Horizons_, _Crab Fat Magazine_, _Mithila Review_, _Luna Station Quarterly_, and elsewhere. She is a freelance editor and volunteer with Writespace literary center in Houston, Texas. Find her on Twitter [@HollyLynWalrath](https://twitter.com/HollyLynWalrath) or at [www.hlwalrath.com](http://www.hlwalrath.com/)
+proofread: false
 ---
 
 When you were a child, white skulls used to follow you through the woods. You tried to catch a glimpse of them, but when you turned your head their skeleton bodies would disappear, fading into the canopy. Only their bone-voices remained, clacking through the trees, knick knack, knick knack.

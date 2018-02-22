@@ -11,6 +11,7 @@ teaser: "She was radiant, whirlwinds of color on evanescent skin, doused in virt
 author-img: d-a-xiaolin-spires.jpg
 author-bio: |
   [D.A. Xiaolin Spires](https://daxiaolinspires.wordpress.com/) counts stars and sand, residing currently in Hawaiʻi. You can find her embarking on olfactorial odysseys as she inhales plumeria blossoms, poke and poi. Her work appears or is forthcoming in various publications such as _Clarkesworld_, _Analog_, _Grievous Angel_, _Retro Future_, _LONTAR_, _Star*line_, _ETTT_, _Gathering Storm Magazine_, and _Story Seed Vault_; as well as anthologies of the strange and delightful, such as _Sharp & Sugar Tooth_, _Broad Knowledge_ and _Ride the Star Wind_. She can be found on [her website](https://daxiaolinspires.wordpress.com/) or on Twitter: [@spireswriter](https://twitter.com/spireswriter)
+proofread: false
 ---
 
 With the thunderclap, I dropped my spoon. Sinigang soup bled into my jeans, spreading in darkness, like the shadow covering us all.
@@ -36,4 +37,4 @@ With the thunderclap, I dropped my spoon. Sinigang soup bled into my jeans, spre
 Once a week, on alternating days, our citizens file up for our checkups. We suffer kidney malfunction, collapsed lung, and a host of organ failures. My stash of stocks in the medical industry soared in value, leaving me as one of the relatively lucky few who can afford to pay for all the procedures. Other residents, like Mike, now rebranded as hero for protecting our kind’s safety and integrity, wallow in debt.
 Sometimes we gather to discuss the Event. The bioluminescence, the explosion. Revisionists cast Her as evil. She needs no name; just the downcast look of ire when we speak of Her.
  Still, when I let my eyes glaze over and think back to that room of folded chairs and impassioned countenances, some details stand out. I remember the twirling of the chopsticks, the uneaten squiggly noodle dangling from lips. The very human look of disgust and fear creeping along our faces before the burst.
-Inside, we know who the real monsters are.
+Inside, we know who the real monsters are.

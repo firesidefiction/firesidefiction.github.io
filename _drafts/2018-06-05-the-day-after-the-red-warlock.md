@@ -10,7 +10,8 @@ published: false
 teaser: "My phone was busted; I’d put a trotter right through it during the first few minutes."
 author-img: susan-jane-bigelow.jpg
 author-bio: |
-  [Susan Jane Bigelow](https://susanjanebigelow.com) is a librarian, political columnist, and writer from Connecticut. Her Extrahumans series is published by Book Smugglers Publishing, and she is the author of numerous works of short fiction. She has way too many cats. 
+  [Susan Jane Bigelow](https://susanjanebigelow.com) is a librarian, political columnist, and writer from Connecticut. Her Extrahumans series is published by Book Smugglers Publishing, and she is the author of numerous works of short fiction. She has way too many cats.
+proofread: false
 ---
 
 The first order of business was cleaning up the pig shit. It was _everywhere_, and I mean everywhere. Mom got out the hose and washed out the whole downstairs, while Jack opened all the windows and doors, scouring the second floor with the shop-vac.
@@ -54,4 +55,4 @@ The first order of business was cleaning up the pig shit. It was _everywhere_, a
 "What?" Crane looked crushed. "Did you—?"
 "It _sucked_ for me," I shouted. "I felt disgusting and awful after, my brain was all messed up, and it just—ugh! But it’s all profound for you, you finally figure yourself out, great! You were a pig and now you’re a girl, and you’re so fucking _happy_. I get nothing. Nothing! I’m still me. I can’t be anything else. I’m still—this!"
 Crane’s mouth fell open. I couldn’t watch her cry so I turned and sprinted towards the distant, storm-crowned peak of Skull Top Mountain.
-  "Hey!" I cried at the sky. Somewhere along the way I’d started running on all fours. "Hey! Change me back! Change me back! Change me back!"
+  "Hey!" I cried at the sky. Somewhere along the way I’d started running on all fours. "Hey! Change me back! Change me back! Change me back!"

@@ -11,6 +11,7 @@ teaser: “Tillie received a bath earlier this morning, but the water droplets t
 author-img: lisa-m-bradley.jpg
 author-bio: |
   A Tejana living in Iowa, Lisa M. Bradley writes about boundaries and those who defy them in works ranging from haiku to novels. Recently her work has appeared in _Uncanny_, _PodCastle_, and _Sunvault: Stories of Solarpunk and Eco-Speculation_. Her first collection is _The Haunted Girl_ (Aqueduct Press). Her first novel, _Exile_, is forthcoming from Rosarium. As [@cafenowhere](https://twitter.com/cafenowhere), she tweets about writing, resistance, art, animals, Latinx issues, immigration, and disability.  
+proofread: false
 ---
 
 _Elephants have 1,948 olfactory receptors. Dogs have 811. Humans have only 396, fewer than guinea pigs or softshell turtles. An elephant can smell water 12 miles away._

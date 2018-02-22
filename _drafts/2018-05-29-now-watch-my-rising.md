@@ -11,6 +11,7 @@ teaser: "Stories filter down through moss and leaf, fed by the sun that hears al
 author-img: a-merc-rustad.jpg
 author-bio: |
   A. Merc Rustad is a queer non-binary writer who lives in Minnesota and is a 2016 Nebula Awards finalist. ("This Is Not A Wardrobe Door" was first published in Fireside!) Their stories have appeared in _Lightspeed_, _Fireside_, _Apex_, _Uncanny_, _Shimmer_, _Cicada_, and other fine venues. You can find Merc on Twitter [@Merc_Rustad](https://twitter.com/mercrustad) or at their website: [http://amercrustad.com](http://amercrustad.com). Their debut short story collection, _So You Want to Be a Robot_, was published at Lethe Press in May 2017.
+proofread: false
 ---
 
 "Your purpose is to eat the sun," says Prophecy, "at the end of all things.""And until then?" Wolf asks, sitting patiently among the roots of the forest while dwarves forge unbreakable chains. Wolf does not want their limbs bound or their jaws muzzled, but Prophecy has told them this is also their purpose. "What do I do?""Endure."Iron as soft as illusion and unbreakable as time chains Wolf's limbs. And, just to be safe, Prophecy drives a sword down through their muzzle, pinning their jaws and tongue in bloody steel.Wolf endures the pain. No one comes to sit by them or tell them when the end of all things is to begin. They watch the sun arc and dip for eons above, and the forest overgrows them until they are only a wolf-shadow painted under the ancient loam. Stories filter down through moss and leaf, fed by the sun that hears all. Wolf listens, for there are many tales of other wolves like them. Wolf's dreams stretch out and touch their kin's sleep, and in the dark, they live alongside these other wolves for a time. ---
@@ -37,5 +38,5 @@ author-bio: |
 Wolf breathes deep. Their dreamed footprints are scattered across the starlit sky, trails they can follow once again. They are going to free all their wolf-kin: the ones trapped in tragedy and the unending role of monster. ---
 "Your purpose is to eat the sun," Prophecy once said.
 Wolf refuses. They won't gulp down heat and light and leave the world dark. This is not the end of all things. This is a _beginning_.
-Unbound from lies and glue-bindings, fierce like the girls they admire, Wolf sprints past the sun and into infinite space. They are free¬. 
-And free,		Wolf 			runs 				off 					the 						page
+Unbound from lies and glue-bindings, fierce like the girls they admire, Wolf sprints past the sun and into infinite space. They are free¬.
+And free,		Wolf 			runs 				off 					the 						page

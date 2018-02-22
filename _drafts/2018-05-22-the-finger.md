@@ -10,7 +10,8 @@ published: false
 teaser: "All you have to do is just go to the range, wrap your finger across the muzzle and pull the trigger. Bang. Your hand slipped, it was an accident, they call an ambulance, you're done."
 author-img: april-grant.jpg
 author-bio: |
-  [April](http://www.aprilcatherinegrant.com) lives near Boston, and writes stories, poems, and songs. She has published poetry in _Strange Horizons_ and _Mythic Delirium_, and in the anthology _The Moment of Change_ (2012). Her other interests include traditional music, contra dancing, biking, container gardening, and appreciating actors from classic horror movies. 
+  [April](http://www.aprilcatherinegrant.com) lives near Boston, and writes stories, poems, and songs. She has published poetry in _Strange Horizons_ and _Mythic Delirium_, and in the anthology _The Moment of Change_ (2012). Her other interests include traditional music, contra dancing, biking, container gardening, and appreciating actors from classic horror movies.
+proofread: false
 ---
 
 "You'll never be at a better time in your life for this to happen," said my father. "You're really healthy; even for a college student, you're fit. You can get it over with now, and then you'll be safe forever."
@@ -43,4 +44,4 @@ author-bio: |
 I don't know what he told her. She walked around with big, sad eyes, ignoring me and speaking only when necessary, until I went back to college two weeks later. I do know that Dad has never willingly hugged or touched me since that night.
 Since that conversation, I've taken on as many work-study jobs as I can. Anything to keep me from having to go home. Maybe, between work and my loans, I'll never have to.
  And maybe the draft will pass me by. Maybe I'll go to jail or cross the border. A girl in North Quad pulled a stunt where she ran around pissing on herself and meowing in order to be sent to a mental hospital. I don't know if even that will keep her out of the Army.
-Sometimes I dream Dad is standing by my bed, begging me to let him shoot my finger off, to be safe forever. Tears stream from his blue eyes in impossible rivers. You'd think I would be callous by now.
+Sometimes I dream Dad is standing by my bed, begging me to let him shoot my finger off, to be safe forever. Tears stream from his blue eyes in impossible rivers. You'd think I would be callous by now.
