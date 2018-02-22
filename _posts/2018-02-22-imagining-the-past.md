@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: 'Imagining the Past: Speculative Fiction and the Recovering of Black History'
 author: Phenderson Djèlí Clark
 editor: Elsa Sjunneson-Henry
@@ -31,36 +31,36 @@ Whatever the white world believed, African-Americans like Hopkins had long been 
 
 Not all of Hopkins writings were speculative; nor did they always journey to the distant past. Most, in fact, like _Contending Forces: A Romance Illustrative of Negro Life North and South_, (1900) and _Hagar's Daughter: A Story of Southern Caste Prejudice_ (1901) examined themes of slavery, race, and freedom in ante and post-bellum America. Yet, they also utilized the romantic novel to create “fictional histories” that functioned as a form of social activism. In her preface to _Contending Forces_, Hopkins issues a rallying cry to fellow Black writers on the uses of fiction in recovering the past:
 
->Fiction is of great value to any people as a preserver of manners and customs—religious, political and social. It is a record of growth and development from generation to generation. No one will do this for us; we must ourselves develop the men and women who will faithfully portray the inmost thoughts and feelings of the Negro with all the fire and romance which lie dormant in our history, and, as yet, unrecognized by writers of the Anglo-Saxon race. [^11]
+>Fiction is of great value to any people as a preserver of manners and customs—religious, political and social. It is a record of growth and development from generation to generation. No one will do this for us; we must ourselves develop the men and women who will faithfully portray the inmost thoughts and feelings of the Negro with all the fire and romance which lie dormant in our history, and, as yet, unrecognized by writers of the Anglo-Saxon race.[^11]
 
 The inheritors to Pauline Hopkins dot the landscape of Black speculative fiction. History has become the source material and context for many creators of the genre. Octavia Butler’s _Kindred_ (1979) sends readers back in time with a young black woman who is suddenly, without seeming cause, transported to the era of slavery. Charles Saunders _Imaro_ (1980) reimagines a precolonial Africa in the fantastic setting of Nyumbani—a world of spears, monsters and magic, with black heroes and heroines. Steven Barnes’s _Lion’s Blood_ (2002) overturns reality itself, creating a counterfactual history where African Muslims own opulent plantations in an alternate nineteenth-century America, worked by European slaves. Victor LaValle’s _The Ballad of Black Tom_ (2016) delves into Black life in the midst of the Harlem Renaissance—complete with an esoteric divine alphabet and a reworking of the inherent racism of early twentieth-century Lovecraftian horror. Justina Ireland raises the dead of the Civil War battlefield to explore the seminal struggle and the often mythologized and mis-remembered Reconstruction that came after in her upcoming _Dread Nation_ (2018)
 
-Within my own recent short story, [The Secret Lives of the Nine Negro Teeth of George Washington](https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington), I take up Hopkins challenge. As with so many histories of the voiceless, we are only left with a clue: an account book notation in 1784 at Mt Vernon that reads, “By Cash, paid Negroes for 9 Teeth on Acct of Dr Lemoire.” [^12]  Who were those nine men and women who sold their teeth to America’s founding father? Did they part with them willingly? Can a fair and free trade be made by persons considered property, placed outside the bounds of citizenship? What were their daily lives like? What were their hopes, their dreams, their fears? The archive has its limitations. And sometimes it offers silences, especially on the experiences of the marginalized. But even if I cannot know, I can still imagine. So, I turned to the speculative, mixing bits of our own history—from runaway slave advertisements to plantation records—with elements of the fantastic to root out larger truths.
+Within my own recent short story, [The Secret Lives of the Nine Negro Teeth of George Washington](https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington), I take up Hopkins' challenge. As with so many histories of the voiceless, we are only left with a clue: an account book notation in 1784 at Mt Vernon that reads, “By Cash, paid Negroes for 9 Teeth on Acct of Dr Lemoire.” [^12]  Who were those nine men and women who sold their teeth to America’s founding father? Did they part with them willingly? Can a fair and free trade be made by persons considered property, placed outside the bounds of citizenship? What were their daily lives like? What were their hopes, their dreams, their fears? The archive has its limitations. And sometimes it offers silences, especially on the experiences of the marginalized. But even if I cannot know, I can still imagine. So, I turned to the speculative, mixing bits of our own history—from runaway slave advertisements to plantation records—with elements of the fantastic to root out larger truths.
 
 It’s not surprising that in so much of Black speculative fiction, history is often a constant. It is the construct and the canvas around which we dream of things lost, remembered, or rewritten. Despite calls from some quarters for apolitical SFF, the reality is that for Black creators, fiction and history, have always been political. In a world where imagining and recovering the Black past is itself an act of defiance, it can’t not be.
 
-[^1]:  Pauline Hopkins, “Of One Blood; Or, The Hidden Self,” serialized in The Colored American Magazine, 1902-903.
+----
 
-[^2]: _____________, Contending Forces: A Romance Illustrative of Negro Life North and South (Boston: Colored Co-operative Pub. Co., 1900), 13.
+[^1]: Pauline Hopkins, “Of One Blood; Or, The Hidden Self,” serialized in The Colored American Magazine, 1902-903.
 
-[^3]:Rayford Logan, The Negro in American life and thought: The Nadir, 1877-1901 (New York: Dial Press, 1954); Leon F. Litwack, Trouble in Mind: Black Southerners in the Age of Jim Crow (New York: Alfred Knopf, 1989; Douglas O. Linder, (“Lynchings by Year and Race,” Famous Trials, 2018. )
-[http://law2.umkc.edu/faculty/projects/ftrials/shipp/lynchingyear.html]
+[^2]: Pauline Hopkins, _Contending Forces: A Romance Illustrative of Negro Life North and South_ (Boston: Colored Co-operative Pub. Co., 1900), 13.
 
-[^4]: Khalil Gibran Muhammad, The Condemnation of Blackness: Race, Crime, and the Making of Modern Urban America (Cambridge: Harvard University Press, 2011); Ibram X. Kendi, Stamped from the Beginning: The Definitive History of Racist Ideas in America (New York: Nation Books, 2016); Richard Rothstein,
-The Color of Law: A Forgotten History of How Our Government Segregated America (New York: Liveright, 2017).
+[^3]:Rayford Logan, _The Negro in American life and thought: The Nadir, 1877-1901_ (New York: Dial Press, 1954); Leon F. Litwack, _Trouble in Mind: Black Southerners in the Age of Jim Crow_ (New York: Alfred Knopf, 1989; Douglas O. Linder, [“Lynchings by Year and Race,” Famous Trials, 2018.](http://law2.umkc.edu/faculty/projects/ftrials/shipp/lynchingyear.html)
 
-[^5]:Pauline Hopkins, A Primer of Facts Pertaining to the Early Greatness of the African Race and the Possibility of Restoration by Its Descendants, with Epilogue. (!905).
+[^4]: Khalil Gibran Muhammad, _The Condemnation of Blackness: Race, Crime, and the Making of Modern Urban America_ (Cambridge: Harvard University Press, 2011); Ibram X. Kendi, _Stamped from the Beginning: The Definitive History of Racist Ideas in America_ (New York: Nation Books, 2016); Richard Rothstein, _The Color of Law: A Forgotten History of How Our Government Segregated America_ (New York: Liveright, 2017).
 
-[^6]:Vanessa K. Valdés, Diasporic Blackness: The Life and Times of Arturo Alfonso Schomburg (New York: SUNY Press, 2017), 64-67.
+[^5]:Pauline Hopkins, _A Primer of Facts Pertaining to the Early Greatness of the African Race and the Possibility of Restoration by Its Descendants, with Epilogue._ (1905).
+
+[^6]:Vanessa K. Valdés, _Diasporic Blackness: The Life and Times of Arturo Alfonso Schomburg_ (New York: SUNY Press, 2017), 64-67.
 
 [^7]: Carter G. Woodson, “Some Things Negroes Need to Do,” Southern Workman, 51 (January 1922), 33-36.
 
-[^8]: Hopkins, Of One Blood, (Serial) [Part V, Chs. 12-14], 342.
+[^8]: Hopkins, _Of One Blood_, (Serial) [Part V, Chs. 12-14], 342.
 
-[^9]: Claude McKay, “Outcast” in Complete Poems (Champaign: University of Illinois Press, 2004), 173-174
+[^9]: Claude McKay, “Outcast” in _Complete Poems_ (Champaign: University of Illinois Press, 2004), 173-174
 
-[^10]: Gwendolyn Bennett, “Heritage” in Maureen Honey ed. Shadowed Dreams: Women's Poetry of the Harlem Renaissance (New Brunswick: Rutgers University Press, 2006), 5-6.
+[^10]: Gwendolyn Bennett, “Heritage” in Maureen Honey ed. S_hadowed Dreams: Women's Poetry of the Harlem Renaissance_ (New Brunswick: Rutgers University Press, 2006), 5-6.
 
-[^11] Hopkins, Contending Forces, 13-14.
+[^11]: Hopkins, _Contending Forces_, 13-14.
 
-[^12] Kathryn Gehred, (“Did George Washington’s false teeth come from his slaves?: A look at the evidence, the responses to that evidence, and the limitations of history,”) Washington Papers, October 19, 2016. [http://gwpapers.virginia.edu/george-washingtons-false-teeth-come-slaves-look-evidence-responses-evidence-limitations-history/]
+[^12]: Kathryn Gehred, [“Did George Washington’s false teeth come from his slaves?: A look at the evidence, the responses to that evidence, and the limitations of history,”](http://gwpapers.virginia.edu/george-washingtons-false-teeth-come-slaves-look-evidence-responses-evidence-limitations-history/) Washington Papers, October 19, 2016.
