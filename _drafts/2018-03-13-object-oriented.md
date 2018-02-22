@@ -10,7 +10,7 @@ teaser: “A long time ago I was an architect, and now I’m an evaluator for po
 author-img: arkady-martine.jpg
 author-bio: |
   Arkady Martine is a speculative fiction writer and, as Dr. AnnaLinden Weller, a historian of the Byzantine Empire and an apprentice city planner. Under both names she writes about border politics, rhetoric, propaganda, and the edges of the world. Arkady grew up in New York City and, after some time in Turkey, Canada, and Sweden, lives in Baltimore with her wife, the author Vivian Shaw. Find her online at [arkadymartine.net](https://www.arkadymartine.net) or on Twitter as [@ArkadyMartine](https://twitter.com/arkadymartine).  
-proofread: false
+proofread: true
 ---
 
 I’m staring at the skew on the third floor of an incredibly beautiful eighteenth-century building when I burst into tears again. The floor isn’t a floor anymore–it’s slid sideways, I can see the place where the load-bearing beams have snapped inside the structure. There’s a joint in it now, a discontinuity, and I’m going to have to designate this one for demolition even though it’s covered in blackwork fresco painting, a tumble of Art Nouveau whorls and loops, the hair of laughing women, grapes and flowers. This place has been here, being art and being useful–there’s a sign on it, it’s been a bank and a retail front and a residential building–for three hundred years at least, a beautiful marker on this square that the people who used it probably didn’t even notice seeing any more and–and now I am going to mark an X on my spreadsheet and it will be rubble by tomorrow. 
