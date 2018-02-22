@@ -13,6 +13,7 @@ caption: "Alt text for image"
 artist: Artist Name
 author-bio: |
   Bio goes here.
+proofread: false
 ---
 
 Add a blank line between paragraphs, otherwise the line will be a regular carriage return, not the start of a new paragraph.
