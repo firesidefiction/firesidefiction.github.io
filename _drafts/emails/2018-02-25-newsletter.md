@@ -6,14 +6,14 @@ author: Pablo Defendini
 date: 2018-02-25 01:00:01 -0500
 category: email
 published: false
-proofread: false
+proofread: true
 ---
 
 Hello everybody!
 
 This past Tuesday we published “[The Secret Lives of the Nine Negro Teeth of George Washington](https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington)” by Phenderson Djèlí Clark. Timed to go up for Presidents' Day and Black History month here in the US, it's a beautiful and engrossing series of vignettes celebrating the often unseen contributors to American history. It features a fantastic illustration by Odera Igbokwe, and it's well worth taking a few minutes to read it.
 
-We also published a nonficiton essay by Djèlí, "[Imagining the Past: Speculative Fiction and the Recovering of Black History](https://firesidefiction.com/imagining-the-past-speculative-fiction-and-the-recovering-of-black-history), which goes into some of the real-world history behind how Black people have always used ficiton to combat white supremacy. It's a fascinating read, and a great jumping off point for further research. 
+We also published a nonficiton essay by Djèlí, "[Imagining the Past: Speculative Fiction and the Recovering of Black History](https://firesidefiction.com/imagining-the-past-speculative-fiction-and-the-recovering-of-black-history), which goes into some of the real-world history behind how Black people have always used ficiton to combat white supremacy. It's a fascinating read, and a great jumping-off point for further research. 
 
 This week we also announced that we'd be opening up an [ongoing call for illustrator portfolios](https://firesidefiction.com/were-open-to-artist-submissions). One of the things I'd like to achieve for Fireside is to make it a vibrant market for illustrators in the same way it is for authors, and one of the most fun aspects of taking over Fireside has been working as its art director. But just as with prose, the world of illustration can also be exclusionary to marginalized folks. One of the ways in which we can proactively address this issue is by broadening the entry point for artists, and that's just what we've done—if you're an artist, the only requirement for putting your work in front of me for consideration is that you have a website with your portfolio on it. 
 
