@@ -14,6 +14,13 @@ layout: default
     <p>{{ page.date | date: "%B %Y" }}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}
   </header>
 
+{% if page.contentnote %}
+  <div class="contentnote">
+    <h4>Content Note:</h4>
+    <p>{{ page.contentnote }}</p>
+  </div>
+{% endif %}
+
   <div class="content story-body">
     {{ content }}
     {% include bios.html %}
