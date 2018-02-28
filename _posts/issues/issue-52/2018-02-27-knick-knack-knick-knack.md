@@ -1,7 +1,6 @@
-<<<<<<< Updated upstream:_posts/2018-02-27-knick-knack-knick-knack.md
 ---
 layout: story
-title: knick knack, knick, knack
+title: knick knack, knick knack
 author: Holly Lyn Walrath
 editor: Julia Rios
 date: 2018-02-27 00:00:01 -0500

@@ -106,6 +106,11 @@ permalink: /authors
 
 — [_It Happened To Me: I Was Brought Back to Avenge My Death, But Chose Justice Instead_](/it-happened-to-me-i-was-brought-back-to-avenge-my-death-but-chose-justice-instead)
 
+### Phenderson Djèlí Clark
+— [_The Secret Lives of the Nine Negro Teeth of George Washington_](/the-secret-lives-of-the-nine-negro-teeth-of-george-washington)
+
+— [_Imagining the Past: Speculative Fiction and the Recovering of Black History_](/imagining-the-past-speculative-fiction-and-the-recovering-of-black-history)
+
 ### Krystal Claxton
 — [_The Filigreed Cage_](/issue4/chapter/the-filigreed-cage/)
 
@@ -323,6 +328,8 @@ permalink: /authors
 ### Mary Robinette Kowal
 — [_The White Phoenix Feather: A tale of cuisine and ninjas_](/issue3/chapter/the-white-phoenix-feather/)
 
+— [_Dust to Dust_](/dust-to-dust)
+
 ----
 
 ## L
@@ -415,6 +422,9 @@ permalink: /authors
 ----
 
 ## P
+
+### Dominica Phetteplace
+— [_How I Got Published (12 Tips from a Bestselling Author)_](/how-i-got-published)
 
 ### Sarah Pinsker
 — [_They Sent Runners Out_](/issue10/chapter/they-sent-runners-out/)
@@ -558,6 +568,9 @@ permalink: /authors
 
 ### Steve Walker
 — [_An Honest Mistake_](/issue2/chapter/an-honest-mistake/)
+
+### Holly Lyn Walrath
+— [_knick knack, knick knack_](/knick-knack-knick-knack)
 
 ### Chuck Wendig
 — [_Emerald Lakes, an Atlanta Burns story_](/issue1/chapter/emerald-lakes/)
