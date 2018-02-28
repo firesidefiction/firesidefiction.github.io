@@ -7,13 +7,15 @@ date: 2017-01-01 01:00:01 -0500
 category: short story | flash fiction | announcement | essay | book | serial
 permalink: title-of-the-story
 published: true | false
-teaser: “teaser text”
+teaser: "teaser text"
 art: title-of-the-story.png
 caption: "Alt text for image"
 artist: Artist Name
+author-img: author-name.jpg
 author-bio: |
   Bio goes here.
 proofread: false
+contentnote:
 ---
 
 Add a blank line between paragraphs, otherwise the line will be a regular carriage return, not the start of a new paragraph.

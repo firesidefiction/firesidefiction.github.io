@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This week in Fireside: Extreme writing tipes edition
+title: "This week in Fireside: Extreme writing tipes edition"
 teaser: also, it's time to call your congresscritters
 author: Pablo Defendini
 date: 2018-02-18 01:00:01 -0500
