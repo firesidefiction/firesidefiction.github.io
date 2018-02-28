@@ -21,8 +21,10 @@ We receive, on average, at least 800 submissions per submissions period, and loo
 
 In order to lessen the stress of submissions reading, we’re going to tap a certain number of First Readers in our pool every reading period. You may not always be on deck. This allows us to read pieces by some of our First Readers (if you want to submit, you don’t read for that period) and gives us as wide range of readership reflected in our reading team.
 
-If you’re interested in being part of our First Reader team, (fill out this form)[https://goo.gl/forms/GizYIt5VhlhiYFdA2]:
+If you’re interested in being part of our First Reader team, (fill out this form)[https://airtable.com/shr3ewAOI34NAAS03]:
 
-(The google form will have questions like prior experience, relevant experience, who you are, and why you want to be a First Reader.)
+If you use a screen reader, please use (this google form instead) [https://goo.gl/forms/GizYIt5VhlhiYFdA2], but ONLY use the google form if you use a screen reader, otherwise there's a lot of back-end work for Elsa.
 
-That’s it! If we think you’re a good fit for the team, Elsa will be in touch. 
+The form will have questions like prior experience, relevant experience, who you are, and why you want to be a First Reader.
+
+That’s it! If we think you’re a good fit for the team, Elsa will be in touch.
