@@ -83,6 +83,3 @@ Do I imagine your eyes flick once more to the treetops? Do I imagine you drive a
 We watch your car wind its way through the trees down the birch path. Your face is hard and you never look back.
 
 I tilt my head, not confused but pleased. I call out to you in my bone voice.
-
-_knick knack, knick knack._
->>>>>>> Stashed changes:_posts/2018-02-27-knick-knack-knick-knack.md
