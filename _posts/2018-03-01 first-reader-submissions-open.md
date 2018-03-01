@@ -6,7 +6,7 @@ date:   2018-03-01 01:01:00 -0500
 category: news
 permalink: call-for-first-readers
 teaser: "We’re looking for people who love short fiction, and read a wide range of genres, who are willing to look past “genre” and look for... well. Just good stories."
-published: false
+published: true
 ---
 
 Fireside Magazine runs its submissions periods with the support of a small, dedicated team of First Readers who work with our managing editor, Elsa Sjunneson-Henry, to sort through submitted content for our fiction editor Julia Rios to consider.
