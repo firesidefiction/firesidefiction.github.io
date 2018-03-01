@@ -5,7 +5,7 @@ author: Chuck Wendig
 date: 2016-10-25 12:01:00 -0500
 category: book
 permalink: book/the-forever-endeavor
-published: true
+published: false
 length: novella
 serial-parts: 12
 cover: the-forever-endeavor-cover-image.png
