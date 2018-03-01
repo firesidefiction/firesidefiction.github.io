@@ -13,7 +13,7 @@ Fireside Magazine runs its submissions periods with the support of a small, dedi
 
 We’re looking for people who love short fiction, and read a wide range of genres, who are willing to look past “genre” and look for... well. Just good stories.
 
-We are especially interested in getting a wide range of perspectives, so we are especially interested in seeing First Readers from marginalized backgrounds. First Readers will be paid an honorarium for their work.
+We want to ensure that we get a wide range of perspectives, so we are especially interested in seeing First Readers from marginalized backgrounds. First Readers will be paid an honorarium for their work.
 
 We receive, on average, at least 800 submissions per submissions period, and look to have you reading with us for about 2-4 weeks directly after a submissions period opens. We’ll always tell you ahead of time when we’re going to be open and if you’re going to be tapped for the period.
 
