@@ -12,7 +12,7 @@ author-img: jojo-bee.jpg
 author-bio: |
   As a child Jojo was a wild thing who spent her time climbing trees, playing with animals, and dreaming up adventure. She now spends her time playing roller derby, cuddling her three pets... and dreaming up adventure. She believes representation matters and strives to portray vivid and complex characters, as colorful as her imagination.  
 proofread: true
-contentnote: This story contains themes of racism and instances of slave abuse.
+contentnote: This story is about the African slave trade and contains graphic humiliation and violence.
 ---
 
 One day a blue-eyed devil came and took me away.
