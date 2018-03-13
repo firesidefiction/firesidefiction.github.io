@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-03-13 00:00:01 -0500
 category: flash fiction
 permalink: object-oriented
-published: false
+published: true
 teaser: “A long time ago I was an architect, and now I’m an evaluator for post-disaster safety. I specialize in earthquakes, but I see a lot of floods, too.”
 author-img: arkady-martine.jpg
 author-bio: |
