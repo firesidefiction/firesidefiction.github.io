@@ -7,13 +7,14 @@ date: 2018-11-04 01:00:01 -0500
 category: email
 published: false
 proofread: true
+note: in the text about the Quarterly, you say "we wait" twice. The repetition both makes it sounds like someone is MAKING you wait and feels like it is conveying nervousness or anxiousness or something. Whether or not that is how we are feeling, we probalby don't want to broadcast that implication? 
 ---
 
 ¡Saludos!
 
 This week’s story hit close to home for me. Arkady Martine’s “[Object-Oriented](https://firesidefiction.com/object-oriented)” is about post-disaster recovery and support, the toll it takes on the people who live it, and how we can try to mitigate that toll — to a point.
 
-This past Wednesday we saw an incredible, heartbreaking show of solidarity and resolve from students across the country. If you managed to watch video of middle school children standing in silence during the national walkout for gun control and not have your heart break, then I don’t know what to tell you. These kids are telling us  — directly, no mincing words — that we’ve failed them, that our politicians have failed them, and that they will soon be old enough to vote. Let’s not make them wait, let’s keep the pressure on congress.[ Call them up again this week](https://www.5calls.org/issue/action-against-gun-violence), and tell them to make real gun control legislation happen, not some bullshit ‘school safety’ bill drafted by the  profiteers at the NRA.
+This past Wednesday we saw an incredible, heartbreaking show of solidarity and resolve from students across the country. If you managed to watch video of middle school children standing in silence during the national walkout for gun control and not have your heart break, then I don’t know what to tell you. These kids are telling us  — directly, no mincing words — that we’ve failed them, that our politicians have failed them, and that they will soon be old enough to vote. Let’s not make them wait, let’s keep the pressure on Congress. [Call them up again this week](https://www.5calls.org/issue/action-against-gun-violence), and tell them to make real gun control legislation happen, not some bullshit "school safety" bill drafted by the  profiteers at the NRA.
 
 We're very much in the calm before the storm around here, on so many fronts. We've got a drop-dead transmission date from our printers, and our content deadline for the first issue of the print [_Fireside Quarterly_](https://d.rip/fireside) is at the end of April, so Julia is quietly working away at edits on stories, and I've gotten our illustrators under contract and working away as well. I should be seeing sketches for each illustration in the next week or two, and around the same time we'll announce the artists' TOC for the first issue of the Quarterly. I'm super excited with the artists we're working with, and you will be too. But in the meantime, we wait. I've got the guts of the issue laid out, ready and waiting for final copy to be flowed in for typesetting and final artwork to be laid out.
 
