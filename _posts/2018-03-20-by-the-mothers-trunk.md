@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-03-20 00:00:01 -0500
 category: short story
 permalink: by-the-mothers-trunk
-published: false
+published: true
 teaser: “Tillie received a bath earlier this morning, but the water droplets that caught in the coarse hairs on her head have already evaporated. She would like to dust herself but Governor says, ‘It’s SHOWTIME.’”
 author-img: lisa-m-bradley.jpg
 author-bio: |
