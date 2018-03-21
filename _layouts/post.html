@@ -11,8 +11,15 @@ layout: default
     {% if page.editor %}<p>Edited by {{ page.editor }}</p>{% endif %}
   </header>
 
+{% if page.contentnote %}
+  <div class="contentnote authornote">
+    <p>{{ page.contentnote | markdownify }}</p>
+  </div>
+{% endif %}
+
   <div>
     {{ content }}
+    {% include bios.html %}
   </div>
 
 </article>

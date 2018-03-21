@@ -1,79 +1,35 @@
-{% if page.author-img %}
-  <h4 class="about-the-author">About the author{% if page.author-bio-2 %}s{% endif %}</h4>
-  <div class="author-info">
-    <figure class="author-image">
-      <img src="/images/authors/{{ page.author-img }}" alt="{{ page.author }}"/>
-    </figure>
-    <div class="author-bio">
-      <p>{{ page.author-bio | markdownify }}</p>
-    </div>
-  </div>
+{% if page.author-bio %}
 
-  {% else %}
-
-  <h4 class="about-the-author">About the author{% if page.author-bio-2 %}s{% endif %}</h4>
-  <div class="author-info">
-    <div>
-      <p>{{ page.author-bio | markdownify }}</p>
-    </div>
-  </div>
-
-{% endif %}
-
-{% if page.author-bio-2 %}
-{% if page.author-img-2 %}
-  <div class="author-info">
-    <figure class="author-image">
-      <img src="/images/authors/{{ page.author-img-2 }}" alt="{{ page.author }}"/>
-    </figure>
-    <div class="author-bio">
-      <p>{{ page.author-bio-2 | markdownify }}</p>
-    </div>
-  </div>
-
-  {% else %}
-
-  <div class="author-info">
-    <div>
-      <p>{{ page.author-bio-2 | markdownify }}</p>
-    </div>
-  </div>
-  {% endif %}
-
-  {% else %}
-{% endif %}
-
-{% if page.author-bio-3 %}
-{% if page.author-img-3 %}
-  <div class="author-info">
-    <figure class="author-image">
-      <img src="/images/authors/{{ page.author-img-3 }}" alt="{{ page.author }}"/>
-    </figure>
-    <div class="author-bio">
-      <p>{{ page.author-bio-3 | markdownify }}</p>
-    </div>
-  </div>
-
-  {% else %}
-
-  <div class="author-info">
-    <div>
-      <p>{{ page.author-bio-3 | markdownify }}</p>
-    </div>
-  </div>
-  {% endif %}
-
-  {% else %}
-{% endif %}
-
-{% if page.author-bio-4 %}
-  {% if page.author-img-4 %}
+  {% if page.author-img %}
+    <h4 class="about-the-author">About the author{% if page.author-bio-2 %}s{% endif %}</h4>
     <div class="author-info">
       <figure class="author-image">
-        <img src="/images/authors/{{ page.author-img-4 }}" alt="{{ page.author }}"/>
+        <img src="/images/authors/{{ page.author-img }}" alt="{{ page.author }}"/>
       </figure>
       <div class="author-bio">
-        <p>{{ page.author-bio-4 | markdownify }}</p>
+        <p>{{ page.author-bio | markdownify }}</p>
+      </div>
+    </div>
+
+    {% else %}
+
+    <h4 class="about-the-author">About the author{% if page.author-bio-2 %}s{% endif %}</h4>
+    <div class="author-info">
+      <div>
+        <p>{{ page.author-bio | markdownify }}</p>
+      </div>
+    </div>
+
+  {% endif %}
+
+  {% if page.author-bio-2 %}
+  {% if page.author-img-2 %}
+    <div class="author-info">
+      <figure class="author-image">
+        <img src="/images/authors/{{ page.author-img-2 }}" alt="{{ page.author }}"/>
+      </figure>
+      <div class="author-bio">
+        <p>{{ page.author-bio-2 | markdownify }}</p>
       </div>
     </div>
 
@@ -81,58 +37,106 @@
 
     <div class="author-info">
       <div>
-        <p>{{ page.author-bio-4 | markdownify }}</p>
+        <p>{{ page.author-bio-2 | markdownify }}</p>
+      </div>
+    </div>
+    {% endif %}
+
+    {% else %}
+  {% endif %}
+
+  {% if page.author-bio-3 %}
+  {% if page.author-img-3 %}
+    <div class="author-info">
+      <figure class="author-image">
+        <img src="/images/authors/{{ page.author-img-3 }}" alt="{{ page.author }}"/>
+      </figure>
+      <div class="author-bio">
+        <p>{{ page.author-bio-3 | markdownify }}</p>
       </div>
     </div>
 
+    {% else %}
+
+    <div class="author-info">
+      <div>
+        <p>{{ page.author-bio-3 | markdownify }}</p>
+      </div>
+    </div>
+    {% endif %}
+
+    {% else %}
   {% endif %}
 
-  {% else %}
-{% endif %}
+  {% if page.author-bio-4 %}
+    {% if page.author-img-4 %}
+      <div class="author-info">
+        <figure class="author-image">
+          <img src="/images/authors/{{ page.author-img-4 }}" alt="{{ page.author }}"/>
+        </figure>
+        <div class="author-bio">
+          <p>{{ page.author-bio-4 | markdownify }}</p>
+        </div>
+      </div>
 
-{% if page.author-bio-5 %}
-{% if page.author-img-5 %}
-  <div class="author-info">
-    <figure class="author-image">
-      <img src="/images/authors/{{ page.author-img-5 }}" alt="{{ page.author }}"/>
-    </figure>
-    <div class="author-bio">
-      <p>{{ page.author-bio-5 | markdownify }}</p>
-    </div>
-  </div>
+      {% else %}
 
-  {% else %}
+      <div class="author-info">
+        <div>
+          <p>{{ page.author-bio-4 | markdownify }}</p>
+        </div>
+      </div>
 
-  <div class="author-info">
-    <div>
-      <p>{{ page.author-bio-5 | markdownify }}</p>
-    </div>
-  </div>
+    {% endif %}
+
+    {% else %}
   {% endif %}
 
-  {% else %}
-{% endif %}
-
-{% if page.artist-bi0 %}
-{% if page.artist-img %}
-<h4 class="about-the-author">About the artist{% if page.artist-bio-2 %}s{% endif %}</h4>
-  <div class="author-info">
-    <figure class="author-image">
-      <img src="/images/authors/{{ page.artist-img }}" alt="{{ page.author }}"/>
-    </figure>
-    <div class="author-bio">
-      <p>{{ page.artist-bio | markdownify }}</p>
+  {% if page.author-bio-5 %}
+  {% if page.author-img-5 %}
+    <div class="author-info">
+      <figure class="author-image">
+        <img src="/images/authors/{{ page.author-img-5 }}" alt="{{ page.author }}"/>
+      </figure>
+      <div class="author-bio">
+        <p>{{ page.author-bio-5 | markdownify }}</p>
+      </div>
     </div>
-  </div>
 
-  {% else %}
+    {% else %}
 
-  <div class="author-info">
-    <div>
-      <p>{{ page.artist-bio | markdownify }}</p>
+    <div class="author-info">
+      <div>
+        <p>{{ page.author-bio-5 | markdownify }}</p>
+      </div>
     </div>
-  </div>  {% endif %}
+    {% endif %}
 
-  {% else %}
+    {% else %}
+  {% endif %}
+
+  {% if page.artist-bi0 %}
+  {% if page.artist-img %}
+  <h4 class="about-the-author">About the artist{% if page.artist-bio-2 %}s{% endif %}</h4>
+    <div class="author-info">
+      <figure class="author-image">
+        <img src="/images/authors/{{ page.artist-img }}" alt="{{ page.author }}"/>
+      </figure>
+      <div class="author-bio">
+        <p>{{ page.artist-bio | markdownify }}</p>
+      </div>
+    </div>
+
+    {% else %}
+
+    <div class="author-info">
+      <div>
+        <p>{{ page.artist-bio | markdownify }}</p>
+      </div>
+    </div>  {% endif %}
+
+    {% else %}
+
+  {% endif %}
 
 {% endif %}
