@@ -28,17 +28,17 @@ It’s not that disabled information brokers are all bad though. Look, there are
 
 Check out these dudes: 
 
-##Tyrion Lannister from Game of Thrones
+## Tyrion Lannister from Game of Thrones
 
 No essay about disability and information brokerage would be complete without talking about Tyrion. He’s  the Hand of the King, he is the Queen’s brother, son of the Lannister House (a house which claims money and power). And Tyrion is a Little Person.
  
 Of course, he’s also  accused of multiple murders, including a regicide, and well, to be fair, he’s a sneaky bastard. Tyrion has his hands in power, and in money, and in knowledge. Tyrion knows how to play the game. And he does, deftly. 
 
-##Miles Vorkosigan from Lois McMaster Bujold’s Vorkosigan Saga
+## Miles Vorkosigan from Lois McMaster Bujold’s Vorkosigan Saga
 
 Oh, Miles. Miles runs on adrenaline and spite. His disability includes easily broken bones, chronic pain, and seizures. Yet somehow, Miles manages to be the most powerful information broker in Science Fiction history, as an Imperial Auditor, His job is to collect information, distribute it as he sees fit, and create justice wherever he goes for the Barrayaran Empire. 
 
-##Professor X, of the X-Men and Xavier’s Academy 
+## Professor X, of the X-Men and Xavier’s Academy 
 
 Yet another example of the disabled information broker, is Professor X in the most recent X-Men movie, _Logan_. Professor X has always been a paragon of wheelchair using power, but what makes Professor X’s appearance in the film interesting here is that he’s on the run. He’s no longer in control of his own destiny, in fact, compared to Tyrion and Miles, he’s helpless. But the information that he carries, the very thing that makes him a danger to society? Those are the things that make him valuable. So even though Professor X is incapacitated, and a danger to society, his power and his influence and his knowledge are what ultimately keeps him in the story.
  
@@ -46,7 +46,7 @@ What exactly makes all these men defy the regular constraints of disability in f
 
 Oh, hey. I know the answer to that question! 
 
-##Power structures, what the fuck. 
+## Power structures, what the fuck. 
 
 Knowledge is power, power is delicious, power is held by… Aw crap. Check this out. All the disabled information brokers who have agency and self determination in their plots? They’re white men. With money.
  
@@ -58,21 +58,22 @@ While female characters with disabilities sit behind desks and molder behind pro
  
 I don’t get to have active DIB characters who are supposed to represent me as a disabled woman. Instead, I have Oracle, Dr. Poison, and Furiosa. Great characters, but with shitty origins, ableist constructions and more! 
 
-##Oracle, formerly Batgirl, from the DC Comics Universe 
+## Oracle, formerly Batgirl, from the DC Comics Universe 
 
 So. Oracle. 
     
 Yes. Oracle is great. Barbara Gordon is a wheelchair using hacker who has information and power and she distributes information to her team to- Oh. I see.  She doesn’t actually get to GO anywhere, do anything, or support her teammates. Because she uses a wheelchair. She does fight from her chair a few times, but it’s not what she’s known for. What she’s known for is hacking. 
-When Batgirl returned to comic book land, and left the Oracle mantle behind, Jaime Noguchi (http://comicsalliance.com/batgirl-barbara-gordon-disabled/) drew a picture of Batgirl in full gear, striding confidently away from her wheelchair.
+When Batgirl returned to comic book land, and left the Oracle mantle behind, Jaime Noguchi [drew a picture of Batgirl] (http://comicsalliance.com/batgirl-barbara-gordon-disabled/) in full gear, striding confidently away from her wheelchair.
  
-Implication: YAY I DON’T HAVE TO USE A WHEELCHAIR ANYMORE, I CAN FIGHT CRIME. 
+Implication: YAY I DON’T HAVE TO USE A WHEELCHAIR ANYMORE, I CAN FIGHT CRIME.
+
 So when she strides confidently away from that wheelchair, I understand that what makes a superhero isn’t disability. What people perceive as superheroism requires a certain amount of ability, and frankly, beauty. The standard for superhero requires you to be MORE able, by definition (See Daredevil for more on this trope, I mean, I’m still fighting with nerds about the fact that Daredevil is actually blind.)
  
 But wait! There’s more!
 
 Because superhero land doesn’t have a lot of kind things to say about disability, period. Which brings us to: 
 
-##Dr. Poison from _Wonder Woman_ 
+## Dr. Poison from _Wonder Woman_ 
 
 In Wonder Woman, we have Dr. Poison, a disfigured scientist working to support the pseudo Nazis (they were wearing iron eagles, they’re nazis, shut up) is the secondary villain of our set piece in World War I.
  
@@ -84,7 +85,7 @@ The camera panned to Dr. Poison (the only disabled woman in the film) when the l
 Folks. I don’t know what that says to you, but to me it says that I am not wanted here, and that my body is not worth saving. I have a facial difference as well, and while mine isn’t as severe as Dr. Poison’s, it is still there. 
 At this point, some of you are shaking your heads. You’re thinking that I’m just picking only the worst examples. So, let’s take a look at one of the more positive examples of a disabled female character. 
 
-##Imperator Furiosa from _Mad Max: Fury Road_ 
+## Imperator Furiosa from _Mad Max: Fury Road_ 
 
 Imperator Furiosa is great. Imperator Furiosa is filled with the fury, and the righteousness of the women warriors I desire to represent myself and my community, but unfortunately, Imperator Furiosa is not a Disabled Information Broker. She is an action hero. While Imperator Furiosa is great, and important, her actions are not necessarily taken because of information that she has that is special or good. She is not enacting on her own agency. She is enacting other people’s agencies for them.
  
@@ -94,7 +95,7 @@ If there were good representations of women using these same power structures to
  
 The problem is, male active information brokers are always pointed to as why we can’t have nice things. Why we should be fucking satisfied with the representation of disability through a monolith of white men with the House of Fucking Lannister behind them. 
 
-I am never going to be satisfied. 
+## I am never going to be satisfied. 
 
 Not until I have women with white canes, wheelchairs, and prosthetics using power and money and information to enact change alongside the men who are being pointed at with the “see, you have that!” fervor that I receive about Miles and Tyrion.
  
