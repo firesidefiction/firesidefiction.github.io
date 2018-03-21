@@ -63,7 +63,7 @@ I don’t get to have active DIB characters who are supposed to represent me as 
 So. Oracle. 
     
 Yes. Oracle is great. Barbara Gordon is a wheelchair using hacker who has information and power and she distributes information to her team to- Oh. I see.  She doesn’t actually get to GO anywhere, do anything, or support her teammates. Because she uses a wheelchair. She does fight from her chair a few times, but it’s not what she’s known for. What she’s known for is hacking. 
-When Batgirl returned to comic book land, and left the Oracle mantle behind, Jaime Noguchi [drew a picture of Batgirl] (http://comicsalliance.com/batgirl-barbara-gordon-disabled/) in full gear, striding confidently away from her wheelchair.
+When Batgirl returned to comic book land, and left the Oracle mantle behind, Jaime Noguchi [drew a picture of Batgirl](http://comicsalliance.com/batgirl-barbara-gordon-disabled/) in full gear, striding confidently away from her wheelchair.
  
 Implication: YAY I DON’T HAVE TO USE A WHEELCHAIR ANYMORE, I CAN FIGHT CRIME.
 
