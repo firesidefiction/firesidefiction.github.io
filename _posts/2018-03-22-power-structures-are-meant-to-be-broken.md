@@ -13,7 +13,7 @@ author-bio: |
   [Elsa Sjunneson-Henry](http://feministsonar.com/elsa/) is a deafblind speculative fiction writer and editor. She's had work published at tor.com, _Uncanny Magazine_, _Fireside_, and _The Boston Globe_. She's the managing editor of _Fireside_ and the Guest Co-Editor in Chief of _Disabled People Destroy Science Fiction_. In her spare time she destroys the patriarchy and snuggles her hound dog.
 proofread: true
 contentnote: |
-  Authors Note: There are so many spoilers in this essay. For Game of Thrones, the Vorkosigan-verse, Star Trek, Daredevil, Anything with Oracle in it (but Especially _The Killing Joke_), and _Mad Max: Fury Road_.
+  Authors Note: There are so many spoilers in this essay. For Game of Thrones, the Vorkosigan-verse, Star Trek, Daredevil, Anything with Oracle in it, and _Mad Max: Fury Road_.
 ---
 
 Daring to be disabled in fiction is complicated. Many disabled characters are cured of their disability in order to advance the plot, and the ones that aren’t are often relegated to a specific bad stereotype. When I say cured, what I mean is Daredevil with his “sight” and Geordi LaForge with his VISOR. They’re blind, but they can see. Which is its own super special essay, about why blindness shouldn’t be erased in your character development.
