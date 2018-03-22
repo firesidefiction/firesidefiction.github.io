@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-03-22 00:00:01 -0500
 category: essay
 permalink: power-structures-are-meant-to-be-broken
-published: false
+published: true
 teaser: "Why is it always goddamn white dudes with money? Because society is most comfortable with men with disabilities being active bodies."
 author-img: elsa-sjunneson-henry.jpg
 author-bio: |
@@ -50,7 +50,7 @@ Oh, hey. I know the answer to that question!
 
 Knowledge is power, power is delicious, power is held by… Aw crap. Check this out. All the disabled information brokers who have agency and self-determination in their plots? They’re white men. With money.
 
-Look, Tyrion manages to escape with his life, not because he’s smart, or because of any other personality characteristic, but because he has money (for a little bit) and, more importantly, because he has information and power. In _The Mountains of Mourning_, Miles goes so far as to protect the rights of a dead disabled infant, but all of this is possible not because of his boundless energy, but because he has money and power structures to support his reckless self-endangerment habits. Professor X is able to do many of the things that he does because he is a man with power behind him. Even when he is at his most helpless, the fact that he has Wolverine to protect him is an asset.
+Look, Tyrion manages to escape with his life, not because he’s smart, or because of any other personality characteristic, but because he has money (for a little bit) and, more importantly, because he has information and power. In _The Mountains of Mourning_, Miles goes so far as to defend the rights of a dead disabled infant in a society where that's not popular, because of his status. Throughout the books he performs acts of extreme heroism,  but all of this is possible not because of his boundless energy, but because he has money and power structures to support his reckless self-endangerment habits. Professor X is able to do many of the things that he does because he is a man with power behind him. Even when he is at his most helpless, the fact that he has Wolverine to protect him is an asset.
 
 Why is it always goddamn white dudes with money? Because society is most comfortable with men with disabilities being active bodies. We’re okay with disabled men being paralympians because they’re men. You can be a horrible human being, you can use a wheelchair, but if you’re a man, and you have money? You can get away with just about anything.
 
