@@ -1,29 +1,27 @@
 ---
 layout: post
-title: "This week in Fireside: the aftermath"
-teaser: can't stop won't stop
+title: "This week in Fireside: p'alante p'alante"
+teaser: como un elefante
 author: Pablo Defendini
-date: 2018-11-04 01:00:01 -0500
+date: 2018-03-25 01:00:01 -0500
 category: email
 published: false
 proofread: true
-note: in the text about the Quarterly, you say "we wait" twice. The repetition both makes it sounds like someone is MAKING you wait and feels like it is conveying nervousness or anxiousness or something. Whether or not that is how we are feeling, we probalby don't want to broadcast that implication? 
+note:
 ---
 
-¡Saludos!
+Hey everybody!
 
-This week’s story hit close to home for me. Arkady Martine’s “[Object-Oriented](https://firesidefiction.com/object-oriented)” is about post-disaster recovery and support, the toll it takes on the people who live it, and how we can try to mitigate that toll — to a point.
+This week we opened with "[By the Mother's Trunk](https://firesidefiction.com/by-the-mothers-trunk)," a tense bit of flash from Lisa M. Bradley. It's a story about the price of giving people what they want, and it stars Tillie the Elephant — what more could you want?
 
-This past Wednesday we saw an incredible, heartbreaking show of solidarity and resolve from students across the country. If you managed to watch video of middle school children standing in silence during the national walkout for gun control and not have your heart break, then I don’t know what to tell you. These kids are telling us  — directly, no mincing words — that we’ve failed them, that our politicians have failed them, and that they will soon be old enough to vote. Let’s not make them wait, let’s keep the pressure on Congress. [Call them up again this week](https://www.5calls.org/issue/action-against-gun-violence), and tell them to make real gun control legislation happen, not some bullshit "school safety" bill drafted by the  profiteers at the NRA.
+We also published a powerful essay from Elsa Sjunneson-Henry this week. In "[Power Structures Are Meant to Be Broken](https://firesidefiction.com/power-structures-are-meant-to-be-broken)," Elsa dismantles the trope of the disabled information broker, and the ever-looming presence of white dudes as a privileged group, even within otherwise marginalized communities.
 
-We're very much in the calm before the storm around here, on so many fronts. We've got a drop-dead transmission date from our printers, and our content deadline for the first issue of the print [_Fireside Quarterly_](https://d.rip/fireside) is at the end of April, so Julia is quietly working away at edits on stories, and I've gotten our illustrators under contract and working away as well. I should be seeing sketches for each illustration in the next week or two, and around the same time we'll announce the artists' TOC for the first issue of the Quarterly. I'm super excited with the artists we're working with, and you will be too. But in the meantime, we wait. I've got the guts of the issue laid out, ready and waiting for final copy to be flowed in for typesetting and final artwork to be laid out.
+This Saturday is the [March for our Lives](https://firesidefiction.com/by-the-mothers-trunk), a mass demonstration in favor of gun control laws, organized by the survivors of the Parkland school shooting. These kids are not going to let this go, and neither should we. If you can join a demonstration this Saturday, please and show your support. If you cant be there physically, you can still help by keeping the pressure up with our elected officials — [call those congresscritters again and again](https://www.5calls.org/issue/action-against-gun-violence) and agitate for sensible gun control legislation. Enough is enough.
 
-We've prepared, we've made plans and checklists, we know what to do. Now we wait.
+Next week is the editorial deadline for the first issue of [_Fireside Quarterly_](https://d.rip/fireside). That means that we're getting the final edited stories from each author. We'll then start putting togehter the layout of the magazine, for sending to the printer in May, ahead of our July shipping date. We get to start sharing in-progress sneak peeks wit you soon!
 
-In the meantime, if you want to get into next month’s Issue 54 before it hits the website, and you want to support the work we do to publish great stories and get authors, artists, and staff paid, [subscribe to _Fireside Magazine_](https://firesidefiction.com/#subscribe).
+In the meantime, [subscribe to _Fireside Magazine_](https://firesidefiction.com/#subscribe). Your direct support makes all of our work possible, and makes it so that we can pay our authors, artists, and editors, as much money as we can.
 
-Next week we’ve got a tense little flash piece by Lisa M. Bradley stomping your way. 
-
-As always, thanks for reading—see you next week!
+As always, thanks for reading — catch you next week!
 
 Pablo
