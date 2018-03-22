@@ -32,17 +32,19 @@ Running Fireside isn’t cheap. Most of our revenue goes to pay for our writers 
 
 ## The Fireside Team
 
-### [Julia Rios](http://www.juliarios.com/)—Fiction Editor
+### [Julia Rios](mailto:julia@firesidefiction.com)—Fiction Editor
 Julia Rios is a writer, editor, podcaster, and narrator. Her fiction, non-fiction, and poetry have appeared in several places, including _Daily Science Fiction_, _Apex Magazine_, and _Goblin Fruit_. In addition to being a senior fiction editor for _Strange Horizons_ from 2012 to 2015, she has edited poetry and reprints for _Uncanny Magazine_ and co-edited several anthologies with Alisa Krasnostein, including _Kaleidoscope: Diverse YA Science Fiction and Fantasy Stories_, and the Year's Best YA Speculative Fiction series. She is a co-host of the Hugo-nominated podcast, The Skiffy and Fanty Show, a general discussion, interview, and movie review show, and [Walkthrough](https://walkthroughpodcast.com/), a discussion of exercise and geekery with Amal El-Mohtar and Layla Al-Bedawi. She has narrated stories for _Podcastle_, _Pseudopod_, and _Cast of Wonders_, and poems for the _Strange Horizons_ podcast. As one of the four co-founders of [Fuente Collective](http://www.fuenteco.com/), she is interested in encouraging creativity and community across multiple genres, cultures, and disciplines.
 
-### [Elsa Sjunneson-Henry](https://feministsonar.com)—Managing Editor
+### [Elsa Sjunneson-Henry](mailto:elsa@firesidefiction.com)—Managing Editor
 Elsa Sjunneson-Henry is a half-blind, half-deaf, half-Scandinavian writer and editor from Seattle, Washington. She's the Guest Editor in Chief of Non-Fiction for _Disabled People Destroy Science Fiction_, a blogger for B&N Scifi, and a game designer. She’s the author of [_A Place Out of Time_](http://firesidefiction.com/issue34/chapter/a-place-out-of-time/) and is also included in the [_Ghost in the Cogs_](http://amzn.to/2au3fe0) anthology. Her nonfiction has been published at _The Boston Globe_, _Uncanny Magazine_, _TerribleMinds_ and other sundry locales.  Currently, she lives in New Jersey with her delightfully quirky husband, a hound dog, two cats, and a grandfather clock that chimes when it feels like it. You can find Elsa on Twitter [@snarkbat](https://twitter.com/snarkbat).
 
-### [Pablo Defendini](https://twitter.com/pablod)—Publisher & Art Director
+### [Pablo Defendini](mailto:pablo@firesidefiction.com)—Publisher & Art Director
 Pablo Defendini is [a designer and developer for hire](http://defendini.com), with a focus on editorial design for digital media. He helped launch [Tor.com](http://tor.com/), before moving on to work for companies that sit in the overlap between publishing and technology, like [Open Road Media](http://openroadmedia.com/) and [O'Reilly](https://safaribooksonline.com/). Pablo was born and raised in San Juan, Puerto Rico, lives in New York City, and works with people all over the world.
 
-### [Brian White](https://talkwordy.com)—Founding Editor
+### [Brian White](mailto:brian@firesidefiction.com)—Founding Editor
 Brian started Fireside in 2012 with a Kickstarter and a whole lot of love. Over the next five years as editor and publisher – with the help of his amazing team and of Lauren, his wife and partner in crime – he expanded Fireside from a one-off magazine to a monthly publication to its current form, a site with weekly fiction and occasional nonfiction. Fireside published 150 stories under his tenure, as well as five novels and one novella. He is deeply proud to have had a part in bringing those stories into the world. He was gratified to have proved that writers can be paid more for their work than the industry accepted, and perhaps most proud of the [\#BlackSpecFic](https://medium.com/fireside-fiction-company/antiblack-racism-in-speculative-fiction-7e30eff97008) report that Fireside published in 2016. He stepped down as editor and publisher in the [summer of 2017](/teach-me-how-to-say-goodbye), but he remains an equity partner in the company, as well as an editor for special projects, serials, and books.
+
+For general inquiries, please contact [questions@firesidefiction.com](mailto:questions@firesidefiction.com). For press requests, please email [marketing@firesidefiction.com](mailto:marketing@firesidefiction.com).
 
 [back to the top](#top-of-page)
 
