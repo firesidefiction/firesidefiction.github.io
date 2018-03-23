@@ -10,8 +10,8 @@ published: false
 teaser: "She was radiant, whirlwinds of color on evanescent skin, doused in virtual ink. Her beady eyes darted, taking us in."
 author-img: d-a-xiaolin-spires.jpg
 author-bio: |
-  [D.A. Xiaolin Spires](https://daxiaolinspires.wordpress.com/) counts stars and sand, residing currently in Hawaiʻi. You can find her embarking on olfactorial odysseys as she inhales plumeria blossoms, poke and poi. Her work appears or is forthcoming in various publications such as _Clarkesworld_, _Analog_, _Grievous Angel_, _Retro Future_, _LONTAR_, _Star*line_, _ETTT_, _Gathering Storm Magazine_, and _Story Seed Vault_; as well as anthologies of the strange and delightful, such as _Sharp & Sugar Tooth_, _Broad Knowledge_ and _Ride the Star Wind_. She can be found on [her website](https://daxiaolinspires.wordpress.com/) or on Twitter: [@spireswriter](https://twitter.com/spireswriter)
-proofread: false
+  [D.A. Xiaolin Spires](https://daxiaolinspires.wordpress.com/) counts stars and sand, residing currently in Hawaiʻi. You can find her embarking on olfactorial odysseys as she inhales plumeria blossoms, poke and poi. Her work appears or is forthcoming in various publications such as _Clarkesworld_, _Analog_, _Grievous Angel_, _Retro Future_, _LONTAR_, _Star*line_, _ETTT_, _Gathering Storm Magazine_, and _Story Seed Vault_; as well as anthologies of the strange and delightful, such as _Sharp & Sugar Tooth_, _Broad Knowledge_, and _Ride the Star Wind_. She can be found on [her website](https://daxiaolinspires.wordpress.com/) or on Twitter: [@spireswriter](https://twitter.com/spireswriter)
+proofread: true
 ---
 
 With the thunderclap, I dropped my spoon. Sinigang soup bled into my jeans, spreading in darkness, like the shadow covering us all.
@@ -44,12 +44,11 @@ Mercury spill.
 
 I dialed from my wrist patch. A quick relay of words and the line went dead. I commanded my legs to make their way to the liquivacs in the corner, just to do something.
 
-_I should leave,_ I thought. But my hands felt secure, grasping the firm liquivac handles. I waffled, stepping forward, then back, holding onto that liquivac like it was the only solid thing in the world.
+_I should leave_, I thought. But my hands felt secure, grasping the firm liquivac handles. I waffled, stepping forward, then back, holding onto that liquivac like it was the only solid thing in the world.
 
 When the alarms sounded, I noticed Kimo was gone.
 
 My mind reeled; having a task would be nice. I turned the vac on. It whined louder than the screech. Its aggressive howl calmed me. I could see the self-driving tanks, far-off in the mountainous horizon, gliding towards me.
-
 ----
 
 I stood in line to scrawl my name on the page. Kimo stood in front of me, giving me as reassuring a smile as he could muster. He still remembered what he considered my act of bravery; my performance with the vacs, a macabre dance with the tanks—a holoclip that newscasters continue to broadcast throughout the islands.

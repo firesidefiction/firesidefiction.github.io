@@ -13,7 +13,8 @@ caption: "TK TK"
 artist: Galen Dara
 author-bio: |
   [Bogi Takács](http://www.prezzey.net) is a Hungarian Jewish author currently living in the US as a resident alien. Eir work has been published in venues like [_Clarkesworld_](http://clarkesworldmagazine.com/author/Bogi%20Tak%C3%A1cs/), [_Apex_](http://www.apex-magazine.com/tag/bogi-takacs/) and  [_Strange Horizons_](http://strangehorizons.com/author/bogi-takacs/), among others. You can find em on [Twitter](https://www.twitter.com/bogiperson) and [Instagram](https://www.instagram.com/bogiperson/) as @bogiperson, or see what happens when [Bogi Reads the World](http://www.bogireadstheworld.com).
-proofread: false
+proofread: true
+proofreadernote: Caption on this is still maked TK
 contentnote:
 ---
 
@@ -40,7 +41,7 @@ We killed all the megafauna. We killed the starfloats, the pecan-whales, hunted 
 
 Had this been Earth, everything would've churned upon itself, slowly shriveling up into oblivion, with the occasional burst of gas. A silent demise.
 
-Here, the sea turned on us with a ferocity of nightmares, wailing in our minds, its fingers pulling greedily at our thoughts. Mine mine mine. Ceaseless magic rerouted by our actions, turned malignant due to being wrenched out of place. So now we feed the planet. Thus the planet feeds on me: all the power I use to drag organic matter down below, all my effort to mimic a dying starfloat or a gömböc. I resurface, task accomplished – I feel drained and weary. I scramble out into the docks, hoping beyond hope that they wouldn't be there, waiting.
+Here, the sea turned on us with a ferocity of nightmares, wailing in our minds, its fingers pulling greedily at our thoughts. Mine mine mine. Ceaseless magic rerouted by our actions, turned malignant due to being wrenched out of place. So now we feed the planet. Thus the planet feeds on me: all the power I use to drag organic matter down below, all my effort to mimic a dying starfloat or a gömböc. I resurface, task accomplished—I feel drained and weary. I scramble out into the docks, hoping beyond hope that they wouldn't be there, waiting.
 
 “Hey, the herm. Dude in a skirt!”
 
@@ -60,12 +61,15 @@ I drag myself to the seaside blocks of apartments, stare at the empty expanse of
 
 In my home-berth, I undress, wrap myself into layers of blankets. Before I know, I am asleep, and the planet doesn't scream at me, it only drones and drones like a lone electric guitar in some minimalist composition.
 
----
+----
 
 _“I came to you: an upstanding young man,here to pour dew on beautiful women,because if I don't water them this year,they won't bloom and flower next year.”_
 —Hungarian Folk Rhyme“Fagtastic, eeeyah!”
+
 And another voice, a drunken baritone:
+
 “Open the fucken door!”
+
 _Go away_, I think, _go away_.
 
 I wanted to sleep in—at least on Easter Monday if I didn't get Sunday off. But nature doesn't abide by our festivals and the sea is ever hungry. I pull my blanket over my head. The dudes outside are thumping on the door.
@@ -96,9 +100,9 @@ This is very, very much not what they expected.
 
 I raise my right arm to point at them, and outside, the sea rumbles.
 
-They run away.
+They run away.
 
----
+----
 
 _“Oh my God, tell me what should I do,should I run away or should I stop?If I run, they will chase me still,If I stay, they will beat me till I drop.”_–Beás, Hungarian and Romani folk songI wander the seaside. _That wasn't a prank_, I'm thinking, _they wanted to hurt me, maim me_.
 

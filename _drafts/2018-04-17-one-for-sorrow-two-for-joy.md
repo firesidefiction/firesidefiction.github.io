@@ -10,18 +10,20 @@ published: false
 teaser: "People grieved over so many things, the Undertaker mused. A failed marriage. Loss of a job. But the loss of a child always hit the keenest."
 author-img: lashawn-wanak.jpg
 author-bio: |
-  LaShawn M. Wanak lives in Madison, WI with her husband and son.  Her short fiction and essays can be found in _Strange Horizons_, _Podcastle_ and _Uncanny Magazine_. She reviews books for _Lightspeed Magazine_ and is a graduate of the 2011 class of Viable Paradise. Writing stories keeps her sane. Also, pie. Visit her at her website: [The Cafe in the Woods](http://tbonecafe.wordpress.com).
-proofread: false
+ LaShawn M. Wanak lives in Madison, Wis., with her husband and son. Her short fiction and essays can be found in _Strange Horizons_, _Podcastle_ and _Uncanny Magazine_. She reviews books for _Lightspeed Magazine_ and is a graduate of the 2011 class of Viable Paradise. Writing stories keeps her sane. Also, pie. Visit her at her website: [The Cafe in the Woods](http://tbonecafe.wordpress.com).
+proofread: true
 contentnote:
 ---
 
 **…fair of face…**
 
-The boy had a chubby face framed by sugar syrup brown ringlets. His folded hands upon his still chest looked so soft, the Undertaker couldn't resist bending down to brush her lips against the smooth knuckles.
+The boy had a chubby face framed by sugar-syrup-brown ringlets. His folded hands upon his still chest looked so soft, the Undertaker couldn't resist bending down to brush her lips against the smooth knuckles.
 
 She studied the picture of the boy the parents had sent her: eyes bright, smile shining, arms thrown over a Labrador. The dog seemed to have it the hardest, the family friend had told her, dabbing at his eyes. It kept going to the boy's bed, yanking off the covers, and then lying on them. It had refused to eat, just kept looking up with doleful eyes at the bed. "We don't know what to do. How do you tell a dog that its favorite child is never—"
+
 He had covered his face with his hands, and the Undertaker patted his arm.
-Now, the Undertaker brushed the boy's ringlets and straightened his suit made from silk —his parents had spared no expense for this. She arranged the tiny soldier figures and car toys about the open coffin according to the parent's written instructions, brushed his shoes until they shone. She stepped back from the coffin, looking to see if anything was out of place.
+
+Now, the Undertaker brushed the boy's ringlets and straightened his suit made from silk—his parents had spared no expense for this. She arranged the tiny soldier figures and car toys about the open coffin according to the parent's written instructions, brushed his shoes until they shone. She stepped back from the coffin, looking to see if anything was out of place.
 
 A lone crow peered through the window. The Undertaker took up a hardened bread roll and flung it at the window.
 
@@ -37,19 +39,19 @@ When the afternoon sun began to sink below the tree line far to the west, she re
 
 The crows let out a cry and descended onto the coffin.
 
-As they did their work, the Undertaker moved to a slight rise carpeted with clover and violets. She sat and watched the sun finish its journey into twilight. Her hand reached up to touch a small green pouch she wore on a silk green ribbon around her neck.
+As they did their work, the Undertaker moved to a slight rise carpeted with clover and violets. She sat and watched the sun finish its journey into twilight. Her hand reached up to touch a small green pouch she wore on a green silk ribbon around her neck.
 
 Another crow, or perhaps the same one from earlier, landed in front of her, clutching something shiny in its beak. She threw a rock at it, but it was only a half-hearted throw.
 
----
+----
 
 **…full of grace…**
 
 "She always loved flowers."
 
-The woman who sat in the Undertaker’s den was graceful, long limbed--probably a dancer. She had long, curly eyelashes, limned with beaded tears. She kept glancing to the other room, the Undertaker's workshop, where a young girl the spitting image of the dancer lay in a coffin, her cheeks still the color of peach fuzz at the peak of ripeness. Whoever had embalmed her had done a marvelous job.
+The woman who sat in the Undertaker’s den was graceful, long limbed—probably a dancer. She had long, curly eyelashes, limned with beaded tears. She kept glancing to the other room, the Undertaker's workshop, where a young girl the spitting image of the dancer lay in a coffin, her cheeks still the color of peach fuzz at the peak of ripeness. Whoever had embalmed her had done a marvelous job.
 
-"I wanted to bury her under a willow tree, with daffodils, baby's breath, daisies'. That was her favor—“ The woman's breath hitched. The Undertaker waited patiently for the woman to compose herself, secretly glad that her daughter wasn't going to be buried in the ground where the worms and the centipedes would nibble at her sweetness. Finally, the woman glanced up at her again. "Will she suffer?"
+"I wanted to bury her under a willow tree, with daffodils, baby's breath, daisies'. That was her favor—" The woman's breath hitched. The Undertaker waited patiently for the woman to compose herself, secretly glad that her daughter wasn't going to be buried in the ground where the worms and the centipedes would nibble at her sweetness. Finally, the woman glanced up at her again. "Will she suffer?"
 
 "Her soul has already fled to warmer pastures. She won't feel a thing."
 
@@ -71,11 +73,11 @@ But she would keep the coin.
 
 They always did.
 
----
+----
 
 **…filled with woe…**
 
-People grieved over so many things, the Undertaker mused. A failed marriage. Loss of a job. But the loss of a child always hit the keenest. Never mind the grief children felt when their parents died. The old cliché was always true; parents never expected to outlive their children.  It was more than just the child who died. It was death of dreams. Of plans. Of potential. Of possibility. Of the future.
+People grieved over so many things, the Undertaker mused. A failed marriage. Loss of a job. But the loss of a child always hit the keenest. Never mind the grief children felt when their parents died. The old cliché was always true; parents never expected to outlive their children. It was more than just the child who died. It was death of dreams. Of plans. Of potential. Of possibility. Of the future.
 
 Her clientele came from all over. Crying fathers, stoic mothers. Those who wailed and tore at their shirts and pulled at their hair, as if inflicting pain on themselves could bring their children back. Those who sat silent, their only sign of grief a lowering of the eyes, or the tightening of the lips as their beloved child was carried away from them. Most came to her after the funeral had been held. Others came directly from the hospital, the morgue.
 
@@ -87,7 +89,7 @@ Once, a person asked her if the crows ate the children. The Undertaker stared at
 
 Then where do they go? What do the crows do with the children?
 
-Did it matter? The children were already dad. Nothing could bring them back. It wasn't her job to provide answers. The crows were not kind. Nor were they cruel. They only made sure nothing was left behind.
+Did it matter? The children were already dead. Nothing could bring them back. It wasn't her job to provide answers. The crows were not kind. Nor were they cruel. They only made sure nothing was left behind.
 
 Today's child wasn't even a child. It was a bundle of blood-soaked rags left on her doorstep, wrapped tight in swaddled blankets. A miscarriage then, or perhaps an abortion. She never knew which, nor did she seek out the truth. That wasn't her job.
 
@@ -107,7 +109,7 @@ But it calmed her, the slight touch. And that was always enough.
 
 She had no need for money. The crows took care of her needs. They brought her food, objects. And they took the children and the heartache away.
 
----
+----
 
 **…far to go…**
 
@@ -121,7 +123,7 @@ The Undertaker stopped her spiel about the ceremony mid-sentence. "I'm sorry?"
 
 The red jade woman reached over to pat her partner's shoulder, but she jerked away. "Why should I give my child to you? What if I don't _want_ to forget?"
 
-"You won't forget," The Undertaker tried to continue her spiel. "It will just ease the pain."
+"You won't forget," the Undertaker tried to continue her spiel. "It will just ease the pain."
 
 "I don't _want_ to ease my pain," The force of the woman's anger pushed the Undertaker back in her chair. "He was my son. My boy. There is a hole here and it can't be filled by _anything_. And you just want me to ignore that? I was his mother!"
 
@@ -133,7 +135,7 @@ The cornrowed woman rose. "I knew this was a mistake." She left, her partner scr
 
 A crow landed on the door's threshold, cawing and flapping its wings. The Undertaker had nothing to throw at it this time.
 
----
+----
 
 **…loving and giving…**
 
@@ -195,7 +197,7 @@ _She shrieks, running into their midst, flapping her arms, grabbing what she can
 
 _In the end, she can only rescue a few fragments._
 
-_It isn't until the horror of the act has finished washing over her that she realizes that, For the first time in a long time, she can think. The pain she felt hasn't vanished, but is muted. Reduced._
+_It isn't until the horror of the act has finished washing over her that she realizes that, for the first time in a long time, she can think. The pain she felt hasn't vanished, but is muted. Reduced._
 
 The Undertaker, who forsook everything twelve years ago—her name, her partner, her livelihood—sat in a house she had built with her own two hands. She laid eyes on these fragments, all that remained of her daughter, and wept.
 
@@ -218,7 +220,7 @@ When all was ready, they carried the coffin out to the basalt slab. The crows ha
 
 Before the Undertaker could respond, something blurred past her—the cornrowed woman, scooping up the child's body before either of them could move. She glared at them, then took off running towards the trees, the child's body cradled in her arms.
 
-"No!" cried The Undertaker.
+"No!" cried the Undertaker.
 
 But the crows were already rising as a black cloud, harsh caws pelting the air. They surrounded the fleeing woman, who shrieked and hunched down, shielding the body with her own. Her partner waded in, crying at them to stop. But the crows refused to be thwarted. They pecked and tore with beaks and claws.
 
@@ -232,7 +234,7 @@ The crows, sensing something that had been denied for so long, left off their pu
 
 Then she took a deep breath and turned to deal with the bruised, sobbing cornrowed woman, still clutching the dead child tight to her breast, unwilling to let go.
 
----
+----
 
 **…on a Sabbath day…**
 
@@ -268,12 +270,12 @@ She then brought the woman to the crows, who cawed and nudged each other, but ma
 
 She handed the woman a small silk bag, similar to her own. The woman stared at her. "What—"
 
-"What better way for her to work through her own grief," The Undertaker said, gently, folding her hands over the woman's. "Stay. Process your thoughts. When you are ready, give your child away. You're not going to forget him. The pain won't cease. But you will accept it one day. The crows will know."
+"What better way for her to work through her own grief," the Undertaker said, gently, folding her hands over the woman's. "Stay. Process your thoughts. When you are ready, give your child away. You're not going to forget him. The pain won't cease. But you will accept it one day. The crows will know."
 
 The woman clutched the bag and gave a slight nod. She went to join the cornrowed woman, taking up the same posture the Undertaker had for so many years now. The Undertaker didn't know how long they would stay: weeks, months, years...
 
 It didn't matter. The crows would always find another.
 
-She went inside, packed her belongings, which were few. She dug until she found the slip of paper which carried her old name. She closed the door to the house that wasn't hers anymore and started walking down the road.
+She went inside, packed her belongings, which were few. She dug until she found the slip of paper that carried her old name. She closed the door to the house that wasn't hers anymore and started walking down the road.
 
 A pair of crows circled over her and dropped a coin at her feet. She stepped over it and kept on walking.
