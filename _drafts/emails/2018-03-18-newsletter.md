@@ -12,16 +12,12 @@ note:
 
 Hey everybody!
 
-This week we opened with "[By the Mother's Trunk](https://firesidefiction.com/by-the-mothers-trunk)," a tense bit of flash from Lisa M. Bradley. It's a story about the price of giving people what they want, and it stars Tillie the Elephant — what more could you want?
+Yesterday the kids took us to school with the [March for our Lives](https://firesidefiction.com/by-the-mothers-trunk), a mass demonstration in favor of gun control laws, organized by the survivors of the Parkland school shooting. Marching is important and we are so proud of these kids, but the work doesn’t stop there - lets help them with it.  Register to [vote](https://vote.gov/), and [call your congress person](https://www.5calls.org/issue/action-against-gun-violence). Tell them that it’s time for common sense gun control. It's also time for your Senator, specifically, to step up and defend the ADA by voting down [HR 620](https://www.5calls.org/issue/americans-with-disabilities-act-ada) when it comes up for a vote, and it's waaaay past time that we all got together to tell our elected representatives that we [reject the government's latest actions against transgender people](https://www.5calls.org/issue/trump-ban-transgender-military-troops). Because all of this is related, and the only way we win is by being relentless and doing the work.
 
-We also published a powerful essay from Elsa Sjunneson-Henry this week. In "[Power Structures Are Meant to Be Broken](https://firesidefiction.com/power-structures-are-meant-to-be-broken)," Elsa dismantles the trope of the disabled information broker, and the ever-looming presence of white dudes as a privileged group, even within otherwise marginalized communities.
+Speaking of work, we’ve been hard at it. This week we published “[By the Mother's Trunk](https://firesidefiction.com/by-the-mothers-trunk),” a tense piece of flash fiction by Lisa M. Bradly that explores the cost of giving people what they want. We also published a powerful essay by Elsa Sjunneson-Henry, “[Power Structures Are Meant to Be Broken](https://firesidefiction.com/power-structures-are-meant-to-be-broken)” that explores the frustrations of finding disabled representation.
 
-This Saturday is the [March for our Lives](https://firesidefiction.com/by-the-mothers-trunk), a mass demonstration in favor of gun control laws, organized by the survivors of the Parkland school shooting. These kids are not going to let this go, and neither should we. If you can join a demonstration this Saturday, please and show your support. If you cant be there physically, you can still help by keeping the pressure up with our elected officials — [call those congresscritters again and again](https://www.5calls.org/issue/action-against-gun-violence) and agitate for sensible gun control legislation. Enough is enough.
-
-Next week is the editorial deadline for the first issue of [_Fireside Quarterly_](https://d.rip/fireside). That means that we're getting the final edited stories from each author. We'll then start putting togehter the layout of the magazine, for sending to the printer in May, ahead of our July shipping date. We get to start sharing in-progress sneak peeks wit you soon!
+Next week is the editorial deadline for the first issue of [_Fireside Quarterly_](https://d.rip/fireside). That means that we're getting the final edited stories from each author. We'll then start putting together the layout of the magazine, for sending to the printer in May, ahead of our July shipping date. We get to start sharing in-progress sneak peeks wit you soon!
 
 In the meantime, [subscribe to _Fireside Magazine_](https://firesidefiction.com/#subscribe). Your direct support makes all of our work possible, and makes it so that we can pay our authors, artists, and editors, as much money as we can.
 
 As always, thanks for reading — catch you next week!
-
-Pablo
