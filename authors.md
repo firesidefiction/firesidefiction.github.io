@@ -48,6 +48,9 @@ permalink: /authors
 ### Elizabeth Bear
 — [_Form and Void_](/issue3/chapter/form-and-void/)
 
+### Jojo Bee
+— [_Iyanuoluwa-Mercy of God_](/iyanuoluwa-mercy-of-god/)
+
 ### Helena Bell
 — [_Look Upon my Works, Ye Mighty, and Despair (In Three Months)_](/issue25/chapter/look-upon-my-works-ye-mighty-and-despair-in-three-months/)
 
@@ -67,6 +70,9 @@ permalink: /authors
 — [_Rhapsody in Blue Shift_](/issue2/chapter/rhapsody-in-blue-shift/)
 
 — [_La Bestia_](/issue26/chapter/la-bestia/)
+
+### Lisa M. Bradley
+— [_By the Mother’s Trunk_](/by-the-mothers-trunk/)
 
 ### Tobias S. Buckell
 — [_Press Enter to Execute_](/issue1/chapter/press-enter-to-execute/)
@@ -343,6 +349,9 @@ permalink: /authors
 ### Kate Lechler
 — [_The Hulder’s Husband Says Don’t_](/the-hulders-husband-says-dont)
 
+### Marissa Lingen
+— [_Flow_](/flow/)
+
 ### Ken Liu
 — [_To the Moon_](/issue1/chapter/to-the-moon/)
 
@@ -354,6 +363,9 @@ permalink: /authors
 
 ### S.M. Mack
 — [_Ariadne, Abandoned on Naxos_](/issue35/chapter/ariadne-abandoned-on-naxos/)
+
+### Arkady Martine
+— [_Object-Oriented_](/object-oriented/)
 
 ### James McGee
 — [_Sell it Like Death_](/issue6/chapter/sell-it-like-death/)
@@ -517,6 +529,8 @@ permalink: /authors
 — [_A Place Out of Time_](/issue34/chapter/a-place-out-of-time/)
 
 — [_Blind Reading is in Braille or Large Print_](/blind-reading)
+
+— [_Power Structures Are Meant to Be Broken_](/power-structures-are-meant-to-be-broken)
 
 ### Addison Smith
 — [_Hope for Enthos_](/issue10/chapter/hope-for-enthos/)

@@ -8,9 +8,6 @@ category: short story
 permalink: on-good-friday-the-raven-washes-its-young
 published: false
 teaser: "The family didn't want a freak, so I came all the way here, to the planetfrontier."
-art: on-good-friday-the-raven-washes-its-young.png
-caption: "TK TK"
-artist: Galen Dara
 author-bio: |
   [Bogi Takács](http://www.prezzey.net) is a Hungarian Jewish author currently living in the US as a resident alien. Eir work has been published in venues like [_Clarkesworld_](http://clarkesworldmagazine.com/author/Bogi%20Tak%C3%A1cs/), [_Apex_](http://www.apex-magazine.com/tag/bogi-takacs/) and  [_Strange Horizons_](http://strangehorizons.com/author/bogi-takacs/), among others. You can find em on [Twitter](https://www.twitter.com/bogiperson) and [Instagram](https://www.instagram.com/bogiperson/) as @bogiperson, or see what happens when [Bogi Reads the World](http://www.bogireadstheworld.com).
 proofread: true
@@ -18,8 +15,9 @@ proofreadernote: Caption on this is still maked TK
 contentnote:
 ---
 
-_“On Good Friday the raven washes its young,as this world curses me with frogs and snaketongue;so this world should tell me face to face,who have I wronged in my life in this place.”_
-—Hungarian Folk Song
+>“On Good Friday the raven washes its young,as this world curses me with frogs and snaketongue;so this world should tell me face to face,who have I wronged in my life in this place.”
+
+>—Hungarian Folk Song
 
 Splosh creak. The docks are rusting apart, the little gangways are slowly devoured by all the alien chemicals in the sea. I slip, cuss. I want to be underwater, I want to be treasured. I want to feel like my body does what it was meant to do. Up here, I trundle, out of my element.
 
@@ -63,8 +61,11 @@ In my home-berth, I undress, wrap myself into layers of blankets. Before I know,
 
 ----
 
-_“I came to you: an upstanding young man,here to pour dew on beautiful women,because if I don't water them this year,they won't bloom and flower next year.”_
-—Hungarian Folk Rhyme“Fagtastic, eeeyah!”
+>“I came to you: an upstanding young man,here to pour dew on beautiful women,because if I don't water them this year,they won't bloom and flower next year.”
+
+>—Hungarian Folk Rhyme
+
+“Fagtastic, eeeyah!”
 
 And another voice, a drunken baritone:
 
@@ -104,7 +105,11 @@ They run away.
 
 ----
 
-_“Oh my God, tell me what should I do,should I run away or should I stop?If I run, they will chase me still,If I stay, they will beat me till I drop.”_–Beás, Hungarian and Romani folk songI wander the seaside. _That wasn't a prank_, I'm thinking, _they wanted to hurt me, maim me_.
+>“Oh my God, tell me what should I do,should I run away or should I stop?If I run, they will chase me still,If I stay, they will beat me till I drop.”_
+
+>–Beás, Hungarian and Romani folk song
+
+I wander the seaside. _That wasn't a prank_, I'm thinking, _they wanted to hurt me, maim me_.
 
 I focus on the magic inside me, the incandescent light. I don't want to return the hurt, I don't want to take revenge. I just want to be left alone.
 
