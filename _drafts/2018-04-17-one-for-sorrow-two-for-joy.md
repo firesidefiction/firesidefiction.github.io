@@ -8,8 +8,8 @@ category: short story
 permalink: one-for-sorrow-two-for-joy
 published: false
 teaser: "People grieved over so many things, the Undertaker mused. A failed marriage. Loss of a job. But the loss of a child always hit the keenest."
-art: one-for-sorrow-two-for-joy.png
-caption: "TK"
+art: one-for-sorrow-two-for-joy.jpg
+caption: "Two figures wait in the dark mist. Around them, crows. Lots of crows."
 artist: Dawid Planeta
 author-img: lashawn-wanak.jpg
 author-bio: |
