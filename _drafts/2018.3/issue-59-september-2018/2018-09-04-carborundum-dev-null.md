@@ -1,6 +1,6 @@
 ---
 layout: story
-title: CARBORUNDORUM > /DEV/NULL 
+title: CARBORUNDORUM > /DEV/NULL
 author: Annalee Flower Horne
 editor: Julia Rios
 date: 2018-09-04 01:00:01 -0500
@@ -10,7 +10,7 @@ published: false
 teaser: "So I have to live in _The Handmaid's Tale_ just because _you're_ scared of the dark? That's sexist!"
 author-img: annalee-flower-horne.jpg
 author-bio: |
-  [Annalee Flower Horne](http://www.flowerhorne.com) is a science fiction writer and web developer from Washington, DC. Her fiction has previously appeared in _The Magazine of Fantasy and Science Fiction_, _Mothership Zeta_, and the _Futurescapes Anthology_, where she won first place in the Futurescapes Writing Contest. She co-edits feminist geek culture blog _The Bias_. 
+  [Annalee Flower Horne](http://www.flowerhorne.com) is a science fiction writer and web developer from Washington, DC. Her fiction has previously appeared in _The Magazine of Fantasy and Science Fiction_, _Mothership Zeta_, and the _Futurescapes Anthology_, where she won first place in the Futurescapes Writing Contest. She co-edits feminist geek culture blog _The Bias_.
 proofread: false
 ---
 
@@ -27,7 +27,7 @@ Tish: _We should take the train to Monaco someday._
 Mentioning trains meant "turn off logging." Tish was in to spy stuff.
 
 Unfortunately, my mother had the house logging all my communications, and my app to get around it had gotten blocked with the last firmware update. I opened Tish's message and sent back: _to get to Monaco, we’d need a parrot._
- 
+
 Tish: _👍🏿 4-10?_
 
 That meant "Acknowledged, meet at the Four-Ten market." I grabbed my knee brace from beside my bed and put it on. My brother Kyle and his asshole friend Jack were walking past my window, so it was a good time to get out of the house anyway.
@@ -144,7 +144,7 @@ She beamed and stepped off the sidewalk onto the back of my scooter. "I thought 
 
 Tish and I had ripped the speed limiter off my scooter at the same time we'd added the back ride-along pegs. I sped us up to 15kph. "My mother thought the patriarchy needed another shield-matron."
 
- Tish wrapped her arms around me to keep herself steady. "Ugh. Second wave feminism, right?"
+Tish wrapped her arms around me to keep herself steady. "Ugh. Second wave feminism, right?"
 
 To be honest I'd never figured out what separated second wave feminism from third wave and from whatever the hell we were. But I didn't want to look like I'd skimmed the reading, so I nodded. "Why'd you want to meet?"
 
