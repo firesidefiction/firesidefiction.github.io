@@ -21,115 +21,113 @@ Thank you especially to our contributors - authors and illustrators - we could n
 
 Here is a list of everyone that contributed to Fireside in 2017, you should check these folks out. They’re all pretty cool.
 
-Troy L. Wiggins
+[Troy L. Wiggins](https://twitter.com/TroyLWiggins)
 
-Alexis A. Hunter
+[Alexis A. Hunter](http://alexisahunter.com)
 
-Lucas J.W. Johnson
+[Lucas J.W. Johnson](http://lucasjwjohnson.com)
 
-Nino Cipri
+[Nino Cipri](http://ninocipri.com)
 
-Alec Austin
+[Alec Austin](http://twitter.com/AlecAustin)
 
-Cassandra Khaw
-
-Sarah Goslee
+[Cassandra Khaw](https://www.patreon.com/cassandrakhaw)
 
 Raq Winchester
 
-Fran Wilde
+[Fran Wilde](http://franwilde.net/)
 
-Kate Lechler
+[Kate Lechler](http://katelechler.com)
 
-Martin Cahill
+[Martin Cahill](https://martintcahill.wordpress.com)
 
-Kevin Hearne
+[Kevin Hearne](https://kevinhearne.com)
 
-Mikki Kendall
+[Mikki Kendall](https://mikkikendall.com)
 
-Malka Older
+[Malka Older](https://malkaolder.wordpress.com)
 
-R.D. Sullivan
+[R.D. Sullivan](https://twitter.com/_TheRussian)
 
-Russell Nichols
+[Russell Nichols](http://www.russellnichols.com)
 
-Sarah Hollowell
+[Sarah Hollowell](https://www.patreon.com/sarahhollowell)
 
-Chris Butera
+[Chris Butera](http://twitter.com/chrisbutera)
 
-Tina Connolly
+[Tina Connolly](http://www.tinaconnolly.com)
 
-Karl Dandenell
+[Karl Dandenell](http://twitter.com/KDandenell)
 
-Mari Ness
+[Mari Ness](http://twitter.com/mari_ness)
 
-M. E. Owen
+[M. E. Owen](http://MEOwen.com)
 
-John Wiswell
+[John Wiswell](http://twitter.com/Wiswell)
 
-Caroline M. Yoachim
+[Caroline M. Yoachim](http://carolineyoachim.com)
 
-Malon Edwards
+[Malon Edwards](http://malonedwards.com)
 
-Andrea Phillips
+[Andrea Phillips](http://www.deusexmachinatio.com)
 
-Suyi Davies Okungbowa
+[Suyi Davies Okungbowa](http://suyidavies.com)
 
-Dawn Bonanno
+[Dawn Bonanno](http://www.dmbonanno.com)
 
-Allison Mulder
+[Allison Mulder](http://allisonmulder.wordpress.com)
 
-Evelyn Wong
+[Evelyn Wong](http://www.evelynstorytelling.com)
 
-Tariro Ndoro
+[Tariro Ndoro](http://tarirondoro.wordpress.com)
 
-Cherrelle Shelton
+[Cherrelle Shelton](http://www.ItsReallyRelle.com)
 
-Carlos Hernandez
+[Carlos Hernandez](http://carloshernandezwrites.com)
 
-Innocent Chizaram Ilo
+[Innocent Chizaram Ilo](http://twitter.com/Ethereal_ilo)
 
-Courtney Floyd
+[Courtney Floyd](http://www.synonymsandsuch.com)
 
-Christa Carmen
+[Christa Carmen](http://www.christacarmen.com)
 
-Stu West
+[Stu West](http://stuwest.com)
 
-Hayley Stone
+[Hayley Stone](http://hnstoneauthor.com/)
 
-Eden Royce
+[Eden Royce](http://http://edenroyce.com/)
 
-Vina Jie-Min Prasad
+[Sarah Goslee](http://www.sarahgoslee.com)
 
-Kendra Sims
+[Vina Jie-Min Prasad](http://vinaprasad.com)
 
-Brian M. Milton
+[Kendra Sims](http://twitter.com/ceresoffoxes)
 
-Rachel Rodman
+[Brian M. Milton](http://munchkinstein.blogspot.com)
 
-Sarah Gailey
+[Rachel Rodman](http://www.rachelrodman.com)
 
-Lilith Saintcrow
+[Sarah Gailey](http://www.sarahgailey.com)
 
-Cecily Kane
+[Lilith Saintcrow](http://www.lilithsaintcrow.com)
 
-The _FIYAH Magazine_ Staff
+[Cecily Kane](https://manicpixiedreamworlds.wordpress.com/)
 
-Mikki Kendall
+[The _FIYAH Magazine_ Staff](http://fiyahlitmag.com)
 
-De Ana Jones
+[De Ana Jones](http://deanaj.com)
 
-Chesya Burke
+[Chesya Burke](http://www.chesyaburke.com)
 
-Jennifer Marie Brissett
+[Jennifer Marie Brissett](http://www.jennbrissett.com/)
 
-Maurice Broaddus
+[Maurice Broaddus](http://twitter.com/MauriceBroaddus)
 
-Khaalidah Muhammad-Ali
+[Khaalidah Muhammad-Ali](http://khaalidah.com)
 
-Thea James
+[Thea James](http://www.thebooksmugglers.com)
 
-Meghan Ball
+[Meghan Ball](https://twitter.com/eldritchgirl)
 
 [Galen Dara](http://www.galendara.com)
 
