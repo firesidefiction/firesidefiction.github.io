@@ -7,19 +7,20 @@ category: news
 permalink: weve-been-nominated-for-a-hugo-award
 teaser: "Wow, so turns out it wasn’t a holiday food induced fever dream - we actually are Hugo Award Semiprozine Finalists. How cool is that?"
 published: true
+proofed: true
 ---
 
-Wow, so turns out it wasn’t a holiday food induced fever dream - [we actually are Hugo Award Semiprozine Finalists](https://www.theverge.com/2018/3/31/17183718/2018-hugo-award-nominations-science-fiction-fantasy-books). How cool is that?
+Wow, so turns out it wasn’t a holiday food induced fever dream — [we actually are Hugo Award Semiprozine Finalists](https://www.theverge.com/2018/3/31/17183718/2018-hugo-award-nominations-science-fiction-fantasy-books). How cool is that?
 
-Things have been a little crazy over here between all of those holidays, wrapping up the first issue of [_Fireside Quarterly_](https://d.rip/fireside), and a few other cool-but-secret-for-now plans, but we want to take a few minutes to say “thank you.”
+Things have been a little wild over here between all of those holidays, wrapping up the first issue of [_Fireside Quarterly_](https://d.rip/fireside), and a few other cool-but-secret-for-now plans, but we want to take a few minutes to say “thank you.”
 
 We’re gonna do that here, because our mentions are still a mess.
 
-Thank you. Thank you for reading our work. Thank you for sharing our work. And thank you for nominating our work.  Thank you to our peers in the category who have put together work that inspires us to do better and work harder. Thank you to our family members who support us while we do our work.
+Thank you. Thank you for reading our work. Thank you for sharing our work. And thank you for nominating our work. Thank you to our peers in the category who have put together work that inspires us to do better and work harder. Thank you to our family members who support us while we do our work.
 
-Thank you especially to our contributors - authors and illustrators - we could not do this work without you. Thank you for working with us, thank you for trusting us, and thank you for creating the work that motivates us.
+Thank you especially to our contributors — authors and illustrators — we could not do this work without you. Thank you for working with us, thank you for trusting us, and thank you for creating the work that motivates us.
 
-Here is a list of everyone that contributed to Fireside in 2017, you should check these folks out. They’re all pretty cool.
+Here is a list of everyone who contributed to Fireside in 2017; you should check these folks out. They’re all pretty cool.
 
 [Troy L. Wiggins](https://twitter.com/TroyLWiggins)
 
@@ -139,6 +140,6 @@ Raq Winchester
 
 [Miranda Meeks](http://mirandameeks.com)
 
-There is so much to be excited about on the ballot this year. A number of our contributors made the Hugo Ballot this in other categories and we could not be happier for them. There is so much to enjoy, we can’t wait to explore the Voter’s Packet!
+There is so much to be excited about on the ballot this year. A number of our contributors made the Hugo ballot in other categories, and we could not be happier for them. There is so much to enjoy, we can’t wait to explore the voter’s packet!
 
 Remember: to vote for the Hugo Awards, you must be a member of Worldcon 76. We hope to see you all there!
