@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  We're Open to Artist Submissions
+title:  We've been nominated for a Hugo award!
 author: Pablo Defendini
-date:   2018-02-19 01:01:00 -0500
+date:   2018-04-06 01:01:00 -0500
 category: news
-permalink: were-open-to-artist-submissions
+permalink: weve-been-nominated-for-a-hugo-award
 teaser: "Wow, so turns out it wasn’t a holiday food induced fever dream - we actually are Hugo Award Semiprozine Finalists. How cool is that?"
 published: true
 ---
@@ -141,8 +141,6 @@ Meghan Ball
 
 [Miranda Meeks](http://mirandameeks.com)
 
----
+There is so much to be excited about on the ballot this year. A number of our contributors made the Hugo Ballot this in other categories and we could not be happier for them. There is so much to enjoy, we can’t wait to explore the Voter’s Packet!
 
-## Fireside
-
-Pablo Defendini, Publisher<br/>Brian J. White, Fiction Editor<br/>Julia Rios, Fiction Editor<br/>Elsa Sjunneson-Henry, Managing Editor<br/>Mikki Kendall, #BlackSpecFic Editor
+Remember: to vote for the Hugo Awards, you must be a member of Worldcon 76. We hope to see you all there!
