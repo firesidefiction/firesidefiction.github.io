@@ -10,8 +10,8 @@ published: false
 teaser: "You should have talked to her about magic before she died, but you haven't lived close to her in years."
 author-img: beth-cato.jpg
 author-bio: |
-  Nebula-nominated [Beth Cato](http://www.bethcato.com) is the author of the Clockwork Dagger duology and the new Blood of Earth Trilogy from Harper Voyager. Her newest novel is _Call of Fire_. She’s a Hanford, California native transplanted to the Arizona desert, where she lives with her husband, son, and requisite cat. Follow her at BethCato.com and on Twitter at [@BethCato](https://twitter.com/BethCato).
-proofread: false
+  Nebula-nominated [Beth Cato](http://www.bethcato.com) is the author of the Clockwork Dagger duology and the new Blood of Earth Trilogy from Harper Voyager. Her newest novel is _Call of Fire_. She’s a Hanford, California, native transplanted to the Arizona desert, where she lives with her husband, son, and requisite cat. Follow her at BethCato.com and on Twitter at [@BethCato](https://twitter.com/BethCato).
+proofread: true
 ---
 
 Your awareness of magic is dying, and now Grandma is dead, too.
@@ -42,7 +42,7 @@ Grandma was too sick to plant anything new this year. You stare, sickened, at th
 
 You fetch the bucket and tools from the shed. Time to work.
 
-As you do, you try to sing like Grandma once did. You loosen the soil. You rip out weeds. You tame the rosemary bush that would grow and grow and take over the whole world, if left alone. Its savory scent reminds you of cooking with Grandma, of her wondrous homemade pizza dough flecked with fresh herbs.You sob, and sing, and hate how your voice sounds, but sing on, feeling both brave and foolish.
+As you do, you try to sing like Grandma once did. You loosen the soil. You rip out weeds. You tame the rosemary bush that would grow and grow and take over the whole world, if left alone. Its savory scent reminds you of cooking with Grandma, of her wondrous homemade pizza dough flecked with fresh herbs. You sob, and sing, and hate how your voice sounds, but sing on, feeling both brave and foolish.
 
 Slowly, the fairies emerge. At first as mere glimmers visible at the corners of your eyes, then in full, all sparkly flash and rainbow wings.
 
