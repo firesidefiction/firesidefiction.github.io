@@ -11,7 +11,7 @@ teaser: "Offer her worthy espresso, and she’ll read your future in the post-it
 author-img: courtney-floyd.jpg
 author-bio: |
   [Courtney Floyd](https://synonymsandsuch.com) is a Ph.D. Candidate and writing instructor at the University of Oregon. She created, produces, and co-hosts Victorian Scribblers, a podcast about all the Victorian writers you've probably never heard of but should have. Her favorite Modernist poem is H.D.'s "Eurydice," and like the Sybil she lives for a good espresso.
-proofread: false
+proofread: true
 ---
 
 The Sybil’s teaching Modernist poetry at a small college in New Mexico these days.
@@ -20,7 +20,7 @@ You can find her, if you seek her, in a cave-like office on the second floor.
 
 Offer her worthy espresso, and she’ll read your future in the post-it notes scattered around her office like fallen leaves.
 
-Offer her subpar espresso, and she’ll recite T.S. Elliot and Gertrude Stein until you forget the meaning of past, present, and future and wander aimlessly outside of time for at least a week. 
+Offer her subpar espresso, and she’ll recite T.S. Elliot and Gertrude Stein until you forget the meaning of past, present, and future and wander aimlessly outside of time for at least a week.
 
 If she likes you, she’ll share her favorite H.D. poem, which changes with the seasons and the time of day.
 
