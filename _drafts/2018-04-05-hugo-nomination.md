@@ -34,7 +34,7 @@ Here is a list of everyone who contributed to Fireside in 2017; you should check
 
 [Cassandra Khaw](https://www.patreon.com/cassandrakhaw)
 
-Raq Winchester
+[Raq Winchester](https://Twitter.com/raqwinchester)
 
 [Fran Wilde](http://franwilde.net/)
 
