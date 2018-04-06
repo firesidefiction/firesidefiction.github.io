@@ -11,7 +11,7 @@ teaser: "They are his most hurtful memories, and if I touch them, I can recall t
 author-img: kate-dollarhyde.jpg
 author-bio: |
   [Kate Dollarhyde](http://katedollarhyde@gmail.com) is a narrative designer and writer of speculative fiction. Her stories can be found in _Lackington’s_, _Beneath Ceaseless Skies_, and other places. You can find her on Twitter as [@keightdee](https://www.twitter.com/keigtdee). Though she lives in California, her true home is on the internet.
-proofread: false
+proofread: true
 ---
 
 _Penthos var. sturnus vulgaris_
@@ -28,7 +28,7 @@ One of the starlings darts by my face. I feel the brush of its wing against my c
 
 I stand beside a young boy. I look out with him over a snaking river of cars twenty years too old. Is this time travel or a memory? Am I really with him in the past, or is the movie of his memory projected on my inner eye? Either seem improbable, and while I do believe in an infinite string of infinite universes wherein all things that can happen both have and will, I wonder yet again if I am losing my mind.
 
-A group of boys beside him pull rocks from their pockets and throw them from the overpass we stand on to the freeway below. Brakes screech and metal grinds. The boy has a rock in his own hand, and when he refuses to throw it, the other boys throw their remaining rocks at him instead.
+A group of boys beside him pull rocks from their pockets and throw them from the overpass we stand onto the freeway below. Brakes screech and metal grinds. The boy has a rock in his own hand, and when he refuses to throw it, the other boys throw their remaining rocks at him instead.
 
 When the first rock strikes him, I am pulled back into my body at the bus stop. In my hands I still hold the starling, and the man beside me still looks on. I let the bird go and it joins the others, still screeching, still darting, still swarming a man at a bus stop on the edge of the world.
 
@@ -36,19 +36,25 @@ I am building a hypothesis, but it is yet unsatisfied. I grab another bird and I
 
 Back in my body, I stumble into the street. The man grabs my arm.
 
-"Watch it!" He shouts, and in his face I see his father's._Penthos var. phalaenoptilus nuttallii californicus?_Most people aren't swarmed with memories. Every memory I capture is a hurtful one. Everything has the potential to cause pain.
+"Watch it!" he shouts, and in his face I see his father's.
+
+_Penthos var. phalaenoptilus nuttallii californicus?_
+
+Most people aren't swarmed with memories. Every memory I capture is a hurtful one. Everything has the potential to cause pain.
 
 No two people's hurts take the same form; in the time since meeting the man flocked by starlings, I have seen others surrounded by constellations of lightning bugs, clots of jellyfish, or crusted in fractal coral growths.
 
 I am preoccupied by a question to which there seems to be no answer.
 
-Is the shape of our hurts determined by the types of pain we have suffered, by their severity? But that cannot be, for how can pain be classified? Some hurts are dull and aching, on fire with deep infection, while others are hot and sharp--yet the result, the pain, does not alone reveal what caused it.
+Is the shape of our hurts determined by the types of pain we have suffered, by their severity? But that cannot be, for how can pain be classified? Some hurts are dull and aching, on fire with deep infection, while others are hot and sharp—yet the result, the pain, does not alone reveal what caused it.
 
 The unexpected, messy death of a loved one will hurt you, but whether it is a sepsis that slowly rots you from your spongey marrow outward or burns briefly yet marks you indelibly like the stab of a tattoo needle is a formula that cannot be delineated, let alone calculated. The result is as individual as the hurt and everything that came before it. How does one classify a pain when one cannot classify a life?
 
 I wonder if there are others like me, and if I have unknowingly met them, if they have held my hurts in the palm of their hands and remarked on how unremarkable, how small they are.
 
-I wonder what form they take. Forgetful as I am, do I leave my hurts buried behind me like so many nightjars in torpor? Do they dig themselves into the dirt and wait for me to revisit them, like warmth revisits spring?_Penthos var. laccaria amethystina_
+I wonder what form they take. Forgetful as I am, do I leave my hurts buried behind me like so many nightjars in torpor? Do they dig themselves into the dirt and wait for me to revisit them, like warmth revisits spring?
+
+_Penthos var. laccaria amethystina_
 
 I found Purvi three months after my encounter with the starling man.
 
@@ -64,11 +70,13 @@ As she listens to the voice on the other end, her expression slowly falls, then 
 
 When she hangs up, I am back in my body, surreptitiously sliding around the private puzzle pieces of her life. I try to fill in the holes between the things I know.
 
-I know that her mother has been asking the same questions over and over, calling at 6AM, lost, unable to find her way home. Her mother is elderly, and Purvi her only child; she has a responsibility to her she cannot abdicate.I know that Purvi was planning to move, and then suddenly she didn't.
+I know that her mother has been asking the same questions over and over, calling at 6 a.m., lost, unable to find her way home. Her mother is elderly, and Purvi her only child; she has a responsibility to her she cannot abdicate. I know that Purvi was planning to move, and then suddenly she didn't.
 
 I know that she has had little time for me, and I had worried it was because of something I had done. And though now my unreasonable mind has found reason in her hurt, still I wonder if she knows what I am.
 
-What am I? A raw nerve. A live wire. A bundle of hurts, same as she and anyone._Penthos var. quercus agrifolia?_
+What am I? A raw nerve. A live wire. A bundle of hurts, same as she and anyone.
+
+_Penthos var. quercus agrifolia?_
 
 Pain cannot be classified, but the hurts that create it do take a definite form, and it is those hurts that can be categorized. I have named them for Penthos, the ancient Greek daimon of grief and lamentation, who visited again and again the same people, and at whose touch their breasts heaved and sobbed. Penthos, who drank deep from the well of others' hurts and was never satisfied.
 
@@ -76,7 +84,9 @@ I see them everywhere, these walking wounded. I follow them and observe their ac
 
 I must know what form my hurts take. Do they hang from me as the bulbous acorns of Quercus agrifolia, fruits from which the bitterness must be leeched before they can be consumed? Or do they instead measure the span of my skin as the precise caterpillars of geometer moths do the length of oak leaves?
 
-I fear what their form might say about me._Penthos var. cosmia calami_
+I fear what their form might say about me.
+
+_Penthos var. cosmia calami_
 
 It's past midnight. Purvi holds my hand in the dark. The gills of her mushroom-shaped hurts breathe in the silence. They exhale dust and small pulses of green light.
 
@@ -142,7 +152,7 @@ She exhales in a gust that almost sends the moth tumbling into the bedsheets. �
 
 "I thought when you approached me on the train... You saw mine, didn't you?" She smiles. "You're the first person I've met with moths. They're beautiful."
 
-She doesn't seem to want to talk about it, but she's handed me a puzzle, and I can't set it aside. "If I can see your hurts and you can see mine, then...can anyone with visible hurts see those of everyone else?"
+She doesn't seem to want to talk about it, but she's handed me a puzzle, and I can't set it aside. "If I can see your hurts and you can see mine, then... can anyone with visible hurts see those of everyone else?"
 
 She shrugs. "Sure, maybe, but you make it sound like there're rules to it, and I'm not sure there are. It's like, a way of seeing."
 
