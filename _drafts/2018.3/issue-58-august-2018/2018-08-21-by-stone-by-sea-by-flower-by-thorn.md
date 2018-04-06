@@ -11,7 +11,7 @@ teaser: "Here, the folk are as bony as their land, clawing meager patches of bar
 author-img: sarah-goslee.jpg
 author-bio: |
   [Sarah Goslee](http://www.sarahgoslee.com) writes nonfiction and fiction about all sorts of things: ecology, weaving, unicorns, agriculture. She is on the fourth of her nine lives, and hopes the remaining five take a very long time to run out.
-proofread: false
+proofread: true
 ---
 
 The bones of the earth are close to the surface here, all knobby elbows and wrinkled knees. In my childhood home, the land's skeleton is well-fleshed with deep, rich soil, and the people are sleek and lush. Here, the folk are as bony as their land, clawing meager patches of barley and gnarled carrots from the thin ground. They live mostly on the fruits of the sea, salmon and cod and mussels, and butter and cheese from the hardy cattle that graze the sparse grasses.
