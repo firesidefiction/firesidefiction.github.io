@@ -2,7 +2,7 @@
 layout: post
 title:  We've been nominated for a Hugo award!
 author: Pablo Defendini
-date:   2018-04-06 01:01:00 -0500
+date:   2018-04-05 01:01:00 -0500
 category: news
 permalink: weve-been-nominated-for-a-hugo-award
 teaser: "Wow, so turns out it wasn’t a holiday food induced fever dream - we actually are Hugo Award Semiprozine Finalists. How cool is that?"
@@ -34,7 +34,7 @@ Here is a list of everyone who contributed to Fireside in 2017; you should check
 
 [Cassandra Khaw](https://www.patreon.com/cassandrakhaw)
 
-Raq Winchester
+[Raq Winchester](https://Twitter.com/raqwinchester)
 
 [Fran Wilde](http://franwilde.net/)
 
@@ -142,4 +142,4 @@ Raq Winchester
 
 There is so much to be excited about on the ballot this year. A number of our contributors made the Hugo ballot in other categories, and we could not be happier for them. There is so much to enjoy, we can’t wait to explore the voter’s packet!
 
-Remember: to vote for the Hugo Awards, you must be a member of Worldcon 76. We hope to see you all there!
+Remember: to vote for the Hugo Awards, you must be a member of Worldcon 76. We hope to see you in San José!
