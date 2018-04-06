@@ -1,18 +1,18 @@
----
+----
 layout: story
 title: CARBORUNDORUM > /DEV/NULL
 author: Annalee Flower Horne
 editor: Julia Rios
 date: 2018-09-04 01:00:01 -0500
-category: flash fiction
+category: short story
 permalink: carborundum-dev-null
 published: false
 teaser: "So I have to live in _The Handmaid's Tale_ just because _you're_ scared of the dark? That's sexist!"
 author-img: annalee-flower-horne.jpg
 author-bio: |
   [Annalee Flower Horne](http://www.flowerhorne.com) is a science fiction writer and web developer from Washington, DC. Her fiction has previously appeared in _The Magazine of Fantasy and Science Fiction_, _Mothership Zeta_, and the _Futurescapes Anthology_, where she won first place in the Futurescapes Writing Contest. She co-edits feminist geek culture blog _The Bias_.
-proofread: false
----
+proofread: true
+----
 
 "Sandra," my house told me, as our subdivision's street lights blinked on, "you have a message I am unable to read aloud."
 
@@ -24,7 +24,7 @@ I rolled across the bed to my phone.
 
 Tish: _We should take the train to Monaco someday._
 
-Mentioning trains meant "turn off logging." Tish was in to spy stuff.
+Mentioning trains meant "turn off logging." Tish was into spy stuff.
 
 Unfortunately, my mother had the house logging all my communications, and my app to get around it had gotten blocked with the last firmware update. I opened Tish's message and sent back: _to get to Monaco, we’d need a parrot._
 
@@ -62,11 +62,11 @@ He stopped, catching sight of my mother on the stairs. "Hi, Ms. O'Donnell."
 
 My mom smiled at him. "Hi, Jack. Are you and Kyle hanging out here tonight?"
 
-"If that's alright with you, Ms. O'Donnell." He had a clear reusable bag from the 4-10 Market with a Mountain Dew and two bags of onion rings.
+"If that's alright with you, Ms. O'Donnell." He had a clear reusable bag from the Four-Ten Market with a Mountain Dew and two bags of onion rings.
 
 Kyle entered behind him and opened the closet to hand his damp jacket off to the house. "Hey Sandy. Join us for a race?"
 
-"No—I’m going to the four-ten for a soda."
+"No—I’m going to the Four-Ten for a soda."
 
 Kyle and Jack headed for the basement.
 
@@ -76,7 +76,7 @@ The house shut the back door.
 
 "Kyle literally just went. How come he's allowed and I'm not?"
 
-"I don't like the way the boys who hang out by the four-ten look at you—I don't want you around them at night."
+"I don't like the way the boys who hang out by the Four-Ten look at you—I don't want you around them at night."
 
 "So I have to live in _The Handmaid's Tale_ just because _you're_ scared of the dark? That's sexist!"
 
@@ -88,7 +88,7 @@ Her eyes went wide with shock.
 
 I almost let her go on thinking what she was thinking, but I didn't want to know how much worse I'd have it if she realized her current level of paranoia was insufficient to the task. So I switched gears. "Ninety-nine per cent of girls think being grounded for being female is bullshit."
 
-She glared at me. Not just a 'watch your mouth' glare, either—this was a full-on _Sandra Kathryn Grace O'Donnell I Brought You Into This World_ glare. "Keep using that language and you will be grounded, young lady. You're staying in the house, where it's safe."
+She glared at me. Not just a "watch your mouth" glare, either—this was a full-on _Sandra Kathryn Grace O'Donnell I Brought You Into This World_ glare. "Keep using that language and you will be grounded, young lady. You're staying in the house, where it's safe."
 
 I almost laughed. “Safe.” In the house where Jack had raped me earlier that year. Three hours of my life even the house couldn’t remember.
 
@@ -136,7 +136,7 @@ I sat up. "Is she _kidding_? Don't I have a right to privacy? That's in the cons
 
 I wanted to throw something. Instead, I went over to my bookshelf, picked up my fancy 50th Anniversary edition of _The Handmaid's Tale_, and set it in front of the house's room sensor, with the title facing the camera. The house didn't understand literary references, but my mother did.
 
----
+----
 
 I spotted Tish on my way to the bus stop the next morning and slowed my scooter down to pace her. "Eyes on the agent now," I said into my wrist. "Attempting a rolling pickup."
 
@@ -144,9 +144,9 @@ She beamed and stepped off the sidewalk onto the back of my scooter. "I thought 
 
 Tish and I had ripped the speed limiter off my scooter at the same time we'd added the back ride-along pegs. I sped us up to 15kph. "My mother thought the patriarchy needed another shield-matron."
 
-Tish wrapped her arms around me to keep herself steady. "Ugh. Second wave feminism, right?"
+Tish wrapped her arms around me to keep herself steady. "Ugh. Second-wave feminism, right?"
 
-To be honest I'd never figured out what separated second wave feminism from third wave and from whatever the hell we were. But I didn't want to look like I'd skimmed the reading, so I nodded. "Why'd you want to meet?"
+To be honest I'd never figured out what separated second-wave feminism from third-wave and from whatever the hell we were. But I didn't want to look like I'd skimmed the reading, so I nodded. "Why'd you want to meet?"
 
 "To see your smiling face," she said, giving me a squeeze. "But also, the BBs are getting together at Ian's this weekend."
 
@@ -176,7 +176,8 @@ Tish squeezed my arm. "Can you get out of the house?"
 
 Jack snorted. "No way Sandra gets permission from mommy."
 
-I couldn’t tell a servo from a spanner and I hated Jack, but the rest of the robot nerds were nice. Besides, my mother had grounded me for challenging the patriarchy, so sneaking out was basically a form of nonviolent direct action.
+I couldn’t tell a servo from a spanner, and I hated Jack, but the rest of the robot nerds were nice. Besides, my mother had grounded me for challenging the patriarchy, so sneaking out was basically a form of nonviolent direct action.
+
 My mom and Kyle were going to be visiting Harvard on Saturday and wouldn't get back until Sunday morning. If I could just get past the house.
 
 I frowned. "Jack, you remember back in May when you erased a few hours of the house's memory?"
@@ -197,7 +198,7 @@ Tish nudged me. "I can get you out of the house, Sandra."
 
 Tish smiled. "We'll be there."
 
----
+----
 
 Tish and I spent that Saturday lying on the floor of my mom's study with our laptops between us. By party-time, she was walking me through the features of her new script.
 
@@ -249,7 +250,7 @@ Jack was standing in the front hallway. "Hey, babe. Kyle turned on my guest acco
 
 He laughed. "What, are you going to ride that scooter all the way over to Ian's? He's parked around the corner. Grab your jackets."
 
----
+----
 
 Ian’s “soiree” was a bunch of robot nerds playing with glorified legos and doing some kind of drinking game to vids of the national robotics championships. A lot of alumni were back home for break.
 
@@ -264,6 +265,7 @@ Jack sidled up next to me. "You have to try this root beer," he said, a little t
 "I don't like house-made soda," I said. I picked up my phone.
 
 He nodded to it. "Hey. You're mom's not on your ass because of me, is she?"
+
 Self-centered bastard. "No."
 
 "Good," he said. Then nudged the root beer again. "Raise a glass to freedom?"
@@ -368,7 +370,7 @@ Ian and Jack were at Ian's other door. That'd buy us a few seconds. I manually u
 
 "House," I said, "lock the front door and call the elevator."
 
-The door whirred. That wouldn't last us very long—even the best door locks had emergency overrides--but it'd give us an extra few seconds.
+The door whirred. That wouldn't last us very long—even the best door locks had emergency overrides—but it'd give us an extra few seconds.
 
 The elevator dinged, and I walked Tish inside. "Garage."
 
@@ -378,7 +380,7 @@ The elevator doors opened on the garage level. My phone chimed. "Now in range of
 
 I looked through the glass doors of the elevator enclosure towards Ian's self-driving Lexus. Yes, that would do nicely.
 
----
+----
 
 "Tish, we're heading out, okay?" I walked her out of the elevator enclosure and across to Ian's car.
 
@@ -399,9 +401,11 @@ I opened the door for Tish and helped her into the front seat. Then I slid into 
 "This is for emergency care," I said.
 
 "I am only authorized to provide emergency transport to the Corbin Family."
+
 Damnit.
 
 Tish grabbed my phone and tapped away at my screen with unsteady hands.
+
 The elevator opened again.
 
 “Tish,” I whispered, “we’re out of time.”
@@ -418,7 +422,7 @@ I put my hand on his face and shoved, hard. "Fuck off, Jack."
 
 He caught the door to keep from tumbling backward and laughed, too loudly. "If I told your mom—"
 
-I threw the car door open into him. He stumbled backwards. My heart pounded so loudly in my chest that I was afraid to speak in case I just started screaming. I managed to choke out, "if you tell her anything, I'll tell her what you did in May."
+I threw the car door open into him. He stumbled backwards. My heart pounded so loudly in my chest that I was afraid to speak in case I just started screaming. I managed to choke out, "If you tell her anything, I'll tell her what you did in May."
 
 "What _I_ did? Don't you mean what _we_ did? Or are you gonna act like you weren't into it?"
 
@@ -440,7 +444,7 @@ I worked the window switches with shaking hands as the car pulled out of the spa
 
 I slumped in the control seat and watched him get smaller in the dash cam. That jackass was _never_ getting into Tish.
 
----
+----
 
 I woke the next morning to the smell of bacon and a head full of molasses. By the time I'd gotten Tish home and made my way back, it was quarter after four.
 
@@ -470,11 +474,12 @@ I peered at her from under my pillows, watching her frown deepen. I didn't want 
 
 "It's eleven in the morning," she said. "Are you feeling okay?"
 
-At least Jack hadn't said anything. If he had, I would not be getting the 'are you feeling okay' version of 'I am judging your life choices.'
+At least Jack hadn't said anything. If he had, I would not be getting the "are you feeling okay" version of "I am judging your life choices."
 
 The house console in the back of my closet was glimmering blue. I imagined for a moment that the light was a gateway to a house where Jack wasn't allowed. In _that_ house, I could go to my mother for help. _That_ mother understood that forcing me to carry the weight of her fears would only cost her my trust.
 
 My mother stepped over to my closet and for a second, I panicked. The light wasn't supposed to be blue. What if she saw my party clothes on the floor?
+
 She pushed the closet door closed. "I know you're still sulking about not getting your way, but I need to know if you're sick."
 
 I let out a sigh of relief and hoped it sounded like annoyance from under my pile of bedding. "I'm fine."
