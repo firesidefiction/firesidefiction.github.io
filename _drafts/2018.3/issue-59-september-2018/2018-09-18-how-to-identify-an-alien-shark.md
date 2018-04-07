@@ -1,4 +1,4 @@
-----
+---
 layout: story
 title: How to Identify an Alien Shark
 author: Beth Goder
@@ -12,7 +12,7 @@ author-img: beth-goder.jpg
 author-bio: |
   Beth Goder works as an archivist, processing the papers of economists, scientists, and other interesting folks. To her knowledge, she has never processed the papers of an alien shark. Her fiction has appeared in venues such as _Escape Pod_, _Mothership Zeta_, and an anthology from Flame Tree Press. You can find her online at [http://www.bethgoder.com](http://www.bethgoder.com) and on Twitter at [@Beth_Goder](https://www.twitter.com/Beth_Goder).
 proofread: true
-----
+---
 
 Honored guests, thank you for attending this seminar on the Tucabal-Gor, colloquially known as alien sharks. I am Dr. William Smithson, the foremost expert on these xenoforms. Ever since the infestation in the Atlantic Ocean last July, world leaders have been scrambling to assess the situation. Despite fear-mongering articles you may have read online, the alien sharks have not eaten anyone. In fact, they appear to spend most of their time criticizing our economic systems and submitting papers to academic journals. Some of them have even been published.
 
