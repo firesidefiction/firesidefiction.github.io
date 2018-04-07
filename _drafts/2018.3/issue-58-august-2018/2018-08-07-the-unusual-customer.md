@@ -1,4 +1,4 @@
-----
+---
 layout: story
 title: The Unusual Customer
 author: Innocent Chizaram Ilo
@@ -12,7 +12,7 @@ author-img: innocent-chizaram-ilo.jpg
 author-bio: |
  When he is not receiving tonnes of rejections from cat adoption agencies, Innocent finds time to read, write, tweet and nurse his fragile ego. He has works published and forthcoming in _Fireside_, _Reckoning Press_, _Strange Horizons_, _Brittle Paper_, _SSDA_ and elsewhere. He lives in Nigeria.
 proofread: true
-----
+---
 
 **I**
 
