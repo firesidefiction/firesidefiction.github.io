@@ -38,7 +38,7 @@ Julia Rios is a writer, editor, podcaster, and narrator. Her fiction, non-fictio
 ### [Elsa Sjunneson-Henry](mailto:elsa@firesidefiction.com)—Managing Editor
 Elsa Sjunneson-Henry is a half-blind, half-deaf, half-Scandinavian writer and editor from Seattle, Washington. She's the Guest Editor in Chief of Non-Fiction for _Disabled People Destroy Science Fiction_, a blogger for B&N Scifi, and a game designer. She’s the author of [_A Place Out of Time_](http://firesidefiction.com/issue34/chapter/a-place-out-of-time/) and is also included in the [_Ghost in the Cogs_](http://amzn.to/2au3fe0) anthology. Her nonfiction has been published at _The Boston Globe_, _Uncanny Magazine_, _TerribleMinds_ and other sundry locales.  Currently, she lives in New Jersey with her delightfully quirky husband, a hound dog, two cats, and a grandfather clock that chimes when it feels like it. You can find Elsa on Twitter [@snarkbat](https://twitter.com/snarkbat).
 
-### [Meg Frank](mailto:meg@firesidefiction.com) 
+### [Meg Frank](mailto:meg@firesidefiction.com)Social Media Manager
 Meg Frank is an [artist](https://www.etsy.com/shop/PeripateticMeg) and community builder, frequently found covered in glitter and having just finished baking something. They started their career at [Y&R](https://www.yr.com/) and [Cohn&Wolfe](https://m.cohnwolfe.com//) in the Media and Research divisions then found themselves working in event planning, community management, and marketing for nonprofit events for more than half a decade. Meg can usually be found in Brooklyn, but has never been any good at sitting still, so it’s best to try and catch them [online](https://twitter.com/peripateticmeg).
 
 ### [Pablo Defendini](mailto:pablo@firesidefiction.com)—Publisher & Art Director
