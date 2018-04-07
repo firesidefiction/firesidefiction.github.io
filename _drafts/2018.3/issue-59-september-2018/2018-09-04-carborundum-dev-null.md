@@ -1,4 +1,4 @@
-----
+---
 layout: story
 title: CARBORUNDORUM > /DEV/NULL
 author: Annalee Flower Horne
@@ -12,7 +12,7 @@ author-img: annalee-flower-horne.jpg
 author-bio: |
   [Annalee Flower Horne](http://www.flowerhorne.com) is a science fiction writer and web developer from Washington, DC. Her fiction has previously appeared in _The Magazine of Fantasy and Science Fiction_, _Mothership Zeta_, and the _Futurescapes Anthology_, where she won first place in the Futurescapes Writing Contest. She co-edits feminist geek culture blog _The Bias_.
 proofread: true
-----
+---
 
 "Sandra," my house told me, as our subdivision's street lights blinked on, "you have a message I am unable to read aloud."
 
