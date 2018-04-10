@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-04-10 01:00:01 -0500
 category: flash fiction
 permalink: before-the-burst
-published: false
+published: true
 teaser: "She was radiant, whirlwinds of color on evanescent skin, doused in virtual ink. Her beady eyes darted, taking us in."
 author-img: d-a-xiaolin-spires.jpg
 author-bio: |
