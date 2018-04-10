@@ -1,7 +1,7 @@
 ---
 layout: story
 title: Before the Burst
-author: D.A. Xioalin Spires
+author: D.A. Xiaolin Spires
 editor: Julia Rios
 date: 2018-04-10 01:00:01 -0500
 category: flash fiction
@@ -49,7 +49,8 @@ _I should leave_, I thought. But my hands felt secure, grasping the firm liquiva
 When the alarms sounded, I noticed Kimo was gone.
 
 My mind reeled; having a task would be nice. I turned the vac on. It whined louder than the screech. Its aggressive howl calmed me. I could see the self-driving tanks, far-off in the mountainous horizon, gliding towards me.
-----
+
+----
 
 I stood in line to scrawl my name on the page. Kimo stood in front of me, giving me as reassuring a smile as he could muster. He still remembered what he considered my act of bravery; my performance with the vacs, a macabre dance with the tanks—a holoclip that newscasters continue to broadcast throughout the islands.
 
