@@ -11,6 +11,7 @@ teaser: "People grieved over so many things, the Undertaker mused. A failed marr
 art: one-for-sorrow-two-for-joy.jpg
 caption: "Two figures wait in the dark mist. Around them, crows. Lots of crows."
 artist: Dawid Planeta
+artist-img: dawid-planeta.jpg
 artist-bio: |
   Dawid Planeta was born in 1990 in Kraków, Poland. In 2014 he graduated in Industrial Design at the Academy of Fine Arts in Cracow. Since then he has worked as an art teacher, graphic designer and traveled the world looking for inspiration to create mysterious worlds that he keeps finding in himself.
 author-img: lashawn-m-wanak.jpg
