@@ -10,7 +10,13 @@ published: false
 teaser: "He is falling again, drifting down an infinite spiral, the simultaneously squeezed and stretched feeling whenever he thinks too much about death."
 author-img: hal-y-zhang.jpg
 author-bio: |
-  [Hal Y. Zhang](http://halyzhang.com) can be found indoors and out of direct sunlight. 
+  [Hal Y. Zhang](http://halyzhang.com) can be found indoors and out of direct sunlight.
+art: cast-off-tight.jpg
+caption: "Knitting needles work to craft a figure from the ether."
+artist: Katie Chandler
+artist-img: katie-chandler.jpg
+artist-bio: |
+    Katie Chandler is commercial illustrator and designer in Columbus, Ohio. She loves bold color and big ideas; using simple shapes to encourage empathy and education. Nine times out of ten when you flip through her sketchbook a leaf will fall out (you’ve been warned).
 proofread: false
 ---
 
@@ -42,7 +48,7 @@ On the one hundredth day anniversary of her death he picks up the needles.
 _Oh._ He usually loves technology, but right now all he can think of is the bits of patterned color popping against the mental map of their apartment and all the secrets he might extract from them.
 The clerk mistakes his silence for rapt attention. "It’s based on sensory substitution—you can look that up if you want to learn more. I think it was discovered like a decade ago, but no one has really found a good application beyond memory yarn and fancy alternative education schools. It has some use for the seeing- and hearing-impaired, but the quality varies a lot and some people can’t read with touch at all. A company was just sued for selling a glove that’s supposed to make you happy. I guess it didn’t work."
 He feels submerged, the muffled words pressing into his ears without imparting real meaning. Pinpricks tumble out from his numb mouth and land dully on the counter:
-"She never told me." 
+"She never told me."
 An awkward pause.
 "I’m sorry. Would...you like to talk about it?" The clerk asks, not unkindly, but it is too much. He grabs the yarn and dashes out.
 Back home he destroys the careful configuration of tripwires, turns the apartment inside-out to find these hidden memories she had saved, knowingly or not. He regrets not paying more attention to her hobby now, as none of the scarfs and sweaters he remembers are there, perhaps given away as gifts or mere creations of his desperate neurons. After half an hour he finds his first prize: a wrapped flexible bundle for one of her best friend’s birthday sitting on her shelf. She was always preparing for special occasions way ahead of time.
@@ -91,4 +97,4 @@ On the one hundredth day anniversary of her death he picks up the needles.
 "Why don’t you come to our knitting club? We meet every Thursday at seven. There’s no obligations, no pressure."
 A polite refusal is at his lips, but somehow he finds himself nodding first. She smiles again.
 "I’m Andrea." She puts out her hand and he clasps it like a lifeline.
-He walks home from Warp on West slowly, breathing in the cold clean air they both love. A rabbit is tweaking its snout in the snow on the small patch of grass at their street corner and he stops to watch. When a clump of snow falls from the tree and hits it in the face, causing an explosion of flakes, he brushes his hand against one end of the scarf almost unconsciously and laughs along with her, feeling the knot inside him come loose ever so slightly.
+He walks home from Warp on West slowly, breathing in the cold clean air they both love. A rabbit is tweaking its snout in the snow on the small patch of grass at their street corner and he stops to watch. When a clump of snow falls from the tree and hits it in the face, causing an explosion of flakes, he brushes his hand against one end of the scarf almost unconsciously and laughs along with her, feeling the knot inside him come loose ever so slightly.
