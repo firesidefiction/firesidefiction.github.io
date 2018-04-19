@@ -10,7 +10,7 @@ published: true
 teaser: People we know and often really like are being accused of inappropriate behavior, and we have to figure out where to go from here.
 author-bio: |
   Andrea Phillips is an award-winning transmedia writer, game designer, and author. Currently she co-writes the serials [Bookburners](https://www.serialbox.com/serials/556edb3cada6e270f8e2641d) and [ReMade](https://www.serialbox.com/serials/5755b744ada6e220cd1d9948). Her other works include the novelette [“The Revolution, Brought to You By Nike”](https://firesidefiction.com/the-revolution-brought-to-you-by-nike); the novel _[Revision](https://firesidefiction.com/book/revision)_; and the nonfiction book _The Creator’s Guide to Transmedia Storytelling_. Andrea has also worked on iOS fitness games Zombies, Run! and The Walk; The Maester's Path for HBO's _Game of Thrones_; human rights game America 2049; and the independent commercial ARG Perplex City.
-You can find Andrea on Twitter at [@andrhia](https://twitter.com/andrhia) if you like that sort of thing.
+  You can find Andrea on Twitter at [@andrhia](https://twitter.com/andrhia) if you like that sort of thing.
 proofread: true
 ---
 
@@ -32,13 +32,13 @@ We have similar acceptable and required behaviors for absolutely everything. How
 
 There are lots of other situations we don’t have specific scripts for, too, of course. We are not purely deterministic beings, bouncing our way down the pachinko game of life. But if someone walks in front of our car wearing a grapes costume and stands on their head in the middle of the intersection, we’re going to be somewhat at a loss for how to react.
 
-Upon closer inspection, a lot of the behaviors we find creepy or upsetting or infuriating in daily life are, basically, the times when somebody goes really, really off-script from what we expected them to do. When we don’t have a script, often our stress responses kick in: fight, flight, freeze. Once we recover from the shock of discovering that we have no acceptable range of next actions in our dialogue tree—because it’s input we never, never expected to receive—we have to work harder and rely on higher-order logic to try to puzzle through a response. Do we leave? Call the police? Ignore the behavior? 
+Upon closer inspection, a lot of the behaviors we find creepy or upsetting or infuriating in daily life are, basically, the times when somebody goes really, really off-script from what we expected them to do. When we don’t have a script, often our stress responses kick in: fight, flight, freeze. Once we recover from the shock of discovering that we have no acceptable range of next actions in our dialogue tree—because it’s input we never, never expected to receive—we have to work harder and rely on higher-order logic to try to puzzle through a response. Do we leave? Call the police? Ignore the behavior?
 
 Many of us, it turns out, will simply carry on with the script as though the offending event didn’t happen at all. That’s a big problem right now, in the context of #MeToo.
 
 Clearly when a friend of yours is accused of inappropriate behavior, the right answer isn’t to just ignore the whole ugly mess. But higher-order logic isn’t always quite up to the job, either. In the case of #MeToo, our logical brains want far more information than we typically get
 
-This is all we know: A bad thing has happened, and we are obligated to believe the bad thing. 
+This is all we know: A bad thing has happened, and we are obligated to believe the bad thing.
 
 Much of the time, we have no information on the bad thing, really, beyond that it exists, and it was bad, and it involved our friend. To make this even more complicated, our emerging etiquette says that we cannot ask for specifics; simply believe, and go from there, because demanding more information (or worse, proof) is a second victimization of someone who has already endured an unspecified bad thing.
 
