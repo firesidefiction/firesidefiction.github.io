@@ -11,6 +11,12 @@ teaser: "So I have to live in _The Handmaid's Tale_ just because _you're_ scared
 author-img: annalee-flower-horne.jpg
 author-bio: |
   [Annalee Flower Horne](http://www.flowerhorne.com) is a science fiction writer and web developer from Washington, DC. Her fiction has previously appeared in _The Magazine of Fantasy and Science Fiction_, _Mothership Zeta_, and the _Futurescapes Anthology_, where she won first place in the Futurescapes Writing Contest. She co-edits feminist geek culture blog _The Bias_.
+art: carborundum-dev-null.png
+caption: "Two girls sit on the floor of a living room. They each have a laptop-like device. One of them rocks a brace and a cane. Behind them is a liquor cabinet which is locked—for now!"
+artist: Michelle Wong
+artist-img: michelle-wong.jpg
+artist-bio: |
+  Michelle Wong is a comic artist from Hong Kong. She likes horror, video games and good food. Her clients include: IDW, Action Lab, BOOM! Studios.
 proofread: true
 ---
 
