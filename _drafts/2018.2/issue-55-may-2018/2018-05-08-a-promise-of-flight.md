@@ -11,6 +11,14 @@ teaser: "I tried aerial classes, trapeze classes, acrobatic classes. They didn't
 author-img: lee-s-bruce.jpg
 author-bio: |
   Lee S. Bruce is just a girl who dreamt of growing up to be an astronaut ... or a Stormtrooper. After passing the slightly less rigorous standards of the 501st Legion, she turned her attention to a different goal; non-fictional space exploration. In 2015, she began working with NASA on the James Webb Space Telescope in hopes of finding real galaxies, far, far away. Lee spends her spare time reading books and comics, playing video games and binge watching _Bob's Burgers_. She lives in Long Beach, California, near her two daughters and 6-month-old granddaughter. In an attempt to be the favorite grandparent, Lee is learning to play the _Moana_ soundtrack on guitar.
+art: a-promise-of-flight.gif
+caption: "A person sits on a mound, dreaming of flight. The mound looks like a head. Above, a bird flies by."
+artist: Maggie Chiang
+artist-img: maggie-chiang.jpg
+artist-bio: |
+  Maggie Chiang is a Taiwanese American full time artist and part time dreamer. Inspired by both places real and fictitious Maggie's illustrations evoke a longing for adventure and the pursuit of the unknown, exploring impossible landscapes and places unseen. A central theme of her art is the relationship between humanity and nature, oftentimes the underlying thread that ties together her work and establishes her individual artistic voice.
+
+  Clients include The New York Times, Washington Post, John Hopkins, Buzzfeed, and others.
 proofread: false
 contentnote:
 ---
