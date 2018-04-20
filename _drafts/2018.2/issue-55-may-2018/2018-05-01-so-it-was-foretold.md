@@ -10,12 +10,8 @@ published: false
 teaser: "We were so skilled at imbibing, my foremothers and I. We, who were nameless, unseen, erasing ourselves as we made our way through life."
 author-img: mimi-mondal.jpg
 author-bio: |
-  Mimi Mondal is a Dalit woman who writes about politics and history, occasionally camouflaged as fiction. She holds three masters’ degrees for no reason but pure joy.
-
-  Mimi was formerly Poetry and Reprint Editor at _Uncanny Magazine_, and her first anthology, _Luminescent Threads: Connections to Octavia Butler_, was published in 2017.
-
-  She lives in New York, tweets from [@Miminality](https://twitter.com/miminality), doesn't very often hang out at [mimimondal.com](https://mimimondal.com/), and always enjoys the company of monsters.
-proofread: false
+  Mimi Mondal is a Dalit woman who writes about politics and history, occasionally camouflaged as fiction. She holds three masters’ degrees for no reason but pure joy. Mimi was formerly Poetry and Reprint Editor at _Uncanny Magazine_, and her first anthology, _Luminescent Threads: Connections to Octavia Butler_, was published in 2017. She lives in New York, tweets from [@Miminality](https://twitter.com/miminality), doesn't very often hang out at [mimimondal.com](https://mimimondal.com/), and always enjoys the company of monsters.
+proofread: true
 contentnote:
 ---
 
@@ -25,7 +21,7 @@ But he and I were college sweethearts. On the day of our graduation, drunk deep 
 
 We were so skilled at imbibing, my foremothers and I. We, who were nameless, unseen, erasing ourselves as we made our way through life. We, who have no history, nothing to lose—what could they take from us that would make us unravel? We were spirits, poured ceaselessly into the vessels that would contain us, learning and holding their shapes.
 
-Once I imbibed his name, I was a person. A person he made. In the old country, when the streets started taking on a permanent stench of charred tires and flesh; when I paced and paced within the walls of his house, safe and deranged as a princess, fancying myself in turn a crocodile, a severed limb, the fossil of a prehistoric bird perspired on stone; he decided enough was enough, and took me away to a different country—a newer country, half a world away from where we were born. We were young, bright, adaptable. We would slip smoothly into university campuses, to the oasis of words and mathematical equations, libraries and trees. We would learn to drive cars like mirrors, make love under heated blankets, give our children difficult names in a land where both our names crumpled into clusters of syllables and no blood at all. Under the too-bright sky that sedimented a placid brown upon my skin just as it did on his, I would learn to channel the chaos underneath into acceptable shapes—human, scholar, woman, mother, wife.
+Once I imbibed his name, I was a person. A person he made. In the old country, when the streets started taking on a permanent stench of charred tires and flesh; when I paced and paced within the walls of his house, safe and deranged as a princess, fancying myself in turn a crocodile, a severed limb, the fossil of a prehistoric bird perspired on stone; he decided enough was enough, and took me away to a different country—a newer country, half a world away from where we were born. We were young, bright, adaptable. We would slip smoothly into university campuses, to the oasis of words and mathematical equations, libraries, and trees. We would learn to drive cars like mirrors, make love under heated blankets, give our children difficult names in a land where both our names crumpled into clusters of syllables and no blood at all. Under the too-bright sky that sedimented a placid brown upon my skin just as it did on his, I would learn to channel the chaos underneath into acceptable shapes—human, scholar, woman, mother, wife.
 
 History will remember him as a kind man. A just man, upright, one who stood up to his ancient, illustrious tribe for a woman who was, all said and done, no woman at all.
 
