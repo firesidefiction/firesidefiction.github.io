@@ -11,6 +11,12 @@ teaser: "They are his most hurtful memories, and if I touch them, I can recall t
 author-img: kate-dollarhyde.jpg
 author-bio: |
   [Kate Dollarhyde](http://katedollarhyde@gmail.com) is a narrative designer and writer of speculative fiction. Her stories can be found in _Lackington’s_, _Beneath Ceaseless Skies_, and other places. You can find her on Twitter as [@keightdee](https://www.twitter.com/keigtdee). Though she lives in California, her true home is on the internet.
+art: a-taxonomy-of-hurts.png
+caption: "Two figures look at each other. Ethereal fauna erupts from their bodies."
+artist: Kevin Tong
+artist-img: kevin-tong.jpg
+artist-bio: |
+  Kevin Tong learned to draw in the competitive world of underground illustration, where clients often used knife fight challenges to get out of paying him. Nevertheless, he prevailed and from that wood chipper furnace life his savage illustration style was forged. Since taking it to the streets, Kevin has been steadily illustrating since 2005. He currently lives and works in Austin, TX
 proofread: true
 ---
 
