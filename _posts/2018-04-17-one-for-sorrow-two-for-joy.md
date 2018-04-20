@@ -6,12 +6,15 @@ editor: Julia Rios
 date: 2018-04-17 01:00:01 -0500
 category: short story
 permalink: one-for-sorrow-two-for-joy
-published: false
+published: true
 teaser: "People grieved over so many things, the Undertaker mused. A failed marriage. Loss of a job. But the loss of a child always hit the keenest."
 art: one-for-sorrow-two-for-joy.jpg
 caption: "Two figures wait in the dark mist. Around them, crows. Lots of crows."
 artist: Dawid Planeta
-author-img: lashawn-wanak.jpg
+artist-img: dawid-planeta.jpg
+artist-bio: |
+  Dawid Planeta was born in 1990 in Kraków, Poland. In 2014 he graduated in Industrial Design at the Academy of Fine Arts in Cracow. Since then he has worked as an art teacher, graphic designer and traveled the world looking for inspiration to create mysterious worlds that he keeps finding in himself.
+author-img: lashawn-m-wanak.jpg
 author-bio: |
   LaShawn M. Wanak lives in Madison, Wis., with her husband and son. Her short fiction and essays can be found in _Strange Horizons_, _Podcastle_ and _Uncanny Magazine_. She reviews books for _Lightspeed Magazine_ and is a graduate of the 2011 class of Viable Paradise. Writing stories keeps her sane. Also, pie. Visit her at her website: [The Cafe in the Woods](http://tbonecafe.wordpress.com).
 proofread: true
