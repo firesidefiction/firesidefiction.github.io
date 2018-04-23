@@ -55,7 +55,7 @@ For general inquiries, please contact [questions@firesidefiction.com](mailto:que
 
 # Submissions Guidelines
 
-## Fireside Magazine is currently closed for submissions. Our next open submissions period is April 23 to 27, 2018.
+## Fireside Magazine is currently open for submissions.
 
 We accept short fiction up to 4,000 words.
 
@@ -165,7 +165,7 @@ We usually take about a month from the close of a submissions period to review e
 
 Due to the high volume of submissions we get, unfortunately we can’t provide feedback on your individual submission if we’ve rejected it—we have a finite amount of editorial energy, and we need to expend it on the stories that we do acquire. Find some beta readers, join a writers’ group, and better luck next time. If you are uncertain on where to find critical feedback, we’ve heard positive things about Critters.org and The Online Writing Workshop, but we are not affiliated with either place.
 
-{% include submissions-closed-button.html %}
+{% include submit-button.html %}
 
 
 [back to the top](#top-of-page)
