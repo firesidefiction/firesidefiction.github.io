@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-04-24 01:00:01 -0500
 category: flash fiction
 permalink: 50-ways-to-leave-your-fairy-lover
-published: false
+published: true
 teaser: "You wrote that your fairy lover expects you to accompany him on wild hunts and to all-night dances, but he never wants to answer BuzzFeed quizzes or join your Ingress team."
 author-img: aimee-picchi.jpg
 author-bio: |
