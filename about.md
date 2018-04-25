@@ -172,6 +172,13 @@ Due to the high volume of submissions we get, unfortunately we can’t provide f
 
 ----
 
+## Questions?
+If there’s something we haven’t addressed here, please feel free to email us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com). (Please do _not_ send actual submissions here. Any stories sent to this address will be deleted unread.)
+
+[back to the top](#top-of-page)
+
+----
+
 ## Content Notes
 Fireside Fiction Company provides content notes for books and stories to guide readers who may wish to seek out or avoid particular story elements. These content notes may contain spoilers.
 Content notes are not the same as the ratings found on movies, TV shows, and video games. The intent is to help trauma survivors avoid being surprised by story elements that may trigger pain or emotional distress. So we don’t offer warnings about general violence, profanity, sex, or other things one sees in a movie rating.
@@ -213,12 +220,5 @@ Fireside Fiction Company provides content notes to guide readers who may wish to
 <abbr title="5 dots">•••••</abbr>	| Multiple scenes of high intensity
 
 <p></p>
-
-[back to the top](#top-of-page)
-
-----
-
-## More Questions?
-If there’s something we haven’t addressed here, please feel free to email us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com). (Please do _not_ send submissions here. Any stories sent to this address will be deleted unread.)
 
 [back to the top](#top-of-page)
