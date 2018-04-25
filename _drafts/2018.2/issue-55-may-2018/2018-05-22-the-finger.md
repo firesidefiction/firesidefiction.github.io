@@ -11,7 +11,7 @@ teaser: "All you have to do is just go to the range, wrap your finger across the
 author-img: april-grant.jpg
 author-bio: |
   [April](http://www.aprilcatherinegrant.com) lives near Boston, and writes stories, poems, and songs. She has published poetry in _Strange Horizons_ and _Mythic Delirium_, and in the anthology _The Moment of Change_ (2012). Her other interests include traditional music, contra dancing, biking, container gardening, and appreciating actors from classic horror movies.
-proofread: false
+proofread: true
 contentnote:
 ---
 
@@ -40,6 +40,7 @@ contentnote:
 "I might want that finger, for playing the guitar. Or typing."
 
 "You can re-learn how to type, and you don't know how to play the guitar. If you wanted to, you'd be doing it already."
+
 "That's not true." I was hurt. "I'm saving up for one of my own."
 
 "OK, OK, it's just, that doesn't prove anything. Django Reinhardt played the guitar with two working fingers."
@@ -60,7 +61,7 @@ contentnote:
 
 "Do you want to have a warden reach into your rear end and dig around to see if you're hiding razor blades? That's what happens in jail. And you go to jail or else they make you kill people. That's what wartime is, honey. That's what it was when I turned eighteen, and that's what it is now you're old enough to be sent to kill."
 
-"But when you were sentenced, the judges—“
+"But when you were sentenced, the judges—"
 
 "You're out of time!" Dad didn't raise his voice. He didn't have to. "Look. I wish the world wasn't this way, but it is. You're not going to be sent to kill people. You're not going to jail. I don't want you to die! Do you want to live or die?"
 
