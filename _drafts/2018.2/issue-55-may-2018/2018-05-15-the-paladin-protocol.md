@@ -11,6 +11,8 @@ teaser: “Do NOT initiate contact with me, nor administer treatment, without my
 author-img: sydnee-thompson.jpg
 author-bio: |
   [Sydnee Thompson](http://shadesofsydnee.com) is an editor and writer based in metro Detroit whose fiction has been published by _Fiyah Lit Magazine_, _Seven Scribes_, and _Brown Sugar Griots_; their nonfiction credits include _Black Girl Dangerous_ and _Hour Detroit_. They spend more time sleeping than anything else, but when they do write, Sydnee likes to make their characters miserable and blow things up, because why not. Find them on Twitter [@SydMT](https://twitter.com/SydMT) and at their website, shadesofsydnee.com.
+proofread: true
+
 ---
 
 A tingling sensation builds on the skin above Aaryn’s ears. They blink their eyes open, waiting for the message alert to reach their implant.
@@ -39,9 +41,9 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 They sigh again. _Ping: Central Control._
 
- **Request received. How can I help you today, Aaryn?** The bland monotone of a white woman echoes in their head. If only Viktor had taken their suggestion to teach the software Ebonics…but the investors nixed that idea _real_ quick.
+**Request received. How can I help you today, Aaryn?** The bland monotone of a white woman echoes in their head. If only Viktor had taken their suggestion to teach the software Ebonics…but the investors nixed that idea _real_ quick.
 
- _Reply: I need to get up, shower, and dress._
+_Reply: I need to get up, shower, and dress._
 
 **OK, I can help you with that. What is your timeline?**
 
@@ -49,7 +51,7 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 The sound of the shower spray trickles in from the bathroom down the hall.
 
- **I have adjusted the water to your preferred temperature. You will find a fresh outfit waiting for you in the receiving chute. Is there anything else I can assist you with?**
+**I have adjusted the water to your preferred temperature. You will find a fresh outfit waiting for you in the receiving chute. Is there anything else I can assist you with?**
 
 _Reply: No, I’m fine. Thank you._ Aaryn pauses. _Actually…Command: Make me a patty—ackee and saltfish this time. End transmission._
 
@@ -69,7 +71,7 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 Aaryn snorts and eases out of bed. _Command: End transmission._
 
- They pull their nightshirt over their head, toss it on the floor, then shimmy out of their boxers. Aaryn walks into the bathroom, closes the door, and slips under the spray, which, as much as they want to deny CC the satisfaction, is indeed the perfect temperature. They grab a loofah and squirt some shower gel on it. _Ping: GNN current broadcast._
+They pull their nightshirt over their head, toss it on the floor, then shimmy out of their boxers. Aaryn walks into the bathroom, closes the door, and slips under the spray, which, as much as they want to deny CC the satisfaction, is indeed the perfect temperature. They grab a loofah and squirt some shower gel on it. _Ping: GNN current broadcast._
 
 Their head fills with a soft buzz. Then the audio phases in, submersing them in the clipped tones of an anchorwoman. “Cleanup and aid efforts continue in Sector 7 of New York City this afternoon, after a nonnuclear blast last week killed 12,208 and injured over 1,000. A preliminary investigation by the FBI has determined that Viktor Cruz, CEO and founder of NeuroNet Enterprises, made a crucial last-minute decision that greatly minimized casualties. We transition now to a live press conference with Mr. Cruz as he addresses these revelations directly.”
 
@@ -79,7 +81,7 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 Aaryn keeps their eyes closed as they finish washing their long, graying hair section by section. In their mind they can clearly see a wide, sterile-looking conference room with rows of seats, all filled, that go as far back as the camera can pan. Behind the lectern at the front of the room, a tall Filipino man with sculpted cheekbones and salt-and-pepper hair stands with his hands clasped in front of him, his Armani suit jacket hanging open and his sleeves rolled up to his elbows. Informal but dominating—that’s the Viktor Aaryn knows.
 
- “Good afternoon, all. Thank you for joining me here on such short notice,” he begins matter-of-factly. “As founder and CEO of NeuroNet, human health and safety is of the utmost importance to me. When the NMD alerted the public of an incoming missile strike, naturally there was a lot of panic. People weren’t listening to the recommendations—they were looting, shooting, planning to take their own lives…no one has faith in the government to protect them anymore, and honestly I can’t blame them.” He glances around the room, at one point looking directly into the lens of one of GNN’s cameras. “But I couldn’t just sit and watch as millions died when I knew I could help. Thus, after the initial alert, I made a judgment call to override each active NeuroNet in the area with my own emergency directive.”
+“Good afternoon, all. Thank you for joining me here on such short notice,” he begins matter-of-factly. “As founder and CEO of NeuroNet, human health and safety is of the utmost importance to me. When the NMD alerted the public of an incoming missile strike, naturally there was a lot of panic. People weren’t listening to the recommendations—they were looting, shooting, planning to take their own lives…no one has faith in the government to protect them anymore, and honestly I can’t blame them.” He glances around the room, at one point looking directly into the lens of one of GNN’s cameras. “But I couldn’t just sit and watch as millions died when I knew I could help. Thus, after the initial alert, I made a judgment call to override each active NeuroNet in the area with my own emergency directive.”
 
 Murmurs fan through the audience; Viktor pauses accordingly. A young blond reporter in the front row holds up her tablet pen. “Mr. Cruz, are you admitting to violating Terms of Use and Privacy guidelines that you yourself lobbied extensively for in order to carry out this directive?”
 
@@ -91,7 +93,7 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 The room explodes with noise and activity—reporters shouting out questions in rapid succession, chairs scrapping or crashing to the ground, protestors chanting in the background: “Fuck NeuroNet! Fuck NeuroNet!” Many of them have the telltale bald spots on the back of their heads that identify them as early test subjects.
 
- “The insular cortex is crucial in the experience of pain,” Aaryn suddenly remembers Viktor announcing to a room full of eager science journalists five years ago, using a speech they had written for him based on their own research. That conference took place only a few weeks before Aaryn had undergone surgery to have a NeuroNet implanted themselves. “We haven’t been able to turn these pain signals _completely_ off yet, but I am working on a revolutionary new treatment…”
+“The insular cortex is crucial in the experience of pain,” Aaryn suddenly remembers Viktor announcing to a room full of eager science journalists five years ago, using a speech they had written for him based on their own research. That conference took place only a few weeks before Aaryn had undergone surgery to have a NeuroNet implanted themselves. “We haven’t been able to turn these pain signals _completely_ off yet, but I am working on a revolutionary new treatment…”
 
 Aaryn scowls, fingering the wire pendants—a Sankofa bird and an infinity symbol—that hang from a gold chain around their neck. Since they’d commissioned Darius to design them right before the implantation surgery, Aaryn had never taken them off. “Good luck charms,” he’d said with a smile and a wink. “Can’t have too much of that,” Aaryn had replied. They knew the human brain had an uncanny ability to connect symbols or photos to memories, but cognition wasn’t without its hiccups. So they’d spent hours staring at those two symbols, off and on for weeks, to try to eliminate those hiccups as much as biology would allow.
 
@@ -248,11 +250,11 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 **Your friend, Darius McNeil, and two acquaintances. He has left you three away messages while you were resting.**
 
- _Reply: Oh yeah, damn, I forgot he was coming. Command: Unlock the door._
+_Reply: Oh yeah, damn, I forgot he was coming. Command: Unlock the door._
 
 **Door unlocked.**
 
- “About time. Your ice cream is soup now, but I still want my money.” Darius’s loud footsteps pound the carpet until he’s peering around the bedroom door frame. His eyes widen. “Aaryn? Holy shit, are you OK?”
+“About time. Your ice cream is soup now, but I still want my money.” Darius’s loud footsteps pound the carpet until he’s peering around the bedroom door frame. His eyes widen. “Aaryn? Holy shit, are you OK?”
 
 Somehow, they’ve ended up on the floor, tangled in a damp towel and the bedsheets. They’re naked and can’t remember why. Darius rushes over and gently helps Aaryn to a sitting position before racing into the hallway to gather the clothes from the receiving chute.
 
@@ -262,13 +264,13 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 Weird. They haven’t spoken to Viktor in years.
 
- _Accept._
+_Accept._
 
 _Viktor: Aaryn! It’s been a long time. Ready to take over the world together, my friend?_
 
 A burst of elation fills them. Aaryn doesn’t question it, but something—muscle memory, perhaps—has them glancing down at their breasts. The necklace, the pendants that are nestled against their skin.
 
- A sudden thought materializes:
+A sudden thought materializes:
 
 _“It is not taboo to fetch what is at risk of being left behind.”_
 
