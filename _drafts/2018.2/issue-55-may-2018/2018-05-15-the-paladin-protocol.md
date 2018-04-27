@@ -10,7 +10,7 @@ published: false
 teaser: “Do NOT initiate contact with me, nor administer treatment, without my direction from now on. That is a strict order. Command: Affirm compliance.”
 author-img: sydnee-thompson.jpg
 author-bio: |
-  [Sydnee Thompson](http://shadesofsydnee.com) is an editor and writer based in metro Detroit whose fiction has been published by _Fiyah Lit Magazine_, _Seven Scribes_, and _Brown Sugar Griots_; their nonfiction credits include _Black Girl Dangerous_ and _Hour Detroit_. They spend more time sleeping than anything else, but when they do write, Sydnee likes to make their characters miserable and blow things up, because why not. Find them on Twitter [@SydMT](https://twitter.com/SydMT) and at their website, shadesofsydnee.com.
+ [Sydnee Thompson](http://shadesofsydnee.com) is an editor and writer based in metro Detroit whose fiction has been published by _Fiyah Lit Magazine_, _Seven Scribes_, and _Brown Sugar Griots_; their nonfiction credits include _Black Girl Dangerous_ and _Hour Detroit_. They spend more time sleeping than anything else, but when they do write, Sydnee likes to make their characters miserable and blow things up, because why not. Find them on Twitter [@SydMT](https://twitter.com/SydMT) and at their website, shadesofsydnee.com.
 proofread: true
 
 ---
@@ -21,7 +21,9 @@ A tingling sensation builds on the skin above Aaryn’s ears. They blink their e
 
 _Accept._
 
-_Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection on their bedroom ceiling. A pale blue sky, complete with fluffy white clouds drifting right, shimmers above, with the current date and time superimposed on top.
+_Darius: I’m bored as fuck. What’re you up to?_
+
+Aaryn scans the projection on their bedroom ceiling. A pale blue sky, complete with fluffy white clouds drifting right, shimmers above, with the current date and time superimposed on top.
 
 April 27, 2073. 12:50 PM. They’d slept 12 hours straight.
 
@@ -41,7 +43,7 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 They sigh again. _Ping: Central Control._
 
-**Request received. How can I help you today, Aaryn?** The bland monotone of a white woman echoes in their head. If only Viktor had taken their suggestion to teach the software Ebonics…but the investors nixed that idea _real_ quick.
+**Request received. How can I help you today, Aaryn?** The bland monotone of a white woman echoes in their head. If only Viktor had taken their suggestion to teach the software Ebonics… but the investors nixed that idea _real_ quick.
 
 _Reply: I need to get up, shower, and dress._
 
@@ -53,7 +55,7 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 **I have adjusted the water to your preferred temperature. You will find a fresh outfit waiting for you in the receiving chute. Is there anything else I can assist you with?**
 
-_Reply: No, I’m fine. Thank you._ Aaryn pauses. _Actually…Command: Make me a patty—ackee and saltfish this time. End transmission._
+_Reply: No, I’m fine. Thank you._ Aaryn pauses. _Actually… Command: Make me a patty—ackee and saltfish this time. End transmission._
 
 Aaryn groans as they sit up, their joints creaking. They feel like a car ran them over, backed up, and ran them over again before they’d been left out to rot for a few hours and then popped into the microwave. In other words, another day ending with –y. Today, at least, Aaryn doesn’t have a headache.
 
@@ -81,9 +83,9 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 Aaryn keeps their eyes closed as they finish washing their long, graying hair section by section. In their mind they can clearly see a wide, sterile-looking conference room with rows of seats, all filled, that go as far back as the camera can pan. Behind the lectern at the front of the room, a tall Filipino man with sculpted cheekbones and salt-and-pepper hair stands with his hands clasped in front of him, his Armani suit jacket hanging open and his sleeves rolled up to his elbows. Informal but dominating—that’s the Viktor Aaryn knows.
 
-“Good afternoon, all. Thank you for joining me here on such short notice,” he begins matter-of-factly. “As founder and CEO of NeuroNet, human health and safety is of the utmost importance to me. When the NMD alerted the public of an incoming missile strike, naturally there was a lot of panic. People weren’t listening to the recommendations—they were looting, shooting, planning to take their own lives…no one has faith in the government to protect them anymore, and honestly I can’t blame them.” He glances around the room, at one point looking directly into the lens of one of GNN’s cameras. “But I couldn’t just sit and watch as millions died when I knew I could help. Thus, after the initial alert, I made a judgment call to override each active NeuroNet in the area with my own emergency directive.”
+“Good afternoon, all. Thank you for joining me here on such short notice,” he begins matter-of-factly. “As founder and CEO of NeuroNet, human health and safety is of the utmost importance to me. When the NMD alerted the public of an incoming missile strike, naturally there was a lot of panic. People weren’t listening to the recommendations—they were looting, shooting, planning to take their own lives… no one has faith in the government to protect them anymore, and honestly I can’t blame them.” He glances around the room, at one point looking directly into the lens of one of GNN’s cameras. “But I couldn’t just sit and watch as millions died when I knew I could help. Thus, after the initial alert, I made a judgment call to override each active NeuroNet in the area with my own emergency directive.”
 
-Murmurs fan through the audience; Viktor pauses accordingly. A young blond reporter in the front row holds up her tablet pen. “Mr. Cruz, are you admitting to violating Terms of Use and Privacy guidelines that you yourself lobbied extensively for in order to carry out this directive?”
+Murmurs fan through the audience; Viktor pauses accordingly. A young blonde reporter in the front row holds up her tablet pen. “Mr. Cruz, are you admitting to violating Terms of Use and Privacy guidelines that you yourself lobbied extensively for in order to carry out this directive?”
 
 Viktor nods. “I am. And I want to stress this next point in particular—I acted alone. I did not consult with anyone—my board of directors, systems engineers, server maintenance staff—before pushing this update out. If anyone should be held accountable, it will be me and me alone. But humans are flawed creatures.” He is speaking directly to the blonde now, his gaze stern. “We as a species do not respond to emergencies in a predictable or effective fashion. New York graciously allowed me to test the Neurological Network there regionwide, and therefore I was able to ensure 99 percent of the populace evacuated in time.” He leans forward and stares into the camera again. “I should note that, of the people who were killed, not a single one had a NeuroNet implanted.”
 
@@ -91,7 +93,7 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 The murmurs intensify, rising to an anxious pitch. Viktor reaches deliberately for the glass of water on the lectern and takes a long drink. He reaches into the breast pocket of his jacket for a white handkerchief, dabs his mouth dry, and then says, “That is correct.”
 
-The room explodes with noise and activity—reporters shouting out questions in rapid succession, chairs scrapping or crashing to the ground, protestors chanting in the background: “Fuck NeuroNet! Fuck NeuroNet!” Many of them have the telltale bald spots on the back of their heads that identify them as early test subjects.
+The room explodes with noise and activity—reporters shouting out questions in rapid succession, chairs scrapping or crashing to the ground, protesters chanting in the background: “Fuck NeuroNet! Fuck NeuroNet!” Many of them have the telltale bald spots on the back of their heads that identify them as early test subjects.
 
 “The insular cortex is crucial in the experience of pain,” Aaryn suddenly remembers Viktor announcing to a room full of eager science journalists five years ago, using a speech they had written for him based on their own research. That conference took place only a few weeks before Aaryn had undergone surgery to have a NeuroNet implanted themselves. “We haven’t been able to turn these pain signals _completely_ off yet, but I am working on a revolutionary new treatment…”
 
@@ -181,7 +183,7 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 **Command confirmed. Initiating Paladin Protocol.**
 
-They don’t know what a “Paladin Protocol” is. It had never featured in any of Aaryn’s designs for the system. “What the…Viktor?! Central Control, I order you to stop! Command: Terminate Paladin Protocol immediately!”
+They don’t know what a “Paladin Protocol” is. It had never featured in any of Aaryn’s designs for the system. “What the… Viktor?! Central Control, I order you to stop! Command: Terminate Paladin Protocol immediately!”
 
 **Request denied. Paladin Protocol initiated.**
 
@@ -207,24 +209,23 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
 _Viktor sits on top of a desk in the empty lecture hall, his feet planted in the seat. His hair is slick with grease and spiked in random directions; he can’t help but run his fingers through it when he’s deep in thought, and over the three hours the two of them have spent talking, he’s obviously been thinking a lot._
 
-_“You can’t retire,” he says, shaking his head. “No, I don’t accept that. You’re too good—no, you’re _brilliant_. This country is going to hell. We can’t afford to lose someone like you in the field.”_
+_“You can’t retire,” he says, shaking his head. “No, I don’t accept that. You’re too good—no, you’re_ brilliant. _This country is going to hell. We can’t afford to lose someone like you in the field.”_
 
-_“Viktor, I feel like I’m sitting on a bed of needles right now. I’m tired all the time. I spent all yesterday staring at my computer screen because I couldn’t…you know what fibro does.” They shake their head. “I can’t work like this. I don’t want to work like this. Someone can continue my research; I’m not the only neuroscientist in the world. I’d be happy to consult with you on your project occasionally, but as far as a partnership—”_
+_“Viktor, I feel like I’m sitting on a bed of needles right now. I’m tired all the time. I spent all yesterday staring at my computer screen because I couldn’t… you know what fibro does.” They shake their head. “I can’t work like this. I don’t want to work like this. Someone can continue my research; I’m not the only neuroscientist in the world. I’d be happy to consult with you on your project occasionally, but as far as a partnership—”_
 
 _“Fine, then don’t become a partner,” he blurts. “Become a participant.”_
 
-_Aaryn leans back in their chair, eyebrows rising. “I…you must be joking.”_
+_Aaryn leans back in their chair, eyebrows rising. “I… you must be joking.”_
 
-_“What I’m about to tell you cannot leave this room. _I_ shouldn’t even know.” He lowers his voice. “The chemical agents used in the terrorist attack on L.A.? They’re unlike anything that has ever been seen before. People outside the blast radius are experiencing mild symptoms. They’re not dying immediately, Aaryn. Brain and nerve functions are degenerating slowly, as if the victims are suffering from terminal neurological disease. So, if we can figure out how to better treat the diseases these conditions mimic…”_
+_“What I’m about to tell you cannot leave this room._ I _shouldn’t even know.” He lowers his voice. “The chemical agents used in the terrorist attack on L.A.? They’re unlike anything that has ever been seen before. People outside the blast radius are experiencing mild symptoms. They’re not dying immediately, Aaryn. Brain and nerve functions are degenerating slowly, as if the victims are suffering from terminal neurological disease. So, if we can figure out how to better treat the diseases these conditions mimic…”_
 
 _“…You can learn how to stop the toxin’s effect before more people die.”_
 
 _He gives one curt nod. “Exactly.”_
 
-
 _“I might be in a helluva lot of pain, but I’m not terminal, Viktor,” Aaryn says with a chuckle. “I admire what you’re doing, but I don’t need a high-tech implant. I still have a lot of years left in me.”_
 
-_“I know, and I’m glad.” His Adam’s apple bobs. “But I don’t know if we can say the same of the rest of humanity.” The corner of his mouth lifts, highlighting his dimple. “And besides…who better to evaluate NeuroNet than a genius neuroscientist?”_
+_“I know, and I’m glad.” His Adam’s apple bobs. “But I don’t know if we can say the same of the rest of humanity.” The corner of his mouth lifts, highlighting his dimple. “And besides… who better to evaluate NeuroNet than a genius neuroscientist?”_
 
 ----
 
@@ -232,7 +233,7 @@ _Darius: I’m bored as fuck. What’re you up to?_Aaryn scans the projection 
 
  _Viktor chuckles. “No. What?”_
 
-_“It’s such a tiny little thing, but it does so much. It’s not just the processing of pain—our emotions, our consciousness, our perception of the world…all those things are influenced by it, too. In a lot of ways, it’s the key to the human soul itself.”_
+_“It’s such a tiny little thing, but it does so much. It’s not just the processing of pain—our emotions, our consciousness, our perception of the world… all those things are influenced by it, too. In a lot of ways, it’s the key to the human soul itself.”_
 
 _He grins. “And now we can finally open the door.”_
 
