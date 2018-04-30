@@ -18,6 +18,7 @@ artist-img: michelle-wong.jpg
 artist-bio: |
   Michelle Wong is a comic artist from Hong Kong. She likes horror, video games and good food. Her clients include: IDW, Action Lab, BOOM! Studios.
 proofread: true
+contentnote: This story engages with themes of sexual assault and depicts an attempt.
 ---
 
 "Sandra," my house told me, as our subdivision's street lights blinked on, "you have a message I am unable to read aloud."
