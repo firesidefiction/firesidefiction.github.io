@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-05-01 01:00:01 -0500
 category: flash fiction
 permalink: so-it-was-foretold
-published: false
+published: true
 teaser: "We were so skilled at imbibing, my foremothers and I. We, who were nameless, unseen, erasing ourselves as we made our way through life."
 author-img: mimi-mondal.jpg
 author-bio: |
