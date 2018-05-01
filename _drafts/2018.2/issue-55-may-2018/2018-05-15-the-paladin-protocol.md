@@ -7,7 +7,7 @@ date: 2018-05-15 01:00:01 -0500
 category: short story
 permalink: the-paladin-protocol
 published: false
-teaser: “Do NOT initiate contact with me, nor administer treatment, without my direction from now on. That is a strict order. Command: Affirm compliance.”
+teaser: "Do NOT initiate contact with me, nor administer treatment, without my direction from now on. That is a strict order. Command: Affirm compliance."
 author-img: sydnee-thompson.jpg
 author-bio: |
  [Sydnee Thompson](http://shadesofsydnee.com) is an editor and writer based in metro Detroit whose fiction has been published by _Fiyah Lit Magazine_, _Seven Scribes_, and _Brown Sugar Griots_; their nonfiction credits include _Black Girl Dangerous_ and _Hour Detroit_. They spend more time sleeping than anything else, but when they do write, Sydnee likes to make their characters miserable and blow things up, because why not. Find them on Twitter [@SydMT](https://twitter.com/SydMT) and at their website, shadesofsydnee.com.
