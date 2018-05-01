@@ -11,7 +11,7 @@ teaser: "My abuela told me that there was such a thing as being too chismosa, th
 author-img: christopher-r-alonso.jpg
 author-bio: |
   Christopher R. Alonso was born in Miami to a Cuban family. He is a student of fiction at the Northeast Ohio MFA program, the current fiction editor at _Jenny Magazine_, and has contributed to the _Miami Rail_. He enjoys dancing flamenco and playing the piano. Find him on Twitter [@Chrisralonso](https://www.twitter.com/Chrisralonso).
-art: rules-for-communing-with-spirits.png
+art: rules-for-communing-with-spirits.jpg
 caption: "Two figures see each other through a crowd."
 artist: Charis Loke
 artist-img: charis-loke.jpg

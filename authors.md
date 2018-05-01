@@ -438,6 +438,9 @@ permalink: /authors
 ### Dominica Phetteplace
 — [_How I Got Published (12 Tips from a Bestselling Author)_](/how-i-got-published)
 
+### Aimee Picchi
+— [_50 Ways to Leave Your Fairy Lover)_](/50-ways-to-leave-your-fairy-lover)
+
 ### Sarah Pinsker
 — [_They Sent Runners Out_](/issue10/chapter/they-sent-runners-out/)
 
@@ -449,6 +452,8 @@ permalink: /authors
 — [_The Revolution, Brought to You by Nike_](/the-revolution-brought-to-you-by-nike)
 
 — [_Three Laws_](/three-laws)
+
+— [_We Need New Scripts_](/we-need-new-scripts)
 
 ### Vina Jie-Min Prasad
 — [_Portrait of Skull with Man_](/portrait-of-skull-with-man)
@@ -541,6 +546,9 @@ permalink: /authors
 ### Andrea Speed
 — [_The Last Job_](/issue5/chapter/the-last-job/)
 
+### D.A. Xiaolin Spires
+— [_Before the Burst_](/before-the-burst)
+
 ### Kelly C. Stiles
 — [_Just a Couple Modifications_](/issue10/chapter/just-a-couple-modifications/)
 
@@ -558,6 +566,9 @@ permalink: /authors
 ----
 
 ## T
+
+### Bogi Takács
+— [_On Good Friday the Raven Washes Its Young_](/on-good-friday-the-raven-washes-its-young)
 
 ### Jordan Taylor
 — [_Red as Blood, White as Snow, Black as Ebony_](/issue32/chapter/red-as-blood-white-as-snow-black-as-ebony/)
@@ -585,6 +596,9 @@ permalink: /authors
 
 ### Holly Lyn Walrath
 — [_knick knack, knick knack_](/knick-knack-knick-knack)
+
+### LaShawn M. Wanak
+— [_One For Sorrow, Two For Joy_](/one-for-sorrow-two-for-joy)
 
 ### Chuck Wendig
 — [_Emerald Lakes, an Atlanta Burns story_](/issue1/chapter/emerald-lakes/)
