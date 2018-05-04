@@ -9,7 +9,7 @@ permalink: the-story-of-a-young-woman
 published: false
 teaser: "This is a story of love. The young woman’s love for her people. Her love for her ancestors."
 author-bio: |
-  Ose Utomi has done a lot of different things for a little bit of time, but writing is his constant. When he's not indulging his restlessness by traveling about, he's being an amateur kickboxer or doing karaoke—with or without a backing track.
+  Ose Utomi has done a lot of different things for a little bit of time, but writing is his constant. When he's not indulging his restlessness by traveling about, he's being a martial artist or doing karaoke—with or without a backing track.
 proofread: true
 ---
 
