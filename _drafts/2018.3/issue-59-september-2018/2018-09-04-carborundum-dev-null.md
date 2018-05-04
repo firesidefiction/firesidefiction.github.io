@@ -49,7 +49,7 @@ I headed for the back hall and got my hoodie out of the closet.
 
 "No don’t—"
 
-"You're mother has been informed."
+"Your mother has been informed."
 
 Damnit. My mother's footsteps squeaked across the second floor. I had my hand on the door handle when she reached the top of the kitchen stairs.
 
@@ -271,7 +271,7 @@ Jack sidled up next to me. "You have to try this root beer," he said, a little t
 
 "I don't like house-made soda," I said. I picked up my phone.
 
-He nodded to it. "Hey. You're mom's not on your ass because of me, is she?"
+He nodded to it. "Hey. Your mom's not on your ass because of me, is she?"
 
 Self-centered bastard. "No."
 
