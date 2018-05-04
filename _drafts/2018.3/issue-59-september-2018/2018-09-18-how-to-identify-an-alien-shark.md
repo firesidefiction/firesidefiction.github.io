@@ -20,7 +20,7 @@ However, after the Twiller Incident last month, we can no longer stand idle whil
 
 Today, the greatest scientific minds come together, from across disciplines, to tackle the problem.
 
-Now, I will start the presentation. Let me just find my data stick. Excuse me. This scarf always gets in the way. Scarfs are tricky things, aren't they? There we are.
+Now, I will start the presentation. Let me just find my data stick. Excuse me. This scarf always gets in the way. Scarves are tricky things, aren't they? There we are.
 
 Please absorb the following information into your neural implants:
 
@@ -50,7 +50,7 @@ The Tucabal-Gor cannot morph into other species. The majestic shark is their nat
 
 Thank you for absorbing that information. Now, let us take a look at that list of demands, which includes the privatization of all Earth's oceans, and some of the lesser bodies of water, as well as mandatory economics education for all Earth's sentient life forms.
 
-Who's that in the back. Excuse me. The seminar is not over. Please do not attempt to leave.
+Who's that in the back? Excuse me. The seminar is not over. Please do not attempt to leave.
 
 It is my thought that perhaps we should listen to the extremely reasonable demands of the Tucabal-Gor. After all, we humans spend most of our time on land, and are hardly ever in the ocean. It's not as if the sharks want to annex the whole planet.
 
