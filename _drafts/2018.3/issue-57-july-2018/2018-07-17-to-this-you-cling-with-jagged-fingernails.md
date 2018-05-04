@@ -10,7 +10,7 @@ published: false
 teaser: "You should have talked to her about magic before she died, but you haven't lived close to her in years."
 author-img: beth-cato.jpg
 author-bio: |
-  Nebula-nominated [Beth Cato](http://www.bethcato.com) is the author of the Clockwork Dagger duology and the new Blood of Earth Trilogy from Harper Voyager. Her newest novel is _Call of Fire_. She’s a Hanford, California, native transplanted to the Arizona desert, where she lives with her husband, son, and requisite cat. Follow her at BethCato.com and on Twitter at [@BethCato](https://twitter.com/BethCato).
+  Nebula-nominated [Beth Cato](http://www.bethcato.com) is the author of the Clockwork Dagger duology and the new Blood of Earth Trilogy from Harper Voyager. Her newest novel is _Call of Fire_. She’s a Hanford, California, native transplanted to the Arizona desert, where she lives with her husband, son, and requisite cats. Follow her at BethCato.com and on Twitter at [@BethCato](https://twitter.com/BethCato).
 proofread: true
 ---
 
