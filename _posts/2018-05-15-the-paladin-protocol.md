@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-05-15 01:00:01 -0500
 category: short story
 permalink: the-paladin-protocol
-published: false
+published: true
 teaser: "Do NOT initiate contact with me, nor administer treatment, without my direction from now on. That is a strict order. Command: Affirm compliance."
 author-img: sydnee-thompson.jpg
 author-bio: |
