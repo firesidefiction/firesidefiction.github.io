@@ -12,7 +12,7 @@ author-img: april-grant.jpg
 author-bio: |
   [April](http://www.aprilcatherinegrant.com) lives near Boston, and writes stories, poems, and songs. She has published poetry in _Strange Horizons_ and _Mythic Delirium_, and in the anthology _The Moment of Change_ (2012). Her other interests include traditional music, contra dancing, biking, container gardening, and appreciating actors from classic horror movies.
 proofread: true
-contentnote:
+contentnote: This story includes non-graphic descriptions and discussions of gun violence.
 ---
 
 "You'll never be at a better time in your life for this to happen," said my father. "You're really healthy; even for a college student, you're fit. You can get it over with now, and then you'll be safe forever."
