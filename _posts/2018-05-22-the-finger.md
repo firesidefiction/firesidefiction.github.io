@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-05-22 01:00:01 -0500
 category: flash fiction
 permalink: the-finger
-published: false
+published: true
 teaser: "All you have to do is just go to the range, wrap your finger across the muzzle and pull the trigger. Bang. Your hand slipped, it was an accident, they call an ambulance, you're done."
 author-img: april-grant.jpg
 author-bio: |
