@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-05-24 01:00:01 -0500
 category: essay
 permalink: redefining-scripts-for-better-masculinity
-published: false
+published: true
 teaser: "We’ve had a long run, fellow cis straight men."
 author-img: pablo-defendini.png
 author-bio: |
@@ -23,12 +23,12 @@ But but but! ‘Not all men!’ you say. ‘What about the good guys?’ you say
 Let’s take a moment to acknowledge that it can be scary, disorienting, and paralyzing to have all of your scripts chucked in the trash fire along with the rest of the patriarchy. You might get frustrated. Angry. Makes you want to maybe hit things, or--wait, no. That’s not a healthy way to deal with your emotions, my dude. See? This shit is tricky. [^1]
 
 Okay, moment is over. Look, the thing is, we don’t get to wallow in frustration for too long, because these scripts didn’t just suddenly become bad--they were _always_ bad, it’s just that we hadn’t realized it. But once you see that something is broken, you can’t unsee it, and it’s up to us to fix our own mess.
- 
-Besides, just as importantly, it turns out that the version of masculinity that gave us the scripts most of us follow isn’t just bad for women, it’s also terrible for us men. We’re told that in order to be ‘real men,’ we have to shut off our feelings, be stoic and never let on that anything affects us. We consider gentleness, empathy, and kindness to be ‘female’ traits, or ‘soft skills,’ and thus discourage boys from developing those skills.  We are encouraged by our peers and the media we consume to view women and other non-male people as objects to either control, consume, or conquer — and our culture bends over backward to look the other way and to excuse our terrible behavior when we throw tantrums[^2] because other people don’t behave in ways that track with the fantasies we’ve been sold by society. 
+
+Besides, just as importantly, it turns out that the version of masculinity that gave us the scripts most of us follow isn’t just bad for women, it’s also terrible for us men. We’re told that in order to be ‘real men,’ we have to shut off our feelings, be stoic and never let on that anything affects us. We consider gentleness, empathy, and kindness to be ‘female’ traits, or ‘soft skills,’ and thus discourage boys from developing those skills.  We are encouraged by our peers and the media we consume to view women and other non-male people as objects to either control, consume, or conquer — and our culture bends over backward to look the other way and to excuse our terrible behavior when we throw tantrums[^2] because other people don’t behave in ways that track with the fantasies we’ve been sold by society.
 
 I’ve seen some hand-wringing from guys about how it’s trendy (whatever the hell that means) to bag on dudes these days, but that nobody is showing us how to be better. That’s just not true. It turns out that there’s plenty of good advice out there, if you’re willing to listen, to self-reflect, and to put in the work to change. Besides, lesson number one for dudes trying to contribute meaningfully to a post-patriarchy world is that it’s not anyone else’s responsibility to figure out how to fix this for us. Part of the problem is that we’ve been relying on others — again, mostly women, but not just women — to do this work for us.
 
-And yes, the theory is is all pretty straightforward, but this stuff is work, and it’s ongoing work. Some days we’ll do really well, and some days we’ll falter or make mistakes, especially at first.
+And yes, the theory is all pretty straightforward, but this stuff is work, and it’s ongoing work. Some days we’ll do really well, and some days we’ll falter or make mistakes, especially at first.
 
 But it is not rocket science. The key to successfully navigating a post-#MeToo world and still getting to enjoy romantic relationships is the same as it ever was: you read the room, you listen, you ask for explicit consent, and above all you respect others’ desires when they tell you what they need from you (especially when what they need from you is to stay the hell away from them--no one should have to tell you twice to stay away from them).
 
@@ -68,7 +68,7 @@ We need to make sure that this stuff stops with us. We need to ensure that the p
 
 This is made manifest in all aspects of our lives: in the way that we treat the people around us, in the words that we use when we talk to and about children, women and nonbinary folks, in the media that we consume and the way it portrays people of all genders. This is an opportunity to redefine what it means to be a man: to raise up values rooted in empathy, compassion, and solidarity rather than objectification and solipsism.
 
-[^1]: This is why therapists exist: the best decision I ever made was to sign up to go talk to a professional listener every week. Having  someone who will listen, and not judge, and give you real-world tools with which to cope with life — and no, your priest doesn’t count.
+[^1]: This is why therapists exist: the best decision I ever made was to sign up to go talk to a professional listener every week. Having someone who will listen, and not judge, and give you real-world tools with which to cope with life — and no, your priest doesn’t count.
 
 [^2]: ‘Throwing a tantrum’ is underselling it. I’m talking about domestic abuse, and unfortunately, in the United States, this often escalates into gun violence — I don’t think it’s a coincidence that many of the perpetrators of the horrific gun massacres that happen in the US have a history of domestic abuse.
 
