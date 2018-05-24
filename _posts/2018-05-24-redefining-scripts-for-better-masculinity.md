@@ -8,7 +8,7 @@ category: essay
 permalink: redefining-scripts-for-better-masculinity
 published: true
 teaser: "We’ve had a long run, fellow cis straight men."
-author-img: pablo-defendini.png
+author-img: pablo-defendini.jpg
 author-bio: |
  Pablo Defendini is the Publisher and Art Director of Fireside Magazine.
 proofread: false
