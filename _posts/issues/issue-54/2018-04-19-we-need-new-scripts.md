@@ -27,7 +27,7 @@ Let’s unpack this a bit. A lot of our daily interactions are basically pre-scr
 
 We also have culturally-accepted scripts that we perform for situations like getting engaged or breaking up. These conversations aren’t on rails, exactly, but once the conversation starts, there are a limited number of possible outcomes based on what each person is trying to achieve and which lines they use.
 
-Script" is perhaps a misleading word—you could read it more accurately as something more like a decision tree in a video game. When someone says "Hi, how are ya," everybody knows that "Hi," and "Good!" and a handshake are all acceptable next lines, and they move you both smoothly through the interaction.
+'Script' is perhaps a misleading word—you could read it more accurately as something more like a decision tree in a video game. When someone says "Hi, how are ya," everybody knows that "Hi," and "Good!" and a handshake are all acceptable next lines, and they move you both smoothly through the interaction.
 
 We have similar acceptable and required behaviors for absolutely everything. How you play with a baby. How you navigate a car in traffic. How you put together a meal. What you say, if anything, when someone sneezes. This is, of course, heavily mediated by culture and social contract, because every one of these things can be entirely different in another culture, or even another subculture.
 
@@ -37,7 +37,7 @@ Upon closer inspection, a lot of the behaviors we find creepy or upsetting or in
 
 Many of us, it turns out, will simply carry on with the script as though the offending event didn’t happen at all. That’s a big problem right now, in the context of #MeToo.
 
-Clearly when a friend of yours is accused of inappropriate behavior, the right answer isn’t to just ignore the whole ugly mess. But higher-order logic isn’t always quite up to the job, either. In the case of #MeToo, our logical brains want far more information than we typically get
+Clearly when a friend of yours is accused of inappropriate behavior, the right answer isn’t to just ignore the whole ugly mess. But higher-order logic isn’t always quite up to the job, either. In the case of #MeToo, our logical brains want far more information than we typically get.
 
 This is all we know: A bad thing has happened, and we are obligated to believe the bad thing.
 
