@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-05-29 01:00:01 -0500
 category: flash fiction
 permalink: now-watch-my-rising
-published: false
+published: true
 teaser: "Stories filter down through moss and leaf, fed by the sun that hears all. Wolf listens, for there are many tales of other wolves like them."
 author-img: a-merc-rustad.jpg
 author-bio: |
@@ -28,7 +28,7 @@ Iron as soft as illusion and unbreakable as time chains Wolf's limbs. And, just 
 
 
 
-Wolf endures the pain. No one comes to sit by them or tell them when the end of all things is to begin. They watch the sun arc and dip for eons above, and the forest overgrows them until they are only a wolf-shadow painted under the ancient loam. 
+Wolf endures the pain. No one comes to sit by them or tell them when the end of all things is to begin. They watch the sun arc and dip for eons above, and the forest overgrows them until they are only a wolf-shadow painted under the ancient loam.
 
 Stories filter down through moss and leaf, fed by the sun that hears all. Wolf listens, for there are many tales of other wolves like them. Wolf's dreams stretch out and touch their kin's sleep, and in the dark, they live alongside these other wolves for a time.
 
@@ -48,7 +48,7 @@ Elsewhere, Wolf finds a deadened farm, a stone well filled with colors undescrib
 
 ----
 
-Chained under the world, Wolf growls in helpless frustration. Why are their kin so unhappy? There must be other worlds, other lives, where wolves are free like the people who tell their stories. 
+Chained under the world, Wolf growls in helpless frustration. Why are their kin so unhappy? There must be other worlds, other lives, where wolves are free like the people who tell their stories.
 
 Wolf strains to hear the hope they know must exist, somewhere.
 
@@ -60,10 +60,10 @@ Do you see the single grain of sand? Held in soft palm, all that’s left.
 
 What Wolf hears, afloat in nothingness, is the Oracle's voice:
 
- _You are only lies, delusions, here to eat away the world. 
+ _You are only lies, delusions, here to eat away the world.
 
 Wish for luck’s return, waters bearing life, the speaker of Names._
-	
+
 Wolf sees there’s already a wolf here like them; Wolf knows how this will end.
 
 
@@ -75,7 +75,7 @@ So they leave, hopping into another narrative, another existence.
 Cold stitched flesh, lightning-born, condemned before first words—Wolf and Creature are alike. Both are reviled, and in the end, there is only fire in a windmill, torches and pitchforks held high, and lily petals lying wilted on the pond.
 
 
-In storybook worlds, the girls bare their teeth. "We are not things." 
+In storybook worlds, the girls bare their teeth. "We are not things."
 
 Wolf admires them from the tree-shadow and moon-spilled night.
 
@@ -90,7 +90,7 @@ The girls hold up the hearts of the men who would harm them. "And we will never 
 ----
 
 
-Wolf stirs, restless under the trees. It's hard to speak with a sword piercing your mouth, rusting your lips against dirt. Wolf has learned to speak with their paws, signing in the slack of chains. 
+Wolf stirs, restless under the trees. It's hard to speak with a sword piercing your mouth, rusting your lips against dirt. Wolf has learned to speak with their paws, signing in the slack of chains.
 
 _Is anyone out there?_
 
@@ -142,14 +142,13 @@ Wolf refuses. They won't gulp down heat and light and leave the world dark. This
 Unbound from lies and glue-bindings, fierce like the girls they admire, Wolf sprints past the sun and into infinite space. They are free.
 
 And free,
-          
-	  Wolf 
-               
-	       runs 
-                    
-		    off 
-                        
-			the      
-                            
-                            page
 
+	  Wolf
+
+	       runs
+
+		    off
+
+			the      
+
+                            page
