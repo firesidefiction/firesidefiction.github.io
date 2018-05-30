@@ -4,7 +4,7 @@ title: "#BlackSpecFic"
 subtitle: "A Fireside Fiction Company Special Report"
 permalink: /blackspecfic
 ---
-Since 2015 Fireside has been commissioning a report on the state of representation of Black authors within the speculative short fiction market, and accompanying essays.
+Since 2016 Fireside has been commissioning a Report on the state of representation of Black authors within the speculative short fiction market, and a Special Feature composed of accompanying essays in reaction to the Report.
 
 ----
 
