@@ -15,7 +15,7 @@ If Author has an agent, Author hereby authorizes `[Agency]`, attn: `[Agent Name]
 
 ## Schedule
 
-**Acceptance:** The Story will be considered accepted after revisions have been approved by the Author and by Fireside.
+**Completion of Edits:** The Story will be considered edited after revisions have been handed in by the Author and approved by Fireside.
 
 **Exclusivity:** The Author agrees not to publish or permit others to publish the Story in any form prior to the Story’s publication in Fireside Magazine and for a period of six (6) months after the Story's publication in Fireside Magazine, unless the Author obtains Fireside’s prior written approval.
 
@@ -23,7 +23,7 @@ If Author has an agent, Author hereby authorizes `[Agency]`, attn: `[Agent Name]
 
 ## Payment
 
-In consideration for the rights granted by the Author to Fireside, and the Author’s performance of obligations under this Agreement, the Author will receive a payment in the sum of **USD 12.5 cents per word**, which will be paid immediately upon acceptance of the Story and Author's execution of this agreement.
+In consideration for the rights granted by the Author to Fireside, and the Author’s performance of obligations under this Agreement, the Author will receive a payment in the sum of **USD 12.5 cents per word**, which be paid immediately upon completion of edits to the Story and Author's execution of this agreement.
 
 Fireside's right to use the Story is conditioned upon receipt of payment, and upon Fireside’s compliance with the terms of this agreement.
 
