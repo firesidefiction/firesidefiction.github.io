@@ -74,6 +74,9 @@ permalink: /authors
 ### Lisa M. Bradley
 — [_By the Mother’s Trunk_](/by-the-mothers-trunk/)
 
+### Lee S. Bruce
+— [_A Promise of Flight_](/a-promise-of-flight)
+
 ### Tobias S. Buckell
 — [_Press Enter to Execute_](/issue1/chapter/press-enter-to-execute/)
 
@@ -149,6 +152,9 @@ permalink: /authors
 ### Rachel Deering
 — [_Famine's Shadow_](/issue3/chapter/famines-shadow/)
 
+### Pablo Defendini
+— [_Redefining Scripts for Better Masculinity_](/redefining-scripts-for-better-masculinity)
+
 ### Steven J. Dines
 — [_A Trick of the Night_](/issue9/chapter/a-trick-of-the-night/)
 
@@ -205,6 +211,9 @@ permalink: /authors
 — [_The Kingfisher Manifesto_](/issue31/chapter/the-kingfisher-manifesto/)
 
 — [_Balance Point_](/balance-point)
+
+### April Grant
+— [_The Finger_](/the-finger)
 
 ### Megan Grey
 — [_Missing_](/issue15/chapter/missing/)
@@ -382,6 +391,9 @@ permalink: /authors
 ### Brian M. Milton
 — [_Rab the Giant versus the Witch of the Waterfall_](/rab-the-giant-versus-the-witch-of-the-waterfall)
 
+### Mimi Mondal
+— [_So It Was Foretold_](/so-it-was-foretold)
+
 ### Melissa Moorer
 — [_The Get-Get Man_](/issue37/chapter/the-get-get-man/)
 
@@ -494,6 +506,8 @@ permalink: /authors
 
 — [_Iron Aria_](/issue34/chapter/iron-aria/)
 
+— [_Now Watch My Rising_](/now-watch-my-rising)
+
 ### C. C. S. Ryan
 — [_Emergency Management Protocol_](/issue36/chapter/emergency-management-protocol/)
 
@@ -572,6 +586,9 @@ permalink: /authors
 
 ### Jordan Taylor
 — [_Red as Blood, White as Snow, Black as Ebony_](/issue32/chapter/red-as-blood-white-as-snow-black-as-ebony/)
+
+### Sydnee Thompson
+— [_The Paladin Protocol_](/the-paladin-protocol)
 
 ### Johann Thorsson
 — [_First, Bite Just a Finger_](/issue8/chapter/first-bite-just-a-finger/)

@@ -5,7 +5,7 @@ author: Pablo Defendini
 date: 2018-05-30 01:00:01 -0500
 category: news
 permalink: announcing-this-years-blackspecfic-editor
-published: false
+published: true
 teaser: "We’re delighted to announce Tanya DePass as the Special Features Editor of the 2017 #BlackSpecFic Report."
 ---
 

@@ -7,8 +7,8 @@ date: 2018-06-26 01:00:01 -0500
 category: short story
 permalink: fascism-and-facsimiles
 published: false
-teaser: ""Yeah, but we’re not Nazis, right?""
-author-img: brandon-obrien.jpg
+teaser: "Yeah, but we’re not Nazis, right?"
+author-img: john-wiswell.jpg
 author-bio: |
   John [@Wiswell](https://www.twitter.com/wiswell) lives where New York keeps all its trees. This is John's third story in _Fireside Magazine_, following ["Bones at the Door"](https://firesidefiction.com/issue27/chapter/bones-at-the-door/) and ["A Silhouette Against Armageddon."](https://firesidefiction.com/a-silhouette-against-armageddon) His fiction has also appeared in _Daily Science Fiction_, _Pseudopod_, and most recently in _Diabolical Plots_ and _Robot Dinosaurs_. Superhero comics helped teach him to read and so he's fiercely loyal to them, especially when they betray themselves.
 proofread: false
@@ -55,13 +55,13 @@ LaShawn squinted. "Hang on. Since World War II?"
 Terri said, "I’ve been meaning to ask about that. Are we the same organization as back then? Because that Kommand was… not okay."
 
 "We can’t be that Kommand." LaShawn gestured to the yellow eyes on his chest. "Our uniforms are totally different."
- 
+
 "The Kommand in World War II was like special ops for the Nazis."
 
 "Yeah, but we’re not Nazis, right?"
 
 Fog lapped up the side of the tower, which helped neither of them feel less evil.
- 
+
 The voice of Kommand said, "Over the centuries, our order has shaped many powerful organizations."
 
 LaShawn said, "H*ck."
@@ -133,4 +133,3 @@ Kommand responded, "What?"
 "The opposite."
 
 A moment later, they were in another line of work.
-
