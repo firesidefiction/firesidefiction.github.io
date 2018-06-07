@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article>
+
+  <header class="post-header">
+    <p class="category">{{ page.date | date: "%b %-d, %Y" }} | {{ page.category }}</p>
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% if page.author %}<h2>By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
+    <p>{% if page.editor %}Edited by {{ page.editor }}</p>{% endif %}
+  </header>
+  <div class="index-callout">
+    <p>This essay is part of a larger conversation about harassment. We’ve invited different voices to join this and work towards unpacking the problem and finding solutions. You can find the rest of the essays on <a href="/harassment">this index page</a>).</p>
+  </div>
+
+  <div>
+    {{ content }}
+    {% include bios.html %}
+  </div>
+</article>

@@ -14,7 +14,7 @@ article {
 	}
 }
 
-.contentnote {
+.contentnote, .index-callout {
 	margin: 2em 0;
 	h4 {
 		margin-top: 0;
@@ -23,6 +23,10 @@ article {
 		color: $gray-dark-2;
 		font-family: $font-secondary;
 		font-style: italic;
+		text-indent: 0;
+		&:first-of-type {
+			text-indent: 0;
+		}
 	}
 }
 

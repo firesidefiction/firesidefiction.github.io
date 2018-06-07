@@ -13,3 +13,6 @@ April 19, 2018
 
 ### [Redefining Scripts for Better Masculinity, by Pablo Defendini](/redefining-scripts-for-better-masculinity)
 May 24, 2018
+
+### [A Twitter thread about writing my essay, by Pablo Defendini](https://twitter.com/pablod/status/1000050019377057792)
+May 25, 2018

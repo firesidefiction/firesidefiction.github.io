@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: conversation-harassment
 title: Redefining Scripts for Better Masculinity
 author: Pablo Defendini
 editor: Julia Rios
