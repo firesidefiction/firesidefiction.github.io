@@ -7,7 +7,11 @@ date: 2018-06-12 01:00:01 -0500
 category: flash fiction
 permalink: beast-of-breath
 published: true
+<<<<<<< HEAD
 teaser: ““I think you're being asked a question, my love. They have a right to an answer, even if it's one they may not like.””
+=======
+teaser: “I think you're being asked a question, my love. They have a right to an answer, even if it's one they may not like.”
+>>>>>>> 7194217ecd58b2d0ba3fda952391bfa997c0a9f5
 author-bio: |
   [Gillian Daniels](http://eatyourbooks.blogspot.com) writes, works, and haunts the streets of Boston. After attending the 2011 Clarion Science Fiction and Fantasy Workshop, her poetry and short fiction have appeared in _Strange Horizons_, _Apex Magazine_, and _Lady Churchill's Rosebud Wristlet_, among many others. She currently reviews for _The New England Theatre Geek_. She can be found at your house party, petting your cat.
 author-img: gillian-daniels.jpg
