@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-06-19 01:00:01 -0500
 category: short story
 permalink: cast-off-tight
-published: false
+published: true
 teaser: "He is falling again, drifting down an infinite spiral, the simultaneously squeezed and stretched feeling whenever he thinks too much about death."
 author-img: hal-y-zhang.jpg
 author-bio: |
