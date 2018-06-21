@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: conversation-harassment
 title: Getting Men Off Ledges
 author: Brandon O’Brien
 editor: Julia Rios
