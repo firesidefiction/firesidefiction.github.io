@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-06-26 01:00:01 -0500
 category: short story
 permalink: fascism-and-facsimiles
-published: false
+published: true
 teaser: "Yeah, but we’re not Nazis, right?"
 author-img: john-wiswell-parrot.jpg
 author-bio: |
