@@ -57,6 +57,9 @@ permalink: /authors
 ### M. Bennardo
 — [_Sun Tea_](/issue15/chapter/sun-tea/)
 
+### Susan Jane Bigelow
+— [_The Day After the Red Warlock of Skull Top Mountain Turned Everyone in Beane County into Pigs_](/the-day-after-the-red-warlock-of-skull-top-mountain-turned-everyone-in-beane-county-into-pigs)
+
 ### Rebecca Birch
 — [_A Taste of Cinnamon_](/issue21/chapter/a-taste-of-cinnamon/)
 
@@ -137,6 +140,9 @@ permalink: /authors
 
 ### Karl Dandenell
 — [_We Who Stay Behind_](/we-who-stay-behind)
+
+### Gillian Daniels
+— [_Beast of Breath_](/beast-of-breath)
 
 ### James Darrow
 — [_Reversal_](/issue15/chapter/reversal/)
@@ -426,6 +432,9 @@ permalink: /authors
 
 ## O
 
+### Brandon O’Brien
+— [_Getting Men Off Ledges_](/getting-men-off-ledges)
+
 ### Sandra M. Odell
 — [_Listening to it Rain_](/issue5/chapter/listening-to-it-rain/)
 
@@ -638,6 +647,8 @@ permalink: /authors
 
 — [_A Silhouette Against Armageddon_](/a-silhouette-against-armageddon)
 
+— [_Fascism and Facsimiles_](/fascism-and-facsimiles)
+
 ### Alyssa Wong
 — [_Rabbit Heart_](/issue37/chapter/rabbit-heart/)
 
@@ -679,6 +690,9 @@ permalink: /authors
 ----
 
 ## Z
+
+### Hal Y. Zhang
+— [_Cast Off Tight_](/cast-off-tight)
 
 ### Minerva Zimmerman
 — [_Take On Me_](/issue27/chapter/take-on-me-chapters-one-five/)
