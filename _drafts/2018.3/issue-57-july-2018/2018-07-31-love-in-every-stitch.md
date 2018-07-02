@@ -10,7 +10,7 @@ published: false
 teaser: "You'll want soft, but you don't always need soft, in your threads or in your heart."
 author-img: alexandra-rowland.jpg
 author-bio: |
-  [Alexandra Rowland](http://www.alexandrarowland.net) is a fantasy author, game monitor at an escape room company, and occasional bespoke seamstress under the stern supervision of her feline quality control manager. She can be found on Twitter as [@_alexrowland](https.www.twitter.com/@_alexrow). Look for her debut novel, _A Conspiracy of Truths_, from Saga Press in Fall 2018.
+  [Alexandra Rowland](http://www.alexandrarowland.net) is a fantasy author, game monitor at an escape room company, and occasional bespoke seamstress under the stern supervision of her feline quality control manager. She can be found on Twitter as [@_alexrowland](https://www.twitter.com/@_alexrowland). Look for her debut novel, _A Conspiracy of Truths_, from Saga Press in Fall 2018.
 proofread: true
 ---
 
