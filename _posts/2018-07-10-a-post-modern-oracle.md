@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-07-10 01:00:01 -0500
 category: flash fiction
 permalink: a-post-modern-oracle
-published: false
+published: true
 teaser: "Offer her worthy espresso, and she’ll read your future in the post-it notes scattered around her office like fallen leaves."
 author-img: courtney-floyd.jpg
 author-bio: |
@@ -58,4 +58,4 @@ Only later will you look and see.
 
 The sticky notes are empty.
 
-And when you do, the Sybil will be there to hand you a pen.	
+And when you do, the Sybil will be there to hand you a pen.
