@@ -50,7 +50,8 @@ _The heart feels cold and heavy in her palms. She polishes the surface of the st
 
 ----
 
-She didn't answer right away, so I motioned towards the various selections on the shelves, the chrome hearts, the glass hearts, the hearts made of hundreds of tiny blades. She studied the little tags attached to them. Hearts need labels, of course. Otherwise, it would be very hard to know what they do. Only fools presume to know a person's heart by their actions or their words."Interesting handwriting," she said, and I blushed.
+She didn't answer right away, so I motioned towards the various selections on the shelves, the chrome hearts, the glass hearts, the hearts made of hundreds of tiny blades. She studied the little tags attached to them. Hearts need labels, of course. Otherwise, it would be very hard to know what they do. Only fools presume to know a person's heart by their actions or their words.
+"Interesting handwriting," she said, and I blushed.
  "We carry almost every model imaginable," I said, trying to mould my voice as smooth as the surface of handcrafted stone. "Hearts that will beat forever—this is our best seller—hearts that resist stress, hearts that never falter, that detect lies, even ones that can be deactivated at the push of a button." I raised my hand to a shelf of hearts encased in soundproof Plexiglas. "And these over there—hearts that speak, hearts that sing." I turned and looked her straight in the eyes. "Anything you want."
  She tilted back her head and rubbed her throat. "I want a heart that doesn't love the man I love anymore," she said. Her face hardened, something dark passing over her.
  _Sereena, Sereena_, I wanted to say, _what bruised your heart?_ And, _Won't you let me make it all better?_ "Would you like it to love someone else?" I asked instead, foolishly, because I knew that's not how it works. You cannot tell a heart whom to love. It either does, or it doesn't.

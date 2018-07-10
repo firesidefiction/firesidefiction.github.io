@@ -44,13 +44,21 @@ It all depends on point of view. For instance, when I watch body horror, or its 
 Witness with me one of these scenes taking place in a great-grandparent of body horror - Franz Kafka’s **The Metamorphosis**.
 
 >“At first he wanted to get of the bed with the lower part of his body, but this lower part … proved itself too difficult to move. The attempt went so slowly. When, having become almost frantic, he finally hurled himself forward with all his force and without thinking, he chose his direction incorrectly, and he hit the lower bedpost hard.
-... as he finally raised his head outside the bed in the open air, he became anxious about moving forward any further in this manner, for if he allowed himself eventually to fall by this process, it would take a miracle to prevent his head from getting injured. And at all costs he must not lose consciousness right now. He preferred to remain in bed.”
+
+>... as he finally raised his head outside the bed in the open air, he became anxious about moving forward any further in this manner, for if he allowed himself eventually to fall by this process, it would take a miracle to prevent his head from getting injured. And at all costs he must not lose consciousness right now. He preferred to remain in bed.”
+
 Already, by this moment, Kafka’s main character Victor Samsa knows from waking in the first paragraph that he’s been changed into a bug. The *audience* knows that he’s a bug. What’s left is to watch him flail around and logic himself into this somehow being a new normal.
+
 And yet, for many outside of the book, this method of getting out of bed (or not) is normal, not new, not an entertainment. It is a daily event, seen from the inside, out.
-Similarly, visible illness and deformity (whether you wake up as a bug or not) focus of  many of  the intense feelings found in body horror -- from the distortions of Stephen King’s Captain Tripps in The Stand and “Night Surf,” -- both mental and physical -- to David Cronenberg’s The Fly, during Seth Brundle’s cellular transformation:
-“My teeth have begun to fall out. The medicine cabinet is now the Brundle Museum of Natural History. You wanna see what else is in it?” ~ The Fly
+
+Similarly, visible illness and deformity (whether you wake up as a bug or not) focus of many of the intense feelings found in body horror -- from the distortions of Stephen King’s Captain Tripps in The Stand and “Night Surf,” -- both mental and physical -- to David Cronenberg’s The Fly, during Seth Brundle’s cellular transformation:
+
+>“My teeth have begun to fall out. The medicine cabinet is now the Brundle Museum of Natural History. You wanna see what else is in it?” ~ The Fly
+
 In scenes from The Fly, The Stand, and elsewhere, family members watch in horror as those they love are transformed.
+
 Meantime, David Lynch uses body horror to inject a high level of weird (and bonus social commentary on how ‘normal’ is an inadequate term) into his characters -  looking at his work as a whole reveals an abled director using highly visible disabilities (missing arms, eyes, legs, blindness, and Proteus Syndrome (The Elephant Man). Lynch has been alternately praised and criticized for the ways he depicts disability in order to change perspectives -- in The Spectacle of Deformity: Freak Shows and Modern British Culture, it is called “mawkish and moralising” -- the work of a freak show display, rather than a production that might allow the disabled to speak for themselves. Other media go the opposite way, deploying horror-level depictions of deformity as indications of evil character in non-horror stories and movies, including Dune (Baron Harkonnen) and Wonder Woman (Doctor Poison).
+
 In all of these scenes, whether for purposes of gaining understanding or exploitation, the horror each deals with is that of losing senses, autonomy, agency, form, and recognizable attributes in all the “right” proportions.
 
 Disability used in these ways is among my least favorite metaphors for fear.
@@ -61,19 +69,19 @@ Despite this, I still watch and read horror, though it’s not admittedly my fav
 
 Disability, when deployed in body horror media, is an experience different from the every day. Often, it is presented as a transformation or a trap, one that may end with birth or death. The horror is the moment or moments where the character first wakes up, or slowly changes into a different form while others watch -- the horror is then doubled… from most of an audience’s perspective, part of the horror is the physical squick, but another part is also the witnessing and silent pulling back of friends and relatives -- the reaction. Being transformed (and deformed) is painted on the screen again and again as something that generates fear and, occasionally, disgust.
 
-And when it comes to being seen -- the transformation witnessed -- that’s a more layered effect -- because the audience is watching these characters being seen. In this layer, there’s a difference between body horror as discussed above, body humor, as found in a movies like Say Anything (Joan Cusak wearing an extensive Milwaukee back brace and trying to drink from a water fountain) and body sensationalization/revelation (as in David Lynch… almost always the externalist view: seeing -- yes -- disabled bodies, but seeing them from the exterior perspective, sometimes almost as objects, often as a means to help the viewer grow in their own understanding, rather than getting to know the person in that body) Body humor sees disability  as punchline, “serious movies” see disability  as inspiration porn, while body horror sees disability  as transformation to be feared.
+And when it comes to being seen -- the transformation witnessed -- that’s a more layered effect -- because the audience is watching these characters being seen. In this layer, there’s a difference between body horror as discussed above, body humor, as found in a movies like Say Anything (Joan Cusak wearing an extensive Milwaukee back brace and trying to drink from a water fountain) and body sensationalization/revelation (as in David Lynch… almost always the externalist view: seeing -- yes -- disabled bodies, but seeing them from the exterior perspective, sometimes almost as objects, often as a means to help the viewer grow in their own understanding, rather than getting to know the person in that body) Body humor sees disability as punchline, “serious movies” see disability  as inspiration porn, while body horror sees disability as transformation to be feared.
 
 In the safety of the theater, or the reading alcove, we love to play this game of watching, witnessing horror.: How much does it take before you are inspired? How much can you watch before turn away? What do you laugh at, in private?
 
 We play with what scares us most: loss of control, of ability. We laugh at it, sometimes. We pay for it to become an entertainment. And sometimes, watching beside you, is someone who lives with that feeling of waking up to pincer hands, or not being able to speak or scream, or unable to reach the water fountain -- who lives with being looked at and turned away from or pitied --as a daily thing. They might laugh when you laugh. (That’s their choice.)
 
-But  why are you laughing? And why do we watch? Because we know there’s an end. If not to the character’s suffering, to the movie or book. We can get up and walk out of the theater, shake loose all those emotions, and feel freed from the experience.
+But why are you laughing? And why do we watch? Because we know there’s an end. If not to the character’s suffering, to the movie or book. We can get up and walk out of the theater, shake loose all those emotions, and feel freed from the experience.
 
 Humor, pathos, recognition, and fear -- body horror plays on all of these emotions to create that experience. And when it plays with disability, it does so to both capture our attention, to shock us, and to raise the stakes.
 
 Sometimes witnessing a body transformation isn’t funny or inspiring to anyone. When Neo’s mouth disappears in The Matrix, for one, or when he wakes and pulls the cables from his head (oddly reminiscent of patients pulling IV’s out) for another. It’s terrifying. Adding in a bug crawling across (and into) his skin, while removing the ability to scream for help only heightens the horror. He hasn’t woken up like this. It’s something that’s visibly inflicted on him by outside forces. That’s a difference between The Matrix and The Metamorphosis. But the similarity is that the audience witnesses the transformation and the reaction.
 
-Disability has always been part of the horror toolkit. SIckness, deformation, death. All in one way or another casting a human being as “other” for being different, unattractive, without all five of the senses, or parts in the right order.  Horror needs an other. It needs something to feed its own survival. In one sense, horror entertainment is about luck -- of the “aren’t you lucky this isn’t you” variety.
+Disability has always been part of the horror toolkit. SIckness, deformation, death. All in one way or another casting a human being as “other” for being different, unattractive, without all five of the senses, or parts in the right order. Horror needs an other. It needs something to feed its own survival. In one sense, horror entertainment is about luck -- of the “aren’t you lucky this isn’t you” variety.
 
 In another, it’s about waking up to the possibility that we can all become changed over time.
 

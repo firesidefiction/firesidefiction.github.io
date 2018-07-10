@@ -44,7 +44,7 @@ I shouldn’t tell you this. But it has become a pattern, you know? The sprainin
 
 Julio is our backdrop. He is what makes us post-apocalyptic. But here:
 
-I was in his room. No light crashed through the window. Instead, it was a world framed by the TV flash.  And Julio’s back was an archipelago. The world being washed away, continents submerged, wet shoes filling in the dark.
+I was in his room. No light crashed through the window. Instead, it was a world framed by the TV flash. And Julio’s back was an archipelago. The world being washed away, continents submerged, wet shoes filling in the dark.
 
 "Are you okay?"
 
@@ -70,7 +70,7 @@ Two weeks later, I changed my mind.
 
 A lake needs criteria to make the small of your back a home.
 
-Julio said there were three things on my third visit to his lake. And three is ritual, una brujeria; three is the number that brings us to the most local legend, the sentimental ending.
+Julio said there were three things on my third visit to his lake. And three is ritual, una brujería; three is the number that brings us to the most local legend, the sentimental ending.
 
 Naked with his hands quaking, wet spine to my face, Julio named a trinity:
 
@@ -93,7 +93,6 @@ But I didn’t. Instead, I said, "I would still like to be friends."
 "To see what you can pull out."
 
 The floor was wet. The walls were crying. Julio turned his face to me, brown eyes drier than my throat.
-
 
 "I’m sorry," I said.
 
