@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-07-17 01:00:01 -0500
 category: flash fiction
 permalink: to-this-you-cling-with-jagged-fingernails
-published: false
+published: true
 teaser: "You should have talked to her about magic before she died, but you haven't lived close to her in years."
 author-img: beth-cato.jpg
 author-bio: |
