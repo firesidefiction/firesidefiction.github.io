@@ -1,5 +1,5 @@
 ---
-layout: story 
+layout: story
 title: Rain and the Designs of Your Body
 author: J.M. Guzman
 editor: Julia Rios
@@ -39,7 +39,7 @@ I visited the lake four times.
 ----
 
 The second visit cradled me with a lie.
- 
+
 I shouldn’t tell you this. But it has become a pattern, you know? The spraining of my body, this afterimage of pain stretching between us.
 
 Julio is our backdrop. He is what makes us post-apocalyptic. But here:
@@ -53,19 +53,19 @@ Julio didn’t respond. He just smiled. It was the most obvious illusion I had e
 But that was the moment I learned how to pretend to be okay. And that pretending was a kind of love, a sort of sacrifice. A gesture for those who could not bear to see flesh opening to reveal black bones.
 
 I didn’t press him. But we knew, then. What distance tasted like.
- 
+
 ----
 
 We lost more words in every encounter. And in between each visit was something growing.
- 
+
 No, you won’t understand.
- 
+
 After I realized that his floor was dark, Julio asked me, "Are we okay?"
 
 There was a pause before my answer. "Yeah," I said.
 
 Two weeks later, I changed my mind.
- 
+
 ----
 
 A lake needs criteria to make the small of your back a home.
@@ -105,7 +105,7 @@ And Julio walked to the television. Its face was cracked. "You are part of the r
 "I’m not responsible for how you feel."
 
 My clothes were tangled together on the floor.
- 
+
 "Or for how your body reacts," I continued.
 
 And he started crying. But he smiled, too. "Yeah."
@@ -142,7 +142,7 @@ Julio didn’t say it in quite these words, but I knew he was thinking of jumpin
 
 "I hope you’ll be okay."
 
-"I’m sure," he finished. 
+"I’m sure," he finished.
 
 ----
 
@@ -151,7 +151,7 @@ _I don’t believe you_, he said, in a world where we were transparent.
 _I don't know what else to say_, I said, in a space where I caught the right words.
 
 Instead?
- 
+
 The void spills into my hand. And for a second, I steady myself, but it doesn’t take long for me to recoil. I told you, darling.
 
 I don’t know what to do when it rains.

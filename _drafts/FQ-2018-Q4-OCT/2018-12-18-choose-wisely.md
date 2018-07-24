@@ -14,6 +14,7 @@ author-bio: |
 proofread: false
 ---
 
+
 You sip your coffee down to the dregs, then cast the spell for another, noting you have some time before work this morning. No doctors’ waiting rooms today. No prescription pickups. And the child is already at school, and didn’t forget her wand this time, so this is the perfect moment for dealing with the paperwork that sometimes comes with your latest medical adventure—let’s just call that one "No, it wasn’t anxiety after all."
 
 The kitchen is quiet, only the rustle of semi-sentient unopened bills and the sharp cry of your mother—the Oracle’s—seagull-borne message about whether you want to try yoga (you don’t), distracts you from your task. You ignore the noise and focus on getting the paperwork together for your disabled wizard’s placard.
