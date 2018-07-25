@@ -61,7 +61,7 @@ Starting in 2019, Fireside will publish one poem per month! Our first open submi
 - Poems that are currently being considered elsewhere (no simultaneous submissions).
 
 ### What to expect from us:
-- Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication. Please see our Poetry Contract Boilerplate for the full text of our contract.
+- Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication. 
 - Responses within 30 days of the end of our submissions period.
 - Payment of $100 per poem.
 
