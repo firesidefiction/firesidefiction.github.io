@@ -61,7 +61,7 @@ Starting in 2019, Fireside will publish one poem per month! Our first open submi
 - Poems that are currently being considered elsewhere (no simultaneous submissions).
 
 ### What to expect from us:
-- Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication. 
+- Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication.
 - Responses within 30 days of the end of our submissions period.
 - Payment of $100 per poem.
 
@@ -95,7 +95,7 @@ Fireside Press publishes novels and novellas and will have our first open submis
 ----
 
 ## Artwork
-Fireside commissions original artwork for specific stories. If you send us a link to your portfolio using [this form](https://airtable.com/shrDve4OIlTFCbFmQ), we will be happy to add it to our roster, and if a story comes up for which we think you’d be a good fit, we’ll be in touch.
+Fireside commissions original artwork for specific stories. If you send us a link to your portfolio using [this form](https://airtable.com/shrHIocwQiPakQgkT), we will be happy to add it to our roster, and if a story comes up for which we think you’d be a good fit, we’ll be in touch.
 
 ### What to expect from us:
 - Fireside acquires worldwide rights in print and digital formats, and ownership of all original art remains with the Artist. Please see our [Illustration Contract Boilerplate](https://firesidefiction.com/legal/illustration-contract-boilerplate) for the full text of our contract.
