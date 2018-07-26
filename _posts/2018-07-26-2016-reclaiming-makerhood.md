@@ -3,7 +3,7 @@ layout: post
 title: Reclaiming Makerhood
 author: Jessica S. Cauttero
 editor: Elsa Sjunneson-Henry
-date: 2018-07-26 01:00:01 -0500
+date: 2018-07-26 00:00:01 -0500
 category: essay
 permalink: reclaiming-makerhood
 published: true
