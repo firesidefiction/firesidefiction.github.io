@@ -6,7 +6,7 @@ editor: Elsa Sjunneson-Henry
 date: 2018-07-26 01:00:01 -0500
 category: essay
 permalink: reclaiming-makerhood
-published: false
+published: true
 teaser: “Like a single strand of yarn, looped over and through, knitting connects people with each other."
 author-img: jessica-cauttero.png
 author-bio: |
