@@ -7,7 +7,7 @@ date: 2018-07-26 00:00:01 -0500
 category: essay
 permalink: reclaiming-makerhood
 published: true
-teaser: “Like a single strand of yarn, looped over and through, knitting connects people with each other.“
+teaser: Like a single strand of yarn, looped over and through, knitting connects people with each other.
 author-img: jessica-cauttero.png
 author-bio: |
  Jessica has been making art—be it word, performance, or fiber—on and off since adolescence. She has been working in or around theatermaking for over ten years and her favorite offstage job was probably making puppets. When not writing, reading, sewing, or knitting, she is either performing under an assumed name wearing a lot of glitter, marathoning television series, or cuddling one of her critters (husband included).
