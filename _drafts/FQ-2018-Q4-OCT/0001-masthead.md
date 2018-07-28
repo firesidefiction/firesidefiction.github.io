@@ -16,7 +16,7 @@ Writer. Disabled, queer. Fancy Cyclops.
 
 Copyeditor
 Chelle Parker
-Educator, editor, uppity poor person, fat feminist, queer, blunt, disabled.
+Disabled educator & editor, giant nerd, queer enby.
 
 Social Media Manager
 Meg Frank
