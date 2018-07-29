@@ -3,7 +3,7 @@ layout: frontmatter
 title: Masthead
 author: Pablo Defendini
 published: false    
-proofread: false
+proofread: true
 ---
 
 Fiction Editor
