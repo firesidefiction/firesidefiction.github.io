@@ -3,10 +3,10 @@ layout: frontmatter
 title: Table of Contents
 author: Pablo Defendini
 published: false    
-proofread: false
+proofread: true
 ---
 
-XX — Gather Round the Fireside
+XX — Gather 'Round the Fireside
 editorial by Julia Rios
 
 XX — Odontogenesis
