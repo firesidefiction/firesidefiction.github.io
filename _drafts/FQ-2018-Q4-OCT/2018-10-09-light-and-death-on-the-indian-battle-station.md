@@ -7,18 +7,18 @@ date: 2018–10-09 01:00:01 -0500
 category: short story
 permalink: light-and-death-on-the-indian-battle-station
 published: false
-teaser:"Mom’s turquoise-blue saree morphed into her silver Battle Station uniform. … She’d be needed in the Situation Room with all the other Telepaths."
+teaser: "Mom’s turquoise-blue saree morphed into her silver Battle Station uniform. … She’d be needed in the Situation Room with all the other Telepaths."
 author-img: keyan-bowes.jpg
 author-bio: |
-  Keyan Bowes is a peripatetic writer of science fiction and fantasy based in San Francisco. She's lived in nine cities in seven countries, and visited many more (and still hopes to add even more to the list). These places sometimes form the settings for her stories. Her work can be found online in various webzines (including a Polish one), a podcast, and an award-winning short film; and on paper in a dozen print anthologies. She’s a graduate of the 2007 Clarion Workshop for science fiction and fantasy writers. Keyan’s website is at www.keyanbowes.org
-proofread: false
+  Keyan Bowes is a peripatetic writer of science fiction and fantasy based in San Francisco. She's lived in nine cities in seven countries, and visited many more (and still hopes to add even more to the list). These places sometimes form the settings for her stories. Her work can be found online in various webzines (including a Polish one), a podcast, and an award-winning short film; and on paper in a dozen print anthologies. She’s a graduate of the 2007 Clarion Workshop for science fiction and fantasy writers. Keyan’s website is at www.keyanbowes.org.
+proofread: true
 ---
 
 Diwali, the Festival of Lights is a magical time of the year, even on the Indian Battle Station. A hundred tiny oil-lamps decorated our apartment, glimmering along window ledges, glowing at the corners of the rangoli floor pattern, shining in the little niche with the image of Lakshmi, goddess of prosperity.
 
 "Savitri!" My sister Ritika called me, a glittering sparkler illuminating her excited face as she held out the firework. "Here! Light yours for the spinners!"
 
-My sparkler spluttered into flowers of light as I touched it to hers. Mom and Ritika quickly moved out of the way and I ignited three ground spinners. The gunpowder-scented coils flung a scarf of fiery sparks across the balcony.We were the lucky ones. I breathed in the scents of Diwali, smoke from the fireworks, incense from the Lakshmi niche, the warm coconut smell of Diwali sweets sitting on an ornate silver tray. Our cousins down in Delhi celebrated with strings of LED lights and chocolate and factory-made fireworks from China. It wasn't the same.
+My sparkler spluttered into flowers of light as I touched it to hers. Mom and Ritika quickly moved out of the way and I ignited three ground spinners. The gunpowder-scented coils flung a scarf of fiery sparks across the balcony. We were the lucky ones. I breathed in the scents of Diwali, smoke from the fireworks, incense from the Lakshmi niche, the warm coconut smell of Diwali sweets sitting on an ornate silver tray. Our cousins down in Delhi celebrated with strings of LED lights and chocolate and factory-made fireworks from China. It wasn't the same.
 
 We were lucky because Mom vividly remembered her childhood Diwalis, and because she had the Strength to make it real. That Strength was also why we were far from Earth on the Indian Battle Station, currently at war with the JAYAZ Network.
 
@@ -36,7 +36,7 @@ My sparkler spluttered into flowers of light as I touched it to hers. Mom and Ri
 
 The door opened. Instead of the radiant Goddess and her owl, there was a fierce blue-faced God with flaming hair. Two four-eyed dogs followed him. We dropped to the floor in obeisance. It’s never a good idea to disrespect Yama, Lord Death.
 
-Mom recovered first. He was her illusion, after all—or was he? Following her cue, we got to our feet looking carefully deferential.
+Mom recovered first. He was her illusion, after all—or was he? Following her cue, we got to our feet, looking carefully deferential.
 
 "Honored Lord Yama," she said.  "You have come on Sri Lakshmi’s day."
 
@@ -48,7 +48,7 @@ My sparkler spluttered into flowers of light as I touched it to hers. Mom and Ri
 
 All the little lights in our apartment flickered, as though a strong wind was blowing through. The room’s broad window-ledges disappeared along with the oil-lamps and fireworks and rangoli—and Lord Yama.
 
-"Damn," said Mom. "I’d hoped they’d hold off until tomorrow. I’m so sorry kids. Tonight’s battle could be crucial. The War is at a turning point right now."
+"Damn," said Mom. "I’d hoped they’d hold off until tomorrow. I’m so sorry, kids. Tonight’s battle could be crucial. The War is at a turning point right now."
 
 Mom’s turquoise-blue saree morphed into her silver Battle Station uniform. She pulled us in for a long hug before rushing out the door. She’d be needed in the Situation Room with all the other Telepaths.
 
@@ -66,7 +66,7 @@ My sparkler spluttered into flowers of light as I touched it to hers. Mom and Ri
 
 Now, instead of jealousy, it was fear. Fear for Ritika.
 
-When I turned eighteen six months ago, Mom took me to the observation deck to see the Situation Room. Since she was off-duty, she  couldn't have known it would suddenly become one of the worst skirmishes of the war. In minutes after we got there, four Telepaths fell. By the time Mom hustled me away, a fifth went down. Uncle Joshi from down the hall. He was the one who didn’t recover. His family left the station, including my best friend Meera.
+When I turned eighteen six months ago, Mom took me to the observation deck to see the Situation Room. Since she was off-duty, she couldn't have known it would suddenly become one of the worst skirmishes of the war. In minutes after we got there, four Telepaths fell. By the time Mom hustled me away, a fifth went down. Uncle Joshi from down the hall. He was the one who didn’t recover. His family left the station, including my best friend Meera.
 
 After that day I’d understood. After that day, I’d waited up whenever Mom got called to the Situation Room.
 
@@ -80,11 +80,11 @@ My sparkler spluttered into flowers of light as I touched it to hers. Mom and Ri
 
 "I want to see Mom at work," Ritika said.
 
-"You have to be eighteen,” I said.  "Anyway, there’s nothing to see. The Telepaths sit around a table and throw mind-blasts at the enemy. It’s like a conference where you can’t hear anyone talk."
+"You have to be eighteen,” I said. "Anyway, there’s nothing to see. The Telepaths sit around a table and throw mind-blasts at the enemy. It’s like a conference where you can’t hear anyone talk."
 
 I didn’t tell her that suddenly there’d be a scream, and a Telepath would fall unconscious across the table. Assistants would remove them on gurneys to the Recovery Room. Sometimes, the Telepaths recovered and went back into battle. Sometimes, they were left as a shell or a corpse. Like Uncle Joshi.
 
-The image of Lord Yama drifted into my mind but I willed it away. Mom was experienced. She’d come back.  Exhausted as always after a battle, but exhilarated.
+The image of Lord Yama drifted into my mind but I willed it away. Mom was experienced. She’d come back. Exhausted as always after a battle, but exhilarated.
 
 ----
 
@@ -120,7 +120,7 @@ I dashed out of the Obs Deck and headed straight for the Recovery Room. They wou
 
 The air shimmered, and the dark forest pathway opened up.
 
-"Mom!" I said, "What are you doing?"
+"Mom!" I said. "What are you doing?"
 
 I heard the divine footsteps approach.
 
@@ -134,7 +134,7 @@ I dashed out of the Obs Deck and headed straight for the Recovery Room. They wou
 
 "Ritika!" I called urgently, but of course she just lay there, still and silent. "Ritika! No!"
 
-Lord Yama was vanishing down a disappearing path. Without Ritika’s Strength, everything was reverting to normal. Normal, but for my little sister being gone.
+Lord Yama was vanishing down a disappearing path. Without Ritika’s Strength, everything was reverting to normal. Normal but for my little sister being gone.
 
 "No!" I said again, my mind a whirl of thoughts and denial.
 
@@ -150,7 +150,7 @@ I dashed out of the Obs Deck and headed straight for the Recovery Room. They wou
 
 Mom looked puzzled. "After my great-aunt. She was a wonderful person."
 
-"What about the legend of Savitri?"  Mom shook her head. Honestly, wasn't it mothers who were supposed to pass on the stories? In my house, I had to read it for myself. At least she’d got us all the mythology comics online.
+"What about the legend of Savitri?" Mom shook her head. Honestly, wasn't it mothers who were supposed to pass on the stories? In my house, I had to read it for myself. At least she’d got us all the mythology comics online.
 
 "The Princess Savitri followed Lord Yama and got her husband’s soul back. If she could do it for him, I can do it for my little sister."
 
@@ -210,7 +210,7 @@ Lord Yama was handsome in a ferociously scary way. I gulped.
 
 "Does it matter so much if you take her now, or seven decades from now?" I took a deep breath, held it while I counted seventy seconds. Then I said, "Lord Yama, I ask seventy decades for my sister."
 
-As soon as I said it, I thought, _Ooops_. I’d meant seventy years, of course, not decades. But what was said was said. I couldn’t change that, it would break the rules. I held my breath.
+As soon as I said it, I thought, _Oops_. I’d meant seventy years, of course, not decades. But what was said was said. I couldn’t change that, it would break the rules. I held my breath.
 
 Lord Yama laughed. "For someone who claims no philosophy, you do well," he said with amusement. "Do you seek seventy decades for your mother, too?"
 
