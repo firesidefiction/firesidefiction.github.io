@@ -42,7 +42,7 @@ My sparkler spluttered into flowers of light as I touched it to hers. Mom and Ri
 
 "Lord Yama takes no holidays," he replied, an inward look in his fiery red eyes. "I’m always visiting. Most times, you cannot see me."
 
-"How is that we do now?" I asked, a little surprised at my own boldness. At least I managed not to ask, _and who have you come for?_
+"How is it that we do now?" I asked, a little surprised at my own boldness. At least I managed not to ask, _and who have you come for?_
 
 He nodded toward Mom. "Your mother has the Strength," he said. "She holds the world open." Behind him, instead of the Battle Station’s bland corridor, a path disappeared into a woodland barely illuminated by stars. No moonlight, of course. Diwali is celebrated at the dark of the moon.
 
