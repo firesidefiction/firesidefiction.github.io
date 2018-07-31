@@ -16,7 +16,7 @@ proofread: true
 
 "Did you hear that?" Abby asked her neighbor, Vivienne. The two of them had been chatting over the fence that separated their front yards. Vivienne had cornered her to talk about school fundraising while Abby uprooted the dandelions that had appeared in the green expanse of her lawn. Abby, anxious for a distraction, had seized on the noise.
 
-"Hear what?" Vivienne asked. She ran her tongue over the porcelain crowns where her incisors had once been—a nervous habit she’d picked up ever since the dentist had planted them in her gums. They didn’t seem to sit quite right in her mouth.
+"Hear what?" Vivienne asked. She ran her tongue over the porcelain crowns where her incisors had once been — a nervous habit she’d picked up ever since the dentist had planted them in her gums. They didn’t seem to sit quite right in her mouth.
 
 "The kids," Abby said. She set aside the long, tapered root that she’d yanked out of the grass and stood. "I thought I heard them fighting."
 
@@ -46,7 +46,7 @@ Abby returned the gesture. "And he told them…?"
 
 "Something about a fairy queen finding animal teeth in a forest and carrying them to mommies and daddies, who grow them in a garden into babies." She gagged theatrically. "I think Brian might be more into this fairy and princess crap than they are. And of course they’ve probably gone and blabbed it to Nicky—"
 
-"Oh, I’ve already had the talk with him," Abby said, and she couldn’t quite curtail her proud tone. Nick was young—and he looked even younger than his seven years—but so precocious. "I figured if he was old enough to ask, he was old enough to know."
+"Oh, I’ve already had the talk with him," Abby said, and she couldn’t quite curtail her proud tone. Nick was young — and he looked even younger than his seven years — but so precocious. "I figured if he was old enough to ask, he was old enough to know."
 
 "I wish Brian had thought of that," Vivienne grumbled.
 
