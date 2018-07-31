@@ -10,10 +10,7 @@ published: false
 teaser: "Mr. Bhansal had often remarked hat it was a strange and very annoying quirk of magic that a circle of protection had to be smooth and unbroken, but the summoning pentagram could be scrappy and unconnected."
 author-img: brian-m-milton.jpg
 author-bio: |
-  Brian is a short, tweedy Glaswegian who splits his time between work, writing and flapping at wildlife. He'd like to do less of two of these.
-  Brian lives with his wife, a cat and thousands of bees. The cat rarely talks to him.
-  He has been published in anthologies such as _Caledonia Dreamin_ and _Thirty Years of Rain_ and in magazines such as _KZine_ and this here wonderful _Fireside_.
-  He can be found shouting on the twitters [@munchkinstein](https://www.twitter.com/muchkinstein)
+  Brian Milton is a short, tweedy Glaswegian who splits his time between work, writing, and flapping at wildlife. He'd like to do less of two of these. Brian lives with his wife, a cat, and thousands of bees. The cat rarely talks to him. He has been published in anthologies such as _Caledonia Dreamin'_ and _Thirty Years of Rain_, and in magazines such as _KZine_ and this here wonderful _Fireside Magazine_. He can be found shouting on the twitters at [@munchkinstein](https://www.twitter.com/muchkinstein).
 proofread: false
 ---
 

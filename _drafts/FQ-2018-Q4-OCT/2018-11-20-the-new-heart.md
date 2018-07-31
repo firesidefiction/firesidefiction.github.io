@@ -10,17 +10,17 @@ published: false
 teaser: "She makes sure to hold the chisel at a 45-degree angle; otherwise, the stone will bruise—and who wants a bruised heart?"
 author-img: natalia-theodoridou.jpg
 author-bio: |
-  Natalia Theodoridou is a media & cultural studies scholar, the dramaturge of Adrift Performance Makers [(@adriftPM)](https://www.twitter.com/adriftPM), and a writer of strange stories. Her work has appeared in _Clarkesworld_, _Beneath Ceaseless Skies_, _Strange Horizons_, and elsewhere. Originally from Greece, she lives in Devon, UK, until she's asked to leave. Occasionally, she tweets as [@natalia_theodor](https://www.twitter.com/natalia_theodor).
+  Natalia Theodoridou is a media and cultural studies scholar, the dramaturge of Adrift Performance Makers ([@adriftPM](https://www.twitter.com/adriftPM)), and a writer of strange stories. Her work has appeared in _Clarkesworld Magazine_, _Beneath Ceaseless Skies_, _Strange Horizons_, and elsewhere. Originally from Greece, she lives in Devon, UK, until she’s asked to leave. Occasionally, she tweets as [@natalia_theodor](https://www.twitter.com/natalia_theodor).
 proofread: false
 ---
 
-_The new heart has no frills. It needs none. It is made of limestone, hard and white. The heart maker allows herself just one decorative element, to remind herself of the sedimentary nature of love: a single skeletal fragment of a coral lodged in its middle._ 
+_The new heart has no frills. It needs none. It is made of limestone, hard and white. The heart maker allows herself just one decorative element, to remind herself of the sedimentary nature of love: a single skeletal fragment of a coral lodged in its middle._
 
 ----
 
 She walked into my shop with sure, defiant steps. Most people walk in with some hesitation, as if doing something frowned upon—although artificial hearts have been a mainstream choice for over a decade now.
 
- Not her. She knew what she wanted. She'd always known.
+Not her. She knew what she wanted. She'd always known.
 
 ----
 
@@ -70,7 +70,7 @@ She didn't answer right away, so I motioned towards the various selections on th
 
 _Sereena, Sereena_, I wanted to say, _what bruised your heart?_ And, _Won't you let me make it all better?_ "Would you like it to love someone else?" I asked instead, foolishly, because I knew that's not how it works. You cannot tell a heart whom to love. It either does, or it doesn't.
 
- "No," she said. She turned to face me, her eyes all red. "I never want to love again." ----
+"No," she said. She turned to face me, her eyes all red. "I never want to love again." ----
 
 _The new heart is nearly ready. Just one thing left to do._
 

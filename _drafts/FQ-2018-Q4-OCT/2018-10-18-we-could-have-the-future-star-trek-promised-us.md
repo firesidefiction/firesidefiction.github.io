@@ -10,7 +10,7 @@ published: false
 teaser: "The implication is obvious. The aftershocks of trauma follow us relentlessly, constantly forcing us to be vigilant about ourselves and our space."
 author-img: danilo-campos.jpg
 author-bio: |
-  Danilo is a lifelong student of futurism who pays the bills by applying that knowledge as a software developer and technology educator. A descendent of colonized people, Danilo lives in tension: a critic of technology as an extraction vehicle, but also a champion of its power to amplify marginalized voices and the reach of the human mind. He was raised on a steady diet of speculative fiction, from Asimov to _Star Trek_ to _Snow Crash_, and still sees it as an ideal lens for imagining the futures we want—or must prevent.
+  Danilo is a lifelong student of futurism who pays the bills by applying that knowledge as a software developer and technology educator. A descendent of colonized people, Danilo lives in tension: a critic of technology as an extraction vehicle, but also a champion of its power to amplify marginalized voices and the reach of the human mind. He was raised on a steady diet of speculative fiction, from Asimov to _Star Trek_ to _Snow Crash_, and still sees it as an ideal lens for imagining the futures we want — or must prevent.
 proofread: true
 ---
 
