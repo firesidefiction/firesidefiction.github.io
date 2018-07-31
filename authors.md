@@ -635,7 +635,7 @@ permalink: /authors
 — [_The Scenarist_](/the-scenarist)
 
 ### Troy L. Wiggins
-— [_Black Like Them_](/issue38/chapter/25/)
+— [_Black Like Them_](/issue39/chapter/black-like-them/)
 
 ### Raq Winchester & Fran Wilde
 — [_Regarding Your Future With The Futures Planning Consortium_](/regarding-your-future-with-the-futures-planning-consortium)
