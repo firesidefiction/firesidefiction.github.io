@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-07-31 01:00:01 -0500
 category: flash fiction
 permalink: love-in-every-stitch
-published: false
+published: true
 teaser: "You'll want soft, but you don't always need soft, in your threads or in your heart."
 author-img: alexandra-rowland.jpg
 author-bio: |
