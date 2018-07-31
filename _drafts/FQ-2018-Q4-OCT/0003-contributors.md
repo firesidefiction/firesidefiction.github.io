@@ -20,11 +20,11 @@ Hugo and Campbell Award finalist **Sarah Gailey** lives and works in beautiful P
 
 **Sara Norja** dreams in two languages. Born in England and settled in Helsinki, Finland, her poetry and short fiction have appeared in a variety of venues including _Goblin Fruit_, _Strange Horizons_, _Flash Fiction Online_, and the anthologies _An Alphabet of Embers_ (ed. Rose Lemberg) and _Sunvault_ (ed. Phoebe Wagner and Brontë Christopher Wieland).
 
-**Renee Christopher** is an MFA candidate at Iowa State where she serves as poetry editor for _Flyway: Journal of Writing and Environment_. Her poetry can be found in _Noble Gas Quarterly_, _Crab Fat Magazine_, and _Alyss Lit Magazine_’s 2017 Inauguration Edition. Find her on Twitter at @reneesunok.
+**Renee Christopher** is an MFA candidate at Iowa State where she serves as poetry editor for _Flyway: Journal of Writing and Environment_. Her poetry can be found in _Noble Gas Quarterly_, _Crab Fat Magazine_, and _Alyss_’s 2017 Inauguration Edition. Find her on Twitter at @reneesunok.
 
 **Tariro Ndoro** is an avid reader. She writes poems and short stories that explore dysfunction. Tariro’s publication credits include _AFREADA_, _La Shamba_, _Omenana_, and _Puerto del Sol_. You can follow Tariro on Twitter at @MissTariN or find links to her other works at tarirondoro.wordpress.com.
 
-**Natalia Theodoridou** is a media & cultural studies scholar, the dramaturge of Adrift Performance Makers (@adriftPM), and a writer of strange stories. Her work has appeared in _Clarkesworld Magazine_, _Beneath Ceaseless Skies_, _Strange Horizons_, and elsewhere. Originally from Greece, she lives in Devon, UK, until she’s asked to leave. Occasionally, she tweets as @natalia_theodor.
+**Natalia Theodoridou** is a media and cultural studies scholar, the dramaturge of Adrift Performance Makers (@adriftPM), and a writer of strange stories. Her work has appeared in _Clarkesworld Magazine_, _Beneath Ceaseless Skies_, _Strange Horizons_, and elsewhere. Originally from Greece, she lives in Devon, UK, until she’s asked to leave. Occasionally, she tweets as @natalia_theodor.
 
 **J.M. Guzman** is a Dominican-American that writes about ghosts, coffins, and all the things in the dark. He has forthcoming fiction in _Liminal Stories_ with work currently in _Daily Science Fiction_ and _Lackington's Magazine_. You can find him on twitter at @jmguzman_.
 
