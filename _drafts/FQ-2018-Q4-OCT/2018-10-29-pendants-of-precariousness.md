@@ -10,8 +10,7 @@ published: false
 teaser: "I tell him that by courting danger I conquer danger. … I tell him that when the sharks come, they will see and they will be scared that I have their weapon."
 author-img: d-a-xiaolin-spires.jpg
 author-bio: |
-  D.A. Xiaolin Spires counts stars and sand, residing currently in Hawaiʻi. You can find her embarking on olfactorial odysseys as she inhales plumeria blossoms, poke and poi.
-  Her work appears or is forthcoming in various publications such as _Fireside_, _Clarkesworld_, _Analog_, _Terraform_, _Nature: Futures_, _Grievous Angel_, _Reckoning_, _Galaxy's Edge_, _LONTAR_, _Andromeda Spaceways_ (selected for the Year's Best issue), _Mithila Review_, _Issues in Earth Science_, _Factor Four_, _Star*line_, _Liminality_, _Eye to the Telescope_, _Atlas Poetica_, _Outlook Springs_, _Gathering Storm Magazine_, _Polu Texni_ and _Story Seed Vault_; as well as anthologies of the strange and delightful, such as _Sharp & Sugar Tooth_, _Broad Knowledge_, _Future Visions_, _Battling in All Her Finery_ and _Ride the Star Wind_. You can find her on her website: [daxiaolinspires.wordpress.com](https://daxiaolinspires.wordpress.com/) or on Twitter: [@spireswriter]https://(twitter.com/spireswriter).
+  D.A. Xiaolin Spires counts stars and sand, residing currently in Hawai’i. You can find her embarking on olfactorial odysseys as she inhales plumeria blossoms, poke, and poi. Her work appears or is forthcoming in various publications such as _Fireside_, _Clarkesworld Magazine_, _Analog Science Fiction and Fact_, _Terraform_, _Nature Futures_, _Grievous Angel Poetry & Fiction_, _Reckoning_, _Galaxy's Edge Magazine_, _LONTAR: The Journal of Southeast Asian Speculative Fiction_, _Andromeda Spaceways Magazine_ (selected for the Year’s Best issue), _Mithila Review_, _Issues in Earth Science_, _Factor Four Magazine_, _Star*Line_, _Liminality: A Magazine of Speculative Poetry_, _Eye to the Telescope_, _Atlas Poetica_, _Outlook Springs_, _Gathering Storm Magazine_, _Polu Texni_, and _Story Seed Vault_; as well as anthologies of the strange and delightful, such as _Sharp & Sugar Tooth_, _Broad Knowledge_, _Battling in All Her Finery_, and _Ride the Star Wind_. You can find her on her website: [daxiaolinspires.wordpress.com](https://daxiaolinspires.wordpress.com/) or on Twitter: [@spireswriter]https://(twitter.com/spireswriter).
 proofread: false
 ---
 
@@ -39,7 +38,7 @@ A shark tooth washes up on shore. Lustrous, polychromatic, it shines in rainbow 
 
 I tell him that by courting danger I conquer danger. I tell him it’s a symbol. I tell him it dangles as a harmless charm, but reminds me what I expose. I tell him that when the sharks come, they will see and they will be scared that I have their weapon.
 
-He sits thoughtfully by the fire, sipping hot porridge. I keep looking for a hidden grin, but his eyes are glued to the flames. The blaze dances in his irises, as he raises more porridge to his lips.
+He sits thoughtfully by the fire, sipping hot porridge. I keep looking for a hidden grin, but his eyes are glued to the flames. The blaze dances in his irises as he raises more porridge to his lips.
 
 ----
 
@@ -51,7 +50,9 @@ A shark tooth washes up on shore. Lustrous, polychromatic, it shines in rainbow 
 
 “Is it a gift from a previous lover?” says Ptatn. They wish to know about my relationship past, as if to gauge our relationship future.
 
-“I guess you could say that.” Their eyes turn away at my response. Is it anger? I have not yet learned to read their chemical-neurological states. My holobrochure for interunderstanding and dating gathers virtual dust. We test our interaction live.
+“I guess you could say that.”
+
+Their eyes turn away at my response. Is it anger? I have not yet learned to read their chemical-neurological states. My holobrochure for interunderstanding and dating gathers virtual dust. We test our interaction live.
 
 I return to my poutine. My fuel-cell spork jabs a cube of cell-cultured casein protein, ‘cheese’ curds over tuberous gencarbs, searing it to perfection.
 
@@ -97,19 +98,17 @@ Ptatn sits on my bed, taking up almost the whole frame. I steal a tiny corner.
 
 “Go make something of your life, loser.”
 
-“You know I’m the only one who stands by you. Everyone else is against you.”She pauses, for dramatic effect and then finishes with:
+“You know I’m the only one who stands by you. Everyone else is against you.”
 
-“You’re a failure.”
+She pauses for dramatic effect and then finishes with: “You’re a failure.”
 
 The holographic broadcast pulls into its case and closes up.
 
 “Why do you keep this hostile voice stored near your heart?” Ptatn asks. Again the look of innocent curiosity, set in three luminescent eyes.
 
-But, Ptatn’s subdued voice is not as loud as my mom’s continuing in my ear. “You’re a terrible daughter.” “No one will ever love you.” “You’re pathetic.” I think of her toxic relationships, boyfriend after boyfriend, drunks and abusers. She projects them onto me.
+But Ptatn’s subdued voice is not as loud as my mom’s continuing in my ear. “You’re a terrible daughter.” “No one will ever love you.” “You’re pathetic.” I think of her toxic relationships, boyfriend after boyfriend, drunks and abusers. She projects them onto me.
 
-I say in hypnotic self-assurance, hoping to convince myself:
-
-“I court with danger on my chest to surmount them. Conquer them. It reminds me what I expose. I subjugate her to my beck and call. I have her weapon.”
+I say in hypnotic self-assurance, hoping to convince myself, “I court with danger on my chest to surmount them. Conquer them. It reminds me what I expose. I subjugate her to my beck and call. I have her weapon.”
 
 Ptatn seems satisfied with the answer and snuggles their face in my arms.
 
@@ -119,7 +118,7 @@ Ptatn sits on my bed, taking up almost the whole frame. I steal a tiny corner.
 
 Five days later, I get mugged. My panic activates my Passion Pulse. My mom’s voice screeches defamatory slander with such conviction that it feels true. “You’ll never amount to anything.”
 
- The mugger stops dead in his tracks. I grab my bag back and sprint like the wind.
+The mugger stops dead in his tracks. I grab my bag back and sprint like the wind.
 
 ----
 
@@ -127,4 +126,4 @@ Five days later, I get mugged. My panic activates my Passion Pulse. My mom’s v
 
 When the smuggler comes to get you, Gatl, I place the shark tooth in my knuckles. I cock my arm and release a swipe. His hands fly to his eyes.
 
-We dash away, in long strides until we reach the smuggler’s canoe. Then, we sail starlit skies to the safety of the vast unknown.
+We dash away in long strides until we reach the smuggler’s canoe. Then, we sail starlit skies to the safety of the vast unknown.
