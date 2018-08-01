@@ -14,8 +14,6 @@ author-bio: |
 proofread: true
 ---
 
-
-
 The janitor banged all bar one of the toilet cubicle doors.
 
 "That's closing time. I'm going to step outside for a minute. If you two in stall four don't want locked in, I'd suggest you take that opportunity."
