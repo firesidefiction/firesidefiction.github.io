@@ -11,10 +11,12 @@ teaser: "He is pretty, as knights go. You know how I loathe the pretty ones. The
 author-img: nilah-magruder.jpg
 author-bio: |
   Nilah Magruder is a writer and illustrator based in Los Angeles. Her picture book _How to Find a Fox_ was published by Feiwel & Friends and her award-winning webcomic, _M.F.K._, is available in print from Insight Editions. She has written for Marvel and drawn storyboards for DreamWorks and Disney. She is currently illustrating _Creaky Acres_, a middle-grade graphic novel written by Calista Brill. When she is not working, Nilah is reading fantasy novels, watching movies, roller-skating, and fighting her cat for control of her desk chair. Her website is at [www.nilahmagruder.com](http://www.nilahmagruder.com).
-proofread: false
+proofread: true
 ---
 
-My dearest Cassa,First, please extend my congratulations to Princess Fortuita on her pending nuptials to Sir Archibald. I am happy for your charge, though I could not have guessed she would settle on "The Singed Knight" of your letters, or that he would settle on her, after you so soundly roasted him. I daresay he has more than proved himself to Fortuita, and you and her parents will have to content yourselves with that.
+My dearest Cassa,
+
+First, please extend my congratulations to Princess Fortuita on her pending nuptials to Sir Archibald. I am happy for your charge, though I could not have guessed she would settle on "The Singed Knight" of your letters, or that he would settle on her, after you so soundly roasted him. I daresay he has more than proved himself to Fortuita, and you and her parents will have to content yourselves with that.
 
 To your last correspondence, yes, I am still on the search for my replacement. I would like to get another guardian settled before the dormant season. I can't imagine there will be any knights to come calling until the spring, but it will give Larissa time to get acquainted with her new chaperone.
 
@@ -22,9 +24,9 @@ My dearest Cassa,First, please extend my congratulations to Princess Fortuita 
 
 He is pretty, as knights go. You know how I loathe the pretty ones. Their bones are brittle and sharp, and crack unpleasantly when chewed. Upon first sight of him, I knew I could never have ate him for that reason alone.
 
-To be clear, I did not lose that engagement, and I resent the accusation. I simply withdrew.  I will confess that he was much better than I expected. His hide bears so few scars compared to his sword. He is good… not a seasoned knight, but cautious and clever where most knights rely solely on strength and sheer nerve.
+To be clear, I did not lose that engagement, and I resent the accusation. I simply withdrew.  I will confess that he was much better than I expected. His hide bears so few scars compared to his sword. He is good... Not a seasoned knight, but cautious and clever where most knights rely solely on strength and sheer nerve.
 
-There was heat to him. Not like the brimstone that burns in our lungs, but something glowing, nonetheless. In any case, I thought it worth sparing. Perhaps a knight of such fire could be a fitting match for my Larissa. I let him go, with some faint hope that he would gather himself and present me a proper challenge later. I know you will sympathize with this, for isn't that what you did for Fortuita? Though, to my credit, I never burned my knight so bad as you did to Archibald (Fortuita is a dear sweet thing to take him on, even though slightly charred).
+There was heat to him. Not like the brimstone that burns in our lungs, but something glowing, nonetheless. In any case, I thought it worth sparing. Perhaps a knight of such fire could be a fitting match for my Larissa. I let him go, with some faint hope that he would gather himself and present me a proper challenge later. I know you will sympathize with this, for isn't that what you did for Fortuita? Though, to my credit, I never burned my knight so bad as you did to Archibald. (Fortuita is a dear sweet thing to take him on, even though slightly charred.)
 
 My estimation of the man's mettle was right. He did come back, hardly a month later, and I let him closer this time, so that Larissa could get a look from her window.
 
@@ -40,7 +42,7 @@ My dearest Cassa,First, please extend my congratulations to Princess Fortuita 
 
 I am a fine specimen, as dragons go. I am strong, sleek, and my wings bow adequately upon my back. But in these moments, when his arms are around me, I wish that I could be a proper match for him. I have never thought myself ugly… but Cassa, I wait for him to call me so. I would not mind if he did. Against any fair princess, how could a knight think me otherwise?
 
-And yet, his eyes hold none of the revulsion and fury that I have come to expect from his kind. His gaze on me is so wondrous and hungry, that I find myself in wonder of what treasure he has unearthed. And it's the funniest thing: he looks at me, and suddenly I do not care at all about my size, or my scales. I feel as grand and dazzling as the sun.
+And yet, his eyes hold none of the revulsion and fury that I have come to expect from his kind. His gaze on me is so wondrous and hungry that I find myself in wonder of what treasure he has unearthed. And it is the funniest thing: he looks at me, and suddenly I do not care at all about my size, or my scales. I feel as grand and dazzling as the sun.
 
 For all his grandiloquence, he is not a romantic. He has made no bold vows to me, no declarations of ever afters. He only asked that I go with him.
 
@@ -50,6 +52,8 @@ My dearest Cassa,First, please extend my congratulations to Princess Fortuita 
 
 I look eagerly to the days ahead. It has been decades since I've had a proper vacation. And maybe, on the road, I will come to the answers to your many questions. In that event, I shall write you a long letter. You will know it by the glue in the middle, binding the two sheets together.
 
-Think of me kindly until then.Sincerely,
+Think of me kindly until then.
+
+Sincerely,
 
 Your sister
