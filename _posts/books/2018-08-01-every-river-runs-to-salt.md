@@ -2,10 +2,10 @@
 layout: book
 title: Every River Runs to Salt
 author: Rachael K. Jones
-date: 2018-08-14 01:01:00 -0500
+date: 2018-08-01 01:01:00 -0500
 category: book
 permalink: book/every-river-runs-to-salt
-published: false
+published: true
 length: novella
 cover: every-river-runs-to-salt.jpg
 amazon: https://www.amazon.com/Every-River-Runs-Rachael-Jones-ebook/dp/B07DM5S8TY/ref=sr_1_1?ie=UTF8&qid=1532540394&sr=8-1&keywords=every+river+runs+to+salt
