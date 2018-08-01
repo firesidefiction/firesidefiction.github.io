@@ -11,14 +11,14 @@ teaser: "She makes sure to hold the chisel at a 45-degree angle; otherwise, the 
 author-img: natalia-theodoridou.jpg
 author-bio: |
   Natalia Theodoridou is a media and cultural studies scholar, the dramaturge of Adrift Performance Makers ([@adriftPM](https://www.twitter.com/adriftPM)), and a writer of strange stories. Her work has appeared in _Clarkesworld Magazine_, _Beneath Ceaseless Skies_, _Strange Horizons_, and elsewhere. Originally from Greece, she lives in Devon, UK, until she’s asked to leave. Occasionally, she tweets as [@natalia_theodor](https://www.twitter.com/natalia_theodor).
-proofread: false
+proofread: true
 ---
 
 _The new heart has no frills. It needs none. It is made of limestone, hard and white. The heart maker allows herself just one decorative element, to remind herself of the sedimentary nature of love: a single skeletal fragment of a coral lodged in its middle._
 
 ----
 
-She walked into my shop with sure, defiant steps. Most people walk in with some hesitation, as if doing something frowned upon—although artificial hearts have been a mainstream choice for over a decade now.
+She walked into my shop with sure, defiant steps. Most people walk in with some hesitation, as if doing something frowned upon — although artificial hearts have been a mainstream choice for over a decade now.
 
 Not her. She knew what she wanted. She'd always known.
 
@@ -28,7 +28,7 @@ _Yele uses a tooth chisel to erase the grooves and ridges her tools have left on
 
 ----
 
-I recognized her immediately. _Sereena_. Her name was on my lips the moment she walked in, although it had been fifteen years since I last saw her. I'd been in my final semester when she was a Junior. She studied calligraphy. I was a sculptor, of course—one of the few girls in my class. I had always been nothing but a sculptor.
+I recognized her immediately. _Sereena_. Her name was on my lips the moment she walked in, although it had been fifteen years since I last saw her. I'd been in my final semester when she was a Junior. She studied calligraphy. I was a sculptor, of course — one of the few girls in my class. I had always been nothing but a sculptor.
 
 I could hardly believe she was there. I had fantasized about this moment for years. How I would sweep her off her feet, how she would finally see me, little me in love, how we would go away together and muse about all the time lost.
 
@@ -52,7 +52,7 @@ Yes, I had fantasized about this day a lot, but fantasy is one thing, and this w
 
 There was no sign of recognition. And why would there be? She'd always had dozens of suitors; why would she remember the shy, older girl who asked her out once, way back?
 
-"So," I said walking around my bench to give her the grand tour, my own heart jumping in my chest. This was the closest I'd been to her since that time when she cupped my face with her hand and said I was cute, but she wasn't into women. "Do you know what you're looking for?"
+"So," I said, walking around my bench to give her the grand tour, my own heart jumping in my chest. This was the closest I'd been to her since that time when she cupped my face with her hand and said I was cute, but she wasn't into women. "Do you know what you're looking for?"
 
 ----
 
@@ -64,13 +64,15 @@ She didn't answer right away, so I motioned towards the various selections on th
 
 "Interesting handwriting," she said, and I blushed.
 
-"We carry almost every model imaginable," I said, trying to mould my voice as smooth as the surface of handcrafted stone. "Hearts that will beat forever—this is our best seller—hearts that resist stress, hearts that never falter, that detect lies, even ones that can be deactivated at the push of a button." I raised my hand to a shelf of hearts encased in soundproof Plexiglas. "And these over there—hearts that speak, hearts that sing." I turned and looked her straight in the eyes. "Anything you want."
+"We carry almost every model imaginable," I said, trying to mold my voice as smooth as the surface of handcrafted stone. "Hearts that will beat forever—this is our best seller—hearts that resist stress, hearts that never falter, that detect lies, even ones that can be deactivated at the push of a button." I raised my hand to a shelf of hearts encased in soundproof Plexiglas. "And these over there—hearts that speak, hearts that sing." I turned and looked her straight in the eyes. "Anything you want."
 
 She tilted back her head and rubbed her throat. "I want a heart that doesn't love the man I love anymore," she said. Her face hardened, something dark passing over her.
 
 _Sereena, Sereena_, I wanted to say, _what bruised your heart?_ And, _Won't you let me make it all better?_ "Would you like it to love someone else?" I asked instead, foolishly, because I knew that's not how it works. You cannot tell a heart whom to love. It either does, or it doesn't.
 
-"No," she said. She turned to face me, her eyes all red. "I never want to love again." ----
+"No," she said. She turned to face me, her eyes all red. "I never want to love again."
+
+----
 
 _The new heart is nearly ready. Just one thing left to do._
 
