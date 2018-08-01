@@ -10,19 +10,21 @@ published: false
 teaser: "We didn’t have tongues, not like our ancestors, but we adapted. Sign language, gestures, facial expressions."
 author-img: renee-christopher.jpg
 author-bio: |
-  Renee Christopher is an MFA candidate at Iowa State where she serves as poetry editor for _Flyway: Journal of Writing and Environment_. Her poetry can be found in _Noble Gas Quarterly_, _Crab Fat Magazine_, and _Alyss_’s 2017 Inauguration Edition. Find her on Twitter at [@reneesunok](https://www.twitter.com/reneesunok).
-proofread: false
+  Renee Christopher is an MFA candidate at Iowa State where she serves as poetry editor for _Flyway: Journal of Writing and Environment_. Her poetry can be found in _Noble Gas Quarterly_, _Crab Fat Magazine_, and _Alyss_’ 2017 Inauguration Edition. Find her on Twitter at [@reneesunok](https://www.twitter.com/reneesunok).
+proofread: true
 ---
 
 I opened and shut my mouth like a fish, trying to absorb any moisture I could, wishing for a hint of a breeze. Nemet was the hottest place I’d ever been to. I wasn’t prepared for the arid climate, the dust, the absolute apathy of the sun. My hunting partner, Shahara, rolled her eyes at me as we headed toward a ruined prayer tower for the Nemmen gods. Sweat plastered my short black coils to the sides of my face as I poked my head around the corner of an adobe house.
 
-I jerked back and stopped short as the thing we came for, the thing we were tasked to destroy, sent chills up my arms even in this desert. I signaled to stop too late and Shahara nearly knocked me into the dirt. She stood half a foot taller than me, wider by a palm’s breadth, and wore her hair in the traditional style of all Swords⎯two braids in cornrows along the sides of her head, edges pasted down, immaculate with gleaming wax. Young, agile, fierce. She was beautiful with a strong jaw. She wore loose trousers and a thick leather chest cover, her halberd in her left hand. I’m sure I looked silly next to her in a long tunic with only a staff to defend myself. I was her Lorist, the person with the knowledge of the place and people. It helped to have an extra pair of hands to carry the parts back.
+I jerked back and stopped short as the thing we came for, the thing we were tasked to destroy, sent chills up my arms even in this desert. I signaled to stop too late and Shahara nearly knocked me into the dirt.
 
-Shahara glared at me. Her hand struck out as if she were about to use my shoulder to right herself but thought better of it. She lowered her forearm in front of my face. The text of our language appeared in blocky red letters that stood out against her skin, which was several shades lighter than my own deep brown. It was as if her lifeblood wrote her messages, “Shit Kem, what now?”
+She stood half a foot taller than me, wider by a palm’s breadth, and wore her hair in the traditional style of all Swords — two braids in cornrows along the sides of her head, edges pasted down, immaculate with gleaming wax. Young, agile, fierce. She was beautiful with a strong jaw. She wore loose trousers and a thick leather chest cover, her halberd in her left hand. I’m sure I looked silly next to her in a long tunic with only a staff to defend myself. I was her Lorist, the person with the knowledge of the place and people. It helped to have an extra pair of hands to carry the parts back.
 
-We didn’t have tongues, not like our ancestors, but we adapted. Sign language, gestures, facial expressions. Non-verbal cues became much more nuanced in the wake of the great purge of spoken language. We’ve long since lost the stories about what happened or why. All I remembered from what Mamaw told me was the fear—the chaos of the aftermath.
+Shahara glared at me. Her hand struck out as if she were about to use my shoulder to right herself but thought better of it. She lowered her forearm in front of my face. The text of our language appeared in blocky red letters that stood out against her skin, which was several shades lighter than my own deep brown. It was as if her lifeblood wrote her messages, “Shit, Kem, what now?”
 
-I twisted my upper body around so she could see the response that filigreed across my tiny breasts in the pink shade of recent scars. “Sorry—look.” I jerked my head toward the corner of the house. “Have you ever seen one like that?”
+We didn’t have tongues, not like our ancestors, but we adapted. Sign language, gestures, facial expressions. Non-verbal cues became much more nuanced in the wake of the great purge of spoken language. We’ve long since lost the stories about what happened or why. All I remembered from what Mamaw told me was the fear — the chaos of the aftermath.
+
+I twisted my upper body around so she could see the response that filigreed across my tiny breasts in the pink shade of recent scars. “Sorry — look.” I jerked my head toward the corner of the house. “Have you ever seen one like that?”
 
 Shahara stepped around me to peer past the wall, spinning me like a leaf on the wind. I don’t know what she thought in that moment, but I knew by her slackened jaw and her silence that we were done for.
 
@@ -32,7 +34,7 @@ proofread: false
 
 ----
 
-All Lux gave us about the creature were generals from a Nemmen messenger boy: it was huge, black like a night with no stars, and had something that slithered from its mouth like a snake inside another snake. Lux ran the business back home in Mankura, a temperate forest east of Nemet, in the hills of a greater land called the Tar. His rules were simple. Kill it. Bring him any fluids, skin, an eye, a tentacle, anything we could carry, but especially the blood. What Lux did with these things, he kept to himself, probably sold it to practitioners. Regardless, this bounty kept us clothed and fed and that’s all us hunters knew, Lorists and Swords alike. Intrigued by the idea of an animal inside another, I volunteered for this; it would be my last. I could get by on my own. Maybe I’d go live with my sister in the mountains of Kitan.
+All Lux gave us about the creature were generals from a Nemmen messenger boy: it was huge, black like a night with no stars, and had something that slithered from its mouth like a snake inside another snake. Lux ran the business back home in Mankura, a temperate forest east of Nemet, in the hills of a greater land called the Tar. His rules were simple. Kill it. Bring him any fluids, skin, an eye, a tentacle, anything we could carry, but especially the blood. What Lux did with these things, he kept to himself. Probably sold it to practitioners. Regardless, this bounty kept us clothed and fed and that’s all us hunters knew, Lorists and Swords alike. Intrigued by the idea of an animal inside another, I volunteered for this; it would be my last. I could get by on my own. Maybe I’d go live with my sister in the mountains of Kitan.
 
 It had been three nights and two days and Shahara and I lay down atop the highest building we could find. We were told it couldn’t fly. I struggled to fall asleep, still sweating beneath the stars. Even at night, a sticky warmth clung to me. After the first encounter, we tracked the monster for days, trying to decipher a pattern to its killings. It hunted by sight and didn’t seem to have visible ears. It came and went, feasting on anyone unfortunate enough or stupid enough to stay behind. It usually hunted in the middle of the day. One would think a beast like this would prefer the dark.
 
@@ -42,9 +44,9 @@ proofread: false
 
 “Most people are gone. She hasn’t attacked anyone.”
 
-“Yet. And she? Did you name it?” Shahara’s gaze sent a jolt through me as our eyes met. don’t know when I imposed gender on this creature, but I recognized a certain kinship. “You sentimental piece of shit.” She smiled.
+“Yet. And she? Did you name it?” Shahara’s gaze sent a jolt through me as our eyes met. I don’t know when I imposed gender on this creature, but I recognized a certain kinship. “You sentimental piece of shit.” She smiled.
 
-“I’ll name them all. One by one--create a catalog of monsters we can give to future generations,” I teased.
+“I’ll name them all. One by one — create a catalog of monsters we can give to future generations,” I teased.
 
 Her annoyance on the day we got to Nemet, and this teasing, yet worried, demeanor clashed with my memory of the first time we met. Nearly a full moon ago, I’d gone into Jax, the tavern on the edge of town where Lux operated. I was ready to quit. I wanted to quit. Even though I had no idea what came next. I sat for a moment, trying to recall my perfect speech I’d rehearsed on the way over. Rushlan the barkeep recognized this look and nudged a pint toward me. I drained it in a few hasty gulps and he raised his eyebrows. I grinned, enjoying the head rush. I stood up too fast, stumbled back into what I thought was a wall, thinking there should not be a wall directly behind the bar stools. Two hands gripped my shoulders and steadied me.
 
@@ -52,11 +54,13 @@ proofread: false
 
 “Watch it,” her arm read, paired with a stiff smile. She righted my tilting frame and moved through the crowd toward Lux’s door in one fluid motion. I followed her with quick steps. She didn’t knock.
 
-“Perfect, perfect, you two have already met. Kem, Nemmen lore. Here are the notes. Take everything. Shahara don’t let this one out of your sight⎯I need her back in a few days. Think you can manage?” Lux, thin and wiry, with the slicked back waves and the oiled skin of well-off gentlemen, held out a few pieces of parchment as I struggled to speed read our language skipping across his forehead.
+“Perfect, perfect, you two have already met. Kem, Nemmen lore. Here are the notes. Take everything. Shahara, don’t let this one out of your sight — I need her back in a few days. Think you can manage?” Lux, thin and wiry, with the slicked back waves and the oiled skin of well-off gentlemen, held out a few pieces of parchment as I struggled to speed read our language skipping across his forehead.
 
-“Don’t insult me L,” Shahara said with a wink. I followed her out and have been ever since.
+“Don’t insult me, L,” Shahara said with a wink. I followed her out and have been ever since.
 
-Her fingertips touched my wrist and I snapped back into the present. My mind never settled on one thing, even during moments like this. Someday it might get me killed. “Don’t get eaten by the damned thing,” she said.
+Her fingertips touched my wrist and I snapped back into the present. My mind never settled on one thing, even during moments like this. Someday it might get me killed.
+
+“Don’t get eaten by the damned thing,” she said.
 
 She closed her eyes and tucked her arms in, her fingers playing over the hilt of her halberd laying by her side. Shahara was serious about the future, always.
 
@@ -86,4 +90,4 @@ proofread: false
 
 Shahara didn’t look away when I screamed, the flayed skin announcing a source of greater and more urgent pain that had nothing to do with the tongued creature that hadn’t moved since. Her cries grew softer as Shahara bent over me, my chest blank.
 
-When Shahara finished, I stood on shaky legs. The bandages covered my chest, but I put my hand on her arm and she nodded. I walked over to the creature’s body, gone silent, but her chest still heaved. I stared into what I thought must be her eyes. There were seven orange orbs in her head, like tiny suns, and they reflected the tired sorrow on my face as her tongue flicked out for the last time⎯a hand waiting to be held.
+When Shahara finished, I stood on shaky legs. The bandages covered my chest, but I put my hand on her arm and she nodded. I walked over to the creature’s body, gone silent, but her chest still heaved. I stared into what I thought must be her eyes. There were seven orange orbs in her head, like tiny suns, and they reflected the tired sorrow on my face as her tongue flicked out for the last time — a hand waiting to be held.
