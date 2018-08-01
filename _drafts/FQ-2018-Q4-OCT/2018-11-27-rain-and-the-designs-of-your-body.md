@@ -28,7 +28,7 @@ He smiled. "It’s growing."
 
 "Does it hurt?"
 
-"I guess it’s going to stay hurting," Julio said, showing me the way he was being consumed—in words. There was nothing to say back, no spell to unbind the night. The curtain was undone, collecting on the floor, unraveling endlessly. Can curtains unravel? I don’t even know anymore.
+"I guess it’s going to stay hurting," Julio said, showing me the way he was being consumed — in words. There was nothing to say back, no spell to unbind the night. The curtain was undone, collecting on the floor, unraveling endlessly. Can curtains unravel? I don’t even know anymore.
 
 Maybe there’s just not much to know.
 
