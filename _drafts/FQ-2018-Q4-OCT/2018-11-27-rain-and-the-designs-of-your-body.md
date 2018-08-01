@@ -11,7 +11,7 @@ teaser: "Julio slipped off his shirt and showed me a lake. It stirred, a puddle 
 author-img: j-m-guzman.jpg
 author-bio: |
   J.M. Guzman is a Dominican-American that writes about ghosts, coffins, and all the things in the dark. He has forthcoming fiction in _Liminal Stories_ with work currently in _Daily Science Fiction_ and _Lackington's Magazine_. You can find him on twitter at [@jmguzman_](https://www.twitter.com/jmguzman_).
-proofread: false
+proofread: true
 ---
 
 Before we muted ourselves, Julio went to show me the skin of his spine. He unwrapped himself: a jacket off, a cardigan peeled. At the time, I didn’t realize we were losing our voices.
