@@ -7,7 +7,7 @@ date: 2018-12-20 01:00:01 -0500
 category: essay
 permalink: you-wake-up-monstrous
 published: false
-teaser: "The implication is obvious. The aftershocks of trauma follow us relentlessly, constantly forcing us to be vigilant about ourselves and our space."
+teaser: "Body horror perpetuates the fear of, the isolation of, the disabled -- by rendering disability something that happens on a screen, to a secondary character."
 author-img: fran-wilde.jpg
 author-bio: |
   Fran Wilde’s novels and short stories have been nominated for three Nebula Awards and two Hugos, and include her Andre Norton- and Compton-Crook-winning debut novel, _Updraft_ (Tor, 2015), its sequels, _Cloudbound_ (2016) and _Horizon_ (2017), and the novelette “The Jewel and Her Lapidary” (Tor.com Publishing, 2016). Her short stories appear in _Asimov's Science Fiction_, _Tor.com_, _Beneath Ceaseless Skies_, _Shimmer Magazine_, _Nature Futures_, and the 2017 _Year’s Best Dark Fantasy and Horror_. She writes for publications including _The Washington Post_, _Tor.com_, _Clarkesworld Magazine_, _iO9.com_, and _GeekMom.com_. You can find her on Twitter, Facebook, and at [www.franwilde.net](http://www.franwilde.net).
@@ -81,7 +81,7 @@ Humor, pathos, recognition, and fear -- body horror plays on all of these emotio
 
 Sometimes witnessing a body transformation isn’t funny or inspiring to anyone. When Neo’s mouth disappears in The Matrix, for one, or when he wakes and pulls the cables from his head (oddly reminiscent of patients pulling IV’s out) for another. It’s terrifying. Adding in a bug crawling across (and into) his skin, while removing the ability to scream for help only heightens the horror. He hasn’t woken up like this. It’s something that’s visibly inflicted on him by outside forces. That’s a difference between The Matrix and The Metamorphosis. But the similarity is that the audience witnesses the transformation and the reaction.
 
-Disability has always been part of the horror toolkit. SIckness, deformation, death. All in one way or another casting a human being as “other” for being different, unattractive, without all five of the senses, or parts in the right order. Horror needs an other. It needs something to feed its own survival. In one sense, horror entertainment is about luck -- of the “aren’t you lucky this isn’t you” variety.
+Disability has always been part of the horror toolkit. Sickness, deformation, death. All in one way or another casting a human being as “other” for being different, unattractive, without all five of the senses, or parts in the right order. Horror needs an other. It needs something to feed its own survival. In one sense, horror entertainment is about luck -- of the “aren’t you lucky this isn’t you” variety.
 
 In another, it’s about waking up to the possibility that we can all become changed over time.
 
