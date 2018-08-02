@@ -4,7 +4,7 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently open to submissions for [novels and novellas](#novels-and-novellas).
+## Fireside is currently open to submissions for [novels and novellas](#novels-and-novellas).
 
 We welcome previously unpublished (including on Patreon or a blog) work from all writers, and we are especially interested in seeing work from people of color, LGBTQIA+ people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded, and we believe that any story you want to tell is a valid story, regardless of whether it centers issues related to being part of a marginalized group.
 
@@ -20,7 +20,7 @@ If you have any questions about how to submit please email us at: [editorial@fir
 ----
 
 ## Short Stories
-Fireside is currently closed to submissions. Our next short story reading period will be from the 15th to the 31st of December, 2018.
+Fireside is currently closed to short story submissions. Our next short story reading period will be from the 15th to the 31st of December, 2018.
 
 We accept short stories up to 4,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds.
 
@@ -76,8 +76,7 @@ Fireside is committed to publishing non-fiction which reflects our values and en
 
 ## Novels and Novellas
 
-Fireside is currently open to submissions for novels and novellas until August 31, 2018.
-{% include submit-button.html %}
+Fireside is currently open to submissions for novels and novellas until August 31, 2018. Please read our guidelines and then submit using the button below.
 
 ### Please submit:
 - Your completed novel or novella (20,000-120,000 words). We are open to any genre as long as the story transports us.
@@ -95,6 +94,8 @@ Fireside is currently open to submissions for novels and novellas until August 3
 ### What to expect from us:
 - While we don’t pay advances, Fireside offers royalties on sales of all books, so our authors start seeing money from their work as soon as it’s published. We negotiate rights purchased and compensation on a case by case basis, so we don’t have one standard boilerplate novel and novella contract, but we are committed to treating creators fairly.
 - Responses within 2 months of the end of our submissions period.
+
+{% include submit-button.html %}
 
 ----
 
