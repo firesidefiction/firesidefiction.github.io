@@ -4,8 +4,6 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-## Fireside is currently open to submissions for [novels and novellas](#novels-and-novellas).
-
 We welcome previously unpublished (including on Patreon or a blog) work from all writers, and we are especially interested in seeing work from people of color, LGBTQIA+ people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded, and we believe that any story you want to tell is a valid story, regardless of whether it centers issues related to being part of a marginalized group.
 
 Below you will find our submissions dates and guidelines for:
