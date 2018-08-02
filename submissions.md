@@ -6,7 +6,7 @@ permalink: submissions
 
 We welcome previously unpublished (including on Patreon or a blog) work from all writers, and we are especially interested in seeing work from people of color, LGBTQIA+ people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded, and we believe that any story you want to tell is a valid story, regardless of whether it centers issues related to being part of a marginalized group.
 
-We use [Submittable](https://www.submittable.com/) to manage our reading periods, but we understand that this is not universally accessible. We also know that our submission windows are short and for some people this may also cause an accessibility issue. We want to hear from all voices, so if you have an accessibility issue that will make using Submittable or trying to submit during a very limited period a problem, please query us any time by sending an email to [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com) with the subject line: Accessibility Query.
+We use [Submittable](https://firesidefictioncompany.submittable.com/submit/121948/novel-novella-submissions-period) to manage our reading periods, but we understand that this is not universally accessible to disabled people. We also know that our submission windows are short and for some people this may also cause an accessibility issue. We want to hear from all voices, so if you have an accessibility issue that will make using Submittable or trying to submit during a very limited period a problem, please query us any time by sending an email to [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com) with the subject line: Accessibility Query.
 
 Below you will find our submissions dates and guidelines for:
 - [Short Stories](#short-stories)
@@ -78,7 +78,7 @@ Fireside Press publishes novels and novellas and will have our first open submis
 ### Please submit:
 - Your completed novel or novella (20,000-120,000 words). We are open to any genre as long as the story transports us.
 - Work that has never been published in the English language before (translations are okay!)
-- A query letter with the title, genre, length, a short pitch of the concept, and a short bio.
+- A query letter with the title, genre, length, a short pitch of the concept, and a short bio. 
 - A synopsis, up to 2,000 words (but shorter is definitely okay!) consisting of a detailed outline of your story, including any major plot twists and the ending.
 - Simultaneous submissions are okay for novels and novellas, but we ask that you please withdraw immediately if you take another offer.
 
