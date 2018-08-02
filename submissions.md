@@ -76,8 +76,7 @@ Fireside is committed to publishing non-fiction which reflects our values and en
 
 ## Novels and Novellas
 
-Fireside is currently open to submissions for novels and novellas.
-
+Fireside is currently open to submissions for novels and novellas until August 31, 2018.
 {% include submit-button.html %}
 
 ### Please submit:
