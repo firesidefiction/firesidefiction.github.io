@@ -8,9 +8,6 @@ Fireside is currently open to submissions for [novels and novellas](#novels-and-
 
 We welcome previously unpublished (including on Patreon or a blog) work from all writers, and we are especially interested in seeing work from people of color, LGBTQIA+ people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded, and we believe that any story you want to tell is a valid story, regardless of whether it centers issues related to being part of a marginalized group.
 
-## Accessibility
-We use Submittable to manage our reading periods, but we understand that this is not universally accessible to disabled people. If you have questions related to accesibility, please email us at [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com) with the subject line: Accessibility Query. Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
-
 Below you will find our submissions dates and guidelines for:
 - [Short Stories](#short-stories)
 - [Poetry](#poetry)
@@ -18,7 +15,7 @@ Below you will find our submissions dates and guidelines for:
 - [Novels and Novellas](#novels-and-novellas)
 - [Artwork](#artwork)
 
-If you have any questions about how to submit please email us at: [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com).
+If you have any questions about how to submit please email us at: [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com). We use Submittable to manage our reading periods, but we understand that this is not universally accessible to disabled people. If you have questions related to accesibility, please email us at [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com) with the subject line: Accessibility Query. Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
 
 ----
 
@@ -81,7 +78,7 @@ Fireside is committed to publishing non-fiction which reflects our values and en
 
 Fireside is currently open to submissions for novels and novellas.
 
-{% include submit-button %}
+{% include submit-button.html %}
 
 ### Please submit:
 - Your completed novel or novella (20,000-120,000 words). We are open to any genre as long as the story transports us.
