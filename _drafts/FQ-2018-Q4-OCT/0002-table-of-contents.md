@@ -6,7 +6,7 @@ published: false
 proofread: true
 ---
 
-XX — Gather 'Round the Fireside
+XX — Gather Round the Fireside
 editorial by Julia Rios
 
 XX — Odontogenesis
