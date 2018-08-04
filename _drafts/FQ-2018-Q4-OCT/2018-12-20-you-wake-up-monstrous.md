@@ -80,7 +80,7 @@ By rendering disability something that happens on a screen, to a secondary chara
 
 Assuredly, this taking away of emotion and personhood is monstrous, but it’s not the character who’s the monster — though we see that plot twist in plenty of movies too.
 
-And even more assuredly, there are many movies where the character’s humanity is underscored — or, in the case of Lynch, discovered — despite the horror. But here again is a dividing line between the audience — the people watching, discovering, learning — and the subject — those who might be seen as people if viewers didn’t see them first on-screen as something to fear or pity.
+And even more assuredly, there are many movies where the character’s humanity is underscored — or, in the case of Lynch, discovered — despite the horror. But here again is a dividing line between the people who are watching, discovering, learning, and people who might otherwise be seen as people, if viewers didn’t see them first on a screen as something to fear or pity.
 
 What if the perspective changed, though? What if it was you, trapped (like a bug), watched, witnessed? What if you couldn’t leave the scene, the book, the theater. How would you feel?
 
