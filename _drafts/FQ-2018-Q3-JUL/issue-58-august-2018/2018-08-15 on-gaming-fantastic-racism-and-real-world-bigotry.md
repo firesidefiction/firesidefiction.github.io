@@ -7,18 +7,18 @@ date: 2018-08-15 01:00:01 -0500
 category: "#Blackspecfic"
 permalink: on-gaming-fantastic-racism-and-real-world-bigotry
 published: false
-teaser: "Racism toward Black gamers and developers is just as tiring and it's time we stop pretending it isn't real.t"
+teaser: "Racism toward Black gamers and developers is just as tiring and it's time we stop pretending it isn't real."
 author-img: latonya-pennington.jpg
 author-bio: |
   Latonya Pennington is a poet and freelance pop culture critic. Their freelance work can be found in places like *PRIDE*, *Wear Your Voice* magazine, *Black Sci-fi*, and more. As a poet, their work has been published in *FIYAH* magazine, *Argot* magazine, *The Scribes of Nyota* anthology, and *Linden Avenue* magazine, among others.
-proofread: false
+proofread: true
 ---
 
 This past Memorial Day Weekend, I beat the mobile version of *Final Fantasy VI* for the first time ever. Although the game had been long, arduous, and sometimes frustrating, beating this game was especially sweet for a few reasons. Not only had I found a *Final Fantasy* game I managed to enjoy, but I also got to see my favorite character Terra find peace and happiness. As a character meant to represent The Other, Terra's happy ending was particularly notable to me as a Black gamer.
 
-Gaming is one of a few subcultures experiencing a shift in who is being acknowledged and who isn't. As demonstrated in this year’s BlackSpecFic report, more Black SFF writers are having stories published by magazines. 4.7% of the stories published in 2017 were written by Black people, which is an improvement compared to the data released in 2015. While there is still more work to be done, marginalized identities have been steadily finding their voice.
+Gaming is one of a few subcultures experiencing a shift in who is being acknowledged and who isn't. As demonstrated in this year’s #BlackSpecFic report, more Black SFF writers are having stories published by magazines. 4.7% of the stories published in 2017 were written by Black people, which is an improvement compared to the data released in 2015. While there is still more work to be done, marginalized identities have been steadily finding their voice.
 
-For a while, people of color and other marginalized identities in gaming had to settle for being mostly overlooked as players. Now, we've got people like Tanya DePass of *I Need Diverse Games*, LaToya Peterson of *The Undefeated*, & Jay Ann Lopez of *Black Girl Gamers* advocating for visibility and inclusion. Due to the bigger platform that marginalized identities now have, white heteronormative male gamers feel threatened and have used racism, sexual harassment, and other forms of bigotry in order to keep gaming exclusively for themselves.
+For a while, people of color and other marginalized identities in gaming had to settle for being mostly overlooked as players. Now, we've got people like Tanya DePass of *We Need Diverse Games*, LaToya Peterson of *The Undefeated*, & Jay Ann Lopez of *Black Girl Gamers* advocating for visibility and inclusion. Due to the bigger platform that marginalized identities now have, white heteronormative male gamers feel threatened and have used racism, sexual harassment, and other forms of bigotry in order to keep gaming exclusively for themselves.
 
 In fact, racism in gaming is especially common in online gaming. Since the advent of Microsoft's Xbox Live in 2002, online gaming has become a perilous place for gamers of color. In a recent roundtable discussion about racism in gaming, Emmanuel Ocbazghi recalls logging into Xbox Live at age 12 and being called the N-word. The discussion also mentions Microsoft's lackluster response to the incident involving Terrence Miller, a Black gamer who endured racist remarks on Twitch during a Dreamhack gaming tournament in 2016.
 
