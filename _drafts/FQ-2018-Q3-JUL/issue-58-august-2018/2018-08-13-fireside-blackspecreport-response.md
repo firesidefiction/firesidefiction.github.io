@@ -2,7 +2,7 @@
 layout:  blackspecfic
 title: Fireside BlackSpecReport Response
 author: Inda Lauyrn
-editor: Julia Rios
+editor: Tanya DePass
 date: 2018-08-13 01:00:01 -0500
 category: essay
 permalink: fireside-blackspecreport-response
