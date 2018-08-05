@@ -4,7 +4,7 @@ title: Three Years Into the &#35;BlackSpecFic Report
 author: Mikki Kendall
 editor: Tanya DePass
 date: 2018-08-10 01:00:01 -0500
-category: essay
+category: "#Blackspecfic"
 permalink: three-years-into-the-blackspecfic-report
 published: false
 teaser: "Amongst all the very good morally and socially valuable reasons to be more inclusive, perhaps the conversation needs to shift to cover the most basic fundamental facts of business"

@@ -4,7 +4,7 @@ title: More Than Numbers
 author: Khaalidah Muhammad-Ali
 editor: Tanya DePass
 date: 2018-08-09 01:00:01 -0500
-category: essay
+category: "#Blackspecfic"
 permalink: more-than-numbers
 published: false
 teaser: "Maximum results = a stream of great stories by a diverse group of authors so steady and comfortable we don't have to count the numbers. "

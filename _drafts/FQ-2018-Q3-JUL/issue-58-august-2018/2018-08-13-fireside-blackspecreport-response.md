@@ -4,7 +4,7 @@ title: Fireside BlackSpecReport Response
 author: Inda Lauyrn
 editor: Tanya DePass
 date: 2018-08-13 01:00:01 -0500
-category: essay
+category: "#Blackspecfic"
 permalink: fireside-blackspecreport-response
 published: false
 teaser: "As my network of writers continues to grow, this lack of representation of Black writers appears more by design than objective editorial decisions."
