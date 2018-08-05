@@ -1,6 +1,6 @@
 ---
 layout: blackspecfic
-title: Three Years Into the #BlackSpecFic Report
+title: Three Years Into the &#35;BlackSpecFic Report
 author: Mikki Kendall
 editor: Tanya DePass
 date: 2018-08-10 01:00:01 -0500
@@ -10,14 +10,15 @@ published: false
 teaser: "Amongst all the very good morally and socially valuable reasons to be more inclusive, perhaps the conversation needs to shift to cover the most basic fundamental facts of business"
 author-img: author-name.jpg
 author-bio: |
-  Mikki Kendall has written for The Washington Post, Boston Globe, Time, Ebony, Essence, and other online and print markets. She has been published in several anthologies, both fiction and nonfiction. She edited the Locus nominated anthology Hidden Youth with Chesya Burke, and was part of the Hugo nominated team of editors at Fireside Magazine. Born and raised in Chicago, her books Hood Feminism and Amazons, Abolitionists, and Activists: A Graphic History of Women's Fight For their Rights will be published by Penguin Random House in 2019.
+  Mikki Kendall has written for *The Washington Post*, *The Boston Globe*, *Time*, *Ebony*, *Essence*, and other online and print markets. She has been published in several anthologies, both fiction and nonfiction. She edited the *Locus* nominated anthology *Hidden Youth* with Chesya Burke, and was part of the Hugo nominated team of editors at *Fireside Magazine*. Born and raised in Chicago, her books *Hood Feminism* and *Amazons, Abolitionists, and Activists: A Graphic History of Women's Fight For their Rights* will be published by Penguin Random House in 2019.
 proofread: false
 ---
 
 We’re three years into the #BlackSpecFic report and honestly? Let’s talk about the business of genre. Every few years we hear that traditional publishing is an industry in danger, that people simply don’t read like they used to, and the reasons for that always include movies, video games and comic books. What gets ignored is that there is greater diversity in those genres. That you can see people who look like you on the screen and behind it. Despite the tendency to think diversity is a majority white setting with one or two POC who get to speak, the reality is that diversity looks less like tokenization and more like whole communities being represented at every level. The conversations around this topic are often riddled with tropes about Social Justice Warriors being too politically correct. Those tropes are easy to embrace for some because they don’t want to ask themselves why they find the stories that resonate in other genres so threatening in this one.
 
 There isn’t a good reason for an all-white setting in fact or in fiction and let’s be honest, the dearth of voices of color isn’t an accident. While things have improved since the #BlackSpecFic project began, the sad fact is that a lot of the issue is the failure of editors to even solicit these stories. Whether the venue is Twitter or a convention, editors at many publications are failing to approach new writers. Or they are rejecting stories not based on quality but on familiarity. There’s a lack of cultural competence becoming more obvious in speculative fiction publishing.
-When the response to this report is “Well no one can make people submit stories” I’m going to ask, we should all be asking, what is being done to make submitting a story seem worth it.? If I know that I can take the same story line and turn it into a graphic novel and have a better chance of being published do I keep tilting at the windmill of traditional prose, or do I move along to a genre that appreciates my talent?
+
+When the response to this report is "Well no one can make people submit stories" I’m going to ask, we should all be asking, what is being done to make submitting a story seem worth it.? If I know that I can take the same story line and turn it into a graphic novel and have a better chance of being published do I keep tilting at the windmill of traditional prose, or do I move along to a genre that appreciates my talent?
 
 And I don’t ask that question solely as a writer and editor, I ask it as a fan. Far too much of what gets published in speculative fiction outlets feels like the same old things sloppily rearranged and republished. If I know as a fan that I can find characters that look like me, cultures that reflect mine, and creators that look like me in another genre how much money do I spend on this genre? How much time and attention do I give it? The answer is as obvious as the success of Black Panther and so many other media properties that incorporate and celebrate the African diaspora.
 
