@@ -1,11 +1,11 @@
 ---
 layout:  blackspecfic
-title: Fireside BlackSpecReport Response
+title: Fireside &#35;BlackSpecFic Report Response
 author: Inda Lauyrn
 editor: Tanya DePass
 date: 2018-08-13 01:00:01 -0500
 category: "#Blackspecfic"
-permalink: fireside-blackspecreport-response
+permalink: fireside-blackspecfic-report-response
 published: false
 teaser: "As my network of writers continues to grow, this lack of representation of Black writers appears more by design than objective editorial decisions."
 author-img: inda-lauryn.jpg
