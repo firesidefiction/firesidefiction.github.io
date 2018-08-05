@@ -8,7 +8,7 @@ category: "#Blackspecfic"
 permalink: three-years-into-the-blackspecfic-report
 published: false
 teaser: "Amongst all the very good morally and socially valuable reasons to be more inclusive, perhaps the conversation needs to shift to cover the most basic fundamental facts of business"
-author-img: author-name.jpg
+author-img: mikki-kendall.jpg
 author-bio: |
   Mikki Kendall has written for *The Washington Post*, *The Boston Globe*, *Time*, *Ebony*, *Essence*, and other online and print markets. She has been published in several anthologies, both fiction and nonfiction. She edited the *Locus* nominated anthology *Hidden Youth* with Chesya Burke, and was part of the Hugo nominated team of editors at *Fireside Magazine*. Born and raised in Chicago, her books *Hood Feminism* and *Amazons, Abolitionists, and Activists: A Graphic History of Women's Fight For their Rights* will be published by Penguin Random House in 2019.
 proofread: false

@@ -8,7 +8,7 @@ category: "#Blackspecfic"
 permalink: more-than-numbers
 published: false
 teaser: "Maximum results = a stream of great stories by a diverse group of authors so steady and comfortable we don't have to count the numbers. "
-author-img: author-name.jpg
+author-img: khaalidah-muhammad-ali.jpg
 author-bio: |
   Khaalidah Muhammad-Ali lives in Houston, Texas, with her family. By day she works as a breast oncology nurse. At all other times, she juggles, none too successfully, the multiple other facets of her very busy life.
   Khaalidah’s publications include *Strange Horizons*, *Fiyah Magazine*, *Diabolical Plots* and others. Her fiction has been featured in "The Best Science Fiction and Fantasy of the Year&#58; Volume 12" edited by Jonathan Strahan and "The Best Science Fiction of the Year&#58; Volume Three" edited by Neil Clarke. You can hear her narrations at any of the four *Escape Artists* podcasts, *Far Fetched Fables*, and *Strange Horizons*.

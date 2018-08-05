@@ -8,7 +8,7 @@ category: "#Blackspecfic"
 permalink: on-gaming-fantastic-racism-and-real-world-bigotry
 published: false
 teaser: "Racism toward Black gamers and developers is just as tiring and it's time we stop pretending it isn't real.t"
-author-img: author-name.jpg
+author-img: latonya-pennington.jpg
 author-bio: |
   Latonya Pennington is a poet and freelance pop culture critic. Their freelance work can be found in places like *PRIDE*, *Wear Your Voice* magazine, *Black Sci-fi*, and more. As a poet, their work has been published in *FIYAH* magazine, *Argot* magazine, *The Scribes of Nyota* anthology, and *Linden Avenue* magazine, among others.
 proofread: false
