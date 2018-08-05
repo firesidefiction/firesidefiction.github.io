@@ -1,5 +1,5 @@
 ---
-layout: story | post | article | book | blackspecfic | story-serial
+layout:  blackspecfic
 title: Fireside BlackSpecReport Response
 author: Inda Lauyrn
 editor: Julia Rios
@@ -10,7 +10,7 @@ published: false
 teaser: "As my network of writers continues to grow, this lack of representation of Black writers appears more by design than objective editorial decisions."
 author-img: author-name.jpg
 author-bio: |
-Inda Lauryn hails from the South but made her way Midwest when she needed a change in her life and a new start to pursue her life’s true passion. She writes fiction in the mornings and works as an editor and writing tutor during the day. She is the co-host of the podcast Black Girl Squee and hosts a biweekly radio show called The Black Swan Collective on Mixcloud. She also produces and narrates a personal audio essay series Inda’s Corner also found on Mixcloud. You can also find her random thoughts on Twitter (@IndasCorner.) [http://www.twitter.com/IndasCorner]
+Inda Lauryn hails from the South but made her way Midwest when she needed a change in her life and a new start to pursue her life’s true passion. She writes fiction in the mornings and works as an editor and writing tutor during the day. She is the co-host of the podcast Black Girl Squee and hosts a biweekly radio show called The Black Swan Collective on Mixcloud. She also produces and narrates a personal audio essay series Inda’s Corner also found on Mixcloud. You can also find her random thoughts on Twitter [@IndasCorner]. (http://www.twitter.com/IndasCorner)
 proofread: false
 ---
 
@@ -22,7 +22,7 @@ As much as I loved science fiction, fantasy, and other speculative genres, I was
 
 But even with those anthologies, I don’t recall heavily reading speculative fiction during my 20s, not even after I found and was blown away by Octavia Butler’s *Kindred* in the early 2000s. The only other work that comes to mind around this time is Walter Mosley’s *Blue Light*. I might say I didn’t truly find authors with whom I would connect until after I got involved in WisCon in 2011. But even then, I noticed that the kinds of authors I like, especially since I tend to skew heavily toward Black women, were still few and far between.
 
-However, when looking at *Fireside’s* #BlackSpecFic Report for this year, I was surprised at how abysmally low the number of black women seemed. I peruse lit mags almost every day looking for submission opportunities and have built a respectable list of go to's, particularly the publications that include podcasts with their publications. However, even with the pubs that make calls that specifically ask or “diverse" writers, I often wonder how much of that call is just lip service, a way to say “well, we tried” when they still can’t find the type of “diversity” they looked for, that diversity that presents no real challenge to whiteness and the narratives familiar to them that center this white gaze and experience.
+However, when looking at *Fireside’s* #BlackSpecFic Report for this year, I was surprised at how abysmally low the number of black women seemed. I peruse lit mags almost every day looking for submission opportunities and have built a respectable list of go to's, particularly the publications that include podcasts with their publications. However, even with the pubs that make calls that specifically ask or  "diverse" writers, I often wonder how much of that call is just lip service, a way to say “well, we tried” when they still can’t find the type of “diversity” they looked for, that diversity that presents no real challenge to whiteness and the narratives familiar to them that center this white gaze and experience.
 
 What’s even sadder to me is that the hike in the numbers comes because one speculative lit magazine was made exclusively for Black writers, *Fiyah*. Seeing these numbers makes the harassment and hatred the outlet gets for being “exclusive" almost laughable. And with the launch of *Nightlight* podcast, I hope the numbers grow, but I very much doubt that it alone will do enough to fill the gap in representation that still exists.
 
@@ -34,6 +34,6 @@ On my part, I know I should keep working at it, keep submitting even with the fe
 
 And, of course, I think of ways to support publications that consistently provide a space for Black speculative writers. Perhaps they will not all be publications such as *Fiyah* and *Nightlight* meant to showcase Black writers specifically. But they do explicitly state that they want more ” diverse”  representation. However, it is also important to look into these pubs to make sure they actually follow through. As for the publications themselves, I hope that more of them provide paying markets for Black writers. Beginning a publication, zine, or other outlet may be a labor of love, but Black writers are among the most underpaid and exploited in many professions. Economic barriers such as submission fees and low - and no-paying publications may deter many of us from even giving a publication a second look. Seriously, pay writers for their work and pay them on time.
 
-*Fireside’s* #BlackSpecFic gives a snapshot of the obstacles that still persist for Black writers. In many ways, the industry has been unwilling to do the work it takes to create a truly more equal playing field for marginalized writers.
+*Fireside’s*      #BlackSpecFic gives a snapshot of the obstacles that still persist for Black writers. In many ways, the industry has been unwilling to do the work it takes to create a truly more equal playing field for marginalized writers.
 
 I’m grateful for the Black writers in speculative fiction whose work I’ve had the chance to enjoy these past few years. Finding Black writers has made all the difference in the world when it comes to my interesting in reading speculative fiction. But when we have to overcome so many hurdles to even have our work seen, we don’t get the chance to reach those who would most appreciate what we have to offer.
