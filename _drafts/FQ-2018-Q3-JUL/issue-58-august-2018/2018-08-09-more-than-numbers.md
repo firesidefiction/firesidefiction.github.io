@@ -7,18 +7,18 @@ date: 2018-08-09 01:00:01 -0500
 category: "#Blackspecfic"
 permalink: more-than-numbers
 published: false
-teaser: "Maximum results = a stream of great stories by a diverse group of authors so steady and comfortable we don't have to count the numbers. "
+teaser: "Maximum results = a stream of great stories by a diverse group of authors so steady and comfortable we don't have to count the numbers."
 author-img: khaalidah-muhammad-ali.jpg
 author-bio: |
   Khaalidah Muhammad-Ali lives in Houston, Texas, with her family. By day she works as a breast oncology nurse. At all other times, she juggles, none too successfully, the multiple other facets of her very busy life.
   Khaalidah’s publications include *Strange Horizons*, *Fiyah Magazine*, *Diabolical Plots* and others. Her fiction has been featured in "The Best Science Fiction and Fantasy of the Year&#58; Volume 12" edited by Jonathan Strahan and "The Best Science Fiction of the Year&#58; Volume Three" edited by Neil Clarke. You can hear her narrations at any of the four *Escape Artists* podcasts, *Far Fetched Fables*, and *Strange Horizons*.
   As co-editor of *PodCastle* audio magazine, Khaalidah is committed to encouraging more women and POC to submit fantasy stories.
   Of her alter ego, K from the planet Vega, it is rumored that she owns a time machine and knows the secret to immortality.
-  She can be found online at [khaalidah.com.http] (http://khaalidah.com)
-proofread: false
+  She can be found online at [khaalidah.com.http](http://khaalidah.com)
+proofread: true
 ---
 
-Genre fiction’s lack of diversity has never been a secret to those of us with eyes to see and those of us who cared to see a change. By showing us the actual numbers, the 2016 #BlackSpecFic report did something remarkable for genre fiction. First, it proved that the numbers were worse than we ever imagined. Second, it challenged us to make actionable changes to improve those numbers. *PodCastle* and the entire *Escape Artists* organization (*PodCastle*, *Escape Pod*, *PseudoPod*, and *Cast of Wonders*) has taken that call to action seriously. *Escape Artists* has created the Lowering the Barriers Group dedicated specifically to doing just that.
+Genre fiction’s lack of diversity has never been a secret to those of us with eyes to see and those of us who cared to see a change. By showing us the actual numbers, the [2016 #BlackSpecFic](https://firesidefiction.com/blackspecfic-2016) report did something remarkable for genre fiction. First, it proved that the numbers were worse than we ever imagined. Second, it challenged us to make actionable changes to improve those numbers. *PodCastle* and the entire *Escape Artists* organization (*PodCastle*, *Escape Pod*, *PseudoPod*, and *Cast of Wonders*) has taken that call to action seriously. *Escape Artists* has created the Lowering the Barriers Group dedicated specifically to doing just that.
 
 As for the efforts of *PodCastle*, let’s begin by looking at the numbers, shall we? In 2017, *PodCastle* printed and podcasted about sixty-one stories. Over 8%, or five of those stories, were by black authors. Three of those five stories were reprints and at least two were by newer authors.
 
