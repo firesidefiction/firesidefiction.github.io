@@ -10,11 +10,11 @@ published: false
 teaser: "Maximum results = a stream of great stories by a diverse group of authors so steady and comfortable we don't have to count the numbers."
 author-img: khaalidah-muhammad-ali.jpg
 author-bio: |
-  Khaalidah Muhammad-Ali lives in Houston, Texas, with her family. By day she works as a breast oncology nurse. At all other times, she juggles, none too successfully, the multiple other facets of her very busy life.
-  Khaalidah’s publications include *Strange Horizons*, *Fiyah Magazine*, *Diabolical Plots* and others. Her fiction has been featured in "The Best Science Fiction and Fantasy of the Year&#58; Volume 12" edited by Jonathan Strahan and "The Best Science Fiction of the Year&#58; Volume Three" edited by Neil Clarke. You can hear her narrations at any of the four *Escape Artists* podcasts, *Far Fetched Fables*, and *Strange Horizons*.
+  Khaalidah Muhammad-Ali’s publications include *Strange Horizons*, *Fiyah Magazine*, *Diabolical Plots* and others. Her fiction has been featured in “The Best Science Fiction and Fantasy of the Year: Volume 12” edited by Jonathan Strahan and “The Best Science Fiction of the Year: Volume Three” edited by Neil Clarke. You can hear her narrations at any of the four *Escape Artists* podcasts, *Far Fetched Fables*, and *Strange Horizons*.
   As co-editor of *PodCastle* audio magazine, Khaalidah is committed to encouraging more women and POC to submit fantasy stories.
-  Of her alter ego, K from the planet Vega, it is rumored that she owns a time machine and knows the secret to immortality.
-  She can be found online at [khaalidah.com.http](http://khaalidah.com)
+  Khaalidah is also a proud World Fantasy Award nominee for her work at *PodCastle*.
+  Of her alter ego, K from the planet Vega, it is rumored that she owns a time machine and knows the secret to immortality. 
+  She can be found online at [khaalidah.com](http://khaalidah.com).
 proofread: true
 ---
 
