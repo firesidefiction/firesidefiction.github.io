@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-08-07 01:00:01 -0500
 category: short story
 permalink: the-unusual-customer
-published: false
+published: true
 teaser: "The Invisible Customer is not really invisible-invisible. I can see him or, as he puts it, he has chosen me to see him, for now."
 author-img: innocent-chizaram-ilo.jpg
 author-bio: |
@@ -38,7 +38,7 @@ I have learnt to stop asking about Papa. A slight shrug of my shoulder and a qui
 
 **III**
 
-My mother starts her day after the clatter of the night-soil-men’s pails dies down. The crik-crik of her iron bed bounces off the walls and wakes the whole house. She will wash her face with cow pee and rinse it with a bowl of water she fetched from the river. On some days, usually at the beginning of every month, she walks to River Bambu's bank with her back turned. This is a good luck ritual she started some years back after Anyaire, the village seer, told her that the other restaurant owners were using juju to steal her customers. Mama’s feet pound the floor like pestles as she walks along the tiny passage leading to my room.
+My mother starts her day after the clatter of the night-soil-men’s pails dies down. The crik-crik of her iron bed bounces off the walls and wakes the whole house. She will wash her face with cow pee and rinse it with a bowl of water she fetched from the river. On some days, usually at the beginning of every month, she walks to River Bambu's bank with her back turned. This is a good luck ritual she started some years back after Anyaire, the village seer, told her that the other restaurant owners were using juju to steal her customers.Mama’s feet pound the floor like pestles as she walks along the tiny passage leading to my room.
 
 “Adaku. Adaku. What type of daughter continues sleeping when her mother is awake?” Mama will say and give my shoulder a slight nudge. I will turn my face away from Mama’s scowl, stretch my arms, and continue to sleep. After three more attempts, Mama will snatch away the pillow my head is resting on and shout, “I know you are awake. You better stand up or you’ll starve throughout today.”
 
