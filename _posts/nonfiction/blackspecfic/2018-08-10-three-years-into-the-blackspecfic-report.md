@@ -1,6 +1,6 @@
 ---
 layout: blackspecfic
-title: Three Years Into the &#35;BlackSpecFic Report
+title: "Three Years Into the #BlackSpecFic Report"
 author: Mikki Kendall
 editor: Tanya DePass
 date: 2018-08-10 01:00:01 -0500

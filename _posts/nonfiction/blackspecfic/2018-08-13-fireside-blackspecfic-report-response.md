@@ -1,6 +1,6 @@
 ---
 layout:  blackspecfic
-title: Fireside &#35;BlackSpecFic Report Response
+title: "Fireside #BlackSpecFic Report Response"
 author: Inda Lauyrn
 editor: Tanya DePass
 date: 2018-08-13 01:00:01 -0500
