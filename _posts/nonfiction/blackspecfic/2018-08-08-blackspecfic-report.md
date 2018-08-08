@@ -6,7 +6,9 @@ date: 2018-08-08 00:01:00 -0500
 category: "#Blackspecfic"
 permalink: /blackspecfic-2017
 teaser: "Since 2015, the #BlackSpecFic Report and other projects have raised consciousness about Black underrepresentation in the speculative fiction short story field, and 2017 marks the first year that measurable improvements could have resulted from these collective efforts — we now have a three-year trajectory to compare."
-published: false
+author-bio: |
+  Cecily Kane writes about genre fiction. She can be found on her blog and on Twitter.
+published: true
 ---
 
 > The data that the #BlackSpecFic Report is based on is [in this spreadsheet](https://docs.google.com/spreadsheets/d/1gmynxRBBmOiMLYqn7Mli2mIrlR_7rPC6VuHiEm8CGXg/edit?usp=sharing).
