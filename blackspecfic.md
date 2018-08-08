@@ -8,6 +8,11 @@ Since 2016 Fireside has been commissioning a Report on the state of representati
 
 ----
 
+## 2017
+
+### [_The 2017 #BlackSpecFic Report_](/blackspecfic-2017)
+by Cecily Kane
+
 ## 2016
 
 ### [_The 2016 #BlackSpecFic Report_](/blackspecfic-2016)
