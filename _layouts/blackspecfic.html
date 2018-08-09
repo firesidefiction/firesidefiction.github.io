@@ -10,7 +10,12 @@ layout: default
     {% if page.author %}<h2>By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
     <p>{% if page.editor %}Edited by {{ page.editor }}</p>{% endif %}
   </header>
-
+  {% if page.contentnote %}
+    <div class="contentnote">
+      <h4>Note:</h4>
+      <p>{{ page.contentnote  | markdownify }}</p>
+    </div>
+  {% endif %}
   <div>
     {{ content }}
 

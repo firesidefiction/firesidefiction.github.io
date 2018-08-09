@@ -9,9 +9,8 @@ teaser: "Since 2015, the #BlackSpecFic Report and other projects have raised con
 author-bio: |
   Cecily Kane writes about genre fiction. She can be found on her blog and on Twitter.
 published: true
+contentnote: "The data for the #BlackSpecFic Report is [in this spreadsheet](https://docs.google.com/spreadsheets/d/1gmynxRBBmOiMLYqn7Mli2mIrlR_7rPC6VuHiEm8CGXg/edit?usp=sharing). It is based on self-reported public information; there are always a few writers for which not enough information is locatable. Black writers who don't publicly self-identify or don't have established social media presences are welcome to contact us at [BlackSpecFicReport@gmail.com](mailto:BlackSpecFicReport@gmail.com) for inclusion of their stories in this count."
 ---
-
-> The data that the #BlackSpecFic Report is based on is [in this spreadsheet](https://docs.google.com/spreadsheets/d/1gmynxRBBmOiMLYqn7Mli2mIrlR_7rPC6VuHiEm8CGXg/edit?usp=sharing).
 
 The BlackSpecFic Report began a few years ago, when we[^1] noticed that speculative fiction publications dramatically underrepresented Black writers[^2]. Our [2015 and 2016 investigations](https://firesidefiction.com/blackspecfic) yielded extremely troubling information: Black authors had written only about 2% and 3% of those respective years' published stories. Meanwhile, approximately 13% of the U.S. population[^3] is Black. Such dramatic underrepresentation can't be mathematically explained by random factors.
 
