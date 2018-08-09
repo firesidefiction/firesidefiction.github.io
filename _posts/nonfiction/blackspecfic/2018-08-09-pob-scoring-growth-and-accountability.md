@@ -11,7 +11,7 @@ reports, it became clear that the creation and implementation of such a
 thing would fall to us."
 author-bio: |
   L. D. Lewis is a medic, writer of fantasy and Art Director for FIYAH Literary Magazine. Find her on Twitter @ellethevillain.
-published: false
+published: true
 ---
 
 \#BlackSpecFic is back for your fleeting attention but with better news this time!
