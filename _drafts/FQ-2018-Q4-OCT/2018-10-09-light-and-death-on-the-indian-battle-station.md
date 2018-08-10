@@ -150,7 +150,7 @@ I dashed out of the Obs Deck and headed straight for the Recovery Room. They wou
 
 Mom looked puzzled. "After my great-aunt. She was a wonderful person."
 
-"What about the legend of Savitri?" Mom shook her head. Honestly, wasn't it mothers who were supposed to pass on the stories? In my house, I had to read it for myself. At least she’d got us all the mythology comics online.
+"What about the legend of Savitri?" Mom shook her head. Honestly, wasn't it mothers who were supposed to pass on the stories? In my house, I had to read them for myself. At least she’d got us all the mythology comics online.
 
 "The Princess Savitri followed Lord Yama and got her husband’s soul back. If she could do it for him, I can do it for my little sister."
 
