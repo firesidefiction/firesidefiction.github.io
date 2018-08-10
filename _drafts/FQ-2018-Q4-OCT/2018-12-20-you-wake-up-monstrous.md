@@ -14,8 +14,7 @@ author-bio: |
 proofread: true
 ---
 
-You Wake Up Monstrous
-A few thoughts on Transformation and Disability in Body Horror Media
+## A Few Thoughts on Transformation and Disability in Body Horror Media
 
 
 *You wake up ….
@@ -61,7 +60,7 @@ Where Lynch uses disability as a window on the human condition, other media go t
 
 In all of these examples, whether for purposes of gaining understanding or exploitation, the horror each deals with is that of losing senses, autonomy, agency, form, and recognizable attributes in all the “right” proportions.
 
-Disability used in these ways is among my least favorite metaphors for fear. 
+Disability used in these ways is among my least favorite metaphors for fear.
 
 Least favorite because it is a weak, impersonal metaphor. It is a third-person fear, happening to someone else, that instills the feeling. It is a fear of difference, of change and loss. It’s not a grinding fear of the everyday, every time you wake up.
 

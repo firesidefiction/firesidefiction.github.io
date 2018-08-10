@@ -49,15 +49,11 @@ As Dr. Williams rinses plates, he looks through the water-streaked kitchen windo
 
 Now some windows are bright, now others. A slow dance of yellow squares on and off like signal fires, like Morse code, like the winks of subtle flirtation. What does it mean? An invitation? A pleasant family dinner? An SOS?
 
-“Help!”
-
-He has learned not to let the distraught voices of damsels in distress—the ghosts his grief throws at him—derail his thoughts.
+“Help!” He has learned not to let the distraught voices of damsels in distress—the ghosts his grief throws at him—derail his thoughts.
 
 He glares across layered clumps of fog like so much prefrontal gray matter and realizes he can never know. The house looks just like every other house in the neighborhood—just like this house. Unless it cleaves open to confess its inner spaces, he can never know how deep is its basement; how alike, or unalike, are the lives within.
 
-“Daddy!”
-
-He imagines the cries of little Maddie. In his mind’s eye an image coalesces unbidden; the girl screams for her father from the inside of a coffin.
+“Daddy!” He imagines the cries of little Maddie. In his mind’s eye an image coalesces unbidden; the girl screams for her father from the inside of a coffin.
 
 The house stands in profile, exposing the innocent, familiar brick of its western face, coils of vapor hanging lazily about the shingles like amorphous bangs, twirled gently in fingers of breeze, so coy, so openly showing him absolutely nothing of the inner life behind those eye-like windows, those opaque windows, those one-way, outward-facing windows—the windows are mirrors reflecting back the same house the same life the same face the same thoughts but what is a mirror except an image familiar and comforting to the viewer because it is made by the viewer but nothing behind it no depth no dimension nothing behind the perfect illusion so if the mirror shatters-
 
@@ -67,12 +63,8 @@ A shout too visceral to be spectral. Scalding steam is rising from the sink in w
 
 “Dad! Look! Please help!”
 
-He turns slowly and through fogged glasses sees his boy bleeding on the kitchen floor, the ceramic table vase in pieces around his bare feet. His daughter is now lifting his son, struggling with the squirming cinder block weight. His son is screaming, which means pain. Like the pain in his own hands, the scalding.
+He turns slowly and through fogged glasses sees his boy bleeding on the kitchen floor, the ceramic table vase in pieces around his bare feet. His daughter is now lifting his son, struggling with the squirming cinder block weight. His son is screaming, which means pain. Like the pain in his own hands, the scalding. “DO SOMETHING!”
 
-“DO SOMETHING!”
-
-Pain requires treatment. He walks to the medicine cabinet, still slowly because that seems to be the speed of the world now. His world. He thinks he might be dead. He thinks he might be alive. There is a note of truth to each thought. He opens the cabinet in dazed ambiguity, stares at labels through fog.
-
-“WIPE YOUR GLASSES!”
+Pain requires treatment. He walks to the medicine cabinet, still slowly because that seems to be the speed of the world now. His world. He thinks he might be dead. He thinks he might be alive. There is a note of truth to each thought. He opens the cabinet in dazed ambiguity, stares at labels through fog. “WIPE YOUR GLASSES!”
 
 He wipes his glasses and can read clearly. Grabs peroxide, Neosporin, Band-Aids. Turns to see his daughter running toward him in her impatience, stumbling after several awkward steps, his two children falling together in front of him, now crying together. And this all seems like a dream. His dream. He is a dreamer awakened to the fact that he is dreaming, only to realize he must go on dreaming or perish. He bends down to go through the motions in the midst of his unbelief. Cleaning, dabbing, soothing. Then, hesitating for one more instant as he meets his daughter’s confused, accusing eyes, wonders if those shimmering wet surfaces are windows. But all he can see in them is himself.

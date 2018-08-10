@@ -3,11 +3,11 @@ layout: blackspecfic
 title: "Three Years Into the #BlackSpecFic Report"
 author: Mikki Kendall
 editor: Tanya DePass
-date: 2018-08-10 01:00:01 -0500
+date: 2018-08-13 01:00:01 -0500
 category: "#Blackspecfic"
 permalink: three-years-into-the-blackspecfic-report
 published: false
-teaser: "Amongst all the very good morally and socially valuable reasons to be more inclusive, perhaps the conversation needs to shift to cover the most basic fundamental facts of business"
+teaser: "Amongst all the very good morally and socially valuable reasons to be more inclusive, perhaps the conversation needs to shift to cover the most basic fundamental facts of business."
 author-img: mikki-kendall.jpg
 author-bio: |
   Mikki Kendall has written for *The Washington Post*, *The Boston Globe*, *Time*, *Ebony*, *Essence*, and other online and print markets. She has been published in several anthologies, both fiction and nonfiction. She edited the *Locus* nominated anthology *Hidden Youth* with Chesya Burke, and was part of the Hugo nominated team of editors at *Fireside Magazine*. Born and raised in Chicago, her books *Hood Feminism* and *Amazons, Abolitionists, and Activists: A Graphic History of Women's Fight For their Rights* will be published by Penguin Random House in 2019.

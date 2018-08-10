@@ -64,7 +64,7 @@ She didn't answer right away, so I motioned towards the various selections on th
 
 "Interesting handwriting," she said, and I blushed.
 
-"We carry almost every model imaginable," I said, trying to mold my voice as smooth as the surface of handcrafted stone. "Hearts that will beat forever—this is our best seller—hearts that resist stress, hearts that never falter, that detect lies, even ones that can be deactivated at the push of a button." I raised my hand to a shelf of hearts encased in soundproof Plexiglas. "And these over there—hearts that speak, hearts that sing." I turned and looked her straight in the eyes. "Anything you want."
+"We carry almost every model imaginable," I said, trying to mould my voice as smooth as the surface of handcrafted stone. "Hearts that will beat forever—this is our best seller—hearts that resist stress, hearts that never falter, that detect lies, even ones that can be deactivated at the push of a button." I raised my hand to a shelf of hearts encased in soundproof Plexiglas. "And these over there—hearts that speak, hearts that sing." I turned and looked her straight in the eyes. "Anything you want."
 
 She tilted back her head and rubbed her throat. "I want a heart that doesn't love the man I love anymore," she said. Her face hardened, something dark passing over her.
 

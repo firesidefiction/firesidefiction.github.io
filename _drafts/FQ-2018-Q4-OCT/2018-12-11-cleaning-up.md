@@ -22,7 +22,7 @@ The janitor banged all bar one of the toilet cubicle doors.
 
 The cat regarded the man, whose blue turban and grey beard contrasted with his brown work coat, before blinking and yawning.
 
-Mr. Bhansal shook his head. "I know I go on about it a lot, but you don't have to clean up after them. Anyway, that's it. Almost past nine now. Best get this done before we have to lock up." He pushed his trolley with its mop, bucket, and cleaning fluids into the toilets, tutting at some toilet roll scattered on the floor.
+Mr. Bhansal shook his head. "I know I go on about it a lot, but you don't have to clean up after them. Anyway, that's it. Almost past nine now, best get this done before we have to lock up." He pushed his trolley with its mop, bucket, and cleaning fluids into the toilets, tutting at some toilet roll scattered on the floor.
 
 The cat blinked slowly, turned, and headed for the back doors.
 
@@ -52,7 +52,7 @@ The janitor banged all bar one of the toilet cubicle doors.
 
 A cloud passed across the librarian’s eyes. "Not good. They want to reduce the headcount again. It'll be a shame to lose anyone, but it's the fact they've been stringing me along for months saying I would soon be able to get a replacement for Special Collections that really gets my goat. I doubt anyone but you has been up there in a year now."
 
-A knowing smile twitched the janitor’s beard. "The odd one. I'm sure the university will see sense. You can't have a university without books, and you really can't have books without librarians."
+A knowing smile twitched the janitor’s beard. "The odd one. I'm sure the university will see sense, you can't have a university without books, and you really can't have books without librarians."
 
 Mrs. Harris stepped outside and gave the janitor a worried smile. “I do hope you’re right. Well, good night.” She gave a wee wave and walked away down the street.
 
@@ -72,7 +72,7 @@ Mr Bhansal sighed. "Alright, I'm sorry. You have brought me useful information a
 
 "I bought new treat biscuits today."
 
-The cat's ears perked up. "I resent the accusation that I may be open to bribery. I think I'll take myself away from such slander. Probably up to the Special Collections floor, where I'm sure it will be quieter and I can get peace for a nap."
+The cat's ears perked up. "I resent the accusation that I may be open to bribery. I think I'll take myself away from such slander, probably up to the Special Collections floor, where I'm sure it will be quieter and I can get peace for a nap."
 
 Mr. Bhansal smiled. "Thank you. I’ll be there shortly."
 
@@ -88,13 +88,11 @@ Mr Bhansal sighed. "Alright, I'm sorry. You have brought me useful information a
 
 A very un-cat-like expression of embarrassment flitted across the cat's face. "I've told you before, we don't want to go into that. The less your puny human brain knows, the better for it. Anyway, to no-one’s surprise, they’re trying the same as always. What horny student would skip past a Lust Demon?"
 
-Mr. Bhansal nodded. "It's a sad indictment of the modern young man that when they have a whole panoply of demons, sprites, and goblins to choose from, and almost unlimited power to call on, they all fall for the first and most obvious trap." He leaned over his mop bucket and muttered a few words of Punjabi, then took the mop in two hands and twisted the handle, pulling a thin sword from inside. "Well, shall we?"
+Mr. Bhansal nodded. "It's a sad indictment of the modern young man that when they have a whole panoply of demons, sprites, and goblins to choose from, and almost unlimited power to call on, they all fall for the first and most obvious trap." He leaned over his mop bucket and muttered a few words of Punjabi and then took the mop in two hands and twisted the handle, pulling a thin sword from inside. "Well, shall we?"
 
 The cat yawned once more, stretched out to its full length for a second, and sauntered along the corridor and round the corner. Mr. Bhansal took a firm grip on his sword and his trolley and watched through the small window in the door. Four students, all of them in expensively distressed clothes that indicated rich parents and a sense of entitlement, had drawn a basic circle and pentagram on the floor in chalk. There were gaps at several points, meaning the circle would be as useful as a chocolate fireguard at protecting them from what they were summoning. Mr. Bhansal had often remarked that it was a strange and very annoying quirk of magic that a circle of protection had to be smooth and unbroken, but the summoning pentagram could be scrappy and unconnected. The only reply the cat ever gave to this was to snort and refer to 'puny human brains', which Mr. Bhansal never felt was a fair answer.
 
-The boys stood round the circle, passing a bottle of whisky between them, while the tallest of them read from a leather-bound tome. Mr. Bhansal had asked the previous Special Collections librarian to get it re-covered with something less attractive to stupid students, but he'd resigned due to seeing one thing too many before he got around to it. The words the student read out were barely intelligible, an ancient language being mangled in the way only a private school accent can, but they were enough, along with the rough markings on the floor, to kickstart the power. This manifested as a pale, reddish light that suffused the room, brighter in the center of the circle but not appearing to come from there. The shelves of books that ran away from the central space where they had drawn the circle all glowed, some more than others. The religious texts, slaved over by monks for decades, glowed lightly while the section on magic alternated between the genuine books, glowing brightly, and the fakes that barely registered. At the far end of the stacks were the tax records, so stultifyingly boring that they appeared to suck in the light like parchment black holes.
-
-Mr. Bhansal tightened his grip on the sword and muttered to himself. "Hurry up, you mangy cat, they've nearly finished. It's not like you're even an actual cat, you just look like one. You surely don't have to act so typically catlike."
+The boys stood round the circle, passing a bottle of whisky between them, while the tallest of them read from a leather-bound tome. Mr. Bhansal had asked the previous Special Collections librarian to get it re-covered with something less attractive to stupid students, but he'd resigned due to seeing one thing too many before he got around to it. The words the student read out were barely intelligible, an ancient language being mangled in the way only a private school accent can, but they were enough, along with the rough markings on the floor, to kickstart the power. This manifested as a pale, reddish light that suffused the room, brighter in the center of the circle but not appearing to come from there. The shelves of books that ran away from the central space where they had drawn the circle all glowed, some more than others. The religious texts, slaved over by monks for decades, glowed lightly while the section on magic alternated between the genuine books, glowing brightly, and the fakes that barely registered. At the far end of the stacks were the tax records, so stultifyingly boring that they appeared to suck in the light like parchment black holes. Mr. Bhansal tightened his grip on the sword and muttered to himself. "Hurry up, you mangy cat, they've nearly finished. It's not like you're even an actual cat, you just look like one. You surely don't have to act so typically catlike."
 
 Little flicks of light began to dance across the bookshelves in the room and the air developed an oily tang. Mr. Bhansal repeated his incantation over the mop bucket, staring into the water and willing his meagre power into it, and so almost missed the cat's arrival. He looked up just in time to see its tail curl round the door on the far side and disappear behind a shelf. Then it yowled.
 
@@ -106,13 +104,13 @@ Mr. Bhansal tightened his grip on the sword and muttered to himself. "Hurry up, 
 
 "I've seen mice braver than that. Is it milk time yet?"
 
-"Just got to tidy this up first and earth the energy. They got very close to completing, this time, and... Oh." Mr. Bhansal took a step back towards the door he had come in by as the red light in the center of the circle pulsed. A blob of reddy-purple goo appeared out of nowhere and hit the floor. "If that stains, I'm going to be very angry."
+"Just got to tidy this up first and earth the energy. They got very close to completing, this time, and... Oh." Mr. Bhansal took a step back towards the door he had come in by as the red light in the centre of the circle pulsed and a blob of reddy-purple goo appeared out of nowhere and hit the floor. "If that stains, I'm going to be very angry."
 
 A second blob of goo appeared, dropping on to the first, and then a third. As each appeared the red glow increased, getting brighter but also deepening in its shade, moving closer to the colour of blood. Mr Bhansal stepped back towards his trolley as the cat arched its back and hissed at the growing pile of goo. It had the consistency of thick jelly and was beginning to hold a shape, the rough impression of cloven feet and ankles becoming visible.
 
 Mr. Bhansal picked up his mop bucket and readied himself. "I'd back away if I were you. This’ll be messy."
 
-The cat retreated, all the hair on its back standing straight up, as Mr. Bhansal took aim and threw the contents of his bucket over the growing, slimy object. As the water splashed across it, the old man turned away, screwing up his eyes and waiting for the expected wet explosion.
+The cat retreated, all the hair on its back standing straight up, as Mr. Bhansal took aim and threw the contents of his bucket over the growing, slimy object. As the water splashed across it, the old man turned away, screwing up his eyes and waited for the expected wet explosion.
 
 Which didn't come.
 

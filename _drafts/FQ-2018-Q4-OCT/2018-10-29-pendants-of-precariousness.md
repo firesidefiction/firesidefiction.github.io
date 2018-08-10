@@ -50,9 +50,7 @@ A shark tooth washes up on shore. Lustrous, polychromatic, it shines in rainbow 
 
 “Is it a gift from a previous lover?” says Ptatn. They wish to know about my relationship past, as if to gauge our relationship future.
 
-“I guess you could say that.”
-
-Their eyes turn away at my response. Is it anger? I have not yet learned to read their chemical-neurological states. My holobrochure for interunderstanding and dating gathers virtual dust. We test our interaction live.
+“I guess you could say that.” Their eyes turn away at my response. Is it anger? I have not yet learned to read their chemical-neurological states. My holobrochure for interunderstanding and dating gathers virtual dust. We test our interaction live.
 
 I return to my poutine. My fuel-cell spork jabs a cube of cell-cultured casein protein, ‘cheese’ curds over tuberous gencarbs, searing it to perfection.
 
@@ -98,9 +96,7 @@ Ptatn sits on my bed, taking up almost the whole frame. I steal a tiny corner.
 
 “Go make something of your life, loser.”
 
-“You know I’m the only one who stands by you. Everyone else is against you.”
-
-She pauses for dramatic effect and then finishes with: “You’re a failure.”
+“You know I’m the only one who stands by you. Everyone else is against you.” She pauses for dramatic effect and then finishes with: “You’re a failure.”
 
 The holographic broadcast pulls into its case and closes up.
 
@@ -108,7 +104,9 @@ She pauses for dramatic effect and then finishes with: “You’re a failure.”
 
 But Ptatn’s subdued voice is not as loud as my mom’s continuing in my ear. “You’re a terrible daughter.” “No one will ever love you.” “You’re pathetic.” I think of her toxic relationships, boyfriend after boyfriend, drunks and abusers. She projects them onto me.
 
-I say in hypnotic self-assurance, hoping to convince myself, “I court with danger on my chest to surmount them. Conquer them. It reminds me what I expose. I subjugate her to my beck and call. I have her weapon.”
+I say in hypnotic self-assurance, hoping to convince myself:
+
+“I court with danger on my chest to surmount them. Conquer them. It reminds me what I expose. I subjugate her to my beck and call. I have her weapon.”
 
 Ptatn seems satisfied with the answer and snuggles their face in my arms.
 

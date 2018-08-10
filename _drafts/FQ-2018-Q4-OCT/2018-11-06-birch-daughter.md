@@ -52,7 +52,7 @@ She had been gone so long. I had grown into a woman in those years. Would she ev
 
 The bear’s sharp teeth glinted in the sunlight. "To pay for the journey to the island, and as the price for your mother’s transformation, you will come to my court and serve as one of my summer-slaves."
 
-I nodded. I couldn’t do anything else, for this bear had done us a great favor. "What about my mother?"
+I nodded. I couldn’t do anything else, for this bear had done us a great favour. "What about my mother?"
 
 The bear growled again, a deep humming magic. "I’ve called the north wind to take her home." And indeed, the wind was blowing stronger than ever now.
 

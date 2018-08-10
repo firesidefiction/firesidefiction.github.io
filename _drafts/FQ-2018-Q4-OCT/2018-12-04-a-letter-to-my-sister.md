@@ -42,7 +42,7 @@ First, please extend my congratulations to Princess Fortuita on her pending nupt
 
 I am a fine specimen, as dragons go. I am strong, sleek, and my wings bow adequately upon my back. But in these moments, when his arms are around me, I wish that I could be a proper match for him. I have never thought myself ugly… but Cassa, I wait for him to call me so. I would not mind if he did. Against any fair princess, how could a knight think me otherwise?
 
-And yet, his eyes hold none of the revulsion and fury that I have come to expect from his kind. His gaze on me is so wondrous and hungry that I find myself in wonder of what treasure he has unearthed. And it is the funniest thing: he looks at me, and suddenly I do not care at all about my size, or my scales. I feel as grand and dazzling as the sun.
+And yet, his eyes hold none of the revulsion and fury that I have come to expect from his kind. His gaze on me is so wondrous and hungry that I find myself in wonder of what treasure he has unearthed. And it's the funniest thing: he looks at me, and suddenly I do not care at all about my size, or my scales. I feel as grand and dazzling as the sun.
 
 For all his grandiloquence, he is not a romantic. He has made no bold vows to me, no declarations of ever afters. He only asked that I go with him.
 
