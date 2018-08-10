@@ -6,7 +6,7 @@ editor: Tanya DePass
 date: 2018-08-10 01:00:01 -0500
 category: "#Blackspecfic"
 permalink: more-than-numbers
-published: false
+published: true
 teaser: "Maximum results = a stream of great stories by a diverse group of authors so steady and comfortable we don't have to count the numbers."
 author-img: khaalidah-muhammad-ali.jpg
 author-bio: |
