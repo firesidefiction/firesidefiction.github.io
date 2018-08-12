@@ -13,6 +13,12 @@ Since 2016 Fireside has been commissioning a Report on the state of representati
 ### [_The 2017 #BlackSpecFic Report_](/blackspecfic-2017)
 by Cecily Kane
 
+### [_POB Scoring: Growth and Accountability_](/pob-scoring-growth-and-accountability)
+by L. D. Lewis
+
+### [_More Than Numbers_](/more-than-numbers)
+by Khaalidah Muhammad-Ali
+
 ## 2016
 
 ### [_The 2016 #BlackSpecFic Report_](/blackspecfic-2016)
