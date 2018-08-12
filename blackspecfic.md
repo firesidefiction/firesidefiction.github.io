@@ -19,6 +19,8 @@ by L. D. Lewis
 ### [_More Than Numbers_](/more-than-numbers)
 by Khaalidah Muhammad-Ali
 
+----
+
 ## 2016
 
 ### [_The 2016 #BlackSpecFic Report_](/blackspecfic-2016)
@@ -50,7 +52,6 @@ by Thea James
 
 ### [_It's Up to Us_](/its-up-to-us)
 by Pablo Defendini
-
 
 ----
 
