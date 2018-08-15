@@ -3,7 +3,7 @@ layout: blackspecfic
 title: On Gaming, Fantastic Racism, &amp; Real World Bigotry
 author: Latonya Pennington
 editor: Tanya DePass
-date: 2018-08-15 01:00:01 -0500
+date: 2018-08-16 01:00:01 -0500
 category: "#Blackspecfic"
 permalink: on-gaming-fantastic-racism-and-real-world-bigotry
 published: false
