@@ -6,7 +6,7 @@ editor: Tanya DePass
 date: 2018-08-15 01:00:01 -0500
 category: "#Blackspecfic"
 permalink: fireside-blackspecfic-report-response
-published: false
+published: true
 teaser: "As my network of writers continues to grow, this lack of representation of Black writers appears more by design than objective editorial decisions."
 author-bio: |
   Inda Lauryn hails from the South but made her way Midwest when she needed a change in her life and a new start to pursue her life’s true passion. She writes fiction in the mornings and works as an editor and writing tutor during the day. She is the co-host of the podcast *Black Girl Squee* and hosts a biweekly radio show called *The Black Swan Collective* on Mixcloud. She also produces and narrates a personal audio essay series *Inda’s Corner* also found on Mixcloud. You can also find her random thoughts on Twitter [@IndasCorner]. (http://www.twitter.com/IndasCorner)
