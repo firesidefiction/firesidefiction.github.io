@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-08-21 01:00:01 -0500
 category: flash fiction
 permalink: by-stone-by-sea-by-flower-by-thorn
-published: false
+published: true
 teaser: "Here, the folk are as bony as their land, clawing meager patches of barley and gnarled carrots from the thin ground."
 author-img: sarah-goslee.jpg
 author-bio: |
