@@ -19,6 +19,15 @@ by L. D. Lewis
 ### [_More Than Numbers_](/more-than-numbers)
 by Khaalidah Muhammad-Ali
 
+### [_Three Years Into the #BlackSpecFic Report_](/three-years-into-the-blackspecfic-report)
+by Mikki Kendall
+
+### [_Fireside #BlackSpecFic Report Response_](/fireside-blackspecfic-report-response)
+by Inda Lauyrn
+
+### [_On Gaming, Fantastic Racism, & Real World Bigotry_](/on-gaming-fantastic-racism-and-real-world-bigotry)
+by Latonya Pennington
+
 ----
 
 ## 2016
