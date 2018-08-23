@@ -1,12 +1,12 @@
 ---
 layout: blackspecfic
-title: On Gaming, Fantastic Racism, &amp; Real World Bigotry
+title: On Gaming, Fantastic Racism, & Real World Bigotry
 author: Latonya Pennington
 editor: Tanya DePass
-date: 2018-08-15 01:00:01 -0500
+date: 2018-08-16 01:00:01 -0500
 category: "#Blackspecfic"
 permalink: on-gaming-fantastic-racism-and-real-world-bigotry
-published: false
+published: true
 teaser: "Racism toward Black gamers and developers is just as tiring and it's time we stop pretending it isn't real."
 author-img: latonya-pennington.jpg
 author-bio: |

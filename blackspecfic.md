@@ -13,6 +13,23 @@ Since 2016 Fireside has been commissioning a Report on the state of representati
 ### [_The 2017 #BlackSpecFic Report_](/blackspecfic-2017)
 by Cecily Kane
 
+### [_POB Scoring: Growth and Accountability_](/pob-scoring-growth-and-accountability)
+by L. D. Lewis
+
+### [_More Than Numbers_](/more-than-numbers)
+by Khaalidah Muhammad-Ali
+
+### [_Three Years Into the #BlackSpecFic Report_](/three-years-into-the-blackspecfic-report)
+by Mikki Kendall
+
+### [_Fireside #BlackSpecFic Report Response_](/fireside-blackspecfic-report-response)
+by Inda Lauyrn
+
+### [_On Gaming, Fantastic Racism, & Real World Bigotry_](/on-gaming-fantastic-racism-and-real-world-bigotry)
+by Latonya Pennington
+
+----
+
 ## 2016
 
 ### [_The 2016 #BlackSpecFic Report_](/blackspecfic-2016)
@@ -44,7 +61,6 @@ by Thea James
 
 ### [_It's Up to Us_](/its-up-to-us)
 by Pablo Defendini
-
 
 ----
 
