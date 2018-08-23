@@ -14,6 +14,13 @@ layout: default
     <p>This essay is part of a larger conversation about harassment. We’ve invited different voices to join this and work towards unpacking the problem and finding solutions. You can find the rest of the essays on <a href="/harassment">this index page</a>).</p>
   </div>
 
+  {% if page.contentnote %}
+    <div class="contentnote">
+      <h4>Content Note:</h4>
+      <p>{{ page.contentnote  | markdownify }}</p>
+    </div>
+  {% endif %}
+
   <div>
     {{ content }}
     {% include bios.html %}
