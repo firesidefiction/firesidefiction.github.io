@@ -1,16 +1,16 @@
 ---
 layout: conversation-harassment
-title: "Who Gets to Say #MeToo?"
+title: "Who Gets to Say MeToo?"
 author: Ace Ratcliff
-editor: Elsa Sjunneson-Henry
+editor: "Elsa Sjunneson-Henry"
 date: 2018-08-23 01:00:01 -0500
 category: essay
 permalink: who-gets-to-say-metoo
 published: true
-teaser: While so many others finally seem to have a voice disabled victims of sexual assault and abuse are left in silence.
+teaser: "While so many others finally seem to have a voice disabled victims of sexual assault and abuse are left in silence."
 author-img: ace-ratcliff.jpg
 author-bio: |
-  Ace Ratcliff is a disabled, nonbinary writer, artist, photographer, and model who lives and works in Oakland, California. Much of her work centers on intersectional feminism, with a specific focus on disability justice. She lives with hypermobile Ehlers-Danlos Syndrome, dysautonomia, and mast cell activation syndrome, which all make for a particularly rebellious meatcage. She is a former mortician who co-owns Harper’s Promise, an in-home pet euthanasia, hospice, and palliative care service with her fiance, Derek. She can almost always be found with a dog by her side. She tweets [@MortuaryReport](www.twitter.com/mortuaryreport).
+  "Ace Ratcliff is a disabled, nonbinary writer, artist, photographer, and model who lives and works in Oakland, California. Much of her work centers on intersectional feminism, with a specific focus on disability justice. She lives with hypermobile Ehlers-Danlos Syndrome, dysautonomia, and mast cell activation syndrome, which all make for a particularly rebellious meatcage. She is a former mortician who co-owns Harper’s Promise, an in-home pet euthanasia, hospice, and palliative care service with her fiance, Derek. She can almost always be found with a dog by her side. She tweets [@MortuaryReport](www.twitter.com/mortuaryreport)."
 contentnote: This essay describes multiple instances of sexual assault.
 proofread: true
 ---
