@@ -160,13 +160,14 @@ This parameter allows free-form text and markdown syntax. In order for all chara
 
 ## Content
 The content section is where the, um, content of the piece goes. This is where we use markdown notation to format the text according to its meaning (rather than according to its visual style). We'll use the following conventions and notation for writing markdown for Fireside:
-- use single underscores or asterisks for *emphasis*
+- use single underscores or asterisks for _emphasis_
 - use double underscores or asterisks for **strong emphasis**
 - write links like this: `[link text](http://url.com)`
 - use four dashes for section breaks: `----`
 - use a `>` for blockquotes
 - add a blank line between paragraphs, otherwise the line will be a regular carriage return, not the start of a new paragraph.
 - to add a footnote you add `[^1]` in the body of the text, and `[^1]: This is my glorious and most important footnote` at the bottom of your markdown file.
+- in order to use one of the special characters used in markdown notation as part of the regular text (like when you want to just write out an asterisk rather than mark it for emphasis), you can 'escape' the character by prefacing it with a `\`
 
 ## Author Bio
 The Author Bio Is currently hard coded into each story post. In addition, the author should be added to the `author.md` page.
