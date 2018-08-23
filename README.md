@@ -156,7 +156,7 @@ This parameter takes a filename, which should be the same as the author name, bu
 
 ##### `author-bio`
 The `author-bio` parameter is **optional**. It should be the latest version of the Author Bio from Airtable.
-This parameter allows free-form text _and_ markdown syntax. In order for all characters to read properly, the text of the title *must* be placed after a pipe (`|`), and indented one space. Add an extra space between paragraphs.
+This parameter allows free-form text _and_ markdown syntax. In order for all characters to read properly, the text of the title *must* be placed after a pipe (`|`), and indented one space. This field does not require quotes. Add an extra space between paragraphs.
 
 ## Content
 The content section is where the, um, content of the piece goes. This is where we use markdown notation to format the text according to its meaning (rather than according to its visual style). We'll use the following conventions and notation for writing markdown for Fireside:
