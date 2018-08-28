@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-08-28 01:00:01 -0500
 category: short story
 permalink: a-taxonomy-of-hurts
-published: false
+published: true
 teaser: "They are his most hurtful memories, and if I touch them, I can recall them as if they are my own."
 author-img: kate-dollarhyde.jpg
 author-bio: |
