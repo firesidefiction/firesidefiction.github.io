@@ -37,6 +37,8 @@ The Author also grants to Fireside rights to republish the Story in any antholog
 
 The Author further grants Fireside a nonexclusive, non-assignable, and non-transferable license to archive the Story online and the non-exclusive right to reproduce and display the Story, or excerpts of the Story, on the Fireside Magazine website, for a period of at least thirty-six (36) months. After thirty-six (36) months, the Author may withdraw all rights from Fireside, provided the Author requests it via written notice.
 
+The Author grants to Fireside the exclusive right to create and publish sound recordings of non-dramatic, English language readings of the Story, and to reproduce these recordings in all electronic media.
+
 The Author grants Fireside permission to use the Author’s name, image, likeness, or biographical material for  advertising, marketing, and other promotion of the Story. Upon acceptance of the Story, the Author shall provide Fireside with appropriate material for such use.
 
 On occasion or for special events, Fireside may wish to promote Author, the Story and Fireside Magazine. In that event and provided that Fireside informs Author with reasonable notice, Author will cooperate in good faith with Fireside in promoting Author, the Story and Fireside Magazine by participating in promotional activities such as, but not only, writing blog posts, appearing on podcasts, granting interviews and making appearances at events.
