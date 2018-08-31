@@ -13,7 +13,7 @@ ibooks: https://itunes.apple.com/us/book/every-river-runs-to-salt/id1416637800?l
 kobo: https://www.kobo.com/us/en/ebook/every-river-runs-to-salt
 nook: https://www.barnesandnoble.com/w/every-river-runs-to-salt-rachael-k-jones/1128904287?ean=2940161993897
 goodreads: https://www.goodreads.com/book/show/40944356-every-river-runs-to-salt?from_search=true
-fireside:
+fireside: https://store.firesidefiction.com/products/every-river-runs-to-salt-by-rachael-k-jones
 printbook:
 author-bio: |
   Rachael K. Jones grew up in various cities across Europe and North America, picked up (and mostly forgot) six languages, and acquired several degrees in the arts and sciences. Now she writes speculative fiction in Portland, Oregon. Contrary to the rumors, she is probably not a secret android. Rachael is a World Fantasy Award nominee and Tiptree Award honoree. Her fiction has appeared in dozens of venues worldwide, including _Lightspeed_, _Beneath Ceaseless Skies_, _Strange Horizons_, and _PodCastle_. Follow her on Twitter [@RachaelKJones](https://twitter.com/RachaelKJones).
