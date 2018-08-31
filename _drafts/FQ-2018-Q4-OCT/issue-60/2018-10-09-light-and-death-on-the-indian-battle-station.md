@@ -11,6 +11,12 @@ teaser: "Mom’s turquoise-blue saree morphed into her silver Battle Station uni
 author-img: keyan-bowes.jpg
 author-bio: |
   Keyan Bowes is a peripatetic writer of science fiction and fantasy based in San Francisco. She's lived in nine cities in seven countries, and visited many more (and still hopes to add even more to the list). These places sometimes form the settings for her stories. Her work can be found online in various webzines (including a Polish one), a podcast, and an award-winning short film; and on paper in a dozen print anthologies. She’s a graduate of the 2007 Clarion Workshop for science fiction and fantasy writers. Keyan’s website is at [www.keyanbowes.org](http://www.keyanbowes.org).
+art: light-and-death-on-the-indian-battle-station.jpg
+caption: "A girl lays on a gourney, unconscious. Over her, her mother is in grief, and abvoe them both, an Indian god has come to claim her. Her sister rushes to save her from death."
+artist: Saleha Chowdhury
+artist-img: saleha-chowdhury.jpg
+artist-bio: |
+  Saleha Chowdhury is a digital illustrator based in New York who enjoys drawing colorful and strange worlds. Her art is inspired by astronomy, science fiction and fantasy. She enjoys feeding birds and bird watching in her spare time.
 proofread: true
 ---
 
