@@ -107,6 +107,8 @@ permalink: /authors
 ### Innocent Chizaram Ilo
 — [_River Boy_](/river-boy)
 
+— [_The Unusual Customer_](/the-unusual-customer)
+
 ### Nino Cipri
 — [_Better Girls from Broken Parts_](/issue17/chapter/better-girls-from-broken-parts/)
 
@@ -164,6 +166,9 @@ permalink: /authors
 ### Steven J. Dines
 — [_A Trick of the Night_](/issue9/chapter/a-trick-of-the-night/)
 
+### Kate Dollarhyde
+— [_A Taxonomy of Hurts_](/a-taxonomy-of-hurts)
+
 ### Aidan Doyle
 — [_Pride and Profanity_](/issue21/chapter/pride-and-profanity/)
 
@@ -217,6 +222,8 @@ permalink: /authors
 — [_The Kingfisher Manifesto_](/issue31/chapter/the-kingfisher-manifesto/)
 
 — [_Balance Point_](/balance-point)
+
+— [_By Stone, by Sea, by Flower, by Thorn_](/by-stone-by-sea-by-flower-by-thorn)
 
 ### April Grant
 — [_The Finger_](/the-finger)
@@ -490,6 +497,9 @@ permalink: /authors
 
 ## R
 
+### Ace Ratcliff
+— [_Who Gets to Say #MeToo?_](/who-gets-to-say-metoo)
+
 ### Jason Ridler
 — [_Rocket Ship Nirvana_](/issue12/chapter/30/)
 
@@ -539,7 +549,10 @@ permalink: /authors
 — [_A Single, Stolen Night_](/issue9/chapter/a-single-stolen-night/)
 
 ### Effie Seiberg
-— [_Re: Little Miss Apocalypse Playset_](/issue30/chapter/re-little-miss-apocalypse-playset/)
+— [_Re: Little Miss Apocalypse Playset_](/pigeons)
+
+### Nibedita Sen
+— [_Pigeons_](/issue30/chapter/re-little-miss-apocalypse-playset/)
 
 ### Cherrelle Shelton
 — [_Banshee_](/banshee)
