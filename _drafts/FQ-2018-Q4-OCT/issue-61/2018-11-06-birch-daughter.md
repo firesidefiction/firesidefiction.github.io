@@ -1,6 +1,6 @@
 ---
 layout: story
-title: Birch-Daughter
+title: Birch Daughter
 author: Sara Norja
 editor: Julia Rios
 date: 2018–11-06 01:00:01 -0500
@@ -11,6 +11,12 @@ teaser: "My father told me that the spell was too strong to break, that I should
 author-img: sara-norja.jpg
 author-bio: |
   Sara Norja dreams in two languages. Born in England and settled in Helsinki, Finland, her poetry and short fiction have appeared in a variety of venues including _Goblin Fruit_, _Strange Horizons_, _Flash Fiction Online_, and the anthologies _An Alphabet of Embers_ (ed. Rose Lemberg) and _Sunvault_ (ed. Phoebe Wagner and Brontë Christopher Wieland).
+art: birch-daughter.jpg
+caption: "Lovers find each other, among bears"
+artist: Satu Kettunen
+artist-img: satu-kettunen.jpg
+artist-bio: |
+  Satu Kettunen is a Helsinki based illustrator working with bold colour palette and gentle humour. Her study background includes BA in both Art Education and Fashion design. She was awarded Rudolf Koivu prize in 2015, Tiiliskivi prize in 2016 and nominated for The Nordic Council Children and Young People’s Literature Prize in 2017 for her illustrations in picture books. She gets all excited about street art, collects beautiful picture books and loves biking. Her dream is to one day have a garden of her own.
 proofread: true
 ---
 
