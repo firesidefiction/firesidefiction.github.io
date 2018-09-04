@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-09-04 01:00:01 -0500
 category: short story
 permalink: carborundorum-dev-null
-published: false
+published: true
 teaser: "So I have to live in _The Handmaid's Tale_ just because _you're_ scared of the dark? That's sexist!"
 author-img: annalee-flower-horne.jpg
 author-bio: |
