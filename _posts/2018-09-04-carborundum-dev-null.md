@@ -7,7 +7,7 @@ date: 2018-09-04 01:00:01 -0500
 category: short story
 permalink: carborundorum-dev-null
 published: true
-teaser: "So I have to live in _The Handmaid's Tale_ just because _you're_ scared of the dark? That's sexist!"
+teaser: "So I have to live in The Handmaid's Tale just because you're scared of the dark? That's sexist!"
 author-img: annalee-flower-horne.jpg
 author-bio: |
   [Annalee Flower Horne](http://www.flowerhorne.com) is a science fiction writer and web developer from Washington, DC. Her fiction has previously appeared in _The Magazine of Fantasy and Science Fiction_, _Mothership Zeta_, and the _Futurescapes Anthology_, where she won first place in the Futurescapes Writing Contest. She co-edits feminist geek culture blog _The Bias_.
