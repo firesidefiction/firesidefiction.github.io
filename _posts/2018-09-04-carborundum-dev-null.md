@@ -1,6 +1,6 @@
 ---
 layout: story
-title: "CARBORUNDORUM > /DEV/NULL"
+title: CARBORUNDORUM > /DEV/NULL
 author: Annalee Flower Horne
 editor: Julia Rios
 date: 2018-09-04 01:00:01 -0500
