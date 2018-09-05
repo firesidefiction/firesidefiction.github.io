@@ -6,7 +6,10 @@ editor:
 date: 2018-09-06 00:01:00 -0500
 category: "#Blackspecfic"
 permalink: /a-message-from-the-Publisher
-teaser: "It;s been three years of #BlackSpecFic. What's next?."
+teaser: "It's been three years of #BlackSpecFic. What's next?."
+author-img: pablo-defendini.jpg
+author-bio: |
+  Pablo Defendini is the publisher of Fireside. 
 published: false
 ---
 
@@ -26,5 +29,4 @@ While we know that the problem of Black representation in the genre fiction mark
 
 So this next year will see Fireside broaden its scope in this area. We will continue to work hard at consistent Black representation in our stories and our artwork, and we will also focus on bringing in an even wider gamut of voices. The result will make Fireside a better magazine for everyone.
 
-[^1] Even though Rebecca Roanhorse swept the awards she was nominated for this year
-
+[^1]: Even though Rebecca Roanhorse swept the awards she was nominated for this year.
