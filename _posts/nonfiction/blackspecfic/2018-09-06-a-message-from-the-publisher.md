@@ -5,11 +5,11 @@ author: "Pablo Defendini"
 editor:
 date: 2018-09-06 00:01:00 -0500
 category: "#Blackspecfic"
-permalink: /a-message-from-the-Publisher
-teaser: "It's been three years of #BlackSpecFic. What's next?."
+permalink: /a-message-from-the-publisher
+teaser: "This is the third year that Fireside has published the #BlackSpecFic Report, and while things seem to be trending in a positive trajectory, we still have a long way to go before the short fiction field in genre publishing resembles anything close to broadly inclusive."
 author-img: pablo-defendini.jpg
 author-bio: |
-  Pablo Defendini is the publisher of Fireside. 
+  Pablo Defendini is the publisher of Fireside.
 published: false
 ---
 
