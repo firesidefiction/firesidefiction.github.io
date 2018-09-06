@@ -10,7 +10,7 @@ teaser: "This is the third year that Fireside has published the #BlackSpecFic Re
 author-img: pablo-defendini.jpg
 author-bio: |
   Pablo Defendini is the publisher of Fireside.
-published: false
+published: true
 ---
 
 This is the third year that Fireside has published [#BlackSpecFic Report](https://firesidefiction.com/blackspecfic-2017), and while things seem to be trending in a positive trajectory, we still have a long way to go before the short fiction field in genre publishing resembles anything close to broadly inclusive.
