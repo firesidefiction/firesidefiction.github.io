@@ -28,6 +28,9 @@ by Inda Lauyrn
 ### [_On Gaming, Fantastic Racism, & Real World Bigotry_](/on-gaming-fantastic-racism-and-real-world-bigotry)
 by Latonya Pennington
 
+### [_A Message From the Publisher_](/a-message-from-the-publisher)
+by Pablo Defendini
+
 ----
 
 ## 2016
