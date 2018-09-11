@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-09-11 01:00:01 -0500
 category: flash fiction
 permalink: friday-night-games
-published: false
+published: true
 teaser: "Ouija was not a game she ever expected to find in Lagos. Back in New York? Of course. … But Ouija, in a Nigerian store?"
 author-img: anne-dafeta.jpg
 author-bio: |
