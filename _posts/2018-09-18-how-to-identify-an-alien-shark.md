@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-09-18 01:00:01 -0500
 category: flash fiction
 permalink: how-to-identify-an-alien-shark
-published: false
+published: true
 teaser: "If a shark is speaking to you, that is a sign that it is an alien."
 author-img: beth-goder.jpg
 author-bio: |
@@ -14,7 +14,7 @@ author-bio: |
 proofread: true
 ---
 
-Honored guests, thank you for attending this seminar on the Tucabal-Gor, colloquially known as alien sharks. I am Dr. William Smithson, the foremost expert on these xenoforms. Ever since the infestation in the Atlantic Ocean last July, world leaders have been scrambling to assess the situation. Despite fear-mongering articles you may have read online, the alien sharks have not eaten anyone. In fact, they appear to spend most of their time criticizing our economic systems and submitting papers to academic journals. Some of them have even been published.
+Honored guests, thank you for attending this seminar on the Tucabal-Gor, colloquially known as alien sharks. I am Dr. William Smithson, the foremost expert on these xenoforms.Ever since the infestation in the Atlantic Ocean last July, world leaders have been scrambling to assess the situation. Despite fear-mongering articles you may have read online, the alien sharks have not eaten anyone. In fact, they appear to spend most of their time criticizing our economic systems and submitting papers to academic journals. Some of them have even been published.
 
 However, after the Twiller Incident last month, we can no longer stand idle while these aliens live in our oceans, rent free.
 
