@@ -22,3 +22,6 @@ June 21, 2018
 
 ### [Who Gets to Say #MeToo?, by Ace Ratcliff](/who-gets-to-say-metoo)
 August 23, 2018
+
+### [#MeToo and Furthermore, by Hillary Monahan](/metoo-and-furthermore)
+September 20, 2018
