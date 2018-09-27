@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Announcing Pre-Orders and the Cover Reveal for Hillary Monahan's Gunsmoke &amp; Glamour"
+title: "Announcing Pre-Orders and the Cover Reveal for Hillary Monahan's Gunsmoke & Glamour"
 author: Pablo Defendini
 date: 2018-09-27 01:00:01 -0500
 category: news
