@@ -18,10 +18,10 @@ _Gunsmoke_ is a fun, raunchy ride through a weird west full of fairies and witch
 
 When it came time to find an artist to illustrate _Gunsmoke & Glamour_, we had a clear mandate--if you know Hillary, you know that she’s outspoken in her support for representation, and _Gunsmoke _ reflects Hillary’s idiosyncrasies: Doc Irene is a trans woman, and Adelaide is a fat, sexy lady. The cover had to represent these characters well, and celebrate them rather than try to hand-wave then away.
 
-![](/images/book-covers/gunsmoke-and-glamour.jpg)
+![Front cover image for Gunsmoke & Glamour by Hillary Monahan](/images/book-covers/gunsmoke-and-glamour.jpg)
 
 Enter [Eli Hoyt](http://eli-hoyt.squarespace.com). Eli’s work is heavily inspired by anime and manga, and his combination of cartoony style and romantic subject matter works well to reflect _Gunsmoke_’s slightly madcap tone, as well as its ‘foolish love’ plot. Once we got talking about the characters and themes in the novel, he got it immediately--we needed a slightly put-upon, low-key ridiculed male lead, since Hillary works hard in the novel to subtly subvert toxic masculinity through our protagonist; we needed a strong and confident Doc; and an unabashedly fat and sexy Adelaide to bring the cover home. Oh, and a tiger. Because, well, because ZOMFG BIG KITTEH.
 
-![](/images/graphics/gunsmoke-and-glamour-cover-spread.jpg)
+![Cover spread image for Gunsmoke & Glamour by Hillary Monahan](/images/graphics/gunsmoke-and-glamour-cover-spread.jpg)
 
 So enjoy the cover for _Gunsmoke & Glamour_, and go pre-order the novel. We can’t wait to get it in your hands, so that you can take this wild ride along with us.
