@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Announcing Pre-Orders and the Cover Reveal for Hillary Monahan's Gunsmoke & Glamour"
+title: "Announcing Pre-Orders and the Cover Reveal for Hillary Monahan's Gunsmoke &amp; Glamour"
 author: Pablo Defendini
 date: 2018-09-27 01:00:01 -0500
 category: news
 permalink: gunsmoke-and-glamour-cover-reveal
 published: true
-teaser: "We're thrilled to reveal the cover for Hillary Monahan's upcoming novel, Gunsmoke & Glamour!"
+teaser: "We're thrilled to reveal the cover for Hillary Monahan's upcoming novel, Gunsmoke &amp; Glamour!"
 author-img: pablo-defendini.jpg
 author-bio: |
  Pablo Defendini is the publisher and art director of Fireside.
