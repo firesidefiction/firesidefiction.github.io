@@ -11,6 +11,12 @@ teaser: "Mr. Bhansal had often remarked that it was a strange and very annoying 
 author-img: brian-m-milton.jpg
 author-bio: |
   Brian Milton is a short, tweedy Glaswegian who splits his time between work, writing, and flapping at wildlife. He'd like to do less of two of these. Brian lives with his wife, a cat, and thousands of bees. The cat rarely talks to him. He has been published in anthologies such as _Caledonia Dreamin'_ and _Thirty Years of Rain_, and in magazines such as _KZine_ and this here wonderful _Fireside Magazine_. He can be found shouting on the twitters at [@munchkinstein](https://www.twitter.com/muchkinstein).
+art: cleaning-up.jpg
+caption: "A man in a turban, holding a sword, stares down a many-tentacled beast. In the background, a cat nonchalantly licks its paw."
+artist: Clare DeZutti
+artist-img: satu-kettunen.jpg
+artist-bio: |
+  Clare DeZutti is an illustrator and designer in Brooklyn, NY. During the day she works as a assistant designer at Workman Publishing. In her off time, she enjoys drawing, drawing and more drawing. Her work appears in the 1001 Knights Anthology and she colored Tales of the Night Watchman Issue 7, from So What? Press. 
 proofread: true
 ---
 
