@@ -143,6 +143,9 @@ permalink: /authors
 ### Karl Dandenell
 — [_We Who Stay Behind_](/we-who-stay-behind)
 
+### Anne Dafeta
+— [_Friday Night Games_](/friday-night-games)
+
 ### Gillian Daniels
 — [_Beast of Breath_](/beast-of-breath)
 
@@ -215,6 +218,9 @@ permalink: /authors
 ### John F. Gardner
 — [_The Last Good Day_](/issue7/chapter/the-last-good-day/)
 
+### Beth Goder
+— [_How to Identify an Alien Shark_](/how-to-identify-an-alien-shark)
+
 ### Sam Gorenstein
 — [_Sure I am Metaphysically Sinking Into a More Terrifying Universe, but We All Have Our Things to Deal With_](/issue7/chapter/sure-i-am-metaphysically-sinking-into-a-more-terrifying-universe-but-we-all-have-our-things-to-deal-with/)
 
@@ -262,6 +268,9 @@ permalink: /authors
 
 ### Sarah Hollowell
 — [_Crow's Eye_](/crows-eye)
+
+### Annalee Flower Horne
+— [_CARBORUNDORUM > /DEV/NULL_](/carborundorum-dev-null)
 
 ### Kat Howard
 — [_The Heart of the Story_](/issue2/chapter/the-heart-of-the-story/)
@@ -404,6 +413,9 @@ permalink: /authors
 ### Brian M. Milton
 — [_Rab the Giant versus the Witch of the Waterfall_](/rab-the-giant-versus-the-witch-of-the-waterfall)
 
+### Hillary Monahan
+— [_#MeToo, and Furthermore_](/metoo-and-furthermore)
+
 ### Mimi Mondal
 — [_So It Was Foretold_](/so-it-was-foretold)
 
@@ -428,6 +440,8 @@ permalink: /authors
 — [_The Middle Child’s Practical Guide to Surviving a Fairy Tale_](/issue33/chapter/the-middle-childs-practical-guide-to-surviving-a-fairy-tale/)
 
 — [_The Witch in the Tower_](/the-witch-in-the-tower)
+
+— [_The Ceremony_](/the-ceremony)
 
 ### Annie Neugebauer
 — [_Zanders the Magnificent_](/issue21/chapter/zanders-the-magnificent/)
