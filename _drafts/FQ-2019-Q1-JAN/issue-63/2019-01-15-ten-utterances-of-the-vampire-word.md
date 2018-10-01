@@ -10,14 +10,13 @@ published: false
 teaser: "She turns to see two fearful, bloodshot eyes. They’re gone before she can speak. A cockroach itch wriggles under her tongue."
 author-img: george-lockett.jpg
 author-bio: |
-  George Lockett is a London-based writer of short fiction and video games. His short fiction has appeared in _The Colored Lens_, _Asymmetry_, and _Making Monsters: A Speculative and Classical Anthology_. When he's not making up tales of mischievous ghosts or flesh-hungry, triple-headed birds, he can be found on Twitter [@mastergeorge](https://www.twitter.com/mastergeorge), lurking on the web, and in his [weekly technoanxiety newsletter](https://tinyletter.com/altthoughtprocess). 
-
+  George Lockett is a London-based writer of short fiction and video games. His short fiction has appeared in _The Colored Lens_, _Asymmetry_, and _Making Monsters: A Speculative and Classical Anthology_. When he's not making up tales of mischievous ghosts or flesh-hungry, triple-headed birds, he can be found on Twitter [@mastergeorge](https://www.twitter.com/mastergeorge), lurking on the web, and in his [weekly technoanxiety newsletter](https://tinyletter.com/altthoughtprocess).
 proofread: false
 ---
 
-1. To her. A stranger on the tube whispers it in her ear as the doors open. She turns to see two fearful, bloodshot eyes. They’re gone before she can speak. A cockroach itch wriggles under her tongue. She is afraid. 
+1. To her. A stranger on the tube whispers it in her ear as the doors open. She turns to see two fearful, bloodshot eyes. They’re gone before she can speak. A cockroach itch wriggles under her tongue. She is afraid.
 
-2. To herself, quietly, on a park bench. It offers nothing; she can only slow the wasting by speaking the word to one who has not heard it. She scratches her already red-raw arms until flesh peels under her fingernails. 
+2. To herself, quietly, on a park bench. It offers nothing; she can only slow the wasting by speaking the word to one who has not heard it. She scratches her already red-raw arms until flesh peels under her fingernails.
 
 3. To the woman in the next stall. It’s a whispered surrender; her skin is bloody, torn apart under the fire-ant itch. It brings relief, but not enough. A mourner's sob starts up in the next stall. She leaves the bathroom, swearing to herself 'never again'.
 
@@ -27,12 +26,10 @@ proofread: false
 
 6. To the barista who asked 'What name?', so her stomach could hold down food.
 
-7. To her supply-closet-lurking boss, who deserved it. 
+7. To her supply-closet-lurking boss, who deserved it.
 
 8. To the occupants of the front carriage of the southbound Victoria line tube. She slips away in the chaos, hoping it's enough to slow the lesions forming on her skin, to keep her family safe. It only keeps her sated for a week.
 
-9. To her husband, in the dark, after he's begged her to stop shutting him out. After she's told him why she can't stop crying. Why she refuses to tuck the children in. 
+9. To her husband, in the dark, after he's begged her to stop shutting him out. After she's told him why she can't stop crying. Why she refuses to tuck the children in.
 
 10. Alone, standing on the railing at Westminster Bridge, whispered as a prayer. Hesitation is cast aside as the wasting spreads to her legs; they buckle, and she falls into the river. As she sinks, her mouth forms the word, over and over. Her vision holds out long enough to see others — not breathing, not dying — moss-covered, upward-reaching, their mouths moving in time with hers. Her sight turns red, then black, and she’s alone again, waiting to be heard.
-
-

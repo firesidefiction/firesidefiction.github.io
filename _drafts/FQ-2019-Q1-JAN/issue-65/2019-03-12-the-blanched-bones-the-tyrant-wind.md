@@ -10,8 +10,13 @@ published: false
 teaser: "I hope I am so sticky and rangy that he cannot force the hate in my veins down his steel throat. I hope he chokes on my solid, frozen heart."
 author-img: karen-osborne.jpg
 author-bio: |
-  Karen Osborne lives in Baltimore with two violins, an autoharp, four cameras, a husband and a bonkers orange cat. She’s been a reporter, a wedding videographer, a newspaper photographer, a high school English teacher, a Starfleet captain and a Scottish fiddler. Her short fiction currently appears at Escape Pod and is forthcoming in _Beneath Ceaseless Skies_. She is a graduate of Viable Paradise and the Clarion Writers’ Workshop, and while she hasn’t yet climbed the mountain herself, she keeps on staring at the skies. Karen can be found on Twitter at @karenthology and at [karenosborne.com](http://www.karenosborne.com). 
-
+  Karen Osborne lives in Baltimore with two violins, an autoharp, four cameras, a husband and a bonkers orange cat. She’s been a reporter, a wedding videographer, a newspaper photographer, a high school English teacher, a Starfleet captain and a Scottish fiddler. Her short fiction currently appears at Escape Pod and is forthcoming in _Beneath Ceaseless Skies_. She is a graduate of Viable Paradise and the Clarion Writers’ Workshop, and while she hasn’t yet climbed the mountain herself, she keeps on staring at the skies. Karen can be found on Twitter at @karenthology and at [karenosborne.com](http://www.karenosborne.com).
+art: the-blanched-bones-the-tyrant-wind.jpg
+caption: "TK"
+artist: Bernard Lee
+artist-img: bernard-lee.jpg
+artist-bio: |
+  Bernard Lee was born and raised in Orange County, CA and graduated with a BFA in Illustration from Syracuse University. After working in New York City for a few years as an Art Director at Scientific American, he now resides in California again creating illustrations for the publishing, editorial and entertainment industries as well as for private collectors. Past clients include Rockstar Games, Variety, Scientific American, Macmillan, VICE and more.
 proofread: false
 ---
 
@@ -22,20 +27,20 @@ I am barefoot, because shoes are said to clog the dragon’s throat, to make him
 
 I can already feel my bones cracking between the dragon’s diamond-bright jaws. I hope I am so sticky and rangy that he cannot force the hate in my veins down his steel throat. I hope he chokes on my solid, frozen heart.
 It is four hundred stairs to the top of the mountain and each step sends starving pain through my chapped, bleeding feet. The thin wind whines and swirls around my frost-stiff fingers. The undying city of Talosoth spills out below me in shades of jet and coal, sour and starving like the void in my stomach, smothering the mountain. They say I am protecting this: Talosoth the never-taken, Talosoth the never-changing, Talosoth the immortal — just like its king, who is swathed in velvet at the foot of the stair.
- I can still see him from here. He is a bleed of wine on sable, a decaying wound on slate. The ice at his heart lingers around my shoulders and makes me shiver. He has kissed me with his dry, cold lips, set upon my head a holly wreath the color of the spring that never comes, and called me beautiful. This is how it is done, he says. This is the only way.
+I can still see him from here. He is a bleed of wine on sable, a decaying wound on slate. The ice at his heart lingers around my shoulders and makes me shiver. He has kissed me with his dry, cold lips, set upon my head a holly wreath the color of the spring that never comes, and called me beautiful. This is how it is done, he says. This is the only way.
 The morning light catches on the cold, sharp swords of his personal guard — men too frightened to walk in the footsteps of bleeding girls. The king’s voice echoes in my head. This is how it is done. The men with hearts of ash, the girls with hearts of fire.
- And then I am outside the mouth of the cave.
+And then I am outside the mouth of the cave.
 Talosoth cheers rise from below, borne up on the chill, tyrant wind, and I walk in, because I want them all to shut up and I want it all to be over: the cold, this life, the damned city.
 The dragon's cave is dry and warm. The rubies are cold in my hand. I expect fire crackling at my cold-scabbed lips, great green flanks on the grand, shining golden hoard, the catch of diamond teeth and the eternal night of the mountain, the smell of ancient blood soaking the stone. I expect cracked young bones on the floor, tossed like peanut shells, like dead leaves from dead trees, like the hot stones the dragon belches on the city when he is angry.
- I see a small woman in a grey fur coat lounging on the hoard, reading a book and eating a sandwich.
+I see a small woman in a grey fur coat lounging on the hoard, reading a book and eating a sandwich.
 She licks a fleck of yellow cheese from her index finger. "My dear, welcome home," she says, like she has been waiting all this time just for me.
 She slides off the pile in a clamor of emeralds. The soles of her feet are bare and scarred. Underneath my own bloody feet, I can feel heat rising, a force hotter and surer than my mother's hearth ever achieved.
 "Where - where's the dragon?" I whisper.
 She places her finger against her lips and slides the fur around my shoulders, tugging me under a dark archway and into a tunnel. At the end is a cavern full of noise and smoke and light, the ceiling cracked open to reveal the livid sky. We stand above a village of sorts: tents and forges, farms and bakeries, gardens and libraries, settled around the gaping curves of a rib cage so colossal, so alabaster, it could only have belonged to one creature in the entire world.
-The village is filled with women, their feet slashed with old, white scars. I see women of all ages, tending mushroom farms, raising chickens and cooking stew. Women shaping suits of armor from the shining scales that litter the cavern floor. Women cutting daggers from colossal, jagged teeth. Women training to fight. I see the girl who went up the mountain six months ago, the girl who I thought had been ripped into meat and dust. She holds a sword that glints char-gold in the firelight.
+The village is filled with women, their feet slashed with old, white scars.I see women of all ages, tending mushroom farms, raising chickens and cooking stew. Women shaping suits of armor from the shining scales that litter the cavern floor. Women cutting daggers from colossal, jagged teeth. Women training to fight. I see the girl who went up the mountain six months ago, the girl who I thought had been ripped into meat and dust. She holds a sword that glints char-gold in the firelight.
 I smell fire and wine, bread baking on hot coals, the sharp anticipation of war.
 It is not a village. It is an army.
 "Darling girl," my guide says, "we killed the dragon years ago. We are the dragon now."
 "Does the king know?" I ask.
 She laughs, like glitter.
-"He will, when we come for him," she says. "He will know. Oh. He will."
+"He will, when we come for him," she says. "He will know. Oh. He will."

@@ -1,6 +1,6 @@
 ---
 layout: story
-title: The Autumnof June
+title: The Autumn of June
 author: Stu West
 editor: Julia Rios
 date: 2019-02-12 01:00:01 -0500
@@ -10,8 +10,7 @@ published: false
 teaser: "Few mortals could ever have used that shield. She is a very special woman, your grandmother."
 author-img: stu-west.jpg
 author-bio: |
-  Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the _Trailer Park of Terror_ comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://www.twitter.com/stuwest). 
-
+  Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the _Trailer Park of Terror_ comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://www.twitter.com/stuwest).
 proofread: false
 ---
 
@@ -52,4 +51,4 @@ The next day after school my grandmother was out running errands and I was suffe
 Not knowing what to say, I stammered out that her husband was in the back garden, or that I could take a message.
 
 At the mention of my grandfather, the creature slumped dejectedly, said, "No, it doesn't matter," and wandered away.
-When Thunder came in, a little while later, I told him what had happened. His eyes widened when I mentioned the fire demon, but when I described the suit and the flowers and chocolate he broke out in a huge grin and clapped me on the back. "It is just as I told you," he said, "she is a very special woman."
+When Thunder came in, a little while later, I told him what had happened. His eyes widened when I mentioned the fire demon, but when I described the suit and the flowers and chocolate he broke out in a huge grin and clapped me on the back. "It is just as I told you," he said, "she is a very special woman."
