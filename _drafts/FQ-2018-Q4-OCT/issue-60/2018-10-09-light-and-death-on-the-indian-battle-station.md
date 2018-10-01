@@ -3,7 +3,7 @@ layout: story
 title: Light and Death on the Indian Battle Station
 author: Keyan Bowes
 editor: Julia Rios
-date: 2018–10-09 01:00:01 -0500
+date: 2018-10-09 01:00:01 -0500
 category: short story
 permalink: light-and-death-on-the-indian-battle-station
 published: false

@@ -3,7 +3,7 @@ layout: story
 title: Inner Space
 author: Takim Williams
 editor: Julia Rios
-date: 2018–10-02 01:00:01 -0500
+date: 2018-10-02 01:00:01 -0500
 category: short story
 permalink: inner-space
 published: false

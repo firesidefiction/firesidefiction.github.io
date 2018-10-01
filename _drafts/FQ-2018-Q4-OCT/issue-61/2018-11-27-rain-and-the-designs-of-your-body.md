@@ -3,7 +3,7 @@ layout: story
 title: Rain and the Designs of Your Body
 author: J.M. Guzman
 editor: Julia Rios
-date: 2018–11-27 01:00:01 -0500
+date: 2018-11-27 01:00:01 -0500
 category: short story
 permalink: rain-and-the-designs-of-your-body
 published: false

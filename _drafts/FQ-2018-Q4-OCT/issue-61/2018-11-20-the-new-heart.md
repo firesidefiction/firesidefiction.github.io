@@ -3,7 +3,7 @@ layout: story
 title: The New Heart
 author: Natalia Theodoridou
 editor: Julia Rios
-date: 2018–11-20 01:00:01 -0500
+date: 2018-11-20 01:00:01 -0500
 category: short story
 permalink: the-new-heart
 published: false

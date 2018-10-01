@@ -3,7 +3,7 @@ layout: story
 title: And I Never Named Her
 author: Renee Christopher
 editor: Julia Rios
-date: 2018–11-13 01:00:01 -0500
+date: 2018-11-13 01:00:01 -0500
 category: short story
 permalink: and-i-never-named-her
 published: false
