@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-10-02 01:00:01 -0500
 category: short story
 permalink: inner-space
-published: false
+published: true
 teaser: "Dr. Williams has retreated to his inner space, where he has spent increasingly more time since his wife’s death in the office fire a year ago."
 author-img: takim-williams.jpg
 author-bio: |
