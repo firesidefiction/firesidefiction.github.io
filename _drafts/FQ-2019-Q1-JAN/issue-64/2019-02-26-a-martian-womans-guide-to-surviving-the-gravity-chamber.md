@@ -15,7 +15,7 @@ author-bio: |
 proofread: false
 ---
 
-2. Shit twice a day instead of once and watch everyone freak out over your fiber intake. It makes life more interesting for the Chamber Nurses.
+1. Shit twice a day instead of once and watch everyone freak out over your fiber intake. It makes life more interesting for the Chamber Nurses.
 
 2. Keep busy by reading the status updates of other Chamber women. Judge them mercilessly. Can you believe #7 only has 10 follicles growing?
 
