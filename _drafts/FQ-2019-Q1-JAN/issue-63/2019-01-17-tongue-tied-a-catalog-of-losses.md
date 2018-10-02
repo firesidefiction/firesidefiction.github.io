@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Tongue-tied: A Catalog of Losses'
+title: "Tongue-tied: A Catalog of Losses"
 author: Layla Al-Bedawi
 editor: Julia Rios
 date: 2019-01-17 01:00:01 -0500
