@@ -38,7 +38,7 @@ She is also the author of _Ink_, a near-future, immigration-centered dystopia wh
 
 **Karen Osborne** lives in Baltimore with two violins, an autoharp, four cameras, a husband and a bonkers orange cat. She’s been a reporter, a wedding videographer, a newspaper photographer, a high school English teacher, a Starfleet captain and a Scottish fiddler. Her short fiction currently appears at Escape Pod and is forthcoming in _Beneath Ceaseless Skies_. She is a graduate of Viable Paradise and the Clarion Writers’ Workshop, and while she hasn’t yet climbed the mountain herself, she keeps on staring at the skies. Karen can be found on Twitter at @karenthology and at [karenosborne.com](http://www.karenosborne.com).
 
-**Sarah Gailey**
+Hugo award winner **Sarah Gailey** is an internationally published writer of fiction and nonfiction. Their nonfiction has been published by Mashable and the _Boston Globe_, and they are a regular contributor for _Tor.com_ and _Barnes & Noble_. Their most recent fiction credits include _Fireside Magazine_, _Tor.com_, and _Uncanny Magazine_. Their debut novella, _River of Teeth_, was published in 2017 via Tor.com and was a 2018 Hugo and Nebula award finalist. They have a novel forthcoming from Tor Books in Spring 2019. You can find links to their work at [sarahgailey.com](http://www.sarahgailey.com); find them on social media [@gaileyfrey](https://twitter.com/gaileyfrey).
 
 **Eden Royce** is the recipient of the Speculative Literature Foundation’s Diverse Worlds grant and a regular contributor to Graveyard Shift Sisters. Her fiction has appeared in _FIYAH Literary Magazine of Black Speculative Fiction_ and on PodCastle. She is the author of the short story collection, _Spook Lights: Southern Gothic Horror_.
 
