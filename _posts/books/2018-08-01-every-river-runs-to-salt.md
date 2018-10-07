@@ -25,6 +25,12 @@ author-img: rachael-k-jones.jpg
 The Pacific Ocean is a big thing to steal, and Quietly's roommate Imani never does anything small. But then Imani goes and dies, and Quietly is left to travel to the Under-Ath (the underworld beneath Athens, Georgia), with angry gods at her heels, to clean up the mess Imani left behind and try to rescue her friend.
 
 ## Reviews
+"A beautiful story of friendship, love and katabasis set in a version of Athens, Ga., where a woman can have a glacier for an ancestor and steal an ocean on a whim.
+
+"The prose is gorgeous, and the specificity of place is an enjoyable counterpoint to the mythic vastness of a story about traveling to the underworld."
+
+—Amal El-Mohtar, [_New York Times Review of Books_](https://www.nytimes.com/2018/10/05/books/review/cl-polk-witchmark.html)
+
 "Lyrical, raw, stubbornly poetic—Jones writes young love, cold water, and brutal magic. A painfully good read."
 
 —Lilith Saintcrow
