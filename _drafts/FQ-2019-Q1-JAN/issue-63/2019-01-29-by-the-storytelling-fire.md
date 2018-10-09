@@ -92,7 +92,7 @@ The two brothers loved each other, but as the intrigues of courts would have it,
 
 "This sounds like a sad story."
 
-"Your story was a sad story."
+"_Your_ story was a sad story."
 
 "I know, but after your criticism of my story, I thought you’d have a more cheerful one."
 

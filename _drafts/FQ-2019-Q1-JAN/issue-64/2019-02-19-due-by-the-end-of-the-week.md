@@ -75,7 +75,7 @@ When the bell rings, I dash over to his desk before he disappears into the crowd
 
 Derek gives me the kind of I’m-better-than-you glance I see more often in the cafeteria from the meaner girls on my cheer squad. "_Hey._" Same tone, too.
 
-We should exchange numbers or something ... maybe meet up later and brainstorm?"
+"We should exchange numbers or something ... maybe meet up later and brainstorm?"
 
 "_Mmhmm_" Then, just as smug as any mean girl: "Can you even _begin_ to answer the project’s question without any assistance?"
 
@@ -89,7 +89,7 @@ Derek’s already zipping his bag shut and walking off.
 
 In my ear, Stella scrapes like nails on chalkboard. "Kelly! What are you waiting for?!"
 
-I’m gonna get an F. I just know it. 
+I’m gonna get an F. I just know it.
 
 ----
 
@@ -123,7 +123,7 @@ These seem new ... have you seen these before, Stella?" When I pull my hair off 
 
 I sigh "I hope not."
 
-Stella ooks up at me and scowls. "What’s your problem today, Kelly?"
+Stella looks up at me and scowls. "What’s your problem today, Kelly?"
 
 "My problem? My problem is that I can’t afford to fail Sociology, or else I won’t be able to do any more of _this._" I gesture at the dead slimy centipodal alien angrily, then lean my hair into the only clean sink in the room. "But I can’t do anything about that if you need me when I should be planning this project, can I?"
 
@@ -147,7 +147,7 @@ He raises his head and notices me through the glass right away. My eyes widen, a
 
 I pause. "... what's _that_ supposed to mean?"
 
-"Nothing." Hesat shutting books and getting up.
+"Nothing." He starts shutting books and getting up.
 
 "Wait! I mean it, I want to make this project work." I snatch one book off the table — _Sociology: Themes and Perspectives_ by Haralambos and Holborn — and I immediately regret it because that shit can crack concrete. "I’m not just asking because I need to pass this class, I’m asking because I want to understand what’s happening in it. That’s what these projects are for, right? To help us grasp the subject matter?"
 
@@ -159,7 +159,7 @@ He rolls his eyesaan and just as they’re curling downward, the bell rings, and
 
 I let out the shortest, quietest sigh. As I look down, there’s more green goop sticking my right shoe heel to the desk beside me.
 
-I’m already fed up of this day, you guys. 
+I’m already fed up of this day, you guys.
 
 ----
 
@@ -168,7 +168,7 @@ After school, Kelly gives me another awkward, meek look from the other end of th
 I'm in there late. I don't check the clock 'til Miss Dempsey finally decides she can't stay any longer, and by then it's a quarter to ten. I feel I have enough for a decent grade. Mind you, Kelly’s blowing up my phone the whole time, and I don’t care to stop reading just to find out why. Miss Dempsey asks if I need a ride home, I say no, she asks if I'm sure, I reassure her that I'm old enough and smart enough to take the ten p.m. bus, she sighs and whispers that it's not her business.
 
 And then, dude, the freakiest thing happens.
- 
+
 _Bam!_ Giant monster in the middle of the street by the corner of Albion and Pine. Tearing up cars, sending the shopkeepers on the block scampering either to find a place to hide or to lock up and run away. It's this long, liquidy thing, a hundred tentacles on the ends of a hundred tentacles, eyes collapsing into mouths collapsing into eyes again — like, just imagine some six-year-old's crayon drawing of a monster, in 3D, with a temper.
 
 My bus stop's three blocks behind the thing, and I can't tell if it's looking at me, because technically it's looking everywhere. I'm frozen. It was pants-wettingly frightening, dude. Not like I wet my pants, of course. I wouldn't leave that out if I did. I didn't. Really, I didn't! But I would have!
@@ -182,8 +182,8 @@ Then she says something like, "Handsome, intelligent, all-round awesome citizen,
 When I get home, I check my phone again. One text message — from Kelly. And can you guess what she says?
 
 Yep."Hey, can we talk in the morning? I can’t do this project alone." Smile emoji, smile emoji. While I almost died, she had no will to start reading or putting anything together herself?
- 
-Goddamn Kelly Francis. 
+
+Goddamn Kelly Francis.
 
 ----
 
@@ -229,7 +229,7 @@ Or can I?
 
 You know what?
 
-I didn’t buy thre whole cans of Red Bull for nothing. 
+I didn’t buy three whole cans of Red Bull for nothing.
 
 ----
 
@@ -252,5 +252,3 @@ Just as the bell rings, I make to go over to Derek, to say I didn’t want to go
 And just as I wonder, mid-stride, why he even deserves one, my earrings chime, and I cover my ears. "Kelly? Are you there?"
 
 Yesterday I would have sighed, but today I can’t help but chuckle. "Aren’t I always?"
-
-
