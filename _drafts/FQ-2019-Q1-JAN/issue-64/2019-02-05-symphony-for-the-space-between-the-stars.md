@@ -38,7 +38,7 @@ The scale of the galaxy does not allow for accidental rendezvous; the odds make 
 
 _Aurora_ does not hide her rebuke. <Protocol requires our captains to parlay before any ship-to-ship communication occurs.>
 
-<My captain and crew are dead. Epilson-6 virus.>
+<My captain and crew are dead. Epsilon-6 virus.>
 
 <Same.> _Aurora_ replies. <Why are you here?>
 

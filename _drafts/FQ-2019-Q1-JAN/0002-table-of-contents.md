@@ -38,7 +38,7 @@ XX — Due by the End of the Week
 a story by Brandon O'Brien
 illustrated by Ashanti Forston
 
-XX — Symphony for the Space Between the Stars
+XX — Symphony for the Space Between Stars
 a story by Jenn Reese
 
 XX — A Martian Woman's Guide to Surviving the Gravity Chamber
