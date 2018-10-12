@@ -56,9 +56,9 @@ Back in his own room, Brian sits on the edge of his bed, thinking about Andre, t
 
 The alarm goes off at six a.m., but Brian’s already awake. He usually gets up around now for work, making calls to his usual contacts to see if any solar panel installation projects around the Bay Area could use a spare hand. Not today.
 
-After a quick run to the corner store to grab some bread, half-a-dozen eggs and whipped cream, he’s back home with the whole place smelling like bacon. In the cluttered kitchen, three strips sizzle on a cast-iron skillet. Brian cracks two eggs over a small silver bowl to make the batter for Happy Face French Toast, a home-cooked meal to start their father-son day off right.
+After a quick run to the corner store to grab some bread, half-a-dozen eggs, and whipped cream, he’s back home with the whole place smelling like bacon. In the cluttered kitchen, three strips sizzle on a cast-iron skillet. Brian cracks two eggs over a small silver bowl to make the batter for Happy Face French Toast, a home-cooked meal to start their father-son day off right.
 
-When Brian was a kid, his fourth grade teacher, Mrs. Dickenson, used to lecture about how crucial breakfast was for concentration, how poor nutrition leads to poor grades and so forth. Of course, all those Fs Brian got had nothing to do with food. But he believed her back then. And stuffed his face morning, noon and night, which added weight but not wisdom, and gave the other kids even more cause to call him slow.
+When Brian was a kid, his fourth grade teacher, Mrs. Dickenson, used to lecture about how crucial breakfast was for concentration, how poor nutrition leads to poor grades and so forth. Of course, all those Fs Brian got had nothing to do with food. But he believed her back then. And stuffed his face morning, noon, and night, which added weight but not wisdom, and gave the other kids even more cause to call him slow.
 
 Andre walks in, wearing faded Spider-Man pajamas, dragging his feet, eyes on the floor.
 
@@ -102,11 +102,11 @@ The alarm goes off at six a.m., but Brian’s already awake. He usually gets up 
 
 ----
 
-There are no books at the busy Stockton library on North El Dorado Street. Not real books you can actually hold—only white shelves lined with holograms of titles for visitors to download to e-readers or upload to a VR booth on the second floor. Brian stands at the entrance, culture-shocked, an analog man in a digital world that’s passed him by.
+There are no books at the busy Stockton library on North El Dorado Street. Not real books you can actually hold — only white shelves lined with holograms of titles for visitors to download to e-readers or upload to a VR booth on the second floor. Brian stands at the entrance, culture-shocked, an analog man in a digital world that’s passed him by.
 
 "Can I help you?" asks a box-shaped robot librarian with a monitor for a head.
 
-"Oh, um … alright then," Brian says, caught off guard. "I’m looking for a, uh, a bug book—I mean, a book about a bug, but I forgot the name …"
+"Oh, um … alright then," Brian says, caught off guard. "I’m looking for a, uh, a bug book — I mean, a book about a bug, but I forgot the name …"
 
 The librarian’s face blinks, then shows a long list: hundreds of thousands of results for bug books. But all those books, all those titles look like nothing to him but a jumbled mess of black marks jumping on a white screen.
 
@@ -204,7 +204,7 @@ The used bookstore off Thorton Road is a throwback, a forgotten relic with actua
 
 "Like a nature book?"
 
-"Nah, like, uh, it’s a kid’s book—my son read it last night."
+"Nah, like, uh, it’s a kid’s book — my son read it last night."
 
 "A bug book. Lemme think." Affiq browses the shelves. "It’s good your boy still reading, though. This Teca bullshit got me all discombobulated. Bruh, whatever you do, keep your boy off that BookWorm."
 
@@ -246,7 +246,7 @@ The used bookstore off Thorton Road is a throwback, a forgotten relic with actua
 
 ----
 
-Sitting in his pickup at McKinley Park, Brian is trying to understand the book he just bought. He’s been re-reading and re-re-reading sentences. So far, he’s figured that Anansi wants to be the King of All Stories, but the sky-god tells the spider he can’t have all the stories till he passes the test. Anansi says he’s ready for anything, so the sky-god says he must catch three things: hornets, a python and a leopard … And that’s as far as Brian got. He doesn’t know how the spider’s gonna pull this one off. But Brian thinks this book will be a good gift for his boy since, evidently, he’s into bugs now.
+Sitting in his pickup at McKinley Park, Brian is trying to understand the book he just bought. He’s been re-reading and re-re-reading sentences. So far, he’s figured that Anansi wants to be the King of All Stories, but the sky-god tells the spider he can’t have all the stories till he passes the test. Anansi says he’s ready for anything, so the sky-god says he must catch three things: hornets, a python, and a leopard … And that’s as far as Brian got. He doesn’t know how the spider’s gonna pull this one off. But Brian thinks this book will be a good gift for his boy since, evidently, he’s into bugs now.
 
 "He’ll like this," Brian says, nodding to himself, trying to forget what Affiq was saying about mind control and crack. Is Brian a good father? The question rattles around in his brain and he realizes he lost track of time. The sun is almost gone. Flooded by fear, he commands the truck to call home.It rings. And rings. But nobody answers.
 
@@ -296,7 +296,7 @@ When Brian gets home, all the lights are off. He doesn’t see anything or hear 
 
 Brian recoils. "Say what?"
 
-"Read Foucault. Read Fanon. You’ll see! We’ve been conditioned to fear ‘the other’ and hate ‘the other,’ which is us. We’re perpetrating—I mean, per-pet-uating our own self-punishment system."
+"Read Foucault. Read Fanon. You’ll see! We’ve been conditioned to fear ‘the other’ and hate ‘the other,’ which is us. We’re perpetrating — I mean, per-pet-uating our own self-punishment system."
 
 "Why you talking like a white boy?"
 
@@ -366,7 +366,7 @@ The late January sun is down. Brian is lying in the master bedroom. Almost an ho
 
 The boy frowns. "I don’t get it." He takes the book from him.
 
-As Andre flips through the pages, Brian starts unpacking boxes, avoiding eye contact, keeping his hands busy so the boy won’t see them shaking. What was he thinking?! This is stupid—he’s stupid! And now his son will see him for the failure that he is. And all Brian wants to do now is snatch the book back and run away and crawl under covers to hide because he knows the boy’s laughing behind his back, realizing his own father’s a fat motherfucking idiot—
+As Andre flips through the pages, Brian starts unpacking boxes, avoiding eye contact, keeping his hands busy so the boy won’t see them shaking. What was he thinking?! This is stupid — he’s stupid! And now his son will see him for the failure that he is. And all Brian wants to do now is snatch the book back and run away and crawl under covers to hide because he knows the boy’s laughing behind his back, realizing his own father’s a fat motherfucking idiot—
 
 "Dad?"
 
