@@ -37,11 +37,11 @@ More warriors ventured up the wall, where they too were crushed into meat pattie
 
 Emperor Liu promised his second largest emerald as additional reward.
 
-Jiao, a gray-haired palace laundry woman, left the room where she had been folding sheets. She went to the servants' kitchen where her son worked, begged from him a skinned lamb and a carving knife, kissed her son and told him to be good. Then she made her way north toward the serpent.
+Jiao, a gray-haired palace laundry woman, left the room where she had been folding sheets. She went to the servants' kitchen where her son worked, begged from him a skinned lamb and a carving knife, kissed her son, and told him to be good. Then she made her way north toward the serpent.
 
 The soldiers on guard smirked as they saw her waddling along, arms laden with the bloodied lamb, a kitchen knife strapped to her belt. One of the younger men, worried for her, shouted, "Careful, old mother, the snake will swallow you up as easily as a toad swallows a fly."
 
-Jiao nodded to him, and headed up the stairs that climbed the wall.The men watched, but did not stop her.
+Jiao nodded to him, and headed up the stairs that climbed the wall. The men watched, but did not stop her.
 
 Lord Serpent watched, but did not fear her. He did, however, smell the raw lamb in her grasp. He smelled it and he hungered. Rather than crushing Jiao beneath his bulk, he darted his head forward, swallowing her and the lamb together, as easily as a toad swallows a fly.
 
