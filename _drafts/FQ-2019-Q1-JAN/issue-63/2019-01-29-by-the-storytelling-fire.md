@@ -34,7 +34,7 @@ This princess learned all the things that princesses learn. She learned how to k
 
 The king was a short-sighted man. He was devoid of ill-intent, but also of talent at things kings should be good at, and could not think of how to protect his little kingdom from a war brewing around it. Out of desperation, the king sold his entire kingdom to a fairy who put everyone in it into an enchanted sleep. A wall of thorns grew around the land like a nest of swords between mountain peaks. The kingdom thus would be safe and sound for at least three hundred years. The fairy promised that when the time came, an intrepid man would cut through the wall of thorns, riddle out the secret of the people’s sleep, and awaken the fiefdom by kissing the princess.
 
-The princess was enraged by this. She had been promised a say in who she would marry someday, since that was how her mother had done it, and how her mother’s mother had done it, and her mother’s mother’s mother before them. But done was done, and weeping, the princess submitted to the bed.
+The princess was enraged by this. She had been promised a say in who she would marry someday, since that was how her mother had done it, and how her mother’s mother had done it, and her mother’s mother’s mother before them. But done was done and, weeping, the princess submitted to the bed.
 
 ----
 
@@ -52,7 +52,7 @@ The princess was enraged by this. She had been promised a say in who she would m
 
 One day, a young man came to the kingdom. He found his way through the wall of thorns, into the secret of the kingdom’s enchantment, and to the princess’s bedchamber, where he found her sleeping.
 
-The fairy demanded that he kiss the princess, for the fairy had chosen him to break the enchantment on the land. But he refused, and though the fairy tried to stop him, he left the castle, leaving the princess and all her subjects to their sleep.
+The fairy demanded that he kiss the princess, for the fairy had chosen him to break the enchantment on the land. But he refused and, though the fairy tried to stop him, he left the castle, leaving the princess and all her subjects to their sleep.
 
 What the young man did not know was that the princess heard him, heard his denial of the fairy, and his denial to kiss her awake. She was not awake enough to hear the details, but was so shocked that she forced herself to awaken at once. The fairy tried to stop her too.
 
@@ -70,7 +70,7 @@ Unfortunately, the enchantment of the fairy did not lift, and the princess resol
 
 "That’s not really a story," he said. "It doesn’t have a proper ending."
 
-"Why?" she asked, "what should its ending be?"
+"Why?" she asked. "What should its ending be?"
 
 "Oh, I don’t know."
 
@@ -114,7 +114,7 @@ Curious, he investigated the provenance of the kingdom’s deep sleep: he found 
 
 "The princess. Was she beautiful?"
 
-"I don’t—why are you asking—I just—let’s say for the sake of the story that she was."
+"I don’t — why are you asking — I just — let’s say for the sake of the story that she was."
 
 She laughed.
 
@@ -150,4 +150,4 @@ A branch in the fire popped, sending a spark into the air that was carried into 
 
 ----
 
-They were happy together
+They were happy together.
