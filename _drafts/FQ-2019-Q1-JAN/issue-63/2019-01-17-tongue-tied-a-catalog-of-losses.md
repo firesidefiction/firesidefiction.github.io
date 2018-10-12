@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Tongue-tied: A Catalog of Losses"
+title: "Tongue-Tied: A Catalog of Losses"
 author: Layla Al-Bedawi
 editor: Julia Rios
 date: 2019-01-17 01:00:01 -0500
@@ -55,7 +55,7 @@ proofread: false
 ----
 
 **I - Indifference**
-One of the factors thought to trigger the onset of L1 attrition is integrative motivation: the desire to maintain ones cultural ties. The physical distance to the country of your birth and the lack of communication with those who speak your native language may be eating away at your words, but so is, you're beginning to understand, your own emotional distance.When you first encounter the concept of L1 attrition, there's relief at having learned the name for the way certain German words and constructions have begun to feel threadbare and slippery. But you quickly realize that naming it doesn't absolve you of anything, that this, too, is somehow your fault, a punishment for decades of using the language you shared with your parents as a barrier rather than a bridge.
+One of the factors thought to trigger the onset of L1 attrition is integrative motivation: the desire to maintain ones' cultural ties. The physical distance to the country of your birth and the lack of communication with those who speak your native language may be eating away at your words, but so is, you're beginning to understand, your own emotional distance. When you first encounter the concept of L1 attrition, there's relief at having learned the name for the way certain German words and constructions have begun to feel threadbare and slippery. But you quickly realize that naming it doesn't absolve you of anything, that this, too, is somehow your fault, a punishment for decades of using the language you shared with your parents as a barrier rather than a bridge.
 
 ----
 
@@ -108,17 +108,17 @@ proofread: false
 ----
 
 **R - Ransom**
-For days you keep looking at your father's message, typed out in clunky German, his fourth language after Kurdish and Arabic and Russian. In spite of errors in spelling and grammar it gets the point across perfectly. They’re selling the house. If you want to see it one last time, you better do it soon. Text and subtext. More ransom note than invitation.
+For days you keep looking at your father's message, typed out in clunky German, his fourth language after Kurdish and Arabic and Russian. In spite of errors in spelling and grammar, it gets the point across perfectly. They’re selling the house. If you want to see it one last time, you better do it soon. Text and subtext. More ransom note than invitation.
 
 ----
 
 **S - Sorry**
-You're fourteen, fifteen, sixteen and your mother says, “You should be a lawyer,” bitter and impressed about how you turn every argument in your favor through a vicious twisting of a language that is not her own.  Two decades later you don't think you can win a single argument in German anymore. All you have left are apologies, and you've lost the ear to judge whether they sound at all sincere.
+You're fourteen, fifteen, sixteen, and your mother says, “You should be a lawyer,” bitter and impressed about how you turn every argument in your favor through a vicious twisting of a language that is not her own.  Two decades later you don't think you can win a single argument in German anymore. All you have left are apologies, and you've lost the ear to judge whether they sound at all sincere.
 
 ----
 
 **T - Trust**
-Like many children of recent immigrants you're on phone pick-up duty throughout your childhood. In the corner of your living room sits a forest green rotary and you hate it. One time you answer the phone in front of your parents and a stranger asks you if you ever touch yourself. Your parents can't hear him and stare at you bewildered, gesticulating that you have to either speak or hand them the phone. At some point he asks you your name and you tell him, because it's the only one of his questions that feels safe. When you hang up you tell your parents that you can't remember the caller’s name and didn't understand what he wanted, because telling the truth would be too embarrassing and you're scared that somehow this whole situation is your fault. You get in trouble, because what if the call was important? Three decades later, you can’t really blame your parents. What choice did they have but to lean on the one person in the house who was fluent in this country's language: their five-year-old kid.
+Like many children of recent immigrants, you're on phone pick-up duty throughout your childhood. In the corner of your living room sits a forest green rotary and you hate it. One time you answer the phone in front of your parents and a stranger asks you if you ever touch yourself. Your parents can't hear him and stare at you bewildered, gesticulating that you have to either speak or hand them the phone. At some point he asks you your name and you tell him, because it's the only one of his questions that feels safe. When you hang up you tell your parents that you can't remember the caller’s name and didn't understand what he wanted, because telling the truth would be too embarrassing and you're scared that somehow this whole situation is your fault. You get in trouble, because what if the call was important? Three decades later, you can’t really blame your parents. What choice did they have but to lean on the one person in the house who was fluent in this country's language: their five-year-old kid.
 
 ----
 
@@ -150,4 +150,4 @@ proofread: false
 ----
 
 **Z - Zero-sum**
-Sometimes you acquire native-like abilities in a second language and you realize too late that what you've traded in for it was your past. Sometimes you meet the favorite author of your youth and driving home you wonder if he’s a little bit embarrassed to have written a self-indulgent memoir and subtitling it A Chronicle of Early Failure. Sometimes you buy your first home, a one-story cookie-cutter number on a better street in a poor neighborhood and you live there for three years before you sell it and move to another state, and the biggest loss about the whole thing is that your parents, even after multiple invitations, didn’t come to see it even once.You tell yourself you will visit them in their new home. You know that time, too, has a tendency to evaporate when you're not looking straight at it, and what you fear most is running out of time while you're 5,127 miles away, when it's been years since you last held your parents. That, more than your words back, is what you desperately want: to hold them and to be held, like a meadow breath, a last, precious egg.
+Sometimes you acquire native-like abilities in a second language and you realize too late that what you've traded in for it was your past. Sometimes you meet the favorite author of your youth and driving home you wonder if he’s a little bit embarrassed to have written a self-indulgent memoir and subtitling it A Chronicle of Early Failure. Sometimes you buy your first home, a one-story cookie-cutter number on a better street in a poor neighborhood and you live there for three years before you sell it and move to another state, and the biggest loss about the whole thing is that your parents, even after multiple invitations, didn’t come to see it even once. You tell yourself you will visit them in their new home. You know that time, too, has a tendency to evaporate when you're not looking straight at it, and what you fear most is running out of time while you're 5,127 miles away, when it's been years since you last held your parents. That, more than your words back, is what you desperately want: to hold them and to be held, like a meadow breath, a last, precious egg.
