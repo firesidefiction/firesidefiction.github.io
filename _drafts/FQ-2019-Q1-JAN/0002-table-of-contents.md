@@ -25,7 +25,7 @@ illustrated by Galen Dara
 XX — By the Storytelling Fire
 a story by Jaymee Goh
 
-XX — Tongue-tied: A Catalog of Losses
+XX — Tongue-Tied: A Catalog of Losses
 an essay by Layla Al-Bedawi
 
 XX — Teeth
@@ -36,7 +36,7 @@ a story by Stu West
 
 XX — Due by the End of the Week
 a story by Brandon O'Brien
-illustrated by Ashanti Forston
+illustrated by Ashanti Fortson
 
 XX — Symphony for the Space Between Stars
 a story by Jenn Reese
@@ -63,7 +63,7 @@ a story by A. T. Greenblatt
 XX — Imposter/Abuser
 an essay by Sarah Gailey
 
-XX — Parasitismo/Parasitismo
+XX — Parasitismo/Parasitism
 a story by Alberto Chimal
 
 XX — The Unseen
