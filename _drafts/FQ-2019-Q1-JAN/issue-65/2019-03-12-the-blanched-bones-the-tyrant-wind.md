@@ -49,7 +49,7 @@ She slides off the pile in a clamor of emeralds. The soles of her feet are bare 
 
 She places her finger against her lips and slides the fur around my shoulders, tugging me under a dark archway and into a tunnel. At the end is a cavern full of noise and smoke and light, the ceiling cracked open to reveal the livid sky. We stand above a village of sorts: tents and forges, farms and bakeries, gardens and libraries, settled around the gaping curves of a rib cage so colossal, so alabaster, it could only have belonged to one creature in the entire world.
 
-The village is filled with women, their feet slashed with old, white scars.I see women of all ages, tending mushroom farms, raising chickens and cooking stew. Women shaping suits of armor from the shining scales that litter the cavern floor. Women cutting daggers from colossal, jagged teeth. Women training to fight. I see the girl who went up the mountain six months ago, the girl who I thought had been ripped into meat and dust. She holds a sword that glints char-gold in the firelight.
+The village is filled with women, their feet slashed with old, white scars.I see women of all ages, tending mushroom farms, raising chickens, and cooking stew. Women shaping suits of armor from the shining scales that litter the cavern floor. Women cutting daggers from colossal, jagged teeth. Women training to fight. I see the girl who went up the mountain six months ago, the girl who I thought had been ripped into meat and dust. She holds a sword that glints char-gold in the firelight.
 
 I smell fire and wine, bread baking on hot coals, the sharp anticipation of war.
 
