@@ -58,7 +58,7 @@ What the young man did not know was that the princess heard him, heard his denia
 
 First it tried to trick her into believing that she was still asleep. But the princess found her embroidery basket and sliced her palm open with a pair of scissors, and knew she was awake when she began to bleed.
 
-Then it tried to bargain with her: wealth forevermore, long life, an empire. The princess refused all of these: she would not live forevermore to have wealth, she was of a healthy constitution that she would live long anyway, and she had no need for an empire, which is much more difficult to care for than a kingdom.
+Then it tried to bargain with her: wealth forevermore, long life, an empire. The princess refused all of these: she would not live forevermore to have wealth, she was of a healthy enough constitution that she would live long anyway, and she had no need for an empire, which is much more difficult to care for than a kingdom.
 
 Finally it turned itself into an ogre and tried to return her to bed by force. It chased the princess through the castle, and the princess took refuge inside an armoire. The fairy returned to its small size, and entered the armoire through its tiny keyhole, whereupon the princess seized the fairy and snip-snip, cut it in two.
 
