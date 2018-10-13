@@ -50,12 +50,13 @@ The lab tech that draws my blood every day tells me she's pretty sure one of her
 
 8. Ignore the hormones raging through your body, the weight you're gaining, the needle bruises on your ass.
 
-9. Watch videos of a babies coming out of the TerraWomb. Try not to cry, or throw something.
+9. Watch videos of babies coming out of the TerraWomb. Try not to cry, or throw something.
 
 I am three days away from retrieval. My uterus is full of marbles. It's painful to walk, to pee, to sit down.
 
 They put me under and shove a needle inside me. The needle shoots out fluid, which detaches my eggs. The needle collects the eggs, pulls out. It's done.
-I'm awake and being sent home. I get a pat on the back on my way out- 18 follicles! They'll see me again in a year or so if I choose to continue to help us survive.
+
+I'm awake and being sent home. I get a pat on the back on my way out — 18 follicles! They'll see me again in a year or so if I choose to continue to help us survive.
 
 I go home and think about Scott. I rub my empty womb until my skin turns red, blending with the dust of Mars.
 
