@@ -79,7 +79,7 @@ Derek gives me the kind of I’m-better-than-you glance I see more often in the 
 
 "_Mmhmm_" Then, just as smug as any mean girl: "Can you even _begin_ to answer the project’s question without any assistance?"
 
-I pause. I know broad strokes, but not even know how to begin describing those parts off the top of my head. "Uh ... social control theory says that ... um ... agents of socialization stop us from committing crimes, but Cohen says crime itself is useful, and—"
+I pause. I know broad strokes, but not even how to begin describing those parts off the top of my head. "Uh ... social control theory says that ... um ... agents of socialization stop us from committing crimes, but Cohen says crime itself is useful, and—"
 
 "So, no?"
 
@@ -95,7 +95,7 @@ I’m gonna get an F. I just know it.
 
 I start working on my own, because Lord knows I’m never gonna hear from Kelly until the morning before class. I dip into the library that lunchtime, take the best notes I can from their reference textbooks, nod to Miss Dempsey as she gives me the usual "O, you're so studious!" routine like it's news that I'm always here, in the library, the one place all the cool kids seem to be afraid of.
 
-Lo and behold, I meet Kelly's gaze as she's peeking through the library door glass. She darts in, coos an utterly unconvincing "I've been looking for you everywhere!" She knows she's been caught. I'm just surprised she decided to do anything about it. Her too-cool-for-school type typically don't even bother. But here she is, leaning over my stack of books and papers, asking what she can do to lighten the load.
+Lo and behold, I meet Kelly's gaze as she's peeking through the library door glass. She darts in, coos an utterly unconvincing, "I've been looking for you everywhere!" She knows she's been caught. I'm just surprised she decided to do anything about it. Her too-cool-for-school type typically don't even bother. But here she is, leaning over my stack of books and papers, asking what she can do to lighten the load.
 
 I can't help but notice that her hands look covered in some thin green goo that she must've tried to wash off and failed. The pair of gold-star earrings she's wearing seem to glisten in a way I hadn't ever noticed, and she looks positively windblown, like she just fell out of a tornado on the way here — afro all frazzled, brown eyes all deer-in-headlights. I want to ask sarcastically about the obvious weird make-out session she's just fled, but I don't actually give a damn.
 
@@ -117,11 +117,11 @@ I scrape a glob of the crap off my star-studded magical-girl uniform and chuck i
 
 "I get bored and random-article on Wikipedia too, you know." She winks and steps down from the window, poking at the extremities of the monster I’ve just killed. "So they _are_ on campus."
 
-These seem new ... have you seen these before, Stella?" When I pull my hair off the ceiling, it makes this skin-crawling _schlllllorp_ sound and I want to hurl.
+"These seem new ... have you seen these before, Stella?" When I pull my hair off the ceiling, it makes this skin-crawling _schlllllorp_ sound and I want to hurl.
 
 "New to me, too. I’ll have to do more research on them while you’re in class." Stella bites down on a tentacle and starts to pull. With less effort than a typical tabby’s teeth would take, she tears the thing off the rest of its body. It’s leaking green ooze and faded grey innards. I want to hurl even more. She gestures in the air with her paw, and a small purple portal opens at the wall for her to shove the limb and a severed eye through. "If I find anything interesting, I’ll let you know. Expect to hear from me soon — I suspect there’ll be another attack nearby."
 
-I sigh "I hope not."
+I sigh. "I hope not."
 
 Stella looks up at me and scowls. "What’s your problem today, Kelly?"
 
@@ -155,7 +155,7 @@ I pause. "... what's _that_ supposed to mean?"
 
 I want to ask somebody who this kid thinks he is, but twenty percent of my grade. "Look. I am serious about this. I can’t fail. Please. Just ... cut me some slack, okay?"
 
-He rolls his eyesaan and just as they’re curling downward, the bell rings, and he walks past me like I’m not even there.
+He rolls his eyes again, and just as they’re curling downward, the bell rings, and he walks past me like I’m not even there.
 
 I let out the shortest, quietest sigh. As I look down, there’s more green goop sticking my right shoe heel to the desk beside me.
 
@@ -181,7 +181,7 @@ Then she says something like, "Handsome, intelligent, all-round awesome citizen,
 
 When I get home, I check my phone again. One text message — from Kelly. And can you guess what she says?
 
-Yep."Hey, can we talk in the morning? I can’t do this project alone." Smile emoji, smile emoji. While I almost died, she had no will to start reading or putting anything together herself?
+Yep. "Hey, can we talk in the morning? I can’t do this project alone." Smile emoji, smile emoji. While I almost died, she had no will to start reading or putting anything together herself?
 
 Goddamn Kelly Francis.
 
@@ -213,7 +213,7 @@ I transform as I run, tapping the crystals gently, closing my eyes as the light 
 
 Once it’s done, I hover over the trees, and then westward to Pine. There’s a two-lane-wide streak of green slime leading in one direction, and an ocean of screaming people running in the other.
 
-"I see it" I whisper. "This one looks ... bigger."
+"I see it," I whisper. "This one looks ... bigger."
 
 "I did scans on the sample I took," Stella replies. "The whole thing is nearly impenetrable, save for the eyes."
 
@@ -239,7 +239,7 @@ So we’re in class, and Miss Holt waits for the rest of the kids to settle down
 
 Can you _believe_ it? Kelly set me up to save her own skin? Told Miss Holt I’m the one who wasn't contributing to the project! Dropped my grade even though I showed her all the work I had done, going on and on about how 'teamwork is important'. I wish I _had_ a better team! What was I supposed to do about that?
 
-I wish Kelly could be more like the monster-kicking girl. No matter how late it is, she knew she had a duty to fulfill, and that if she didn't people's literal lives would be at stake, so she stepped up and got shit done. I bet Monster-Kicking Girl gets tired, wants to hang out with her girlfriends or make out with boys or whatever too. But she knows she has work to do, and she does it.
+I wish Kelly could be more like the monster-kicking girl. No matter how late it was, she knew she had a duty to fulfill, and that if she didn't people's literal lives would be at stake, so she stepped up and got shit done. I bet Monster-Kicking Girl gets tired, wants to hang out with her girlfriends or make out with boys or whatever too. But she knows she has work to do, and she does it.
 
 But noooo, she has to be Kelly Francis, the least helpful girl in school, doesn't she? And she had to be in my group, didn't she?
 
