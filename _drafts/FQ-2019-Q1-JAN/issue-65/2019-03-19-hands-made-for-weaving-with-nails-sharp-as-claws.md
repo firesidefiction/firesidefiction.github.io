@@ -21,7 +21,7 @@ The blue house beside the big salt kept its secrets, as did the world weaver who
 
 When Mami Wata sent her hurry-canes, the world weaver would put on her linseed oil-cured cape, secure the door to the house, protect it with powdered brick, and head out in the driving rain to look for mermaids.
 
-Most times, there was only one, hidden in the arching sand dunes, cowering from her mother’s wrath. Goddesses never looked kindly on a lack of good sense, and getting caught on land at low tide was the height of foolishness. The weaver would speak to the maids in whispers that they heard over the wind and thrashing water, and coaxed them back to the ocean’s embrace. She guided them as they crawled, hand over hand, tails steering, bald heads sleek and glistening, into the waves. After they disappeared, the storm would slowly die, and the turbulent waters would return to their gentle cat-like lapping.
+Most times, there was only one, hidden in the arching sand dunes, cowering from her mother’s wrath. Goddesses never looked kindly on a lack of good sense, and getting caught on land at low tide was the height of foolishness. The weaver would speak to the maids in whispers that they heard over the wind and thrashing waters, coaxing them them back to the ocean’s embrace. She guided them as they crawled, hand over hand, tails steering, bald heads sleek and glistening, into the waves. After they disappeared, the storm would slowly die, and the turbulent waters would return to their gentle cat-like lapping.
 
 Far fewer were the maids dragged ashore in nets by fishermen, who quickly became entranced by their not-quite-humanness. Some had single tails like fish or sea ponies, others had eight or more trailing tentacles, coiling around the rough netting enclosing them. When that happened, the world weaver would discover the fishermen poking and prodding the maids instead of finding shelter from the sea Goddess’s wrath. It took some doing to convince the men to let Mami Wata’s gals go, but the world weaver mostly managed it without bloodshed.
 
@@ -31,9 +31,9 @@ It had been many a year since she had to leave her home and search the shores, a
 
 The house wasn’t actually afraid of being haunted, but it liked living beings inside itself, and from what it experienced over the years, the living and the dead rarely got along.
 
-It had been many a year since the world weaver had stitched together the veil. When she was younger, and still had dreams of living among the masses, she’d been on call for such repairs. But she soon found that despite her ability to patch rips between the worlds, usually caused by careless fools without respect for or belief in magic, no one wanted her around. She was an all too visible reminder that while diminished, magic still lived and breathed on the human side of the veil.
+It had been many a year since the world weaver had stitched together the veil. When she was younger, and still had dreams of living among the masses, she’d been on call for such repairs. But she soon found that despite her ability to patch rips between the worlds, usually caused by careless fools without respect for or belief in magic, no one wanted her around. She was an all too visible reminder that, while diminished, magic still lived and breathed on the human side of the veil.
 
-So the world weaver had packed her splinter needles and her frog hair thread and left the city and her dreams of living among others behind. The creatures from the breach that still survived followed her to the blue house, where she tore a hole in the world with her fingernails to allow them to return home. Then she sat on a sand dune, tucked her skirt between her thighs and whip stitched the hole closed again.
+So the world weaver had packed her splinter needles and her frog hair thread and left the city and her dreams of living among others behind. The creatures from the breach that still survived followed her to the blue house, where she tore a hole in the world with her fingernails to allow them to return home. Then she sat on a sand dune, tucked her skirt between her thighs, and whip stitched the hole closed again.
 
 The wind picked up, blowing her tears across her bronze cheeks. She didn’t brush them away, but turned into its force, allowing it to take her breath as well. Gasping, she sucked in a deep lungful of sea air, and it calmed her enough to return to the cozy warmth of the house.
 
@@ -79,7 +79,7 @@ This town wasn’t the same as the one she’d left. The symbols the townsfolk h
 
 Even the folk had changed. She didn’t mind the different clothes and hair – those styles never stayed long. It was their reaction to her presence. Once, they’d have avoided her, crossing the street to not have her steps cross theirs. Now, they followed her at a distance, pointing fingers and little boxes at her, and laughing behind their hands. Unsettled by their attention, she wondered how long she’d sat alone in the blue house overlooking the sea.
 
-This town was new and unfamiliar, but yet again, the folk here had judged her as apart from them. They did not understand their speech, but at least she could make sense of the signs and maps with some effort.
+This town was new and unfamiliar, but yet again, the folk here had judged her as apart from them. She did not understand their speech, but at least she could make sense of the signs and maps with some effort.
 
 How was she supposed to find the baby among all this? Even the feel of magic had left this place. She kept walking the stone, resolute in her task, sand crunching beneath her.
 
