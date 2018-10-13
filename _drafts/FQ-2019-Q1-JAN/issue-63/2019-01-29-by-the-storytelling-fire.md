@@ -9,7 +9,7 @@ permalink: by-the-storytelling-fire
 published: false
 teaser: "The fairy demanded that he kiss the princess, for the fairy had chosen him to break the enchantment on the land. But he refused…"
 author-bio: |
-  Jaymee Goh is a writer, poet, editrix, and scholar of science fiction and fantasy from the little suburb of Subang Jaya, Selangor, Malaysia. She wrote a dissertation on whiteness and multiculturalism in steampunk at the University of California, Riverside, and is a graduate of the 2016 Clarion Science Fiction and Fantasy Writing Workshop. She co-edited _The SEA Is Ours: Tales of Steampunk Southeast Asia_, and edited _The WisCon Chronicles Vol 11: Trials by Whiteness_.
+  **Jaymee Goh** is a writer, poet, editrix, and scholar of science fiction and fantasy from the little suburb of Subang Jaya, Selangor, Malaysia. She wrote a dissertation on whiteness and multiculturalism in steampunk at the University of California, Riverside, and is a graduate of the 2016 Clarion Science Fiction and Fantasy Writing Workshop. She co-edited _The SEA Is Ours: Tales of Steampunk Southeast Asia_, and edited _The WisCon Chronicles Vol 11: Trials by Whiteness_.
 
 proofread: false
 ---

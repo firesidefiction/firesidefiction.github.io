@@ -10,7 +10,7 @@ published: false
 teaser: "Having virtuous Black female characters isn’t harmful by itself, but in not embracing the negative aspects of humanity it gives a limited view of the human experience…"
 author-img: kenesha-williams.jpg
 author-bio: |
-  Kenesha Williams is an independent author, screenwriter, speaker, and Founder/Editor-in-Chief of _Black Girl Magic Lit Mag_. She has been a panelist and speaker at StokerCon, Boskone, the East Coast Black Age of Comics Convention, the 2017 African Americans Expo, and the Black Speculative Arts Movement Convention.
+  **Kenesha Williams** is an independent author, screenwriter, speaker, and Founder/Editor-in-Chief of _Black Girl Magic Lit Mag_. She has been a panelist and speaker at StokerCon, Boskone, the East Coast Black Age of Comics Convention, the 2017 African Americans Expo, and the Black Speculative Arts Movement Convention.
 proofread: false
 ---
 

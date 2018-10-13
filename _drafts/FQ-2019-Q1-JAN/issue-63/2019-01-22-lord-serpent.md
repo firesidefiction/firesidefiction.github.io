@@ -10,7 +10,7 @@ published: false
 teaser: "The fourth demon took the form of a giant serpent, two hundred feet long and as wide in girth as a wagon."
 author-img: mary-soon-lee.jpg
 author-bio: |
-  Mary Soon Lee was born and raised in London, but has lived in Pittsburgh for over twenty years. She writes both fiction and poetry, and has won the Rhysling Award and the Elgin Award. Her credits include _Analog_, _Daily Science Fiction_, _Fantasy & Science Fiction_, _Lightspeed_, and 119 haiku in _Science_. She has an antiquated website at [http://www.marysoonlee.com](http://www.marysoonlee.com)
+  **Mary Soon Lee** was born and raised in London, but has lived in Pittsburgh for over twenty years. She writes both fiction and poetry, and has won the Rhysling Award and the Elgin Award. Her credits include _Analog_, _Daily Science Fiction_, _The Magazine of Fantasy & Science Fiction_, _Lightspeed Magazine_, and 119 haiku in _Science_. She has an antiquated website at [http://www.marysoonlee.com](http://www.marysoonlee.com).
 art: lord-serpent.jpg
 caption: "An Asian serpent surrounds a Chinese fortress. An old woman looks on."
 artist: Galen Dara

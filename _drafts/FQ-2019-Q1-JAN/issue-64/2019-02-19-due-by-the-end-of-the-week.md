@@ -10,13 +10,13 @@ published: false
 teaser: "Twenty percent of my final grade. Wrapped up in a class presentation with a ditzy cheerleader who has been in class maybe five periods total."
 author-img: brandon-obrien.jpg
 author-bio: |
-  Brandon O’Brien is a performance poet and writer from Trinidad. His work has been shortlisted for the 2014 Alice Yard Prize for Art Writing and the 2014 and 2015 Small Axe Literary Competitions, and is published in _Uncanny Magazine_, _Strange Horizons_, _Reckoning_, and _New Worlds, Old Ways: Speculative Tales from the Caribbean_, among others. He is also the poetry editor of _FIYAH Magazine_.
+  **Brandon O’Brien** is a performance poet and writer from Trinidad. His work has been shortlisted for the 2014 Alice Yard Prize for Art Writing and the 2014 and 2015 Small Axe Literary Competitions, and is published in _Uncanny Magazine_, _Strange Horizons_, _Reckoning_, and _New Worlds, Old Ways: Speculative Tales from the Caribbean_, among others. He is also the poetry editor of _FIYAH Magazine_.
 art: due-by-the-end-of-the-week.jpg
-caption: "TK"
+caption: "A high-school student wearing a super hero costume fights a mosnter, while a cowardly classmate looks on."
 artist: Ashanti Fortson
 artist-img: ashanti-fortson.jpg
 artist-bio: |
-  Ashanti Fortson is an illustrator and cartoonist with a deep love for kind stories and fantastical settings. Their work has been published by _ZEAL_ and _The Nib_, as well as in various comics anthologies. They make a space fantasy webcomic called _Galanthus_, and they hope to one day see the Milky Way. You can reach them at ashantifortson@gmail.com.
+  **Ashanti Fortson** is an illustrator and cartoonist with a deep love for kind stories and fantastical settings. Their work has been published by _ZEAL_ and _The Nib_, as well as in various comics anthologies. They make a space fantasy webcomic called _Galanthus_, and they hope to one day see the Milky Way. You can reach them at ashantifortson@gmail.com.
 proofread: false
 ---
 

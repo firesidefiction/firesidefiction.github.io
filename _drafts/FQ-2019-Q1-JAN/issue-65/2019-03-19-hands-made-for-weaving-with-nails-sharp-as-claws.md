@@ -10,10 +10,8 @@ published: false
 teaser: "It took some doing to convince the men to let Mami Wata’s gals go, but the world weaver mostly managed it without bloodshed."
 author-img: eden-royce.jpg
 author-bio: |
-  Eden Royce is the recipient of the Speculative Literature Foundation’s Diverse Worlds grant and a regular contributor to Graveyard Shift Sisters. Her fiction has appeared in _FIYAH Literary Magazine of Black Speculative Fiction_ and on PodCastle. She is the author of the short story collection, _Spook Lights: Southern Gothic Horror_.
-
+  **Eden Royce** is the recipient of the Speculative Literature Foundation’s Diverse Worlds Grant and a regular contributor to _Graveyard Shift Sisters_. Her fiction has appeared in _FIYAH Magazine_ and on _PodCastle_. She is the author of the short story collection, _Spook Lights: Southern Gothic Horror_.
   You can find her work on [www.edenroyce.com](http://www.edenroyce.com) and her tweets [@edenroyce](https://www.twitter.com/edenroyce).
-
 proofread: false
 ---
 

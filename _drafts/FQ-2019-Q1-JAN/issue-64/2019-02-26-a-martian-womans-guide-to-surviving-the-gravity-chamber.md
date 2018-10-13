@@ -10,7 +10,7 @@ published: false
 teaser: "Celebrate the small victories. Hooray, your radiation levels are at a record low! Yippee, you're ovulating on schedule!"
 author-img: jennifer-stephan-kapral.jpg
 author-bio: |
-  Jennifer Stephan Kapral writes poetry, non-fiction, and fiction. She was born in the shadows of steel mills in Western PA and studied creative non-fiction at the University of Pittsburgh. Her work has also appeared in _The Arcanist_ and _Flash Fiction Magazine_, and she is forever at work on her unfinished novels. She resides in Houston, TX, exploring the bayous with her husband, daughter, and two dogs. Visit her at [thegreenquill.org](http://www.thegreenquill.org).
+  **Jennifer Stephan Kapral** writes poetry, non-fiction, and fiction. She was born in the shadows of steel mills in Western PA and studied creative non-fiction at the University of Pittsburgh. Her work has also appeared in _The Arcanist_ and _Flash Fiction Magazine_, and she is forever at work on her unfinished novels. She resides in Houston, TX, exploring the bayous with her husband, daughter, and two dogs. Visit her at [thegreenquill.org](http://www.thegreenquill.org).
 
 proofread: false
 ---

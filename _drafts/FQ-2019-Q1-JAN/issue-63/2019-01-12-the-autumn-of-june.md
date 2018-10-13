@@ -10,7 +10,7 @@ published: false
 teaser: "Few mortals could ever have used that shield. She is a very special woman, your grandmother."
 author-img: stu-west.jpg
 author-bio: |
-  Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the _Trailer Park of Terror_ comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://www.twitter.com/stuwest).
+  **Stu West** was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the _Trailer Park of Terror_ comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://www.twitter.com/stuwest).
 proofread: false
 ---
 

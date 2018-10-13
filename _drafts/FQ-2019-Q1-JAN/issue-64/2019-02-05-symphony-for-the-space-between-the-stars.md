@@ -10,7 +10,7 @@ published: false
 teaser: "Her systems will cease to function long before she arrives at her destination. But her protocol is clear. She will follow the last path set by her captain."
 author-img: jenn-reese.jpg
 author-bio: |
-  Jenn Reese writes speculative fiction for readers of all ages. _Above World_, a Norton Award finalist, is the first book in her trilogy about bioengineered mermaids in an post-collapse future, from Candlewick Press. Her short fiction has appeared in China’s _Science Fiction World_, _The Magazine of Fantasy & Science Fiction_, and the World Fantasy Award-winning anthology _Paper Cities_, among others. She lives in Portland where she works as a freelance graphic designer, plays too many video games, and revels in the rain.
+  **Jenn Reese** writes speculative fiction for readers of all ages. _Above World_, a Norton Award finalist, is the first book in her trilogy about bioengineered mermaids in an post-collapse future, from Candlewick Press. Her short fiction has appeared in China’s _Science Fiction World_, _The Magazine of Fantasy & Science Fiction_, and the World Fantasy Award-winning anthology _Paper Cities_, among others. She lives in Portland where she works as a freelance graphic designer, plays too many video games, and revels in the rain.
 proofread: false
 ---
 
