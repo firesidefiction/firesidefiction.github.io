@@ -14,12 +14,32 @@
 }
 
 .story-body-stet {
-	max-width: 80em;
-	min-width: 40em;
-	margin: 0 auto;
 	display: grid;
-	grid-template-columns: 25% auto 25%;
-	grid-template-rows: auto auto;
+	grid-template-areas:
+		"primetext"
+		"commentleft"
+		"commentright";
+	@media all and (min-width: $bp-med-2) {
+		max-width: 80em;
+		min-width: 40em;
+		margin: 0 auto;
+		grid-template-areas:
+			"commentleft primetext commentright";
+		grid-template-columns: 25% auto 25%;
+		grid-template-rows: auto auto;
+	}
+}
+
+.prime-text {
+	grid-area: primetext;
+}
+
+.comment-l {
+	grid-area: commentleft;
+}
+
+.comment-r {
+	grid-area: commentright;
 }
 
 .contentnote {
@@ -69,6 +89,10 @@
 	background-color: $white;
 }
 
+footer {
+	padding: 0 1em;
+}
+
 .fiction p {
 	margin-bottom: 0;
 }
@@ -106,29 +130,104 @@
 	border-top: 1px solid #b7b7b7;
 }
 
-#one {
+@media all and (min-width: $bp-med-2) {
+	.article-stet {
+		//background-color: orange;
+	}
+
+	#one {
+		margin: 2em 1em 0 -6em;
+	}
+
+	#three {
+		margin: 115em 1em 0 1em;
+	}
+
+	#six {
+		margin: 125em 1em 0;
+	}
+
+	#eight {
+		margin: 40em 1em 1em;
+	}
+
+	#nine {
+		margin: 25em 1em 1em;
+	}
+
+	#eleven {
+		margin:  4em 1em;
+	}
+
+	#twelve {
+		margin: 6em 1em;
+	}
 }
 
-#three {
-	margin-top: 80em;
+@media all and (min-width: $bp-large) {
+	.article-stet {
+		//background-color: purple;
+	}
+
+	#one {
+		margin: 2em 1em 0 -6em;
+	}
+
+	#three {
+		margin: 115em 1em 0 1em;
+	}
+
+	#six {
+		margin: 125em 1em 0;
+	}
+
+	#eight {
+		margin: 40em 1em 1em;
+	}
+
+	#nine {
+		margin: 25em 1em 1em;
+	}
+
+	#eleven {
+		margin:  4em 1em;
+	}
+
+	#twelve {
+		margin: 6em 1em;
+	}
 }
 
-#six {
-	margin-top: 90em;
-}
+@media all and (min-width: $bp-large-2) {
+	.article-stet {
+		//background-color: brown;
+	}
 
-#eight {
-	margin-top: 30em;
-}
+	#one {
+		margin: 4em 1em 0 -6em;
+	}
 
-#nine {
-	margin-top: 17em;
-}
+	#three {
+		margin: 89em 1em 0 1em;
+	}
 
-#eleven {
-	margin-top: 6em;
-}
+	#six {
+		margin: 94em 1em 0;
+	}
 
-#twelve {
-	margin-top: 7em;
+	#eight {
+		margin-top: 30em;
+	}
+
+	#nine {
+		margin: 17em 1em 1em;
+	}
+
+	#eleven {
+		margin:  4em 1em;
+	}
+
+	#twelve {
+		margin: 6em 1em;
+	}
 }
