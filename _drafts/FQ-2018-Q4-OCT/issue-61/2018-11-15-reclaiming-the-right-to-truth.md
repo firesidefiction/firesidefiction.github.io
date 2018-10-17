@@ -3,7 +3,7 @@ layout: article
 title: Reclaiming the Right to Truth
 author: Tariro Ndoro
 editor: Julia Rios
-date: 2017-11-15 01:00:01 -0500
+date: 2018-11-15 01:00:01 -0500
 category: essay
 permalink: reclaiming-the-right-to-truth
 published: false

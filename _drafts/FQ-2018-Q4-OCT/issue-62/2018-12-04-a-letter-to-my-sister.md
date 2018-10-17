@@ -3,7 +3,7 @@ layout: story
 title: A Letter to My Sister
 author: Nilah Magruder
 editor: Julia Rios
-date: 2018–12-04 01:00:01 -0500
+date: 2018-12-04 01:00:01 -0500
 category: short story
 permalink: a-letter-to-my-sister
 published: false

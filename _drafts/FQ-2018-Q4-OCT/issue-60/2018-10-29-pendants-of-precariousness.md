@@ -3,7 +3,7 @@ layout: story
 title: Pendants of Precariousness
 author: D.A. Xiaolin Spires
 editor: Julia Rios
-date: 2018–10-29 01:00:01 -0500
+date: 2018-10-29 01:00:01 -0500
 category: short story
 permalink: pendants-of-precariousness
 published: false

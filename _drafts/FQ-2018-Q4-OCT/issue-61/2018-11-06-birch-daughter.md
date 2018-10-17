@@ -3,7 +3,7 @@ layout: story
 title: Birch Daughter
 author: Sara Norja
 editor: Julia Rios
-date: 2018–11-06 01:00:01 -0500
+date: 2018-11-06 01:00:01 -0500
 category: short story
 permalink: birch-daughter
 published: false

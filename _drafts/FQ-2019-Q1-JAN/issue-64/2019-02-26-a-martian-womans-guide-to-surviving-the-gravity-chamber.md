@@ -1,6 +1,6 @@
 ---
 layout: story
-title: A Martian Woman's Guide to Surviving the Gravity Chamber
+title: "A Martian Woman's Guide to Surviving the Gravity Chamber"
 author: Jennifer Stephan Kapral
 editor: Julia Rios
 date: 2019-02-26 01:00:01 -0500
@@ -10,12 +10,12 @@ published: false
 teaser: "Celebrate the small victories. Hooray, your radiation levels are at a record low! Yippee, you're ovulating on schedule!"
 author-img: jennifer-stephan-kapral.jpg
 author-bio: |
-  Jennifer Stephan Kapral writes poetry, non-fiction, and fiction. She was born in the shadows of steel mills in Western PA and studied creative non-fiction at the University of Pittsburgh. Her work has also appeared in _The Arcanist_ and _Flash Fiction Magazine_, and she is forever at work on her unfinished novels. She resides in Houston, TX, exploring the bayous with her husband, daughter, and two dogs. Visit her at [thegreenquill.org](http://www.thegreenquill.org). 
+  **Jennifer Stephan Kapral** writes poetry, non-fiction, and fiction. She was born in the shadows of steel mills in Western PA and studied creative non-fiction at the University of Pittsburgh. Her work has also appeared in _The Arcanist_ and _Flash Fiction Magazine_, and she is forever at work on her unfinished novels. She resides in Houston, TX, exploring the bayous with her husband, daughter, and two dogs. Visit her at [thegreenquill.org](http://www.thegreenquill.org).
 
 proofread: false
 ---
 
-2. Shit twice a day instead of once and watch everyone freak out over your fiber intake. It makes life more interesting for the Chamber Nurses.
+1. Shit twice a day instead of once and watch everyone freak out over your fiber intake. It makes life more interesting for the Chamber Nurses.
 
 2. Keep busy by reading the status updates of other Chamber women. Judge them mercilessly. Can you believe #7 only has 10 follicles growing?
 
@@ -33,7 +33,7 @@ I wonder what sweaty, slippery Earth sex would be like. I think about Scott.
 
 6. Set goals for your post-Chamber life. Maybe it's time to take that trip to a crater or dune or maybe even that exciting new rock they discovered that is more brown than red.
 
-I start my second cycle. The doctors and nurses feed me chocolate and pineapple. I am an ancient fertility goddess, beaming with an estrogen glow, flaunting my wide hips as I saunter up and down the Chamber hall. 
+I start my second cycle. The doctors and nurses feed me chocolate and pineapple. I am an ancient fertility goddess, beaming with an estrogen glow, flaunting my wide hips as I saunter up and down the Chamber hall.
 We will all complete at least three cycles before the harvest. We're blocked from any communication with co-workers, and are encouraged to write, read, paint, watch movies, relax. Low-stress environments are the best for egg production, they say.
 
 But idleness takes away my glow and spawns anxiety about my job. I worked hard to become Assistant Chief Researcher of Agriculture and even though my position is protected while on fertility leave, I fear my assistant is planning a coup, purposely messing with the new strand of salad greens I'm developing. He, of course, will never take a leave this long. The other Chamber women do their best to quell my worries; I'm in the network now. They'll make sure I'm back and better than ever.
@@ -50,13 +50,14 @@ The lab tech that draws my blood every day tells me she's pretty sure one of her
 
 8. Ignore the hormones raging through your body, the weight you're gaining, the needle bruises on your ass.
 
-9. Watch videos of a babies coming out of the TerraWomb. Try not to cry, or throw something.
-   
+9. Watch videos of babies coming out of the TerraWomb. Try not to cry, or throw something.
+
 I am three days away from retrieval. My uterus is full of marbles. It's painful to walk, to pee, to sit down.
 
-They put me under and shove a needle inside me. The needle shoots out fluid, which detaches my eggs. The needle collects the eggs, pulls out. It's done. 
-I'm awake and being sent home. I get a pat on the back on my way out- 18 follicles! They'll see me again in a year or so if I choose to continue to help us survive.
- 
-I go home and think about Scott. I rub my empty womb until my skin turns red, blending with the dust of Mars. 
+They put me under and shove a needle inside me. The needle shoots out fluid, which detaches my eggs. The needle collects the eggs, pulls out. It's done.
+
+I'm awake and being sent home. I get a pat on the back on my way out — 18 follicles! They'll see me again in a year or so if I choose to continue to help us survive.
+
+I go home and think about Scott. I rub my empty womb until my skin turns red, blending with the dust of Mars.
 
 10. Try to silence the part of your body that knows this isn't right.

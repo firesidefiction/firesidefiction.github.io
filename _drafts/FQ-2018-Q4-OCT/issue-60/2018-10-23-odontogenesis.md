@@ -3,7 +3,7 @@ layout: story
 title: Odontogenesis
 author: Nino Cipri
 editor: Julia Rios
-date: 2018–10-23 01:00:01 -0500
+date: 2018-10-23 01:00:01 -0500
 category: short story
 permalink: odontogenesis
 published: false

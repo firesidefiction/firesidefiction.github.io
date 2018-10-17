@@ -3,7 +3,7 @@ layout: story
 title: Tablecloth
 author: Kathryn Kania
 editor: Julia Rios
-date: 2018–12-25 01:00:01 -0500
+date: 2018-12-25 01:00:01 -0500
 category: short story
 permalink: tablecloth
 published: false
