@@ -23,7 +23,7 @@ If Author has an agent, Author hereby authorizes `[Agency]`, attn: `[Agent Name]
 
 ## Payment
 
-In consideration for the rights granted by the Author to Fireside, and the Author’s performance of obligations under this Agreement, the Author will receive a payment in the sum of **USD 12.5 cents per word**, which be paid immediately upon completion of edits to the Story and Author's execution of this agreement.
+In consideration for the rights granted by the Author to Fireside, and the Author’s performance of obligations under this Agreement, the Author will receive a payment in the sum of **USD 12.5 cents per word**, which be paid immediately upon completion of copyedits to the Story and Author's execution of this agreement.
 
 Fireside's right to use the Story is conditioned upon receipt of payment, and upon Fireside’s compliance with the terms of this agreement.
 
