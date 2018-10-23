@@ -50,7 +50,7 @@ Starting in 2019, Fireside will publish one poem per month! Our first open submi
 
 ### Please Submit:
 - Poems up to 100 lines, of any genre, and of any form (free verse or formal verse are both fine!).
-- Up to three poems at a time, all in one submission.
+- Up to three poems at a time, all in one document. We do not accept multiple document submissions. 
 - The poetry only you can write, that comes from your perspective and heart. We are especially interested in poems that complement and challenge the issues and themes Fireside tends to engage with. For more on that, see our [Values page](https://firesidefiction.com/values).
 - Doc, Docx, or RTF files. Poetry can be formatted in whatever way feels best to you. We don’t require double spacing for this kind of submission. For poetry only, PDF files are also acceptable.
 - Poems that have never been published in the English language before (translations are okay!).
