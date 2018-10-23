@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-10-23 01:00:01 -0500
 category: short story
 permalink: odontogenesis
-published: false
+published: true
 teaser: "She ran her tongue over the porcelain crowns where her incisors had once been—a nervous habit she’d picked up ever since the dentist had planted them in her gums."
 author-img: nino-cipri.jpg
 author-bio: |
