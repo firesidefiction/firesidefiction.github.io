@@ -26,7 +26,7 @@ Use four dashes for section breaks: `----`
 
 ----
 
-Use a `>` for blockquotes
+Use a `>` for blockquotes 
 
 > Like this.
 
