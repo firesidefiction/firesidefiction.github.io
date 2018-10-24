@@ -46,7 +46,9 @@ We accept short stories up to 4,000 words. Our budget allows us to pay for up to
 ----
 
 ## Poetry
-Starting in 2019, Fireside will publish one poem per month! Our first open submissions period for poetry will be the 24th to the 31st of October, 2018.
+Fireside is currently open to poetry submissions, until the 31st of October, 2018.
+
+{% include submit-poetry-button.html %}
 
 ### Please Submit:
 - Poems up to 100 lines, of any genre, and of any form (free verse or formal verse are both fine!).
