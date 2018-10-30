@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-10-29 01:00:01 -0500
 category: short story
 permalink: pendants-of-precariousness
-published: false
+published: true
 teaser: "I tell him that by courting danger I conquer danger. … I tell him that when the sharks come, they will see and they will be scared that I have their weapon."
 author-img: d-a-xiaolin-spires.jpg
 author-bio: |
