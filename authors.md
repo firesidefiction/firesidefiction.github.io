@@ -74,6 +74,9 @@ permalink: /authors
 
 — [_La Bestia_](/issue26/chapter/la-bestia/)
 
+### Keyan Bowes
+— [_Light and Death on the Indian Battle Station_](/light-and-death-on-the-indian-battle-station)
+
 ### Lisa M. Bradley
 — [_By the Mother’s Trunk_](/by-the-mothers-trunk/)
 
@@ -98,6 +101,9 @@ permalink: /authors
 
 — [_The Memory Who Became a Girl_](/issue32/chapter/the-memory-who-became-a-girl/ )
 
+### Danilo Campos
+— [_We Could Have the Future Star Trek Promised Us_](/we-could-have-the-future-star-trek-promised-us)
+
 ### Christa Carmen
 — [_Something Borrowed, Something Blood-Soaked_](/something-borrowed-something-blood-soaked)
 
@@ -119,6 +125,8 @@ permalink: /authors
 — [_It Happened To Me: I Melded My Consciousness With the Giant Alien Mushroom Floating Above Chicago_](/it-happened-to-me-i-melded-my-consciousness-wtih-the-giant-alien-mushroom-floating-above-chicago)
 
 — [_It Happened To Me: I Was Brought Back to Avenge My Death, But Chose Justice Instead_](/it-happened-to-me-i-was-brought-back-to-avenge-my-death-but-chose-justice-instead)
+
+— [_Odontogenesis_](/odontogenesis)
 
 ### Phenderson Djèlí Clark
 — [_The Secret Lives of the Nine Negro Teeth of George Washington_](/the-secret-lives-of-the-nine-negro-teeth-of-george-washington)
@@ -213,7 +221,9 @@ permalink: /authors
 
 — [_Homesick_](/issue36/chapter/homesick/)
 
-— [_The Fisher of Bones: A Serial_](/the-fisher-of-bones/chapter-one-naming)
+— [_The Fisher of Bones: A Serialized Novella_](/books/the-fisher-of-bones)
+
+— [_STET_](/stet)
 
 ### John F. Gardner
 — [_The Last Good Day_](/issue7/chapter/the-last-good-day/)
@@ -599,6 +609,8 @@ permalink: /authors
 ### D.A. Xiaolin Spires
 — [_Before the Burst_](/before-the-burst)
 
+— [_Pendants of Precariousness_](/pendants-of-precariousness)
+
 ### Kelly C. Stiles
 — [_Just a Couple Modifications_](/issue10/chapter/just-a-couple-modifications/)
 
@@ -663,6 +675,9 @@ permalink: /authors
 
 ### Troy L. Wiggins
 — [_Black Like Them_](/issue39/chapter/black-like-them/)
+
+### Takim Williams
+— [_Inner Space_](/inner-space)
 
 ### Raq Winchester & Fran Wilde
 — [_Regarding Your Future With The Futures Planning Consortium_](/regarding-your-future-with-the-futures-planning-consortium)
