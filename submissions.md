@@ -46,9 +46,7 @@ We accept short stories up to 4,000 words. Our budget allows us to pay for up to
 ----
 
 ## Poetry
-Fireside is currently open to poetry submissions, until the 31st of October, 2018.
-
-{% include submit-poetry-button.html %}
+Fireside is currently closed to submissions for poetry.
 
 ### Please Submit:
 - Poems up to 100 lines, of any genre, and of any form (free verse or formal verse are both fine!).
