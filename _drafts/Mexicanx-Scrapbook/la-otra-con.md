@@ -1,0 +1,22 @@
+**La Otra Con**
+por Gerardo Horacio Porcayo
+
+Mi deseo se había cumplido; al fin, contra toda expectativa arribé a la Worldcon y San Jose California no se parecía al de "The Game Player of Titan" de Philip K. Dick, aunque un juego de azar, el que John Picacio creara con sus cartas de Lotería, me había llevado ahí con The Mexicanx Initiative. ¿Pero cuál fue mi carta ganadora? ¿La Valiente? ¿O La Campana?
+
+En ese instante no importaba. Asistí a los primeros eventos. Todo era nuevo y deslumbrante, mis ojos trataban de identificar los rasgos de los escritores consagrados en los asistentes, en el lobby. Cuando me di por vencido y acudí a saciar mi hambre, las cosas empezaron a suceder. Ahí, frente a una hamburguesa sólo vista en canales de cocina, por el rabillo del ojo creí distinguirla: su pelo corto y entrecano, sus rasgos finos, la sonrisa. Pero no era posible, ella había muerto el 22 de enero de ese año; cedí a la tentación y simulé ir al baño. Un mesero me obstaculizó la vista y solo al cruzar la puerta, pude volver a pescar una borrón de ella. Me demoró mi condicionamiento. Cuando salí, ya no estaba ahí.
+
+Deseché aquello como parte de mi imaginación sobre exitada y continué mi itinerario de turista asombrado. Fui a la primera fiesta en The Pit. Departí, festejé hasta que tuvimos que mudarnos al bar, y ahí, una vez más la volví a ver, rodeada de hombres y mujeres sonrientes, centro de atracción innegable. Traté de acercarme a ella y cuando alcancé su lugar, otra vez no estaba. Así fue, cada uno de los días, siempre fuera del Convention Center, siempre en lugares públicos, de comida o bebidas, a mesas de distancia, apenas en vislumbres rápidos, siempre sonriente.
+
+El penúltimo día noté que todos los grandes escritores se parecían en exceso a sus fotografías: Martin, Haldeman, Niven, Silverberg, Rucker, Cadigan, Gunn, Robinson dentro de la Worldcon; afuera descubrí a una homeless idéntica a Buttler; a Sturgeon en semejante condición, a él le di un quarter, y cuando me dio las gracias, apenas alcancé a entender su inglés. La que seguía rodeada de gente en los restaurantes, sonriente e inancanzable, era Ursula. La Sirena fue mi carta, pensé.
+
+Esa noche en la fiesta, traté, ya con varias copas encima, de contarle a Gaby el fenómeno. "No entiendo tu inglés", me dijo, pero yo le hablaba en nuestro idioma materno. "Estás muy borracho", concluyó. Pasamos de un cuarto a otro, aproveché el ritmo de la fiesta para no hablar y, cuando llegó el final, ni siquiera el bar estaba abierto. De pronto descubrí que mis amigos no me acompañaban más. Todon estaba vacío, desolado. Caminé calles desiertas hasta mi hostal.
+
+Al día siguiente abandoné mi cuarto con miedo, pero la ciudad era idéntica al primer día. Asistí a los paneles solo, quise entablar diálogo con algunos desconocidos, sólo para percibir su cara de extrañeza. Comí solo y esperaba no verla, pero ahí estaba, sonriente, alejada.
+
+La ceremonia de los Hugos fue el clímax, la realización. Nos fuimos a The Losers Party y nadie se extrañó de mi silencio. Con la entrega del Alfie Bester Award a Picacio, subí al podio con mis amigos. Y tras una larga ronda de fotografías, me tocó cargar el trofeo. Entonces escuché su voz: "Eso es lo más cerca que vas a estar de un premio semejante", me dijo al oído, giré y pude mirar su nuca. Cedí el trofeo y empecé a seguirla mientras abandonaba la fiesta, sus pasos eran rápidos, en exceso veloces. Casi la alcancé en un callejón, la esperaban Dick, Ellison y no sé quien más, con copas en las manos... Me apuré a cruzar.
+
+De inmediato sentí la mano, luego miré las luces roji-azules. "No puedes cruzar a media calle", me dijo el policía. Abrí la boca y lo que salió lo hizo pedirme mis papeles. Por supuesto, había dejado mi morral en la fiesta. Me subieron a la patrulla. Cuando pasamos frente al callejón, había más escritores reunidos con ella. Alcancé a distinguir a Farmer, a Heinlein y Del Rey.
+
+Me interrogaron toda la noche, sin entenderme. Me subieron a un avión.
+
+Hoy he despertado en este cuarto de hospital. Afuera la ciudad luce devastada, pero reproduce fielmente el trazo de mi lugar de nacimiento. Un puñado de personas pasa por la acera. Las reconozco, todas son parte de la lista de las víctimas del temblor del año pasado. Giro y descubro el techo derrumbado, grandes grietas, meto mi mano a la bata y descubro la carta de La Calavera, esa Muerte que Picacio pintara.
