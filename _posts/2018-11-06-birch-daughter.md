@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-11-06 01:00:01 -0500
 category: short story
 permalink: birch-daughter
-published: false
+published: true
 teaser: "My father told me that the spell was too strong to break, that I should never trust the forest-folk. But the thought of my mother trapped within a gnarled birch tree in the far north was too much for me to bear."
 author-img: sara-norja.jpg
 author-bio: |
