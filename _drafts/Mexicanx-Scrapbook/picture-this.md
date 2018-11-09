@@ -1,7 +1,6 @@
 **Picture this**
 by Smok
 
-
 Picture a shy Mexican girl in a strange place full of people from another galaxy.   
 Visualize her, a little bit nervous, building armor out of a lanyard, ribbons and a badge with “La Calavera” —    
 the perfect coat of arms for her breastplate.
