@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-11-13 01:00:01 -0500
 category: short story
 permalink: and-i-never-named-her
-published: false
+published: true
 teaser: "We didn’t have tongues, not like our ancestors, but we adapted. Sign language, gestures, facial expressions."
 author-img: renee-christopher.jpg
 author-bio: |
