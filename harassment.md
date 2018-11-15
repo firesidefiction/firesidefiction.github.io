@@ -25,3 +25,6 @@ August 23, 2018
 
 ### [#MeToo and Furthermore, by Hillary Monahan](/metoo-and-furthermore)
 September 20, 2018
+
+### [Reclaiming the Right to Truth, by Tariro Ndoro](/reclaiming-the-right-to-truth)
+November 15, 2018

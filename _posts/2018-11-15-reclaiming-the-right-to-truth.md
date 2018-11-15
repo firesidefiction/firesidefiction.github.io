@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: conversation-harassment
 title: Reclaiming the Right to Truth
 author: Tariro Ndoro
 editor: Julia Rios
@@ -7,10 +7,10 @@ date: 2018-11-15 01:00:01 -0500
 category: essay
 permalink: reclaiming-the-right-to-truth
 published: true
-teaser: “When we sweep rape culture under the rug to protect the men who provide for us, we begin to believe those lies."
+teaser: When we sweep rape culture under the rug to protect the men who provide for us, we begin to believe those lies.
 author-img: tariro-ndoro.jpg
 author-bio: |
-  Tariro Ndoro is an avid reader. She writes poems and short stories that explore dysfunction. Tariro's publication credits include _AFREADA_, _La Shamba_, _Omenana_, and _Puerto del Sol_. You can follow Tariro on Twitter at [@MissTariN](https://www.twitter.com/MissTariN) or find links to her other works at [tarirondoro.wordpress.com](https://tarirondoro.wordpress.com/).
+  Tariro Ndoro is an avid reader. She writes poems and short stories that explore dysfunction. Tariro's publication credits include _AFREADA_, _La Shamba_, _Omenana_, and _Puerto del Sol_. You can follow Tariro on Twitter at [@tariro_writes](https://www.twitter.com/tariro_writes) or find links to her other works at [tarirondoro.wordpress.com](https://tarirondoro.wordpress.com/).
 proofread: true
 contentnote: This essay contains non-graphic descriptions of harassment and assault.
 ---
@@ -31,7 +31,7 @@ When we _are_ believed, we are asked to forgive the perpetrators, which creates 
 
 When I was in high school, a man from Bulawayo, the second largest city in Zimbabwe, was convicted of rape. During his trial he argued that the woman had asked for it; she’d been wearing revealing clothing. The judge still convicted him. Zimbabwean men responded by starting a wave of violence against women — any woman seen wearing a short skirt at a public transport terminal got stripped. Their argument? "You women tempt us by wearing short skirts then accuse us of raping you. If we must go to jail for touching you, then we’ll humiliate you on our way down." Even though I lived in Harare, which is practically on the other side of the country, enough attacks were carried out in my city for me to dress modestly and avoid certain parts of the city.
 
-The concept of women being responsible for men is not a new one. Most girls are raised from a young age to be responsible about clothing, to make sure men aren’t tempted to molest them. There is hardly any great narrative about teaching young men not to rape. Similarly, in cases of domestic violence, there is generally a tendency to appease men’s fragile egos, a tendency to ensure that no one provokes men into becoming violent. Men are not held responsible for their actions in their homes. Why then do we act surprised when they unapologetically harass us in the streets, in the workplace, on the internet?
+The concept of women being responsible for men is not a new one. Most girls are raised from a young age to be responsible about clothing, to make sure men aren’t tempted to molest them. There is hardly any great narrative about teaching young men not to rape. Similarly, in cases of domestic violence, there is generally a tendency to appease men’s fragile egos, a tendency to ensure that no one provokes men into becoming violent. Men are not held responsible for their actions in their homes. Why then do we act surprised when they unapologetically harass us in the streets, in the workplace, on the internet?
 
 The only way the tide of rape culture can turn is if everyone engages in conversations around consent, including men. Not in a simple capacity of regressive statements like, "If women are so sensitive about this thing then I should stop dating altogether," but asking deeper questions. Do I believe that rape and the rape culture that supports it will end in my lifetime? Probably not, but I do hope for a world in which men begin to listen because women are not voiceless. We know what makes us uncomfortable, we know why romantic advances in the workplace make us uncomfortable and why it’s not ethical to take a drunk girl home.
 
