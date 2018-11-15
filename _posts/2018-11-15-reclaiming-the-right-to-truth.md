@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-11-15 01:00:01 -0500
 category: essay
 permalink: reclaiming-the-right-to-truth
-published: false
+published: true
 teaser: “When we sweep rape culture under the rug to protect the men who provide for us, we begin to believe those lies."
 author-img: tariro-ndoro.jpg
 author-bio: |
