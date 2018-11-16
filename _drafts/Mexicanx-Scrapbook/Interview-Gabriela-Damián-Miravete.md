@@ -16,7 +16,7 @@ Yes! The year _Three Messages and a Warning_ was published, the 30 or so authors
 
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
-It was way more than I've expected. I thought it´d be a brief encounter with a community I love and admire but I don't belong to, and suddenly, I am part of that community! Because the gates were really open, not for just a few days, but for a long time. I still can't believe it.
+It was way more than I expected. I thought it´d be a brief encounter with a community I love and admire but I don't belong to, and suddenly, I am part of that community! Because the gates were really open, not for just a few days, but for a long time. I still can't believe it.
 
 **Tell us about one highlight moment of your WorldCon experience.**
 
@@ -34,4 +34,4 @@ There were a ton of funny moments! But probably when Libia Brenda, José Luis Z�
 
 **Where should new people start familiarizing themselves with your work?**
 
-I´m very interested in making the kind of literature that gives hope, that gives relief, even in the middle of a terrible context, through imagination, I really think our future depends on it. I firmly believe in the real, political power of imagination. So I wrote a story about femicides (one of our most urgent social problems) and a different future for Mexico (an ambiguous Utopia, as Ursula K. Le Guin would say), and [you can read it here](http://www.latinamericanliteraturetoday.org/en/2018/may/they-will-dream-garden-gabriela-damián-miravete). Please do :D. Hope you like it! 
+I´m very interested in making the kind of literature that gives hope, that gives relief, even in the middle of a terrible context, through imagination, I really think our future depends on it. I firmly believe in the real, political power of imagination. So I wrote a story about femicides (one of our most urgent social problems) and a different future for Mexico (an ambiguous Utopia, as Ursula K. Le Guin would say), and [you can read it here](http://www.latinamericanliteraturetoday.org/en/2018/may/they-will-dream-garden-gabriela-damián-miravete). Please do :D. Hope you like it!
