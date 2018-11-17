@@ -1,4 +1,4 @@
-**Interview with John Picacio**
+**Interview with Worldcon 76 Artist Guest of Honor, John Picacio**
 
 **Tell us a little about yourself. Where did you grow up, and where do you live now? Where can we find you on social media?**
 
