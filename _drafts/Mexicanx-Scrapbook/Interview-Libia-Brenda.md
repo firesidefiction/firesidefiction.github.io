@@ -1,8 +1,10 @@
-**Interview with Libia Brenda**
+**Interview with Mexicanx Initiative Author, Libia Brenda**
 
-**What is your name, and where did you grow up/where do you live now? Where can we find you on social media?**
+**Where did you grow up and where do you live now? Where can we find you on social media?**
 
-I was born and grew up in México, in a city called Puebla, that is the capital of the State with the same name. I have lived in Mexico City since 2001. My Twitter: [@tuitlibiesco](https://www.twitter.com/tutlibiesco).
+I was born and grew up in México, in a city called Puebla, that is the capital of the State with the same name. I have lived in Mexico City since 2001.
+
+My Twitter: [@tuitlibiesco](https://www.twitter.com/tutlibiesco).
 
 **What kind of creative work do you do?**
 
@@ -35,6 +37,6 @@ This is so long it deserves its own essay, so I wrote one! See the piece entitle
 
 **Recommend up to three places for new people to start familiarizing themselves with your work.**
 
-Well, I have to recommend the anthology, _A Larger Reality: Speculative Fiction from the Bicultural Margins / Una realidad más amplia. Cuentos desde la periferia bicultural_, because it's a book that makes me very happy and proud of being part of this Mexicanx community, the book was an effort in which many people were involved, although I was the one putting it all together and it's really a joy to see how it turned out. And it was intended to be a free ebook since the beginning, because that way anybody can read it.
+Well, I have to recommend [the anthology](https://www.mexicanxinitiative.com/welcome/), _A Larger Reality: Speculative Fiction from the Bicultural Margins / Una realidad más amplia. Cuentos desde la periferia bicultural_, because it's a book that makes me very happy and proud of being part of this Mexicanx community. The book was an effort in which many people were involved, although I was the one putting it all together and it's really a joy to see how it turned out. And it was intended to be a free ebook since the beginning, because that way anybody can read it.
 
 Now, to read one of my short stories and work by other Mexican women (Gaby and Raquel are also included), there is another free ebook that the State of Colima published a couple of years ago. _La imaginación: la loca de la casa_: [http://www.culturacolima.gob.mx/mesdelalectura/libros/libro-laimaginacion-bef.pdf](http://www.culturacolima.gob.mx/mesdelalectura/libros/libro-laimaginacion-bef.pdf)
