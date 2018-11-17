@@ -26,7 +26,7 @@ The best thing is that this nucleus is loaded with world-changing talent, and we
 
 **Recommend any or all of the following: a song, a written work, a piece of visual art, and a movie. Tell us why you love them!**
 
-Miles Davis' album 'Kind of Blue' — I know that's random, but I'm working on the new Loteria art for 'La Musica' and I'm trying to translate that album's simplicity and modality into an iconic Mexicanx visual. Santana's very first album is also in heavy rotation, while I'm working on this one.
+Miles Davis' album _Kind of Blue_ — I know that's random, but I'm working on the new Loteria art for "La Musica" and I'm trying to translate that album's simplicity and modality into an iconic Mexicanx visual. Santana's very first album is also in heavy rotation, while I'm working on this one.
 
 **What was the funniest thing that happened during your trip?**
 
