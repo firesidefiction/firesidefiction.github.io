@@ -1,4 +1,5 @@
-**Lauren Snow on the Mexicanx Initiative Manifesto**
+**The Mexicanx Initiative Manifesto**
+by Lauren Raye Snow
 
 In a different world, The Mexicanx Initiative would simply have been a celebration of the unique, visionary perspectives of Mexicanx Creatives. But unfortunately, we don’t live in that world. We’re living in a world where the lives and bodies of our families and communities are in danger, where the word “Mexican” has been sharpened and perverted into a slur. Celebrating Mexicanx has always been political, but in Trump’s America, the stakes have shot up in a deadly way.
 
