@@ -21,7 +21,7 @@ But you can be surprised at how the characters of the stories you hear leave the
 Now they will go with you wherever you go, and always be there if you ever need their help.
 
 Can you see how fortunate this girl is?   
-For having the opportunity to eat pho for the first time with a moon goddess with the heart of Frida Khalo, and a wise and magical friend who paints the dragons that live in her jardin.
+For having the opportunity to eat pho for the first time with a moon goddess with the heart of Frida Khalo, and a wise and magical friend who paints the dragons that live in her jardín.
 
 Look, how the weekend goes fast.  Days full of ancient knowledge, and nights full of golden beers.  
 Watch closely the atmosphere that we build, thick and strong, like a dome.  
