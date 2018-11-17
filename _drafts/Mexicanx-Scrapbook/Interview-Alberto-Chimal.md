@@ -14,7 +14,7 @@ Nope.
 
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
-I didn't know what to expect. I was a bit nervous, but it was mostly because of the political climate in the US around us Mexican and Mexican-descended persons. At the very least, I hoped I could get to know the fabled Convention I had read about since I was a kid. The fact that I would be participating in it didn't really sink in until I was in front of an audience, and that was the moment when a) I got really nervous, and b) the whole experience became a lot better than I had imagined. At the same time, the Mexicanx Initiative people were all so nice and welcoming it all felt like being on another world: another place, within the larger US.
+I didn't know what to expect. I was a bit nervous, but it was mostly because of the political climate in the US around us Mexican and Mexican-descended persons. At the very least, I hoped I could get to know the fabled Convention I had read about since I was a kid. The fact that I would be participating in it didn't really sink in until I was in front of an audience, and that was the moment when a) I got really nervous, and b) the whole experience became a lot better than I had imagined. At the same time, the Mexicanx Initiative people were all so nice and welcoming it all felt like being in another world: another place, within the larger US.
 
 **Tell us about a highlight of your Worldcon experience.**
 
