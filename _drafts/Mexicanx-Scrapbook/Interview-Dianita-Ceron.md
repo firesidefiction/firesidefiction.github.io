@@ -1,4 +1,4 @@
-**Interview with Dianita Cerón**
+**Interview with Mexicanx Initiative Artist, Dianita Cerón**
 
 **Please introduce yourself to us and tell us where you grew up, and where you live now. Where can we find you on social media?**
 
@@ -39,7 +39,7 @@ Song: I’m bad with music! If I had to recommend a song it would be from Mexico
 [“Cielito Lindo”](https://en.wikipedia.org/wiki/Cielito_Lindo) - It’s a song that makes me happy!
 
 
-Written Work:  I haven’t read as much as I’d like to, but based on the passion of my fellow Mexicanx Initiative authors I would definitely recommend reading their works! I highly recommend “The Legend of Polloman” by Gonzalo Alvarez!
+Written Work:  I haven’t read as much as I’d like to, but based on the passion of my fellow Mexicanx Initiative authors I would definitely recommend reading their works! I highly recommend _The Legend of Polloman_ by Gonzalo Alvarez!
 
 Visual piece of art: I’m seriously bad at picking just one.
 
