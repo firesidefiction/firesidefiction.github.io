@@ -5,6 +5,8 @@ Here is the epic tale of how we brought copies of *A Larger Reality* to the Mexi
 
 It started before I left home.
 
+[picture](Mexicanx116)
+
 How, oh _how_ was I going to get 200 fucking books to another country? I had calculated 100 grams per copy, but in reality it was more like 200. Great. Some friends who were also going to San Jose agreed to overload their bags with thirty books each, and I was left with the small task of transporting nearly ninety books in my bag with the airline's weight limit of twenty-three kilos. _You could put your underwear in your carry-on, which holds 10 kilos..._
 
 Happily, Iliana and I were on the same flight.
@@ -28,3 +30,5 @@ We improvised two bundles, Gaby put some books in her purse, we loaded up more b
 We got there totally out of breath, we went up thanks to the blessed second key, we entered triumphantly and, oh, the food had already arrived and George R. R. Martin was perched in an armchair eating a carnitas taco. Nobody was going to want to hear anything about the books, at least for the moment, and John himself told me it wasn't the best idea, because everyone would get food on the books; and anyway everyone was much more interested in the salsas and the meat than anything else. We left the books on the floor and joined the feast because there was nothing better to do.
 
 Eventually I approached George R. R. Martin. I gave him a book and we exchanged a few sentences (he was very decent about it, especially since I didn't follow any kind of established protocol). Then I left him in peace to finish his carnitas and I looked to see who didn't have a full plate so I could approach and assault them with a copy. It was almost like I was saying: “Do you have a moment to talk about our savior, Science Fiction?” Later still, we drank, we ate, we relaxed and enjoyed the party. The afternoon went well, all things considered. I gave a copy to _Locus_, and another to _Amazing Stories_, there were people who asked me for books and others who didn't show much interest when I gave them copies, but the important thing was that running through the streets of San Jose was totally worth it because it became a favorite anecdote among many - because there were fabulous moments every day.
+
+[Picture](Mexicanx094)
