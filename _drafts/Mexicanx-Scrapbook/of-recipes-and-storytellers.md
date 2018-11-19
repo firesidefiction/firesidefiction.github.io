@@ -33,6 +33,8 @@ In a large pot, put the lard over high heat, allowing it to reach 500 F. Put the
 **Sous Vide Carnitas**
 By Héctor González
 
+[Picture](Mexicanx145)
+
 4 lbs of boneless pork shoulder, cut in 3 inch cubes
 1 medium white onion, cut in large pieces
 8 cloves of garlic
