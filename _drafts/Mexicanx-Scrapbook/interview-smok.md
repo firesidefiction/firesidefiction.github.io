@@ -1,5 +1,7 @@
 **Please introduce yourself and tell us where you grew up and where you live now. Where can we find you on social media?**
 
+[picture](Mexicanx105)
+
 My name is Deborah Gonzalez and my pen name is Smok (it means dragon in Polish). I was born and still live in a small town in Baja California Norte. My father’s family is from Colima and my mother is from Nayarit.  
 I’m [@smokthedragon](https;//www.twitter.com/smokthedragon) on Twitter.
 
@@ -25,11 +27,15 @@ From the moment I arrived in San Jose, everything went smoothly. I went to the c
 
 The first person I talked was Dianita, who was really sweet and interesting, and then I met Vania because we both said at the same time, “Glad I didn’t trip on the stage!” In that moment I knew we would be good friends. The Mexicanx reception really felt like a family party and I had too much fun meeting everyone. The second day were the Mexicanx Initiative readings. I went to the convention center early to practice in a corner, scaring the people that passed by. At the reading, I was amazed at the talent of each Mexicanx that participated, and fell in love with all the stories that they told. And when it was my turn, I made sure to make enough hand gestures so that no one noticed how my hands where shaking, but that’s when it hit me, for real, I was in the right place doing what I was born to do.
 
+[picture](Mexicanx035)
+
 In the four days of the convention, I felt so welcome and inspired by the SF/F community. I learned from the most talented people and met the kindest souls. I’m super grateful to every person that supported the initiative, and even more grateful for being part of the Mexicanx Initiative family. That’s why I think Worldcon is a magical place, because of the people that make that magic happen. Going to Worldcon 76 was one of the best experiences I've had in my life.
 
 **Tell us about one highlight moment of your WorldCon experience.**
 
 My highlight moment was definitely the reading. It was my first time reading my work in public and I really enjoyed it.
+
+[picture](mexicanx055)
 
 **Recommend any or all of the following: a song, a written work, a piece of visual art, and a movie. Tell us why you love them!**
 
