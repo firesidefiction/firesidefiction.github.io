@@ -1,5 +1,7 @@
 **Interview with Andrea Chapela**
 
+[picture](Mexicanx069)
+
 **Where did you grow up, and where do you live now? Where can we find you on social media?**
 
 I grew up in Mexico City, but I'm living in Madrid, Spain with an artists fellowship from the Residencia de Estudiantes. My social media is [@AndreaChapel on Twitter](https://www.twitter.com/AndreaChapel) and [my facebook page](https://www.facebook.com/andrea.chapela.5/).
@@ -14,9 +16,13 @@ I had never been to Worldcon before this year, but it was amazing, and I hope I 
 
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
+[Picture](Mexicanx066)
+
 I had attended Clarion West the year before so I knew more or less that the F&SF community was really welcoming and nice. I wanted to see friends that I had met the year before and bask in that culture once more. But above all I wanted to hang out with the Mexicanx. Because I've lived abroad for several years, I hardly ever see many of the writers and I wanted to hang out with the ones I knew and meet many new ones. All of this came true, but it was more than that. Everyone in the Mexicanx Initiative was really welcoming from the start. Panels, meals, parties, conversations, every moment was a blast and I felt that I had found a group of people that not only shared my interests but also my language and my culture. Dreaming of ever making a con like that in Mexico was also quite fun.
 
 **Tell us about a highlight of your Worldcon experience.**
+
+[picture](Mexicanx068)
 
 I have many favorite moments. The panel I was on with Gabriela Damián, Pepé Rojo, and Raquel Castro about Female Mexican Horror Writers was one of them. It went by so fast and we got to speak about so many awesome writers that so many people haven't heard about. The audience was super responsive. An hour later I had to do in the moment translation for Iliana Vargas’s panel about the Shadow and Body of Imagination. It was one of the most difficult things I've done on the spot, because Iliana is brilliant (and speaks in super long sentences). Still the panel was one of the most interesting ones I got to attend and I loved being part of it. Finally, the last few songs of the Losers Party when the Mexicanx Initiative just took over the party in music and body is a memory I treasure.
 
@@ -33,6 +39,8 @@ Movie: I guess I can recommend a series, too? _The Dragon Prince_ written by the
 **What was the funniest thing that happened during your trip?**
 
 There's a picture in someone's phone of me dancing in the middle of a hallway after sharing a lot of prosecco. The picture is super blurry and it encapsulates that night very well. I fell down many times that night and laughed a lot. So I count it as funny.
+
+[picture](Mexixanx050)
 
 **Where should new people start familiarizing themselves with your work.**
 
