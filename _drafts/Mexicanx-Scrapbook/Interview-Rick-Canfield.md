@@ -19,11 +19,17 @@ This was my first, I was only vaguely familiar with the Hugo awards beforehand. 
 
 I had no idea what the experience would be like, but meeting up with John beforehand helped provide a good sense of possibilities. His goal of increasing inclusivity in the industry was along the lines to what I worked on for my Master’s capstone project (a science-fantasy game design representing Mesoamerican mythology).  At first, I was enthralled at the science fiction and fantasy aspects, but as things progressed, it was ever inspiring to see all the various infusions of Mexican lore and mythos represented by all the Mexicanx talent. It felt like meeting a new family.  
 
+[Picture](Mexicanx038)
+
 **Tell us about a highlight of your Worldcon experience.**
 
-Any experience with George R.R. Martin was a major highlight since I’m a huge Game of Thrones fan, it was a privilege sharing banter and experiencing the Loser’s Party. It was a dream that I didn’t want to wake from.
+Any experience with George R.R. Martin was a major highlight since I’m a huge Game of Thrones fan, it was a privilege sharing banter and experiencing the Losers Party. It was a dream that I didn’t want to wake from.
+
+[picture](Mexicanx132)
 
 That’s an easy call, so I’ll share one more; being on a panel with internet gurus Cory Doctorow and Brad Templeton called The Dark Side of the Digital Frontier. The panel came about last minute, the room was packed out the door, and it was my first time moderating. They went deep down the rabbit hole on digital rights and the issues we’re facing as a society due to the addictions of emerging technology.
+
+[picture](Mexicanx072)
 
 Uno mas; Having the pleasure of seeing the _Coco_ panel with Adrian Molina, Ana Ramirez, and Marcela Davison Aviles while getting a chance to meet them afterward was also a spectacular moment. Just like watching the movie, it was emotional to hear them explain the process because I could relate to the sense of not fully connecting with one’s own culture and rediscovering the vibrant beauty of Mexican heritage, now more than ever. The greatest shared moments were definitely the unexpected ones.
 
@@ -41,7 +47,7 @@ Almost got left behind in Redwood City right after John and George’s conversat
 
 **Where should new people start familiarizing themselves with your work?**
 
-I’ll be adding more work to my main website: [www.thenativecreation.com](http://www.thenativecreation.com) 
+I’ll be adding more work to my main website: [www.thenativecreation.com](http://www.thenativecreation.com)
 
 Videography on Vimeo: [www.vimeo.com/nativecreation](http://www.vimeo.com)
 
