@@ -1,5 +1,7 @@
 **Interview with Guadalupe Garcia McCall**
 
+[picture](Mexicanx023)
+
 **Where did you grow up and where do you live now? Where can we find you on social media?**
 
 I was born in Piedras Negras, Coahuila, Mexico, but I grew up in Eagle Pass, or El Águila, which is what we call it. Now, however, I live in Sherwood, Oregon, because I teach at George Fox University in Newberg.
@@ -29,6 +31,10 @@ I recommend the 1997 movie _Gattaca_ with Ethan Hawke, because there are element
 
 I saw a stormtrooper and quickly asked him to pose with me. It was funny because I posted it on social media and immediately people were asking me if I had looked to see if it was Mark Hamill. I hadn’t even thought about it, so that was a forehead-slap moment for me. I should’ve looked!
 
+[picture](Mexicanx021)
+
 **Where should new people start familiarizing themselves with your work?**
+
+[Picture](Mexicanx022)
 
 My books are all published by Tu Books/Lee and Low Books in NY. My latest novel, _All the Stars Denied_, is not SFF, but it’s of interest because it deals with our current immigration issues in that it portrays the “repatriation” of over 1 million Mexicans/Mexican Americans back to Mexico in 1931. During these “round-ups” 600,000 deported “repatriates” were actually US born citizens.
