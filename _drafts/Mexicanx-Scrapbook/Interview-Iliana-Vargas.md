@@ -1,5 +1,7 @@
 **Interview with Iliana Vargas**
 
+[Picture](Mexicanx057)
+
 **Where did you grow up and where do you live now? Where can we find you on social media?**
 
 I was born in Mexico City. I lived for eight months in Ecuador, but I returned to Mexico in 2013 and I have lived here since then. I have a personal website: [www.alteracionesdelpsicosoma.wordpress.com](www.alteracionesdelpsicosoma.wordpress.com)
@@ -15,6 +17,8 @@ No. Worldcon 76 was my first time, and it was amazing.
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
 I was very excited to meet more people who worked in Science Fiction, but I did not expect to discover so many points in common even though everyone focused on different creative languages.
+
+[Picture](Mexicanx087)
 
 **Tell us about one highlight moment of your Worldcon experience.**
 
