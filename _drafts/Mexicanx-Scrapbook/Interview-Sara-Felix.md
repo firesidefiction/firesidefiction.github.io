@@ -1,12 +1,18 @@
 **Interview: Sara Felix**
 
+[picture](Mexicanx002)
+
 **Where did you grow up, and where do you live now? Where can we find you on social media?**
 
 I grew up in Northern California and moved to Austin for college at UT Austin and have been here for the last 20 years or so. You can find me on twitter [@sillysarasue](https://www.twitter.com/sillysarasue) or facebook at [sillysarasue](https://www.facebook.com/sillysarasue) as well.
 
 **What kind of creative work do you do?**
 
+[picture](Mexicanx001)
+
 I am an artist and a con runner. I work in resin and 3D art and make jewelry. I have designed two Hugo bases and the Young Adult Award this year for the ceremony. For convention work I usually do something creative as well, design, marketing, promotions side of things.
+
+[picture](Mexicanx003)
 
 **Had you ever been to a Worldcon before?**
 
