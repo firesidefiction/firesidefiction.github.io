@@ -1,4 +1,6 @@
-**Interview with Lauren Snow**
+**Interview with Lauren Raye Snow**
+
+[picture](Mexicanx027)
 
 **Where did you grow up and where do you live now? Where can we find you on social media?**
 
@@ -24,7 +26,7 @@ It’s hard for me to isolate one moment. I probably had two favorite experience
 
 One, my time co-boothing with other artists and writers at the Mexicanx Table in the Dealer’s Room was singularly special. It was the perfect way to get to know a handful of my new siblings; hustling together was both rewarding and fun. I’ve been a part of selling experiences before, where it can feel cutthroat and competitive, but honestly, there was nothing like that going on at the Mexicanx Table. We were all helping each other sell, and when it was slow, we were admiring each other’s work and comparing notes. I had such a great time - I could truly do that every day and be happy.
 
-My second highlight was this: John’s advocacy of The Mexicanx Initiative being recognized by George R.R. Martin at the Hugo Loser’s Party. It was John’s Alfie, deservedly. George’s recognition of the Mexicanx Initiative felt like a much needed reminder that, in these poisonous times, the culture at large is STILL shifting toward progress, toward greater inclusion; that by showing up and sharing our unique voices, we become co-creators of a better world in which we can live, and thrive.
+My second highlight was this: John’s advocacy of The Mexicanx Initiative being recognized by George R. R. Martin at the Hugo Losers Party. It was John’s Alfie, deservedly. George’s recognition of the Mexicanx Initiative felt like a much needed reminder that, in these poisonous times, the culture at large is STILL shifting toward progress, toward greater inclusion; that by showing up and sharing our unique voices, we become co-creators of a better world in which we can live, and thrive.
 
 That’s what still echoes for me, when my work feels hard.
 
