@@ -1,5 +1,7 @@
 **Interview with Mariana Palova**
 
+[picture](Mexicanx123)
+
 **Where did you grow up and where do you live now? Where can we find you on social media?**
 
 I was born in Jalisco, México, but currently live in Aguascalientes, Mexico.
@@ -10,6 +12,8 @@ You can find me mostly here ♥:
 [Patreon](https://www.patreon.com/marianapalova)
 
 **What kind of creative work do you do?**
+
+[picture](Mexicanx013)
 
  I am a digital artist and fantasy writer. My work is focused on occult arts, cultural diversity, mythology, and personal explorations of symbols and different kinds of magic.
 
@@ -34,6 +38,8 @@ A book: _White Fang_. A simple classic, but this book, my favorite, is the fuel 
 A movie: _Monty Python and the Holy Grail_. Best movie ever. I have watched it like ten times, and I always laugh like crazy.
 
 **Where should new people start familiarizing themselves with your work?**
+
+[picture](Mexicanx014)
 
 Even though I've been an artist for almost ten years, I think that my book, _Nation of the Beasts_, represents very well what I am and what my world is. This a dark fantasy book, set in our real world; it started out self-published in Spanish, but now the rights have been sold in both Spanish and English and I'm hoping to start my writing career with a good pace!
 
