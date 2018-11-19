@@ -1,5 +1,7 @@
 **Interview with Patty Garcia**
 
+[picture](Mexicanx106)
+
 **Where did you grow up and where do you live now? Where can we find you on social media**
 
 I grew up in the Valley of the Sun (Phoenix, AZ) and have lived in NYC for 21-years. I am mostly on Twitter [@opattyg](https://www.twitter.com/opattyg)  
@@ -16,6 +18,8 @@ Yes, as part of my former day job. I was the Director of Publicity at Tor for 12
 
 I honestly wasn't sure what to expect, I thought we'd get a ribbon for our badge, have the reception, and then kind of wander. I was surprised and honored to be on so many great panels and to see all the panels my fellow Mexicanx recipients participated in.
 
+[picture](Mexicanx108)
+
 **Tell us about one highlight moment of your Worldcon experience.**
 
 Being on stage with John when he won the Alfie and also during the opening ceremonies. It was an honor for our raza to be recognized.
@@ -24,9 +28,13 @@ Being on stage with John when he won the Alfie and also during the opening cerem
 
 _Coco_! I had never seen a Pixar movie and this one was so amazing for so many reasons. Obviously there was the burst of pride at our heritage being represented so beautifully, but I also took my mom to see it, who hadn't been to the movies in 40 years! It's just not her thing but this one intrigued her and she loved it. She can't stop talking about it and I'll never forget how good it felt to buy my mom popcorn and sit with her in the dark filled with awe and wonder at such a great movie and the accurate portrayal of Mexico and our customs.
 
+[picture](Mexicanx107)
+
 **What was the funniest thing that happened during your trip?**
 
 Funniest? I can't say, but the funnest was taking some of my new friends from Mexico City around to the room parties and seeing their faces when they saw the lengths some of the groups went to with their decorations, and also marveling at all the fandoms. Good times!
+
+[picture](Mexicanx049)
 
 **Where should people start familiarizing themselves with your work?**
 
