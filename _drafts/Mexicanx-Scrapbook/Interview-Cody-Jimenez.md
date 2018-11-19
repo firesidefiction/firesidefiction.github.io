@@ -1,5 +1,7 @@
 **Interview with Cody Jimemez**
 
+[picture](Mexicanx024)
+
 **Where did you grow up and where do you live now? Where can we find you on social media?**
 
 I grew up in Las Cruces, New Mexico. And I’m currently in Orange County, California. I moved here to pursue my Master’s Degree in Fine Art, which I  received in 2017, and now continue to work and paint full time here. My most active social media is Instagram. [@codyjimenezart](http://www.instagram.com/codyjimenezart) is my account.
@@ -7,6 +9,8 @@ I grew up in Las Cruces, New Mexico. And I’m currently in Orange County, Calif
 **What kind of creative work do you do?**
 
 I draw, paint, and write music. A genre of artwork I fit into is possibly imaginative realism. My subject matter is familiar, but with a surreal and magical twist. I paint people and animals with these grand, glowing, and colorful crystal-like objects.
+
+[picture](Mexicanx025)
 
 **Had you ever been to a Worldcon before?**
 
@@ -23,6 +27,8 @@ I think my highlight moment was getting on stage with the rest of the Initiative
 
 **Where should new people start familiarizing themselves with your work?**
 
+[picture](mexicanx026)
+
 There’s my website, [CodyJimenez.com](http://www.codyjimenez.com) and also my instagram, [@codyjimenezart](http://www.instagram.com/codyjimenezart).
 
-My website has majority of my work, all in one spot with some neat time-lapse videos and an interview video there as well. My Instagram has some more in progress work and some babbling from me. A little bit of my personality shows through there as well as those spiffy Instagram stories. I add some funny and dumb stuff on there from time to time. 
+My website has majority of my work, all in one spot with some neat time-lapse videos and an interview video there as well. My Instagram has some more in progress work and some babbling from me. A little bit of my personality shows through there as well as those spiffy Instagram stories. I add some funny and dumb stuff on there from time to time.
