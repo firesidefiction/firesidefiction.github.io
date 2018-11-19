@@ -1,6 +1,6 @@
 **Interview with Worldcon 76 Chair, Kevin Roche**
 
-(Mexicanx005.jpg)
+[Picture](Mexicanx142.jpg)
 
 **Tell us a little about you and your role as Worldcon 76 Chair. What all did that entail?**
 
@@ -22,6 +22,8 @@ I know the reading of Lauren’s Manifesto was surprising (and controversial) to
 
 As opening ceremonies was one of the few events where I would have a significant on-stage presence, and would be addressing the entire membership publicly, I was brought in on what was planned several days in advance, but not the actual content of Lauren’s Manifesto. My director for the ceremony had reviewed and planned things with John, and I had faith in his judgement. I’m glad I placed that trust in both of them. It was a powerful moment at the start of our weekend.
 
+[Picture](Mexicanx009)
+
 **There was also an LGBTQ Initiative. How did that come about, and how involved in that were you?**
 
 When we started sharing news of the Mexicanx Initiative on our Facebook page, someone commented (positively) on one of the posts that they wished there could be the same sort of thing for LGBTQ fans (another underserved segment of fandom); someone replied to the commenter “why not start one yourself?”
@@ -35,6 +37,8 @@ Absolutely YES! There has been a tradition of fans sponsoring other fans to Worl
 There were several other crowdfunding campaigns for Worldcon 76, including Mary Robinette Kowal’s campaign to bring more Campbell and Hugo Finalists to the awards ceremony. The Worldcon global village was generous in so many ways this year.
 
 **What were a couple of your favorite moments from Worldcon 76?**
+
+[Picture](Mexicanx005)
 
 Much of Worldcon is a blur (I had 39 items on my schedule for the weekend!), but a few things stood out:
 
