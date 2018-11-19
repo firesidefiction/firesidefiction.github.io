@@ -1,5 +1,7 @@
 **Interview with Gabriela Damián Miravete**
 
+[Picture](Mexicanx061)
+
 **Where did you grow up and where do you live now? Where can we find you on social media?**
 
 I grew up in Mexico City, and I'm still here because I love it as much as I suffer it!
@@ -17,6 +19,8 @@ Yes! The year _Three Messages and a Warning_ was published, the 30 or so authors
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
 It was way more than I expected. I thought it´d be a brief encounter with a community I love and admire but I don't belong to, and suddenly, I am part of that community! Because the gates were really open, not for just a few days, but for a long time. I still can't believe it.
+
+[Picture](Mexicanx060)
 
 **Tell us about one highlight moment of your WorldCon experience.**
 
