@@ -1,5 +1,7 @@
 **Interview with Mario Acevedo**
 
+[Picture](Mexicanx074)
+
 **Where did you grow up/where do you live now? Where can we find you on social media?**
 
 I was born in El Paso, Texas and grew up in Las Cruces, New Mexico. For the last twenty-five years my home has been Denver, Colorado. We are a family of mojados. My dad’s parents fled the civil war in Mexico and my mother was for a while, an indocumentada, before she became a US citizen.
@@ -22,6 +24,8 @@ I didn’t know what to expect other than meet writers from Mexico. They were a 
 **Tell us about one highlight moment of your WorldCon experience.**
 
  When I was signing books, a couple of friends that I hadn’t seen in eighteen years had driven from Richmond just to see me. That was a wonderful surprise.
+
+ [Picture](Mexicanx064)
 
 **Recommend any or all of the following: a song, a written work, a piece of visual art, and a movie. Tell us why you love them!**
 
