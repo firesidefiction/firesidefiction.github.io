@@ -1,10 +1,14 @@
 **Interview with Worldcon 76 Artist Guest of Honor, John Picacio**
 
+[Picture](Mexicanx114)
+
 **Tell us a little about yourself. Where did you grow up, and where do you live now? Where can we find you on social media?**
 
 I'm John Picacio. Live and work in San Antonio, TX. Find me on Twitter at [@JohnPicacio](https://www.twitter.com/JohnPicacio) and Instagram at [@johnpicacio](http://www.instagram.com/johnpicacio).
 
 **What kind of creative work do you do?**
+
+[Picture](Mexicanx104)
 
 Professional book cover and product artist for 22 years in the science fiction, fantasy and horror publishing industry. I've been doing it full-time for the past 17 years.
 
@@ -20,7 +24,7 @@ Out of 50 Recipients selected for The Mexicanx Initiative, 42 of them attended W
 
 Hands down, I would say it was all of us linking up in the 'Xup' formation at Opening Ceremonies, in support of our children being locked in cages, separated from their families at the borders. Our people are being politically targeted and that demonstration was a reminder that the nightmare continues every day and must be stopped. Something happened to us on that stage, under those lights, with all those eyes staring back. Most of us on that stage were strangers who had only met moments before. There were Americans and Mexicans, with many traveling thousands of miles to be there, and yet when we walked down, we were bonded in a way that even I could not have predicted. We became a family, and I would say there's a nucleus of 20 to 25 of us that have become closer and closer as Worldcon becomes a more distant memory. It's a kinship that transcends borders and language, and it's for real.
 
-(Mexicanx016.jpg)
+[picture](Mexicanx016.jpg)
 
 The best thing is that this nucleus is loaded with world-changing talent, and we're here to push each other to do just that. We're not a movement. We're not a club. But we are a family, with all of its quirks and dysfunctions, and hopefully if we do what we're supposed to do, we might be the beginning of a revolution. We shall see. We've got a long road ahead and a lot of work to do.
 
