@@ -1,6 +1,8 @@
 **My Experience at Worldcon 76 As Part of the Mexicanx Initiative**
 by Dianita Cerón
 
+[picture](Mexicanx028)
+
 Hi, I’m Diana Vargas Sampieri. My friends call me Dianita. I’m a fantasy artist from the city of Veracruz, Mexico, currently living in Texas.
 
 Usually these words don’t make a difference when I say them out loud, but this time they did.
@@ -44,6 +46,8 @@ I met Lauren Raye Snow with her empowering portraits of mysterious women and her
 
 I met Vania Soto, a beautiful, kind person and one of the most passionate artists I’ve ever met. [Her works](http://www.vaniasoto.com/) are inspired by Frida Kahlo, Mexican culture, First Nations, and beautiful bright colors.
 
+[picture](Mexicanx126)
+
 There was also [Emmanuel Valtierra](http://www.emmanuelvaltierraillustrator.com/), who I had met during Texas Latino Comic Con in July but until now we hadn’t had the chance to talk much. He was presenting his Codex Valtierra.
 
 Author and Artist Mariana Palova created gorgeous surreal art but, this time, she was focused on promoting the English version of [her book](https://nationofthebeasts.com/) _Nation of the Beasts_.
@@ -54,6 +58,8 @@ I got to meet [Francis Vallejo](http://francisvallejo.com/) and see him sketchin
 
 Not part of the booth crew was [Cody Jimenez]( https://www.codyjimenez.com/), an incredible artist who I happened to catch sketching live, and he was awesome!
 
+[picture](mexicanx029)
+
 My dear friend [Gonzalo Alvarez (Gonzzink) brought The Legend of Polloman](https://www.legendofpolloman.com/) to the people of Worldcon 76. His characters and his story mixing elements of Mexican pre-Columbian cultures with a twist makes it a delightful and educational read for people curious to learn more about our culture and who want to have a fun story to share with their children. With him was the sweet Grace Chadwick co-creator of Polloman and incredible surrealist artist, and although she was not part of the Mexicanx Initiative, she was part of our family for sure!
 
 Last but not least, [Tehani Farr](https://www.instagram.com/tehanifarr/?hl=en), one of the strongest voices of Sci-Fi and Fantasy art in Mexico. I’d followed her work on Facebook for years. It took me a bit of time to say hi to her because I was actually starstruck!
@@ -62,11 +68,15 @@ The day went fast, we were able to get a glimpse of some of the Mexicanx Initiat
 
 The opening ceremonies were surreal. We walked on stage with John and stood there linking our arms and forming an X as John read Lauren Raye Snow’s powerful statement condemning the inhumane treatment and separation of immigrant families at the border. Before going on stage many of us were complete strangers, but as we stepped down we understood we were now a family given the task of representing our people, our values, our passion to the community attending an inclusive Worldcon 76 that was excited to have us and share their stories with us, and especially wanting to know us and our stories.
 
+[picture](Mexicanx011)
+
 It was also at the opening ceremony that I met the amazing poet and artist Smok, and I think we didn’t stop talking until the day I left!
 
 The evening was a rush, immediately after the opening ceremonies we walked together to the Fairmont Hotel a couple of blocks away. Please don’t laugh at me, but I was overwhelmed to be walking to a suite in a nice hotel to attend a small party thrown for a group I was part of. There we were received by very kind people that made us feel welcome. There were some announcements, including that we were invited to the famous Losers Party given by Mr. George R. R. Martin himself after the Hugo Ceremony. This came as a shock, because I was leaving on Sunday afternoon and wouldn’t be able to go!
 
 Next, we got to meet fellow Mexicanx Initiative culinary artist Héctor González Hernández, who made a delicious feast based on Carnitas Michoacán style, with a terrific vegan option made with mushrooms, a wonderful arrangement of salsas for every taste, and the essential pot of black beans. I was one of the proud challengers that beat the Dracarys and the Tears in the Rain salsas! At some point I thought to mix them on my tacos because, why not? My other favorite was his Obi Wan Chipotle salsa, but he also created a blue salsa that it turned purple if you mixed it with lime juice!
+
+[Picture](Mexicanx144)
 
 In that small suite there was a big family that wasn’t focusing on anything but being together and meeting each other. I got to talk with some of our sponsors there and it was wonderful to listen to one wonderful guy saying that being in that room reminded him to where he grew up, that it was exactly as he remembered the Mexican community around him. I felt so proud!
 
@@ -78,13 +88,15 @@ That was an evening full of surprises. At some point I was talking to my husband
 
 Surprises, I tell you, one after another!
 
+[picture](Mexicanx095)
+
 I was hesitant to get close to him because I didn’t want to be disrespectful, but I was about to miss the big events on Sunday, so I felt this was my only chance to meet him. After asking around if it was ok to come close, I went and said hi. He was really sweet and had a soothing voice. I wanted to tell him how much I admired him for writing women who are strong and relatable because these examples gave me more faith that my own characters could someday inspire other women. Also that I felt so inspired by him and his sponsorship of a wolf sanctuary. Both subjects are close to my heart and my work is starting to reflect that. Of course, what I actually said was a less structured dialogue that I’m sure he has heard a million times and, as he was calling someone from his team, I thanked him for his time and ran away to hide my face somewhere else!
 
 That evening was incredible in many ways. I got to hear other women from the Initiative share their concerns about the lack of support for Mexican creators in our country and made the commitment to support each other as women and creators. I also talked with a man who told me about the beautiful knitted clothes his wonderful and very artistic wife made for their children. This was amazing because I was going to wear a blouse my grandma Angela made for me for the Art Show reception next day. She used a crochet technique that is really difficult for her as she has arthritis but she loves to make clothes fur us and I feel so proud to wear them.
 
 At some point the room emptied, so we assumed the day was over and it was time to leave. Apparently I missed the fact that there were parties all around and somehow I missed a reunion with the other artists and important people in the industry and I still don’t know how!  Two days later I realized I also missed a party because I didn’t understand the business card I received, which actually showed the hotel room where the party was being held.
 
-I tell you, I’m not one of those people who get invited to this kinds of events! I had no idea what I was doing! 
+I tell you, I’m not one of those people who gets invited to this kinds of events! I had no idea what I was doing! 
 
 **That Night at My Hotel**
 
@@ -108,11 +120,19 @@ I was overwhelmed. But that night I also felt my heart released from this prison
 
 Yes indeed! The next day the art show reception happened. At that point I wasn’t feeling I was doing Worldcon right and after receiving great ideas (thank you, Alberto Peña!) I made the decision to fully turn my attention to learn and to be helpful to others. I got to listen artist Lee Moyer and Mexicanx Initiative artist Tehani Farr and it was amazing, and then Mr. Moyer gave me some very much needed advice for my own art. Friday was a fun day. I even won a Loteria game! Well, two, but one was just a line and the other one consisted of completing a full Loteria board. It was a long day that ended up quite late after spending time with other members of the Initiative talking about our experiences and just having fun together.
 
+[picture](Mexicanx119)
+
 Saturday was wonderful! Got to spend some more time talking with Orlando Arocena and he shared lots of amazing advice with me, which I hope to apply soon! I got to attend the panel The Artist/Author: A New Wave of Storytellers with John Picacio, Grace P. Fong, Greg Manchess, Robbie Trevino and Mariana Palova. It was wonderful listening to them talking about their experiences trying to create work independently. I particularly related to Mariana Palova’s experience as a creator in our country. The highlight of this day was meeting Artist Greg Manchess. He was incredibly nice! (and I have a picture with him!)  After this panel we went to Art and Soul: The Worlds of John Picacio, where we heard more about his road to becoming the artist he is today and got a glimpse of his creative process. It was amazing.
+
+[picture](Mexicanx125)
 
 That day I went to say hi to Naomi Van Doren to her booth, I knew her from an online community and her vlogs had helped me with my selling experiences at other conventions. There I also met Christine Rhee. Both wonderful women with art that makes your soul sing. That day I also talked to Joseph Kaukola, a fun, passionate author, about his books The Sword and Threshold. He was one of the most wonderful people I met at the convention. That night lots of artists and authors from the Initiative got together and I finally talked to a few of them, especially with Julia Rios and Gerardo Horacio Porcayo who also happens to love Boris Vallejo’s works! The night went on with lots of laughs, singing and walking around with our beautiful group. Of course our author friends disappeared again!
 
+[picture](Mexicanx047)
+
 Sunday was bittersweet because I was leaving that evening! I spent most of the day with my friends at the booth and when the time came to leave, it took me around an hour to hug everyone! I cried as I do when I have to say farewell to my family back at home. That day I was able to say hi and talk for a few minutes with John Picacio and his cousin Adria, and as I was leaving the convention center with Raquel Castro, Alberto Chimal, José Luis Zárate, Mr. Porcayo, Julia Rios, and Rick Canfield, I met Adrian Molina and blamed him for making me cry rivers with Coco! I missed the chance to say hi to Ana Ramirez!  I’m sure I missed a lot of people from the Initiative but I’m really happy I got to talk a bit with Aaron Durán, Manuel González, Gabriela Damián, Andrea Chapela, Felecia Caton Garcia, Patty Garcia, Gary Villareal, Anna Meriano, and Sara Félix, I’m so glad I got to meet them, I can’t wait for the next time that we’re together! I’m also happy I got to meet many, many people who worked hard to make Worldcon 76 a safe and successful event.
+
+[picture](Mexicanx037)
  
 **Worldcon 76 is over, But The Dream Lives On**
 
@@ -123,6 +143,8 @@ Worldcon 76 was everything I expected it to be and much more. I missed almost ev
 My dad used to teach me: when you feel you aren’t doing anything go and help someone. My mom and friends have taught me that we should give our support and encouragement to everyone around us. This didn’t bring me a huge amount of work, possible sales, or anything business-wise, but Worldcon 76 and being part of the Mexicanx Initiative gave me something much more valuable than that; it was an experience where I found myself seen and validated by people in this industry, people who inspire me everyday to be myself and create my own work. After many years of trying and failing, the year I decided to focus on what I care about was the year when I received the opportunity of a lifetime. All the people I met left a big impression on my heart and they now inspire me to be a better person and artist every day.
 
 Worldcon magic (as they call it) works in mysterious ways. I arrived in San Jose not knowing if I would ever earn a place in this field and I left on Sunday realizing I’ve already been part of it all my life!  I’m now part of this incredible family of artists and authors who are passionate creators of works that deserve a place in events worldwide. I believe we all hope to inspire other Mexicanx creators all over the world to stay passionate about their projects no matter how hard it is to make people pay attention. Stay strong, be kind, keep learning, and never ever stop showing your work!
+
+[picture](Mexicanx128)
 
 A big big thank you to John Picacio who might never know how much he changed my life by having faith in me, to our sponsors who helped us attend Worldcon 76, and to my Mexicanx Initiative family for the inspiration and motivation to keep creating! To my husband who never lost faith in me and my family and friends in Mexico, the US, and the rest of the world for helping me be the person I am today and not allowing me to quit. Worldcon 76 was an unforgettable birthday celebration. Although my birthday was on August 14th and I spent it painting non-stop, it was followed by five days of wonderful and unforgettable experiences!
 
