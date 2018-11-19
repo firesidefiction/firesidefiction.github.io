@@ -12,7 +12,7 @@ I’m a film journalist and a writer of fiction and essays, mostly about the fan
 
 **Had you ever been to a Worldcon before?**
 
-Yes! The year _Three Messages and a Warning_ was published, the 30 or so authors of the stories in the anthology were invited by the dear Chris N. Brown and the comittee. But I was the only one who attended. It was awesome!
+Yes! The year _Three Messages and a Warning_ was published, the 30 or so authors of the stories in the anthology were invited by the dear Chris N. Brown and the committee. But I was the only one who attended. It was awesome!
 
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
