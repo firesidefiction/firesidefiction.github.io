@@ -7,7 +7,7 @@ Usually these words don’t make a difference when I say them out loud, but this
 
 If in the middle of May 2018 you would’ve told me that I was going to apply for The Mexicanx Initiative created by two time Hugo Award winning illustrator, Mr. John Picacio, I would’ve laughed in your face. John Picacio is one of those names you only hear or read from other artists you follow because … well … he has this huge career you can only dream about, right? I’d been following John for a year or more on Twitter and I'd never actually made the connection that he was a Mexican-American artist before. 2018 was the first year in the history of Worldcons that an Artist Guest of Honor was Mexican-American or had Mexican heritage. John realized that the Sci-Fi and Fantasy community might not be aware that there are many Mexicanx artists and authors who work in this field, so he decided to create a group of Mexicanx and bring them to Worldcon 76 with the help of wonderful sponsors.
 
-It wasn’t until Sara Félix posted about it a couple days before the deadline, when John specifically asked Mexicanas to apply, that I decided to give it a go.
+It wasn’t until Sara Felix posted about it a couple days before the deadline, when John specifically asked Mexicanas to apply, that I decided to give it a go.
 
 _I’m Mexican_ - My brain jumped right away to make this statement.
 _I’m an Artist_ - Yes I am!
@@ -129,5 +129,5 @@ A big big thank you to John Picacio who might never know how much he changed my 
 **Now I’m Ready to Say It Again:**
 
 Hi, I’m Diana Vargas Sampieri. My friends call me Dianita. I’m a Fantasy artist from the city of Veracruz, Mexico, currently living in Texas.
- 
+
 I love to create artwork that inspires people to be strong, kind, and respectful to our world and the creatures that live in it. I used to believe my ideas and my art didn’t matter. Today I firmly believe what I love to create has a place in this world and I wish to bring beauty and hope to other people’s lives!
