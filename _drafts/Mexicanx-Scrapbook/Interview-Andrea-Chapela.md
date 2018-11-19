@@ -2,7 +2,7 @@
 
 **Where did you grow up, and where do you live now? Where can we find you on social media?**
 
-I grew up in Mexico City but I'm living in Madrid, Spain with an artists fellowship from the Residencia de Estudiantes. My social media is [@AndreaChapel on Twitter](https://www.twitter.com/AndreaChapel) and [my facebook page](https://www.facebook.com/andrea.chapela.5/).
+I grew up in Mexico City, but I'm living in Madrid, Spain with an artists fellowship from the Residencia de Estudiantes. My social media is [@AndreaChapel on Twitter](https://www.twitter.com/AndreaChapel) and [my facebook page](https://www.facebook.com/andrea.chapela.5/).
 
 **What kind of creative work do you do?**
 
