@@ -1,5 +1,7 @@
 **Interview with Alberto Chimal**
 
+[Picture](Mexicanx079)
+
 **Where did you grow up, and where do you live now? Where can we find you on social media?**
 
 I grew up in a small city called Toluca, in Mexico, and now I live in Mexico City. I'm on [Twitter](https://www.twitter.com/albertochimal) and [Instagram](http://www.instagram.com/albertochimal) as @albertochimal and on Facebook with the handle [albertochimal1](https://www.facebook.com/albertochimal1). I also contribute to a YouTube channel: [AlbertoyRaquelMX](https://www.youtube.com/channel/UC76hENQ_Ukro3arnJGfcVHQ).
@@ -8,17 +10,23 @@ I grew up in a small city called Toluca, in Mexico, and now I live in Mexico Cit
 
 I'm a writer. I write novels, short stories, and the occasional article. I also have the aforementioned YouTube channel with my wife, Raquel Castro, who is  a writer, too.
 
+[Picture](Mexicanx097)
+
 **Had you ever been to a Worldcon before?**
 
 Nope.
 
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
+[picture](Mexicanx071)
+
 I didn't know what to expect. I was a bit nervous, but it was mostly because of the political climate in the US around us Mexican and Mexican-descended persons. At the very least, I hoped I could get to know the fabled convention I had read about since I was a kid. The fact that I would be participating in it didn't really sink in until I was in front of an audience, and that was the moment when a) I got really nervous, and b) the whole experience became a lot better than I had imagined. At the same time, the Mexicanx Initiative people were all so nice and welcoming it all felt like being in another world: another place, within the larger US.
 
 **Tell us about a highlight of your Worldcon experience.**
 
 The moment I got to read a short story in Spanish at the Mexicanx Initiative group reading. I love narrating and reading for audiences in Spanish, but I never thought I'd be doing that at a Worldcon! Also, a dinner we had with Gay and Joe Haldeman. We had met them in Mexico a few years back and they are both talented, funny, and very kind.
+
+[picture](Mexicanx101)
 
 **Recommend any or all of the following: a song, a written work, a piece of visual art, and a movie. Tell us why you love them!**
 
