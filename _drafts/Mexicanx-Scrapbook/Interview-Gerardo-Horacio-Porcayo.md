@@ -25,6 +25,8 @@ did your experience compare with that expectation?**
 
 In the beginning, nothing. For me it was just like an external source of help to fulfill a dream, but when I reached San Jose and met everyone, I switched to this family view. So everything was a win.
 
+[picture](Mexicanx071)
+
 **Tell us about one highlight moment of your Worldcon experience.**
 
 The Hugo Awards Ceremony, without a doubt, and the Losers Party afterwards.
@@ -47,7 +49,7 @@ Nothing, I'm dead serious, ha ha ha =)
 **Where should new people start familiarizing
 themselves with your work?**
 
-My short story "The Other Con" is in both English and Spanish in this scrapbook. 
+My short story "The Other Con" is in both English and Spanish in this scrapbook.
 
 My most famous novel hasn't been translated but it's called *La Primera Calle de la Soledad*.
 
