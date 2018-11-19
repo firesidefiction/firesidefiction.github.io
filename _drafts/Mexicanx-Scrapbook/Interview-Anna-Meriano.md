@@ -1,10 +1,14 @@
 **Interview with Anna Meriano**
 
+[picture](Mexicanx047)
+
 **Where did you grow up and where do you live now? Where can we find you on social media?**
 
 I grew up in Houston, Texas and, after a brief stint in New York for grad school, I’m back living in my hometown. You can find me on twitter [@annamisboring](https://www.twitter.com/annamisboring) or at my sporadically updated website, [annameriano.com](http://www.annameriano,com)!
 
 **What kind of creative work do you do?**
+
+[picture](Mexicanx018)
 
 I’m a kid lit author. My debut novel, _Love Sugar Magic: A Dash of Trouble_, is a middle grade fantasy with a sequel coming out in 2019.
 
@@ -15,6 +19,8 @@ No, never! I’ve been to Houston comic conventions several times and I made it 
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
 I was excited but nervous about it, mostly because I had so little idea what to expect. I had all my usual social anxiety about meeting new people, fitting in, and being “Mexican enough,” but even beyond that, I worried about the problems WorldCon had with organization and treatment of marginalized guests a few weeks before the event. I was so relieved to see John speaking out and trying to make sure that the organizers did the right thing, but I think we’ve seen that nerd culture, including the Hugos, can become toxic when the wrong people get a voice, so it was a little scary to go to the convention not knowing what kind of reception we would get there.
+
+[Picture](Mexicanx046)
 
 Luckily, my experience was overwhelmingly positive. From the moment I walked into the reception, I felt so welcomed by my fellow Initiative members. Throughout the con, folks seemed excited to support and learn more about us and our work. I had such a fun time talking, eating, dancing, and attending events with old and new author friends, and seeing all the amazing artwork and talent displayed at the booth. The panels themselves were great, and I came out with so many new books on my TBR list—in English and Spanish!
 
@@ -34,6 +40,10 @@ Totally unrelated to Worldcon or the Initiative: I was on Netflix recently looki
 
 I really enjoyed going to the Steampunk Ball with some members of the Initiative and dancing the first few dances together. We also played with a pair of kaleidoscope steampunk goggles, which were a lot of fun.
 
+[picture](Mexicanx020)
+
 **Where should new people start familiarizing themselves with your work?**
+
+[picture](Mexicanx019)
 
 You can definitely pop over to [my website](http://www.annameriano.com) to check out my books as well as some interviews and guest posts for blogs. I’m also on Twitter a lot, and you should be able to find _Love Sugar Magic: A Dash of Trouble_ on the middle grade or young readers shelf of your local English or German bookstore! (Still waiting to see if someone will publish it in Spanish).
