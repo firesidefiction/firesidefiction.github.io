@@ -1,5 +1,7 @@
 **Interview with Marcela Davison Avilés**
 
+[Picture](Mexicanx075)
+
 **Where did you grow up and where do you live now? Where can we find you on social media?**
 
 Born in Nogales, Arizona and grew up there and in Tucson. People can find me at:
