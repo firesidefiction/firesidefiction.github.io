@@ -18,7 +18,7 @@ I didn’t have many expectations going into it, and I’m sorry to say that I h
 
 **Tell us about a highlight of your Worldcon experience.**
 
-I know this is a complete cliché, but I have to say that I was pretty amazed to walk through the door of George Martin’s Losers Party — in the stuff of legend, it’s the equivalent of finding myself at seeing Jimi Hendrix at Woodstock or The Ramones at CBGB.
+I know this is a complete cliché, but I have to say that I was pretty amazed to walk through the door of George R. R. Martin’s Losers Party — in the stuff of legend, it’s the equivalent of finding myself at seeing Jimi Hendrix at Woodstock or The Ramones at CBGB.
 
 **Recommend any or all of the following: a song, a written work, a piece of visual art, and a movie. Tell us why you love them!**
 
