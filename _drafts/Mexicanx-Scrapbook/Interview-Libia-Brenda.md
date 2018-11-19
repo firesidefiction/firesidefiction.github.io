@@ -1,5 +1,7 @@
 **Interview with Mexicanx Initiative Author, Libia Brenda**
 
+[Picture](Mexicanx063)
+
 **Where did you grow up and where do you live now? Where can we find you on social media?**
 
 I was born and grew up in México, in a city called Puebla, that is the capital of the State with the same name. I have lived in Mexico City since 2001.
@@ -8,9 +10,12 @@ My Twitter: [@tuitlibiesco](https://www.twitter.com/tutlibiesco).
 
 **What kind of creative work do you do?**
 
+[Picture](Mexicanx043)
+
 I write, mostly short stories about time travel, and women that are finding their own path. I Also do a lot of creative work as an editor (or instance, the anthology _A Larger Reality / Una realidad más amplia_). My editing work is far away from my day job (at an office, with a salary) and from my usual freelance endeavors, though even some of the freelance writing that I do for a living is partially in the creative field.
 
 **Had you ever been to a Worldcon before?**
+
  Nope.
 
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
@@ -36,6 +41,8 @@ A movie: I believe that I have to go with Guillermo del Toro, if you’ve alread
 This is so long it deserves its own essay, so I wrote one! See the piece entitled "Running Through the Streets" elsewhere in the scrapbook!
 
 **Recommend up to three places for new people to start familiarizing themselves with your work.**
+
+[Picture](Mexicanx041)
 
 Well, I have to recommend [the anthology](https://www.mexicanxinitiative.com/welcome/), _A Larger Reality: Speculative Fiction from the Bicultural Margins / Una realidad más amplia. Cuentos desde la periferia bicultural_, because it's a book that makes me very happy and proud of being part of this Mexicanx community. The book was an effort in which many people were involved, although I was the one putting it all together and it's really a joy to see how it turned out. And it was intended to be a free ebook since the beginning, because that way anybody can read it.
 
