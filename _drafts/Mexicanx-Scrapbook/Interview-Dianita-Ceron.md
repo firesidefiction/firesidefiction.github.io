@@ -1,5 +1,7 @@
 **Interview with Mexicanx Initiative Artist, Dianita Cerón**
 
+[Picture](Mexicanx129)
+
 **Please introduce yourself to us and tell us where you grew up, and where you live now. Where can we find you on social media?**
 
 My name is Diana Vargas-Sampieri but my friends call me Dianita. I use the last name Cerón on social media (it’s my husband’s last name). I was born and raised in the city of Veracruz in Mexico and I’ve been living in Texas for almost 4 years.
@@ -27,6 +29,8 @@ No, Worldcon 76 was my first Worldcon ever!
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
 I arrived hoping to meet new people and find new opportunities for my art. In the end, my experience was a million times more intense than I expected. I realized that the path I’m following with my art feels right. I returned home humbler and more inspired by the works of the artists and authors from the Initiative who I met in person during the four days I attended the convention.  
+
+[Picture](Mexicanx123)
 
 **Tell us about a highlight of your Worldcon experience.**
 
