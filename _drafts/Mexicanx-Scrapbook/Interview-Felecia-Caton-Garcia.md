@@ -1,5 +1,7 @@
 **Interview with Felecia Caton Garcia**
 
+[picture](Mexicanx062)
+
 **Where did you grow up, and where do you live now?**
 
 I was born in East Los Angeles, raised in rural Missouri, and now I live in Albuquerque, New Mexico.
@@ -15,6 +17,8 @@ No, I had never been to a Worldcon, or, in fact, any con at all before!
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
 I didn’t have many expectations going into it, and I’m sorry to say that I had so many family issues arise during those few days that my attention was divided the entire time. Nonetheless, I met amazing people, made fantastic connections, and learned so much.
+
+[picture](Mexicanx045)
 
 **Tell us about a highlight of your Worldcon experience.**
 
