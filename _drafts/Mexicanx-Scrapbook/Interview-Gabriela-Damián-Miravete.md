@@ -16,6 +16,8 @@ I’m a film journalist and a writer of fiction and essays, mostly about the fan
 
 Yes! The year _Three Messages and a Warning_ was published, the 30 or so authors of the stories in the anthology were invited by the dear Chris N. Brown and the committee. But I was the only one who attended. It was awesome!
 
+[picture](Mexicanx091)
+
 **What did you expect being part of the Initiative would be like? How did your experience compare with that expectation?**
 
 It was way more than I expected. I thought it´d be a brief encounter with a community I love and admire but I don't belong to, and suddenly, I am part of that community! Because the gates were really open, not for just a few days, but for a long time. I still can't believe it.
