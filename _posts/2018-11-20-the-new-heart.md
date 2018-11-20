@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-11-20 01:00:01 -0500
 category: short story
 permalink: the-new-heart
-published: false
+published: true
 teaser: "She makes sure to hold the chisel at a 45-degree angle; otherwise, the stone will bruise—and who wants a bruised heart?"
 author-img: natalia-theodoridou.jpg
 author-bio: |
