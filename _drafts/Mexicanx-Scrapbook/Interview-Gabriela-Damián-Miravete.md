@@ -6,7 +6,7 @@
 
 I grew up in Mexico City, and I'm still here because I love it as much as I suffer it!
 
-I´m on Twitter as [@gabrielintica](https://www.twitter.com/gabrielintica) and on Instagram as [@miradavaga](http://www.instagram.com/miradavaga), sharing photos of the books I read and the places I travel to.
+I'm on Twitter as [@gabrielintica](https://www.twitter.com/gabrielintica) and on Instagram as [@miradavaga](http://www.instagram.com/miradavaga), sharing photos of the books I read and the places I travel to.
 
 **What kind of creative work do you do?**
 
