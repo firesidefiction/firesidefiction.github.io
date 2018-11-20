@@ -21,6 +21,8 @@ The Fairmont
 
 The Mexicanx Initiative reception is a private party for Initiative participants, sponsors, and special invited guests on Thursday the 16th at the Fairmont in the Association of Science Fiction & Fantasy Artists' (ASFA) Suite. Food provided by Initiative member, Héctor González.
 
+[picture](Mexicanx015)
+
 
 **Friday the 17th:**
 
@@ -43,6 +45,8 @@ Readers: Libia Brenda, Pepe Rojo, Andrea Chapela, Manuel Gonzales, Felecia Caton
 
 Members of the Mexicanx Initiative read selections from their work in English.
 
+[picture](Mexicanx060)
+
 
 **Reading: Mexicanx Initiative - Spanish Language readings**
 Friday Aug 17   12:00 PM to 01:00 PM
@@ -54,6 +58,8 @@ Readers: Gerardo Horacio Porcayo, Alberto Chimal, Raquel Castro, Iliana Vargas, 
 
 Miembros de la Iniciativa Mexicanx leerán selecciones de su trabajo en español.
 
+[Picture](Mexicanx052)
+
 
 **New Ancestral Myths**
 Friday Aug 17   01:00 PM to 02:00 PM
@@ -62,6 +68,8 @@ San Jose Convention Center - 210C
 Moderator Raquel Castro, Mimi Mondal, John Picacio, Jeannette Ng, J.C. Cervantes
 
 Writers, artists, and editors present and discuss recent works which combine characters from ancient myths with modern themes, situations and aesthetic trends in order to create stories about today's concerns with mythical resonance. What do they actually say about ourselves in the current moment?
+
+[picture](Mexicanx090)
 
 **Beyond the Border I: What Is Happening to SF on the Other Side?**
 Friday Aug 17   03:00 PM to 04:00 PM
@@ -83,6 +91,7 @@ San Jose Convention Center - Callahan's Place
 
 Come win fabulous prizes! Join Hugo Award-winning artist and Worldcon 76 Guest of Honor John Picacio, as he hosts several rounds of this fun, easy-to-learn, fast-moving game of Mexican Bingo -- and presents his latest art visions of the game's classic icons.
 
+[picture](Mexicanx119)
 
 **Saturday the 18th:**
 
@@ -101,6 +110,8 @@ San Jose Convention Center - 210C
 Gerardo Horacio Porcayo, Alberto Chimal, Gabriela Damián Miravete
 
 Mexico is a new name for an antique country that used to have many nations and many magic stories. Our panelists discuss the shape of the science fiction literary landscape in a country defined by a history of colonial trauma.
+
+[picture](Mexicanx071)
 
 
 **Transgressing Borders**
@@ -144,11 +155,13 @@ Moderator Andrea Chapela, Pepe Rojo, Raquel Castro, Gabriela Damián Miravete
 
 Even though there is apparently neither a market or visible outlet for Mexican female horror writers, there is a hidden tradition of writers who have used the devices of the horror genre to explore issues of sexuality and the human and social condition. We see these women writers mining both the supernatural and technological forces that shape life in Mexico. This panel is an attempt to start mapping out this tradition from its early roots through the present.
 
+[picture](Mexicanx068)
+
 **The Artist/Author: A New Wave of Storytellers**
 Saturday Aug 18   03:00 PM to 04:00 PM
 San Jose Convention Center - 210B
 
-Moderator John Picacio, Gregory Manchess, Grace P. Fong, Robbie Trevino, Mariana Palova,
+Moderator John Picacio, Gregory Manchess, Grace P. Fong, Robbie Treviño, Mariana Palova,
 
 A rising number of pro illustrators are becoming authors, telling their own stories and defining their own story brands. Some are collaborating with writers to create their own properties. The panelists discuss how they are evolving their personal art visions into books, merchandise and story works, and why this wave is rising in popularity.
 
@@ -173,6 +186,8 @@ San Jose Convention Center - 210C
 Moderator Alberto Chimal, Mario Acevedo, Marc Johnson, SL Huang, Libia Brenda, Suzanne Walker
 
 Fantasy stories sometimes inadvertently echo harmful stereotypes about race, religion, sexuality, or disability. Even beloved classics may raise difficult issues from the perspective of POC, queer, religious minority, or disabled readers. What are readers to do when they see themselves marginalized in stories they care about? How can we reclaim the role of the outsider? And how can we use these works to inform productive discussion of the speculative fiction canon and its future direction?
+
+[picture](Mexicanx086)
 
 **Literary Beer: Sara Felix & Vincent Villafranca**
 Saturday Aug 18   06:00 PM to 07:00 PM
@@ -213,6 +228,8 @@ San Jose Convention Center, LL21AB
 Moderator Julia Rios, Adrian Molina, Ana Ramirez, Marcela Davison Avilés
 
 Join Adrian Molina (Co-Director and Writer), Ana Ramirez (Set Designer), and Marcela Davison Aviles (Lead Cultural Consultant) for _Coco_, as they discuss the movie, what happened behind the scenes to get it made, the response of the public, and what it was like to get to the Academy Awards.
+
+[picture](Mexicanx072)
 
 **Kaffeeklatsch: Mario Acevedo**
 Sunday Aug 19   02:00 PM to 03:00 PM
