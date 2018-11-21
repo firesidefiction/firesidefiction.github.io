@@ -1,0 +1,124 @@
+.product-page {
+	&-quarterly {
+		ul {
+			margin: 0 0 0 0;
+			font-family: $font-secondary;
+		}
+		h4 {
+			padding: 1em 0;
+		}
+	}
+	&-toc, &-art, &-ebook, &-cta {
+		padding: 1em;
+	}
+	&-intro, &-art {
+		background-color: #F5D7BB;
+	}
+	&-intro {
+		padding-top: 1em;
+		text-align: center;
+		figure {
+			margin-bottom: 1em;
+			max-height: 20em;
+			overflow: hidden;
+			img {
+				margin-bottom: 1em;
+				overflow: hidden;
+				max-width: 140%;
+			}
+		}
+		@media all and (min-width: 768px) {
+			padding-top: 2em;
+			& > div {
+				display: flex;
+				div {
+					flex-grow: 2;
+					margin-top: 9em;
+				}
+			}
+			figure {
+				margin-top: 2em;
+				margin-right: 1em;
+				max-width: 60%;
+				overflow: hidden;
+				max-height: 33em;
+				img {
+					margin-bottom: 1em;
+					overflow: hidden;
+					max-width: 100%;
+				}
+			}
+		}
+	}
+	&-toc {
+		padding-left: 1em;
+		figcaption {
+			font-family: $font-secondary;
+			font-size: $font-size-small-2;
+			margin-left: 2em;
+		}
+		.spread-box {
+			display: flex;
+			div {
+				min-width: 50%;
+			}
+			img {
+				max-width: 350%;
+			}
+		}
+		ul li {
+			margin-bottom: 1em;
+		}
+		@media all and (min-width: 768px) {
+			h1 {
+				max-width: 25em;
+				margin: 1em auto 1em;
+			}
+			.spread-box {
+				padding-left: 2em;
+				div {
+					min-width: 40%;
+				}
+				img {
+					max-width: 170%;
+				}
+				ul li {
+					margin: 0 0 1em 2em;
+				}
+			}
+		}
+	}
+	&-art {
+		padding-left: 1em;
+		padding-bottom: 2em;
+		figure img {
+			margin: 1em 0 -5em -5em;
+			max-width: 150%;
+		}
+		@media all and (min-width: 507px) {
+			ul li {
+				margin-bottom: 1em;
+			}
+		}
+	}
+	&-ebook {
+		padding-left: 1em;
+		figure {
+			max-width: 60%;
+			margin: 1em auto;
+		}
+	}
+	&-cta {
+		p {
+			margin-top: 2em;
+		}
+	}
+}
+
+.fireside-quarterly-logo {
+	text-align: center;
+	svg {
+		margin: 0 auto;
+		width: 70%;
+	}
+}
