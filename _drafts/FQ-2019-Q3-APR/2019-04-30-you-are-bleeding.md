@@ -28,16 +28,25 @@ For an intervention, they tell the girl fairy tales.
 
 These are the rules for princesses:
 
-#1 You must brush your long hair out daily, one hundred strokes.
-#2 You must like the color pink.
-#3 You must apologize and be polite, especially to princes.
-#4 You must wear pastel-colored skirts that cover your ankles.
-#5 You must keep your virginity until you have found a prince to marry.
-#6 You must seem less smart than you are, particularly less smart than princes.
-#7 You must look at yourself in a mirror daily and find at least one fault.
-#8 You must love a lovely home more than adventure.
-#9 You must be happy, because being a princess means being happy.
-#10 You must carry a handkerchief always in case you have to cover shame and tears and other imperfections, in case you are bleeding.
+1. You must brush your long hair out daily, one hundred strokes.
+
+2. You must like the color pink.
+
+3. You must apologize and be polite, especially to princes.
+
+4. You must wear pastel-colored skirts that cover your ankles.
+
+5. You must keep your virginity until you have found a prince to marry.
+
+6. You must seem less smart than you are, particularly less smart than princes.
+
+7. You must look at yourself in a mirror daily and find at least one fault.
+
+8. You must love a lovely home more than adventure.
+
+9. You must be happy, because being a princess means being happy.
+
+10. You must carry a handkerchief always in case you have to cover shame and tears and other imperfections, in case you are bleeding.
 
 ----
 
