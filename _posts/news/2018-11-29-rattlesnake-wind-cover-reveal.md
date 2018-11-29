@@ -7,9 +7,6 @@ category: news
 permalink: rattlesnake-wind-cover-reveal
 published: true
 teaser: "We're thrilled to reveal the cover for Lilith Saintcrow's upcoming novel, Rattlesnake Wind!"
-author-img: pablo-defendini.jpg
-author-bio: |
- Pablo Defendini is the publisher and art director of Fireside.
 ---
 
 We’re thrilled to reveal the cover for Lilith Saintcrow’s upcoming novel from Fireside Press: [_Rattlesnake Wind_](https://firesidefiction.com/book/rattlesnake-wind), which is now on sale for pre-order on [Amazon](https://www.amazon.com/Rattlesnake-Wind-Lilith-Saintcrow-ebook/dp/B07JCDZMP8/ref=sr_1_2?ie=UTF8&qid=1543499820&sr=8-2&keywords=Rattlesnake+Wind), [Apple Books](https://itunes.apple.com/us/book/rattlesnake-wind/id1438805013?mt=11), [Barnes & Noble](https://www.barnesandnoble.com/w/rattlesnake-wind-lilith-saintcrow/1129734508?ean=9780998778365), and [Kobo](https://www.kobo.com/us/en/ebook/rattlesnake-wind). It will also be available as a Fireside Print+Ebook bundle on the Fireside Shop on December 11.
