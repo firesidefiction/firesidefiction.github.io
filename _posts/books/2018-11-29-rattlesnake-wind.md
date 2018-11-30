@@ -22,3 +22,9 @@ author-bio: |
 ### Description
 
 Dez Thompson’s family—now without their domineering patriarch—is busy creating a new life on Wyoming’s plains. To Dez, magic hides in the grass, and especially in the wind—and she is about to find out that magic is real, bloody, and on the hunt for the perfect victims.
+
+### Reviews
+
+"Saintcrow’s writing is sharp and poignant... Longtime fantasy readers will enjoy Saintcrow’s take on the magic-tinged bildungsroman."
+
+—[Publishers Weekly](https://www.publishersweekly.com/978-0-9987783-6-5)
