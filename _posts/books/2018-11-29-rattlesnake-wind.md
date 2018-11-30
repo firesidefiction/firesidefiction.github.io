@@ -25,6 +25,6 @@ Dez Thompson’s family—now without their domineering patriarch—is busy crea
 
 ### Reviews
 
-"Saintcrow’s writing is sharp and poignant... Longtime fantasy readers will enjoy Saintcrow’s take on the magic-tinged bildungsroman."
+"Saintcrow’s writing is sharp and poignant.... Longtime fantasy readers will enjoy Saintcrow’s take on the magic-tinged bildungsroman."
 
 —[Publishers Weekly](https://www.publishersweekly.com/978-0-9987783-6-5)
