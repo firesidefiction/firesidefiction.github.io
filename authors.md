@@ -115,6 +115,9 @@ permalink: /authors
 
 — [_The Unusual Customer_](/the-unusual-customer)
 
+### Renee Christopher
+— [_And I Never Named Her_](/and-i-never-named-her)
+
 ### Nino Cipri
 — [_Better Girls from Broken Parts_](/issue17/chapter/better-girls-from-broken-parts/)
 
@@ -251,6 +254,9 @@ permalink: /authors
 
 ### Damien Walters Grintalis
 — [_Scarred_](/issue2/chapter/scarred/)
+
+### J.M. Guzman
+— [_Rain and the Designs of Your Body_](/rain-and-the-designs-of-your-body)
 
 ----
 
@@ -445,8 +451,9 @@ permalink: /authors
 ### Tariro Ndoro
 -[_The Whale of Tikpiti’i_](/the-whale-of-tikpitii)
 
-### Mari Ness
+-[_Reclaiming the Right to Truth_](/reclaiming-the-right-to-truth)
 
+### Mari Ness
 — [_The Middle Child’s Practical Guide to Surviving a Fairy Tale_](/issue33/chapter/the-middle-childs-practical-guide-to-surviving-a-fairy-tale/)
 
 — [_The Witch in the Tower_](/the-witch-in-the-tower)
@@ -458,6 +465,9 @@ permalink: /authors
 
 ### Russell Nichols
 — [_How to Sync Your Spouse_](/how-to-sync-your-spouse)
+
+### Sara Norja
+— [_Birch Daughter_](/birch-daughter)
 
 ----
 
@@ -637,6 +647,9 @@ permalink: /authors
 
 ### Sydnee Thompson
 — [_The Paladin Protocol_](/the-paladin-protocol)
+
+### Natalia Theodoridou
+— [_The New Heart_](/the-new-heart)
 
 ### Johann Thorsson
 — [_First, Bite Just a Finger_](/issue8/chapter/first-bite-just-a-finger/)
