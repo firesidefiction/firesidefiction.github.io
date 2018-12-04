@@ -18,7 +18,10 @@ If you have any questions about how to submit please email us at: [editorial@fir
 ----
 
 ## Short Stories
-Fireside is currently closed to short story submissions. Our next short story reading period will be from the 15th to the 31st of December, 2018.
+
+{% include submissions-closed-button.html %}
+
+Fireside is currently closed to short story submissions. Our next short story reading period will be from the 15th to the 31st of December, 2018. During that period, there will be a link to our submissions form here.
 
 We accept short stories up to 4,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds.
 
@@ -46,11 +49,14 @@ We accept short stories up to 4,000 words. Our budget allows us to pay for up to
 ----
 
 ## Poetry
-Fireside is currently closed to submissions for poetry.
+
+{% include submissions-closed-button.html %}
+
+Fireside is currently closed to submissions for poetry. We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.
 
 ### Please Submit:
 - Poems up to 100 lines, of any genre, and of any form (free verse or formal verse are both fine!).
-- Up to three poems at a time, all in one document. We do not accept multiple document submissions. 
+- Up to three poems at a time, all in one document. We do not accept multiple document submissions.
 - The poetry only you can write, that comes from your perspective and heart. We are especially interested in poems that complement and challenge the issues and themes Fireside tends to engage with. For more on that, see our [Values page](https://firesidefiction.com/values).
 - Doc, Docx, or RTF files. Poetry can be formatted in whatever way feels best to you. We don’t require double spacing for this kind of submission. For poetry only, PDF files are also acceptable.
 - Poems that have never been published in the English language before (translations are okay!).
@@ -68,13 +74,15 @@ Fireside is currently closed to submissions for poetry.
 ----
 
 ## Non-Fiction
-Fireside is committed to publishing non-fiction which reflects our values and engages with the conversations we want to have with the world. We publish non-fiction once a month, with three essays appearing in our quarterly magazine. Currently all of our non-fiction is by solicitation only.
+Fireside is committed to publishing non-fiction which reflects our values and engages with the conversations we want to have with the world. Currently all of our non-fiction is by solicitation only.
 
 ----
 
 ## Novels and Novellas
 
-Fireside is currently closed to submissions for novels and novellas.
+{% include submissions-closed-button.html %}
+
+Fireside is currently closed to submissions for novels and novellas. We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.
 
 ### Please submit:
 - Your completed novel or novella (20,000-120,000 words). We are open to any genre as long as the story transports us.

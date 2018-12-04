@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Fireside Books
+title: Fireside Press
 permalink: /books/
 ---
 
