@@ -5,7 +5,7 @@ author: Fran Wilde
 editor: Julia Rios
 date: 2018-12-18 01:00:01 -0500
 permalink: choose-wisely-1-a
-published: true
+published: false
 proofread: true
 ---
 
