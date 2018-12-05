@@ -5,7 +5,7 @@ author: Minerva Zimmerman
 date: 2015-12-15 12:01:00 -0500
 category: book
 permalink: book/cruel-summer
-published: true
+published: false
 length: novel
 cover: cruel-summer-cover-image.jpg
 amazon: http://www.amazon.com/gp/product/B01678SWS0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01678SWS0&linkCode=as2&tag=firesidemagaz-20&linkId=LCA7TKTRAYTAGTEC

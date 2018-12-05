@@ -6,7 +6,7 @@ date: 2016-03-15 12:01:00 -0500
 category: book
 permalink: book/running-down-a-dream
 length: novel
-published: true
+published: false
 cover: running-down-a-dream-cover-image.jpg
 amazon: http://www.amazon.com/Running-Down-Dream-Shattered-Ones-ebook/dp/B019DLSNK0/
 ibooks: https://itunes.apple.com/us/book/id1068069228
