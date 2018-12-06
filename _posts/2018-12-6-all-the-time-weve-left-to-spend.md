@@ -8,7 +8,7 @@ date: 2018-12-06 01:00:01 -0500
 category: short story
 permalink: all-the-time-weve-left-to-spend
 published: true
-teaser: When she got to Yume's room, the first thing Ruriko did was slip off her mask and remove her prosthetic jaw. There was an ache in her fake bottom teeth. It was going to rain, although one look at the sky could have told her that.
+teaser: No one in their right mind came to the Aidoru Hotel. But those who did always came for a very specific reason.
 author-img: alyssa-wong.jpg
 author-bio: |
   **Alyssa Wong**’s stories have won the Nebula Award, the World Fantasy Award, and the Locus Award. She was a finalist for the John W. Campbell Award for Best New Writer, and her fiction has been shortlisted for the Hugo, Bram Stoker, and Shirley Jackson Awards. She lives in California.
