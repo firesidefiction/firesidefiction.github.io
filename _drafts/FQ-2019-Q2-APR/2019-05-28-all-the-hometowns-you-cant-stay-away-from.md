@@ -36,7 +36,7 @@ In so many realities, there are headstones carved with your mother’s name. Som
 
 In the ones where she’s alive and you never left, the other yous seethe with resentment and jealousy, like you are a reminder of everything they don’t have. You know just how they feel. In the ones where she’s dead, the other yous have the look of cornered rats and you know all over again why you had to get out.
 
-Sometimes you tell yourself you are looking for the right reality, maybe one where you made peace and she died holding your hand. Or one where she screamed at you until you know leaving was right. Or maybe she got better and you went off to college and this is your triumphant return. In one reality, your sibling (your sister, this time) explains the paradox of choice: choosing between three salad dressings is easy; choosing between one hundred, a nightmare.
+Sometimes you tell yourself you are looking for the right reality, maybe one where you made peace and she died holding your hand. Or one where she screamed at you until you knew leaving was right. Or maybe she got better and you went off to college and this is your triumphant return. In one reality, your sibling (your sister, this time) explains the paradox of choice: choosing between three salad dressings is easy; choosing between one hundred, a nightmare.
 
 "Narrow your choices," she tells you, somewhere into the second bottle of bottom-shelf whiskey. "Settle for good enough." In that Topeka, your mother is dead and so is that version of you. Your sister doesn’t ask to come with you.
 
@@ -100,7 +100,7 @@ You know, as it happens. Just like you know someone can turn to religion at nine
 
 Your mother looks at you with contempt that would have withered you only a few months ago. But now you’re sixteen, and she’s a dying woman, and you think you hate her more than anything. "You think a good time makes any difference? When it comes time to integrate with Jesus, you gonna talk about a ‘good time’?"
 
-And you’re drunk and already looking for a way out, so you say, "Shut up about Jesus! What the fuck has he ever done for us?"
+You’re drunk and already looking for a way out, so you say, "Shut up about Jesus! What the fuck has he ever done for us?"
 
 That’s about when the screaming starts, when your brother runs out of the room, and later you wonder whether what hurt your mother the most was your rejection of her faith, or that you would take away the one thing she was still hanging on to.
 
@@ -108,7 +108,7 @@ That night you steal a Snapper, telling yourself the man dying a few doors down 
 
 ----
 
-Once you found a Topeka to which one of you returned, and everyone seems to get along. The you that has settled there glared at you over the dinner table, kissed her mother on the forehead and set to cleaning up the dishes. You wanted to tell her that you aren’t angling to steal the life she’s made. Instead you stepped outside to smoke and Snapped before you had to say anything at all.
+Once you found a Topeka to which one of you returned, and everyone seemed to get along. The you that has settled there glared at you over the dinner table, kissed her mother on the forehead and set to cleaning up the dishes. You wanted to tell her that you weren’t angling to steal the life she’s made. Instead you stepped outside to smoke and Snapped before you had to say anything at all.
 
 ----
 
@@ -116,7 +116,7 @@ You’ve become such an expert at leaving that you aren’t prepared for it when
 
 You’re still telling yourself that when a man you don’t recognize opens the door and calls you by name. Your father, the piece of shit who ran before you were old enough to have memories of him, but somehow he’s been here all along. He stares at you in horror, because his daughter has been dead for many years.
 
-Neither one of you can stand to make eye contact. You should be back home, but you aren’t, and you don’t have any answers for him or yourself. You snap out before you can ask about your mother.
+Neither one of you can stand to make eye contact. You should be back home, but you aren’t, and you don’t have any answers for him or yourself. You Snap out before you can ask about your mother.
 
 ----
 
