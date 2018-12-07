@@ -21,7 +21,7 @@ author-bio: |
 
 ### Description
 
-Dez Thompson’s family—now without their domineering patriarch—is busy creating a new life on Wyoming’s plains. To Dez, magic hides in the grass, and especially in the wind—and she is about to find out that magic is real, bloody, and on the hunt for the perfect victims.
+Dez Sarpe's family—now without their domineering patriarch—is busy creating a new life on Wyoming’s plains. To Dez, magic hides in the grass, and especially in the wind—and she is about to find out that magic is real, bloody, and on the hunt for the perfect victims.
 
 ### Reviews
 
