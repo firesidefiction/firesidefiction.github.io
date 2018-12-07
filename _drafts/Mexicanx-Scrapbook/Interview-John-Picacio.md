@@ -18,7 +18,7 @@ I think Worldcon 76 was my 16th.
 
 **You created this whole thing. What are your post-Worldcon thoughts?**
 
-Out of 50 Recipients selected for The Mexicanx Initiative, 42 of them attended Worldcon 76. Three sat out for political protest and the other five had schedule conflicts. Of those 42, I would say almost every single one of them brought every bit of themselves that they possessed. It was a formidable coalition of talent, designed to make a major impact on that convention. It did just that. It was historic. I think we will look back on this moment as the dawn of many major Mexicanx careers and presences in the American and UK publishing markets. I didn't just pick these people to show up for a convention weekend. I picked them to dominate this field and influence a new wave of creators and audience for generations to come.
+Out of 50 Recipients selected for The Mexicanx Initiative, 42 of them attended Worldcon 76. Three sat out for political protest and the other five had schedule conflicts. Of those 42, I would say almost every single one of them brought every bit of themselves. It was a formidable coalition of talent, designed to make a major impact on that convention. It did just that. It was historic. I think we will look back on this moment as the dawn of many major Mexicanx careers and presences in the American and UK publishing markets. I didn't just pick these people to show up for a convention weekend. I picked them to dominate this field and influence a new wave of creators and audience for generations to come.
 
 **Tell us about one highlight moment of your WorldCon experience.**
 

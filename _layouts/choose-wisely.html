@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body class="choose-wisely">
+
+    <header role="banner" id="top-of-page">
+      {% include navigation.html %}
+    </header>
+
+    <main aria-label="Content">
+      <section>
+        <article class="fiction">
+          <header class="story-header">
+            <h1 itemprop="name headline"><a href="/choose-wisely">{{ page.title | escape }}</a></h1>
+          </header>
+
+          <div class="content story-body">
+            {{ content }}
+            {% if page.author-bio %}
+              <h5>© {{ page.date | date: "%Y" }} {{ page.author }}</h5>
+              {% include bios.html %}
+            {% endif %}
+          </div>
+
+        </article>
+      </section>
+    </main>
+
+    <footer>
+      <hr/>
+      {% include company-slug.html %}
+      {% include navigation-extended.html %}
+      {% include social-media-icons.html %}
+      <hr/>
+      {% include marketing.html %}
+      <hr/>
+      {% include quarterly-call-to-action.html %}
+      <hr/>
+      {% include legal.html %}
+    </footer>
+
+    {% include small-navigation.html %}
+
+  </body>
+
+  {% include google-analytics.html %}
+
+</html>

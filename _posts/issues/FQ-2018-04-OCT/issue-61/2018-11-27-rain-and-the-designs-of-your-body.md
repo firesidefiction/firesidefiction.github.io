@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-11-27 01:00:01 -0500
 category: short story
 permalink: rain-and-the-designs-of-your-body
-published: false
+published: true
 teaser: "Julio slipped off his shirt and showed me a lake. It stirred, a puddle settling in the landmass that was once his back."
 author-img: j-m-guzman.jpg
 author-bio: |

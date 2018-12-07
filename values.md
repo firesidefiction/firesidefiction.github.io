@@ -4,27 +4,23 @@ title: Fireside Values
 permalink: /values
 ---
 
-## 1: Resistance
+## Great work, fair pay
+Fireside publishes stories that move us, regardless of their genre. We believe that stories have the power to shape culture, and we intend for the work that we publish to contribute to creating a kinder and more inclusive society.
+
+We also believe that great work calls for fair pay — we’re proud to publish _Fireside Magazine_, one of the highest-paying short fiction markets in the science fiction and fantasy genre field.
+
+## Quality
+Fireside believes in quality above all. We don’t cut corners, even if that means our work takes longer or it is more expensive to do something.
+We strive to provide as much value as we can to our readers, and we take care to consider the needs of our staff and our collaborators when we take on new projects.
+
+## Resistance
 We are living in a time of rising authoritarianism, fascism, white supremacy, and extreme right-wing ideology, both in the United States and across the globe. Fireside pledges to fight this hateful movement by publishing powerful work in opposition to it, exploring frightening issues unflinchingly, and supporting everyone putting themselves on the front lines of the resistance.
 
-## 2: Many genres, good stories
-Fireside publishes good storytelling, regardless of genre. We skew heavily toward speculative fiction, because that's where we see a lot of groundbreaking work being done, but we have also published terrific non-genre work as well.
+## Representation
+We believe in resistance through representation. The world is just plain better when everyone has a voice. Fireside supports and makes space for marginalized voices, both in the stories and artwork that we publish, as well as in the wider work we do in our community. This includes doing the work to find and nourish new voices — authors, artist, editors, and others.
 
-See our [submissions guidelines]({{ "/about#submissions-guidelines" | relative_url}}) for more info about our submissions process.
+## Collaboration
+Working together is a critical part of building and sustaining a community. Our peers aren't our competitors — the work we all put out into the world is not a fungible commodity — and we strongly believe that a rising tide lifts all boats. So we like to support collective efforts when we can make a meaningful contribution.
 
-## 3: Fair pay for good work
-Fireside believes in fair pay for good work—it really is that simple. Creating and promoting art is hard work, just like any other, and anyone putting in the time to create it—or to support those who do—deserves to be compensated not just fairly, but generously. That means that whenever Fireside makes more money than it needs to operate and improve, we will use that money to raise our pay rates.
-
-## 4: Commitment to inclusive representation
-Fireside is committed to publishing marginalized voices, including but not limited to women, people of color, <abbr title="L.  G. B.  T. Q. I.  A.">LGBTQIA</abbr>  people, and people with disabilities. Fair doesn't always mean equal, and sometimes some groups need additional attention in order to have the same opportunities that straight, white, abled, cis males have.
-
-## 5: Community and raising awareness
-Fireside uses its platform to amplify marginalized voices and to call attention to issues that we think need to be talked about. Fireside is a progressive organization, and we think it's important to be an active catalyst for change. That means being an engaged part of our community and efforts toward social justice.
-
-## 6: Transparency
-Fireside believes in being transparent about the way it operates. We think that it's important to be forthright with the way we run our publishing operations, not only to build trust with the people giving us money and the creators who trust us to publish their work, but also to build awareness about what it takes to run a small, indie publishing operation, and to generate empathy among our readership. We think that that empathy will translate into revenue, which leads directly to providing fair pay for good work.
-
-"Transparent" doesn't mean "open," though: while we're committed to being public and holding ourselves accountable about how we run things, that requires discipline, and achieving that outward discipline requires messy discussions and lots of hard work that we feel is best done quietly, in a safe space, with as little drama as possible. So while you won't always be in the room where it happened, you'll always know how it turned out.
-
-## 7: Real talk, no bullshit
-Fireside gives no fucks about stepping on toes. We're committed to calling out injustice, bigotry, and assholery where we can, and in engaging with sensitive issues in a direct, no-bullshit manner. We don't care for ableist, racist, misogynist, homophobic, transphobic, or any other hateful or abusive behavior and speech. And we will call you out on it, when we see it.
+## Community
+Fireside strives to be a leader for positive change in our community. We love the people who make our work possible, and we understand that our community is big — our home is Earth, not a nation or a group. We want to be as inclusive as possible, and that means working beyond borders and boundaries, with people throughout the world.

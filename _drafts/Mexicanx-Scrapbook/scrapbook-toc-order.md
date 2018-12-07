@@ -6,7 +6,7 @@ A Guide to Mexicanx Initiative Programming at Worldcon 76
 
 **X Up**
 Picture 2: Mexicanx016
-Interview with Worldcon 76 Artist Geust of Honor, John Picacio
+Interview with Worldcon 76 Artist Guest of Honor, John Picacio
 The Mexicanx Initiative Manifesto by Lauren Snow
 Interview with Worldcon 76 Chair, Kevin Roche
 Picture 3: Mexicanx141

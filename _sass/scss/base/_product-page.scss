@@ -10,6 +10,10 @@
 	}
 	&-toc, &-art, &-ebook, &-cta {
 		padding: 1em;
+		h1 {
+			max-width: 25em;
+			margin: 1em auto 1em;
+		}
 	}
 	&-intro, &-art {
 		background-color: #F5D7BB;

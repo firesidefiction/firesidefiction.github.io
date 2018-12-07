@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-12-04 01:00:01 -0500
 category: short story
 permalink: a-letter-to-my-sister
-published: false
+published: true
 teaser: "He is pretty, as knights go. You know how I loathe the pretty ones. Their bones are brittle and sharp, and crack unpleasantly when chewed."
 author-img: nilah-magruder.jpg
 author-bio: |
