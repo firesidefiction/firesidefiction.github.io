@@ -1,0 +1,219 @@
+.corporate-nav {
+	ul li, #small-nav ul li {
+		margin: 1.5em .5em 0em;
+	}
+	#main-nav-menu {
+		margin-top: 1em;
+	}
+	@media all and (min-width: 414px) {
+		ul li, #small-nav ul li {
+			margin: 1.5em 1.5em 0em;
+		}
+	}
+	@media all and (min-width: 768px) {
+		ul li, #small-nav ul li {
+			margin: 1.5em 2.5em 0em;
+		}
+	}
+	@media all and (min-width: 768px) {
+		svg {
+			margin-top: 0;
+			margin-left: 1em;
+			}
+		ul li, #small-nav ul li {
+			margin: 1em .5em 0em;
+		}
+		#main-nav-menu {
+			margin-top: 1.5em;
+		}
+	}
+}
+.product-page {
+	&-quarterly {
+		ul {
+			margin: 0 0 0 0;
+			font-family: $font-secondary;
+		}
+		h4 {
+			padding: 1em 0;
+		}
+	}
+	&-toc, &-art, &-ebook, &-cta {
+		padding: 1em;
+		h1 {
+			max-width: 25em;
+			margin: 1em auto 1em;
+		}
+	}
+	&-intro, &-art {
+		background-color: #F5D7BB;
+	}
+	&-intro {
+		padding-top: 1em;
+		text-align: center;
+		figure {
+			margin-bottom: -1em;
+			margin-top: 2em;
+			max-height: 23em;
+			overflow: hidden;
+			img {
+				margin-bottom: 1em;
+				overflow: hidden;
+				max-width: 70%;
+			}
+		}
+		@media all and (min-width: 768px) {
+			padding-top: 2em;
+			& > div {
+				display: flex;
+				div {
+					flex-grow: 2;
+					margin-top: 9em;
+					margin-left: 1em;
+					aside {
+						margin-top: 1em;
+					}
+				}
+			}
+			figure {
+				margin-top: 2em;
+				margin-bottom: 1em;
+				margin-right: 1em;
+				max-width: 60%;
+				overflow: hidden;
+				max-height: 35em;
+				img {
+					margin-bottom: 3em;
+					overflow: hidden;
+					max-width: 100%;
+				}
+			}
+		}
+		@media all and (min-width: 834px) {
+			figure {
+				max-height: 38em;
+			}
+		}
+		@media all and (min-width: 1112px) {
+			& > div div {
+				margin-left: 8em;
+			}
+			figure img {
+				max-width: 75%;
+			}
+		}
+	}
+	&-toc {
+		padding-left: 1em;
+		figcaption {
+			font-family: $font-secondary;
+			font-size: $font-size-small-2;
+			margin-left: 2em;
+		}
+		.spread-box {
+			display: flex;
+			div {
+				min-width: 50%;
+			}
+			img {
+				max-width: 350%;
+			}
+		}
+		ul li {
+			margin-bottom: 1em;
+		}
+		@media all and (min-width: 768px) {
+			h1 {
+				max-width: 25em;
+				margin: 1em auto 1em;
+			}
+			.spread-box {
+				padding-left: 2em;
+				div {
+					min-width: 40%;
+				}
+				img {
+					max-width: 170%;
+				}
+				ul li {
+					margin: 0 0 1em 2em;
+				}
+			}
+		}
+		@media all and (min-width: 1112px) {
+			.spread-box {
+				img {
+					max-width: 110%;
+				}
+			}
+		}
+	}
+	&-art {
+		padding-left: 1em;
+		padding-bottom: 2em;
+		figure img {
+			margin: 1em 0 -5em -5em;
+			max-width: 150%;
+		}
+		@media all and (min-width: 507px) {
+			ul li {
+				margin-bottom: 1em;
+			}
+		}
+		@media all and (min-width: 768px) {
+			figure {
+				margin-bottom: -6em;
+				img {
+					margin: 0em 0 -3em -11em;
+				}
+			}
+			h4, ul {
+				margin-left: 3em;
+			}
+			ul li {
+				margin: 0 0 0 2em;
+			}
+		}
+		@media all and (min-width: 834px) {
+			figure {
+				margin-bottom: -8em;
+			}
+		}
+		@media all and (min-width: 1112px) {
+			padding-bottom: 5em;
+			figure {
+				margin-bottom: -12em;
+				img {
+					max-width: 135%;
+				}
+			}
+		}
+	}
+	&-ebook {
+		padding-left: 1em;
+		figure {
+			max-width: 60%;
+			margin: 1em auto;
+		}
+		@media all and (min-width: 768px) {
+			& > div {
+				display: flex;
+				.inset {
+					padding: 1em;
+				}
+			}
+			figure {
+				max-width: 40%;
+			}
+		}
+	}
+}
+
+.fireside-quarterly-logo {
+	text-align: center;
+	svg {
+		margin: 0 auto;
+		width: 70%;
+		fill: $color__fireside-red;
+	}
+}
