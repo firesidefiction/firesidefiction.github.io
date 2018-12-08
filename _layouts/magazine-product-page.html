@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body class="product-page-quarterly">
+
+    <header role="banner" id="top-of-page">
+      {% include navigation-corporate.html %}
+    </header>
+
+    <main aria-label="Content">
+      <section class="product-page-intro">
+        <h1>
+          {% include fireside-quarterly-logo.html %}
+        </h1>
+        <h1>The high-quality, full-color, illustrated print edition of <em>Fireside</em>, <br/>delivered to your mailbox for only $10 a month.</h1>
+        <div>
+          <div>
+            <h4>Now shipping:<br/>the October 2018 issue</h4>
+            <a href="https://firesidefiction.memberful.com/checkout?plan=25789" class="btn">Subscribe now</a><br/>
+            <small><a href="https://firesidefiction.memberful.com/checkout?plan=25936">Subscribe for a Year</a> | <a href="https://firesidefiction.memberful.com/gift?plan=25936">Send as a gift</a></small><br/>
+            <aside><small><em>From now until December 31st 2018, all new subscribers will also recieve a free copy of our debut July 2018 issue.</em></small></aside>
+          </div>
+          <figure>
+            <img src="images/graphics/magazine-product-page-hero-shot.png">
+          </figure>
+        </div>
+      </section>
+
+      <section class="product-page-toc">
+        <div>
+          <h1>Each issue of <em>Fireside Quarterly</em> includes more than 120 pages of stories, essays, and artwork — three month's worth of <em>Fireside Magazine</em>.</h1>
+        </div>
+        <div class="spread-box">
+          <div>
+            <h4>The latest issue features stories and essays by:</h4>
+            <ul>
+              <li>Nino Cipri</li>
+              <li>Keyan Bowes</li>
+              <li>Sarah Gailey</li>
+              <li>Takim Williams</li>
+              <li>D.A. Xiaolin Spires</li>
+              <li>Sara Norja</li>
+              <li>Renee Christopher</li>
+              <li>Natalia Theodoridou</li>
+              <li>J.M. Guzman</li>
+              <li>Nilah Magruder</li>
+              <li>Kathryn Kania</li>
+              <li>Brian M. Milton</li>
+              <li>Fran Wilde</li>
+              <li>Danilo Campos</li>
+              <li>Tariro Ndoro</li>
+            </ul>
+          </div>
+          <figure>
+            <img src="images/graphics/magainze-product-page-spread-detail.png">
+            <figcaption><em>Fireside Quarterly</em> is beautifully typeset, with an easy-to-read design, and printed on high-quality paper stock. We think our wonderful stories and artwork deserve a beautiful package, and the <em>Quarterly</em> is meant to be a meaningful addition to your library — and your coffee table.</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section class="product-page-art">
+        <div>
+          <h1>Every new issue of <em>Fireside Quarterly</em> features stunning illustrations, printed in brilliant full color, on triple-gatefold inserts.</h1>
+        </div>
+        <div>
+            <figure><img src="images/graphics/magazine-product-page-gatefold-shot.png"></figure>
+        </div>
+        <h4>The current issue features illustrations by:</h4>
+        <ul>
+          <li>Saleha Chowdhury</li>
+          <li>Satu Kettunen</li>
+          <li>Clare DeZutti</li>
+        </ul>
+      </section>
+
+      <section class="product-page-ebook">
+        <h1><em>Quarterly</em> subscribers also recieve the ebook edition of <em>Fireside Magazine</em> each month.</h1>
+        <div class="ebook-feature">
+          <figure><img src="images/graphics/magazine-product-page-ebook.png"></figure>
+          <div class="inset">
+            <h3>And if you're an ebook-only kind of reader, you can subscribe to our monthly ebook delivery for just $5 a month.</h3>
+            <div>
+              <a href="https://firesidefiction.memberful.com/checkout?plan=25782" class="btn">Fireside Magazine — $5.00</a><br/>
+              <small><a href="https://firesidefiction.memberful.com/checkout?plan=25935">Subscribe for a Year</a> | <a href="https://firesidefiction.memberful.com/gift?plan=25935">Send as a gift</a></small>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <footer>
+      <hr/>
+      {% include marketing.html %}
+      {% include social-media-icons.html %}
+      <hr/>
+      {% include company-slug.html %}
+      {% include navigation-extended.html %}
+      {% include legal.html %}
+    </footer>
+
+    {% include small-navigation.html %}
+
+  </body>
+
+  {% include google-analytics.html %}
+
+</html>
