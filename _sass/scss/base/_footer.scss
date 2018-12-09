@@ -125,13 +125,23 @@ footer {
 			margin-right: 1em;
 		}
 	}
+	img {
+		max-width: 75%;
+	}
 	div {
 		flex-basis: 50%;
-		text-align: center;
+		//text-align: center;
 		a {
 			min-width: 319px;
 			margin: 0;
 		}
+	}
+}
+
+.ebook {
+	img {
+		max-width: 60%;
+		margin-left: 3em;
 	}
 }
 
