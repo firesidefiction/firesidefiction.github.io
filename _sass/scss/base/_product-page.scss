@@ -39,6 +39,7 @@
 		}
 	}
 	&-toc, &-art, &-ebook, &-cta {
+		overflow: hidden;
 		padding: 1em;
 		h1 {
 			max-width: 25em;
