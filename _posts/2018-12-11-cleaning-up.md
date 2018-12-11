@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-12-11 01:00:01 -0500
 category: short story
 permalink: cleaning-up
-published: false
+published: true
 teaser: "Mr. Bhansal had often remarked that it was a strange and very annoying quirk of magic that a circle of protection had to be smooth and unbroken, but the summoning pentagram could be scrappy and unconnected."
 author-img: brian-m-milton.jpg
 author-bio: |
@@ -14,9 +14,9 @@ author-bio: |
 art: cleaning-up.jpg
 caption: "A man in a turban, holding a sword, stares down a many-tentacled beast. In the background, a cat nonchalantly licks its paw."
 artist: Clare DeZutti
-artist-img: satu-kettunen.jpg
+artist-img: clare-dezutti.jpg
 artist-bio: |
-  Clare DeZutti is an illustrator and designer in Brooklyn, NY. During the day she works as a assistant designer at Workman Publishing. In her off time, she enjoys drawing, drawing and more drawing. Her work appears in the 1001 Knights Anthology and she colored Tales of the Night Watchman Issue 7, from So What? Press.
+  Clare DeZutti is an illustrator and designer in Brooklyn, NY. During the day she works as a assistant designer at Workman Publishing. In her off time, she enjoys drawing, drawing and more drawing. Her work appears in the 1001 Knights Anthology and she colored _Tales of the Night Watchman_ Issue 7, from So What? Press.
 proofread: true
 ---
 
