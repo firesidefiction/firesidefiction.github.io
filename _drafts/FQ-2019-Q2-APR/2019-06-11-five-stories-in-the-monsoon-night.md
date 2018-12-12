@@ -23,11 +23,11 @@ My ship had put in just a few hours previously, and following a few whispers and
 
 "It's terrible out there," I agreed, shucking off my oiled cloak. He paused slightly when he saw the worn sword at my side, but he did not ask for it, and I would not have given it to him in any case.
 
-"I was ready to find my bed for the night, but then, well, I saw your sign."
+"I was ready to find my bed for the night, but then, well, I saw your sign. Are they truly the best noodles in town?"
 
 His grin came back in full force, and he nodded.
 
-"We do, especially if you care to try our spicy noodles. I'll warn you, they may be a little rough on a northern palate..."
+"They are, and once you try our spicy noodles, you'll agree. I'll warn you, they may be a little rough on a northern palate..."
 
 "We'll see about that. Bring out a bowl of the hottest you have."
 
@@ -62,7 +62,7 @@ As good as the noodles were, the Crooked Dragon was having a slow night. The mer
 
 I was wondering whether the straw mushrooms at the bottom of the broth would be more or less spicy than the rest when the door pushed open and another customer walked in.
 
-It takes an experienced eye to spot the Sisterhood. They're mostly nondescript women, fit as jaguars and with eyes that drink in every corner of the world. They recruit their members from brothels, from circuses and from nunneries among other places, whisking those girls away to a fate that is at the very least, far stranger than what they might have expected otherwise. They're the best hunters in the world, and it is said that if they cannot find it, it cannot or should not be found.
+It takes an experienced eye to spot the Sisterhood. They're mostly nondescript women, fit as jaguars and with eyes that drink in every corner of the world. They recruit their members from brothels, from circuses, and from nunneries, among other places, whisking those girls away to a fate that is, at the very least, far stranger than what they might have expected otherwise. They're the best hunters in the world, and it is said that if they cannot find it, it cannot or should not be found.
 
 This one was short and nearly rectangular in shape. She had broad shoulders that seemed like boulders, and her wide mouth and slightly pop eyes reminded me of a bullfrog. For all that, she had a cheerful face, one that you smiled at without thinking of it. The only thing that made me look twice was her gait, the smooth glide of a trained fighter who walked on the balls of her feet. Once I saw that, I saw the rest. Her adorably out-of-date hair ornaments were cast steel and deadly sharp, and her hair was styled to hide a long scar that nearly split her skull and trailed down the nape of her neck. The Sisterhood live surprisingly long lives for what they do, and most of them are terribly scarred.
 
@@ -82,7 +82,7 @@ The old man chuckled, but to my relief, he didn't point out the fact that there 
 
 "Hmm, this could definitely use some fried scallions. I don't suppose that you have anything like that, do you?"
 
-The boy nodded, and now I could see that his shoulders were up around his ears. For some reason, he didn't like this woman, cheerful face all aside, but he went back for the small wooden bowl full of fragrant reddish brown scallions.
+The boy nodded, and now I could see that his shoulders were up around his ears. For some reason, he didn't like this woman, cheerful face aside, but he went back for the small wooden bowl full of fragrant reddish brown scallions.
 
 He shook some into her steaming bowl, but before he could withdraw, she wrapped her hand around his wrist.
 
@@ -115,7 +115,7 @@ She released the boy, who skittered back to stand in the doorway of the kitchen.
 
 Underneath, stretching from shoulder to shoulder across his back, was the tattoo of a coiling black snake. The tip of the tail touched the base of his neck, the narrow head with its red eyes was set perfectly between his shoulder blades. The detailed scales made the entire snake ripple with the illusion of movement.
 
-Half the continent know that tattoo, or at least knew stories about it. Even now, twenty years after the destruction of Hapkei Fortress, few men would dare try to wear such a thing, and there were no artists who could match the work of the great Wong Hulan.
+Half the continent knew that tattoo, or at least knew stories about it. Even now, twenty years after the destruction of Hapkei Fortress, few men would dare try to wear such a thing, and there were no artists who could match the work of the great Wong Hulan.
 
 Still she hesitated, and the old man spoke.
 
