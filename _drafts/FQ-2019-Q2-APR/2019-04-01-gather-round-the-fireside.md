@@ -12,7 +12,7 @@ proofread: false
 
 Dear Reader,
 
-Thank you for joining us by the Fireside and sharing in our delight with stories. This quarter we've got a wonderful array for pieces that explore the concepts of home and family and how they inform our identities.
+Thank you for joining us by the Fireside and sharing in our delight with stories. This quarter we've got a wonderful array of pieces that explore the concepts of home and family and how they inform our identities.
 
 Pieces like "Balompié" by Ana Hurtado and "All the Hometowns You Can't Stay Away From" by Izzy Wasserstein (with an illustration by Matt Davis) explore the physical geography of where we come from, while pieces like "Medusa" by Rose Lemberg and "Chiripas" by José González Vargas look at immigration and the struggles of people who feel they have to leave their homes. Meanwhile, "Your Inheritance Will Taste of Salt" by Karolina Fedyk, "My Sister is a House" by Zoë Medeiros, and "Mother Tongue" by Jessica Jo Horowitz ask how much our genetic makeup defines us, and what makes us like or not like our biological families.
 
