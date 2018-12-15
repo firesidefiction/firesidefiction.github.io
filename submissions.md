@@ -13,15 +13,16 @@ Below you will find our submissions dates and guidelines for:
 - [Novels and Novellas](#novels-and-novellas)
 - [Artwork](#artwork)
 
-If you have any questions about how to submit please email us at: [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com). We use Submittable to manage our reading periods, but we understand that this is not universally accessible to disabled people. If you have questions related to accesibility, please email us at [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com) with the subject line: Accessibility Query. Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
+If you have any questions about how to submit please email us at: [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com). We use Submittable to manage our reading periods, but we understand that this is not universally accessible to disabled people.
+
+### Accessibility
+If you have questions related to accesibility, please email us at [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com) with the subject line: Accessibility Query. Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
 
 ----
 
 ## Short Stories
 
-{% include submissions-closed-button.html %}
-
-Fireside is currently closed to short story submissions. Our next short story reading period will be from the 15th to the 31st of December, 2018. During that period, there will be a link to our submissions form here.
+**Fireside is currently open to short story submissions** from the 15th to the 31st of December, 2018 (midnight to midnight, all times EST). To submit your story for consideration, please read the following guidelines, then click on the button below to go to our submissions form, where you can upload your manuscript file.
 
 We accept short stories up to 4,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds.
 
@@ -30,7 +31,7 @@ We accept short stories up to 4,000 words. Our budget allows us to pay for up to
 - Short stories up to 4,000 words.
 - Stories of any genre with a strong beginning/middle/end plot arc.
 - Submissions from anywhere in the world, from all kinds of voices.
-- Double spaced Doc, Docx, or RTF files set in a 14 point serif font like Times New Roman (please don’t use Courier—we are asking this for accessibility reasons since our managing editor is blind).
+- Double spaced Doc, Docx, or RTF files set in a 14 point serif font like Times New Roman.
 - Cover letters are optional, but they are great places to tell us about your connection the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
 
 ### Please don’t send us:
@@ -39,6 +40,8 @@ We accept short stories up to 4,000 words. Our budget allows us to pay for up to
 - PDF files or submissions pasted into the body of an email.
 - Stories that use intellectual property that is under copyright (we don’t want to get sued).
 - Stories that are currently being considered elsewhere (no simultaneous submissions).
+
+{% include submit-button.html %}
 
 ### What to expect from us:
 - Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
