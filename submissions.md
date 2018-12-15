@@ -33,6 +33,7 @@ We accept short stories up to 4,000 words. Our budget allows us to pay for up to
 - Submissions from anywhere in the world, from all kinds of voices.
 - Double spaced Doc, Docx, or RTF files set in a 14 point serif font like Times New Roman.
 - Cover letters are optional, but they are great places to tell us about your connection the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
+- Only one story — no multiple submissions.
 
 ### Please don’t send us:
 - Stories that promote fascism, racism, sexism, homophobia, ableism, etc.
