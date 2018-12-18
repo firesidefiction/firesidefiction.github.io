@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-12-18 01:00:01 -0500
 category: short story
 permalink: choose-wisely
-published: false
+published: true
 teaser: "The child is already at school, and didn’t forget her wand this time, so this is the perfect moment for dealing with the paperwork that sometimes comes with your latest medical adventure…"
 author-img: fran-wilde.jpg
 author-bio: |
