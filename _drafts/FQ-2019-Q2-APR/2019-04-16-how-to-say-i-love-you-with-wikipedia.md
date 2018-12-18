@@ -1,20 +1,23 @@
 ---
 layout: story
 title: How to Say I Love You With Wikipedia
-author: Beth Goderr
+author: Beth Goder
 editor: Julia Rios
 date: 2019-04-16 01:00:01 -0500
 category: short story
 permalink: how-to-say-i-love-you-with-wikipedia
 published: false
 teaser: "It is important to be efficient because my crew is the best crew ever and I want to show them that I have feels."
-art: title-of-the-story.png
-caption: "Alt text for image"
-artist: Artist Name
 author-img: beth-goder.jpg
 author-bio: |
-  Beth Goder works as an archivist, processing the papers of economists, scientists, and other interesting folks. To her knowledge, she has never processed the papers of an alien shark. Her fiction has appeared in venues such as _Escape Pod_, _Mothership Zeta_, and an anthology from Flame Tree Press. You can find her online at [http://www.bethgoder.com](http://www.bethgoder.com) and on Twitter at [@Beth_Goder](https://www.twitter.com/Beth_Goder).
+  **Beth Goder** works as an archivist, processing the papers of economists, scientists, and other interesting folks. To her knowledge, she has never processed the papers of an alien shark. Her fiction has appeared in venues such as _Escape Pod_, _Mothership Zeta_, and an anthology from Flame Tree Press. You can find her online at [http://www.bethgoder.com](http://www.bethgoder.com) and on Twitter at [@Beth_Goder](https://www.twitter.com/Beth_Goder).
 proofread: false
+art: how-to-say-i-love-you-with-wikipedia.png
+caption: "A cute little Mars rover peers at the mirrored helmet of a Mars explorer in their spacesuit."
+artist: Cat O'Neil
+artist-img: cat-oneil.jpg
+artist-bio: |
+  **Cat O’Neil** is an illustrator currently based in Scotland, having previously lived in London, Hong Kong and France. Winner of the V&A Illustration Awards in Editorial (2018) and the Cheltenham Illustration Awards (2013), her work has also been recognised by the SOI, AOI and 3x3 magazine. Her clients include _The New York Times_, _Variety_, _WIRED_, _The Financial Times_, _The Economist_, _Scientific American_, _Libération_, _Revue XXI_ and more.
 contentnote:
 ---
 

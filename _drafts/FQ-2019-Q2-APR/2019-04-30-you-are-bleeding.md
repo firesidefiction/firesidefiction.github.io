@@ -8,9 +8,9 @@ category: short story
 permalink: you-are-bleeding
 published: false
 teaser: "You must carry a handkerchief always in case you have to cover shame and tears and other imperfections, in case you are bleeding."
-author-img: alexandra-.jpg
+author-img: alexandra-seidel.jpg
 author-bio: |
-  Alexandra Seidel writes poems and stories about things that are ... real. Kinda. Her work can be found at places like _Lackington's_, _Strange Horizons_, _Mythic Delirium_, and others. If you are so inclined you can follow Alexa on Twitter ([@Alexa_Seidel](https://www.twitter.com/Alexa_Seidel)) or read her blog:
+  **Alexandra Seidel** writes poems and stories about things that are ... real. Kinda. Her work can be found at places like _Lackington's_, _Strange Horizons_, _Mythic Delirium_, and others. If you are so inclined you can follow Alexa on Twitter ([@Alexa_Seidel](https://www.twitter.com/Alexa_Seidel)) or read her blog:
 [http://tigerinthematchstickbox.blogspot.com/](http://tigerinthematchstickbox.blogspot.com/)
 proofread: false
 contentnote:

@@ -11,6 +11,7 @@ teaser: "teaser text"
 art: title-of-the-story.png
 caption: "Alt text for image"
 artist: Artist Name
+artist-img: artist-name.jpg
 author-img: author-name.jpg
 author-bio: |
   Bio goes here.
@@ -26,7 +27,7 @@ Use four dashes for section breaks: `----`
 
 ----
 
-Use a `>` for blockquotes 
+Use a `>` for blockquotes
 
 > Like this.
 

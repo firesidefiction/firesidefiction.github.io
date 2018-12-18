@@ -10,7 +10,7 @@ published: false
 teaser: "It would have shown in the Aptitudes. I learned that much later. But when we were children, our father never told us our results."
 author-img: zoe-medeiros.jpg
 author-bio: |
-  Zoë Medeiros graduated from Bennington College with a BA in literature and writing. She’s lived in nine states and worked in education, insurance, tools, and fish. She has an essay in the _New York Times_ best seller _Not That Bad: Dispatches from Rape Culture_, edited by Roxane Gay. Zoë lives in Northwest Washington with her brown dog and is working on a young adult novel.
+  **Zoë Medeiros** graduated from Bennington College with a BA in literature and writing. She’s lived in nine states and worked in education, insurance, tools, and fish. She has an essay in the _New York Times_ best seller _Not That Bad: Dispatches from Rape Culture_, edited by Roxane Gay. Zoë lives in Northwest Washington with her brown dog and is working on a young adult novel.
 proofread: false
 contentnote:
 ---

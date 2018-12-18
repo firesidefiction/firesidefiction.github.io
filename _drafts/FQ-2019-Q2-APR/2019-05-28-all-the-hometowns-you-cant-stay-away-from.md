@@ -8,13 +8,16 @@ category: short story
 permalink: all-the-hometowns-you-cant-stay-away-from
 published: false
 teaser: "We all do what we must to survive returning home."
-art: title-of-the-story.png
-caption: "Alt text for image"
-artist: Artist Name
 author-img: izzy-wasserstein.jpg
 author-bio: |
-  Izzy Wasserstein teaches writing and literature at a midwestern university, and writes poetry and fiction. Her work has appeared in _Clarkesworld_, _Lady Churchill's Rosebud Wristlet_, and _PseudoPod_. Her most recent poetry collection is _When Creation Falls_. She shares a home with her spouse, Nora E. Derrington, and their animal companions. She's an enthusiastic member of the 2017 class of Clarion West and likes to slowly run long distances.
+  **Izzy Wasserstein** teaches writing and literature at a midwestern university, and writes poetry and fiction. Her work has appeared in _Clarkesworld_, _Lady Churchill's Rosebud Wristlet_, and _PseudoPod_. Her most recent poetry collection is _When Creation Falls_. She shares a home with her spouse, Nora E. Derrington, and their animal companions. She's an enthusiastic member of the 2017 class of Clarion West and likes to slowly run long distances.
 proofread: false
+art: all-the-hometowns-you-cant-stay-away-from.png
+caption: "A woman's face peers at you through the chaotic, electric ether, in multiples."
+artist: Matthew Davis
+artist-img: matthew-davis.jpg
+artist-bio: |
+  **Matt Davis** is a writer and artist from the middle of nowhere in the Central Valley of California. He's written a couple of weird books about magic and monsters, but spends most of his time watching cartoons.
 contentnote:
 ---
 
