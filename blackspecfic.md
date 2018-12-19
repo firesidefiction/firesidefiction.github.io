@@ -9,6 +9,9 @@ Since 2016 Fireside has been commissioning a Report on the state of representati
 ----
 
 ## 2017
+The 2017 #BlackSpecFic package is available as [a PDF download for $5 on Gumroad](https://gumroad.com/l/blackspecfic). 100% of the money from each sale of the PDF goes directly into paying for next year's #BlackSpecFic report and its accompanying essays.
+
+As always, you can also read the report and essays online:
 
 ### [_The 2017 #BlackSpecFic Report_](/blackspecfic-2017)
 by Cecily Kane
