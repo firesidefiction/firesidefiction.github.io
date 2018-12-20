@@ -1,12 +1,12 @@
 ---
-layout: essay
+layout: post
 title: You Wake Up Monstrous
 author: Fran Wilde
 editor: Elsa Sjunneson-Henry
 date: 2018-12-20 01:00:01 -0500
 category: essay
 permalink: you-wake-up-monstrous
-published: false
+published: true
 teaser: "Body horror perpetuates the fear of, the isolation of, the disabled — by rendering disability something that happens on a screen, to a secondary character."
 author-img: fran-wilde.jpg
 author-bio: |
@@ -15,16 +15,15 @@ proofread: true
 ---
 
 ## A Few Thoughts on Transformation and Disability in Body Horror Media
+<br/>
+**_You wake up …._**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_You have no mouth. You try to scream for help as a bug crawls across your skin._**
 
+**_You wake up…._**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_Your hands are pincers. You can’t get out of bed, get dressed, or do a single thing you used to do._**
 
-*You wake up ….
-         You have no mouth. You try to scream for help as a bug crawls across your skin.
-
-You wake up….                         Your hands are pincers. You can’t get out of bed, get dressed, or do a single thing you used to do.
-
-You wake up to your family around you,
-                          watching you disintegrate,                    their eyes wide
-                                                              with fear and disgust.*
+**_You wake up to your family around you,_**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_watching you disintegrate,_**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_their eyes wide_**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_with fear and disgust._**
 
 
 Disability as a fear-mechanism is a tool that body horror entertainment has played with for so very long. Scenes from familiar books and movies can invoke an intense feeling of shock or revulsion, alarm, or panic no matter how many times they’re watched, often by removing a character’s abilities, agency, or senses onscreen, or by showing them waking up without those abilities — while viewers observe from a safe distance.
@@ -35,8 +34,8 @@ But when that experience shifts to second person — trading a Neo, Gregor, or S
 
 The experience becomes uncomfortable, and not necessarily as entertaining.   
 
-*You wake up and can’t get out of bed, your hands are claws, your skin is covered in welts, your jaw is                          dislocated
-                and you, at least temporarily, cannot speak.*
+**_You wake up and can’t get out of bed, your hands are claws, your skin is covered in welts, your jaw is                          <span class="dislocated">dislocated</span><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and you, at least temporarily, cannot speak._**
 
 It all depends on point of view. For instance, when I watch body horror, or its cousins, body humor and inspiration porn (yes, I’ll argue that they’re related), I often feel trapped inside the screen. That feeling exists because I’ve *been* where the character is, at least a little. I’ve woken up and had to put my joints back together before I could move. The feeling of being trapped exists because, as a viewer, you are expected to fear, to laugh at, or to be inspired by an interpretation of that reality, in the company of others doing the same.
 
@@ -102,7 +101,7 @@ That’s what body horror is often asking you to imagine, and to be afraid of. A
 
 Up on the screen, in a book, it’s a piece of entertainment that will make you feel glad it isn’t happening to you, safe in your seat.
 
-*Until you wake up.
-                 Your hands are claws. Your mouth doesn’t work.*
+**_Until you wake up.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your hands are claws. Your mouth doesn’t work._**
 
 And it’s not scary, it’s just another day.
