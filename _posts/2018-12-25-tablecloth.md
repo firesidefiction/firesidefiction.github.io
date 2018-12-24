@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2018-12-25 01:00:01 -0500
 category: short story
 permalink: tablecloth
-published: false
+published: true
 teaser: "She does not own a cat. She has never even seen a cat near her building. But still, there it is, curled up into an almost perfect circle of black."
 author-img: kathryn-kania.jpg
 author-bio: |
