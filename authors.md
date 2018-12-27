@@ -23,6 +23,9 @@ permalink: /authors
 ### K. C. Alexander
 — [_Four Tons Too Late_](/issue11/chapter/four-tons-too-late/)
 
+### Christopher R. Alonso
+— [_Rules for Communing with Spirits_](/rules-for-communing-with-spirits)
+
 ### Ogbewe Amadin
 — [_Riddle_](/riddle)
 
@@ -106,6 +109,12 @@ permalink: /authors
 
 ### Christa Carmen
 — [_Something Borrowed, Something Blood-Soaked_](/something-borrowed-something-blood-soaked)
+
+### Beth Cato
+— [_To This, You Cling, With Jagged Fingernails_](/to-this-you-cling-with-jagged-fingernails)
+
+### Jessica S. Cauttero
+— [_Reclaiming Makerhood_](/reclaiming-makerhood)
 
 ### Dantzel Cherry
 — [_Shrugging Off the Weight of the World_](/issue11/chapter/shrugging-off-the-weight-of-the-world/)
@@ -211,6 +220,8 @@ permalink: /authors
 
 ### Courtney Floyd
 — [_H&D Plumbing_](/h-n-d-plumbing)
+
+— [_A Post-Modern Oracle_](/a-post-modern-oracle)
 
 ### Eric Francis
 — [_The Boy_](/issue17/chapter/the-boy/)
@@ -342,6 +353,8 @@ permalink: /authors
 ### Kathryn Kania
 — [_Two Years Dead_](/immigrant-experiences-roundtable)
 
+— [_Tablecloth_](/tablecloth)
+
 ### Maya Kanwal
 — [_A Legal Alien_](/a-legal-alien)
 
@@ -411,6 +424,9 @@ permalink: /authors
 ### S.M. Mack
 — [_Ariadne, Abandoned on Naxos_](/issue35/chapter/ariadne-abandoned-on-naxos/)
 
+### Nilah Magruder
+— [_A Letter to My Sister_](/-letter-to-my-sister)
+
 ### Arkady Martine
 — [_Object-Oriented_](/object-oriented/)
 
@@ -428,6 +444,8 @@ permalink: /authors
 
 ### Brian M. Milton
 — [_Rab the Giant versus the Witch of the Waterfall_](/rab-the-giant-versus-the-witch-of-the-waterfall)
+
+— [_Cleaning Up_](/cleaning-up)
 
 ### Hillary Monahan
 — [_#MeToo, and Furthermore_](/metoo-and-furthermore)
@@ -540,6 +558,9 @@ permalink: /authors
 ### Rachel Rodman
 — [_The Gingerbread Pox_](/the-gingerbread-pox)
 
+### Alexandra Rowland
+— [_Love in Every Stitch_](/love-in-every-stitch)
+
 ### Lauren M. Roy
 — [_Ex Astris_](/issue9/chapter/ex-astris/)
 
@@ -583,10 +604,10 @@ permalink: /authors
 — [_A Single, Stolen Night_](/issue9/chapter/a-single-stolen-night/)
 
 ### Effie Seiberg
-— [_Re: Little Miss Apocalypse Playset_](/pigeons)
+— [_Re: Little Miss Apocalypse Playset_](/issue30/chapter/re-little-miss-apocalypse-playset/)
 
 ### Nibedita Sen
-— [_Pigeons_](/issue30/chapter/re-little-miss-apocalypse-playset/)
+— [_Pigeons_](/pigeons)
 
 ### Cherrelle Shelton
 — [_Banshee_](/banshee)
@@ -657,11 +678,14 @@ permalink: /authors
 ### R.L. Thull
 — [_The Forever Girl_](/issue33/chapter/the-forever-girl/)
 
-<!-- ----
+----
 
 ## U
 
-----
+### Ose Utomi
+— [_The Story of a Young Woman_](/the-story-of-a-young-woman)
+
+<!-- ----
 
 ## V -->
 
@@ -688,6 +712,11 @@ permalink: /authors
 
 ### Troy L. Wiggins
 — [_Black Like Them_](/issue39/chapter/black-like-them/)
+
+### Fran Wilde
+— [_Choose Wisely_](/choose-wisely)
+
+— [_You Wake Up Monstrous_](/you-wake-up-monstrous)
 
 ### Takim Williams
 — [_Inner Space_](/inner-space)
