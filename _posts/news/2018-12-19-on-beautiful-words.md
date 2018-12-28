@@ -36,7 +36,7 @@ On the website, STET feels very different. A bunch of images of handwritten note
 
 ‘STET’ and ‘Choose Wisely’ are the types of stories that come to us with an offbeat format, and we work with the author to suss out the best way to present it. But sometimes we come across something so evocative, that what we want to do is simply amplify what’s there. That’s what we did with the first poem we ever published: ‘[Thunderstorm in Glasgow, July 25th 2013](https://firesidefiction.com/thunderstorm-in-glasgow-july-25-2013),’ by Amal El-Mohtar, illustrated by Molly Crabapple.
 
-![STET as presented on screen](/images/graphics/beautiful-words-2.png)
+![A detail from the poem](/images/graphics/beautiful-words-2.png)
 
 This personal poem hit us all in the feels immediately. We knew it was an impactful piece, and needed to have an impactful presentation. We also wanted to bring to bear the unique qualities of what I call a ‘[digital broadside](https://medium.com/@pablod/reading-on-the-big-screen-8b9f4a028267).’ When I first read the poem, it resonated deeply with me as someone raised between two cultures. So we looked for an artist who not only shared those reactions, but also brought her perspective as a visual chronicler of modern day Lebanon. Molly was a perfect fit.  In between emoting at each other over the tone Molly was picking up from Amal’s words, they compared notes on their understanding of that old barracks in Beirut, your typical friendly neighborhood conversation about how the block has changed over the years.
 
