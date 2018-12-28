@@ -46,6 +46,4 @@ Finally, we added a subtle little touch, which I haven’t mentioned much before
 
 As we now move into doing audio production for our stories in the new year, we’re getting a feel for the tools and the workflows needed to create compelling, high-quality audio, and we’re looking forward to exploring interesting things we can do in that medium as well, over time. In the meantime, we’re always looking for cool weird new things to publish — if you're a writer of words, we just so happen to be open to submissions right now, so [you know what to do](https://firesidefiction.com/submissions#short-stories). And if you’re a reader like me, then consider supporting our work by [subscribing to _Fireside Quarterly_](http://firesidefiction.com/subscribe). Your direct support is what allows us to keep putting beautiful words out into the world.
 
-In fact, just for today, we’d like to offer you a 25% discount on the first issue of your subscription to _Fireside Quarterly_, if you use the code `beautifulwords` at checkout.
-
 As always, thanks for reading.
