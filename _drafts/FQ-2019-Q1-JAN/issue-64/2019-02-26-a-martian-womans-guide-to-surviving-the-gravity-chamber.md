@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2019-02-26 01:00:01 -0500
 category: short story
 permalink: a-martian-womans-guide-to-surviving-the-gravity-chamber
+audiourl:
 published: false
 teaser: "Celebrate the small victories. Hooray, your radiation levels are at a record low! Yippee, you're ovulating on schedule!"
 author-img: jennifer-stephan-kapral.jpg

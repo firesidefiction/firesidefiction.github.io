@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2019-02-05 01:00:01 -0500
 category: short story
 permalink: symphony-for-the-space-between-the-stars
+audiourl:
 published: false
 teaser: "Her systems will cease to function long before she arrives at her destination. But her protocol is clear. She will follow the last path set by her captain."
 author-img: jenn-reese.jpg

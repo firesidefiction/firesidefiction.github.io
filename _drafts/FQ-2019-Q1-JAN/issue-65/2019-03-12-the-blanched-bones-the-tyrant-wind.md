@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2019-03-12 01:00:01 -0500
 category: short story
 permalink: the-blanched-bones-the-tyrant-wind
+audiourl:
 published: false
 teaser: "I hope I am so sticky and rangy that he cannot force the hate in my veins down his steel throat. I hope he chokes on my solid, frozen heart."
 author-img: karen-osborne.jpg

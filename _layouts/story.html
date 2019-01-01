@@ -12,7 +12,17 @@ layout: default
     {% if page.author %}<h2 class="byline">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
     <p>{% if page.selected %}Selected by {{ page.selected }}; {% endif %}Edited by {% if page.editor %}{{ page.editor }}{% else %}Brian J. White</p>{% endif %}
     <p>{{ page.date | date: "%B %Y" }}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}
-  </header>
+</header>
+
+{% if page.audiourl %}
+  <div class="contentnote">
+    <h4>Listen to this story</h4>
+    <audio controls>
+      <source src="{{ page.audiourl }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+  </div>
+{% endif %}
 
 {% if page.contentnote %}
   <div class="contentnote">

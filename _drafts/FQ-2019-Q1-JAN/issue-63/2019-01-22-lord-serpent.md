@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2019-01-22 01:00:01 -0500
 category: short story
 permalink: lord-serpent
+audiourl:
 published: false
 teaser: "The fourth demon took the form of a giant serpent, two hundred feet long and as wide in girth as a wagon."
 author-img: mary-soon-lee.jpg
@@ -16,7 +17,7 @@ caption: "An Asian serpent surrounds a Chinese fortress. An old woman looks on."
 artist: Galen Dara
 artist-img: galen-dara.jpg
 artist-bio: |
-  Galen Dara broke into the industry with an early Hugo Award win for Best Fan Artist in 2013, followed by a nomination in 2014 for Best Professional Artist, a category very few women had ever been nominated for. She quickly followed up with more nominations for the Hugo and Chesley Awards, and won the World Fantasy Award in 2016.
+  **Galen Dara** broke into the industry with an early Hugo Award win for Best Fan Artist in 2013, followed by a nomination in 2014 for Best Professional Artist, a category very few women had ever been nominated for. She quickly followed up with more nominations for the Hugo and Chesley Awards, and won the World Fantasy Award in 2016.
   Dara has illustrated covers for numerous anthologies, magazines, and novels, as well as games and comics. Working primarily in digital mediums with a raw, impressionistic bent, Dara’s art balances whimsey and horror, using bright strikes of color to highlight her dark, dreamy compositions. She finds her inspiration in “monsters, mystics, and dead things”, elements that are often found or referenced in her paintings.
   Dara attended the Illustrator’s Master Class in 2012 and 2014, and is a frequent participant in the Spectrum Art Show. Widely regarded as one of the best up and coming artists in the field, Dara currently works with a number of regular publications, including _Fireside Magazine_, _Lightspeed_,  _Uncanny Magazine_, _Subterranean Press_, and many more.
   Her portfolio, prints, and more information can be found at http://www.galendara.com

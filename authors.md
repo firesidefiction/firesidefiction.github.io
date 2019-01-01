@@ -549,6 +549,9 @@ permalink: /authors
 
 ## R
 
+### Shiv Ramdas
+— [_Guardian_](/guardian)
+
 ### Ace Ratcliff
 — [_Who Gets to Say #MeToo?_](/who-gets-to-say-metoo)
 
@@ -735,6 +738,8 @@ permalink: /authors
 
 ### Alyssa Wong
 — [_Rabbit Heart_](/issue37/chapter/rabbit-heart/)
+
+— [_All the Time We've Left to Spend_](/all-the-time-weve-left-to-spend)
 
 ### Evelyn Wong
 — [_Reaching Beyond_](/reaching-beyond)

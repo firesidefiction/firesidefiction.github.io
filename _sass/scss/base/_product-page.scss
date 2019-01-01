@@ -47,7 +47,7 @@
 		}
 	}
 	&-intro, &-art {
-		background-color: rgba(245, 215, 187, 0.52);
+		background-color: rgba(211, 142, 255, 0.25);
 	}
 	&-intro {
 		padding-top: 1em;
@@ -78,7 +78,7 @@
 			}
 			figure {
 				margin-top: 2em;
-				margin-bottom: 1em;
+				margin-bottom: .1em;
 				margin-right: 1em;
 				max-width: 60%;
 				overflow: hidden;
@@ -115,6 +115,9 @@
 			display: flex;
 			div {
 				min-width: 50%;
+				h4 {
+					max-width: 18em;
+				}
 			}
 			img {
 				max-width: 350%;

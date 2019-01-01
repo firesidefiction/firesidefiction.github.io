@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2019-01-15 01:00:01 -0500
 category: short story
 permalink: ten-utterances-of-the-vampire-word
+audiourl:
 published: false
 teaser: "She turns to see two fearful, bloodshot eyes. They’re gone before she can speak. A cockroach itch wriggles under her tongue."
 author-img: george-lockett.jpg

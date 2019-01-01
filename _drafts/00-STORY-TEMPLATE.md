@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2017-01-01 01:00:01 -0500
 category: short story | flash fiction | announcement | essay | book | serial
 permalink: title-of-the-story
+audiourl:
 published: true | false
 teaser: "teaser text"
 art: title-of-the-story.png

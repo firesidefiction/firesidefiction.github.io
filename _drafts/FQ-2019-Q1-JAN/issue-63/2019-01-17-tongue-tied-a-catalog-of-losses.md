@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2019-01-17 01:00:01 -0500
 category: essay
 permalink: tongue-tied-a-catalog-of-losses
+audiourl:
 published: false
 teaser: "The German word for language is Sprache. Lose a bit of it and it becomes Rache, which means revenge. Lose just a little more and you’re left with ache."
 author-img: layla-al-bedawi.jpg

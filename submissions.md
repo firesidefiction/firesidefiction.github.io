@@ -22,7 +22,9 @@ If you have questions related to accesibility, please email us at [editorial@fir
 
 ## Short Stories
 
-**Fireside is currently open to short story submissions** from the 15th to the 31st of December, 2018 (midnight to midnight, all times EST). To submit your story for consideration, please read the following guidelines, then click on the button below to go to our submissions form, where you can upload your manuscript file.
+{% include submissions-closed-button.html %}
+
+Fireside is currently closed to submissions for short stories. We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.
 
 We accept short stories up to 4,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds.
 
@@ -41,8 +43,6 @@ We accept short stories up to 4,000 words. Our budget allows us to pay for up to
 - PDF files or submissions pasted into the body of an email.
 - Stories that use intellectual property that is under copyright (we don’t want to get sued).
 - Stories that are currently being considered elsewhere (no simultaneous submissions).
-
-{% include submit-button.html %}
 
 ### What to expect from us:
 - Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.

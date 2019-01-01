@@ -6,6 +6,7 @@ editor: Elsa Sjunneson-Henry
 date: 2019-03-14 01:00:01 -0500
 category: essay
 permalink: impostor-abuser-power-dynamics-in-publishing
+audiourl:
 published: false
 teaser: "There is a sense of safety in assuming that we are small. We seek the safe harbor of anonymity, forgetting that there is no such thing as a person who is beyond vulnerability."
 author-img: sarah-gailey.jpg

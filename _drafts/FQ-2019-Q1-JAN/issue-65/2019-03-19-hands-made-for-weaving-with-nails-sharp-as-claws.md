@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2019-03-19 01:00:01 -0500
 category: short story
 permalink: hands-made-for-weaving-with-nails-sharp-as-claws
+audiourl:
 published: false
 teaser: "It took some doing to convince the men to let Mami Wata’s gals go, but the world weaver mostly managed it without bloodshed."
 author-img: eden-royce.jpg

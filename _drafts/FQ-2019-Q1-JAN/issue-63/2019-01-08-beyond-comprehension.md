@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2019-01-08 01:00:01 -0500
 category: short story
 permalink: beyond-comprehension
+audiourl: 
 published: false
 teaser: "He’d seen the ads: Happy kids with their headsets, uploading book after book from the VR library to their brains. Instantly. Click and done."
 author-img: russell-nichols.jpg

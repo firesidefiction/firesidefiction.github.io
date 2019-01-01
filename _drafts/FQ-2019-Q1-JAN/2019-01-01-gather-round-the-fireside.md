@@ -4,6 +4,7 @@ title: Gather Round the Fireside
 author: Julia Rios
 category: editorial
 published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-001-editorial-by-julia-rios.mp3
 author-img: julia-rios.jpg
 author-bio: |
   Julia Rios is the Fiction Editor for _Fireside Magazine_. They’re [@omgjulia](https://www.twitter.com/omgjulia) on Twitter.    
