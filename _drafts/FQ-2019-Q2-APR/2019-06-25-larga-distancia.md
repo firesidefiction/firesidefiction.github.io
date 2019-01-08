@@ -19,7 +19,7 @@ A veces, mi madre me llama sólo para saludar: me dice que se acordó de mí por
 
 En estos casos me da gusto que me busque; tanto, que ni siquiera le comento que su llamada siempre me despierta y que tardo mucho en volver a conciliar el sueño. Realmente me hace feliz saber que me quiere pese a todo.
 
-Pero hay otras veces en que llama para quejarse: de mi ausencia, de su soledad, de lo frío que me he vuelto con ella, de mis visitas cada vez más esporádicas, sin que le valgan las razones (bien que sabe que no es tan sencillo que yo haga el viaje). Llora, grita que no pongo nada de mi parte ... ¡Cómo reprocha! Y me acusa de que de un tiempo a la fecha me he vuelto de lo más egoísta e indiferente.
+Pero hay otras veces en que llama para quejarse: de mi ausencia, de su soledad, de lo frío que me he vuelto con ella, de mis visitas cada vez más esporádicas, sin que le valgan las razones (bien que sabe que no es tan sencillo que yo haga el viaje). Llora, grita que no pongo nada de mi parte.... ¡Cómo reprocha! Y me acusa de que de un tiempo a la fecha me he vuelto de lo más egoísta e indiferente.
 
 También se pone sentenciosa y me sale con que _un accidente_ – lo dice así, con desprecio, en vez de decir _EL accidente_ – no es justificación para haberme alejado tanto.
 

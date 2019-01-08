@@ -10,7 +10,7 @@ published: false
 teaser: "He paused slightly when he saw the worn sword at my side, but he did not ask for it, and I would not have given it to him in any case."
 author-img: nghi-vo.jpg
 author-bio: |
-  **Nghi Vo** lives on the shores of Lake Michigan, and her fiction has appeared in _Strange Horizons_, _Uncanny Magazine_, _PodCastle_, and _Lightspeed_. Her short story, "Neither Witch nor Fairy"  is on the 2014 Tiptree Award Honor List. She believes in the ritual of lipstick, the power of stories, and the right to change your mind. She can be reached at bridgeofbirds@gmail.com.
+  **Nghi Vo** lives on the shores of Lake Michigan, and her fiction has appeared in _Strange Horizons_, _Uncanny Magazine_, _PodCastle_, and _Lightspeed_. Her short story "Neither Witch nor Fairy" is on the 2014 Tiptree Award Honor List. She believes in the ritual of lipstick, the power of stories, and the right to change your mind. She can be reached at bridgeofbirds@gmail.com.
 proofread: false
 art: five-stories-in-the-monsoon-night.png
 caption: "Hands pull noodles. In the center, a steaming bowl. Behind that, a menacing snake."
@@ -23,7 +23,7 @@ contentnote:
 
 The hand-lettered sign hanging in the Crooked Dragon's front window proclaimed that it had the best wide egg noodles in the city of Tsang, which of course must be taken to mean that it had the best wide egg noodles in the world.
 
-My ship had put in just a few hours previously, and following a few whispers and rumors that I had heard in Hong and a tale that I had from a dead man from Wan, I made my way to Goat and Compass Avenue and from there to the noodle shop under the neat blue awning.
+My ship had put in just a few hours previously and, following a few whispers and rumors that I had heard in Hong and a tale that I had from a dead man from Wan, I made my way to Goat and Compass Avenue and from there to the noodle shop under the neat blue awning.
 
 "Ah, good evening, good evening, miss! Come in from the wet before you drown on dry land," said the proprietor, popping out from behind the curtain. He was a round man with long whiskers that made him look like a canny old catfish, and there was a beaten metal ladle hanging from the rope that served as his belt.
 
@@ -33,7 +33,7 @@ My ship had put in just a few hours previously, and following a few whispers and
 
 His grin came back in full force, and he nodded.
 
-"They are, and once you try our spicy noodles, you'll agree. I'll warn you, they may be a little rough on a northern palate..."
+"They are and, once you try our spicy noodles, you'll agree. I'll warn you, they may be a little rough on a northern palate..."
 
 "We'll see about that. Bring out a bowl of the hottest you have."
 
@@ -64,7 +64,7 @@ I shook my head.
 
 He was kind enough to leave the crackers, which I sorely needed. The noodles, pulled by hand and drowned in crab broth, were astonishingly good.
 
-As good as the noodles were, the Crooked Dragon was having a slow night. The merchant and her husband who had been eating when I came in soon got up to leave, calling merry goodbyes back to the kitchen, and for a short time, we were alone. I considered bringing up my business then, but the soup was quite good, and after we began,  I thought that there would not be much time left for food.
+As good as the noodles were, the Crooked Dragon was having a slow night. The merchant and her husband, who had been eating when I came in, soon got up to leave, calling merry goodbyes back to the kitchen, and for a short time we were alone. I considered bringing up my business then, but the soup was quite good, and after we began, I thought that there would not be much time left for food.
 
 I was wondering whether the straw mushrooms at the bottom of the broth would be more or less spicy than the rest when the door pushed open and another customer walked in.
 
@@ -82,22 +82,22 @@ She glanced at the menu carved into the wooden plaque on the wall.
 
 "Oh, well, just the sweet potato noodles for me tonight. And please, make it mild if you can. The last time I ate Tsang food, my tongue took a month to grow back."
 
-The old man chuckled, but to my relief, he didn't point out the fact that there was a fellow northerner seated to one side. The Sisterhood likes noodles just as well as anyone else does. Her presence could easily be a coincidence, but believing in coincidences is a good way to become very, very dead.
+The old man chuckled but, to my relief, he didn't point out the fact that there was a fellow northerner seated to one side. The Sisterhood likes noodles just as well as anyone else does. Her presence could easily be a coincidence, but believing in coincidences is a good way to become very, very dead.
 
- The little boy popped out again, setting the place of noodles in front of her. He would have scampered back behind the curtain again if she hadn't called him back.
+The little boy popped out again, setting the plate of noodles in front of her. He would have scampered back behind the curtain again if she hadn't called him back.
 
 "Hmm, this could definitely use some fried scallions. I don't suppose that you have anything like that, do you?"
 
-The boy nodded, and now I could see that his shoulders were up around his ears. For some reason, he didn't like this woman, cheerful face aside, but he went back for the small wooden bowl full of fragrant reddish brown scallions.
+The boy nodded, and now I could see that his shoulders were up around his ears. For some reason, he didn't like this woman, cheerful face aside, but he went back for the small wooden bowl full of fragrant reddish-brown scallions.
 
-He shook some into her steaming bowl, but before he could withdraw, she wrapped her hand around his wrist.
+He shook some into her steaming bowl but, before he could withdraw, she wrapped her hand around his wrist.
 
-"Thank you very much," she said sweetly. "You should let me read your fortune to say thank you. I learned my skills in Hong, where the finest fortunetellers come from. When I was just a young girl, a blind woman who had lived all her life with the temple stopped me in the street and told me that I would be most blessed. As long as I went to sleep every night facing east, and as long as I offered one golden rooster to Ping, the goddess of shallow water, every year, I would touch the lives of many people and leave them changed forever. Isn't that a fine thing?"
+"Thank you very much," she said sweetly. "You should let me read your fortune to say thank you. I learned my skills in Hong, where the finest fortune tellers come from. When I was just a young girl, a blind woman who had lived all her life with the temple stopped me in the street and told me that I would be most blessed. As long as I went to sleep every night facing east, and as long as I offered one golden rooster to Ping, the goddess of shallow water, every year, I would touch the lives of many people and leave them changed forever. Isn't that a fine thing?"
 The boy squirmed, but I could have told him that it wasn't going to do any good.
 
 "I don't know," he muttered, but she was already dragging him up on the bench with her.
 
-"This is a once in a lifetime chance," she said cheerfully. "All I need to do is to count the bumps on your spine, and I can tell whether you are going to grow up to be a scholar, or a fisherman, or a monk ... maybe even a king. Wouldn't that be grand?"
+"This is a once in a lifetime chance," she said cheerfully. "All I need to do is to count the bumps on your spine, and I can tell whether you are going to grow up to be a scholar, or a fisherman, or a monk — maybe even a king. Wouldn't that be grand?"
 
 The little boy's eyes widened, and I had heard just about enough. At the very least, it was enough to remind me of the dead man from Wan, who had spoken of a little boy with a royal lion tattooed on his shoulder.
 
@@ -117,9 +117,9 @@ I could see the mayhem flash through her eyes. The more interruptions she had, t
 
 "Of course," she said, and only someone who was looking for it would have seen the slight tightness to that smile.
 
-She released the boy, who skittered back to stand in the doorway of the kitchen. Still, he did not run far, and the moment his uncle was between himself and the woman, he relaxed. His ease was unwarranted, or at least that's what I thought until the old man shrugged off his jacket.
+She released the boy, who skittered back to stand in the doorway of the kitchen. Still, he did not run far and, the moment his uncle was between himself and the woman, he relaxed. His ease was unwarranted, or at least that's what I thought until the old man shrugged off his jacket.
 
-Underneath, stretching from shoulder to shoulder across his back, was the tattoo of a coiling black snake. The tip of the tail touched the base of his neck, the narrow head with its red eyes was set perfectly between his shoulder blades. The detailed scales made the entire snake ripple with the illusion of movement.
+Underneath, stretching from shoulder to shoulder across his back, was the tattoo of a coiling black snake. The tip of the tail touched the base of his neck, and the narrow head with its red eyes was set perfectly between his shoulder blades. The detailed scales made the entire snake ripple with the illusion of movement.
 
 Half the continent knew that tattoo, or at least knew stories about it. Even now, twenty years after the destruction of Hapkei Fortress, few men would dare try to wear such a thing, and there were no artists who could match the work of the great Wong Hulan.
 
@@ -137,9 +137,9 @@ The sister didn't jump, but her jaw tightened. I had moved from my place with th
 
 The sister was looking less sure of it by the moment. In a fair fight, we would have been an even match, but I strongly doubted that the old man standing there so peacefully would fight fair. He had been known for winning his battles, after all.
 
-Still I could see her hesitating. The boy, the prize goose, was still hesitating in the doorway. She was part of the Sisterhood, and they are taught pride just as they are taught tracking, swordplay and espionage.
+Still I could see her hesitating. The boy, the prize goose, was still in the doorway. She was part of the Sisterhood, and they are taught pride just as they are taught tracking, swordplay, and espionage.
 
-"My friends will be joining us very soon," I said softly. "They are just behind me. We wanted to try speaking first, but in a moment, they will become impatient. A moment after that, they will come in those doors, and a moment after that, sister, you will be dead."
+"My friends will be joining us very soon," I said softly. "They are just behind me. We wanted to try speaking first, but in a moment they will become impatient. A moment after that, they will come in those doors, and a moment after that, sister, you will be dead."
 
 It was enough. For all that she was a squat woman, she was graceful. A bound took her to the window, another saw her through it and into the trackless monsoon night.
 
@@ -152,7 +152,7 @@ The little boy was used to his uncle's gift for understatement. He hung back in 
 "I'm very much afraid that we are going to need to move again. Don't worry though, I am certain that our next accommodations will be just as nice as these. Go on, go pack. You know how to."
 
 The boy nodded, already so used to fleeing in his short life that it was just one more unpleasant thing. Strangers came out of the night, his uncle was reasonable in his old-man way, and they moved again.
-He turned to me, and try as I might, I couldn't sort warlord from noodle-maker, uncle from grand prince. At some point, his ladle had been replaced with a cleaver that I knew would be wickedly sharp. After all, you need as sharp a cleaver to cut noodles as you do to split heads.
+He turned to me and, try as I might, I couldn't sort warlord from noodle-maker, uncle from grand prince. At some point, his ladle had been replaced with a cleaver that I knew would be wickedly sharp. After all, you need as sharp a cleaver to cut noodles as you do to split heads.
 
 "And whose side are you and your friends on, Northern miss?" he asked.
 I sighed, feeling strangely ashamed.
@@ -163,7 +163,7 @@ He nodded, tapping his lower lip with his finger.
 
 "I see. Then I would like to know who you are, beyond being a swordswoman and a member of the Sisterhood."
 
-"Past member," I said shortly, and when he showed with a look on his face that that would not be enough, I sighed.
+"Past member," I said shortly and, when he showed with a look on his face that that would not be enough, I sighed.
 
 "Everyone knows that the king of Wan is dead," I said carefully. "He died when the Kang clan usurped his throne. They cut off his head, and they threw it into the sea."
 
@@ -177,7 +177,7 @@ He nodded, tapping his lower lip with his finger.
 
 "I would think not."
 
-"But just a few years ago, I was in the Winter Straits, and a man did me a good turn. He's a hard man to find, and he needed me to find someone who was even better hidden. His son had gone with his brother to learn a trade, and the elder brother liked his secrecy so well that they had quite disappeared."
+"But just a few years ago, I was in the Winter Straits, and a man did me a good turn. He's a hard man to find, and he needed me to find someone who was even better-hidden. His son had gone with his brother to learn a trade, and the elder brother liked his secrecy so well that they had quite disappeared."
 
 "And he sent you looking for his son."
 
@@ -197,4 +197,4 @@ As we slipped into the darkness, the old man glanced at me.
 
 "I wasn't a past member at the time," I admitted, "but perhaps that story is one for a ship that is far out at sea."
 
-He chuckled, and we walked into the night, the heavy rains shielding us from all eyes, the water washing away our steps.
+He chuckled and we walked into the night, the heavy rains shielding us from all eyes, the water washing away our steps.

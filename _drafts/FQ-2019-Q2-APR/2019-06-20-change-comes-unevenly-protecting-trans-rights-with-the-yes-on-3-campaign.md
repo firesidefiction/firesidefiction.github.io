@@ -17,21 +17,21 @@ contentnote:
 
 To the great relief of me and pretty much everyone I know, the third ballot question in Massachusetts passed with two-thirds of voters' support in November 2018.
 
-Question 3 asked a simple, though non-intuitively worded, question: Should we keep "gender identity" in the non-discrimination laws of Massachusetts? A yes vote kept the law as it was, and as it has been for two years, protecting transgender people from discrimination in public places. A no vote repealed those protections.
+Question 3 asked a simple, though nonintuitively worded, question: Should we keep "gender identity" in the non-discrimination laws of Massachusetts? A yes vote kept the law as it was and had been for two years, protecting transgender people from discrimination in public places. A no vote repealed those protections.
 
 Many people I know in Massachusetts, or who I spoke to on the phone while volunteering with the Yes on 3 campaign, were flabbergasted this was even a question.
 
 I wasn't so astonished.
 
-See, I'm in my late twenties, I'm queer and nonbinary, and I'm from Minnesota. Long a Democratic stronghold, Minnesota has had public accommodations provisions against discrimination for both sexual orientation and gender identity since the early 90s. But as always, change comes unevenly.
+See, I'm in my late twenties, I'm queer and nonbinary, and I'm from Minnesota. Long a Democratic stronghold, Minnesota has had public accommodations provisions against discrimination for both sexual orientation and gender identity since the early 90s. But, as always, change comes unevenly.
 
-In the second decade of the 21st century, Minnesota faced a ballot initiative campaign to define marriage between a man and a woman as a state constitutional amendment. To be clear, marriage between people of the same legal gender was already illegal; they just wanted to make it doubly so, and no, I can't claim to understand it either.
+In the second decade of the 21st century, Minnesota faced a ballot initiative campaign to define marriage between a man and a woman as a state constitutional amendment. To be clear, marriage between people of the same legal gender was already illegal; they just wanted to make it doubly so and no, I can't claim to understand it either.
 
-The No campaign in that instance emerged successful, albeit by a tiny margin, and used their momentum to roll into a movement to alter the existing state law. The state legislature passed an equal marriage bill the next spring, May 2013, the same month I graduated from college. I sat in my Massachusetts dorm room, glued to my laptop screen and ready to cry as the votes rolled in.
+The No campaign in that instance emerged successful, albeit by a tiny margin, and used their momentum to roll into a movement to alter the existing state law. The state legislature passed an equal marriage bill the next spring, May of 2013, the same month I graduated from college. I sat in my Massachusetts dorm room, glued to my laptop screen and ready to cry as the votes rolled in.
 
 My Massachusetts friends were baffled by the intensity of my reaction. Age-peers who grew up in Massachusetts have had marriage equality as the law of the land since late middle or early high school. Just under a decade might not be that long in the general scheme of things (my geology-major college roommate would argue it's less than the blink of an eye) but in terms of where these changes land in your personal development, it is an eon.
 
-The impact for me was: I don't expect to win rights other than on the local level, or by any means other than by going out and working for it. I know sometimes things that seem terrible are opportunities for more progress than you could've imagined. And I want people younger than me—as old as I was when Minnesota got public accommodations provisions; as old as my Massachusetts friends were when their judiciary decided they could marry whomever they want; as old as I was when my home state legalized equal marriage—to have landmark cases that validate them and make their paths easier.
+The impact for me was: I don't expect to win rights other than on the local level, or by any means other than by going out and working for it. I know sometimes things that seem terrible are opportunities for more progress than you could've imagined. And I want people younger than me — as old as I was when Minnesota got public accommodations provisions; as old as my Massachusetts friends were when their judiciary decided they could marry whomever they want; as old as I was when my home state legalized equal marriage—to have landmark cases that validate them and make their paths easier.
 
 I was away at college when the Minnesota ballot question and legislative actions went down, but I knew plenty of people who worked on that campaign. It was won step by step, door by door, and phone call by phone call. Their momentum paid off in a huge way, in a way I personally could not have imagined happening until years or decades later. I was and am deeply grateful to the people who did that work.
 
@@ -51,9 +51,9 @@ On the phone, though, making calls for Yes on 3, no one knew what I looked like.
 
 The more time I spent phonebanking for the campaign, the more starkly the differences in conversations came out:
 
-The people who said of course they were supportive, this was Massachusetts, they couldn't imagine anyone would vote no or that we might be afraid it might not pass.
+There were the people who said of course they were supportive, this was Massachusetts, they couldn't imagine anyone would vote no or that we might be afraid it might not pass.
 
-The people who were mostly supportive of trans people's right to exist in public but had complex concerns, more and less reasonable, like, "If it passes, will my trans grandson have to use men's restrooms? Because cisgender men are terrible, and I'm not sure he's safe there" (men's restrooms can be awful, but I assure you your grandson will be safer with this law in place either way) or, "I'm okay with this genderfluid person I know using whatever restroom they want, but that's because they were assigned female at birth" (goddammit, you were so close to not being transphobic as fuck) or, "We should all have restroom stalls that no one can possibly look into" (true! That would be ideal!).
+The people who were mostly supportive of trans people’s right to exist in public but had complex concerns, more and less reasonable, like, “If it passes, will my trans grandson have to use men’s restrooms? Because cisgender men are terrible, and I’m not sure he’s safe there.” (Men’s restrooms can be awful, but I assure you your grandson will be safer with this law in place either way.) Or, “I’m okay with this genderfluid person I know using whatever restroom they want, but that’s because they were assigned female at birth.” (Goddammit, you were so close to not being transphobic as fuck.) Or, “We should all have restroom stalls that no one can possibly look into.” (True! That would be ideal!)
 
 The people who told me, "We'll be voting no. Emphatically." Who asked, "If I vote no, does that get rid of all the non-discrimination protections, or just gender identity?" Who said, "I want you to know that I'm voting No." Who said, "Oh, the pedophile one?" (I repeated it was about transgender non-discrimination.) "Oh, the homosexual one!"
 
@@ -69,6 +69,6 @@ Election night, I couldn't look at the results as they came in. I couldn't let m
 
 But it did pass. We did win. The law stays the same. And two-thirds support is pretty damn good—not that it makes the one-third of voters who voted no any better, but hopefully it's enough to make other states not even try to pull this kind of thing. Losing, or winning by a narrow margin, would have sent a clear message country-wide that not even Massachusetts cared that much about trans people. (I have personal quibbles with Massachusetts setting itself up as the arbiter and bellwether of progressiveness, see above about Minnesota having these particular protections since 1993, but MA has succeeded hugely in being looked to as that bellwether.)
 
-When my friends and I finally decided enough districts had reported, we toasted our success with mead and tea. We and our other friends and all the other Massachusetts trans people and nonbinary people—and anyone else whose presentation isn't easily parsable into a binary cis gender rubric—would stay a little more safe, at least in some ways, at least for now. I'm not going to say we won forever or that our success changes everything, it sucks that any of us even have to do any of this in the first place, but it is an important step in the right direction.
+When my friends and I finally decided enough districts had reported, we toasted our success with mead and tea. We and our other friends and all the other Massachusetts trans people and nonbinary people—and anyone else whose presentation isn't easily parsable into a binary cis gender rubric—would stay a little more safe, at least in some ways, at least for now. I'm not going to say we won forever or that our success changes everything — it sucks that any of us even have to do any of this in the first place — but it is an important step in the right direction.
 
 And we'll keep doing this, as much and as often as we need to.

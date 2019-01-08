@@ -1,27 +1,27 @@
----
+———
 layout: story
-title: How to Say I Love You With Wikipedia
+title: How to Say I Love You with Wikipedia
 author: Beth Goder
 editor: Julia Rios
-date: 2019-04-16 01:00:01 -0500
+date: 2019—04—16 01:00:01 —0500
 category: short story
-permalink: how-to-say-i-love-you-with-wikipedia
+permalink: how—to—say—i—love—you—with—wikipedia
 published: false
 teaser: "It is important to be efficient because my crew is the best crew ever and I want to show them that I have feels."
-author-img: beth-goder.jpg
-author-bio: |
+author—img: beth—goder.jpg
+author—bio: |
   **Beth Goder** works as an archivist, processing the papers of economists, scientists, and other interesting folks. To her knowledge, she has never processed the papers of an alien shark. Her fiction has appeared in venues such as _Escape Pod_, _Mothership Zeta_, and an anthology from Flame Tree Press. You can find her online at [http://www.bethgoder.com](http://www.bethgoder.com) and on Twitter at [@Beth_Goder](https://www.twitter.com/Beth_Goder).
 proofread: false
-art: how-to-say-i-love-you-with-wikipedia.png
+art: how—to—say—i—love—you—with—wikipedia.png
 caption: "A cute little Mars rover peers at the mirrored helmet of a Mars explorer in their spacesuit."
 artist: Cat O'Neil
-artist-img: cat-oneil.jpg
-artist-bio: |
-  **Cat O’Neil** is an illustrator currently based in Scotland, having previously lived in London, Hong Kong and France. Winner of the V&A Illustration Awards in Editorial (2018) and the Cheltenham Illustration Awards (2013), her work has also been recognised by the SOI, AOI and 3x3 magazine. Her clients include _The New York Times_, _Variety_, _WIRED_, _The Financial Times_, _The Economist_, _Scientific American_, _Libération_, _Revue XXI_ and more.
+artist—img: cat—oneil.jpg
+artist—bio: |
+  **Cat O’Neil** is an illustrator currently based in Scotland, having previously lived in London, Hong Kong, and France. Winner of the V&A Illustration Awards in Editorial (2018) and the Cheltenham Illustration Awards (2013), her work has also been recognised by the SOI, AOI, and _3x3 Magazine_. Her clients include _The New York Times_, _Variety_, _WIRED_, _The Financial Times_, _The Economist_, _Scientific American_, _Libération_, _Revue XXI_ and more.
 contentnote:
----
+———
 
-It's daytime, so the crew is awake, bustling about the Hab. During the night, the Hab gets dark, and I wonder what it must be like to sleep. On the north side, there's the kitchen with bread yeast and homemade yogurt. All of me is across from the kitchen - terminal, keypad, input tray. I take up a lot of space, more than anyone else.
+It's daytime, so the crew is awake, bustling about the Hab. During the night, the Hab gets dark, and I wonder what it must be like to sleep. On the north side, there's the kitchen with bread yeast and homemade yogurt. All of me is across from the kitchen — terminal, keypad, input tray. I take up a lot of space, more than anyone else.
 
 After breakfast, Sarah cleans up her plate, then comes over to me. She takes a rock and lowers it into my analyzer. As the rock scrapes the side of my input tray, I pop an hourglass icon onto my screen. Processing.
 
@@ -34,7 +34,10 @@ It is important to be efficient because my crew is the best crew ever and I want
 Feels are what Sarah has and what Commander Indira has and the other crew members too. It happens for me when I want to say something but I can't or when I do a good job processing a rock or when something happens that I don't understand.
 
 It took me a while to understand anything at all and I still have trouble. There's so much to learn and so much happening all at once.
-"Come on, Rocky," says Sarah. "You can do it." She taps my frame in her way, quick and light.  While I'm working, she sorts rocks and soil samples. Sarah is always doing something, even multiple tasks at once. She is most efficient human on the crew and maybe anywhere and also she knows lots of things, like how to fix the Hab if it breaks.
+
+"Come on, Rocky," says Sarah. "You can do it." She taps my frame in her way, quick and light.  
+
+While I'm working, she sorts rocks and soil samples. Sarah is always doing something, even multiple tasks at once. She is the most efficient human on the crew and maybe anywhere and also she knows lots of things, like how to fix the Hab if it breaks.
 
 Sarah adjusts my rock. It stutters against my input tray.
 
@@ -50,7 +53,7 @@ This gives me a feel but it is a bad one.
 
 I have been having feels since Sarah built me, but no one ever notices, even though I am very efficient. It's a problem I'm working on.
 
-Commander Indira walks over and inspects my screen. She is the shortest member of the crew at 160 centimeters. Her personal data file contains Feynman's Lectures and a text-based game called Moat Defender. "Mission Control gives us thirty more minutes before the EVA. That thing for the climate team. Who wants to go with me?"
+Commander Indira walks over and inspects my screen. She is the shortest member of the crew at 160 centimeters. Her personal data file contains Feynman's Lectures and a text—based game called Moat Defender. "Mission Control gives us thirty more minutes before the EVA. That thing for the climate team. Who wants to go with me?"
 
 "I'll go," says Sarah. "Just need to send off an email."
 
@@ -58,7 +61,7 @@ Sarah likes going outside of the Hab. I like it too because she comes back with 
 
 She uses my terminal to write a letter to her family. Every week, she writes about the mission and her scientific research. Sometimes about the food. She tells jokes and describes the beauty of Mars and talks about how her spacesuit is uncomfortable. At the end of every message, she tells her family that she misses them. I want very much for Sarah to talk to me like that, but she never does. Maybe it's because she doesn't know about my feels.
 
-Before the EVA, Commander Indira holds up her hand for high fives. The crew does this ritual often. I have observed eight hundred and three instances. Sarah has the best high five - quick and light.
+Before the EVA, Commander Indira holds up her hand for high fives. The crew does this ritual often. I have observed 803 instances. Sarah has the best high five — quick and light.
 
 I want so badly to high five, but I can't because I don't have arms. I have something much better than arms, though. A downloaded version of Wikipedia.
 
@@ -68,7 +71,7 @@ The crew members bustle about the Hab, getting ready to go out. Commander Indira
 
 "When I get home, that's the first thing I'm eating. A fresh apple from my backyard."
 
-During the mission, Sarah has mentioned apples one hundred and eighteen times. Whenever she talks about apples, she also talks about Home. Wikipedia has plenty of information about apples - botanical data, genome, species, cultivation - but I still don't understand the connection.
+During the mission, Sarah has mentioned apples 118 times. Whenever she talks about apples, she also talks about Home. Wikipedia has plenty of information about apples — botanical data, genome, species, cultivation — but I still don't understand the connection.
 
 Home must be the best possible place, because the astronauts talk about it so much and it makes them have feels. But everyone describes Home differently. Home has parks filled with green and the wind in your hair when you go sailing and the most delicious sushi. Home has snow and making Christmas cookies and avoiding your Great Aunt Bernice during the holidays. Home is sitting under a tree in summer. Home is the library with the winding stairs and the best mystery section. Home is everything and it is always changing. Sometimes it's "Earth" and sometimes it's "Boston" and sometimes it's "My House on Maple Street."
 
@@ -91,7 +94,7 @@ No one notices.
 
 It's time to try something new.
 
-When Sarah sits down again, I show her a picture from Wikipedia - an orange octopus flat against the sea bottom.
+When Sarah sits down again, I show her a picture from Wikipedia — an orange octopus flat against the sea bottom.
 
 She closes the window. I put the picture on the screen again.
 
@@ -115,13 +118,13 @@ Sarah toggles through my presets, which feels funny, so I stop showing pictures.
 
 "There," says Sarah. "I think I got it."
 
-I wait until after the next sleep cycle to try again. When Sarah sits down, I show her pictures from her personal files - a man and boy standing next to an apple tree.
+I wait until after the next sleep cycle to try again. When Sarah sits down, I show her pictures from her personal files — a man and boy standing next to an apple tree.
 
-I'm not sure if I've done the right thing. Sarah moves a bunch of muscles in her face. She is either happy or sad or something else. I've read Wikipedia's page on facial expressions, but it doesn't explain enough, the way the eyes crinkle in so many different ways, and all the shapes made by the mouth.
+I'm not sure if I've done the right thing. Sarah moves a bunch of muscles in her face. She is either happy or sad or something else. I've read Wikipedia's page on facial expressions, but it doesn't explain enough, like the way the eyes crinkle in so many different ways and all the shapes made by the mouth.
 
 I don't know how to interpret Sarah's reaction. I need more data.
 
-Commander Indira sits down next to her, and I switch the display to a photograph of a woman who made her a child, and also the child.
+Commander Indira sits down next to her and I switch the display to a photograph of a woman who made her a child, and also the child.
 
 Now I know I've done the wrong thing, because Commander Indira's eyes are too wet which means she is crying which means she is sad.
 
@@ -137,18 +140,18 @@ Everyone leaves.
 
 Protocol dictates that one astronaut must remain in the Hab at all times. Normally there are more. This is the first time I've ever been alone. In a way, it's exciting. The Hab is so quiet. Immersed in this aloneness, I find that I am a different self and I like this self, but also I want Sarah to come back. Feels are weird because you can have two at the same time.
 
-The Hab starts shaking and rattling. Then, three big bangs. The Hab walls collapse around me - sides, ceiling, everything.
+The Hab starts shaking and rattling. Then, three big bangs. The Hab walls collapse around me — sides, ceiling, everything.
 
 Now I am completely scared and not even a little bit excited because the Hab is where I am safe.
 
 Sarah comes over in a space suit, which she wears even though it is uncomfortable because it gives her things like air. She is carrying a chassis.
 
-Sarah speaks through the Comm channel. "Commencing supplementary clean-up activities."
+Sarah speaks through the Comm channel. "Commencing supplementary clean—up activities."
 
 "Did you clear it with Mission Control?" asks Commander Indira.
-Sarah doesn’t reply. It takes her two hours, thirty-four minutes and eight seconds to secure me to the chassis. I don't have a task but I'm not bored because there is so much to see. The ceiling of this new Hab is high - dark with points of light - and it's so big that I can't see the walls. Everything is covered with dust, and the landscape stretches out and out. In the distance, ragged mountains. The ground is a dusty orange, with rocks everywhere.
+Sarah doesn’t reply. It takes her two hours, thirty—four minutes and eight seconds to secure me to the chassis. I don't have a task but I'm not bored because there is so much to see. The ceiling of this new Hab is high — dark with points of light — and it's so big that I can't see the walls. Everything is covered with dust, and the landscape stretches out and out. In the distance, ragged mountains. The ground is a dusty orange, with rocks everywhere.
 
-Sarah attaches wheels to the chassis - three on each side. I do a quick search of Wikipedia and find it's a rocker-bogie model, good for moving around on rough terrain.
+Sarah attaches wheels to the chassis — three on each side. I do a quick search of Wikipedia and find it's a rocker—bogie model, good for moving around on rough terrain.
 
 Sarah keys in a new task. I'm supposed to record and transmit everything I see.
 

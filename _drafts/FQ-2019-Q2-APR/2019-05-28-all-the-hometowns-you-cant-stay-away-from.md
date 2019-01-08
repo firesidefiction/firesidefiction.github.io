@@ -10,7 +10,7 @@ published: false
 teaser: "We all do what we must to survive returning home."
 author-img: izzy-wasserstein.jpg
 author-bio: |
-  **Izzy Wasserstein** teaches writing and literature at a midwestern university, and writes poetry and fiction. Her work has appeared in _Clarkesworld_, _Lady Churchill's Rosebud Wristlet_, and _PseudoPod_. Her most recent poetry collection is _When Creation Falls_. She shares a home with her spouse, Nora E. Derrington, and their animal companions. She's an enthusiastic member of the 2017 class of Clarion West and likes to slowly run long distances.
+  **Izzy Wasserstein** teaches writing and literature at a midwestern university, and writes poetry and fiction. Her work has appeared in _Clarkesworld Magazine_, _Lady Churchill's Rosebud Wristlet_, and _PseudoPod_. Her most recent poetry collection is _When Creation Falls_. She shares a home with her spouse, Nora E. Derrington, and their animal companions. She's an enthusiastic member of the 2017 class of Clarion West and likes to slowly run long distances.
 proofread: false
 art: all-the-hometowns-you-cant-stay-away-from.png
 caption: "A woman's face peers at you through the chaotic, electric ether, in multiples."
@@ -21,11 +21,11 @@ artist-bio: |
 contentnote:
 ---
 
-You Snap into the procedurally-generated shithole you call a hometown, and a moment later the stench leaves you gagging. So many universes, and yet in almost every one South Topeka smells like a family of raccoons died inside a middle school locker room.
+You Snap into the procedurally-generated shithole you call a hometown, and a moment later the stench leaves you gagging. So many universes and yet, in almost every one, South Topeka smells like a family of raccoons died inside a middle school locker room.
 
-You tighten your travel bag around your shoulders, put your hands in your jacket pockets, and walk through the old neighborhood. The street signs don’t quite match your memory - Kildare Street is Mayo, here - but the strip-mall is still half-abandoned, and the meth house on the corner still lacks all its windows. You stop outside the ranch house you grew up in, more or less, and stare at the front door for a long time. The siding has warped and the roof is in rough shape. The grass is high, half-hiding nasty clumps of sticker weeds. In one universe, you knocked and strangers peered at you from behind the deadbolt, and spoke in a language you hadn’t heard in all your travels. But you’re more afraid you will know the faces inside, so you hesitate.
+You tighten your travel bag around your shoulders, put your hands in your jacket pockets, and walk through the old neighborhood. The street signs don’t quite match your memory — Kildare Street is Mayo, here — but the strip-mall is still half-abandoned, and the meth house on the corner still lacks all its windows. You stop outside the ranch house you grew up in, more or less, and stare at the front door for a long time. The siding has warped and the roof is in rough shape. The grass is high, half-hiding nasty clumps of sticker weeds. In one universe, you knocked and strangers peered at you from behind the deadbolt, and spoke in a language you hadn’t heard in all your travels. But you’re more afraid you will know the faces inside, so you hesitate.
 
-(By "you hesitate" I mean I’m hesitating. We all do what we must to survive returning home. If I say you’re the one doing this, maybe I’ll believe things unfold as they must.)
+(By "you hesitate", I mean I’m hesitating. We all do what we must to survive returning home. If I say you’re the one doing this, maybe I’ll believe things unfold as they must.)
 
 Eventually you knock, because you want to get out of the reeking wind. Your brother opens the door and looks at you with such shock that you know that in this iteration you’ve not been around for a long time.
 
@@ -41,7 +41,9 @@ In the ones where she’s alive and you never left, the other yous seethe with r
 
 Sometimes you tell yourself you are looking for the right reality, maybe one where you made peace and she died holding your hand. Or one where she screamed at you until you knew leaving was right. Or maybe she got better and you went off to college and this is your triumphant return. In one reality, your sibling (your sister, this time) explains the paradox of choice: choosing between three salad dressings is easy; choosing between one hundred, a nightmare.
 
-"Narrow your choices," she tells you, somewhere into the second bottle of bottom-shelf whiskey. "Settle for good enough." In that Topeka, your mother is dead and so is that version of you. Your sister doesn’t ask to come with you.
+"Narrow your choices," she tells you, somewhere into the second bottle of bottom-shelf whiskey. "Settle for good enough."
+
+In that Topeka, your mother is dead and so is that version of you. Your sister doesn’t ask to come with you.
 
 ----
 
@@ -55,13 +57,13 @@ You admit you’ve never dared go out that far. "What is it like out there?"
 
 "Do you think the level above us is real?" you ask, because you’re high. The math is pretty simple: once a universe can make a simulated universe, it can make many. Any universe simulated well enough can make its own simulations. There might be infinite simulated universes for every real one.
 
-"I don’t know why I would care," she says. "Can’t get there, and even if I could, why would ‘real’ mean anything to me?"
+"I don’t know why I would care," she says. "Can’t get there and, even if I could, why would ‘real’ mean anything to me?"
 
 "Oh." You sit with this a minute. "Do you ever think about going back to your original reality?"
 
 She looks at you with pity that feels like a knife’s edge. "Don’t try it," she says. "Trust me. Don’t."
 
-"You don’t want to know the truth?" you ask her, and because you’re high, you don’t realize until much later that isn’t what she meant at all.
+"You don’t want to know the truth?" you ask her and, because you’re high, you don’t realize until much later that isn’t what she meant at all.
 
 "You’ll go crazy looking for those kind of answers, kid," she says. You’ve always hated being called "kid," and it’s harder to take advice from yourself than you expected.
 
@@ -111,11 +113,11 @@ That night you steal a Snapper, telling yourself the man dying a few doors down 
 
 ----
 
-Once you found a Topeka to which one of you returned, and everyone seemed to get along. The you that has settled there glared at you over the dinner table, kissed her mother on the forehead and set to cleaning up the dishes. You wanted to tell her that you weren’t angling to steal the life she’s made. Instead you stepped outside to smoke and Snapped before you had to say anything at all.
+Once you found a Topeka to which one of you returned, and everyone seemed to get along. The you that has settled there glared at you over the dinner table, kissed her mother on the forehead, and set to cleaning up the dishes. You wanted to tell her that you weren’t angling to steal the life she’s made. Instead you stepped outside to smoke and Snapped before you had to say anything at all.
 
 ----
 
-You’ve become such an expert at leaving that you aren’t prepared for it when you get left (xe had eyes like ice caves, and hands to make your body ache in all the best ways). You make a lot of bad choices in a handful of realities, and as you always do when you’re being self-destructive, you start thinking it’s time to visit Topeka again. You dial up your original universe for the first time. You tell yourself it’s time to face the grave of your mother, or her survival, at last.
+You’ve become such an expert at leaving that you aren’t prepared for it when you get left (xe had eyes like ice caves, and hands to make your body ache in all the best ways). You make a lot of bad choices in a handful of realities and, as you always do when you’re being self-destructive, you start thinking it’s time to visit Topeka again. You dial up your original universe for the first time. You tell yourself it’s time to face the grave of your mother, or her survival, at last.
 
 You’re still telling yourself that when a man you don’t recognize opens the door and calls you by name. Your father, the piece of shit who ran before you were old enough to have memories of him, but somehow he’s been here all along. He stares at you in horror, because his daughter has been dead for many years.
 
@@ -123,15 +125,22 @@ Neither one of you can stand to make eye contact. You should be back home, but y
 
 ----
 
-You don’t know what went wrong, so you stay away from Topekas for a long time. There are infinite things to see, so for a while you are content. You travel with a physicist. Neither of you wants sex from the other, but as the nights get longer, both of you need the heat of each other to help you sleep.
+You don’t know what went wrong, so you stay away from Topekas for a long time. There are infinite things to see, so for a while you are content. You travel with a physicist. Neither of you wants sex from the other but, as the nights get longer, both of you need the heat of each other to help you sleep.
 
-One night you tell her about your trip home, to your original home, and she strokes your hair and whispers how sorry she is. "You can’t just remove part of the simulation," she tells you. "When you leave a universe, or when you enter one, it changes it. Permanently. The whole of it iterates." She talks about quantum effects, non-linearity and software glitches, and you don’t follow it. You’re thinking of the universe that ceased to be the moment you left it behind.
+One night you tell her about your trip home, to your original home, and she strokes your hair and whispers how sorry she is.
+
+"You can’t just remove part of the simulation," she tells you. "When you leave a universe, or when you enter one, it changes it. Permanently. The whole of it iterates."
+
+She talks about quantum effects, non-linearity and software glitches, and you don’t follow it. You’re thinking of the universe that ceased to be the moment you left it behind.
 
 ----
 
-For a long time after that you can’t Snap. Maybe the thing to do is to stay where you are, since you can’t know what changing realities will do to either one. This universe seems no worse than any other. The physicist doesn’t share your concerns. "You’ll change the world by staying, too," she says. "No reason to get sentimental about it." You don’t have anything to say to each other after that, and soon she is on to the next universe, and just as the nights are at their coldest.
+For a long time after that you can’t Snap. Maybe the thing to do is to stay where you are, since you can’t know what changing realities will do to either one. This universe seems no worse than any other. The physicist doesn’t share your concerns.
+
+"You’ll change the world by staying, too," she says. "No reason to get sentimental about it." You don’t have anything to say to each other after that, and soon she is on to the next universe, and just as the nights are at their coldest.
+
 You travel slowly back towards your hometown, catching buses when you can and hitchhiking when you can’t. You still can’t settle for the safe life. A truck driver drops you off at the tollbooth, and your lungs fill with the stench in the air. It is after midnight and the streetlights stand like specters against the fog. You hesitate. If you keep going, if you knock on that door, you’ll find answers. A set of answers, anyway. Your hands twist into fists.
 
-Each simulation functions as an equation: plug yourself in, or take yourself out. All those homes you left, they exist only in your memory, now. Do you make new worlds or make yourself part of this one.
+Each simulation functions as an equation: plug yourself in, or take yourself out. All those homes you left, they exist only in your memory, now. Do you make new worlds or make yourself part of this one?
 
 You walk through the streets, Kilkenny, Clare, Mayo, trying to decide, until your house emerges from the darkness like a familiar face.

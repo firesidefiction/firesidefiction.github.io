@@ -11,14 +11,14 @@ teaser: "You must carry a handkerchief always in case you have to cover shame an
 author-img: alexandra-seidel.jpg
 author-bio: |
   **Alexandra Seidel** writes poems and stories about things that are ... real. Kinda. Her work can be found at places like _Lackington's_, _Strange Horizons_, _Mythic Delirium_, and others. If you are so inclined you can follow Alexa on Twitter ([@Alexa_Seidel](https://www.twitter.com/Alexa_Seidel)) or read her blog:
-[http://tigerinthematchstickbox.blogspot.com/](http://tigerinthematchstickbox.blogspot.com/)
+  [http://tigerinthematchstickbox.blogspot.com/](http://tigerinthematchstickbox.blogspot.com/)
 proofread: false
 contentnote:
 ---
 
 The girl, pigtail-aged, tells everyone: "I want to be an astronaut."
 
-Not to shock her parents, but because it's more practical in outer space, she uses her small kids' scissors on the pigtails, declares, wild-haired, that she will wear skirts no more.
+Not to shock her parents, but because it's more practical in outer space, she uses her small kids' scissors on the pigtails, and declares, wild-haired, that she will wear skirts no more.
 
 "You look like a harlot," says the girl's grandmother.
 
@@ -72,7 +72,7 @@ And she was. Underneath her skin, the stone pulsed red; the feathers, the pictur
 
 The harlot doesn't get a fairy tale:
 
-The harlot had brushed her hair daily, one hundred strokes. This should make her a princess, thinks the girl, whose hair grows back slowly, stubbornly, because she secretly uses scissors on it, not one hundred brush strokes.
+The harlot brushed her hair daily, one hundred strokes. This should have made her a princess, thinks the girl, whose hair grows back slowly, stubbornly, because she secretly uses scissors on it, not one hundred brush strokes.
 
 The harlot's hair shone softly in the neon light of bars and clubs; no one ever called her a princess, and the girl with scissors under her pillow does not understand.
 
@@ -84,7 +84,7 @@ The harlot liked laughing. She had stories! So many stories, because she lived, 
 
 The harlot was unafraid, until; the girl understands that princes can be beasts that hunt in packs and prey on those who dare to be unafraid.
 
-"They found her, one morning, all her scanty clothing torn" says the girl's grandmother. "And she was bleeding."
+"They found her, one morning, all her scanty clothing torn," says the girl's grandmother. "And she was bleeding."
 
 ----
 

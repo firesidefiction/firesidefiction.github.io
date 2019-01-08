@@ -10,8 +10,7 @@ published: false
 teaser: "It’s been years since I’ve flown. I’d forgotten how much the wings strain the muscles of your shoulders..."
 author-img: ben-francisco.jpg
 author-bio: |
-  **Ben Francisco**'s stories have been published in _Podcastle_, _Realms of Fantasy_, _Dreaming Again_, _Lady Churchill's Rosebud Wristlet_, _Shimmer_, _Best Gay Stories_, _Wilde Stories_, and _From Macho to Mariposa: New Gay Latino Fiction_.
-
+  **Ben Francisco**'s stories have been published in _Podcastle_, _Realms of Fantasy_, _Dreaming Again_, _Lady Churchill's Rosebud Wristlet_, _Shimmer Magazine_, _Best Gay Stories_, _Wilde Stories_, and _From Macho to Mariposa: New Gay Latino Fiction_.
   His stories range from magic realism to space opera, and have been known to feature oversexed ghosts, depressed precognitive psychics, and pantheistic vampire aliens who reproduce like moss. Common themes include cultural misunderstandings, family dysfunctions, LGBT experiences, and spiritual searches.
 proofread: false
 contentnote:
@@ -23,7 +22,7 @@ The maze is making us mad, the smooth sandstone of one wall indistinguishable fr
 
 Some monsters are not merely creations of his dreaming mind. Every night as he sleeps, I pray to the gods to protect us, to give me the wits to solve this puzzle as I have solved so many others before it.
 
-I focus my mind’s eye, trying to remember, to visualize the maze as it appears from the castle above. From there the walls were flat lines in the sand, like a child’s puzzle on parchment. From here on Earth, each wall is an endless flat surface, a vertical desert with no oasis.
+I focus my mind’s eye, trying to remember, to visualize the maze as it appears from the castle above. From there, the walls were flat lines in the sand, like a child’s puzzle on parchment. From here on Earth, each wall is an endless flat surface, a vertical desert with no oasis.
 
 We begin collecting feathers. The boy complains, though I know he appreciates the distraction. Wouldn’t it be easier to just find a way out? he asks.
 
@@ -95,6 +94,7 @@ We need land, I say. See that hint of green on the horizon to the south? That is
 Home? he asks, arching his back and looping below me. Why go home when we have wings that can take us anywhere? Let’s go west! West to the places that no one has explored!
 
 If we go west, I say, then we will fall off the edge of the world.
+
 The world has no edge, he says. There’s always a horizon.
 
 Where does he get this confidence in these notions that have no foundation?
