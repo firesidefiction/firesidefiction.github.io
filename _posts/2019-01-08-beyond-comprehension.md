@@ -6,6 +6,7 @@ editor: Julia Rios
 date: 2019-01-08 01:00:01 -0500
 category: short story
 permalink: beyond-comprehension
+contentnote: This story shows instances of childhood bullying and ableist language.
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-003-beyond-comprehension-by-russell-nichols_-_1719_3.45_PM.mp3
 narrator: C.S.E. Cooney
 published: true
