@@ -484,6 +484,8 @@ permalink: /authors
 ### Russell Nichols
 — [_How to Sync Your Spouse_](/how-to-sync-your-spouse)
 
+— [_Beyond Comprehension_](/beyond-comprehension)
+
 ### Sara Norja
 — [_Birch Daughter_](/birch-daughter)
 
