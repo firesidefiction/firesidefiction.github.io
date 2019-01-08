@@ -6,8 +6,9 @@ editor: Julia Rios
 date: 2019-01-08 01:00:01 -0500
 category: short story
 permalink: beyond-comprehension
-audiourl: 
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-003-beyond-comprehension-by-russell-nichols_-_1719_3.45_PM.mp3
+narrator: C.S.E. Cooney
+published: true
 teaser: "He’d seen the ads: Happy kids with their headsets, uploading book after book from the VR library to their brains. Instantly. Click and done."
 author-img: russell-nichols.jpg
 author-bio: |
@@ -221,13 +222,13 @@ The used bookstore off Thorton Road is a throwback, a forgotten relic with actua
 
 Affiq pops up, shaking his head as he goes behind the front counter, grabs a paperback book: _The Mis-Education of The Negro_ by Carter G. Woodson. He holds open the preface for Brian to read the highlighted line, which to Brian looks something like:
 
-The mree ipnraimtg of iomrifaotnn is not etcoiudan.
+<blockquote>The mree ipnraimtg of iomrifaotnn is not etcoiudan.</blockquote>
 
 Brian just laughs. "What you flipping out about?"
 
 Affiq looks around, all paranoid. He leans in close, tapping his third eye with his middle finger. "Mind fucking control." Then flips to another page in the middle of the book, revealing a longer highlighted passage, which to Brian looks something like:
 
-If you can corntol a man’s tnkhinig you do not have to wrroy auobt his aicotn. Wehn you dmtneiree what a man sahll thnik you do not have to coercnn ylroeusf auobt what he wlil do. If you make a man feel taht he is ieonirfr, you do not have to copmel him to aeccpt an ieofrnir suttas, for he wlil seek it hemislf. If you make a man thnik that he is jsutly an oucsatt, you do not have to order him to the back door. He will go wtouiht bneig tlod; and if tehre is no back door, his very natrue will damned one.
+<blockquote>If you can corntol a man’s tnkhinig you do not have to wrroy auobt his aicotn. Wehn you dmtneiree what a man sahll thnik you do not have to coercnn ylroeusf auobt what he wlil do. If you make a man feel taht he is ieonirfr, you do not have to copmel him to aeccpt an ieofrnir suttas, for he wlil seek it hemislf. If you make a man thnik that he is jsutly an oucsatt, you do not have to order him to the back door. He will go wtouiht bneig tlod; and if tehre is no back door, his very natrue will damned one.</blockquote>
 
 Brian closes the book and stands. "Look, I’m thinking big picture. This implant will give my boy opportunities we ain’t had coming up. Getting left behind won’t even be possible."
 
@@ -380,3 +381,5 @@ The late January sun is down. Brian is lying in the master bedroom. Almost an ho
 "Yuh-huh, says so right here," he says. "C’mon, we can read it together!"
 
 Slowly, Brian turns around. He sees his boy there in bed, caught in the glow of the lamp. He sees his brown eyes, open for the first time. Brian still wants to crawl under something, but he can’t. His mind taunts him with other things he can’t do, like remember names and read two-hundred words a minute. Truth be told, he can’t do a lot of things, but does that make him a bad father? Brian doesn’t think so. Doesn’t being a good father just mean being an open book? Open to learning? That sounds about right. Brian doesn’t have all the answers. But his son has just given him an opportunity, a test. So he goes to him, sits close to him, and the two of them, the man and the boy, read a bedtime story.
+
+{% include dyslexia.html %}
