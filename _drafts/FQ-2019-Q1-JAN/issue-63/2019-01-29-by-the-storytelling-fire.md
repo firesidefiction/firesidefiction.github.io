@@ -7,6 +7,7 @@ date: 2019-01-29 01:00:01 -0500
 category: short story
 permalink: by-the-storytelling-fire
 audiourl:
+narrator: C.S.E. Cooney
 published: false
 teaser: "The fairy demanded that he kiss the princess, for the fairy had chosen him to break the enchantment on the land. But he refused…"
 author-bio: |

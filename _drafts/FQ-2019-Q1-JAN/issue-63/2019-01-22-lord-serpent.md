@@ -7,6 +7,7 @@ date: 2019-01-22 01:00:01 -0500
 category: short story
 permalink: lord-serpent
 audiourl:
+narrator: C.S.E. Cooney
 published: false
 teaser: "The fourth demon took the form of a giant serpent, two hundred feet long and as wide in girth as a wagon."
 author-img: mary-soon-lee.jpg
