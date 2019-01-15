@@ -12,7 +12,7 @@ author-img: karolina-fedyk.jpg
 author-bio: |
   **Karolina Fedyk** writes speculative fiction and poetry about terraforming planets. In 2017 their poem "What Wants Us" was nominated for the Rhysling Award. Their debut novel, _Skrzydła_ (Wings), will be published in Poland by SQN Imaginatio. Karolina is deeply convinced that imagined realities can teach us something new about our own world. They devote their free time to LARP, and enjoy the company of owls and kestrels.
 proofread: false
-contentnote:
+contentnote: This story contains ethnic slurs. 
 ---
 
 The air is curdling with a storm, hot and molasses-thick, when the fisherman and the witch study each other. They lock their wet hands together, interlaced fingers anchoring them against a different kind of tide.

@@ -12,7 +12,7 @@ author-img: mikki-kendall.jpg
 author-bio: |
   **Mikki Kendall** has written for _The Washington Post-, _Boston Globe_, _Time_, _Ebony_, _Essence_, and other online and print markets. She has been published in several anthologies, both fiction and nonfiction. She edited the Locus Award-nominated anthology _Hidden Youth_ with Chesya Burke, and was part of the Hugo-nominated team of editors at _Fireside Magazine_. Born and raised in Chicago, her books _Hood Feminism_ and _Amazons, Abolitionists, and Activists: A Graphic History of Women's Fight For their Rights_ will be published by Penguin Random House in 2019.  
 proofread: false
-contentnote:
+contentnote: This essay dsicusses misogynism and sexual harrassment.
 ---
 
 As we talk about harassment in society in general and at fan conventions specifically, I can’t help but think about my first foray into sci-fi. WisCon was my first science fiction convention. If you Google, you can still find a picture of a now infamous harasser staring at my breasts while we are being introduced to each other in 2009. It’s not a great moment, but what stuck out to me later was how many people were willing to downplay it. Not just other men, but other women. Specifically, white women who A) thought it was no big deal, B) that what I was wearing invited attention, or C) fell into the trap of assuming I wasn’t due the same care and concern as white victims because I was a Strong Black Woman™.
