@@ -1,0 +1,47 @@
+---
+layout: default
+---
+{% if page.art %}
+  <figure class="story-illustration">
+    <img src="/illustration/{{ page.art }}" alt="{{ page.caption }}">
+  </figure>
+{% endif %}
+<article class="fiction">
+  <header class="story-header">
+    <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+    {% if page.author %}<h2 class="byline">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
+    <p>{% if page.selected %}Selected by {{ page.selected }}; {% endif %}Edited by {% if page.editor %}{{ page.editor }}{% else %}Brian J. White</p>{% endif %}
+    <p>{{ page.date | date: "%B %Y" }}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}
+</header>
+
+{% if page.audiourl %}
+  <div class="contentnote">
+    <p>Listen to this {{ page.category }}, narrated by {{ page.narrator }}:</p>
+    <br/>
+    <audio controls>
+      <source src="{{ page.audiourl }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+  </div>
+{% endif %}
+
+{% if page.contentnote %}
+  <div class="contentnote">
+    <h4>Content Note:</h4>
+    <p>{{ page.contentnote  | markdownify }}</p>
+  </div>
+{% endif %}
+
+{% if page.generalnote %}
+  <div class="contentnote">
+    <p>{{ page.generalnote  | markdownify }}</p>
+  </div>
+{% endif %}
+
+  <div class="content story-body list-para">
+    {{ content }}
+  <h5>© {{ page.date | date: "%Y" }} {{ page.author }}</h5>
+    {% include bios.html %}
+  </div>
+
+</article>
