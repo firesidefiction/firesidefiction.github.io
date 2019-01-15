@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2019-01-15 01:00:01 -0500
 category: short story
 permalink: ten-utterances-of-the-vampire-word
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-004-ten-utterances-of-the-vampire-word-by-george-lockett_-_1719_3.44_PM.mp3
 published: true
 teaser: "She turns to see two fearful, bloodshot eyes. They’re gone before she can speak. A cockroach itch wriggles under her tongue."
 author-img: george-lockett.jpg

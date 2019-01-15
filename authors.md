@@ -417,6 +417,9 @@ permalink: /authors
 
 — [_The Journal_](/issue5/chapter/the-journal/)
 
+### George Lockett
+— [_Ten Utterances of the Vampire Word_](/ten-utterances-of-the-vampire-word)
+
 ----
 
 ## M
