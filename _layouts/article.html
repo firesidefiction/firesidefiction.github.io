@@ -13,6 +13,17 @@ layout: default
     {% if page.author %}<h2>By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
   </header>
 
+  {% if page.audiourl %}
+    <div class="contentnote">
+      <p>Listen to this {{ page.category }}, narrated by {{ page.narrator }}:</p>
+      <br/>
+      <audio controls>
+        <source src="{{ page.audiourl }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+      </audio>
+    </div>
+  {% endif %}
+
   <div>
     {{ content }}
   </div>
