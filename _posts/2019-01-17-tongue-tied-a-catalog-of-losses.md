@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Tongue-Tied: A Catalog of Losses"
 author: Layla Al-Bedawi
 editor: Julia Rios
