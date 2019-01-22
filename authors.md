@@ -409,6 +409,9 @@ permalink: /authors
 ### Kate Lechler
 — [_The Hulder’s Husband Says Don’t_](/the-hulders-husband-says-dont)
 
+### Mary Soon Lee
+— [_Lord Serpent_](/lord-serpent)
+
 ### Marissa Lingen
 — [_Flow_](/flow/)
 
