@@ -6,9 +6,9 @@ editor: Julia Rios
 date: 2019-01-22 01:00:01 -0500
 category: short story
 permalink: lord-serpent
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-005-lord-serpent-by-mary-soon-lee_-_1719_3.42_PM.mp3
 narrator: C.S.E. Cooney
-published: false
+published: true
 teaser: "The fourth demon took the form of a giant serpent, two hundred feet long and as wide in girth as a wagon."
 author-img: mary-soon-lee.jpg
 author-bio: |
@@ -22,7 +22,7 @@ artist-bio: |
   Dara has illustrated covers for numerous anthologies, magazines, and novels, as well as games and comics. Working primarily in digital mediums with a raw, impressionistic bent, Dara’s art balances whimsey and horror, using bright strikes of color to highlight her dark, dreamy compositions. She finds her inspiration in “monsters, mystics, and dead things”, elements that are often found or referenced in her paintings.
   Dara attended the Illustrator’s Master Class in 2012 and 2014, and is a frequent participant in the Spectrum Art Show. Widely regarded as one of the best up and coming artists in the field, Dara currently works with a number of regular publications, including _Fireside Magazine_, _Lightspeed_,  _Uncanny Magazine_, _Subterranean Press_, and many more.
   Her portfolio, prints, and more information can be found at http://www.galendara.com
-proofread: false
+proofread: true
 ---
 
 In the year of the snake, at the start of the reign of Emperor Liu, may his memory shine imperishable, four demons beset the Middle Kingdom. The greatest and most terrible of these demons was vanquished by Emperor Liu himself, the second demon was drowned in oil by the Chancellor, and the Grand Commandant slew the third demon after battling with it for eight days and eight nights.
