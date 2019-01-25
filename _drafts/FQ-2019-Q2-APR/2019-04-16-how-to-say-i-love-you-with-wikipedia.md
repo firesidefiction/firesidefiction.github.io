@@ -1,4 +1,4 @@
-———
+---
 layout: story
 title: How to Say I Love You with Wikipedia
 author: Beth Goder
@@ -11,7 +11,7 @@ teaser: "It is important to be efficient because my crew is the best crew ever a
 author—img: beth—goder.jpg
 author—bio: |
   **Beth Goder** works as an archivist, processing the papers of economists, scientists, and other interesting folks. To her knowledge, she has never processed the papers of an alien shark. Her fiction has appeared in venues such as _Escape Pod_, _Mothership Zeta_, and an anthology from Flame Tree Press. You can find her online at [http://www.bethgoder.com](http://www.bethgoder.com) and on Twitter at [@Beth_Goder](https://www.twitter.com/Beth_Goder).
-proofread: false
+proofread: true
 art: how—to—say—i—love—you—with—wikipedia.png
 caption: "A cute little Mars rover peers at the mirrored helmet of a Mars explorer in their spacesuit."
 artist: Cat O'Neil
@@ -19,7 +19,7 @@ artist—img: cat—oneil.jpg
 artist—bio: |
   **Cat O’Neil** is an illustrator currently based in Scotland, having previously lived in London, Hong Kong, and France. Winner of the V&A Illustration Awards in Editorial (2018) and the Cheltenham Illustration Awards (2013), her work has also been recognised by the SOI, AOI, and _3x3 Magazine_. Her clients include _The New York Times_, _Variety_, _WIRED_, _The Financial Times_, _The Economist_, _Scientific American_, _Libération_, _Revue XXI_ and more.
 contentnote:
-———
+---
 
 It's daytime, so the crew is awake, bustling about the Hab. During the night, the Hab gets dark, and I wonder what it must be like to sleep. On the north side, there's the kitchen with bread yeast and homemade yogurt. All of me is across from the kitchen — terminal, keypad, input tray. I take up a lot of space, more than anyone else.
 
@@ -82,6 +82,7 @@ Sarah and Commander Indira suit up, along with most of the crew, leaving two peo
 While the others are out, the remaining crew members do sex, which is a series of repetitive motions that is super boring, so I read Wikipedia.
 
 I've learned so much from Wikipedia. Did you know that galaxies can have billions of stars, and that at least two trillion galaxies exist in the observable universe? Did you know that octopuses have neurons in their arms, or that igneous rocks are formed when lava or magma cools?
+
 The crew members do sex for a long time because sex takes forever, so I reread the page on simple machines. Lever, wheel and axle, pulley, inclined plane, wedge, screw. Those machines are not like me but they are so efficient. The energy that goes in is the energy that comes out, without any dissipation.
 
 I look at the picture of a lever for a long time. It is the most beautiful thing on Wikipedia, and maybe anywhere. Here is what the lever looks like: the fulcrum sits below a plank, which has a load on one side. The lines of the image are crisp and close together, in strong black. It is the lever in its most efficient, ideal form. A perfect expression of love.

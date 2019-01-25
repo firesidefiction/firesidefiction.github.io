@@ -121,7 +121,7 @@ I stare at the ocean below. From here, its waters look calm, gentle ripples skim
 
 I am almost to the island, but I have no strength for the landing. I let gravity carry me downward, catching the air as the ground approaches, just enough to ease my fall.
 
-I crash in the waters just beyond the shore, my right leg awkwardly smacking the surface as I land. I lie there exhausted, letting the water hold me up. My leg throbs—I think it may be broken. The water comforts my pains and my aches but not my sorrows. The salt water is dissolving the wax, sliding the feathers off my wings. I lie floating on my back for at least an hour, surrounded by the feathers of my once mighty wings, the waters of my tears rejoining the ocean.
+I crash in the waters just beyond the shore, my right leg awkwardly smacking the surface as I land. I lie there exhausted, letting the water hold me up. My leg throbs — I think it may be broken. The water comforts my pains and my aches but not my sorrows. The salt water is dissolving the wax, sliding the feathers off my wings. I lie floating on my back for at least an hour, surrounded by the feathers of my once mighty wings, the waters of my tears rejoining the ocean.
 
 Eventually I limp to the beach. I find my friends.
 

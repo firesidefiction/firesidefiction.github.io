@@ -11,14 +11,14 @@ teaser: "He paused slightly when he saw the worn sword at my side, but he did no
 author-img: nghi-vo.jpg
 author-bio: |
   **Nghi Vo** lives on the shores of Lake Michigan, and her fiction has appeared in _Strange Horizons_, _Uncanny Magazine_, _PodCastle_, and _Lightspeed_. Her short story "Neither Witch nor Fairy" is on the 2014 Tiptree Award Honor List. She believes in the ritual of lipstick, the power of stories, and the right to change your mind. She can be reached at bridgeofbirds@gmail.com.
-proofread: false
 art: five-stories-in-the-monsoon-night.png
 caption: "Hands pull noodles. In the center, a steaming bowl. Behind that, a menacing snake."
 artist: Ora Xu
 artist-img: ora-xu.jpg
 artist-bio: |
   **Ora Xu** (Ziqi Xu) is a California-based Chinese illustrator and painter. She uses a highly saturated palette of chromatic color in her delighted illustrations. Cute and strange at the same time, her style fits in a wide range of contexts. She got her unique style from her mixed background working in various fields. She has published two award-winning children's books and is currently working with an indie game company. She eats chocolate when her hands are free from painting.
-contentnote:
+contentnote: This story depicts threats of violence to a child, and attempts to coerce a child into unwanted contact.
+proofread: true
 ---
 
 The hand-lettered sign hanging in the Crooked Dragon's front window proclaimed that it had the best wide egg noodles in the city of Tsang, which of course must be taken to mean that it had the best wide egg noodles in the world.

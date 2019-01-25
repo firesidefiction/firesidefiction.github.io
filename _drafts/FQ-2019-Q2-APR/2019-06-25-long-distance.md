@@ -12,7 +12,7 @@ teaser: "But there are other times when she calls to complain: about my absence,
 author-img: raquel-castro.jpg
 author-bio: |
   **Raquel Castro** (Mexico City, 1976) is a writer, scriptwriter, professor and cultural promoter. In 2012 she won the Gran Angular Prize for YA Novel, and as part of the production team for the Mexican TV series _Diálogos en confianza_ she has won the National Journalism Prize twice. She is the author of the novels _Ojos llenos de sombra_, _Lejos de casa_, _Exiliados_, _Dark Doll_, and _Un beso en tu futuro_, as well as the co-anthologist of _Festín de muertos_, a Mexican zombie fiction collection, featuring many of the greatest weird fiction authors from her country. She has a column about children and young adult fiction in _LeeMás_ magazine. Her work has appeared in English in _Latin American Literature Today_, _World Literature Today_, _Nagari_, _Palabras Errantes_ and other publications. She can be found online at her YouTube channel:  [www.youtube.com/AlbertoyRaquelMX](http://www.youtube.com/AlbertoyRaquelMX) and on Twitter as [@raxxie_](https://www.twitter.com/raxxie_).
-proofread: false
+proofread: true
 contentnote:
 ---
 

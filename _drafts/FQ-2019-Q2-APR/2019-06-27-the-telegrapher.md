@@ -12,7 +12,7 @@ proudly clutching the hem of his mother’s dress"
 author-img: resoketswe-manenzhe.jpg
 author-bio: |
   **Resoketswe Mananzhe** is a recent graduate for the Degree of Master of Science in Chemical Engineering (with distinction). Starting in 2015, her poems and short stories have appeared in several online magazines and journals, and in 2017, two of her poems were shortlisted for the Sol Plaatje EU Poetry Anthology, and subsequently published in the anthology of selected poems. She currently lives in Cape Town, South Africa, but recently, she's been known to occasionally wander to the Arctic region, where she fell in love with a small rural town and blueberry pie.
-proofread: false
+proofread: true
 ---
 
 I found the radio he broke.
@@ -32,7 +32,7 @@ He somewhat evolved to manhood:
 he held my weight on his right leg
 and that of my brother on his left.
 Like a river dried and a desert born,
-or the loan shark who hunted on Monday—
+or the loan shark who hunted on Monday —
 like death, fate had caught him.
 
 My mother said:

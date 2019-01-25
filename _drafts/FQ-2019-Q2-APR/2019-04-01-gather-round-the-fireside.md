@@ -7,7 +7,7 @@ published: false
 author-img: julia-rios.jpg
 author-bio: |
   Julia Rios is the Fiction Editor for _Fireside Magazine_. They’re [@omgjulia](https://www.twitter.com/omgjulia) on Twitter.    
-proofread: false
+proofread: true
 ---
 
 Dear Reader,
@@ -22,7 +22,7 @@ As always, we're interested in resistance and hope for change, and in this quart
 
 Our other two essays this round both continue our long-term examination of harassment culture. Derek Newman-Stille writes about their experiences with abuse, hate crimes, and police. Mikki Kendall writes about her experiences with the intersections of racism and sexism. Both essays gave me a lot to think about.
 
-We have some just plain fun stories, too. From adventures in noodle shops ("Five Stories in the Monsoon Night" by Nghi Vo, with an illustration by Ora Xu) to  post-apocalyptic cats ()"Bubbles and His Biped" by Mary Berman) to Mars rovers who are perfect cinnamon buns and will make your heart break because they are so pure and good ("How to Say I Love You With Wikipedia" by Beth Goder, with an illustration by Cat O'Neil). Seriously, though, that last one made me cry in public multiple times during the editing process. You've been warned!
+We have some just plain fun stories, too. From adventures in noodle shops ("Five Stories in the Monsoon Night" by Nghi Vo, with an illustration by Ora Xu) to  post-apocalyptic cats ("Bubbles and His Biped" by Mary Berman) to Mars rovers who are perfect cinnamon buns and will make your heart break because they are so pure and good ("How to Say I Love You with Wikipedia" by Beth Goder, with an illustration by Cat O'Neil). Seriously, though, that last one made me cry in public multiple times during the editing process. You've been warned!
 
 All Best,
 

@@ -11,7 +11,7 @@ teaser: "A yes vote kept the law as it was, protecting transgender people from d
 author-img: a-a-mcnamara.jpg
 author-bio: |
   **A. A. McNamara** is a writer and librarian living in central Massachusetts. Their fiction has appeared in venues such as _Lady Churchill's Rosebud Wristlet_ and _Crossed Genres Magazine_. You can find them on Twitter as [@aamcnamara](https:///www.twitter.com/aamcnamara).   
-proofread: false
+proofread: true
 contentnote:
 ---
 
