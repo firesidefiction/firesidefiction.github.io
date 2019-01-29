@@ -95,9 +95,7 @@ In the reality you were born to (indicated by an impossibly-long series of coord
 
 A sound behind you, your brother in the doorway, holding a juice-box and staring. He’s twelve years old and wants nothing so much as for you not to fight.
 
-"I can’t believe I raised a stupid girl," your mother says.
-
-"Out half the night, drunk, in this town? Don’t you know what could happen to you?"
+"I can’t believe I raised a stupid girl," your mother says. "Out half the night, drunk, in this town? Don’t you know what could happen to you?"
 
 You know, as it happens. Just like you know someone can turn to religion at nineteen, become a teetotaler, like she did, and still get cancer in their mid-thirties.
 
