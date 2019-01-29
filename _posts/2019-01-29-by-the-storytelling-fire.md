@@ -6,14 +6,13 @@ editor: Julia Rios
 date: 2019-01-29 01:00:01 -0500
 category: short story
 permalink: by-the-storytelling-fire
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-007-by-the-storytelling-fire-by-jaymee-goh_-_1719_3.35_PM.mp3
 narrator: C.S.E. Cooney
-published: false
+published: true
 teaser: "The fairy demanded that he kiss the princess, for the fairy had chosen him to break the enchantment on the land. But he refused…"
 author-bio: |
   **Jaymee Goh** is a writer, poet, editrix, and scholar of science fiction and fantasy from the little suburb of Subang Jaya, Selangor, Malaysia. She wrote a dissertation on whiteness and multiculturalism in steampunk at the University of California, Riverside, and is a graduate of the 2016 Clarion Science Fiction and Fantasy Writing Workshop. She co-edited _The SEA Is Ours: Tales of Steampunk Southeast Asia_, and edited _The WisCon Chronicles Vol 11: Trials by Whiteness_.
-
-proofread: false
+proofread: true
 ---
 
 The fire crackled and cast shadows on the trees. They lay on either side of it, watching the fire, but secretly also each other.
