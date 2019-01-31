@@ -20,7 +20,7 @@ proofread: false
 
 2. Keep busy by reading the status updates of other Chamber women. Judge them mercilessly. Can you believe #7 only has 10 follicles growing?
 
-Try not to think about the fact that your ovaries are essential to the survival of human civilization on Mars. No pressure, body.
+3. Try not to think about the fact that your ovaries are essential to the survival of human civilization on Mars. No pressure, body.
 
 Before I go to bed for my mandatory ten hours of sleep, I read bootleg downloads of trashy Earth romance novels. The other women discourage me from doing this; reading anything so base from Earth is taboo. Our great-grandparents left Earth for a reason, they say. Relationships have evolved.
 
