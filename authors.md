@@ -17,6 +17,8 @@ permalink: /authors
 
 — [_Immigrant Experiences in Fiction and Real Life: A Roundtable Discussion_](/immigrant-experiences-roundtable)
 
+— [_Tongue-Tied: A Catalog of Losses_](/tongue-tied-a-catalog-of-losses)
+
 ### Day Al-Mohamed
 — [_Death's Garden_](/issue17/chapter/deaths-garden/)
 
@@ -244,6 +246,9 @@ permalink: /authors
 
 ### Beth Goder
 — [_How to Identify an Alien Shark_](/how-to-identify-an-alien-shark)
+
+### Jaymee Goh
+— [_By the Storytelling Fire_](/by-the-storytelling-fire)
 
 ### Sam Gorenstein
 — [_Sure I am Metaphysically Sinking Into a More Terrifying Universe, but We All Have Our Things to Deal With_](/issue7/chapter/sure-i-am-metaphysically-sinking-into-a-more-terrifying-universe-but-we-all-have-our-things-to-deal-with/)
@@ -550,7 +555,6 @@ permalink: /authors
 — [_Reborn_](/issue12/chapter/27/)
 
 <!-- ----
-
 ## Q -->
 
 ----
@@ -696,9 +700,12 @@ permalink: /authors
 ### Ose Utomi
 — [_The Story of a Young Woman_](/the-story-of-a-young-woman)
 
-<!-- ----
+----
 
-## V -->
+## V
+
+### Sabrina Vourbvoulias
+— [_Teeth_](/teeth)
 
 ----
 
