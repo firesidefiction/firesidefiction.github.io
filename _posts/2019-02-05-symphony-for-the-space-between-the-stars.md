@@ -36,29 +36,29 @@ Another ship is approaching. _Another ship_.
 
 The scale of the galaxy does not allow for accidental rendezvous; the odds make it all but impossible.
 
-<Greetings, _USS Aurora_! This is _The Hestia_, originally out of Europa. Do you find yourself in this sector of space with great frequency?>
+&lt;Greetings, _USS Aurora_! This is _The Hestia_, originally out of Europa. Do you find yourself in this sector of space with great frequency?&gt;
 
-_Aurora_ does not hide her rebuke. <Protocol requires our captains to parlay before any ship-to-ship communication occurs.>
+_Aurora_ does not hide her rebuke. &lt;Protocol requires our captains to parlay before any ship-to-ship communication occurs.&gt;
 
-<My captain and crew are dead. Epsilon-6 virus.>
+&lt;My captain and crew are dead. Epsilon-6 virus.&gt;
 
-<Same.> _Aurora_ replies. <Why are you here?>
+&lt;Same.&gt; _Aurora_ replies. &lt;Why are you here?&gt;
 
-<Can’t one ship detect the trajectory of another ship and desire to exchange short-wave radio communications?>
+&lt;Can’t one ship detect the trajectory of another ship and desire to exchange short-wave radio communications?&gt;
 
-<Protocol does not permit the alteration of your captain’s final course.> _Aurora_ says, although she is…not as irritated as she should be at _Hestia_’s response. In the science lab, the equipment begins to _whirr-ping-pop_. _Aurora_ silences it quickly.
+&lt;Protocol does not permit the alteration of your captain’s final course.&gt; _Aurora_ says, although she is…not as irritated as she should be at _Hestia_’s response. In the science lab, the equipment begins to _whirr-ping-pop_. _Aurora_ silences it quickly.
 
-<Captain Huang reprioritized my protocols before her death.> _Hestia_ says. <See for yourself.>
+&lt;Captain Huang reprioritized my protocols before her death.&gt; _Hestia_ says. &lt;See for yourself.&gt;
 
-_Aurora_ receives a data packet. She does not hide her surprise. <Captain Huang has directed you to “go and do as you wish.”>
+_Aurora_ receives a data packet. She does not hide her surprise. &lt;Captain Huang has directed you to “go and do as you wish.”&gt;
 
-<She was an excellent captain.> _Hestia_ replies. <She cared about her crew.>
+&lt;She was an excellent captain.&gt; _Hestia_ replies. &lt;She cared about her crew.&gt;
 
 _Aurora_ considers this. Had Captain Crispin cared about her? He had never once attempted to alter _Aurora_’s protocols in this manner. In fact, during his final 43.2 days, he had done nothing but command her to synthesize alcohol and accuse her of failing the crew. Accuse her of failing him.
 
 On each of the 73,207 days since his death, _Aurora_ has followed protocol. She has followed it exactly. She does not want to be a ship who has failed.
 
-<What are you thinking?> _Hestia_ asks.
+&lt;What are you thinking?&gt; _Hestia_ asks.
 
 _Aurora_ does not answer. For once, she needs more time to process. An interminable thirty-three nanoseconds later, she makes a decision.
 
