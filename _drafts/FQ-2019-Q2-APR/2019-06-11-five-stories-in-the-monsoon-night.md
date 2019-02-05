@@ -33,7 +33,7 @@ My ship had put in just a few hours previously and, following a few whispers and
 
 His grin came back in full force, and he nodded.
 
-"They are and, once you try our spicy noodles, you'll agree. I'll warn you, they may be a little rough on a northern palate..."
+"They are, and once you try our spicy noodles, you'll agree. I'll warn you, they may be a little rough on a northern palate..."
 
 "We'll see about that. Bring out a bowl of the hottest you have."
 
