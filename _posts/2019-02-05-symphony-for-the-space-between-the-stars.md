@@ -16,7 +16,7 @@ author-bio: |
 proofread: true
 ---
 
-At 0600 hours, _Aurora_ brews coffee, intensifies the lights to 800 lumens, and heats the ship to an optimal 70.2 degrees, all according to protocol. Captain Crispin does not like classical music but _Aurora_’s protocols do not explicitly forbid her from playing it. Today she has chosen Copeland’s _Appalachian Spring_, a particular favorite of Engineer Mohammad, and a piece she finds suitably invigorating for morning. As it echoes through her hull, _Aurora_ assesses the bridge, crew quarters, and recreation spaces for anomalies. She has not registered one in 73,207 days.
+At 0600 hours, _Aurora_ brews coffee, intensifies the lights to 800 lumens, and heats the ship to an optimal 70.2 degrees, all according to protocol. Captain Crispin does not like classical music but _Aurora_’s protocols do not explicitly forbid her from playing it. Today she has chosen Copland’s _Appalachian Spring_, a particular favorite of Engineer Mohammad, and a piece she finds suitably invigorating for morning. As it echoes through her hull, _Aurora_ assesses the bridge, crew quarters, and recreation spaces for anomalies. She has not registered one in 73,207 days.
 
 _Aurora_ calibrates the nav system, runs the standard simulations, and makes no changes to her trajectory or speed. With the damage to her main drive system, _Aurora_ will reach Earth orbit in almost 10^10 years. Even for _Aurora_, this is a long time. Her systems will cease to function long before she arrives at her destination. But her protocol is clear. She will follow the last path set by her captain.
 
