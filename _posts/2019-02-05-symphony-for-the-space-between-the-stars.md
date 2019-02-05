@@ -7,6 +7,7 @@ date: 2019-02-05 01:00:01 -0500
 category: short story
 permalink: symphony-for-the-space-between-the-stars
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-008-symphony-for-the-space-between-the-stars-by-jenn-reese_-_1719_3.34_PM.mp3
+narrator: C.S.E. Cooney
 published: true
 teaser: "Her systems will cease to function long before she arrives at her destination. But her protocol is clear. She will follow the last path set by her captain."
 author-img: jenn-reese.jpg

@@ -7,6 +7,7 @@ date: 2019-02-12 01:00:01 -0500
 category: short story
 permalink: the-autumn-of-june
 audiourl:
+narrator: C.S.E. Cooney
 published: false
 teaser: "Few mortals could ever have used that shield. She is a very special woman, your grandmother."
 author-img: stu-west.jpg

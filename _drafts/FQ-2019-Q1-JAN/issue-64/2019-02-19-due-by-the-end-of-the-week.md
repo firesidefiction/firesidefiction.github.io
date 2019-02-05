@@ -7,6 +7,7 @@ date: 2019-02-19 01:00:01 -0500
 category: short story
 permalink: due-by-the-end-of-the-week
 audiourl:
+narrator: C.S.E. Cooney
 published: false
 teaser: "Twenty percent of my final grade. Wrapped up in a class presentation with a ditzy cheerleader who has been in class maybe five periods total."
 author-img: brandon-obrien.jpg

@@ -7,6 +7,7 @@ date: 2019-02-21 01:00:01 -0500
 category: essay
 permalink: step-into-the-bad-side-black-girl-magic-villains
 audiourl:
+narrator: C.S.E. Cooney
 published: false
 teaser: "Having virtuous Black female characters isn’t harmful by itself, but in not embracing the negative aspects of humanity it gives a limited view of the human experience…"
 author-img: kenesha-williams.jpg
