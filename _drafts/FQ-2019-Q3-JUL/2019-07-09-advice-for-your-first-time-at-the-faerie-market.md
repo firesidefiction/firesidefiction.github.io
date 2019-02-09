@@ -3,7 +3,7 @@ layout: story
 title: Advice For Your First Time at the Faerie Market
 author: Nibedita Sen
 editor: Julia Rios
-date: 2019-07-02]9 01:00:01 -0500
+date: 2019-07-02 01:00:01 -0500
 category: short story
 permalink: advice-for-your-first-time-at-the-faerie-market
 audiourl:
