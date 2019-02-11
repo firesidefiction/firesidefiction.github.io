@@ -728,6 +728,8 @@ permalink: /authors
 ### Stu West
 — [_The Scenarist_](/the-scenarist)
 
+— [_The Autumn of June_](/the-autumn-of-june)
+
 ### Troy L. Wiggins
 — [_Black Like Them_](/issue39/chapter/black-like-them/)
 
