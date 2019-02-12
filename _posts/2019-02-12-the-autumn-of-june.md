@@ -8,7 +8,7 @@ category: short story
 permalink: the-autumn-of-june
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-009-the-autumn-of-june-by-stu-west_-_1719_3.30_PM.mp3
 narrator: C.S.E. Cooney
-published: false
+published: true
 teaser: "Few mortals could ever have used that shield. She is a very special woman, your grandmother."
 author-img: stu-west.jpg
 author-bio: |
