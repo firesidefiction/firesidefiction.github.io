@@ -6,14 +6,14 @@ editor: Julia Rios
 date: 2019-02-12 01:00:01 -0500
 category: short story
 permalink: the-autumn-of-june
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-009-the-autumn-of-june-by-stu-west_-_1719_3.30_PM.mp3
 narrator: C.S.E. Cooney
 published: false
 teaser: "Few mortals could ever have used that shield. She is a very special woman, your grandmother."
 author-img: stu-west.jpg
 author-bio: |
   **Stu West** was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the _Trailer Park of Terror_ comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://www.twitter.com/stuwest).
-proofread: false
+proofread: true
 ---
 
 I always knew my grandmother was friends with the gods. I often came home from school to find them sitting around the kitchen table, muscular and athletic in their baggy gym clothes and plain white t-shirts.
