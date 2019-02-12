@@ -17,6 +17,7 @@ contentnote:
 ---
 
 "It's me," Phil lies. "It's Phil. It's daddy."
+
 Mira and Christy — Phil's wife, Phil's daughter — stare at him, daring themselves to believe. Mira puts her hands on Christy's small shoulders: holding her back, or pushing her forward. The door to Phil's room is open and in the corridor outside one of his doctors strolls by, two technicians in tow. She slows her step to peep inside the room. When Phil catches her staring, she flushes and moves on fast.
 
 It's all been leading to this. Learning to use this body of false flesh, submitting to the fine-tuning of technicians and neurologists and psychiatrists; before that, lying still for the long hollow hours that it takes for a lifetime's worth of memories to be shunted into storage.
