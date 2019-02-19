@@ -507,6 +507,8 @@ permalink: /authors
 ### Brandon O’Brien
 — [_Getting Men Off Ledges_](/getting-men-off-ledges)
 
+— [_Due By the End of the Week_](/due-by-the-end-of-the-week)
+
 ### Sandra M. Odell
 — [_Listening to it Rain_](/issue5/chapter/listening-to-it-rain/)
 
@@ -566,6 +568,9 @@ permalink: /authors
 
 ### Ace Ratcliff
 — [_Who Gets to Say #MeToo?_](/who-gets-to-say-metoo)
+
+### Jenn Reese
+— [_Symphony for the Space Between the Stars_](/symphony-for-the-space-between-the-stars)
 
 ### Jason Ridler
 — [_Rocket Ship Nirvana_](/issue12/chapter/30/)
@@ -680,6 +685,9 @@ permalink: /authors
 
 ### Jordan Taylor
 — [_Red as Blood, White as Snow, Black as Ebony_](/issue32/chapter/red-as-blood-white-as-snow-black-as-ebony/)
+
+### Sheree Renée Thomas
+— [_Roots to Touch Sky_](/roots-to-touch-sky)
 
 ### Sydnee Thompson
 — [_The Paladin Protocol_](/the-paladin-protocol)

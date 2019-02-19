@@ -6,9 +6,9 @@ editor: Julia Rios
 date: 2019-02-19 01:00:01 -0500
 category: short story
 permalink: due-by-the-end-of-the-week
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-011-due-by-the-end-of-the-week-by-brandon-obrien_-_1719_3.28_PM.mp3
 narrator: C.S.E. Cooney
-published: false
+published: true
 teaser: "Twenty percent of my final grade. Wrapped up in a class presentation with a ditzy cheerleader who has been in class maybe five periods total."
 author-img: brandon-obrien.jpg
 author-bio: |
@@ -19,7 +19,7 @@ artist: Ashanti Fortson
 artist-img: ashanti-fortson.jpg
 artist-bio: |
   **Ashanti Fortson** is an illustrator and cartoonist with a deep love for kind stories and fantastical settings. Their work has been published by _ZEAL_ and _The Nib_, as well as in various comics anthologies. They make a space fantasy webcomic called _Galanthus_, and they hope to one day see the Milky Way. You can reach them at ashantifortson@gmail.com.
-proofread: false
+proofread: true
 ---
 
 The only thing I hate more than group assignments is group assignments with Kelly Francis.
