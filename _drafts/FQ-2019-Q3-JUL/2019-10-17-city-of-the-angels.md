@@ -8,7 +8,7 @@ date: 2019-09-17 01:00:01 -0500
 category: short story
 permalink: city-of-the-angels
 published: false
-teaser: "But there are other times when she calls to complain: about my absence, about her loneliness, about how cold I’ve become with her..."
+teaser: "If the conquistadors are going to build this city, does that mean that now the angels will work with the Spanish clergy and be their allies?"
 author-img: libia-brenda.jpg
 author-bio: |
   **Libia Brenda** (Puebla, 1974) studied Hispanic Language and Literature, has spent the last twenty years making books, and writes science fiction and fantasy short stories. She is the co-founder of the Cúmulo de Tesla collective ([@Cumulodetesla](https://www.twitter.com/Cumulodetesla)), a multidisciplinary working group that promotes the dialogue between the arts and sciences, with a special focus on science fiction. She has published stories, reviews, and essays in online and printed magazines, as well as various anthologies. She has a secret identity dedicated to gastronomy.
