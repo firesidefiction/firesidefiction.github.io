@@ -48,9 +48,9 @@ A seraphim intervened.
 
 The din of discussion inundated the auditorium until Gabriel cleared his throat and began to speak. His tone was calm, but his voice reached every corner of the room.
 
-“Sisters, brothers, we are guardians. We watch, we are messengers, and we help the innocent. There are entire peoples in danger and we know that even worse times lie ahead. If our primary task is to protect, is it not better that we have a place of our own where we can receive petitions for help? And are not protection and help a form of interference? We personify the most numerous force of good. What are we going to do to help all those troubled, war-wounded souls? I’m with Michael: however discreetly, it is our duty to take sides with the victims.”
+“Sisters, brothers, we are guardians. We watch, we are messengers, we help the innocent. Our primary task has always been  to protect, and that is a form of interference. We won’t change our actions. A place of our own where we can receive petitions for help will serve to let us do our job more diligently. There are entire peoples in danger and we know that even worse times lie ahead. I’m with Michael: however discreetly, it is our duty to take sides with the victims. We personify the most numerous force of good. If we don’t help all those troubled, war-wounded souls, who will?”
 
-“But,” Sariel said, “if the conquistadors are going to build this city, does that mean that now the angels will work with the Spanish clergy and be their allies? We cannot make that alliance.”
+“But,” Sariel said, “if the conquistadors are going to build this city, does that mean that now the angels will work with the Spanish clergy and be their allies? We cannot make that deal.”
 
 Uriel resolved the matter.
 
