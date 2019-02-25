@@ -52,7 +52,7 @@ audio {
 			content: '• • •';
 		}
 	}
-	.content p:first-child {
+	.content p:first-child, hr + p {
 		text-indent: 0;
 		//margin-top: $space-double;
 	}

@@ -365,6 +365,9 @@ permalink: /authors
 
 — [_Immigrant Experiences in Fiction and Real Life: A Roundtable Discussion_](/two-years-dead)
 
+### Jennifer Stephan Kapral
+— [_A Martian Woman's Guide to Surviving the Gravity Chamber_](/a-martian-womans-guide-to-surviving-the-gravity-chamber)
+
 ### Jake Kerr
 — [_Perspective_](/issue2/chapter/perspective/)
 
@@ -745,6 +748,9 @@ permalink: /authors
 — [_Choose Wisely_](/choose-wisely)
 
 — [_You Wake Up Monstrous_](/you-wake-up-monstrous)
+
+### Kenesha Williams
+— [_Step into the Bad Side: Black Girl Magic Villains_](/step-into-the-bad-side-black-girl-magic-villains)
 
 ### Takim Williams
 — [_Inner Space_](/inner-space)
