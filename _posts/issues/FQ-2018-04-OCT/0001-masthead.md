@@ -31,7 +31,7 @@ Brian J. White
 The muckraker your momma warned you about.
 
 
-_Fireside_ is typeset in Museo Slab and Museo Sans in print and on screen. Both type families were designed by Jos Buivenga for the exljbris Font Foundry.
+_Fireside_ is typeset in abril text and Museo Sans in print and on screen. Both type families were designed by Jos Buivenga for the exljbris Font Foundry.
 
 _Fireside_ is published weekly on firesidefiction.com
 and four times a year in print from Brooklyn, NYC.
