@@ -4,7 +4,7 @@ title: Parasitism
 author: Alberto Chimal
 editor: Julia Rios
 date: 2019-03-01 01:00:01 -0500
-category: short story translation
+category: translated short story
 permalink: parasitism
 translated: yes
 language: english

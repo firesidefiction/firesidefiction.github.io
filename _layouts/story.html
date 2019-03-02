@@ -14,6 +14,18 @@ layout: default
     <p>{% if page.spanish-date %}{{ page.spanish-date }}{% else %}{{ page.date | date: "%B %Y" }}{% endif %}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}
 </header>
 
+{% if page.spanish-url %}
+  <div class="language-note">
+    <p><a href="{{ page.spanish-url | relative_url }}">Lea éste cuento en español</a></p>
+  </div>
+{% endif %}
+
+{% if page.english-url %}
+  <div class="language-note">
+    <p><a href="{{ page.english-url | relative_url }}">Read this story in English</a></p>
+  </div>
+{% endif %}
+
 {% if page.audiourl %}
   <div class="contentnote">
     {% if page.spanish-language %}
