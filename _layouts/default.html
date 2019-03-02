@@ -6,7 +6,11 @@
   <body>
 
     <header role="banner" id="top-of-page">
-      {% include navigation.html %}
+      {% if page.spanish-language %}
+        {% include navigation-sp.html %}
+      {% else %}
+        {% include navigation.html %}
+      {% endif %}
     </header>
 
     <main aria-label="Content">
@@ -14,6 +18,25 @@
         {{ content }}
       </section>
     </main>
+
+    {% if page.spanish-language %}
+    <footer>
+      <hr/>
+      {% include company-slug-sp.html %}
+      {% include navigation-extended-sp.html %}
+      {% include social-media-icons-sp.html %}
+      <hr/>
+      {% include marketing-sp.html %}
+      <hr/>
+      {% include quarterly-call-to-action-sp.html %}
+      <hr/>
+      {% include legal.html %}
+    </footer>
+
+    {% include small-navigation-sp.html %}
+    {% include subscribe-banner-sp.html %}
+
+    {% else %}
 
     <footer>
       <hr/>
@@ -30,6 +53,7 @@
 
     {% include small-navigation.html %}
     {% include subscribe-banner.html %}
+    {% endif %}
 
   </body>
 
