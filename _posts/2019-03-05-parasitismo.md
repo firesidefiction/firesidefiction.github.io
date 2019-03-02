@@ -3,17 +3,16 @@ layout: story
 title: Parasitismo
 author: Alberto Chimal
 editor: Julia Rios
-date: 2019-03-01 01:00:01 -0500
+date: 2019-03-05 01:00:01 -0500
 category: cuento corto
 permalink: parasitismo
 translated: yes
 spanish-language: yes
-contentnote: Here goes a content note. Yeah, it can be sorta long but not too long cause brevity, dude.
 spanish-date: Marzo 2019
 english-url: parasitism
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-014-parasitismo-por-alberto-chimal_-_1719_3.25_PM.mp3
 narrator: Pablo Defendini
-published: true
+published: false
 teaser: "Pero así es como la verdad sobre las sirenas se ha ido olvidando, y hoy la saben y la conservan muy pocas personas."
 author-img: alberto-chimal.jpg
 author-bio: |
