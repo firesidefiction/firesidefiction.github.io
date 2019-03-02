@@ -14,6 +14,34 @@ article {
 	}
 }
 
+.story-controls {
+	@media all and (min-width: 690px) {
+		display: flex;
+		align-items: flex-end;
+	}
+	margin: $space-double 0;
+	border-bottom: 1px solid $gray-dark-2;
+	padding-bottom: $space-double;
+}
+.language-note {
+	font-family: $font-secondary;
+	font-size: $font-size-small;
+	min-width: 20em;
+	.btn {
+		margin-bottom: .5em;
+	}
+}
+
+.audiomodule {
+	font-family: $font-secondary;
+	font-size: $font-size-small;
+	flex-grow: 3;
+	p {
+		text-indent: 0 !important;
+		margin-bottom: $space-half !important;
+	}
+}
+
 .contentnote, .index-callout {
 	margin: 2em 0;
 	h4 {
@@ -23,7 +51,7 @@ article {
 		color: $gray-dark-2;
 		font-family: $font-secondary;
 		font-style: italic;
-		text-indent: 0;
+		text-indent: 0 !important;
 		&:first-of-type {
 			text-indent: 0;
 		}
@@ -33,7 +61,6 @@ article {
 .contentnote {
 	border-bottom: 1px solid $gray-dark-2;
 	padding-bottom: $space-double;
-
 }
 
 audio {
