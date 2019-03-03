@@ -12,7 +12,7 @@ language: english
 spanish-url: parasitismo
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-015-parasitism-by-alberto-chimal_-_1719_3.24_PM.mp3
 narrator: Carlos Hernandez
-published: true
+published: false
 teaser: "But this is how the truth about mermaids has been forgotten, so today only a few people know and preserve it."
 author-img: alberto-chimal.jpg
 author-bio: |
