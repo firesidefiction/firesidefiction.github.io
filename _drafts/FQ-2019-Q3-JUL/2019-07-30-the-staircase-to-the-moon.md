@@ -11,8 +11,14 @@ published: false
 teaser: "Earth goddesses always die for their people."
 author-img: m-k-hutchins.jpg
 author-bio: |
-M.K. Hutchins regularly draws on her background in archaeology when writing fiction.  Her YA fantasy novel _Drift_ was a VOYA Topshelf Honoree, and her next novel, _The Redwood Palace_, is coming out in July 2019. Her short fiction appears in _Fireside Magazine_, _Podcastle_, _Strange Horizons_, and elsewhere. A long-time Idahoan, she now lives in Utah with her husband and four children. Find her at [www.mkhutchins.com](http://www.mkhutchins.com).
+  M.K. Hutchins regularly draws on her background in archaeology when writing fiction.  Her YA fantasy novel _Drift_ was a VOYA Topshelf Honoree, and her next novel, _The Redwood Palace_, is coming out in July 2019. Her short fiction appears in _Fireside Magazine_, _Podcastle_, _Strange Horizons_, and elsewhere. A long-time Idahoan, she now lives in Utah with her husband and four children. Find her at [www.mkhutchins.com](http://www.mkhutchins.com).
 proofread: false
+art: the-staircase-to-the-moon.png
+caption: "TK"
+artist: Mary Haasdyk
+artist—img: mary-haasdyk.jpg
+artist—bio: |
+  **Mary Haasdyk** is a Calgary-based illustrator who studied at Alberta College of Art + Design. She enjoys drawing and painting both traditionally and digitally and doesn’t like being caught without her sketchbook on hand. Clients include Tor.com, ATB Financial and Frontenac House. You can follow her latest projects on instagram @maryhaasdyk 
 contentnote:
 ---
 

@@ -11,7 +11,7 @@ published: false
 teaser: "Dignity is important for the dead, so we are taught."
 author-img: michelle-muenzler.jpg
 author-bio: |
-[Michelle Muenzler](http://www.michellemuenzler.com/), known at local science fiction and fantasy conventions as “The Cookie Lady”, writes fiction both dark and strange to counterbalance the sweetness of her baking. Her short fiction and poetry can be read in numerous science fiction and fantasy magazines, and she takes immense joy in crinkling words like little foil puppets.
+  [Michelle Muenzler](http://www.michellemuenzler.com/), known at local science fiction and fantasy conventions as “The Cookie Lady”, writes fiction both dark and strange to counterbalance the sweetness of her baking. Her short fiction and poetry can be read in numerous science fiction and fantasy magazines, and she takes immense joy in crinkling words like little foil puppets.
 proofread: false
 contentnote:
 ---
