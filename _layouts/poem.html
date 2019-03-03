@@ -4,29 +4,54 @@ layout: default
 
 <article>
 
-  <header class="post-header">
-    <p class="category">{{ page.date | date: "%b %-d, %Y" }} | {{ page.category }}</p>
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    {% if page.author %}<h2>By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
-    {% if page.editor %}<p>Edited by {{ page.editor }}</p>{% endif %}
-  </header>
+  <header class="story-header">
+    <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+    {% if page.author %}<h2 class="byline">{% if page.spanish-language %}por{% else %}by{% endif %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
+    <p>{% if page.selected %}Selected by {{ page.selected }}; {% endif %}{% if page.spanish-language %}Editado por {% else %}Edited by {% endif %}{% if page.editor %}{{ page.editor }}{% else %}Brian J. White</p>{% endif %}
+    <p>{% if page.translated %}Translated by {{ page.translator }}{% endif %}</p>
+    <p>{% if page.spanish-date %}{{ page.spanish-date }}{% else %}{{ page.date | date: "%B %Y" }}{% endif %}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}
+</header>
 
-{% if page.contentnote %}
-  <div class="contentnote authornote">
-    <p>{{ page.contentnote | markdownify }}</p>
-  </div>
-{% endif %}
+  <div class="story-controls">
+    {% if page.spanish-url %}
+      <div class="language-note">
+        <a href="{{ page.spanish-url | relative_url }}" class="btn">Lea éste cuento en español</a>
+      </div>
+    {% endif %}
 
-{% if page.audiourl %}
-  <div class="contentnote">
-    <p>Listen to this {{ page.category }}, narrated by {{ page.narrator }}:</p>
-    <br/>
-    <audio controls>
-      <source src="{{ page.audiourl }}" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
+    {% if page.english-url %}
+      <div class="language-note">
+        <a href="{{ page.english-url | relative_url }}" class="btn">Read this story in English</a>
+      </div>
+    {% endif %}
+
+    {% if page.audiourl %}
+      <div class="audiomodule">
+        {% if page.spanish-language %}
+          <p>Escuche este cuento, narrado por {{ page.narrator }}:</p>
+          {% else %}
+          <p>Listen to this story, narrated by {{ page.narrator }}:</p>
+        {% endif %}
+        <audio controls>
+          <source src="{{ page.audiourl }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+      </div>
+    {% endif %}
   </div>
-{% endif %}
+
+  {% if page.contentnote %}
+    <div class="contentnote">
+      <h4>Content Note:</h4>
+      <p>{{ page.contentnote  | markdownify }}</p>
+    </div>
+  {% endif %}
+
+  {% if page.generalnote %}
+    <div class="contentnote">
+      <p>{{ page.generalnote  | markdownify }}</p>
+    </div>
+  {% endif %}
 
   <div>
     {{ content }}

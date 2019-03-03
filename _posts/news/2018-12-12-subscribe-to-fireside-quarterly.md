@@ -29,6 +29,6 @@ So if you value great stories, fantastic artwork, and beautiful printed objects,
     <h3>$10.00 per month</h3><br>
     <a href="https://firesidefiction.memberful.com/checkout?plan=25789" class="btn">Fireside Quarterly — $10.00</a>
     <br>
-    <small><!--<a href="https://firesidefiction.memberful.com/checkout?plan=25936">Subscribe for a Year</a> | --><a href="https://firesidefiction.memberful.com/gift?plan=25936">Send as a gift</a></small>
+    <small><a href="https://firesidefiction.memberful.com/checkout?plan=25936">Subscribe for a Year</a> | <a href="https://firesidefiction.memberful.com/gift?plan=25936">Send as a gift</a></small>
   </div>
 </div>

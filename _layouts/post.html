@@ -11,24 +11,48 @@ layout: default
     {% if page.editor %}<p>Edited by {{ page.editor }}</p>{% endif %}
   </header>
 
-{% if page.contentnote %}
-  <div class="contentnote authornote">
-    <p>{{ page.contentnote | markdownify }}</p>
-  </div>
-{% endif %}
+  <div class="story-controls">
+    {% if page.spanish-url %}
+      <div class="language-note">
+        <a href="{{ page.spanish-url | relative_url }}" class="btn">Lea éste cuento en español</a>
+      </div>
+    {% endif %}
 
-{% if page.audiourl %}
-  <div class="contentnote">
-    <p>Listen to this {{ page.category }}, narrated by {{ page.narrator }}:</p>
-    <br/>
-    <audio controls>
-      <source src="{{ page.audiourl }}" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
-  </div>
-{% endif %}
+    {% if page.english-url %}
+      <div class="language-note">
+        <a href="{{ page.english-url | relative_url }}" class="btn">Read this story in English</a>
+      </div>
+    {% endif %}
 
-  <div>
+    {% if page.audiourl %}
+      <div class="audiomodule">
+        {% if page.spanish-language %}
+          <p>Escuche este cuento, narrado por {{ page.narrator }}:</p>
+          {% else %}
+          <p>Listen to this story, narrated by {{ page.narrator }}:</p>
+        {% endif %}
+        <audio controls>
+          <source src="{{ page.audiourl }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+      </div>
+    {% endif %}
+  </div>
+
+  {% if page.contentnote %}
+    <div class="contentnote">
+      <h4>Content Note:</h4>
+      <p>{{ page.contentnote  | markdownify }}</p>
+    </div>
+  {% endif %}
+
+  {% if page.generalnote %}
+    <div class="contentnote">
+      <p>{{ page.generalnote  | markdownify }}</p>
+    </div>
+  {% endif %}
+
+  <div class="nonfiction">
     {{ content }}
     {% include bios.html %}
   </div>
