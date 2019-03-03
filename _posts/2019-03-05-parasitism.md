@@ -7,6 +7,7 @@ date: 2019-03-05 01:00:01 -0500
 category: translated short story
 permalink: parasitism
 translated: yes
+translator: Julia Rios
 language: english
 spanish-url: parasitismo
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-015-parasitism-by-alberto-chimal_-_1719_3.24_PM.mp3

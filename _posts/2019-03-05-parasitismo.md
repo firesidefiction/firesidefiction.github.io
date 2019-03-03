@@ -6,7 +6,6 @@ editor: Julia Rios
 date: 2019-03-05 01:00:01 -0500
 category: cuento corto
 permalink: parasitismo
-translated: yes
 spanish-language: yes
 spanish-date: Marzo 2019
 english-url: parasitism
