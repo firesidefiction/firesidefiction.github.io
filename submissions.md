@@ -36,13 +36,13 @@ We accept short stories up to 4,000 words. Our budget allows us to pay for up to
 - Double spaced Doc, Docx, or RTF files set in a 14 point serif font like Times New Roman.
 - Cover letters are optional, but they are great places to tell us about your connection the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
 - Only one story — no multiple submissions.
+- Simultaneous submissions are okay for stories, but we ask that you please withdraw immediately if you take another offer.
 
 ### Please don’t send us:
 - Stories that promote fascism, racism, sexism, homophobia, ableism, etc.
 - Stories longer than 4,000 words (we cannot consider these, unfortunately).
 - PDF files or submissions pasted into the body of an email.
 - Stories that use intellectual property that is under copyright (we don’t want to get sued).
-- Stories that are currently being considered elsewhere (no simultaneous submissions).
 
 ### What to expect from us:
 - Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
@@ -64,11 +64,11 @@ Fireside is currently closed to submissions for poetry. We don't have upcoming d
 - The poetry only you can write, that comes from your perspective and heart. We are especially interested in poems that complement and challenge the issues and themes Fireside tends to engage with. For more on that, see our [Values page](https://firesidefiction.com/values).
 - Doc, Docx, or RTF files. Poetry can be formatted in whatever way feels best to you. We don’t require double spacing for this kind of submission. For poetry only, PDF files are also acceptable.
 - Poems that have never been published in the English language before (translations are okay!).
+- Simultaneous submissions are okay for poems, but we ask that you please withdraw immediately if you take another offer.
 
 ### Please don’t send us:
 - Poems that promote fascism, racism, sexism, homophobia, ableism, etc.
 - Poems pasted into the body of an email.
-- Poems that are currently being considered elsewhere (no simultaneous submissions).
 
 ### What to expect from us:
 - Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication.
