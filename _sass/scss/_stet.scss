@@ -28,6 +28,17 @@
 		grid-template-columns: 25% auto 25%;
 		grid-template-rows: auto auto;
 	}
+	p {
+		margin-bottom: 0;
+		&:first-child:first-letter {
+		  color: $color__base;
+			font-weight: 300;
+			float: none;
+		  font-size: 1em;
+		  line-height: inherit;
+			padding: 0;
+		}
+	}
 }
 
 .prime-text {
