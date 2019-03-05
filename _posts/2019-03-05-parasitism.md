@@ -12,12 +12,12 @@ language: english
 spanish-url: parasitismo
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-015-parasitism-by-alberto-chimal_-_1719_3.24_PM.mp3
 narrator: Carlos Hernandez
-published: false
+published: true
 teaser: "But this is how the truth about mermaids has been forgotten, so today only a few people know and preserve it."
 author-img: alberto-chimal.jpg
 author-bio: |
   **Alberto Chimal** is the author of the novels _La torre y el jardín_, which was shortlisted for the Rómulo Gallegos International Novel Prize in 2013, _Los esclavos_ and _Cartas para Lluvia_, as well as fifteen short-story collections, including micro- and Twitter-fiction, and two essay collections. He has won a number of literary prizes in Mexico, such as the San Luis Potosí National Short Story Prize and the Colima National Award for Fiction, and his work has appeared in English in _The Kenyon Review_, _FLURB_, _Nagari_, _Asymptote_, _Latin American Literature Today_, and _World Literature Today_. Some of his short fiction has been anthologized in _Best Short Fiction_, _Flash Fiction International_, _Three Messages and a Warning_, and _A Larger Reality_. He teaches literature and creative writing, blogs at [www.lashistorias.com.mx](http://www.lashistorias.com.mx), tweets at [@albertochimal](https://www.twitter.com/albertochimal), and has a literary YouTube channel with his wife, writer Raquel Castro, at [youtube.com/AlbertoyRaquelMX](http://www.youtube.com/AlbertoyRaquelMX). They both live in Mexico City.
-proofread: false
+proofread: true
 ---
 
 A girl listens, ecstatic, to tales of mermaids. On its own, this is a lovely image. Mothers and fathers like to see their little ones’ delight when they talk to them about those “sweet, kind beings, with green hair and bright tails.”
