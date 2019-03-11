@@ -6,9 +6,9 @@ editor: Julia Rios
 date: 2019-03-12 01:00:01 -0500
 category: short story
 permalink: the-blanched-bones-the-tyrant-wind
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-016-the-blanched-bones-the-tyrant-wind-by-karen-osborne_-_1719_3.24_PM.mp3
 narrator: C.S.E. Cooney
-published: false
+published: true
 teaser: "I hope I am so sticky and rangy that he cannot force the hate in my veins down his steel throat. I hope he chokes on my solid, frozen heart."
 author-img: karen-osborne.jpg
 author-bio: |
@@ -19,7 +19,7 @@ artist: Bernard Lee
 artist-img: bernard-lee.jpg
 artist-bio: |
   **Bernard Lee** was born and raised in Orange County, CA and graduated with a BFA in Illustration from Syracuse University. After working in New York City for a few years as an Art Director at Scientific American, he now resides in California again creating illustrations for the publishing, editorial and entertainment industries as well as for private collectors. Past clients include Rockstar Games, _Variety_, _Scientific American_, Macmillan, _VICE_ and more.
-proofread: false
+proofread: true
 ---
 
 
