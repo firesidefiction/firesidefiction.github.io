@@ -11,6 +11,7 @@ layout: default
     <p class="category">{{ page.date | date: "%b %-d, %Y" }} | {{ page.category }}</p>
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     {% if page.author %}<h2>By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
+    {% if page.editor %}<p>Edited by {{ page.editor }}</p>{% endif %}
   </header>
 
   {% if page.audiourl %}
@@ -28,7 +29,4 @@ layout: default
     {{ content }}
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
 </article>

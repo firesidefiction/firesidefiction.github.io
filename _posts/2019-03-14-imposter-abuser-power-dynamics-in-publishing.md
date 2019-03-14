@@ -1,20 +1,20 @@
 ---
-layout: article
-title: Impostor/Abuser: Power Dynamics in Publishing
+layout: post
+title: 'Impostor/Abuser: Power Dynamics in Publishing'
 author: Sarah Gailey
 editor: Elsa Sjunneson-Henry
 date: 2019-03-14 01:00:01 -0500
 category: essay
 permalink: impostor-abuser-power-dynamics-in-publishing
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-017-impostor-abuser-by-sarah-gailey_-_11119_11.10_AM.mp3
 narrator: C.S.E. Cooney
-published: false
+published: true
 teaser: "There is a sense of safety in assuming that we are small. We seek the safe harbor of anonymity, forgetting that there is no such thing as a person who is beyond vulnerability."
 author-img: sarah-gailey.jpg
 author-bio: |
   Hugo Award winner **Sarah Gailey** is an internationally published writer of fiction and nonfiction. Their nonfiction has been published by _Mashable_ and the _Boston Globe_, and they are a regular contributor for _Tor.com_ and _The Barnes & Noble Sci-Fi & Fantasy Blog_. Their most recent fiction credits include _Fireside Magazine_, _Tor.com_, and _Uncanny Magazine_. Their debut novella, _River of Teeth_, was published in 2017 via Tor.com and was a 2018 Hugo and Nebula Award finalist. They have a novel forthcoming from Tor Books in Spring 2019. You can find links to their work at [sarahgailey.com](http://www.sarahgailey.com); find them on social media [@gaileyfrey](https://twitter.com/gaileyfrey).
-proofread: false
-contentnote: This story contains discussions of forms of abuse
+proofread: true
+contentnote: This essay contains discussions of forms of abuse
 ---
 
 _I’m not important_.
