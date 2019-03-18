@@ -121,6 +121,9 @@ permalink: /authors
 ### Dantzel Cherry
 — [_Shrugging Off the Weight of the World_](/issue11/chapter/shrugging-off-the-weight-of-the-world/)
 
+### Alberto Chimal
+— [_Parasitismo_](/parasitismo)
+
 ### Innocent Chizaram Ilo
 — [_River Boy_](/river-boy)
 
@@ -240,6 +243,8 @@ permalink: /authors
 — [_The Fisher of Bones: A Serialized Novella_](/books/the-fisher-of-bones)
 
 — [_STET_](/stet)
+
+— [_Impostor/Abuser: Power Dynamics in Publishing_](/impostor-abuser-power-dynamics-in-publishing)
 
 ### John F. Gardner
 — [_The Last Good Day_](/issue7/chapter/the-last-good-day/)
@@ -526,6 +531,9 @@ permalink: /authors
 
 — [_The Narrative Spectrum_](/the-narrative-spectrum)
 
+### Karen Osborne
+— [_The Blanched Bones, the Tyrant Wind_](/the-blanched-bones-the-tyrant-wind)
+
 ### M. E. Owen
 — [_Intruder_](/intruder)
 
@@ -594,6 +602,8 @@ permalink: /authors
 
 ### Eden Royce
 — [_A Cure for Ghosts_](/a-cure-for-ghosts)
+
+— [_Hands Made for Weaving, With Nails Sharp as Claws_](/hands-made-for-weaving-with-nails-sharp-as-claws)
 
 ### Robert Lowell Russell
 — [_Twenty Parsecs East of the Earth Bypass, Closed on Sundays_](/issue18/chapter/twenty-parsecs-east-of-the-earth-bypass-closed-on-sundays/)
