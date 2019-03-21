@@ -4,7 +4,7 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-We welcome previously unpublished (including on Patreon or a blog) work from all writers, and we are especially interested in seeing work from people of color, LGBTQIA+ people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded, and we believe that any story you want to tell is a valid story, regardless of whether it centers issues related to being part of a marginalized group.
+We welcome previously unpublished (including on Patreon or a blog) work in English or Spanish from all writers, and we are especially interested in seeing work from people of color, LGBTQIA+ people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded, and we believe that any story you want to tell is a valid story, regardless of whether it centers issues related to being part of a marginalized group.
 
 Below you will find our submissions dates and guidelines for:
 - [Short Stories](#short-stories)
@@ -13,24 +13,25 @@ Below you will find our submissions dates and guidelines for:
 - [Novels and Novellas](#novels-and-novellas)
 - [Artwork](#artwork)
 
-If you have any questions about how to submit please email us at: [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com). We use Submittable to manage our reading periods, but we understand that this is not universally accessible to disabled people.
+If you have any questions about how to submit please email us at: [questions@firesidefiction.com](mailto:questions@firesidefiction.com).
 
 ### Accessibility
-If you have questions related to accesibility, please email us at [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com) with the subject line: Accessibility Query. Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
+We use Submittable to manage our reading periods, but we understand that this is not universally accessible to disabled people. If you have questions related to accessibility, please email us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com) with the subject line: Accessibility Query. Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
 
 ----
 
 ## Short Stories
 
+Fireside is currently closed to submissions for short stories. We will be open to short fiction submissions _of 1,500 words or less_ from **Monday, April 8 to Friday, April 12, 2019**. During that period, there will be a link to our submissions form here.<!--We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.-->
+
 {% include submissions-closed-button.html %}
 
-Fireside is currently closed to submissions for short stories. We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.
-
-We accept short stories up to 4,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds.
+<!-- We usually accept short stories up to 4,000 words. -->Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds.
 
 ### Please submit:
-- Stories that have never been published in the English language before (translations are okay!).
-- Short stories up to 4,000 words.
+- Stories in English or Spanish
+- Stories that have never been published before (translations are okay!).
+- Short stories up to <!--4,000 --> 1,500 words.
 - Stories of any genre with a strong beginning/middle/end plot arc.
 - Submissions from anywhere in the world, from all kinds of voices.
 - Double spaced Doc, Docx, or RTF files set in a 14 point serif font like Times New Roman.
@@ -40,30 +41,29 @@ We accept short stories up to 4,000 words. Our budget allows us to pay for up to
 
 ### Please don’t send us:
 - Stories that promote fascism, racism, sexism, homophobia, ableism, etc.
-- Stories longer than 4,000 words (we cannot consider these, unfortunately).
+- Stories longer than <!--4,000--> 1,500 words (we will *not* consider these).
 - PDF files or submissions pasted into the body of an email.
-- Stories that use intellectual property that is under copyright (we don’t want to get sued).
+- Stories that use intellectual property that is under copyright (we like reading fan fiction, but we don't publish it).
 
 ### What to expect from us:
-- Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
+- Fireside acquires first-world English and/or Spanish language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
 - First responses (either a rejection or a second round notice) within one month of the end of our reading period.
-- 12.5 cents per word in payment for accepted stories.
-- Worldwide payments via the method the author and publisher agree upon.
+- Payment of 12.5 cents per word
 
 ----
 
 ## Poetry
 
-{% include submissions-closed-button.html %}
+Fireside is currently closed to submissions for poetry. We will be open to poetry submissions from **Monday, April 8 to Friday, April 12, 2019**. During that period, there will be a link to our submissions form here.<!--We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.-->
 
-Fireside is currently closed to submissions for poetry. We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.
+{% include submissions-closed-button.html %}
 
 ### Please Submit:
 - Poems up to 100 lines, of any genre, and of any form (free verse or formal verse are both fine!).
 - Up to three poems at a time, all in one document. We do not accept multiple document submissions.
 - The poetry only you can write, that comes from your perspective and heart. We are especially interested in poems that complement and challenge the issues and themes Fireside tends to engage with. For more on that, see our [Values page](https://firesidefiction.com/values).
 - Doc, Docx, or RTF files. Poetry can be formatted in whatever way feels best to you. We don’t require double spacing for this kind of submission. For poetry only, PDF files are also acceptable.
-- Poems that have never been published in the English language before (translations are okay!).
+- Poems that have never been published in English before (translations are okay!).
 - Simultaneous submissions are okay for poems, but we ask that you please withdraw immediately if you take another offer.
 
 ### Please don’t send us:
@@ -71,22 +71,42 @@ Fireside is currently closed to submissions for poetry. We don't have upcoming d
 - Poems pasted into the body of an email.
 
 ### What to expect from us:
-- Fireside acquires first-world English-language rights in print, digital, and audio formats, with a six-month exclusivity window after publication.
+- Fireside acquires first-world English and/or Spanish language rights in print, digital, and audio formats.
 - Responses within 30 days of the end of our submissions period.
 - Payment of $100 per poem.
 
 ----
 
 ## Non-Fiction
-Fireside is committed to publishing non-fiction which reflects our values and engages with the conversations we want to have with the world. Currently all of our non-fiction is by solicitation only.
+
+Fireside is currently closed to submissions for nonfiction. We will be open to nonfiction submissions from **Monday, April 8 to Friday, April 12, 2019**. During that period, there will be a link to our submissions form here.<!--We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.-->
+
+{% include submissions-closed-button.html %}
+
+Fireside publishes essays which reflect our values and engage with the conversations we want to have with the world. We're looking for short proposals for essays that take on real-world subjects like politics, social justice, futurism, and more, and treat them in a compassionate, thoughtful, and challenging way.
+
+### Please submit:
+- Pitches of no more than 300 words in English or Spanish, for essays of around 1,000 words
+- Submissions from anywhere in the world, from all kinds of voices, in Spanish or English
+- Double spaced Doc, Docx, or RTF files set in a 14 point serif font like Times New Roman.
+- Cover letters are optional, but they are great places to tell us about your connection the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
+
+### Please don’t send us:
+- Essays that promote fascism, racism, sexism, homophobia, ableism, etc.
+- PDF files or submissions pasted into the body of an email.
+
+### What to expect from us:
+- Fireside acquires first-world English and/or Spanish language rights in print, digital, and audio formats. Please see our [Nonfiction Contract Boilerplate](https://firesidefiction.com/legal/nonfiction-contract-boilerplate) for the full text of our contract.
+- First responses (either a rejection or a second round notice) within one month of the end of our reading period.
+- Payment of $125.00 per essay
 
 ----
 
 ## Novels and Novellas
 
-{% include submissions-closed-button.html %}
+Fireside is currently closed to submissions for novels and novellas. We don't have upcoming dates to announce, but when we open again, there will be a link to our submissions form here.
 
-Fireside is currently closed to submissions for novels and novellas. We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.
+{% include submissions-closed-button.html %}
 
 ### Please submit:
 - Your completed novel or novella (20,000-120,000 words). We are open to any genre as long as the story transports us.
@@ -104,7 +124,6 @@ Fireside is currently closed to submissions for novels and novellas. We don't ha
 ### What to expect from us:
 - While we don’t pay advances, Fireside offers royalties on sales of all books, so our authors start seeing money from their work as soon as it’s published. We negotiate rights purchased and compensation on a case by case basis, so we don’t have one standard boilerplate novel and novella contract, but we are committed to treating creators fairly.
 - Responses within 2 months of the end of our submissions period.
-
 
 ----
 

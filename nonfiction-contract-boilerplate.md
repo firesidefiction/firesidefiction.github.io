@@ -1,47 +1,43 @@
 ---
 layout: page
-title:  "Story Contract Boilerplate"
-permalink: legal/story-contract-boilerplate
+title:  "Nonfiction Contract Boilerplate"
+permalink: legal/nonfiction-contract-boilerplate
 ---
-> _This is the text of the standard contract that Fireside uses for its short fiction, available for reference. While this is our starting point, individual contracts may differ, depending on the particular terms reached with each author._
+> _This is the text of the standard contract that Fireside uses for its nonfiction essays, available for reference. While this is our starting point, individual contracts may differ, depending on the particular terms reached with each author._
 
 > _This boilerplate was last updated on March 20, 2019._
 
 ## Summary
 
-This agreement is made between Fireside Fiction Company, LLC, located at 573 Eastern Parkway, Brooklyn NY 11216 (or 'Fireside'), and `[Author Name]`, located at `[Author address]` (or 'the Author'), for the publication of the story, “`[Title of the Story]`” (or 'the Story'), on the Fireside Magazine website and in print and ebook editions of Fireside Magazine.
-
-If Author has an agent, Author hereby authorizes `[Agency]`, attn: `[Agent Name]`, `[Agency address]` (or ‘the Agent’), as the Author’s exclusive agent with respect to the Story and all rights granted in this Agreement. Fireside will direct all payments and statements to the Agent, and may rely on the Agent to act on the Author’s behalf in respect to all matters under this Agreement, including settlement of any controversies arising out of this Agreement.
+This agreement is made between Fireside Fiction Company, LLC, located at 573 Eastern Parkway, Brooklyn NY 11216 (or 'Fireside'), and `[Author Name]`, located at `[Author Address]` (or 'the Author'), for the publication of an original work of nonfiction, approximately 1000 words in length, provisionally titled, “`Article Title`” (or 'the Article), on the Fireside Magazine website and in print and ebook editions of Fireside Magazine.
 
 ## Schedule
 
-**Completion of Edits:** The Story will be considered edited after revisions have been handed in by the Author and approved by Fireside.
+**Acceptance:** The Article will be considered accepted after revisions have been approved by the Author and by Fireside.
 
-**Exclusivity:** The Author agrees not to publish or permit others to publish the Story in any form prior to the Story’s publication in Fireside Magazine and for a period of six (6) months after the Story's publication in Fireside Magazine, unless the Author obtains Fireside’s prior written approval.
-
-**Exclusivity Exception:** If the Story is selected for a 'best of the year' anthology, Fireside agrees to waive exclusivity, provided the Author gives prior written notice of such selection.
+**Exclusivity:** The Author agrees not to publish or permit others to publish the Article in any form prior to the Article’s publication in Fireside Magazine and for a period of six (6) months after the Article's publication in Fireside Magazine, unless the Author obtains Fireside’s prior written approval.
 
 ## Payment
 
-In consideration for the rights granted by the Author to Fireside, and the Author’s performance of obligations under this Agreement, the Author will receive a payment in the sum of **USD 12.5 cents per word**, which be paid immediately upon completion of copyedits to the Story and Author's execution of this agreement.
+In consideration for the rights granted by the Author to Fireside, and the Author’s performance of obligations under this Agreement, the Author will receive a payment in the sum of **USD $125.00**, which will be paid immediately upon completion of copyedits to the Article and Author's execution of this agreement.
 
-Fireside's right to use the Story is conditioned upon receipt of payment, and upon Fireside’s compliance with the terms of this agreement.
+Fireside's right to use the Article is conditioned upon receipt of payment, and upon Fireside’s compliance with the terms of this agreement.
 
 Payment will be made via the Author's preferred payment method, within reason. Fireside is not responsible for fees associated with an Author's preferred payment method, such as bank transfer fees or PayPal fees.
 
+
 ## Copyrights and Usage
 
-The Author grants to Fireside non-exclusive, non-assignable, and non-transferrable first-world English-language rights to publish the Story on the Fireside Magazine website and in print and ebook editions of Fireside Magazine.
+The Author grants to Fireside non-exclusive, non-assignable, and non-transferrable first-world English-language rights to publish the Article on the Fireside Magazine website and in print and ebook editions of Fireside Magazine.
 
-The Author also grants to Fireside rights to republish the Story in any anthology of stories that have previously appeared in Fireside Magazine, whether in print or ebook editions, within twenty-four (24) months of the Work’s publication in Fireside Magazine.
+The Author also grants to Fireside rights to re-publish the Article in any anthology of stories that have previously appeared in Fireside Magazine, whether in print or ebook editions, within twenty-four (24) months of the Work’s publication in Fireside Magazine.
 
-The Author further grants Fireside a nonexclusive, non-assignable, and non-transferable license to archive the Story online and the non-exclusive right to reproduce and display the Story, or excerpts of the Story, on the Fireside Magazine website, for a period of at least thirty-six (36) months. After thirty-six (36) months, the Author may withdraw all rights from Fireside, provided the Author requests it via written notice.
+The Author further grants Fireside a nonexclusive, non-assignable, and non-transferable license to archive the Article online and the non-exclusive right to reproduce and display the Article, or excerpts of the Article, on the Fireside Magazine website, for a period of at least thirty-six (36) months. After thirty-six (36) months, the Author may withdraw all rights from Fireside, provided the Author requests it via written notice.
 
-The Author also grants to Fireside the nonexclusive right to create and publish sound recordings of non-dramatic, English and Spanish language readings of the Story, and to reproduce these recordings in all electronic media, for a period of at least thirty-six (36) months. After thirty-six (36) months, the Author may withdraw all rights from Fireside, provided the Author requests it via written notice.
+The Author grants to Fireside the exclusive right to create and publish sound recordings of non-dramatic, English language readings of the Story, and to reproduce these recordings in all electronic media.
 
-The Author grants Fireside permission to use the Author’s name, image, likeness, or biographical material for  advertising, marketing, and other promotion of the Story. Upon acceptance of the Story, the Author shall provide Fireside with appropriate material for such use.
+The Author grants Fireside permission to use the Author’s name, image, likeness, or biographical material for advertising, marketing, and other promotion of the Article. Upon acceptance of the Article, the Author shall provide Fireside with appropriate material for such use.
 
-On occasion or for special events, Fireside may wish to promote Author, the Story and Fireside Magazine. In that event and provided that Fireside informs Author with reasonable notice, Author will cooperate in good faith with Fireside in promoting Author, the Story and Fireside Magazine by participating in promotional activities such as, but not only, writing blog posts, appearing on podcasts, granting interviews and making appearances at events.
 
 ## Terms
 
@@ -59,7 +55,7 @@ On occasion or for special events, Fireside may wish to promote Author, the Stor
 
 **Rights Reversion:** If Fireside fails to publish the Story within twenty-four (24) months of the date of this agreement, all rights granted hereunder shall immediately revert to the Author. In such event, the Author shall retain any payments made under this agreement prior to such reversion.
 
-**Credit and Copies:** A credit line suitable to the design of the page will be used. Fireside agrees to list a proper copyright notice for the Story. The Author will be credited on any table of contents pages and at the beginning of the story as [Author's Preferred Pen Name]. The Author is also entitled to one contributor copy of any print publication in which the Story appears.
+**Credit and Copies:** A credit line suitable to the design of the page will be used. Fireside agrees to list a proper copyright notice for the Story. The Author will be credited on any table of contents pages and at the beginning of the story as `[Author's Preferred Pen Name]`. The Author is also entitled to one contributor copy of any print publication in which the Story appears.
 
 
 **Severability:** If any term of this Agreement is to any extent illegal, otherwise invalid, or incapable of being enforced, such term shall be excluded to the extent of such invalidity or unenforceability; all other terms hereof shall remain in full force and in effect; and, to the extent permitted and possible, the invalid or unenforceable term shall be deemed replaced by a term that is valid and enforceable and that comes closest to expressing the intention of such invalid or unenforceable term.
