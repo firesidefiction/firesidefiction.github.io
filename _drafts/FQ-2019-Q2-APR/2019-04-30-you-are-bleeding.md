@@ -13,7 +13,7 @@ author-bio: |
   **Alexandra Seidel** writes poems and stories about things that are ... real. Kinda. Her work can be found at places like _Lackington's_, _Strange Horizons_, _Mythic Delirium_, and others. If you are so inclined you can follow Alexa on Twitter ([@Alexa_Seidel](https://www.twitter.com/Alexa_Seidel)) or read her blog:
   [http://tigerinthematchstickbox.blogspot.com/](http://tigerinthematchstickbox.blogspot.com/)
 proofread: true
-contentnote:
+contentnote: This story depicts violence against women and patriarchal violence.
 ---
 
 The girl, pigtail-aged, tells everyone: "I want to be an astronaut."
