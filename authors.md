@@ -268,6 +268,9 @@ permalink: /authors
 ### April Grant
 — [_The Finger_](/the-finger)
 
+### A. T. Greenblatt
+— [_Team Work_](/team-work)
+
 ### Megan Grey
 — [_Missing_](/issue15/chapter/missing/)
 
