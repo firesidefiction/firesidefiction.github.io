@@ -28,13 +28,13 @@ Payment will be made via the Author's preferred payment method, within reason. F
 
 ## Copyrights and Usage
 
-The Author grants to Fireside non-exclusive, non-assignable, and non-transferrable first-world English-language rights to publish the Article on the Fireside Magazine website and in print and ebook editions of Fireside Magazine.
+The Author grants to Fireside non-exclusive, non-assignable, and non-transferrable first-world English and Spanish language rights to publish the Article on the Fireside Magazine website and in print and ebook editions of Fireside Magazine.
 
 The Author also grants to Fireside rights to re-publish the Article in any anthology of stories that have previously appeared in Fireside Magazine, whether in print or ebook editions, within twenty-four (24) months of the Work’s publication in Fireside Magazine.
 
 The Author further grants Fireside a nonexclusive, non-assignable, and non-transferable license to archive the Article online and the non-exclusive right to reproduce and display the Article, or excerpts of the Article, on the Fireside Magazine website, for a period of at least thirty-six (36) months. After thirty-six (36) months, the Author may withdraw all rights from Fireside, provided the Author requests it via written notice.
 
-The Author grants to Fireside the exclusive right to create and publish sound recordings of non-dramatic, English language readings of the Story, and to reproduce these recordings in all electronic media.
+The Author also grants to Fireside the nonexclusive right to create and publish sound recordings of non-dramatic, English and Spanish language readings of the Story, and to reproduce these recordings in all electronic media, for a period of at least thirty-six (36) months. After thirty-six (36) months, the Author may withdraw all rights from Fireside, provided the Author requests it via written notice.
 
 The Author grants Fireside permission to use the Author’s name, image, likeness, or biographical material for advertising, marketing, and other promotion of the Article. Upon acceptance of the Article, the Author shall provide Fireside with appropriate material for such use.
 
