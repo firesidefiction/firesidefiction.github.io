@@ -13,6 +13,7 @@ author-img: resoketswe-manenzhe.jpg
 author-bio: |
   **Rešoketšwe Mananzhe** is a recent graduate for the Degree of Master of Science in Chemical Engineering (with distinction). Starting in 2015, her poems and short stories have appeared in several online magazines and journals, and in 2017, two of her poems were shortlisted for the Sol Plaatje EU Poetry Anthology, and subsequently published in the anthology of selected poems. She currently lives in Cape Town, South Africa, but recently, she's been known to occasionally wander to the Arctic region, where she fell in love with a small rural town and blueberry pie.
 proofread: true
+contentnote:
 ---
 
 I found the radio he broke.
