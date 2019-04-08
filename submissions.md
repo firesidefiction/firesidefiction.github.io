@@ -100,14 +100,12 @@ Fireside publishes essays which reflect our values and engage with the conversat
 Please read the following guidelines, then use the button below to submit your work.
 
 ### Please submit:
-- Pitches of no more than 300 words in English or Spanish, for essays of around 1,000 words
+- Pitches of no more than 300 words in English or Spanish, for essays of around 1,000 words, directly into the form field provided.
 - Submissions from anywhere in the world, from all kinds of voices, in Spanish or English
-- Double spaced Doc, Docx, or RTF files set in a 14 point serif font like Times New Roman.
 - Cover letters are optional, but they are great places to tell us about your connection the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
 
 ### Please don’t send us:
 - Essays that promote fascism, racism, sexism, homophobia, ableism, etc.
-- PDF files.
 - Submissions attached to or pasted into the body of an email. Submissions sent via email will be deleted unread.
 
 ### What to expect from us:
