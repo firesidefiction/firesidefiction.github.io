@@ -14,7 +14,7 @@ for a while, knowing that one day
 someone in the family would ask"
 author-img: okwudili-nebeolisa.jpg
 author-bio: |
-  Born in 1993, Okwudili Nebeolisa is a Nigerian writer whose works have appeared in Threepenny Review, Commonwealth Writers and have been nominated for a pushcart prize by The Cincinnati Review, Salamander Magazine and Beloit Poetry Journal. His works have been shortlisted for the Gerald Kraak Award, the Sillerman Prize, and the Tom Howard/ John H Reid Fiction and Essay Contest.
+  Born in 1993, Okwudili Nebeolisa is a Nigerian writer whose works have appeared in _Threepenny Review_, _Commonwealth Writers_ and have been nominated for a pushcart prize by The _Cincinnati Review_, _Salamander Magazine_, and _Beloit Poetry Journal_. His works have been shortlisted for the Gerald Kraak Award, the Sillerman Prize, and the Tom Howard/ John H Reid Fiction and Essay Contest.
 proofread: false
 contentnote:
 
