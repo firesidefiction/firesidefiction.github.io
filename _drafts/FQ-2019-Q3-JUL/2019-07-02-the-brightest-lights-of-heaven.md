@@ -13,14 +13,14 @@ author-img: maria-haskins.jpg
 author-bio: |
   [Maria Haskins](https://mariahaskins.com/) is a Swedish-Canadian writer and translator. She writes speculative fiction, and debuted as a writer in the mythical era called "the 1980s". She was born and grew up in Sweden, but moved to Canada in 1992. Currently, she lives just outside Vancouver with a husband, two kids, and a very large black dog. Her fiction has appeared in _Shimmer Magazine_, _Cast of Wonders_, _Beneath Ceaseless Skies_, and elsewhere.
 proofread: false
-contentnote:
+contentnote: This story alludes to violence against animals and many acts of murder.
 ---
 
 I haven't seen Moira for fourteen years, but I dream about her all the time. The dream is always the same. We're six years old and we're dragons again — jumping off the roof together — but this time we don't hit the ground and we don't end up in the hospital and we don't need any stitches. Instead we just spread our wings and fly.
 
-Last time I saw Moira in the flesh she was eleven — gap-toothed and nearsighted. I was eleven, too — all gangly energy, frizzy hair, and braces. It was the same night our last game began, and it was also Moira's last night in Canada. Her parents had divorced the year before; now her dad was gone, and her mom had decided to move back to Australia, taking Moira with her. I didn't want her to go, didn't even want to think about what my life would be like without her, but Moira said we had time for one last game, and I wouldn't have missed that for the world.
+Last time I saw Moira in the flesh she was eleven — gap-toothed and nearsighted. I was eleven, too — all gangly energy, frizzy hair, and braces. It was the same night our last game began, and it was also Moira's last night in Canada. Her parents had divorced the year before; now her dad was gone and her mom had decided to move back to Australia, taking Moira with her. I didn't want her to go, didn't even want to think about what my life would be like without her, but Moira said we had time for one last game, and I wouldn't have missed that for the world.
 
-She always made up the best games: zombie tag, cops and aliens, wolves and hunters, vampires and slayers. Ever since preschool, she'd been turning yards and playgrounds into battlefields of fear and glory; turning us into something other than what we seemed to be — generic girls; awkward, studious, shy.
+She always made up the best games: zombie tag, cops and aliens, wolves and hunters, vampires and slayers. Ever since preschool, she'd been turning yards and playgrounds into battlefields of fear and glory; turning us into something other than what we seemed to be: generic girls — awkward, studious, shy.
 
 We already knew we were different than people thought we were, knew enough to hide it, too. We knew that beneath the surface we were something else entirely — something hungry, something jagged, something crooked and impatient.
 
@@ -42,7 +42,7 @@ She shook her head. Another match — lit, burning, singeing, extinguished.
 
 When we were six, we played knights and dragons for a whole day in the backyard, taking turns wielding swords and claws, shields and fangs. Right before Moira had to go home for dinner, she changed the game. She told me we were both dragons and made me jump off the roof with her, saying we could fly. I knew we'd probably die, but I jumped anyway. Ten stitches and a fractured ankle was a small price to pay for that one dizzying moment when we were airborne, when we were _dragons_ — scaled and fanged, hands entwined — together.
 
-Our parents must have figured we'd grow out of playing those kinds of games, but we just got better at hiding what we did and, at age eleven, sitting in that patchouli-scented basement, the only thing I knew about myself for sure was that I never wanted to stop playing with Moira, and that I would never be what my parents expected me to be. Moira knew it too, of course. She knew me better than anyone ever has, before or since.
+Our parents must have figured we'd grow out of playing those kinds of games but we just got better at hiding what we did and, at age eleven, sitting in that patchouli-scented basement. All I knew about myself for sure was that I never wanted to stop playing with Moira, and that I would never be what my parents expected me to be. Moira knew it too, of course. She knew me better than anyone ever has, before or since.
 
 "Hold out your hand,” Moira said after sitting quietly with her eyes closed and the book open on her lap for a long time. She brought out the penknife, wiping the blade on her shirt, and I felt the darkness quicken around us, tickling my face and limbs with ghost breaths and spirit sighs.
 
@@ -52,21 +52,21 @@ Moira leaned in close — face lit by the flashlight, thick glasses framed by ye
 
 “I had a vision, Rae.” Her voice was an unfamiliar, hoarse whisper, skittering up my spine. As if she’d found another voice in the dark. As if another voice had found her. “You are a daemon escaped from the deepest depths of the void. And I am a daemon hunter blessed by the brightest lights of heaven. We are enemies henceforth. Before we both turn twenty-five, one of us must kill the other.”
 
-My palm stung and I felt dizzy. I already knew it was more than pretend, more than imagination. Moira had always made our games seem real, but that night was different. I felt the blood and smoke twitch together between our palms, as if we had stirred up something sleeping, something dormant – whether within or without I couldn’t tell. I felt it shudder and twine, snaking around my flesh and bones. Words and smoke and blood binding me, changing me. Changing Moira, too.
+My palm stung and I felt dizzy. I already knew it was more than pretend, more than imagination. Moira had always made our games seem real, but that night was different. I felt the blood and smoke twitch together between our palms, as if we had stirred up something sleeping, something dormant – whether within or without, I couldn’t tell. I felt it shudder and twine, snaking around my flesh and bones. Words and smoke and blood binding me, changing me. Changing Moira, too.
 
 “We did it," she said and laughed out loud, her voice her own again, though it scared me still.
 
 The next day, Moira was gone.
 
-"She'll probably write, once they've settled in," mom said, but I knew better. I knew the game was on. I knew something had wriggled its way into this world, that Moira and I had made it real, and that she would stick to the game no matter what I did or didn’t do.
+"She'll probably write, once they've settled in," Mom said, but I knew better. I knew the game was on. I knew something had wriggled its way into this world, that Moira and I had made it real, and that she would stick to the game no matter what I did or didn’t do.
 
 _Don't chicken out_, Moira had said, and I knew she never would.
 
 ----
 
-After Moira left, nothing much happened for a few years, though there were flickers and murmurs of something stirring. An open window mom said she’d closed before she went to bed. A dead crow in the yard with its eyes gouged out. Our cat, gutted in the street. Run over by a car, people said. They didn't see the runes drawn in blood on a wall nearby. I’d seen those runes in the book — the book that was still in Moira’s possession as far as I knew.
+After Moira left, nothing much happened for a few years, though there were flickers and murmurs of something stirring. An open window Mom said she’d closed before she went to bed. A dead crow in the yard with its eyes gouged out. Our cat, gutted in the street. Run over by a car, people said. They didn't see the runes drawn in blood on a wall nearby. I’d seen those runes in the book — the book that was still in Moira’s possession, as far as I knew.
 
-The first murder didn't happen until I was twenty. I was at university, and one Friday, my room-mate asked if she could have our apartment to herself over the weekend. On the Monday, police tape was strung across the door, blood was soaked into the mattress, and her mutilated body was removed from my bed. Everyone always said the two of us looked alike, even though I could never see it. The room smelled of cheap incense, and there was a pile of fragrant ash on the floor, but in the end, the police pinned it on her boyfriend, nowhere to be found.
+The first murder didn't happen until I was twenty. I was at university, and one Friday my room-mate asked if she could have our apartment to herself over the weekend. On the Monday, police tape was strung across the door, blood was soaked into the mattress, and her mutilated body was removed from my bed. Everyone always said the two of us looked alike, even though I could never see it. The room smelled of cheap incense and there was a pile of fragrant ash on the floor but, in the end, the police pinned it on her boyfriend, who was nowhere to be found.
 
 ----
 
@@ -74,7 +74,7 @@ I tried harder to find Moira after that, searched for her online and elsewhere, 
 
 Then Aunt Jackie died: diabetic coma. That familiar smell of incense wafted off her corpse when she lay in the coffin, but it didn’t mean anything to anyone but me. Jackie’s place always smelled of smudge sticks and incense and vegetarian chili – all the better to cover up the pot she smoked.
 
-Mom cried and so did I, my hands clutched in prayer as I sat in church between her and dad.
+Mom cried and so did I, my hands clutched in prayer as I sat in church between her and Dad.
 
 I prayed to find Moira, but I didn't.
 
@@ -82,13 +82,13 @@ A year after we buried Aunt Jackie, one of our old teachers was killed in a hiki
 
 “For fucks sake, stop it with this black magic shit,” my boyfriend at the time told me after we got drunk one night and I spilled my guts about Moira. “You were kids and played a stupid game. You’re so fucked up sometimes.”
 
-But he was not a daemon, nor a daemon hunter, so what did he know? He certainly didn’t know what it’s like that first time you wake up in the middle of the night and feel your teeth suddenly too sharp beneath your tongue, your vision too clear in the dark, your skin scaly and feverish, your flesh crawling like maggots and beetles, and you run into the bathroom to see, to see what a daemon really looks like, finding only your own face in the mirror.
+But he was not a daemon, nor a daemon hunter, so what did he know? He certainly didn’t know what it was like that first time you wake up in the middle of the night and feel your teeth suddenly too sharp beneath your tongue, your vision too clear in the dark, your skin scaly and feverish, your flesh crawling like maggots and beetles, and you ran into the bathroom to see, to see what a daemon really looks like, finding only your own face in the mirror.
 
 That boyfriend is dead too. Pickup truck. Highway. Ice. Pole. Goodbye.
 
 I never did manage to track Moira down.
 
-Maybe my parents could have helped me find her, but mom died in hospital two years ago, that year the flu was so bad. They thought she’d be OK, but then overnight, she slipped away. Her hospital room might have smelled like incense, but what difference did it make? No one cared. She was dead. Dad died shortly after. A ferry sank when he was on holidays in Thailand. Lots of people died. He was a lousy swimmer.
+Maybe my parents could have helped me find her but Mom died in hospital two years ago, that year the flu was so bad. They thought she’d be OK but overnight, she slipped away. Her hospital room might have smelled like incense, but what difference did it make? No one cared. She was dead. Dad died shortly after. A ferry sank when he was on holidays in Thailand. Lots of people died. He was a lousy swimmer.
 
 That was a long summer.
 
@@ -98,27 +98,27 @@ I’m turning twenty-five tomorrow. It’s Moira’s birthday in a week. Suck on
 
 Last year someone plowed into the car I was sitting in on a side street in New Westminster. A hit and run. The doctors couldn’t believe I got away with only scrapes and bruises. I was in hospital for a few days afterward, for observation, waiting every minute for Moira to come and finish what she started. She didn’t. There were flowers though. No note. I felt Moira’s presence real close that time.
 
-“You don’t know what it’s like,” I told mom once, “to have to wait for Moira to hunt me down, for the game to play out to the end.”
+“You don’t know what it’s like,” I told Mom once, “to have to wait for Moira to hunt me down, for the game to play out to the end.”
 
 “Who is Moira?” She didn’t even remember.
 
 “My best friend, the one with the glasses.”
 
-But mom didn’t remember until I showed her the class photo.
+But Mom didn’t remember until I showed her the class photo.
 
 “Oh, that girl. I thought they moved to Australia.”
 
 Right.
 
-“Moira said I was a daemon,” I told dad just before he died. “I’d never felt like one until she said the words. But for a moment in that storage locker, it was like I forgot who I was. Or maybe I remembered. I mean, everybody has a wriggling bit of darkness inside them, right? A worm in the flesh, hatched in the warmth of your pulse. Fed by hate and anger and depravity, growing fat and lush through the years, like a leech. But I know I never even dreamed of being a daemon until Moira told me I was one.”
+“Moira said I was a daemon,” I told Dad just before he died. “I’d never felt like one until she said the words. But for a moment in that storage locker, it was like I forgot who I was. Or maybe I remembered. I mean, everybody has a wriggling bit of darkness inside them, right? A worm in the flesh, hatched in the warmth of your pulse. Fed by hate and anger and depravity, growing fat and lush through the years, like a leech. But I know I never even dreamed of being a daemon until Moira told me I was one.”
 
-That was the same day dad told me I wasn’t his. That mom had already been pregnant when he met her. She was dead, so he could tell me he figured. He cried about how hard that had been for him, and how sad he was that they never had any kids together.
+That was the same day Dad told me I wasn’t his. That Mom had already been pregnant when he met her. She was dead now, so he could tell me, he figured. He cried about how hard that had been for him, and how sad he was that they never had any kids together.
 
-Thanks, dad.
+Thanks, Dad.
 
 I’m walking down the street from the station. We're really playing the game out to the very end. No surprise, really. I knew she wouldn't chicken out, and neither will I.
 
-“You’re a daemon,” she said as the incense burned.
+“You’re a daemon,” she'd said as the incense burned.
 
 Why did I have to be the daemon this whole time? Being a daemon is hard work, and I should at least have had a say. But she just stuck me there, in the deepest depths of the void, and for almost fifteen years I've had to make the best of it.
 
@@ -126,7 +126,7 @@ Why did I have to be the daemon this whole time? Being a daemon is hard work, an
 
 I open the door to my apartment.
 
-Even though I know Moira is there I close the door, locking it behind me, securing the chain and deadbolt. I can feel the shift in the air, the smell. It’s not incense, just her skin, just her breath. She’s been sitting here for a while, waiting for me to come home. Rifling through my belongings, no doubt. Looking for daemon spawn and daemon spells and daemon food: Tupperware containers filled with blood in the fridge; Ziploc bags of human flesh in the freezer. I don't know what she might have found.
+Even though I know Moira is there, I close the door, locking it behind me, securing the chain and deadbolt. I can feel the shift in the air, the smell. It’s not incense, just her skin, just her breath. She’s been here for a while, waiting for me to come home. Rifling through my belongings, no doubt. Looking for daemon spawn and daemon spells and daemon food: Tupperware containers filled with blood in the fridge; Ziploc bags of human flesh in the freezer. I don't know what she might have found.
 
 Most nights, this daemon prefers sushi or Mexican.
 
@@ -136,7 +136,7 @@ She’s sitting on my couch. No lights. Just us.
 
 “Hi, Moira.”
 
-I feel my palm pulsing where she cut me all those years ago. I feel the words and blood twitching in me, livelier than for a long time — since dad died, really — twirling tighter around veins and marrow.
+I feel my palm pulsing where she cut me all those years ago. I feel the words and blood twitching in me, livelier than they've been for a long time — since Dad died, really — twirling tighter around veins and marrow.
 
 “Where've you been, Rae?”
 
@@ -156,21 +156,23 @@ Moira laughs, ever so softly.
 
 It feels good, even now, even here, to finally get the credit I deserve.
 
-I lick my lips and feel the sharpness of my suddenly razor-edged teeth. My tongue feels rough and long as it flicks in and out, tasting her on the air; and my nails are claws now, scratching my skirt, my thighs beneath, my scarred palm so hot that I can feel the flesh burning, sizzling, steaming.
+I lick my lips and feel the sharpness of my suddenly razor-edged teeth. My tongue feels rough and long as it flicks in and out, tasting her on the air. My nails are claws now, scratching my skirt, my thighs beneath, my scarred palm so hot that I can feel the flesh burning, sizzling, steaming.
 
 “Well, what could I do? You turned me into this.”
 
-“We turned us into this." Her eyes shine, a luminescent blue, reflecting the light from the street outside. "All I wanted was a good game, something so good we couldn't forget each other. And what a game it's been. The best, right?”
+“We turned us into this." Her eyes shine a luminescent blue, reflecting the light from the street outside. "All I wanted was a good game, something so good we couldn't forget each other. And what a game it's been. The best, right?”
 
-"The best," I whisper and then I run at her, trying to slash her throat with my claws, but she evades, a silver blade etched with runes cutting into my arm. That hurts. Silver is bad for daemons. Just like it said in that library book. And Moira has more. She’s remembered it all: spell-wound spikes of ivory, holy water, an amulet of malachite and black onyx around her neck to sap my strength.
+"The best," I whisper and then I run at her, trying to slash her throat with my claws, but she evades, a silver blade etched with runes cutting into my arm. That hurts. Silver is bad for daemons. Just like it said in that library book.
 
-We fight: parry-strike-parry-slash. Things around us crash and break: TV, vase, glass-topped table. My arm breaks too and I heal it up as best I can. Good stuff, these daemon powers. They’re the bee’s knees after single car accidents on icy roads. (Come on. I just tugged the wheel a tiny bit.) They can even help you crawl out of the wreckage and get away scot-free while your fucked-up boyfriend’s innards spill over the seat.
+And Moira has more. She’s remembered it all: spell-wound spikes of ivory, holy water, an amulet of malachite and black onyx around her neck to sap my strength.
 
-Moira’s got some moves too, and in the end, I’m bleeding everywhere and so is she. She ties me to the bed, my scaly arms twitching helplessly as she binds me with a rope soaked in holy water. It sears and burns my wrists, but I don't hold that against her, it's all part of the game after all.
+We fight: parry-strike-parry-slash. Things around us crash and break: TV, vase, glass-topped table. My arm breaks too and I heal it up as best I can. Good stuff, these daemon powers. They’re the bee’s knees after single-car accidents on icy roads. (Come on. I just tugged the wheel a tiny bit.) They can even help you crawl out of the wreckage and get away scot-free while your fucked-up boyfriend’s innards spill over the seat.
+
+Moira’s got some moves too and, in the end, I’m bleeding everywhere and so is she. She ties me to the bed, my scaly arms twitching helplessly as she binds me with a rope soaked in holy water. It sears and burns my wrists, but I don't hold that against her. It's all part of the game, after all.
 
 “You should have made me the hunter, you the daemon,” I tell Moira. “You’d be good at it. Even better than I was.”
 
-In the red and blue light from the neon-sign across the street I finally see her face clearly, and she’s smiling. Such a wicked good girl.
+In the red and blue light from the neon sign across the street I finally see her face clearly, and she’s smiling. Such a wicked good girl.
 
 “What are you waiting for?” I growl. “Game’s over. You made me. Now unmake me.”
 
@@ -186,7 +188,7 @@ Moira's silvery blade shivers at my neck.
 
 "At least you didn't forget about me."
 
-I watched the light change colour between us — red, blue, red — my eyes stinging.
+I watch the light change colour between us — red, blue, red — my eyes stinging.
 
 "You didn't forget either," I mutter, words hitching in my throat.
 
@@ -198,7 +200,7 @@ Bored. Generic. Alone.
 
 "Moira..." I whisper, doubting everything, past and present, future imperfect.
 
-Moira rips my skin with the knife, but the cut is shallow and reluctant. She cuts me again, but not my belly, or my chest, or my throat. Just my palm, the other one, slicing deep and true.
+Moira rips my skin with the knife, but the cut is shallow and reluctant. She cuts me again, but not my belly, or my chest, or my throat. Just my palm — the other one — slicing deep and true.
 
 “I had a vision, Rae.” The voice is a familiar hoarse whisper in the dark, the face a mask of shadows slipped over Moira's features. “I am a daemon escaped from the deepest depths of the void. And you are a daemon hunter blessed by the brightest lights of heaven. We are enemies, henceforth. Before we both turn forty, one of us must kill the other.”
 
@@ -208,6 +210,6 @@ Our bleeding hands clasp and hold fast, the darkness around us quickening with g
 
 "I won't."
 
-I see the glint of fangs where none were before when she smiles, the flick of that cloven tongue between her lips. She likes the feeling of it: the strength and daring, I can tell. I liked it too. Now I’m kind of relieved to be rid of it. Being the daemon can be a hard slog as she’ll find out soon enough.
+I see the glint of fangs where none were before when she smiles, the flick of that cloven tongue between her lips. She likes the feeling of it: the strength and daring, I can tell. I liked it too. Now I’m kind of relieved to be rid of it. Being the daemon can be a hard slog, as she’ll find out soon enough.
 
-Then Moira laughs and so do I, because for one dizzying moment before the new game begins, before the words and blood take hold, we are the same. We are twins, airborne, suspended between the void and heaven — cursed and fanged, blessed and brightest — hands entwined. Together.
+Then Moira laughs and so do I because, for one dizzying moment before the new game begins, before the words and blood take hold, we are the same. We are twins, airborne, suspended between the void and heaven — cursed and fanged, blessed and brightest — hands entwined. Together.

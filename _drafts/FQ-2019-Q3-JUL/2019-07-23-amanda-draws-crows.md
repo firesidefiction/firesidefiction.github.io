@@ -11,10 +11,10 @@ published: false
 teaser: "Sometimes she didn't even see what she drew. Her hands took over and drew what they wanted, and everything else faded away."
 author-img: jose-pablo-iriarte.jpg
 author-bio: |
-José Pablo Iriarte is a Cuban-American writer, high school math teacher, and parent of two. José's fiction can be found in magazines such as _Lightspeed Magazine_, _Strange Horizons_, _Terraform_, and others — including "Cupid and Psyche at the Caffé Sol Y Mar," in _Fireside Magazine_. Learn more at [www.labyrinthrat.com](http://www.labyrinthrat.com), or look for José on twitter as [@labyrinthrat](https://www.twitter.com/labyrinthrat).
+José Pablo Iriarte is a Cuban-American writer, high school math teacher, and parent of two. José's fiction can be found in magazines such as _Lightspeed Magazine_, _Strange Horizons_, _Terraform_, and others — including "Cupid and Psyche at the Caffé Sol Y Mar" in _Fireside Magazine_. Learn more at [www.labyrinthrat.com](http://www.labyrinthrat.com), or look for José on twitter as [@labyrinthrat](https://www.twitter.com/labyrinthrat).
 
 proofread: false
-contentnote:
+contentnote: This story depicts a child in danger.
 ---
 
 Amanda drew while Mommy cooked dinner. Amanda was always drawing. Ever since she could hold a crayon. Sometimes she didn't even see what she drew. Her hands took over and drew what they wanted, and everything else faded away.
@@ -27,15 +27,15 @@ But Mommy was already in the apartment's bedroom. Amanda followed and found her 
 
 "I'm sorry, Mommy."
 
-"Not your fault." She tugged Amanda's arm and rushed to the door, snicked open the three locks, and pulled —
+"Not your fault." She tugged Amanda's arm and rushed to the door, snicked open the three locks, and pulled—
 
- — Daddy stood outside, hand raised like he was gonna knock.
+ Daddy stood outside, hand raised like he was gonna knock.
 
 "Sue," he said, blinking. "Baby. Are you going somewhere?" He stepped into the apartment and took the sack from Mommy's shoulder. A woman and man walked in after him. Daddy pawed through the bag while the woman eyed Mommy like she saw a cockroach.
 
 "How did you find us?"
 
-Ignoring her, Daddy pulled Amanda's pajama bottom out.
+Ignoring her, Daddy pulled Amanda's pajama bottoms out.
 
 Amanda cowered behind Mommy, but he reached around and tousled her hair. "I see Mandy's still got the gift."
 
@@ -57,7 +57,7 @@ Amanda picked one up.
 
 "Do what you do," he said. "Daddy and his friends are going to the airport. What happens next?"
 
-Amanda forced it. Her eyes rolled back and her hands moved across the paper. A trickle oozed from her nose to her lips, salty, coppery.
+Amanda forced it. Her eyes rolled back and her hands moved across the paper. A trickle oozed from her nose to her lips, salty and coppery.
 
 The lady sucked in a breath. "It's Mr. H."
 
@@ -65,7 +65,7 @@ Amanda looked down. An angry man, wearing a suit jacket over a T-shirt. A giant 
 
 "Shit," murmured the man who'd come with Daddy.
 
-"Don't curse in front of my kid, asshole."
+"Don't curse in front of my kid, asshole," he replied
 
 Mommy wiped Amanda's bloody face with a wet kitchen rag. "Are you happy now?" The rag was rough and stung almost as much as the bleeding.
 
@@ -75,11 +75,11 @@ What could she draw to make him leave? Amanda drew Daddy standing with his frien
 
 "Nuh-uh. No faking." He ran his thumb along her clean upper lip. "Do it for real."
 
-She drew again. Police cars on the highway. A crash. A puddle of red--not marker, but her own blood. Her head hurt, and a little vein in her forehead went boop boop boop.
+She drew again. Police cars on the highway. A crash. A puddle of red — not marker, but her own blood. Her head hurt, and a little vein in her forehead went boop boop boop.
 
 The woman leaned in, casting a shadow. "We should bring them with us, Jimmy. In case we need hostages."
 
-Mommy slapped his shoulder. "Dammit, she's your daughter."
+Mommy slapped Daddy's shoulder. "Dammit, she's your daughter."
 
 The man who'd said the S-word took Mommy's wrist and pulled her away from Daddy.
 
@@ -93,7 +93,7 @@ She drew a motorboat. Daddy and the others inside. Her hand wanted to draw an ex
 
 "The dock," Daddy agreed.
 
-Mommy looked at her out of the side of her eye. She knew.
+Mommy looked at Amanda out of the side of her eye. She knew.
 
 "We should take them with us," said the man she didn't know.
 
