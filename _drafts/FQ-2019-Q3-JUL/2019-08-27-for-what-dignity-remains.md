@@ -16,8 +16,7 @@ proofread: false
 contentnote:
 ---
 
-When it comes to funerals, it's always best a dead man's hands be peeled. That's what I've been taught, that's what I believe.
-Something about that sheath of skin lends weight to a dead man's grievances. Allows a man to cling when all else has sloughed away. There's no good in that, of course, as nobody enjoys being berated by their dead husband at the graveside for a handful of dinners burned or a stove left on once overlong.
+When it comes to funerals, it's always best a dead man's hands be peeled. That's what I've been taught, that's what I believe. Something about that sheath of skin lends weight to a dead man's grievances. Allows a man to cling when all else has sloughed away. There's no good in that, of course, as nobody enjoys being berated by their dead husband at the graveside for a handful of dinners burned or a stove left on once overlong.
 
 Dead women do not have this issue. You can peel their hands or not, as the client prefers, and it mostly makes no difference. They tend to go quiet either way, with rare exception.
 
@@ -29,7 +28,7 @@ Thinking helps so little, in the end.
 
 ----
 
-I've always hated my father. So much you'd think I'd be pleased at his passing. His face would turn purplescent when enraged, like a boiled plum. He'd strike without meaning, without purpose, his fists beating out the rhythm of his frustration into whatever object nearest.
+I've always hated my father. So much you'd think I'd be pleased at his passing. His face would turn purplescent when enraged, like a boiled plum. He'd strike without meaning, without purpose, his fists beating out the rhythm of his frustration into whatever object was nearest.
 
 My sister and I, however, remained untouched.
 
@@ -124,9 +123,9 @@ But he tells me anyway.
 
 ----
 
-I don't go to funerals. I have no need to see the results of my labor. No need to see the dead strangers that cross my table laid to rest.
+I don't go to funerals. I have no need to see the results of my labor. No need to see the dead strangers that cross my table laid to rest. But my father's funeral....
 
-But my father's funeral ... that I cannot miss.
+That I cannot miss.
 
 I stand in the back, as far away from the casket and the crowds as possible. I watch as mourners — and yes, to my surprise, there are a number of mourners — lay their hands on his chest to pay their final respects.
 

@@ -11,14 +11,14 @@ published: false
 teaser: "If the conquistadors are going to build this city, does that mean that now the angels will work with the Spanish clergy and be their allies?"
 author-img: libia-brenda.jpg
 author-bio: |
-  **Libia Brenda** (Puebla, 1974) studied Hispanic Language and Literature, has spent the last twenty years making books, and writes science fiction and fantasy short stories. She is the co-founder of the Cúmulo de Tesla collective ([@Cumulodetesla](https://www.twitter.com/Cumulodetesla)), a multidisciplinary working group that promotes the dialogue between the arts and sciences, with a special focus on science fiction. She has published stories, reviews, and essays in online and printed magazines, as well as various anthologies. She has a secret identity dedicated to gastronomy.
+  **Libia Brenda** (Puebla, 1974) studied Hispanic Language and Literature, has spent the last twenty years making books, and writes science fiction and fantasy short stories. She is the co-founder of the Cúmulo de Tesla collective ([@Cumulodetesla](https://www.twitter.com/Cumulodetesla) on Twitter), a multidisciplinary working group that promotes the dialogue between the arts and sciences, with a special focus on science fiction. She has published stories, reviews, and essays in online and printed magazines, as well as various anthologies. She has a secret identity dedicated to gastronomy.
 proofread: true
 contentnote:
 ---
 
 _1531 AD_
 
-The heavenly hosts had not had such a crowded assembly in nine years. On the stand, the seven archangels reviewed folios and all spoke at once creating a mixture of voices that, thanks to their origin, did not become a cacophony. The most important vote of the day was about to begin. Remiel (who served as moderator) rang the bell to call for silence.
+The heavenly hosts had not had such a crowded assembly in nine years. On the stand, the seven archangels reviewed folios and all spoke at once, creating a mixture of voices that, thanks to their origin, did not become a cacophony. The most important vote of the day was about to begin. Remiel (who served as moderator) rang the bell to call for silence.
 
 “All right, let's move on to the main topic: we received a call from New Spain. The Bishop of Tlaxcala wishes to solicit our support in founding a new city between the Villa Rica de la Vera Veracruz and the capital.”
 
@@ -40,7 +40,7 @@ But Sariel had objections.
 
 Michael, who had been very quiet, took the floor.
 
-“We’ve seen what happened in the last decade. Since the Mexica empire fell several ancient kingdoms are now only part of a colony; the conquistadors will continue to extend their dominion to the south over the whole continent. If they act with violence, what role are we going to play in all this?”
+“We’ve seen what happened in the last decade. Since the Mexica empire fell, several ancient kingdoms are now only part of a colony; the conquistadors will continue to extend their dominion to the south over the whole continent. If they act with violence, what role are we going to play in all this?”
 
 A seraphim intervened.
 
@@ -56,7 +56,7 @@ Uriel resolved the matter.
 
 “No. This sacred ground will be a door for us, but we won’t have direct dealings with the clergy. The bishop projects that this city will serve precisely to avoid favoritism towards the Spaniards and, although it will be under the power of the angels, we will not interfere in human politics. It will be useful to the extent that it allows us to do our work better. Plus, this is the first time that the angels would have a city in the New World.”  
 
-The discussion continued, but little by little the angels, thrones, choirs, and seraphim, were added to the accord. In the end, construction of the headquarters was approved by majority vote.
+The discussion continued but, little by little, the angels, thrones, choirs, and seraphim were added to the accord. In the end, construction of the headquarters was approved by majority vote.
 
 ----
 
@@ -66,7 +66,7 @@ Dear Juan José,
 
 I hope this finds you and your family in good health.
 
-I have entered the service of a priest of the order of the Franciscans and I am pleasantly surprised to find myself in a city as superb as Puebla de los Ángeles. Above all, because of the good disposition of its illustrious inhabitants to the well-appointed table (as you well know, dear friend, the Lord chose the sin of gluttony to be my sackcloth). It prides itself on being a pious city. The Holy Mother has a lot of favor because the Cathedral is of Marian dedication and we are about to celebrate the centennial of its consecration.
+I have entered the service of a priest of the order of the Franciscans and I am pleasantly surprised to find myself in a city as superb as Puebla de los Ángeles. Above all, because of how well disposed the illustrious inhabitants of this city are towards a richly-appointed table (as you well know, dear friend, the Lord chose the sin of gluttony to be my sackcloth). It prides itself on being a pious city. The Holy Mother has a lot of favor because the Cathedral is of Marian dedication and we are about to celebrate the centennial of its consecration.
 
 The only shadow that weighs on my heart is because of the children. Here they do not let native children mingle in the games of Creole children and people who consider themselves illustrious. When I asked one of the friars if they gave catechism to everyone together or divided them into groups, he looked at me as if I wanted to feed him a rat.
 

@@ -1,7 +1,7 @@
 ---
 layout: story
 title: The Staircase to the Moon
-author: M.K. Hutchins
+author: M. K. Hutchins
 editor: Julia Rios
 date: 2019-07-30 01:00:01 -0500
 category: short story
@@ -11,14 +11,14 @@ published: false
 teaser: "Earth goddesses always die for their people."
 author-img: m-k-hutchins.jpg
 author-bio: |
-  M.K. Hutchins regularly draws on her background in archaeology when writing fiction.  Her YA fantasy novel _Drift_ was a VOYA Topshelf Honoree, and her next novel, _The Redwood Palace_, is coming out in July 2019. Her short fiction appears in _Fireside Magazine_, _Podcastle_, _Strange Horizons_, and elsewhere. A long-time Idahoan, she now lives in Utah with her husband and four children. Find her at [www.mkhutchins.com](http://www.mkhutchins.com).
+  M. K. Hutchins regularly draws on her background in archaeology when writing fiction.  Her YA fantasy novel _Drift_ was a VOYA Topshelf Honoree, and her next novel, _The Redwood Palace_, is coming out in July 2019. Her short fiction appears in _Fireside Magazine_, _Podcastle_, _Strange Horizons_, and elsewhere. A long-time Idahoan, she now lives in Utah with her husband and four children. Find her at [www.mkhutchins.com](http://www.mkhutchins.com).
 proofread: false
 art: the-staircase-to-the-moon.png
 caption: "TK"
 artist: Mary Haasdyk
 artist—img: mary-haasdyk.jpg
 artist—bio: |
-  **Mary Haasdyk** is a Calgary-based illustrator who studied at Alberta College of Art + Design. She enjoys drawing and painting both traditionally and digitally and doesn’t like being caught without her sketchbook on hand. Clients include Tor.com, ATB Financial and Frontenac House. You can follow her latest projects on instagram @maryhaasdyk 
+  **Mary Haasdyk** is a Calgary-based illustrator who studied at Alberta College of Art + Design. She enjoys drawing and painting, both traditionally and digitally, and doesn’t like being caught without her sketchbook on hand. Clients include _Tor.com_, ATB Financial, and Frontenac House. You can follow her latest projects on Instagram at @maryhaasdyk
 contentnote:
 ---
 
@@ -29,7 +29,7 @@ It was my destiny to die like my mother did. Earth goddesses always die for thei
 
 "Don't," I said. But Mother uprooted a yew tree, sharpened it to a point, and pierced her own heart.
 
-Her priests stripped away her flesh and innards and kneaded it with their feet until she turned to clay. With hammers, they shattered her bones into straw. They mixed the two together with my tears, molded her into rectangles, and dried her in the sun.
+Her priests stripped away her flesh and innards and kneaded them with their feet until she turned to clay. With hammers, they shattered her bones into straw. They mixed the two together with my tears, molded her into rectangles, and dried her in the sun.
 
 In the first century of my reign, my people craved safety. I instructed the priests to build a wall around our village. The wolves still howled at night, but everyone slept without fear.
 
@@ -57,7 +57,7 @@ But it was not enough. All of the bricks of my mother would not be enough. I pic
 
 "It's my destiny. I must be their bricks."
 
-She stared up at me, with eyes of oceans. "All of her bricks and all of your bricks might reach the moon, but never the stars. Is it my destiny to become a staircase, too?"
+She stared up at me with eyes of oceans. "All of her bricks and all of your bricks might reach the moon, but never the stars. Is it my destiny to become a staircase, too?"
 
 I wavered. My beautiful daughter.
 
@@ -65,7 +65,7 @@ From so high, I could see the criss-crossing, curving brick roads and aqueducts 
 
 "Grandmother gave them the raw power of bricks. You became a clever builder. Trust me to do my part, to invent new things. Dying isn't my destiny."
 
-Wasn't I supposed to suffer, like Mother did? Wasn't I a bad daughter if I didn't? Or was I a bad daughter, because I hadn't argued well enough to save her?
+Wasn't I supposed to suffer, like Mother did? Wasn't I a bad daughter if I didn't? Or was I a bad daughter because I hadn't argued well enough to save her?
 
 I glanced up at the Moon. Perhaps a staircase wasn't the only way to reach it. I looked down on those gently curving brick lines. I had clay in my flesh and straw in my bones. Perhaps my people needed me like this -- as a living, breathing, thinking brick, instead of a pile of blocks.
 

@@ -13,12 +13,12 @@ teaser: "First plan for your future
 save for cars children vacations houses"
 author-img: charles-payseur.jpg
 author-bio: |
-  Charles Payseur is an avid reader, writer, and reviewer of all things speculative. His fiction and poetry have appeared in _The Best American Science Fiction and Fantasy_, _Strange Horizons_, _Lightspeed Magazine_, and many more. He runs Quick Sip Reviews, has been a Hugo finalist fan writer, and can be found drunkenly reviewing _Goosebumps_ on his Patreon. When not hunting Hodags across the wilds of Wisconsin, you can find him gushing about short fiction (and his cats) on Twitter as [@ClowderofTwo](https://www.twitter.come/ClowderofTwo).
+  Charles Payseur is an avid reader, writer, and reviewer of all things speculative. His fiction and poetry have appeared in _The Best American Science Fiction and Fantasy_, _Strange Horizons_, _Lightspeed Magazine_, and many more. He runs _Quick Sip Reviews_, has been a Hugo finalist fan writer, and can be found drunkenly reviewing _Goosebumps_ on his Patreon. When not hunting Hodags across the wilds of Wisconsin, you can find him gushing about short fiction (and his cats) on Twitter as [@ClowderofTwo](https://www.twitter.come/ClowderofTwo).
 proofread: false
 ---
 
-First see to your obligations,
-your family, your career,
+First see to your obligations
+your family, your career
 your bills, always piling
 no matter how you turn off paper statements
 change email
@@ -33,8 +33,8 @@ First twist yourself around schedules
 due dates
 renewal notices
 limited time offers that will expire
-and you know the worst thing,
-&nbsp;&nbsp;&nbsp;the very worst,
+and you know the worst thing
+&nbsp;&nbsp;&nbsp;the very worst
 a person can feel is regret
 says parents saying no
 teachers saying no
@@ -51,10 +51,10 @@ save for cars children vacations houses
 retirement
 there are people making hundreds of thousands
 and still have nothing in savings
-so we’re all in the same boat really
+so we’re all in the same boat, really
 all furious peddling
 all thrashing beneath the surface
-yes some people look
+yes, some people look
 &nbsp;&nbsp;&nbsp;better off
 but their problems are not yours
 and just as valid, more valid even
@@ -89,7 +89,7 @@ yes, your time will be taken
 and sold
 to those who can afford it
 who will drink it laced with
-brandy and a bit of opium—
+brandy and a bit of opium —
 &nbsp;&nbsp;&nbsp;we assure you it’s completely legal.
 
 First fuck (only reproductively)
@@ -101,9 +101,9 @@ First tear yourself apart chasing
 &nbsp;&nbsp;&nbsp;our shadows
 cast from some sunny hill
 into your cave
-where, chained,
+where, chained
 you must listen to us
 tell you how to spend sand
-that always drifts to our beaches,
+that always drifts to our beaches
 where we are building a summer home
 and a great wall.
