@@ -24,18 +24,18 @@ Any submissions sent via email will be deleted unread.
 
 ## Short Stories
 
-Fireside is currently open to short story submissions _of 1,500 words or less_ until **Friday, April 12, 2019 at 11:59pm EST**.
+Fireside is currently closed to submissions for short stories. We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.
 
-<!--Fireside is currently closed to submissions for short stories. We will be open to short fiction submissions _of 1,500 words or less_ from **Monday, April 8 to Friday, April 12, 2019**. During that period, there will be a link to our submissions form here.<!--We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.-->
+<!--Fireside is currently open to short story submissions _of 1,500 words or less_ until **Friday, April 12, 2019 at 11:59pm EST**.-->
 
-<!-- We usually accept short stories up to 4,000 words. -->Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds. We love short short stories, like Karl Dandenell's '[We Who Stay Behind](https://firesidefiction.com/we-who-stay-behind);' '[Junebug's Magical Magnificent Mercurial Barbershop](https://firesidefiction.com/junebugs-magical-magnificent-mercurial-barbershop)' by Malon Edwards, and of course, '[Parasitismo](https://firesidefiction.com/parasitismo),' by Alberto Chimal (¡sí, aquí también se habla español!).
+<!-- We usually accept short stories up to 4,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds. We love short short stories, like Karl Dandenell's '[We Who Stay Behind](https://firesidefiction.com/we-who-stay-behind);' '[Junebug's Magical Magnificent Mercurial Barbershop](https://firesidefiction.com/junebugs-magical-magnificent-mercurial-barbershop)' by Malon Edwards, and of course, '[Parasitismo](https://firesidefiction.com/parasitismo),' by Alberto Chimal (¡sí, aquí también se habla español!).
 
-Please read the following guidelines, then use the button below to submit your work.
+Please read the following guidelines, then use the button below to submit your work.-->
 
 ### Please submit:
 - Stories in English or Spanish
 - Stories that have never been published before (translations are okay!).
-- Short stories up to <!--4,000 --> 1,500 words.
+- Short stories up to <!--4,000 --> 2,500 words.
 - Stories of any genre with a strong beginning/middle/end plot arc.
 - Submissions from anywhere in the world, from all kinds of voices.
 - Double spaced Doc, Docx, or RTF files set in a 14 point serif font like Times New Roman.
@@ -45,7 +45,7 @@ Please read the following guidelines, then use the button below to submit your w
 
 ### Please don’t send us:
 - Stories that promote fascism, racism, sexism, homophobia, ableism, etc.
-- Stories longer than <!--4,000--> 1,500 words (please don't email to ask if you're the special exception — you're not).
+- Stories longer than <!--4,000--> 2,500 words (please don't email to ask if you're the special exception — you're not).
 - PDF files
 - Stories attached to or pasted into the body of an email. Submissions sent via email will be deleted unread.
 - Stories that use intellectual property that is under copyright (we like reading fan fiction, but we don't publish it).
@@ -55,17 +55,16 @@ Please read the following guidelines, then use the button below to submit your w
 - First responses (either a rejection or a second round notice) within one month of the end of our reading period.
 - Payment of 12.5 cents per word
 
-{% include short-story-submission-button.html %}
+{% include submissions-closed-button.html %}
 
 ----
 
 ## Poetry
 
-Fireside is currently open to poetry submissions until **Friday, April 12, 2019 at 11:59pm EST**. Poems can be up to 100 lines, of any genre, and of any form — free verse or formal verse are both fine!
+Fireside is currently closed to submissions for poetry. We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.
+<!--Fireside is currently open to poetry submissions until **Friday, April 12, 2019 at 11:59pm EST**. Poems can be up to 100 lines, of any genre, and of any form — free verse or formal verse are both fine!-->
 
-<!--Fireside is currently closed to submissions for poetry. We will be open to poetry submissions from **Monday, April 8 to Friday, April 12, 2019**. During that period, there will be a link to our submissions form here.<!--We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.-->
-
-Please read the following guidelines, then use the button below to submit your work.
+<!--Please read the following guidelines, then use the button below to submit your work.-->
 
 ### Please Submit:
 - Poems up to 100 lines, of any genre, and of any form (free verse or formal verse are both fine!).
@@ -85,19 +84,20 @@ Please read the following guidelines, then use the button below to submit your w
 - Responses within 30 days of the end of our submissions period.
 - Payment of $100 per poem.
 
-{% include poetry-submission-button.html %}
+{% include submissions-closed-button.html %}
 
 ----
 
 ## Non-Fiction
 
-Fireside is currently open to pitches for nonfiction essays until **Friday, April 12, 2019 at 11:59pm EST**.
+Fireside is currently closed to submissions for nonfiction. We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.
 
-<!--Fireside is currently closed to submissions for nonfiction. We will be open to nonfiction submissions from **Monday, April 8 to Friday, April 12, 2019**. During that period, there will be a link to our submissions form here.<!--We don't have upcoming dates to announce just yet, but when we open again, there will be a link to our submissions form here.-->
+
+<!--Fireside is currently open to pitches for nonfiction essays until **Friday, April 12, 2019 at 11:59pm EST**.
 
 Fireside publishes essays which reflect our values and engage with the conversations we want to have with the world. We're looking for short proposals for essays that take on real-world subjects like politics, social justice, futurism, and more, and treat them in a compassionate, thoughtful, and challenging way.
 
-Please read the following guidelines, then use the button below to submit your work.
+Please read the following guidelines, then use the button below to submit your work.-->
 
 ### Please submit:
 - Pitches of no more than 300 words in English or Spanish, for essays of around 1,000 words, directly into the form field provided.
@@ -113,7 +113,7 @@ Please read the following guidelines, then use the button below to submit your w
 - First responses (either a rejection or a second round notice) within one month of the end of our reading period.
 - Payment of $125.00 per essay
 
-{% include nonfiction-submission-button.html %}
+{% include submissions-closed-button.html %}
 
 ----
 
@@ -138,6 +138,8 @@ Fireside is currently closed to submissions for novels and novellas. We don't ha
 ### What to expect from us:
 - While we don’t pay advances, Fireside offers royalties on sales of all books, so our authors start seeing money from their work as soon as it’s published. We negotiate rights purchased and compensation on a case by case basis, so we don’t have one standard boilerplate novel and novella contract, but we are committed to treating creators fairly.
 - Responses within 2 months of the end of our submissions period.
+
+{% include submissions-closed-button.html %}
 
 ----
 
