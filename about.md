@@ -32,10 +32,13 @@ Running Fireside isn’t cheap. Most of our revenue goes to pay for our writers 
 
 ## The Fireside Team
 
-### [Julia Rios](mailto:julia@firesidefiction.com) — Fiction Editor
+### Julia Rios — Fiction Editor
 Julia Rios is a writer, editor, podcaster, and narrator. Her fiction, non-fiction, and poetry have appeared in several places, including _Daily Science Fiction_, _Apex Magazine_, and _Goblin Fruit_. In addition to being a senior fiction editor for _Strange Horizons_ from 2012 to 2015, she has edited poetry and reprints for _Uncanny Magazine_ and co-edited several anthologies with Alisa Krasnostein, including _Kaleidoscope: Diverse YA Science Fiction and Fantasy Stories_, and the Year's Best YA Speculative Fiction series. She is a co-host of the Hugo-nominated podcast, The Skiffy and Fanty Show, a general discussion, interview, and movie review show, and [Walkthrough](https://walkthroughpodcast.com/), a discussion of exercise and geekery with Amal El-Mohtar and Layla Al-Bedawi. She has narrated stories for _Podcastle_, _Pseudopod_, and _Cast of Wonders_, and poems for the _Strange Horizons_ podcast. As one of the four co-founders of [Fuente Collective](http://www.fuenteco.com/), she is interested in encouraging creativity and community across multiple genres, cultures, and disciplines.
 
-### [Pablo Defendini](mailto:pablo@firesidefiction.com) — Publisher & Art Director
+### Chelle Parker — Copyeditor
+Chelle is a disabled, queer, non-binary, Canadian nerd and has enjoyed an unusually colourful life, having lived in or visited fourteen countries on four continents and learned seven languages along the way. Though her background is primarily in education, she has worked in environments ranging from daycares to sexual health clinics, doing jobs as diverse as librarian, baker, and Braille transcriptionist. She's staying put for the moment (more or less) in her hometown of Ottawa, Canada, where she wields her trusty red pen as a freelance [editor-for-hire](https://www.mparkerediting.com) and acts as a human shield for her chronically anxious rescue dog. Her regular gigs include copyediting for _Fireside_, translating and editing French language comic books for Europe Comics, and reviewing speculative fiction and erotica for _Publishers Weekly_. Though an unapologetic pottymouth herself, she will take a Sharpie to bad grammar on the inside of bathroom stalls.
+
+### Pablo Defendini — Publisher & Art Director
 Pablo Defendini is [a designer and developer for hire](http://defendini.com), with a focus on editorial design for digital media. He helped launch [Tor.com](http://tor.com/), before moving on to work for companies that sit in the overlap between publishing and technology, like [Open Road Media](http://openroadmedia.com/) and [O'Reilly](https://safaribooksonline.com/). Pablo was born and raised in San Juan, Puerto Rico, lives in New York City, and works with people all over the world.
 
 ### Brian White — Founding Editor
