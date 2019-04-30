@@ -57,7 +57,7 @@ But it was not enough. All of the bricks of my mother would not be enough. I pic
 
 "It's my destiny. I must be their bricks."
 
-She stared up at me with eyes of oceans. "All of her bricks and all of your bricks might reach the moon, but never the stars. Is it my destiny to become a staircase, too?"
+She stared up at me with eyes of oceans. "All of her bricks and all of your bricks might reach the Moon, but never the stars. Is it my destiny to become a staircase, too?"
 
 I wavered. My beautiful daughter.
 
