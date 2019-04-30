@@ -36,6 +36,7 @@ Not a single one of these couples ever returns to claim me as their own.
 Nothing moves in my yard for months after my latest rejection. Everyone hustles along when they go past my gate. I never lock the gate, thinking someone might somehow find their way in, but no. Not even the boys who smoke weed in the uncompleted building around the corner. December comes, and the dry, unforgiving harmattan sends spikes of wind down my side, causes the dry rot in my throat to be exposed. On the 25th, every house on Olúwo street is bathed in flashes of red and green, but my most recent coat of paint is not enough to lure the carolers from St. Jude’s Anglican. Not even that pastor with the weird haircut from down the road, the one who always comes to spray salty water down my insides and holler incomprehensibles — a seesaw dance he and I are both used to by now where, I open up the door to the pantry and let Mọ́rìnsádé do the work of chasing him and his assembly away. I could do with some sparring with him.
 
 But you don’t really know anything about being haunted, do you?
+
 You’re thinking about this all wrong. You think that if you grabbed the doorknob to my pantry, you’d feel a warm, thick ichor, and if you held it up to the light, you’d see the ichor runs the spectrum anywhere from crimson to black, and drips slowly, never quickly. Or you think you’d hear quick drips, deep in the hollows of my insides, a tap turned off somewhere inside, but not quite, and not by your own hand, not by a hand at all.
 
 But you know all of this is in your own head, don’t you? When did you last see running water on Olúwo Street? Ask yourself: when?
@@ -73,6 +74,7 @@ The nincompoop agent finally lands you, a new tenant, in March. You move in afte
 You work at something like a bank. You come home late in loosened ties, dead-eyed, and sit in the only armchair in the living room, staring at the black screen of a TV you’ve never plugged in. You drink, but not to stupor. You never clean, and when you’re away, I use my breath to do the work of chasing dust from the kitchen top you never use, chasing spiders and their webs from nooks, chasing geckos that have suddenly sensed a human presence and have arrived seeking warmth. But they will find no warmth here. They will find only a silence that draws blood.
 
 You cry at night. Stifled, into the pillows, beating the bed. Mọ́rìnsádé is undecided about this competition, and she comes by, standing in the doorway. I’m unsure if she wants to comfort you or ask you to stop drowning out her pain with the flood of your tears. She stands behind you in the mirror while you prepare for work, but your eyes hold too much agony and you cannot see. She sits in front of the not-TV, speaking in bubbles that are not sharp enough to pierce the film of despondency that has settled over you. The two of you have a staring match without eyes, a shared disquiet that goes on into the night, a disquiet so loud that even the geckos know not to move lest they get swallowed by its hollowness.
+
 Mọ́rìnsádé no longer wails at night, her cries smothered by your silence, so that even when you’re not physically present, the weight of your shadow presses down on us, chokes us, so that we cannot breathe.
 
 Everything feels wrong. We no longer feel safe, no longer feel comfortable.
@@ -114,6 +116,7 @@ You’re chattering all sorts of nonsenses, saying, _He said he saw it so it mus
 You come straight for the pantry. You try the chisel first, then the axe, then the crowbar, but you only make me angrier, more fortified. Your attempts leave marks that will never be erased. When they don’t work, you settle for luring her out, for your own entertainment and satisfaction. You try to scare her by banging on the door, then try to rile her up by calling her things she doesn’t deserve: selfish, whore, ragged bitch. All you want is one glimpse, one shot, one recording, a tale to worm your way into the centre of attention at parties or on your stupid phones; so that when they say, Pics or it didn’t happen, you’ll reply: Look at this. Told you there was something in that house.
 
 Have you ever lived an endless loop of fear and pain? How dare you?
+
 I give everything I have to ensure your attempts fail, of course. I believe that’s why you settle for tales about whom I’ve never been.
 
 The American man gets his video, as do you. Mundane sounds, amplified; flashes of light, magnified. Anything can be magic given the right circumstance. Put it in your phones, make a film, make a documentary. Spread it like wildfire. Make sure everyone knows my name.
@@ -151,6 +154,7 @@ But you do it yourself, anyway. I’m not sure why I do not resist. You step in,
 Mọ́rìnsádé hovers, wondering why her sanctuary is being invaded, then wondering who this invader is, staring at her without fear, without flinching. She asks all these things in garbled speech that comes out as bubbles, her mouth opening and closing like a fish, her eyes dead and unmoving.
 
 You just stare at her and say nothing. And that is how we know.
+
 Later on, in our fading years, it is not the passion in your voice from Operation Demolition screaming, Is nothing sacred? that will stay most with us, or you telling the American, Find another guide. It is not memories of your gifts of catfish and snails and poultry from _before_. It is not the day you move in and stay with us until you too are old and worn like the wood in my rafters.
 
 What we will remember with the most clarity, is your gaze upon us each time, how gentle it felt, and how it is all the warmth we ever needed to feel whole.
