@@ -42,7 +42,7 @@ She shook her head. Another match — lit, burning, singeing, extinguished.
 
 When we were six, we played knights and dragons for a whole day in the backyard, taking turns wielding swords and claws, shields and fangs. Right before Moira had to go home for dinner, she changed the game. She told me we were both dragons and made me jump off the roof with her, saying we could fly. I knew we'd probably die, but I jumped anyway. Ten stitches and a fractured ankle was a small price to pay for that one dizzying moment when we were airborne, when we were _dragons_ — scaled and fanged, hands entwined — together.
 
-Our parents must have figured we'd grow out of playing those kinds of games but we just got better at hiding what we did and, at age eleven, sitting in that patchouli-scented basement. All I knew about myself for sure was that I never wanted to stop playing with Moira, and that I would never be what my parents expected me to be. Moira knew it too, of course. She knew me better than anyone ever has, before or since.
+Our parents must have figured we'd grow out of playing those kinds of games but we just got better at hiding what we did. At age eleven, sitting in that patchouli-scented basement, all I knew about myself for sure was that I never wanted to stop playing with Moira, and that I would never be what my parents expected me to be. Moira knew it too, of course. She knew me better than anyone ever has, before or since.
 
 "Hold out your hand,” Moira said after sitting quietly with her eyes closed and the book open on her lap for a long time. She brought out the penknife, wiping the blade on her shirt, and I felt the darkness quicken around us, tickling my face and limbs with ghost breaths and spirit sighs.
 
@@ -66,7 +66,7 @@ _Don't chicken out_, Moira had said, and I knew she never would.
 
 After Moira left, nothing much happened for a few years, though there were flickers and murmurs of something stirring. An open window Mom said she’d closed before she went to bed. A dead crow in the yard with its eyes gouged out. Our cat, gutted in the street. Run over by a car, people said. They didn't see the runes drawn in blood on a wall nearby. I’d seen those runes in the book — the book that was still in Moira’s possession, as far as I knew.
 
-The first murder didn't happen until I was twenty. I was at university, and one Friday my room-mate asked if she could have our apartment to herself over the weekend. On the Monday, police tape was strung across the door, blood was soaked into the mattress, and her mutilated body was removed from my bed. Everyone always said the two of us looked alike, even though I could never see it. The room smelled of cheap incense and there was a pile of fragrant ash on the floor but, in the end, the police pinned it on her boyfriend, who was nowhere to be found.
+The first murder didn't happen until I was twenty. I was at university, and one Friday my roommate asked if she could have our apartment to herself over the weekend. On the Monday, police tape was strung across the door, blood was soaked into the mattress, and her mutilated body was removed from my bed. Everyone always said the two of us looked alike, even though I could never see it. The room smelled of cheap incense and there was a pile of fragrant ash on the floor but, in the end, the police pinned it on her boyfriend, who was nowhere to be found.
 
 ----
 

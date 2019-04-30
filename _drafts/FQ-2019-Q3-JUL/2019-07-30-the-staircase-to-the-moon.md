@@ -18,7 +18,7 @@ caption: "TK"
 artist: Mary Haasdyk
 artist—img: mary-haasdyk.jpg
 artist—bio: |
-  **Mary Haasdyk** is a Calgary-based illustrator who studied at Alberta College of Art + Design. She enjoys drawing and painting, both traditionally and digitally, and doesn’t like being caught without her sketchbook on hand. Clients include _Tor.com_, ATB Financial, and Frontenac House. You can follow her latest projects on Instagram at @maryhaasdyk
+  **Mary Haasdyk** is a Calgary-based illustrator who studied at Alberta College of Art + Design. She enjoys drawing and painting, both traditionally and digitally, and doesn’t like being caught without her sketchbook on hand. Clients include _Tor.com_, ATB Financial, and Frontenac House. You can follow her latest projects on Instagram at @maryhaasdyk.
 contentnote:
 ---
 
