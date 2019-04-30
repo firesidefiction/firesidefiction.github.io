@@ -6,7 +6,9 @@ editor: Julia Rios
 date: 2019-04-23 01:00:01 -0500
 category: short story
 permalink: the-jubilee
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-04-23-the-jubilee_.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "And some kept them old slavery time names, but not out of loyalty, no indeed."
 author-img: sheree-renee-thomas.jpg
 author-bio: |

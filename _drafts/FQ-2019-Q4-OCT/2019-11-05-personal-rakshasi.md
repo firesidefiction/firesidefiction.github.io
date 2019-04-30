@@ -33,13 +33,14 @@ When the mouth oozes towards her, Priya drops the stub of chalk and bolts scream
 “It’s just your imagination, Pri,” her father soothes. “There are no Rakshasis now. Even if one still existed, she wouldn’t live in our driveway.”
 
 Priya promises herself, that night, never to mention the creature again.
+
 ----
 
 Priya’s sitting on her bed, tears soaking the pages of her sketch pad. She hasn’t been invited to Emily’s pool party – the social event of tenth grade.
 
-“It’s because you’re hideous and awkward,” a disembodied voice rasps from underneath her bed. She tries to push the words from her head but they stain her dreams - their bitterness coating her tongue when she wakes.
+“It’s because you’re hideous and awkward,” a disembodied voice rasps from underneath her bed. She tries to push the words from her head but they stain her dreams – their bitterness coating her tongue when she wakes.
 
-“What’s it like to be a social outcast?” Videsh says in the upstairs hall. His laugh is clipped, ape-like.
+“What’s it like to be a social outcast?” says in the upstairs hall. His laugh is clipped, ape-like.
 
 “Shut up, loser,” she responds. Though what she wants to say is: _It’s lonely. I don’t fit anywhere and I hate myself._
 
@@ -55,7 +56,7 @@ Their father makes Videsh leave for school with her that morning. He dawdles a f
 
 “I need to get away, Dad. Not from you guys, just … to find out who I am.”
 
-“What do you mean who you are? You’re Pri-”
+“What do you mean who you are? You’re Pri–”
 
 “She should go.” Videsh cuts in.
 
@@ -68,6 +69,7 @@ Their father makes Videsh leave for school with her that morning. He dawdles a f
 Priya opens her mouth to thank Videsh.
 
 “I’m gonna setup a triple monitor and play Red Dead in your room,” he says before he slips off into the kitchen.
+
 ----
 
 The Rakshasi materializes a month into fall semester.
@@ -83,11 +85,12 @@ The Rakshasi lowers her bulbous head so close to Priya’s face, her hot breath 
 ----
 
 The Rakshasi’s roar rattles Priya’s ribs and vibrates her organs, unbalancing her from the inside out in the greyhound bus cabin. “Let me swallow you,” The Rakshasi sneers. “No one will notice.”  
+
 Priya tenses her entire body and doesn’t flinch, even as tears drip down her face. She leaves the overhead reading lamp on well after they the reach the lighted outskirts of the city and the Rakshasi has recoiled across the aisle. The giant, she’s learned, is stronger in the dark.
 
 Videsh is waiting for her at the passenger pick up. She tosses her bag into the back seat of the beat up minivan. The Rakshasi forces herself inside before Priya slides the door closed.
 
-“Hey, los-,” Videsh’s greeting hangs in the air as Priya flops into the passenger seat and massages her temples. “Uh, you okay?”
+“Hey, los–,” Videsh’s greeting hangs in the air as Priya flops into the passenger seat and massages her temples. “Uh, you okay?”
 
 “Say you’re fine.” The Rakshasi cackles from the shadows behind them. The words bloom on Priya’s lips. She bites them back before they can steal her breath.
 
