@@ -65,7 +65,7 @@ Amanda looked down. An angry man, wearing a suit jacket over a T-shirt. A giant 
 
 "Shit," murmured the man who'd come with Daddy.
 
-"Don't curse in front of my kid, asshole," he replied
+"Don't curse in front of my kid, asshole," he replied.
 
 Mommy wiped Amanda's bloody face with a wet kitchen rag. "Are you happy now?" The rag was rough and stung almost as much as the bleeding.
 
