@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2019-05-14 01:00:01 -0500
 category: short story
 permalink: your-inheritance-will-taste-of-salt
-published: false
+published: true
 teaser: "Stand on that dune and ask the sea to take you, but it won’t. You’ve tried, and so far you always had to go back."
 author-img: karolina-fedyk.jpg
 author-bio: |
