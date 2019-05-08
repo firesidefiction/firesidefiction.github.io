@@ -6,6 +6,8 @@ editor: Julia Rios
 date: 2019-05-21 01:00:01 -0500
 category: short story
 permalink: my-sister-is-a-house
+audiourl:
+narrator: C. S. E. Cooney
 published: false
 teaser: "It would have shown in the Aptitudes. I learned that much later. But when we were children, our father never told us our results."
 author-img: zoe-medeiros.jpg

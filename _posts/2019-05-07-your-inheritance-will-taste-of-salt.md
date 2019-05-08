@@ -6,6 +6,8 @@ editor: Julia Rios
 date: 2019-05-14 01:00:01 -0500
 category: short story
 permalink: your-inheritance-will-taste-of-salt
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-07-your-inheritance-will-taste-of-salt.mp3
+narrator: C. S. E. Cooney
 published: true
 teaser: "Stand on that dune and ask the sea to take you, but it won’t. You’ve tried, and so far you always had to go back."
 author-img: karolina-fedyk.jpg

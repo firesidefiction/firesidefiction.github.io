@@ -6,6 +6,8 @@ editor: Julia Rios
 date: 2019-06-27 01:00:01 -0500
 category: poem
 permalink: the-telegrapher
+audiourl:
+narrator: C. S. E. Cooney
 published: false
 teaser: "I never imagined him as a child:
 proudly clutching the hem of his mother’s dress"

@@ -6,6 +6,8 @@ editor: Julia Rios
 date: 2019-05-09 01:00:01 -0500
 category: poem
 permalink: mother-tongue
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-09-mother-tongue.mp3
+narrator: C. S. E. Cooney
 published: false
 teaser: "I can almost make out your shape
 locked inside the chambers of my heart"

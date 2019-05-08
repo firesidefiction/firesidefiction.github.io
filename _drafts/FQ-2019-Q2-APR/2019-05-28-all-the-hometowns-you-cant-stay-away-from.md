@@ -6,6 +6,8 @@ editor: Julia Rios
 date: 2019-05-28 01:00:01 -0500
 category: short story
 permalink: all-the-hometowns-you-cant-stay-away-from
+audiourl:
+narrator: C. S. E. Cooney
 published: false
 teaser: "We all do what we must to survive returning home."
 author-img: izzy-wasserstein.jpg

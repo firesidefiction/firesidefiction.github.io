@@ -6,6 +6,8 @@ editor: Julia Rios
 date: 2019-06-11 01:00:01 -0500
 category: short story
 permalink: five-stories-in-the-monsoon-night
+audiourl:
+narrator: C. S. E. Cooney
 published: false
 teaser: "He paused slightly when he saw the worn sword at my side, but he did not ask for it, and I would not have given it to him in any case."
 author-img: nghi-vo.jpg
