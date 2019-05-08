@@ -3,7 +3,7 @@ layout: story
 title: Your Inheritance Will Taste of Salt
 author: Karolina Fedyk
 editor: Julia Rios
-date: 2019-05-14 01:00:01 -0500
+date: 2019-05-7 01:00:01 -0500
 category: short story
 permalink: your-inheritance-will-taste-of-salt
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-07-your-inheritance-will-taste-of-salt.mp3
