@@ -3,6 +3,7 @@ layout: story
 title: The Secret Lives of the Nine Negro Teeth of George Washington
 author: Phenderson Djèlí Clark
 editor: Julia Rios
+selected: Brian J. White
 date: 2018-02-20 00:00:01 -0500
 category: short story
 permalink: the-secret-lives-of-the-nine-negro-teeth-of-george-washington
