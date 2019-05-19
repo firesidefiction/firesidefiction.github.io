@@ -19,7 +19,7 @@ contentnote: This story depicts a child in danger.
 
 Amanda drew while Mommy cooked dinner. Amanda was always drawing. Ever since she could hold a crayon. Sometimes she didn't even see what she drew. Her hands took over and drew what they wanted, and everything else faded away.
 
-Mommy dropped a glass and that was how Amanda realized she had done it again. On the paper was a crooked doorway, a woman with brown hair just like Mommy's, and in the half-open entrance —
+Mommy dropped a glass and that was how Amanda realized she had done it again. On the paper was a crooked doorway, a woman with brown hair just like Mommy's, and in the half-open entrance—
 
 "It's Daddy," Amanda said, rubbing the cracked skin around her fingernails.
 
@@ -65,7 +65,7 @@ Amanda looked down. An angry man, wearing a suit jacket over a T-shirt. A giant 
 
 "Shit," murmured the man who'd come with Daddy.
 
-"Don't curse in front of my kid, asshole," he replied
+"Don't curse in front of my kid, asshole," he replied.
 
 Mommy wiped Amanda's bloody face with a wet kitchen rag. "Are you happy now?" The rag was rough and stung almost as much as the bleeding.
 

@@ -6,6 +6,8 @@ editor: Julia Rios
 date: 2019-06-20 01:00:01 -0500
 category: essay
 permalink: change-comes-unevenly-protecting-trans-rights-with-the-yes-on-3-campaign
+audiourl:
+narrator: C. S. E. Cooney
 published: false
 teaser: "A yes vote kept the law as it was, protecting transgender people from discrimination in public places. A no vote repealed those protections."
 author-img: a-a-mcnamara.jpg

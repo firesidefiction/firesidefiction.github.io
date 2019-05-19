@@ -11,7 +11,7 @@ published: false
 teaser: "If the conquistadors are going to build this city, does that mean that now the angels will work with the Spanish clergy and be their allies?"
 author-img: libia-brenda.jpg
 author-bio: |
-  **Libia Brenda** (Puebla, 1974) studied Hispanic Language and Literature, has spent the last twenty years making books, and writes science fiction and fantasy short stories. She is the co-founder of the Cúmulo de Tesla collective ([@Cumulodetesla](https://www.twitter.com/Cumulodetesla) on Twitter), a multidisciplinary working group that promotes the dialogue between the arts and sciences, with a special focus on science fiction. She has published stories, reviews, and essays in online and printed magazines, as well as various anthologies. She has a secret identity dedicated to gastronomy.
+  **Libia Brenda** (Puebla, 1974) is an editor and writer. She has spent the last twenty years making books (the majority of her work is on independent small publications), and writes science fiction and fantasy short stories. She is the co-founder of the Cúmulo de Tesla collective (@Cumulodetesla on Twitter), a multidisciplinary working group that promotes the dialogue between the arts and sciences, with a special focus on science fiction. She has published stories, reviews, and essays in online and printed magazines, as well as various anthologies. Her work has been translated from Spanish to English and Italian. In 2018 she was part of The Mexicanx Initiative, an endeavour led by John Picacio. She is a Hugo Award nominee in the Related Work category (2019), for the anthology _A Larger Reality/Una realidad más amplia_, attached to www.mexicanxinitiative.com
 proofread: true
 contentnote:
 ---
@@ -54,7 +54,7 @@ The din of discussion inundated the auditorium until Gabriel cleared his throat 
 
 Uriel resolved the matter.
 
-“No. This sacred ground will be a door for us, but we won’t have direct dealings with the clergy. The bishop projects that this city will serve precisely to avoid favoritism towards the Spaniards and, although it will be under the power of the angels, we will not interfere in human politics. It will be useful to the extent that it allows us to do our work better. Plus, this is the first time that the angels would have a city in the New World.”  
+“No. This sacred ground will be a door for us, but we won’t have direct dealings with the religious institution. The bishop projects that this city will serve precisely to avoid favoritism towards the Spaniards and, although it will be under the power of the angels, we will not interfere in human politics. It will be useful to the extent that it allows us to do our work better. Plus, this is the first time that the angels would have a city in the New World.”  
 
 The discussion continued but, little by little, the angels, thrones, choirs, and seraphim were added to the accord. In the end, construction of the headquarters was approved by majority vote.
 

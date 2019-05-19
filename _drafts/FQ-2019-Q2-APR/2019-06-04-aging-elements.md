@@ -6,6 +6,8 @@ editor: Julia Rios
 date: 2019-06-04 01:00:01 -0500
 category: short story
 permalink: aging-elements
+audiourl:
+narrator: C. S. E. Cooney
 published: false
 teaser: "It’s been years since I’ve flown. I’d forgotten how much the wings strain the muscles of your shoulders..."
 author-img: ben-francisco.jpg

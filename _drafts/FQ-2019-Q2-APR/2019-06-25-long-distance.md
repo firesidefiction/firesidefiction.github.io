@@ -7,6 +7,8 @@ translator: Julia Rios
 date: 2019-06-25 01:00:01 -0500
 category: short story
 permalink: long-distance
+audiourl:
+narrator: C. S. E. Cooney
 published: false
 teaser: "But there are other times when she calls to complain: about my absence, about her loneliness, about how cold I’ve become with her..."
 author-img: raquel-castro.jpg

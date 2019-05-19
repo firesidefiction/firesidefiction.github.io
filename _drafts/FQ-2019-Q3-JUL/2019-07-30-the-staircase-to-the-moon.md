@@ -18,7 +18,7 @@ caption: "TK"
 artist: Mary Haasdyk
 artist—img: mary-haasdyk.jpg
 artist—bio: |
-  **Mary Haasdyk** is a Calgary-based illustrator who studied at Alberta College of Art + Design. She enjoys drawing and painting, both traditionally and digitally, and doesn’t like being caught without her sketchbook on hand. Clients include _Tor.com_, ATB Financial, and Frontenac House. You can follow her latest projects on Instagram at @maryhaasdyk
+  **Mary Haasdyk** is a Calgary-based illustrator who studied at Alberta College of Art + Design. She enjoys drawing and painting, both traditionally and digitally, and doesn’t like being caught without her sketchbook on hand. Clients include _Tor.com_, ATB Financial, and Frontenac House. You can follow her latest projects on Instagram at @maryhaasdyk.
 contentnote:
 ---
 
@@ -57,7 +57,7 @@ But it was not enough. All of the bricks of my mother would not be enough. I pic
 
 "It's my destiny. I must be their bricks."
 
-She stared up at me with eyes of oceans. "All of her bricks and all of your bricks might reach the moon, but never the stars. Is it my destiny to become a staircase, too?"
+She stared up at me with eyes of oceans. "All of her bricks and all of your bricks might reach the Moon, but never the stars. Is it my destiny to become a staircase, too?"
 
 I wavered. My beautiful daughter.
 

@@ -11,7 +11,7 @@ published: false
 teaser: "Don’t meet the shopkeepers’ soot-black eyes. Don’t look at their pointed faces, their beautiful hair..."
 author-img: nibedita-sen.jpg
 author-bio: |
-  Nibedita Sen is a queer Bengali writer, editor, and gamer from Calcutta. A graduate of Clarion West 2015 and SIUC’s MFA program, her work has appeared or is forthcoming in _Podcastle_, _Nightmare Magazine_, and _Fireside Magazine_. She helps edit _GlitterShip_, an LGBTQ Science Fiction & Fantasy podcast, enjoys the company of puns and potatoes, and is nearly always hungry. Hit her up on Twitter at [@her_nibsen](https://www.twitter.com/her_nibsen).
+  Nibedita Sen is a queer Bengali writer, editor, and gamer from Calcutta. A graduate of Clarion West 2015 and SIUC’s MFA program, her work has appeared or is forthcoming in _Podcastle_, _Nightmare Magazine_, and _Fireside Magazine_. She helps edit _GlitterShip_, an LGBTQ science fiction and fantasy podcast, enjoys the company of puns and potatoes, and is nearly always hungry. Hit her up on Twitter at [@her_nibsen](https://www.twitter.com/her_nibsen).
 proofread: false
 contentnote: This story refers to domestic violence.
 ---

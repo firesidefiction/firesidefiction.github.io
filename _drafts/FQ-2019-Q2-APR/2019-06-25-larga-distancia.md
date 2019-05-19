@@ -6,6 +6,8 @@ editor: Julia Rios
 date: 2019-06-25 01:00:01 -0500
 category: short story
 permalink: larga-distancia
+audiourl:
+narrator: Pablo Defendini
 published: false
 teaser: "Pero hay otras veces en que llama para quejarse: de mi ausencia, de su soledad, de lo frío que me he vuelto con ella..."
 author-img: raquel-castro.jpg
