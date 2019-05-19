@@ -206,6 +206,19 @@ main > section {
 		  padding-left: 3px;
 		}
 	}
+	blockquote p {
+		margin-bottom: 0;
+		&:first-child:first-letter {
+		  color: $color__base--light;
+			font-weight: 300;
+			float: left;
+		  font-size: 1em;
+		  line-height: inherit;
+		  padding-top: 0;
+		  padding-right: 0;
+		  padding-left: 0;
+		}
+	}
 }
 
 .byline {
