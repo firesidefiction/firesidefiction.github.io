@@ -10,7 +10,7 @@ layout: default
   <header class="story-header">
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
     {% if page.author %}<h2 class="byline">{% if page.spanish-language %}por{% else %}by{% endif %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
-    <p>{% if page.selected %}Selected by {{ page.selected }};<\br> {% endif %}{% if page.spanish-language %}Editado por {% else %}Edited by {% endif %}{% if page.editor %}{{ page.editor }}{% else %}Brian J. White</p>{% endif %}
+    <p>{% if page.selected %}Selected by {{ page.selected }};<br> {% endif %}{% if page.spanish-language %}Editado por {% else %}Edited by {% endif %}{% if page.editor %}{{ page.editor }}{% else %}Brian J. White</p>{% endif %}
     <p>{% if page.translated %}Translated by {{ page.translator }}{% endif %}</p>
     <p>{% if page.spanish-date %}{{ page.spanish-date }}{% else %}{{ page.date | date: "%B %Y" }}{% endif %}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}
 </header>
