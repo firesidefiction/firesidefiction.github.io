@@ -3,7 +3,7 @@ layout: article
 title: Harassment Culture: You're Soaking in It
 author: Mikki Kendall
 editor: Julia Rios
-date: 2019-05-16 01:00:01 -0500
+date: 2019-05-23 01:00:01 -0500
 category: essay
 permalink: harassment-culture-youre-soaking-in-it
 audiourl:
