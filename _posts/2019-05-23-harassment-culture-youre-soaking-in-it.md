@@ -1,19 +1,19 @@
 ---
-layout: article
-title: Harassment Culture: You're Soaking in It
+layout: post
+title: "Harassment Culture: You’re Soaking in It"
 author: Mikki Kendall
 editor: Julia Rios
 date: 2019-05-23 01:00:01 -0500
 category: essay
 permalink: harassment-culture-youre-soaking-in-it
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-16-harassment-culture-youre-soaking-in-it.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "Another known harasser’s aggressive bullying behavior was excused by white women because his primary targets were women of color."
 author-img: mikki-kendall.jpg
 author-bio: |
-  **Mikki Kendall** has written for _The Washington Post-, _Boston Globe_, _Time_, _Ebony_, _Essence_, and other online and print markets. She has been published in several anthologies, both fiction and nonfiction. She edited the Locus Award-nominated anthology _Hidden Youth_ with Chesya Burke, and was part of the Hugo-nominated team of editors at _Fireside Magazine_. Born and raised in Chicago, her books _Hood Feminism_ and _Amazons, Abolitionists, and Activists: A Graphic History of Women's Fight For their Rights_ will be published by Penguin Random House in 2019.  
-proofread: false
+  **Mikki Kendall** has written for _The Washington Post_, _Boston Globe_, _Time_, _Ebony_, _Essence_, and other online and print markets. She has been published in several anthologies, both fiction and nonfiction. She edited the Locus Award-nominated anthology _Hidden Youth_ with Chesya Burke, and was part of the Hugo-nominated team of editors at _Fireside Magazine_. Born and raised in Chicago, her books _Hood Feminism_ and _Amazons, Abolitionists, and Activists: A Graphic History of Women's Fight For their Rights_ will be published by Penguin Random House in 2019.  
+proofread: true
 contentnote: This essay discusses misogynism and sexual harassment.
 ---
 
