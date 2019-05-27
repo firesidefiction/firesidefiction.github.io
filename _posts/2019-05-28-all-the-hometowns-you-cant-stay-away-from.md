@@ -6,9 +6,9 @@ editor: Julia Rios
 date: 2019-05-28 01:00:01 -0500
 category: short story
 permalink: all-the-hometowns-you-cant-stay-away-from
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-28-all-the-hometowns-you-cant-stay-away-from.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "We all do what we must to survive returning home."
 author-img: izzy-wasserstein.jpg
 author-bio: |
