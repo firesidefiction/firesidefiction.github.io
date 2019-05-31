@@ -35,7 +35,10 @@ permalink: /authors
 — [_Carver_](/issue13/chapter/carver/)
 
 ### Edward Ashton
-— [_The Bird_](/issue31/chapter/the-bird/ )
+— [_The Bird_](/issue31/chapter/the-bird/)
+
+### Cyd Athens
+— [_Poison_](/poison)
 
 ### Alec Austin
 — [_The Resurrectionists_](/the-resurrectionists)
@@ -223,6 +226,9 @@ permalink: /authors
 
 ## F
 
+### Karolina Fedyk
+— [_Your Inheritance Will Taste of Salt_](/your-inheritance-will-taste-of-salt)
+
 ### Courtney Floyd
 — [_H&D Plumbing_](/h-n-d-plumbing)
 
@@ -251,6 +257,8 @@ permalink: /authors
 
 ### Beth Goder
 — [_How to Identify an Alien Shark_](/how-to-identify-an-alien-shark)
+
+— [_How to Say I Love You with Wikipedia_](/how-to-say-i-love-you-with-wikipedia)
 
 ### Jaymee Goh
 — [_By the Storytelling Fire_](/by-the-storytelling-fire)
@@ -309,6 +317,9 @@ permalink: /authors
 ### Sarah Hollowell
 — [_Crow's Eye_](/crows-eye)
 
+### Jessica Jo Horowitz
+— [_Mother Tongue_](/mother-tongue)
+
 ### Annalee Flower Horne
 — [_CARBORUNDORUM > /DEV/NULL_](/carborundorum-dev-null)
 
@@ -322,6 +333,9 @@ permalink: /authors
 — [_Your Body, By Default_](/issue35/chapter/your-body-by-default/)
 
 — [_God Talk: Advice From A Deity in Distress_](/issue38/chapter/21/)
+
+###  Ana Hurtado
+— [_Balompié_](/balompie)
 
 ###  M.K. Hutchins
 — [_Dragon Soap_](/issue38/chapter/25/)
@@ -386,6 +400,8 @@ permalink: /authors
 
 — [_Snow White_](/snow-white)
 
+— [_Harassment Culture: You’re Soaking in It_](/harassment-culture-youre-soaking-in-it)
+
 ### Keffy R. M. Kehrli
 — [_Mice_](/issue4/chapter/mice/)
 
@@ -428,6 +444,9 @@ permalink: /authors
 ### Mary Soon Lee
 — [_Lord Serpent_](/lord-serpent)
 
+### Rose Lemberg
+— [_Medusa_](/medusa)
+
 ### Marissa Lingen
 — [_Flow_](/flow/)
 
@@ -464,6 +483,9 @@ permalink: /authors
 ### Stefon Mears
 — [_Ask The Cats_](/issue11/chapter/ask-the-cats/)
 
+### Zoë Medeiros
+— [_My Sister Is a House_](/my-sister-is-a-house)
+
 ### Brian M. Milton
 — [_Rab the Giant versus the Witch of the Waterfall_](/rab-the-giant-versus-the-witch-of-the-waterfall)
 
@@ -492,6 +514,9 @@ permalink: /authors
 -[_The Whale of Tikpiti’i_](/the-whale-of-tikpitii)
 
 -[_Reclaiming the Right to Truth_](/reclaiming-the-right-to-truth)
+
+### Derek Newman—Stille
+-[_Faded_](/faded)
 
 ### Mari Ness
 — [_The Middle Child’s Practical Guide to Surviving a Fairy Tale_](/issue33/chapter/the-middle-childs-practical-guide-to-surviving-a-fairy-tale/)
@@ -642,6 +667,9 @@ permalink: /authors
 ### Effie Seiberg
 — [_Re: Little Miss Apocalypse Playset_](/issue30/chapter/re-little-miss-apocalypse-playset/)
 
+### Alexandra Seidel
+— [_You Are Bleeding_](/you-are-bleeding)
+
 ### Nibedita Sen
 — [_Pigeons_](/pigeons)
 
@@ -705,6 +733,8 @@ permalink: /authors
 ### Sheree Renée Thomas
 — [_Roots to Touch Sky_](/roots-to-touch-sky)
 
+— [_The Jubilee_](/the-jubilee)
+
 ### Sydnee Thompson
 — [_The Paladin Protocol_](/the-paladin-protocol)
 
@@ -728,7 +758,10 @@ permalink: /authors
 
 ## V
 
-### Sabrina Vourbvoulias
+### José González Vargas
+— [_Chiripas_](/chiripas)
+
+### Sabrina Vourvoulias
 — [_Teeth_](/teeth)
 
 ----
@@ -743,6 +776,9 @@ permalink: /authors
 
 ### LaShawn M. Wanak
 — [_One For Sorrow, Two For Joy_](/one-for-sorrow-two-for-joy)
+
+### Izzy Wasserstein
+— [_All the Hometowns You Can't Stay Away From_](/all-the-hometowns-you-cant-stay-away-from)
 
 ### Chuck Wendig
 — [_Emerald Lakes, an Atlanta Burns story_](/issue1/chapter/emerald-lakes/)
