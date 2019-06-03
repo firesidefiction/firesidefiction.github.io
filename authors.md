@@ -237,6 +237,9 @@ permalink: /authors
 ### Eric Francis
 — [_The Boy_](/issue17/chapter/the-boy/)
 
+### Ben Francisco
+— [_Aging Elements_](/aging-elements)
+
 ----
 
 ## G

@@ -6,15 +6,15 @@ editor: Julia Rios
 date: 2019-06-04 01:00:01 -0500
 category: short story
 permalink: aging-elements
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-04-aging-elements.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "It’s been years since I’ve flown. I’d forgotten how much the wings strain the muscles of your shoulders..."
 author-img: ben-francisco.jpg
 author-bio: |
   **Ben Francisco**'s stories have been published in _Podcastle_, _Realms of Fantasy_, _Dreaming Again_, _Lady Churchill's Rosebud Wristlet_, _Shimmer Magazine_, _Best Gay Stories_, _Wilde Stories_, and _From Macho to Mariposa: New Gay Latino Fiction_.
   His stories range from magic realism to space opera, and have been known to feature oversexed ghosts, depressed precognitive psychics, and pantheistic vampire aliens who reproduce like moss. Common themes include cultural misunderstandings, family dysfunctions, LGBT experiences, and spiritual searches.
-proofread: false
+proofread: true
 contentnote:
 ---
 
