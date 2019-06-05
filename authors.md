@@ -474,6 +474,9 @@ permalink: /authors
 ### Arkady Martine
 — [_Object-Oriented_](/object-oriented/)
 
+### Rešoketšwe Manenzhe
+— [_The Telegrapher_](/the-telegrapher)
+
 ### James McGee
 — [_Sell it Like Death_](/issue6/chapter/sell-it-like-death/)
 

@@ -55,6 +55,7 @@ layout: default
 
   <div>
     {{ content }}
+    <h5>© {{ page.date | date: "%Y" }} {{ page.author }}</h5>
     {% include bios.html %}
   </div>
 
