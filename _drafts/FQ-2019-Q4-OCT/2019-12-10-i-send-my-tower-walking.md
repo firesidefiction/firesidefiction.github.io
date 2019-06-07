@@ -16,7 +16,7 @@ artist: Artist Name
 artist-img: artist-name.jpg
 author-img: amanda-helms.jpg
 author-bio: |
-  Amanda Helms is a science fiction and fantasy writer whose fiction has appeared in or is forthcoming from _The Cackle of Cthulhu_ anthology, _Daily Science Fiction_, _Future Science Fiction Digest_, and elsewhere. Amanda blogs infrequently at [amandahelms.com](http://www.amandahelms.com) and tweets with a smidgen more frequency as [@amandaghelms](https://www.twitter.com/amandaghelms). She and her husband live in Colorado with their increasingly lazy Boxer mix.  
+  Amanda Helms is a science fiction and fantasy writer whose fiction has appeared in or is forthcoming from _The Cackle of Cthulhu_ (Baen, 2018), _Daily Science Fiction_, _Future Science Fiction Digest_, and elsewhere. Amanda blogs infrequently at [amandahelms.com](http://www.amandahelms.com) and tweets with a smidgen more frequency as [@amandaghelms](https://www.twitter.com/amandaghelms). She and her husband live in Colorado with their increasingly lazy Boxer mix.  
 proofread: false
 contentnote:
 
@@ -26,11 +26,11 @@ In the cool of night, as the owls hoot and moonlight streams through my window, 
 
 (I used to love my hair's color, till during your assail you shouted how you'd heard of its beauty and that it made you love me sight unseen.)
 
-My hair is long, but it's painful for me and my tower both. If I did not adore my tower so, I would resent being so closely pressed to it that the rough stone marks my cheek, I would resent not being able to take so much as a step away from its wall, lest I pull all the hair from my head and break the spell.
+My hair is long, but it's painful for me and my tower both. If I did not adore my tower so, I would resent being so closely pressed to it that the rough stone marks my cheek. I would resent not being able to take so much as a step away from its wall, lest I pull all the hair from my head and break the spell.
 
 But I love my tower, and I whisper the spell, and so I send it walking.
 
-It starts as a rumble, ten stories below, where my tower's slick stones bite into the earth. The rumble roars up, splitting it along its mortar on two circular sides, so that it forms legs, after a fashion. And oh, my tower groans at this, and I weep, for it hurts it so to do this, but it loves me enough to do whatever I ask, and I — I want it to walk.
+It starts as a rumble, ten stories below, where my tower's slick stones bite into the earth. The rumble roars up, splitting it along its mortar on two circular sides, so that it forms legs, after a fashion. And oh, my tower groans at this, and I weep, for it hurts it so to do this, but it loves me enough to do whatever I ask, and I— I want it to walk.
 
 (Is it vindictive of me, if I say that in my most furious moments, I wanted it to crush you? But, ah, I am not a murderer.)
 
