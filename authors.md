@@ -767,6 +767,9 @@ permalink: /authors
 ### José González Vargas
 — [_Chiripas_](/chiripas)
 
+### Nghi Vo
+— [_Five Stories in the Monsoon Night_](/five-stories-in-the-monsoon-night)
+
 ### Sabrina Vourvoulias
 — [_Teeth_](/teeth)
 

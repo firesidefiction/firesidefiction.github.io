@@ -6,14 +6,14 @@ editor: Julia Rios
 date: 2019-06-11 01:00:01 -0500
 category: short story
 permalink: five-stories-in-the-monsoon-night
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-11-five-stories-in-the-monsoon-night.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "He paused slightly when he saw the worn sword at my side, but he did not ask for it, and I would not have given it to him in any case."
 author-img: nghi-vo.jpg
 author-bio: |
   **Nghi Vo** lives on the shores of Lake Michigan, and her fiction has appeared in _Strange Horizons_, _Uncanny Magazine_, _PodCastle_, and _Lightspeed_. Her short story "Neither Witch nor Fairy" is on the 2014 Tiptree Award Honor List. She believes in the ritual of lipstick, the power of stories, and the right to change your mind. She can be reached at bridgeofbirds@gmail.com.
-art: five-stories-in-the-monsoon-night.png
+art: five-stories-in-the-monsoon-night.jpg
 caption: "Hands pull noodles. In the center, a steaming bowl. Behind that, a menacing snake."
 artist: Ora Xu
 artist-img: ora-xu.jpg
