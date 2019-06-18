@@ -6,9 +6,9 @@ editor: Julia Rios
 date: 2019-06-18 01:00:01 -0500
 category: short story
 permalink: bubbles-and-his-biped
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-18-bubbles-and-his-biped.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "MacKenzie’s body had fought off the diseases, and she’d dodged the vines, and when roaches had invaded her dorm, Bubbles had killed them..."
 author-img: mary-berman.jpg
 author-bio: |

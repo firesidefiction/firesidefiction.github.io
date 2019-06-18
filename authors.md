@@ -65,6 +65,9 @@ permalink: /authors
 ### M. Bennardo
 — [_Sun Tea_](/issue15/chapter/sun-tea/)
 
+### Mary Berman
+— [_Bubbles and His Biped_](/bubbles-and-his-biped)
+
 ### Susan Jane Bigelow
 — [_The Day After the Red Warlock of Skull Top Mountain Turned Everyone in Beane County into Pigs_](/the-day-after-the-red-warlock-of-skull-top-mountain-turned-everyone-in-beane-county-into-pigs)
 
