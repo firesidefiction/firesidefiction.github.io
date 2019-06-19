@@ -468,6 +468,9 @@ permalink: /authors
 
 ## M
 
+### A. A. McNamara
+— [_Change Comes Unevenly: Protecting Trans Rights with the Yes on 3 Campaign_](/change-comes-unevenly-protecting-trans-rights-with-the-yes-on-3-campaign)
+
 ### S.M. Mack
 — [_Ariadne, Abandoned on Naxos_](/issue35/chapter/ariadne-abandoned-on-naxos/)
 
