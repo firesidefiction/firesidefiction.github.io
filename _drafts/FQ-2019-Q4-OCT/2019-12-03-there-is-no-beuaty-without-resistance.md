@@ -12,11 +12,13 @@ published: false
 teaser: "Don’t trust anyone who tries to filter you. Filter yourself. Apply the filter of your choice directly to your face."
 art: title-of-the-story.png
 caption: "Alt text for image"
-artist: Artist Name
-artist-img: artist-name.jpg
+artist: Stephanie Singleton
+artist-img: stephanie-singleton.jpg
+artist-bio: |
+  Stephanie Singleton is a freelance illustrator currently based in Toronto, Canada.
 author-img: dominica-phetteplace.jpg
 author-bio: |
-  Dominica Phetteplace is a writer and math tutor. Her work has appeared in _Asimov's Science Fiction_, _Analog Science Fiction and Fact_, _The Magazine of Fantasy & Science Fiction_, _Clarkesworld Magazine_, _Escape Pod_, _Lightspeed Magazine_, and _The Year's Best Science Fiction and Fantasy_.
+  Dominica Phetteplace is a writer and math tutor. Her work has appeared in _Asimov's Science Fiction_, _Analog Science Fiction and Fact_, _The Magazine of Fantasy & Science Fiction_, _Clarkesworld Magazine_, _Escape Pod_, _Lightspeed Magazine_, and _The Year's Best Science Fiction and Fantasy 2017_.
 proofread: false
 contentnote:
 
@@ -40,8 +42,8 @@ I wondered how she did it. She was a superhero, but superheroes couldn’t do it
 
 I exfoliated and moisturized. I plucked my brows. I wore tight clothes under my loose clothes. I wasn’t like her, not brave enough to openly break the rules. I looked for ways to disobey without being flagrantly disobedient. Jazmyn’s tutorial on posture and body language changed my life. My parents warned me that I was becoming unattractive. Maybe so. But Jazmyn always said that true beauty requires an element of something repulsive.
 
-The Jazmyn from my stories walked the streets, unrecognized. She could be anybody. I imagined a tutorial that could make her look like me. I used Tor and shared PGP keys, a thing Jazmyn had taught me about, to post my stories on the fan forums without getting caught. My stories were my art. My stories were important because they always wrote happy endings for Jazmyn. Not like ‘real life’ where the state-sponsored propaganda outlets featured reports of her arrest and capture. Fake news. Her publicly broadcasted torture? Also fake. In my stories, the reason she stopped posting is because she moved to my town. She wanted a normal life. She enrolled in my school and became my best friend.
+The Jazmyn from my stories walked the streets, unrecognized. She could be anybody. I imagined a tutorial that could make her look like me. I used Tor and shared PGP keys, a thing Jazmyn had taught me about, to post my stories on the fan forums without getting caught. My stories were my art. My stories were important because they always wrote happy endings for Jazmyn. Not like ‘real life,’ where the state-sponsored propaganda outlets featured reports of her arrest and capture. Fake news. Her publicly broadcasted torture? Also fake. In my stories, the reason she stopped posting is because she moved to my town. She wanted a normal life. She enrolled in my school and became my best friend.
 
-I got older and things got worse. I couldn’t think of any more stories, and anyway, it had been years since she last posted. I started to think she really had died. But then I got even older and after some hard-fought victories, I felt her very much alive in me. I figured out a happy ending that might actually be true.
+I got older and things got worse. I couldn’t think of any more stories, and anyway, it had been years since she last posted. I started to think she really had died. But then I got even older, and after some hard-fought victories, I felt her very much alive in me. I figured out a happy ending that might actually be true.
 
-I wrote a story about how she escaped captivity and uploaded herself to the cloud. How she distributed herself across billions of tiny hard drives and how many of us implanted those hard drives directly into our own bodies so we could wear her like we wore our memories. Invisible, like our concealer. Ever present, like our long-lasting lipstick. She saw us through our screens and through our mirrors. She hadn’t just seen the things we had lost. She had also survived long enough to see the things we won back.
+I wrote a story about how she escaped captivity and uploaded herself to the cloud. How she distributed herself across billions of tiny hard drives, and how many of us implanted those hard drives directly into our own bodies so we could wear her like we wore our memories. Invisible, like our concealer. Ever present, like our long-lasting lipstick. She saw us through our screens and through our mirrors. She hadn’t just seen the things we had lost. She had also survived long enough to see the things we won back.

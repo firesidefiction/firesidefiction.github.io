@@ -16,13 +16,15 @@ artist: Artist Name
 artist-img: artist-name.jpg
 author-img: francesca-forrest.jpg
 author-bio: |
-  Francesca Forrest is the author of _The Inconvenient God_ (Annorlunda Books, 2018), about a slacker god with a mysterious past, and the novel _Pen Pal_ (2013), a story of friendship and heroism from the margins, and as well as short stories that have appeared in _Not One of Us_, _Strange Horizons_, and other online and print venues, including anthologies. She’s old enough to have four grown children and young enough not to have mastered object permanence just yet. She lives in western Massachusetts.
+  Francesca Forrest is the author of _The Inconvenient God_ (Annorlunda Books, 2018), about a slacker god with a mysterious past, and the novel _Pen Pal_ (2013), a story of friendship and heroism from the margins, as well as short stories that have appeared in _Not One of Us_, _Strange Horizons_, and other online and print venues, including anthologies. She’s old enough to have four grown children and young enough not to have mastered object permanence just yet. She lives in western Massachusetts.
 proofread: false
 contentnote:
 
 ---
 
-“Washing area is there, and you can hang your things on that pole,” the manager of the hostel said, pointing to a large stone sink and then to a pole not yet fluttering with shirts and skirts and trousers. “No more than two buckets of water per lodger per wash — it’s metered, so don’t try to take more; it’ll turn off — and no more than three washes a week. And tell me if the boy bothers you.” With that the manager stumped back to the rooftop door, which snapped shut like a brisk salute after him.
+“Washing area is there, and you can hang your things on that pole,” the manager of the hostel said, pointing to a large stone sink and then to a pole not yet fluttering with shirts and skirts and trousers. “No more than two buckets of water per lodger per wash — it’s metered, so don’t try to take more; it’ll turn off — and no more than three washes a week. And tell me if the boy bothers you.”
+
+With that, the manager stumped back to the rooftop door, which snapped shut like a brisk salute after him.
 
 The boy was perched on the cylindrical water tank that lay alongside the sink, bare feet gripping its curve, a pair of expensive Athletics lying discarded at the tank’s base. A fluff of black hair framed a sweet face — dark eyes and light brown skin, and a mouth whose relaxed position seemed to be a slight smile. He was wearing new jeans and a brilliant white T-shirt — and also entrailware, which, thankfully, he wasn’t using to reveal the muscles or bones of his face the way so many teens do. Instead, he had a heart-shaped window over his actual heart, which I could see beating when he sat still. He caught me staring.
 
@@ -44,7 +46,7 @@ I dipped a T-shirt in the bucket, rubbed some soap in, and started scrubbing aga
 
 The boy pulled his knees up to his chest — hiding his lover’s heart—and tipped his face toward the glaring blue sky. Swifts were chittering and diving overhead, dipping in and out of the town hall’s belfry.
 
-“They told me I gotta marry the clouds. Be a husband to them, you know, so then ...” Words gave way to awkward laughter. Poor kid. It’s not the sort of thing it’s easy to talk about with someone your mother’s age. But he didn’t need to say any more. I knew only too well what came next.
+“They told me I gotta marry the clouds. Be a husband to them, you know, so then....” Words gave way to awkward laughter. Poor kid. It’s not the sort of thing it’s easy to talk about with someone your mother’s age. But he didn’t need to say any more. I knew only too well what came next.
 
 “So then they birth a little rain for the town — is that the idea?” I asked.
 
@@ -56,15 +58,15 @@ Memories assailed me. Seeding the rain, luring the rain — it all came to the s
 
 “Did you marry the clouds too?” asked the boy.
 
-“The rain.” I grimaced. “Where I grew up, they had this idea that if a drought went on for more than a year, you had to find someone to entice the rain to come. It had to be someone young and unattached — and someone whose parents wouldn’t put up a fuss if they were picked. If you were picked, you couldn’t stay with people anymore — you were promised to the rain.
+“The rain.” I grimaced. “Where I grew up, they had this idea that if a drought went on for more than a year, you had to find someone to entice the rain to come. It had to be someone young and unattached — and someone whose parents wouldn’t put up a fuss if they were picked. If you were picked, you couldn’t stay with people anymore — you were promised to the rain."
 
 “And they picked you? You must’ve been good looking when you were young.”
 
-I gave the boy a withering look. “Thanks pal. You wait and see how you look at my age.”
+I gave the boy a withering look. “Thanks, pal. You wait and see how you look at my age.”
 
 The boy just grinned. “So what was it like?”
 
-“Eh, at first it was okay. They threw me a big party — there was angel food cake topped with whipped cream — and they gave me a necklace and bracelets strung with glass beads shaped like raindrops, and a white satin dress covered in more of those same beads, and after the party I rode in the bed of a pickup truck with plywood clouds attached to its sides, like I was sitting in the clouds. The truck when all through the town, and everyone turned out to see me and cheer and wave. The ride ended at a cornfield. Out in the middle of all these struggling seedlings was a porta potty and white tablecloth, and that was it. I was supposed to sit on the tablecloth and wait for the rain, which was supposed to be so attracted to me that it couldn’t resist falling.” I stopped my scrubbing, remembering. “I sat there, day after day. You can’t imagine how boring it was. No friends, no books, no screens, no music, no nothing. And no privacy. There was an honor guard posted around the field, supposedly to keep people away from me, but it was also to keep me from running off. And the rain just wouldn’t fall.”
+“Eh, at first it was okay. They threw me a big party — there was angel food cake topped with whipped cream — and they gave me a necklace and bracelets strung with glass beads shaped like raindrops, and a white satin dress covered in more of those same beads, and after the party I rode in the bed of a pickup truck with plywood clouds attached to its sides, like I was sitting in the clouds. The truck went all through the town, and everyone turned out to see me and cheer and wave. The ride ended at a cornfield. Out in the middle of all these struggling seedlings was a porta potty and white tablecloth, and that was it. I was supposed to sit on the tablecloth and wait for the rain, which was supposed to be so attracted to me that it couldn’t resist falling.” I stopped my scrubbing, remembering. “I sat there, day after day. You can’t imagine how boring it was. No friends, no books, no screens, no music, no nothing. And no privacy. There was an honor guard posted around the field, supposedly to keep people away from me, but it was also to keep me from running off. And the rain just wouldn’t fall.”
 
 “Maybe it would’ve preferred a boy,” suggested the boy.
 
@@ -78,13 +80,13 @@ The boy frowned a little and began an examination of his toenails.
 
 “They gave me a big party too,” he said. “Got me all this.” His hand indicated the T-shirt, the jeans, the Athletics. “They didn’t want me to wear my Entrailware but I saved up nine months to buy it, no way I’m not wearing it.”
 
-“I can understand that.” I straightened up, wiped my hands on my pants. “Listen. How about I go out and get a pair of cable cutters. You could climb down from here, right? It’s only two stories high. I can bring you a rope if you want.”
+“I can understand that.” I straightened up, wiped my hands on my pants. “Listen. How about I go out and get a pair of cable cutters. You could climb down from here, right? It’s only two stories high. I can bring you a rope, if you want.”
 
 The boy looked me full in the face, chin high.
 
 “You don’t think the clouds will like me?”
 
-“It’s not that, it’s just — ”
+“It’s not that, it’s just— ”
 
 “Like I told you, I’m not running. I’m waiting for the clouds. You know what? I sing to the sky every morning when the sun comes up and again when it goes down. I’m calling the clouds. Did you sing to the rain? I think the clouds’ll come.” He searched my face. “You don’t think so?”
 
@@ -98,9 +100,9 @@ This was so outrageously wrong that I burst out laughing.
 
 “What was it like the first time it did come, after you ran away — the first time you felt it after that?” he persisted.
 
-It had been quite a while before the rain found me, with my family, on the outskirts of the capital. We were trying to get to the train station by noon, because the train was free through noon that day for climate migrants—anything to move us along. We hadn’t noticed the skies darkening or the winds picking up, and then all of a sudden it was pouring, raindrops hitting the streets and bouncing up again, a million million tiny acrobats, making a haze at knee level. We huddled briefly under the awning of a luncheonette, but when the rain didn’t let up, my parents moved us along. Within a few moments we were drenched, our clothes clinging to us in slick folds, our hair sending small rivulets down our backs and into our faces, our feet squelching in our shoes.
+It had been quite a while before the rain found me, with my family, on the outskirts of the capital. We were trying to get to the train station by noon, because the train was free through noon that day for climate migrants — anything to move us along. We hadn’t noticed the skies darkening or the winds picking up, and then all of a sudden it was pouring, raindrops hitting the streets and bouncing up again, a million million tiny acrobats making a haze at knee level. We huddled briefly under the awning of a luncheonette, but when the rain didn’t let up, my parents moved us along. Within a few moments, we were drenched, our clothes clinging to us in slick folds, our hair sending small rivulets down our backs and into our faces, our feet squelching in our shoes.
 
-It had been miserable. I certainly hadn’t thought of the rain as coming to me or for me — then or ever. Now, talking to the boy, something opened up inside me, a parched crack, a lack. It pained me.
+It had been miserable. I certainly hadn’t thought of the rain as coming to me or for me — then or ever. Now, talking to the boy, something opened up inside me — a parched crack, a lack. It pained me.
 
 The boy was still waiting for my answer.
 
@@ -152,23 +154,23 @@ A small sigh escaped him and floated off into the night. “Yeah, I’m still go
 
 “That’s good. Here.” I lifted the cable cutters and rope out of my pack and set them down beside him. “These are for you. You get away from here and go to the nearest city, okay? Find a Climate Victims office, tell them your story. They’ll be able to get your school records, set you up in school there, you can keep doing your music — you’ll be okay. Okay? I’d offer to take you with me, but I’m always traveling, and you should finish your schooling. But go. Don’t worry about family, don’t worry about the mayor, and please, please, don’t worry about the clouds. The cloud’s’ll love you just as well wherever they find you as they will if they find you here, and I really don’t think they’re coming here anytime soon.”
 
-The boy didn’t answer for a long time, and he didn’t make any move to take the cable cutters or the rope. But at last he thanked me — just that, nothing more. Another long, silent, minute passed. I was about to say goodbye when the boy spoke again.
+The boy didn’t answer for a long time, and he didn’t make any move to take the cable cutters or the rope. But at last, he thanked me — just that, nothing more. Another long, silent, minute passed. I was about to say goodbye when the boy spoke again.
 
 “You know what I was wondering?”
 
 “What?”
 
-“If I do it with the clouds, and then they rain ... If there’s girls or ladies who get caught out in that rain ... would they have babies that looked like me?”
+“If I do it with the clouds, and then they rain.... If there’s girls or ladies who get caught out in that rain ... would they have babies that looked like me?”
 
 “Kid, you’ve got to know that’s not how pregnancy works.”
 
-“I know it’s not usually how it works, but — ”
+“I know it’s not usually how it works, but— ”
 
 “It’s never how it works.”
 
 I waited for him to acknowledge this, but he didn’t speak again. I’d put my clothes in my pack, and I’d given him the cable cutters and rope. I had to go.
 
-“Good luck,” I said, “Whatever you end up doing.”
+“Good luck,” I said. “Whatever you end up doing.”
 
 “Thanks,” he said. “Maybe you can fix things between you and the rain one day.”
 

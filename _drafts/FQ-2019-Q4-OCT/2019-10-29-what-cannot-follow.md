@@ -16,7 +16,7 @@ artist: Artist Name
 artist-img: artist-name.jpg
 author-img: eugenia-triantafyllou.jpg
 author-bio: |
-  Eugenia Triantafyllou is a Greek author and artist. She writes ghost stories. She currently lives in Northern Sweden with a boy and a dog. Her short fiction has appeared in _Apex Magazine_, _Strange Horizons_, _Black Static_, and other venues. You can find her on Twitter as [@FoxesandRoses](https://www.twitter.com/FoxesandRoses) or at her website [https://eugeniatriantafyllou.wordpress.com](https://eugeniatriantafyllou.wordpress.com).  
+  Eugenia Triantafyllou is a Greek author and artist. She writes ghost stories. She currently lives in northern Sweden with a boy and a dog. Her short fiction has appeared in _Apex Magazine_, _Strange Horizons_, _Black Static_, and other venues. You can find her on Twitter as [@FoxesandRoses](https://www.twitter.com/FoxesandRoses) or at her website [https://eugeniatriantafyllou.wordpress.com](https://eugeniatriantafyllou.wordpress.com).  
 proofread: false
 contentnote:
 
@@ -39,7 +39,7 @@ _2.	Ghosts always follow their families._
 
 The exorcist comes out of the house looking beaten, the collar of his shirt undone.
 
-"She won't leave," he says, sweat dripping down his chin. "I burned the haunted chair, but her grief has seeped into the walls. We would have to remove the floorboards and change the tapestry and ..."
+"She won't leave," he says, sweat dripping down his chin. "I burned the haunted chair, but her grief has seeped into the walls. We would have to remove the floorboards and change the tapestry and...."
 
 But that's not why she won't leave, Eva knows. The ghost could move on if she wanted to. Vanish into thin air in an instant. But she let her essence permeate the house itself to have an anchor to this world for as long as she wishes. She is still waiting for the family who left her behind fifty years ago. Eva wonders if the ghost knows how much time has passed, that probably most of her family is dead or ghosts themselves. Wonders if she would recognize them at all anymore.
 
@@ -51,7 +51,7 @@ What the exorcist doesn't notice is the swing seat at the side of the garden, ro
 
 "Got to go. I've got two more houses today."
 
-He offers his hand and Eva takes it absent-mindedly. Her gaze fixed on the swing seat.
+He offers his hand and Eva takes it absent-mindedly, her gaze fixed on the swing seat.
 
 "But not the window," she whispers.
 
@@ -61,7 +61,7 @@ He offers his hand and Eva takes it absent-mindedly. Her gaze fixed on the swing
 
 He glances at his watch, impatient.
 
-"Um...yeah, sure. Got to run now."
+"Um.... Yeah, sure. Got to run now."
 
 _3.	Strangers' ghosts don't make good roommates._
 
@@ -91,7 +91,7 @@ The baby chuckles and the woman's expression softens.
 
 Eva breathes out the tightening in her chest. She tries to remember the name the man told her.
 
-"Alexandra, is that your name?"
+"Alexandra. Is that your name?"
 
 The woman nods and strokes the baby's cheek. Her hands are solid now. Eva flinches but the baby laughs and gurgles.
 

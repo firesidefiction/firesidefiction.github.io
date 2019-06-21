@@ -38,17 +38,11 @@ The rumbles ease as my tower pulls its stone legs free of the earth and thumps t
 
 In the forest, we do our best not to hurt the squirrels or the deer. They are only animals, and afraid of us interlopers, and they scurry away as my tower stomps among the roots and rocks.
 
-(It is unfortunate that the devastation to the trees and ferns signals we've passed here. Someone like you might come to seek me out and set his sweat-slicked hands to the stones of my tower, dig the steel teeth of his boots into its sides.
-
-You yourself were not able to climb my tower before you procured steel-teethed boots.)
+(It is unfortunate that the devastation to the trees and ferns signals we've passed here. Someone like you might come to seek me out and set his sweat-slicked hands to the stones of my tower, dig the steel teeth of his boots into its sides. You yourself were not able to climb my tower before you procured steel-teethed boots.)
 
 We reach a clearing by which a small stream flows, lit by moon- and starlight. I breathe out in relief, for while I love my tower and am glad of the spell, its steps do tug and pull at my scalp. Yet my tower, being rock, is never so alive as when it walks. Despite the pain, I linger a bit before whispering the spell that loosens my hair from its stones.
 
-(During your last climb, you cried out multiple times that I was cursed. Once I grew vexed enough to shout that no, I wasn't; couldn't a woman have her privacy? Why shouldn't I want to spend my days and nights and twilights alone in my tower?
-
-The next thing you said made me want to drop a millstone on your head. _Poor dear; the curse has you so badly, you don't even know your own mind. You don't know you're trapped._
-
-But I am not a murderer, so I did not drop a millstone on your head.)
+(During your last climb, you cried out multiple times that I was cursed. Once I grew vexed enough to shout that no, I wasn't; couldn't a woman have her privacy? Why shouldn't I want to spend my days and nights and twilights alone in my tower? The next thing you said made me want to drop a millstone on your head. _Poor dear; the curse has you so badly, you don't even know your own mind. You don't know you're trapped._ But I am not a murderer, so I did not drop a millstone on your head.)
 
 The breeze through the window is cool and helps to soothe the ache of my scalp. It brings with it the scent of pine and juniper, of loamy earth and imminent rainfall. It is a good place to stop and rest a while.
 

@@ -14,7 +14,7 @@ for a while, knowing that one day
 someone in the family would ask"
 author-img: okwudili-nebeolisa.jpg
 author-bio: |
-  Born in 1993, Okwudili Nebeolisa is a Nigerian writer whose works have appeared in _Threepenny Review_, _Commonwealth Writers_ and have been nominated for a pushcart prize by The _Cincinnati Review_, _Salamander Magazine_, and _Beloit Poetry Journal_. His works have been shortlisted for the Gerald Kraak Award, the Sillerman Prize, and the Tom Howard/ John H Reid Fiction and Essay Contest.
+  Born in 1993, Okwudili Nebeolisa is a Nigerian writer whose works have appeared in _Threepenny Review_and anthologies from Commonwealth Writers, and have been nominated for a Pushcart Prize by The _Cincinnati Review_, _Salamander Magazine_, and _Beloit Poetry Journal_. His works have been shortlisted for the Gerald Kraak Award, The Sillerman First Book Prize for African Poetry, and the Tom Howard/John H Reid Fiction and Essay Contest Award.
 proofread: false
 contentnote:
 
@@ -25,7 +25,7 @@ in the kitchen, she put forth the question
 that must have long been bothering her mind.
 Steam had formed tiny beads on her face
 so that it became indistinct from her sweat.
-Though it was 6 pm the sun was like
+Though it was 6 pm, the sun was like
 it had been in the afternoon, glorious
 and warming anything in its path.
 _Did you live with him like he was your wife?_
@@ -49,11 +49,11 @@ My mind was making a perfect detail
 of him leaning against the cabinet,
 more present to me than my sister was,
 perhaps also waiting for an answer.
-Alas my mother was ready to discard
+Alas, my mother was ready to discard
 the years of upbringing she must have thought
 she had instilled in me and my siblings,
 ready to discard years of self-anguish
-at what I might have become, might in the sense
+at what I might have become — might in the sense
 that she still strongly believed I could change.
 It must have hurt to have not received
 any reply from me, in my old way
