@@ -118,6 +118,9 @@ permalink: /authors
 ### Christa Carmen
 — [_Something Borrowed, Something Blood-Soaked_](/something-borrowed-something-blood-soaked)
 
+### Raquel Castro
+— [_Larga Distancia_](/larga-distancia)
+
 ### Beth Cato
 — [_To This, You Cling, With Jagged Fingernails_](/to-this-you-cling-with-jagged-fingernails)
 
