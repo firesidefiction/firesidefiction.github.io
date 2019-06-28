@@ -1,0 +1,14 @@
+.back-issues-for-sale {
+	max-width: 90%;
+	margin: 0 auto;
+	font-family: $font-secondary;
+	.single-back-issue {
+		display: flex;
+		figure {
+			flex-basis: 70%;
+		}
+		div {
+			flex-basis: 50%;
+		}
+	}
+}
