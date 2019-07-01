@@ -688,6 +688,8 @@ permalink: /authors
 ### Nibedita Sen
 — [_Pigeons_](/pigeons)
 
+— [_Advice For Your First Time At the Faerie Market_](/advice-for-your-first-time-at-the-faerie-market)
+
 ### Cherrelle Shelton
 — [_Banshee_](/banshee)
 
