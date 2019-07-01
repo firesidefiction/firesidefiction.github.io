@@ -3,7 +3,7 @@ layout: story
 title: Amanda Draws Crows
 author: José Pablo Iriarte
 editor: Julia Rios
-date: 2019-07-23 01:00:01 -0500
+date: 2019-07-09 01:00:01 -0500
 category: short story
 permalink: amanda-draws-crows
 audiourl:

@@ -3,7 +3,7 @@ layout: article
 title: Saving the World, Saving Ourselves: The Role of Justice in the Enviromentalist Movement
 author: Grace Villmow
 editor: Julia Rios
-date: 2019-08-22 01:00:01 -0500
+date: 2019-08-08 01:00:01 -0500
 category: essay
 permalink: saving-the-world-saving-ourselves-the-role-of-justice-in-the-environmentalist-movement
 audiourl:

@@ -3,7 +3,7 @@ layout: post
 title: Shapeshifting Sorcery: The Persistence of Mesoamerican Magic
 author: David Bowles
 editor: Julia Rios
-date: 2019-09-12 01:00:01 -0500
+date: 2019-09-06 01:00:01 -0500
 category: essay
 permalink: shapeshifting-sorcery-the-persistence-of-mesoamerican-magic
 audiourl:

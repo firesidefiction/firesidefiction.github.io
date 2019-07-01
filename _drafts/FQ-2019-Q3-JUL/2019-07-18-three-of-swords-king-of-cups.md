@@ -3,7 +3,7 @@ layout: poem
 title: Three of Swords, King of Cups
 author: Ali Trotta
 editor: Julia Rios
-date: 2019-07-25 01:00:01 -0500
+date: 2019-07-18 01:00:01 -0500
 category: poem
 permalink: three-of-swords-king-of-cups
 audiourl:
