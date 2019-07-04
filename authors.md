@@ -744,6 +744,9 @@ permalink: /authors
 ### Bogi Takács
 — [_On Good Friday the Raven Washes Its Young_](/on-good-friday-the-raven-washes-its-young)
 
+### Jacqui Talbot
+— [_Boxes_](/boxes)
+
 ### Jordan Taylor
 — [_Red as Blood, White as Snow, Black as Ebony_](/issue32/chapter/red-as-blood-white-as-snow-black-as-ebony/)
 
