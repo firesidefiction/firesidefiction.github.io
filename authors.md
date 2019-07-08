@@ -359,8 +359,11 @@ permalink: /authors
 ### Melissa Yuan-Innes
 — [_Fairy Tales are for White People_](/issue30/chapter/fairy-tales-are-for-white-people/)
 
-### José Iriarte
+### José Pablo Iriarte
 — [_Cupid and Psyche at the Caffé Sol Y Mar_](/issue28/chapter/cupid-and-psyche-at-the-caffe-sol-y-mar/)
+
+— [_Amanda Draws Crows_](amanda-draws-crows)
+
 
 ----
 

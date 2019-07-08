@@ -6,14 +6,14 @@ editor: Julia Rios
 date: 2019-07-09 01:00:01 -0500
 category: short story
 permalink: amanda-draws-crows
-audiourl:
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-07-09-Amanda_Draws_Crows.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "Sometimes she didn't even see what she drew. Her hands took over and drew what they wanted, and everything else faded away."
 author-img: jose-pablo-iriarte.jpg
 author-bio: |
-José Pablo Iriarte is a Cuban-American writer, high school math teacher, and parent of two. José's fiction can be found in magazines such as _Lightspeed Magazine_, _Strange Horizons_, _Terraform_, and others — including "Cupid and Psyche at the Caffé Sol Y Mar" in _Fireside Magazine_. Learn more at [www.labyrinthrat.com](http://www.labyrinthrat.com), or look for José on twitter as [@labyrinthrat](https://www.twitter.com/labyrinthrat).
-
-proofread: false
+  José Pablo Iriarte is a Cuban-American writer, high school math teacher, and parent of two. José's fiction can be found in magazines such as _Lightspeed Magazine_, _Strange Horizons_, _Terraform_, and others — including "Cupid and Psyche at the Caffé Sol Y Mar" in _Fireside Magazine_. Learn more at [www.labyrinthrat.com](http://www.labyrinthrat.com), or look for José on twitter as [@labyrinthrat](https://www.twitter.com/labyrinthrat).
+proofread: true
 contentnote: This story depicts a child in danger.
 ---
 
