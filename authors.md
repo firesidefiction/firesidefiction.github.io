@@ -758,6 +758,8 @@ permalink: /authors
 
 — [_The Jubilee_](/the-jubilee)
 
+— [_Not All Caged Birds Sing_](/not-all-caged-birds-sing)
+
 ### Sydnee Thompson
 — [_The Paladin Protocol_](/the-paladin-protocol)
 
