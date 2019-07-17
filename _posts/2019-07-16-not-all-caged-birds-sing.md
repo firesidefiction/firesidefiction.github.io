@@ -8,7 +8,7 @@ category: short story
 permalink: not-all-caged-birds-sing
 published: true
 audiourl: http://traffic.libsyn.com/firesidemagazine/fq-jul-2019-07-16-not_all_caged_birds_sing.mp3
-Narrator: C. S. E. Cooney
+narrator: C.S.E. Cooney
 teaser: "The door I opened revealed a gaping hole in myself. Hunger filled me but I refused to eat."
 author-img: sheree-renee-thomas.jpg
 author-bio: |
