@@ -772,6 +772,9 @@ permalink: /authors
 ### R.L. Thull
 — [_The Forever Girl_](/issue33/chapter/the-forever-girl/)
 
+### Ali Trotta
+— [_Three of Swords, King of Cups_](/three-of-swords-king-of-cups)
+
 ----
 
 ## U
