@@ -19,42 +19,77 @@ proofread: true
 ---
 
 Sometimes, I put my heart
+
 in a mason jar, cover it with herbs,
+
 wrap the glass in lights,
+
 and let it shine
+
 in the dark.
 
+
 I leave it offerings:
+
 honey, a bit of wine, a circle of salt
+
 to keep it safe, but not pristine —
+
 there’s nothing neat
+
 about what’s sacred,
+
 so I revel in the mess,
+
 the uneven beat,
+
 the way it speaks
+
 without being spoken to.
 
+
 There were years I buried it,
+
 others where I banished it,
+
 tried to drown it,
+
 resented it for its wideness,
+
 its wildness, the stubborn way
+
 it refused to shatter, but thrived
+
 to bend.
 
+
 I have given it away, ripe
+
 like fruit, frayed as a stray
+
 wind, a creature of dancing
+
 and daring, a thick mess
+
 of uncompromising clockwork.
 
+
 Sometimes, it comes back ragged,
+
 worn down or atrophied,
+
 tender from overuse,
+
 howling, but it only needs
+
 to be reminded of its own worth,
+
 encased in glass
+
 and glimmer, reawakened
+
 to its own song —
+
 there is no spell
+
 more powerful than that.
