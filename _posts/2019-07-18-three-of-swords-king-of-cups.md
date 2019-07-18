@@ -18,78 +18,43 @@ author-bio: |
 proofread: true
 ---
 
-Sometimes, I put my heart
-
-in a mason jar, cover it with herbs,
-
-wrap the glass in lights,
-
-and let it shine
-
+Sometimes, I put my heart<br/>
+in a mason jar, cover it with herbs<br/>
+wrap the glass in lights,<br/>
+and let it shine<br/>
 in the dark.
 
-
-I leave it offerings:
-
-honey, a bit of wine, a circle of salt
-
-to keep it safe, but not pristine —
-
-there’s nothing neat
-
-about what’s sacred,
-
-so I revel in the mess,
-
-the uneven beat,
-
-the way it speaks
-
+I leave it offerings:<br/>
+honey, a bit of wine, a circle of salt<br/>
+to keep it safe, but not pristine —<br/>
+there’s nothing neat<br/>
+about what’s sacred,<br/>
+so I revel in the mess,<br/>
+the uneven beat,<br/>
+the way it speaks<br/>
 without being spoken to.
 
-
-There were years I buried it,
-
-others where I banished it,
-
-tried to drown it,
-
-resented it for its wideness,
-
-its wildness, the stubborn way
-
-it refused to shatter, but thrived
-
+There were years I buried it,<br/>
+others where I banished it,<br/>
+tried to drown it,<br/>
+resented it for its wideness,<br/>
+its wildness, the stubborn way<br/>
+it refused to shatter, but thrived<br/>
 to bend.
 
-
-I have given it away, ripe
-
-like fruit, frayed as a stray
-
-wind, a creature of dancing
-
-and daring, a thick mess
-
+I have given it away, ripe<br/>
+like fruit, frayed as a stray<br/>
+wind, a creature of dancing<br/>
+and daring, a thick mess<br/>
 of uncompromising clockwork.
 
-
-Sometimes, it comes back ragged,
-
-worn down or atrophied,
-
-tender from overuse,
-
-howling, but it only needs
-
-to be reminded of its own worth,
-
-encased in glass
-
-and glimmer, reawakened
-
-to its own song —
-
-there is no spell
-
+Sometimes, it comes back ragged,<br/>
+worn down or atrophied,<br/>
+tender from overuse,<br/>
+howling, but it only needs<br/>
+to be reminded of its own worth,<br/>
+encased in glass<br/>
+and glimmer, reawakened<br/>
+to its own song —<br/>
+there is no spell<br/>
 more powerful than that.
