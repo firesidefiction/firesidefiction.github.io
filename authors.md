@@ -349,6 +349,8 @@ permalink: /authors
 ###  M.K. Hutchins
 — [_Dragon Soap_](/issue38/chapter/25/)
 
+— [_The Staircase to the Moon_](/the-staircase-to-the-moon)
+
 ### Zina Hutton
 — [_Accidental Queen of the Spiders_](/issue26/chapter/accidental-queen-of-the-spides/)
 

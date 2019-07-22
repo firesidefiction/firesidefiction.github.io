@@ -6,18 +6,19 @@ editor: Julia Rios
 date: 2019-07-23 01:00:01 -0500
 category: short story
 permalink: the-staircase-to-the-moon
-audiourl:
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/fq-jul-2019-07-23-the_staircase_to_the_moon.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "Earth goddesses always die for their people."
 author-img: m-k-hutchins.jpg
 author-bio: |
   M. K. Hutchins regularly draws on her background in archaeology when writing fiction.  Her YA fantasy novel _Drift_ was a VOYA Topshelf Honoree, and her next novel, _The Redwood Palace_, is coming out in July 2019. Her short fiction appears in _Fireside Magazine_, _Podcastle_, _Strange Horizons_, and elsewhere. A long-time Idahoan, she now lives in Utah with her husband and four children. Find her at [www.mkhutchins.com](http://www.mkhutchins.com).
-proofread: false
-art: the-staircase-to-the-moon.png
-caption: "TK"
+proofread: true
+art: the-staircase-to-the-moon.jpg
+caption: "Three figures build an ephemeral staircase to the moon."
 artist: Mary Haasdyk
-artist—img: mary-haasdyk.jpg
-artist—bio: |
+artist-img: mary-haasdyk.jpg
+artist-bio: |
   **Mary Haasdyk** is a Calgary-based illustrator who studied at Alberta College of Art + Design. She enjoys drawing and painting, both traditionally and digitally, and doesn’t like being caught without her sketchbook on hand. Clients include _Tor.com_, ATB Financial, and Frontenac House. You can follow her latest projects on Instagram at @maryhaasdyk.
 contentnote:
 ---
