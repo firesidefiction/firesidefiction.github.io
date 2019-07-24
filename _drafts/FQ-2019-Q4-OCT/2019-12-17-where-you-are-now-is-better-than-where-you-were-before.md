@@ -17,7 +17,7 @@ artist-img: artist-name.jpg
 author-img: eliza-victoria.jpg
 author-bio: |
   Eliza Victoria is the author of several books, including the Philippine National Book Award-winning _Dwellers_ (2014), the novel _Wounded Little Gods_ (2016), the graphic novel _After Lambana_ (2016, a collaboration with artist Mervin Malonzo), and the science fiction novel-in-stories, _Nightfall_ (2018). Her fiction and poetry have appeared in several online and print publications, most recently in _LONTAR: The Journal of Southeast Asian Speculative Fiction_, _The Best Asian Speculative Fiction_, _The Dark Magazine_, Dark Regions Press's _Stranded: Lone Survivor Deserted Island Horror Stories_, and _The Apex Book of World SF Volume 5_.  
-proofread: false
+proofread: true
 contentnote:
 
 ---
@@ -164,7 +164,7 @@ The woman can speak and write English well, but often feels as if she has to sca
 
 _The Philippines._
 
-And they nod and say _Okay_ and she wonders what they are picturing in their heads. White sand beaches? Policemen pulling a teenage boy down an alley and leaving him dead near a pigsty?
+And they nod and say, _Okay_, and she wonders what they are picturing in their heads. White sand beaches? Policemen pulling a teenage boy down an alley and leaving him dead near a pigsty?
 
 3.	The woman at the counter at Coles is Filipino, and she says, _You should try to stay here after your course. Everything’s expensive in Sydney, but you’ll earn good money. Better than back home, anyway._ Money always comes up, whenever she speaks to Filipino workers here. _I’m doing this for personal growth,_ she wants to say, but — is that it? The words feel inadequate and insincere. _I’m here because, with the state of politics back home, I was starting to feel like a monster, treating kindness as if it were a finite thread that I have to hold onto to keep from unravelling. But I still can’t loosen my grasp._ The woman at the counter says, “That will be forty dollars,” and she extracts the still-unfamiliar bills, shoves the words back down her throat.
 
@@ -200,7 +200,7 @@ After they got back from lunch, Andrea walked the length of the office calling f
 
 Lily had not seen Evie. She went to the pantry to wash her coffee mug, and saw a pair of high-heeled boots sticking out from behind the refrigerator. “Hello?” she said, and jumped when Andrea burst into the room.
 
-“I swear, Evie doesn’t respect me,” Andrea said. “The one time I wanted to take charge of a pitch idea and she— what are you doing?”
+“I swear, Evie doesn’t respect me,” Andrea said. “The one time I wanted to take charge of a pitch idea and she— What are you doing?”
 
 Lily was approaching the boots. They belonged to Evie, sitting slumped on the floor, forehead resting against the side of the refrigerator. Lily knelt in front of her, touched her knee, shook her. Evie didn’t move.
 

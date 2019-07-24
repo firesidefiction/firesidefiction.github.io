@@ -16,8 +16,8 @@ artist: Artist Name
 artist-img: artist-name.jpg
 author-img: carolin-jansen.jpg
 author-bio: |
-  Carolin Jansen is a writer of short fiction, poetry and overly ambitious to-do lists. She lives in Germany, where she works as a doctor. English is her second language. Her interests include strange and fantastical stories, bioethics, ice cream, and petting dogs. She can be found on Twitter as [@_cjansen](https://www.twitter.com/_cjansen). "Radio Static" is her first magazine publication.
-proofread: false
+  Carolin Jansen is a writer of short fiction, poetry, and overly ambitious to-do lists. She lives in Germany, where she works as a doctor. English is her second language. Her interests include strange and fantastical stories, bioethics, ice cream, and petting dogs. She can be found on Twitter as [@_cjansen](https://www.twitter.com/_cjansen). "Radio Static" is her first magazine publication.
+proofread: true
 contentnote:
 
 ---
@@ -42,7 +42,7 @@ S-L-E-E-P.
 
 You look worse than I do and I am the one with severe traumatic brain damage.
 
-I’m sorry that I was such a slob when we lived together. You deserve a girlfriend who throws away take out boxes before they grow patches of fuzzy mold inside.
+I’m sorry that I was such a slob when we lived together. You deserve a girlfriend who throws away take-out boxes before they grow patches of fuzzy mold inside.
 
 I’ve found all these lost things here: the stuffed bunny I had as a kid, spare change, dozens of single socks. You kept joking that there was a dimensional portal in the washing machine that swallowed single socks. Nope. They are all here. Most things I’ve found are pretty random but, between the hairpins and the countless pens that the nurses keep losing, I found the necklace your mother gave you when you were sixteen that went missing during the move. I put it in your purse while you were sleeping in the chair next to my hospital bed.  
 
@@ -76,4 +76,4 @@ Can you hear me?
 
 My darling, can you hear me?
 
-Maybe if you lean in closer to the radio, maybe if you press your ear against the speaker, you might hear the waves of my voice breaking in the sea of static, you might hear me say that I really, I really —
+Maybe if you lean in closer to the radio, maybe if you press your ear against the speaker, you might hear the waves of my voice breaking in the sea of static, you might hear me say that I really, I really—

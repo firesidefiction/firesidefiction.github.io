@@ -18,14 +18,14 @@ artist-img: artist-name.jpg
 author-img: suyi-davies-okungbowa.jpg
 author-bio: |
   Suyi Davies Okungbowa is the author of the forthcoming godpunk novel, _David Mogo, Godhunter_ (Abaddon, July 2019). He is a speculative fiction writer whose stories feature African gods, starships, monsters, detectives, and everything in between. His work has appeared in _Lightspeed Magazine_, _Fireside Magazine_, _Podcastle_, _The Dark Magazine_, and other venues and anthologies. He is an MFA candidate in Creative Writing at the University of Arizona in Tucson, and tweets at [@IAmSuyiDavies](https://www.twitter.com/IAmSuyiDavies).
-proofread: false
+proofread: true
 contentnote:
 
 ---
 
 You’d think I would be a wastrel. You’d think my roof would have rusting zinc that flaps, iron dust floating in the night wind, rotting wood barely supporting its eaves, worms in its holes, playing hide-and-seek in the sun and taking shelter from the harmattan cold. You’d think the wind bangs against me at night, whooshes through the gaps in my belly and blows soft foghorns that echo, ghostly bassoons.
 
-You’d think I’d have floorboards that creak (though that makes no sense—Lagos floors are mostly tiled). You’d think there’s a local legend that lures people to some rusted gate of mine, up chipped steps and into a darkness that clings to your skin.
+You’d think I’d have floorboards that creak (though that makes no sense — Lagos floors are mostly tiled). You’d think there’s a local legend that lures people to some rusted gate of mine, up chipped steps and into a darkness that clings to your skin.
 
 Most of you are estate agents. You bring in about-to-weds shopping for something with the promise of family, choosing your words carefully, skirting the question of why the last tenant left. Some of you try the opposite tactic: latch on to their bubbling couple energy, their shining pupils and obvious penchant for adventure, and lure them in with the same tales the people of Olúwo Street whisper, of how no bulb fixed in the pantry ever comes on, no matter how many times the lampholders are replaced; of what the people of Olúwo Street say about hollow screams coming from there; of Mọ́rìnsádé Awẹ́lẹ́wà reliving her last moments on earth every single night. Some of you namedrop the Nollywood director who tried to film a documentary here once, even though the street agberos drove him away by asking for absurd bribes. Try to rope them in by explaining they’re getting an astute piece of estate with potential to commercialise its history.
 
@@ -51,7 +51,7 @@ The man is burnt pink by the sun the first time I see him. He comes with you, hi
 
 You tell the American man how long I’ve been here, and the myths and stories that people tell about me. Just hearing them now makes me bristle, and my breath is hot wind on the back of your necks, and I see how the man chuckles nervously and says, It breathes even, huh? and the people of Olúwo Street who have gathered to watch shiver in response.
 
-The American asks about recorded deaths, and I hear Mọ́rìnsádé emerge from the pantry then, spy on the group outside through a peephole in the roof. The man is asking you meaningless questions, like, is it like _The Shining_’s Overlook, or like Hill House, or like 124 in _Beloved_? and everyone is saying, Ki leleyi sọ? What is this one saying? And you tell the people: He means something like Ayamatanga, or Iṣawuru, and they’re like, _Aaaah, mo ti wo_. I see what you mean. And the man is saying, If this is going to make good TV, we need to make it give chills, you know what I mean? We need to tell the story like everyone who has ever lived here has been in grave peril. How can we get in there, see if we can catch a glimpse of something that looks like a ghost?
+The American asks about recorded deaths, and I hear Mọ́rìnsádé emerge from the pantry then, spy on the group outside through a peephole in the roof. The man is asking you meaningless questions, like, is it like _The Shining_’s Overlook, or like Hill House, or like 124 in _Beloved_?, and everyone is saying, Ki leleyi sọ? What is this one saying? And you tell the people: He means something like Ayamatanga, or Iṣawuru, and they’re like, _Aaaah, mo ti wo_. I see what you mean. And the man is saying, If this is going to make good TV, we need to make it give chills, you know what I mean? We need to tell the story like everyone who has ever lived here has been in grave peril. How can we get in there, see if we can catch a glimpse of something that looks like a ghost?
 
 Your voice again, saying: Eh sir, no. We have to show some respect here. This is not like those your books and films. Some histories are best not tampered with. But the American man is like, Meh, something terrible happens in every haunted house, my man.
 

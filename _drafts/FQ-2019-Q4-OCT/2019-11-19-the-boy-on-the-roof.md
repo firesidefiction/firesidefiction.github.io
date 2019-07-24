@@ -17,7 +17,7 @@ artist-img: artist-name.jpg
 author-img: francesca-forrest.jpg
 author-bio: |
   Francesca Forrest is the author of _The Inconvenient God_ (Annorlunda Books, 2018), about a slacker god with a mysterious past, and the novel _Pen Pal_ (2013), a story of friendship and heroism from the margins, as well as short stories that have appeared in _Not One of Us_, _Strange Horizons_, and other online and print venues, including anthologies. She’s old enough to have four grown children and young enough not to have mastered object permanence just yet. She lives in western Massachusetts.
-proofread: false
+proofread: true
 contentnote:
 
 ---
@@ -160,7 +160,7 @@ The boy didn’t answer for a long time, and he didn’t make any move to take t
 
 “What?”
 
-“If I do it with the clouds, and then they rain.... If there’s girls or ladies who get caught out in that rain ... would they have babies that looked like me?”
+“If I do it with the clouds, and then they rain.... If there’s girls or ladies who get caught out in that rain... would they have babies that looked like me?”
 
 “Kid, you’ve got to know that’s not how pregnancy works.”
 

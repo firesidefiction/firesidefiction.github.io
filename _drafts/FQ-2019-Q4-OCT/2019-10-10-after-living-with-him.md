@@ -15,7 +15,7 @@ someone in the family would ask"
 author-img: okwudili-nebeolisa.jpg
 author-bio: |
   Born in 1993, Okwudili Nebeolisa is a Nigerian writer whose works have appeared in _Threepenny Review_and anthologies from Commonwealth Writers, and have been nominated for a Pushcart Prize by The _Cincinnati Review_, _Salamander Magazine_, and _Beloit Poetry Journal_. His works have been shortlisted for the Gerald Kraak Award, The Sillerman First Book Prize for African Poetry, and the Tom Howard/John H Reid Fiction and Essay Contest Award.
-proofread: false
+proofread: true
 contentnote:
 
 ---

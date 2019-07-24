@@ -17,7 +17,7 @@ artist-img: artist-name.jpg
 author-img: kerry-truong.jpg
 author-bio: |
   Kerry Truong is a writer, aspiring chef, and lesbian dog dad. Their genres are diverse, but you can be certain that their fantasy will always have a little bit of romance and their romance a little bit of fantasy. They like watching food videos and daydreaming about what they’ll eat next, which is probably why their stories always feature delicious meals. If you like food, asking “but what if lesbians” every time you watch a TV show, and cute animals, you can follow their ramblings on Twitter as [@ninetalesk](http://www.twitter.com/ninetalesk).
-proofread: false
+proofread: true
 contentnote:
 
 ---

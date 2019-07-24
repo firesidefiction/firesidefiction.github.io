@@ -17,8 +17,8 @@ artist: Artist Name
 artist-img: artist-name.jpg
 author-img: patricia-coral.jpg
 author-bio: |
-  Patricia Coral was born in Puerto Rico, were she became passionate about words and obtained a MA in Spanish Literature and Linguistics. In 2014 she moved to Houston, where the adventure of writing in a borrowed language began. She is a writer of creative nonfiction and poetry, but frequently her words find their home in-between. In 2017, she co-founded Fuente Collective, an organization devoted to experimentation, collaboration and hybridity in writing and other arts. Her work is published or forthcoming in _Crab Fat Magazine_, _Yellow Chair Review_, _Women Poets of the Americas_, and elsewhere.   
-proofread: false
+  Patricia Coral was born in Puerto Rico, were she became passionate about words and obtained a MA in Spanish Literature and Linguistics. In 2014 she moved to Houston, where the adventure of writing in a borrowed language began. She is a writer of creative nonfiction and poetry, but frequently her words find their home in between. In 2017, she co-founded Fuente Collective, an organization devoted to experimentation, collaboration, and hybridity in writing and other arts. Her work is published or forthcoming in _Crab Fat Magazine_, _Yellow Chair Review_, _Women Poets of the Americas_, and elsewhere.   
+proofread: true
 contentnote:
 
 ---
@@ -31,4 +31,4 @@ How do I send you light in a USPS Flat Rate Box.
 
 "What size do you need?" they ask me at the post office.
 
-"The biggest one," I answer. I walk with the boxes to my car, which is full of batteries of all brands and sizes. I open the trunk which also has cans of Spam, fruit, soup.... I wanted to send you food, but you asked me for light. You, the one who never asks and always gives. Light. I put all the batteries I can fit in the box, I put in three flashlights and I also put in my faith to illuminate you. I prepare two boxes instead of one, in case one of the two is lost, so that one of the two will arrive first. And before closing them I see that two cans of soup and two cans of fruit will fit. And I put them in. In case you get hungry.
+"The biggest one," I answer. I walk with the boxes to my car, which is full of batteries of all brands and sizes. I open the trunk which also has cans of Spam, fruit, soup.... I wanted to send you food, but you asked me for light. You, the one who never asks and always gives. Light. I put all the batteries I can fit in the box, I put in three flashlights and I also put in my faith to illuminate you. I prepare two boxes instead of one, in case one of the two is lost, so that one of the two will arrive first. And, before closing them, I see that two cans of soup and two cans of fruit will fit. And I put them in. In case you get hungry.

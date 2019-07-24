@@ -17,7 +17,7 @@ artist-img: artist-name.jpg
 author-img: suzan-palumbo.jpg
 author-bio: |
   Suzan Palumbo lives in Canada. Originally from Trinidad and Tobago, she is an ESL teacher and a New Wave enthusiast. Her stories are often inspired by clashes of culture and the gap between expectations and reality. Her work has been published by _PodCastle_, _Diabolical Plots_, and _Anathema: Spec from the Margins_.
-proofread: false
+proofread: true
 contentnote:
 
 ---
@@ -68,7 +68,7 @@ Their father makes Videsh leave for school with her that morning. He dawdles a f
 
 Priya opens her mouth to thank Videsh.
 
-“I’m gonna setup a triple monitor and play Red Dead in your room,” he says before he slips off into the kitchen.
+“I’m gonna set up a triple monitor and play Red Dead in your room,” he says before he slips off into the kitchen.
 
 ----
 
@@ -94,7 +94,7 @@ Videsh is waiting for her at the passenger pick up. She tosses her bag into the 
 
 “Say you’re fine.” The Rakshasi cackles from the shadows behind them. The words bloom on Priya’s lips. She bites them back before they can steal her breath.
 
-“No.” She exhales. “I’m not.” She casts her eyes downward, anticipating one of his rapid fire barbs.
+“No.” She exhales. “I’m not.” She casts her eyes downward, anticipating one of his rapid-fire barbs.
 
 Videsh is sitting silently when she gains the courage to look at him. He puts his hand on her shoulder. “Okay, Pri,” he says. He’s quiet as they leave the parking lot.
 

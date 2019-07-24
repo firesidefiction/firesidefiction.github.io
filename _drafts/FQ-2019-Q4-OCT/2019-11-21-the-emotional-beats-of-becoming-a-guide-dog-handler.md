@@ -12,7 +12,7 @@ teaser: "I can barely breathe through the fear that this won’t work. What if I
 author-img: elsa-sjunneson-henry.jpg
 author-bio: |
   Elsa Sjunneson-Henry is a deafblind Hugo Award-nominated speculative fiction writer and editor with words featured at _Tor.com_, _Uncanny Magazine_, _CNN Opinion_, _The Boston Globe_, and elsewhere. She writes from a dragon lair in New Jersey, with a guide dog nestled at her feet.
-proofread: false
+proofread: true
 contentnote:
 ---
 On February 22nd, I made the decision to drop everything in my life and make the biggest change I’d made since getting married.
@@ -33,7 +33,7 @@ This is the emotional arc of that experience, from day one to day twenty.
 
 **Day Four:** Did I mention that I came into class with the tail end of bronchitis? It is bitterly cold and my lungs burn with each breath. I cough, my entire torso seizing as the cold air releases inside of my chest, but being outside with Juno is like nothing else. It’s hard to explain, but it feels a bit like skating on fresh ice, or skiing down fresh powder. My steps are smooth and rapid and, even though my lungs protest, it feels amazing. This short walk my instructor allows tells me that I’ve made the right decision.
 
-**Day Five:** It is 6 a.m. and we’re doing obedience training. All the dogs snap to our sides when we call “heel”, but mine slides diagonally in front of my feet when I put him into a down, snoot pointing to the treat pouch on my hip. We aren’t supposed to compare the dogs to each other, but I can tell some of the other dogs lie straight ahead, waiting for the next command, their black and yellow bodies like smears of ink, the head shaped blob pointed in the right direction.
+**Day Five:** It is 6 a.m. and we’re doing obedience training. All the dogs snap to our sides when we call “heel”, but mine slides diagonally in front of my feet when I put him into a down, snoot pointing to the treat pouch on my hip. We aren’t supposed to compare the dogs to each other, but I can tell some of the other dogs lie straight ahead, waiting for the next command, their black and yellow bodies like smears of ink, the head-shaped blob pointed in the right direction.
 
 **Day Six:** It is 11:30 a.m. The St. Patrick’s Day Parade is setting up behind me. I am crying, with a Labrador in my lap trying to lick up my tears. Every block has been filled with frustration. Every snowbank is a sniffing distraction, every doorway a temptation to veer off our course down the center of the sidewalk.  How will I ever get where I need to with this dog at my side? Is it me? Am I just bad at this? Or is it him?
 

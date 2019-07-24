@@ -19,7 +19,7 @@ artist-bio: |
 author-img: dominica-phetteplace.jpg
 author-bio: |
   Dominica Phetteplace is a writer and math tutor. Her work has appeared in _Asimov's Science Fiction_, _Analog Science Fiction and Fact_, _The Magazine of Fantasy & Science Fiction_, _Clarkesworld Magazine_, _Escape Pod_, _Lightspeed Magazine_, and _The Year's Best Science Fiction and Fantasy 2017_.
-proofread: false
+proofread: true
 contentnote:
 
 ---
@@ -36,7 +36,7 @@ She didn’t become truly famous until she started posting her abortion tutorial
 
 Her tutorials were classified as hate speech against the unborn. She became a wanted criminal. Still she posted more videos. You could contour yourself into a whole new identity, one that would fool the facial recognition software installed in all security cameras. Large flakes of glitter applied strategically to your face could act like antagonistic pixels, the kind that perturbed deep neural networks and kept algorithms from classifying pictures of you correctly. Nobody knew how data inference via machine learning worked, this mystery allowed us to disrupt the constant surveillance we were all under. There was no beauty without privacy.
 
-There were rumors on the message boards. That she had fled to Canada. Or the UK. Or been taken in by a libertarian tech bro. That she was never real in the first place, but one of those computer generated ‘virtual celebrities.’ No one ever saw her in public, but still she posted.
+There were rumors on the message boards. That she had fled to Canada. Or the UK. Or been taken in by a Libertarian tech bro. That she was never real in the first place, but one of those computer generated ‘virtual celebrities.’ No one ever saw her in public, but still she posted.
 
 I wondered how she did it. She was a superhero, but superheroes couldn’t do it alone. They needed butlers and billion dollar fortunes. I wrote fan fiction about how she had made her money from trading cryptocurrencies. She had two boyfriends: Neymar and Harry Styles. Her butler was a self-aware robot that she had freed from indenture.
 

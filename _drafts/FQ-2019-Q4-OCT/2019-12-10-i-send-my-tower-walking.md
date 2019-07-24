@@ -17,7 +17,7 @@ artist-img: artist-name.jpg
 author-img: amanda-helms.jpg
 author-bio: |
   Amanda Helms is a science fiction and fantasy writer whose fiction has appeared in or is forthcoming from _The Cackle of Cthulhu_ (Baen, 2018), _Daily Science Fiction_, _Future Science Fiction Digest_, and elsewhere. Amanda blogs infrequently at [amandahelms.com](http://www.amandahelms.com) and tweets with a smidgen more frequency as [@amandaghelms](https://www.twitter.com/amandaghelms). She and her husband live in Colorado with their increasingly lazy Boxer mix.  
-proofread: false
+proofread: true
 contentnote:
 
 ---
@@ -32,7 +32,7 @@ But I love my tower, and I whisper the spell, and so I send it walking.
 
 It starts as a rumble, ten stories below, where my tower's slick stones bite into the earth. The rumble roars up, splitting it along its mortar on two circular sides, so that it forms legs, after a fashion. And oh, my tower groans at this, and I weep, for it hurts it so to do this, but it loves me enough to do whatever I ask, and I— I want it to walk.
 
-(Is it vindictive of me, if I say that in my most furious moments, I wanted it to crush you? But, ah, I am not a murderer.)
+(Is it vindictive of me if I say that, in my most furious moments, I wanted it to crush you? But, ah, I am not a murderer.)
 
 The rumbles ease as my tower pulls its stone legs free of the earth and thumps them down again, one-two one-two, building into a ground-eating momentum that will take us far across the rolling meadows and through a forest.
 
@@ -40,7 +40,7 @@ In the forest, we do our best not to hurt the squirrels or the deer. They are on
 
 (It is unfortunate that the devastation to the trees and ferns signals we've passed here. Someone like you might come to seek me out and set his sweat-slicked hands to the stones of my tower, dig the steel teeth of his boots into its sides. You yourself were not able to climb my tower before you procured steel-teethed boots.)
 
-We reach a clearing by which a small stream flows, lit by moon- and starlight. I breathe out in relief, for while I love my tower and am glad of the spell, its steps do tug and pull at my scalp. Yet my tower, being rock, is never so alive as when it walks. Despite the pain, I linger a bit before whispering the spell that loosens my hair from its stones.
+We reach a clearing by which a small stream flows, lit by moon- and starlight. I breathe out in relief for, while I love my tower and am glad of the spell, its steps do tug and pull at my scalp. Yet my tower, being rock, is never so alive as when it walks. Despite the pain, I linger a bit before whispering the spell that loosens my hair from its stones.
 
 (During your last climb, you cried out multiple times that I was cursed. Once I grew vexed enough to shout that no, I wasn't; couldn't a woman have her privacy? Why shouldn't I want to spend my days and nights and twilights alone in my tower? The next thing you said made me want to drop a millstone on your head. _Poor dear; the curse has you so badly, you don't even know your own mind. You don't know you're trapped._ But I am not a murderer, so I did not drop a millstone on your head.)
 

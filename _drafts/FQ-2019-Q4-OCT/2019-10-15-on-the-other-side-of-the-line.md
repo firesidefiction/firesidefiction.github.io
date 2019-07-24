@@ -15,11 +15,11 @@ caption: "TK"
 artist: amanda-makepeace
 artist-img: amanda-makepeace.jpg
 artist-bio: |
-  Amanda Makepeace is an award winning illustrator currently living in northeast Georgia. Her art is inspired by nature, mythology, magical beings, and distant worlds. She is the co-founder of the Bird Whisperer Project, a monthly art challenge focused on spreading the love of birds and art making. Amanda’s art has appeared in ENnie award-winning games and on the covers popular independent novels and anthologies. She is a regular at Fantasy and SciFi conventions in the southeast. Delve into her imagination at www.amandamakepeace.com..
+  Amanda Makepeace is an award-winning illustrator currently living in northeast Georgia. Her art is inspired by nature, mythology, magical beings, and distant worlds. She is the co-founder of the Bird Whisperer Project, a monthly art challenge focused on spreading the love of birds and art-making. Amanda’s art has appeared in ENnie Award-winning games, and on the covers popular independent novels and anthologies. She is a regular at fantasy and science fiction conventions in the southeast. Delve into her imagination at www.amandamakepeace.com..
 author-img: a-t-greenblatt.jpg
 author-bio: |
   A. T. Greenblatt is a mechanical engineer by day and a writer by night. She lives in Philadelphia and is known to frequently subject her friends to various cooking and home brewing experiments. She is a graduate of Viable Paradise XVI and Clarion West 2017. Her work is forthcoming or has appeared in _Uncanny Magazine_, _Beneath Ceaseless Skies_, _Clarkesworld Magazine_, and _Fireside Magazine_, as well as other fine places. She was also a finalist for the 2018 Nebula Award. You can find her online at [atgreenblatt.com](http://www.atgreenblatt.com) and on Twitter at [@AtGreenblatt](https://www.twitter.com/AtGreenblatt).
-proofread: false
+proofread: true
 contentnote:
 
 ---
@@ -52,7 +52,7 @@ I make a conscious effort to notice other things as we walk. Like how the tulips
 
 Turnip's trotting happily in front of me, though he occasionally looks right, to where the Line stretches out alongside us, glimmering and murky. My patients say their pets seem to be drawn to the Line and, a week after it first appeared, in a grief-fueled panic, I barricaded the corner of my house that the Line bisected with bookshelves. Heavy and sturdy enough so Turnip couldn't push around them.
 
-Find healthy methods that'll help you deal with the aftereffects, I tell my patients. The bookshelves work but, even three months later, sometimes I still wake up at 2am convinced I've lost my dog too.
+Find healthy methods that'll help you deal with the aftereffects, I tell my patients. The bookshelves work but, even three months later, sometimes I still wake up at 2 a.m. convinced I've lost my dog too.
 
 As soon as we can, I turn sharply left, away from the Line.
 
@@ -74,7 +74,7 @@ We walk the neighborhood for a good thirty minutes before Turnip starts tugging 
 
 It takes me a minute and much swearing to get past the thorns. When I do, I find him standing over a tabby kitten from the other side of the Line.
 
-I know which side it came from because it's shimmering slightly and looks faded, likes it’s been through a few too many wash cycles. It lets me pick it up and only then do I notice the note in its collar that says “Please let ___ ____ I ___ them.”
+I know which side it came from because it's shimmering slightly and looks faded, likes it’s been through a few too many wash cycles. It lets me pick it up and only then do I notice the note in its collar that says: “Please let ___ ____ I ___ them.”
 
 I sigh, disappointed. I've never seen a complete message come through the Line. Only fragments. Yesterday, I got an email from Paulo that said: "Dear Amy, How __ ? I need ___ you. Can you ____?" What does he need? What should I do? I wasted hours playing anxious ad lib, until I settled on hope. I hope that he still loves me and doesn't hate me for getting the part of the house with the stairs when the Line appeared suddenly one afternoon and severed our home, our neighborhood, our continent. Our lives. My replies to Paulo are responded with mail delivery failure notices.
 
@@ -114,7 +114,7 @@ The Line is still in my view, even as I scratch his chest. I see silhouettes in 
 
 I hope Paulo has made some friends, but I worry. I know my partner. Paulo works from home, and is terrible at small talk. Almost all our friends are caught on this side of the Line. Of the two of us, it should have been me in the corner of the house without the stairs.
 
-The email from Paulo yesterday ended with: “P.S. ___  miss Turnip” There’s only so many ways I can ad lib that. By rights, Turnip is his dog. We adopted him so that Paulo had an officemate during our working hours. They were – are – best buds and, until three months ago, they were rarely apart.
+The email from Paulo yesterday ended with: “P.S. ___  miss Turnip.” There’s only so many ways I can ad lib that. By rights, Turnip is his dog. We adopted him so that Paulo had an officemate during our working hours. They were – are – best buds and, until three months ago, they were rarely apart.
 
 I don't realize I've stopped scratching Turnip until he nudges me with his nose, staring at me expectantly.
 

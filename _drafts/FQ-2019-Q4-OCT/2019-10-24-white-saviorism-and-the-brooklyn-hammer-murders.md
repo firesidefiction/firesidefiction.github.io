@@ -12,7 +12,7 @@ teaser: "We are portrayed as weak and broken victims, completely lacking in agen
 author-img: diana-lu.jpg
 author-bio: |
   Diana Lu is a writer, comedian, and scientist in Boston, Massachusetts. She is a staff writer for _Plan A Magazine_ and _The New England Theatre Geek_. Her humor writing has appeared in _McSweeney's Internet Tendency_, _Women in Comedy Festival Daily_, _Robot Butt_, _Slackjaw_, and others.
-proofread: false
+proofread: true
 contentnote: Describes murders motivated by racism
 ---
 
@@ -26,7 +26,7 @@ If an innocent black man had been at the wrong place at the wrong time, he would
 
 I was saddened but not surprised by Neeson’s remarks, or even by the Brooklyn Hammer murders. Neeson and Martunovich were just following the same white savior narrative that all of us breathe in every time we watch a movie or read a kids’ story. It is imbedded into our psyches so well, we don’t even realize it’s a script.
 
-In his interview, Neeson went on to say that he realizes now that revenge is wrong but, neither he nor his interviewer acknowledged the deeply entrenched racism of his words until social media criticism pointed it out to him. A lot of people came out in his defense, saying that they’ve thought the same things. And the murders of Fufai Pun, Tsz Mat Pun, and Thang Ng were so confusing to people that it wasn’t even completely obvious to some people that this was a hate crime.
+In his interview, Neeson went on to say that he realizes now that revenge is wrong but neither he nor his interviewer acknowledged the deeply entrenched racism of his words until social media criticism pointed it out to him. A lot of people came out in his defense, saying that they’ve thought the same things. And the murders of Fufai Pun, Tsz Mat Pun, and Thang Ng were so confusing to people that it wasn’t even completely obvious to some people that this was a hate crime.
 
 The white savior narrative is seen so frequently in the media that I could fill a phone book just listing example titles. The storyline is always the same: backward, brown savages are being victimized and only a messianic white person can come in and save us from ourselves. What is often left out of the discussion is the highly gendered dynamic of white saviorism. Often, the savior figure is a white man saving a damsel in distress. The white supremacist trope of the helpless white woman endangered by the brutish man of color is as old as slavery.
 

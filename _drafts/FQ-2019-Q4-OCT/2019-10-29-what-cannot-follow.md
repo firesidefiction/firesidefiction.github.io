@@ -17,7 +17,7 @@ artist-img: artist-name.jpg
 author-img: eugenia-triantafyllou.jpg
 author-bio: |
   Eugenia Triantafyllou is a Greek author and artist. She writes ghost stories. She currently lives in northern Sweden with a boy and a dog. Her short fiction has appeared in _Apex Magazine_, _Strange Horizons_, _Black Static_, and other venues. You can find her on Twitter as [@FoxesandRoses](https://www.twitter.com/FoxesandRoses) or at her website [https://eugeniatriantafyllou.wordpress.com](https://eugeniatriantafyllou.wordpress.com).  
-proofread: false
+proofread: true
 contentnote:
 
 ---

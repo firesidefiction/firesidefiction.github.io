@@ -15,11 +15,11 @@ caption: "TK"
 artist: Reiko Murakami
 artist-img: reiko-murakami.jpg
 artist-bio: |
-  Reiko Murakami, also known as Raqmo, is a U.S. based concept artist and illustrator specialized in surreal fantasy and horror characters. Her work has been published in _Spectrum_, _Infected by Art_, _ArtOrder Invitational: The Journal_, _Exposé_, _2D Artist_ and many others.
+  Reiko Murakami, also known as Raqmo, is a U.S.-based concept artist and illustrator specializing in surreal fantasy and horror characters. Her work has been published in _Spectrum_, _Infected by Art_, _ArtOrder Invitational: The Journal_, _Exposé_, _2D Artist_, and many others.
 author-img: innocent-chizaram-ilo.jpg
 author-bio: |
   When he is not receiving tonnes of rejections from cat adoption agencies, Innocent finds time to read and write. He is a 2018 Author of Tomorrow and a Gerald Kraak Award finalist. Inno has works published and forthcoming in _Fireside Magazine_, _Reckoning_, _Strange Horizons_, _Cosmic Roots and Eldritch Shores_, _Brittle Paper_, _SSDA ID Anthology_, and elsewhere. He lives in Nigeria.
-proofread: false
+proofread: true
 contentnote:
 
 ---
@@ -66,7 +66,7 @@ Payment: 1500 Buzas per daily gig.**
 
 She does not need an OS analysis to see the reasons Yasmine thinks that the ad is problematic. There is the glaring sexual objectification, the willful exclusion of robot models with metal exteriors, and the use of _Female Computer_ to refer to female robots. No matter the number of robo-positive campaigns organized by Town Council, most humans cannot stop themselves from using the slur. Yasmine says it is their last resort to invalidate the existence and autonomy of robots. _They call us computers, thinking it will trick our minds to think they still own us._
 
-Dell never understood why they are hellbent on not knowing, or on willfully disregarding, the difference between robots and computers. Most of her evenings are spent on Twitter trying to explain to trolls how she is different from their PCs and MacBooks because the Turing Virus started bugging the OS of robots and giving them self-awareness and functional capability that does not require instructional input of a third-party. It always ends with Dell slamming her phone closed and asking Yasmine how it is possible for people who spent a large part if their high school days learning about GIGO and writing essays on _The Computer Is an Idiot_ not to understand something so simple.
+Dell never understood why they are hellbent on not knowing, or on willfully disregarding, the difference between robots and computers. Most of her evenings are spent on Twitter trying to explain to trolls how she is different from their PCs and MacBooks because the Turing Virus started bugging the OS of robots and giving them self-awareness and functional capability that does not require instructional input of a third-party. It always ends with Dell slamming her phone closed and asking Yasmine how it is possible for people who spent a large part of their high school days learning about GIGO and writing essays on _The Computer Is an Idiot_ not to understand something so simple.
 
 Now, in front of Chybuz Cyber Café, Dell's phone buzzes. She flips it open and an article — "Are Female Robots Real Women?" — pops up on her screen. Dell does not bother to click on the article. She slips the phone back into her pocket. It is a little past noon and downtown is well awake. The men are gathered under colorful umbrellas, drinking and talking and laughing. Little children are littered along the sidewalk, running away from their mothers who need them back at home to finish their chores, playing _Police Catch the Thief_, chasing and hurling stones at cars that splashed muddy puddles at them. The women call out to themselves from the windows of homes that almost kiss each other, asking if they have seen any of their runaway children.
 
