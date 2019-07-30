@@ -6,13 +6,14 @@ editor: Julia Rios
 date: 2019-07-30 01:00:01 -0500
 category: short story
 permalink: the-brightest-lights-of-heaven
-audiourl:
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-07-30-The_Brightest_Lights_of_Heaven.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "We knew that beneath the surface we were something else entirely — something hungry, something jagged..."
 author-img: maria-haskins.jpg
 author-bio: |
   [Maria Haskins](https://mariahaskins.com/) is a Swedish-Canadian writer and translator. She writes speculative fiction, and debuted as a writer in the mythical era called "the 1980s". She was born and grew up in Sweden, but moved to Canada in 1992. Currently, she lives just outside Vancouver with a husband, two kids, and a very large black dog. Her fiction has appeared in _Shimmer Magazine_, _Cast of Wonders_, _Beneath Ceaseless Skies_, and elsewhere. You can find her on Twitter as [@mariahaskins](https://twitter.com/mariahaskins).
-proofread: false
+proofread: true
 contentnote: This story alludes to violence against animals and many acts of murder.
 ---
 

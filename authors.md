@@ -309,6 +309,9 @@ permalink: /authors
 ### Michael Lee Harris
 — [_Snow Ninjas of the Hymalayas_](/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
+### Maria Haskins
+— [_The Brightest Lights of Heaven_](/the-brightest-lights-of-heaven)
+
 ### Kevin Hearne
 — [_Friendly Emily_](/friendly-emily)
 

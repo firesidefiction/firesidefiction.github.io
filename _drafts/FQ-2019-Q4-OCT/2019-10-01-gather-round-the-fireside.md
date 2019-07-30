@@ -7,7 +7,7 @@ published: false
 author-img: julia-rios.jpg
 author-bio: |
   Julia Rios is the Fiction Editor for _Fireside Magazine_. They’re [@omgjulia](https://www.twitter.com/omgjulia) on Twitter.    
-proofread: false
+proofread: true
 ---
 
 Dear Reader,
