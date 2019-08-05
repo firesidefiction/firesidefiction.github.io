@@ -637,6 +637,9 @@ permalink: /authors
 ### Jason Ridler
 — [_Rocket Ship Nirvana_](/issue12/chapter/30/)
 
+### Joanne Rixon
+— [_Petals_](/petals)
+
 ### Rachel Rodman
 — [_The Gingerbread Pox_](/the-gingerbread-pox)
 
