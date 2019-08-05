@@ -18,7 +18,7 @@ layout: default-home
             <p class="category">{{ post.category }}</p>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
             <h3>{% if post.spanish-language %}por{% else %}by{% endif %} {{ post.author }}</h3>
-            <p>{{ post.teaser }}</p>
+            <p>{{ post.teaser  | markdownify }}</p>
           </div>
         </div>
       {% endif %}
@@ -36,7 +36,7 @@ layout: default-home
             <p class="category">{{ post.category }}: {{ post.serial-name }}, Chapter {{ post.part }}</p>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
             <h3>by {{ post.author }}</h3>
-            <p>{{ post.teaser }}</p>
+            <p>{{ post.teaser  | markdownify }}</p>
           </div>
         </div>
       {% endif %}
@@ -46,7 +46,7 @@ layout: default-home
         <p class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</p>
         <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
         <h3>by {{ post.author }}</h3>
-        <p>{{ post.teaser }}</p>
+        <p>{{ post.teaser  | markdownify }}</p>
       </div>
       {% endif %}
 
@@ -55,7 +55,7 @@ layout: default-home
         <p class="category">{{ post.date | date: "%b %-d, %Y" }} | <a href="/blackspecfic">{{ post.category }}</a></p>
         <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
         <h3>by {{ post.author }}</h3>
-        <p>{{ post.teaser }}</p>
+        <p>{{ post.teaser  | markdownify }}</p>
       </div>
       {% endif %}
     {% endfor %}

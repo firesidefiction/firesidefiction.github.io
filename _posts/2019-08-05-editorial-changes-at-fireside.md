@@ -6,7 +6,7 @@ date: 2019-08-05 01:00:01 -0500
 category: news
 permalink: step-into-the-xenowealth-with-us
 published: true
-teaser: "Fireside has acquired the rights to re-publish Tobias S. Buckell’s Xenowealth series of books: Crystal Rain, Ragamuffin, Sly Mongoose, and The Apocalypse Ocean."
+teaser: "Fireside has acquired the rights to re-publish Tobias S. Buckell’s Xenowealth series of books: _Crystal Rain_, _Ragamuffin_, _Sly Mongoose_, and _The Apocalypse Ocean_."
 author-img: pablo-defendini.jpg
 author-bio: |
  Pablo Defendini is the Publisher and Art Director of Fireside.
