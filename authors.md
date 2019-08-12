@@ -475,6 +475,9 @@ permalink: /authors
 ### George Lockett
 — [_Ten Utterances of the Vampire Word_](/ten-utterances-of-the-vampire-word)
 
+### Danny Lore
+— [_Fare_](/fare)
+
 ----
 
 ## M
