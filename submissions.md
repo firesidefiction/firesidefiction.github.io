@@ -57,6 +57,7 @@ Please read the following guidelines. <!--, then use the button below to submit 
 - Payment of 12.5 cents per word
 
 {% include submissions-closed-button.html %}
+Fireside is currently closed to submissions. When we open for submissions, there will be a form for uploading your submission on this page.
 
 ----
 
