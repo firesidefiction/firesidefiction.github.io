@@ -598,6 +598,9 @@ permalink: /authors
 
 ## P
 
+### Charles Payseur
+— [_How to Spend Your Free Time_](/how-to-spend-your-free-time)
+
 ### Dominica Phetteplace
 — [_How I Got Published (12 Tips from a Bestselling Author)_](/how-i-got-published)
 

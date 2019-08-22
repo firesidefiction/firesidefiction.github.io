@@ -6,15 +6,15 @@ editor: Julia Rios
 date: 2019-08-22 01:00:01 -0500
 category: poem
 permalink: how-to-spend-your-free-time
-audiourl:
-narrator:
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-08-22-How_to_Spend_Your_Free_Time.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "First plan for your future
 save for cars children vacations houses"
 author-img: charles-payseur.jpg
 author-bio: |
   Charles Payseur is an avid reader, writer, and reviewer of all things speculative. His fiction and poetry have appeared in _The Best American Science Fiction and Fantasy_, _Strange Horizons_, _Lightspeed Magazine_, and many more. He runs _Quick Sip Reviews_, has been a Hugo finalist fan writer, and can be found drunkenly reviewing _Goosebumps_ on his Patreon. When not hunting Hodags across the wilds of Wisconsin, you can find him gushing about short fiction (and his cats) on Twitter as [@ClowderofTwo](https://www.twitter.come/ClowderofTwo).
-proofread: false
+proofread: true
 ---
 
 First see to your obligations
