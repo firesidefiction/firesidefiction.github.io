@@ -4,9 +4,17 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-We welcome previously unpublished work ('published' includes work posted on Patreon or on a blog) in English or Spanish from all writers, and we are especially interested in seeing work from people of color, LGBTQIA+ people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
+Fireside is currently closed to submissions. During our submissions periods, there will be a form for uploading your submission on this page.
 
-Below you will find our submissions dates and guidelines for:
+Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. We will be open to submissions for short stories during the following periods:
+
+- Submissions for the Summer 2020 issue of _Fireside Quarterly_, edited by Kate Dollarhyde, will be open from **August 26, 2019** to **August 30, 2019**
+
+- Submissions for the Autumn 2020 issue of _Fireside Quarterly_, edited by Maurice Broaddus, will be open from **December 2, 2019** to **December 6, 2019**
+
+We welcome previously unpublished work ('published' includes work posted on Patreon or on a blog) in English or Spanish from all writers, and we are especially interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
+
+Below you will find our submissions guidelines for:
 - [Short Stories](#short-stories)
 - [Poetry](#poetry)
 - [Non-Fiction](#non-fiction)
@@ -16,18 +24,13 @@ Below you will find our submissions dates and guidelines for:
 If you have any questions about how to submit please email us at: [questions@firesidefiction.com](mailto:questions@firesidefiction.com).
 
 ### Accessibility
-We use a simple form to gather submissions, but we understand that this is not universally accessible to disabled people. If you have questions related to accessibility, please email us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com) with the subject line: 'Accessibility Query.' Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
+We use an online form to gather submissions, but we understand that this may not universally accessible to disabled people. If you have questions related to accessibility, please email us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com) with the subject line: 'Accessibility Query.' Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
 
 Any submissions sent via email will be deleted unread.
 
 ----
 
 ## Short Stories
-
-Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. We will be open to submissions for short stories during the following periods:
-
-- Submissions for the July 2020 issue of Fireside Quarterly will be open from **August 26, 2019** to **August 30, 2019**
-- Submissions for the October 2020 issue of Fireside Quarterly  will be open from **December 2, 2019** to **December 6, 2019**
 
 We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds. We love short short stories, like Karl Dandenell's '[We Who Stay Behind](https://firesidefiction.com/we-who-stay-behind);' '[Junebug's Magical Magnificent Mercurial Barbershop](https://firesidefiction.com/junebugs-magical-magnificent-mercurial-barbershop)' by Malon Edwards, and of course, '[Parasitismo](https://firesidefiction.com/parasitismo),' by Alberto Chimal (¡sí, aquí también se habla español!).
 
@@ -55,9 +58,6 @@ Please read the following guidelines. <!--, then use the button below to submit 
 - Fireside acquires first-world English and/or Spanish language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
 - First responses (either a rejection or a second round notice) within one month of the end of our reading period.
 - Payment of 12.5 cents per word
-
-{% include submissions-closed-button.html %}
-Fireside is currently closed to submissions. When we open for submissions, there will be a form for uploading your submission on this page.
 
 ----
 
