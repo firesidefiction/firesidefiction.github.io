@@ -24,7 +24,7 @@ Below you will find our submissions guidelines for:
 If you have any questions about how to submit please email us at: [questions@firesidefiction.com](mailto:questions@firesidefiction.com).
 
 ### Accessibility
-We use an online form to gather submissions, but we understand that this may not universally accessible to disabled people. If you have questions related to accessibility, please email us at [questions@firesidefiction.com with the subject line: Accessibility Query](mailto:questions@firesidefiction.com?subject:Accessibility Query). Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
+We use an online form to gather submissions, but we understand that this may not be universally accessible to disabled people. If you have questions related to accessibility, please email us at [questions@firesidefiction.com with the subject line: Accessibility Query](mailto:questions@firesidefiction.com?subject:Accessibility Query). Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
 
 Any submissions sent via email will be deleted unread.
 
