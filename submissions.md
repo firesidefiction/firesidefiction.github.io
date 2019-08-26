@@ -8,9 +8,9 @@ Fireside is currently open to submissions. Please read the following guidelines,
 
 Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. We will be open to submissions for short stories during the following periods:
 
-- **NOW OPEN:** Submissions for the Summer 2020 issue of _Fireside Quarterly_, edited by Kate Dollarhyde, open from **August 26, 2019** to **August 30, 2019**
+- **NOW OPEN:** Submissions for the Summer 2020 issue of _Fireside Quarterly_, edited by Kate Dollarhyde, open from **August 26, 2019 at 9am EST** to **August 30, 2019 at 6pm EST**
 
-- Submissions for the Autumn 2020 issue of _Fireside Quarterly_, edited by Maurice Broaddus, will be open from **December 2, 2019** to **December 6, 2019**
+- Submissions for the Autumn 2020 issue of _Fireside Quarterly_, edited by Maurice Broaddus, will be open from **December 2, 2019 at 9am EST** to **December 6, 2019 at 6pm EST**
 
 We welcome previously unpublished work ('published' includes work posted on Patreon or on a blog) in English or Spanish from all writers, and we are especially interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
 
