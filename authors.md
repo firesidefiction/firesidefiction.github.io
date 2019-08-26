@@ -532,6 +532,9 @@ permalink: /authors
 ### Lisa Nohealani Morton
 — [_To Fall, and Pause, and Fall_](/issue20/chapter/to-fall-and-pause-and-fall/)
 
+### Michelle Muenzler
+— [_For What Dignity Remains_](/for-what-dignity-remains)
+
 ### Alison Mulder
 — [_If We Live to Be Giants_](/if-we-live-to-be-giants)
 
