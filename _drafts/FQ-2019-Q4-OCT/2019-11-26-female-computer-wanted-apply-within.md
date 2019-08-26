@@ -20,7 +20,7 @@ author-img: innocent-chizaram-ilo.jpg
 author-bio: |
   When he is not receiving tonnes of rejections from cat adoption agencies, Innocent finds time to read and write. He is a 2018 Author of Tomorrow and a Gerald Kraak Award finalist. Inno has works published and forthcoming in _Fireside Magazine_, _Reckoning_, _Strange Horizons_, _Cosmic Roots and Eldritch Shores_, _Brittle Paper_, _SSDA ID Anthology_, and elsewhere. He lives in Nigeria.
 proofread: true
-contentnote:
+contentnote: This story depicts of unwanted sexual advances.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: story
-title: Persona Rakshasi
+title: Personal Rakshasi
 author: Suzan Palumbo
 editor: Julia Rios
 date: 2019-11-05 01:00:01 -0500

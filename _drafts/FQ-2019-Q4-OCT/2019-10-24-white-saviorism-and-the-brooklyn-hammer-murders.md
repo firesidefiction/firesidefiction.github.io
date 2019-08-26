@@ -13,7 +13,7 @@ author-img: diana-lu.jpg
 author-bio: |
   Diana Lu is a writer, comedian, and scientist in Boston, Massachusetts. She is a staff writer for _Plan A Magazine_ and _The New England Theatre Geek_. Her humor writing has appeared in _McSweeney's Internet Tendency_, _Women in Comedy Festival Daily_, _Robot Butt_, _Slackjaw_, and others.
 proofread: true
-contentnote: Describes murders motivated by racism
+contentnote: This essay examines racially motivated violence and describes specific violent incidents.
 ---
 
 On January 15, 2019, 34-year-old Arthur Martunovich barged into the Seaport Buffet, a Coney Island comfort food restaurant overlooking Sheepshead Bay. He stood by the door, looking around, then took a hammer from his backpack and immediately began striking the Asian man who walked past. “I’m not here for you,” he told a Latino employee, then stormed toward the kitchen.
