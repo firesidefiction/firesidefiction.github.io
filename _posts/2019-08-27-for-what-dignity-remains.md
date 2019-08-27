@@ -14,7 +14,6 @@ author-img: michelle-muenzler.jpg
 author-bio: |
   [Michelle Muenzler](http://www.michellemuenzler.com/), known at local science fiction and fantasy conventions as “The Cookie Lady”, writes fiction both dark and strange to counterbalance the sweetness of her baking. Her short fiction and poetry can be read in numerous science fiction and fantasy magazines, and she takes immense joy in crinkling words like little foil puppets.
 proofread: true
-contentnote:
 ---
 
 When it comes to funerals, it's always best a dead man's hands be peeled. That's what I've been taught, that's what I believe. Something about that sheath of skin lends weight to a dead man's grievances. Allows a man to cling when all else has sloughed away. There's no good in that, of course, as nobody enjoys being berated by their dead husband at the graveside for a handful of dinners burned or a stove left on once overlong.
