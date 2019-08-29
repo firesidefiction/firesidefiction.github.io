@@ -1,19 +1,19 @@
 ---
-layout: article
-title: Saving the World, Saving Ourselves: The Role of Justice in the Enviromentalist Movement
+layout: post
+title: "Saving the World, Saving Ourselves: The Role of Justice in the Enviromentalist Movement"
 author: Grace Villmow
 editor: Julia Rios
-date: 2019-08-08 01:00:01 -0500
+date: 2019-08-29 01:00:01 -0500
 category: essay
 permalink: saving-the-world-saving-ourselves-the-role-of-justice-in-the-environmentalist-movement
-audiourl:
-narrator:
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-08-08-Saving_the_World_Saving_Ourselves_the_Role_of_Justice_in_the_Environmentalist_Movement.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "Weighing in at around 5% of the earth’s population, Americans consume over 30% of the world’s resources."
 author-img: grace-villmow.jpg
 author-bio: |
   Grace Villmow was born and raised in Chicago and is a rising senior at St. John's College. Her environmental background comes from her time working with conservation organizations in her home city, her passion for Chicagoland native plants, and catching toads. She is the Editor in Chief of _The Epoch Journal_, St. John's College's political journal, and enjoys writing about urban ecology.
-proofread: false
+proofread: true
 ---
 
 Many people who care about environmentalism and conservation – those vague notions we have for stopping climate change or saving the sea turtles – have this defeatist mentality that humans are creatures of destruction, a plague unto the earth. The people who make these claims generally live in developed countries, and decry earth’s growing number of people – particularly in developing countries – as overpopulation. The sinister implication is that this world just isn’t big enough for all of us. Over-population isn’t the problem, though; it’s over-consumption.
@@ -36,11 +36,12 @@ Another issue is that oftentimes an environmental organization gets ahold of a p
 
 When asked why they care about the environment, most environmentalists will probably pick their favorite marine creature, or cite some camping memory from childhood, or even talk about how they were personally impacted by environmental degradation. There’s no wrong reason to be an environmentalist, but I think a sense of justice is the best one. As our climate changes and our planet becomes more volatile, some people will have the money to shield themselves from adversity, but other people will be at the mercy of rising oceans, violent storms, and scorching droughts. The people who will bear the brunt of humanity’s irresponsibility are the people who have contributed the least to it, or who have been unwilling contributors through the over-pricing and unavailability of unsustainable goods. Environmentalism does not ascribe itself solely to science; it is a question of what is right and what is wrong in terms of how we allocate our resources. In order to save the planet, we all must first agree to save ourselves along with it.
 
+----
 
 [^1]:  https://www.footprintcalculator.org/ is one such calculator.
 
 [^2]:  According to Demographic Transition Theory: http://papp.iussp.org/sessions/papp101_s01/PAPP101_s01_090_010.html
 
-[^3] World’s population increasingly urban with more than half living in urban areas: http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html
+[^3]: World’s population increasingly urban with more than half living in urban areas: http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html
 
 [^4]: Burnham Wildlife Corridor: https://www.chicagoparkdistrict.com/parks-facilities/burnham-wildlife-corridor
