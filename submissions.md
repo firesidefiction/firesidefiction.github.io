@@ -4,11 +4,9 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently open to submissions. Please read the following guidelines, then use the form below to submit your work. <!--During our submissions periods, there will be a form for uploading your submission on this page.-->
+Fireside is currently closed to submissions. <!--Please read the following guidelines, then use the form below to submit your work.--> During our submissions periods, there will be a form for uploading your submission on this page.
 
 Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. We will be open to submissions for short stories during the following periods:
-
-- **NOW OPEN:** Submissions for the Summer 2020 issue of _Fireside Quarterly_, edited by Kate Dollarhyde, open from **August 26, 2019 at 9am EST** to **August 30, 2019 at 6pm EST**
 
 - Submissions for the Autumn 2020 issue of _Fireside Quarterly_, edited by Maurice Broaddus, will be open from **December 2, 2019 at 9am EST** to **December 6, 2019 at 6pm EST**
 
@@ -34,7 +32,7 @@ Any submissions sent via email will be deleted unread.
 
 We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds. We love short short stories, like Karl Dandenell's '[We Who Stay Behind](https://firesidefiction.com/we-who-stay-behind);' '[Junebug's Magical Magnificent Mercurial Barbershop](https://firesidefiction.com/junebugs-magical-magnificent-mercurial-barbershop)' by Malon Edwards, and of course, '[Parasitismo](https://firesidefiction.com/parasitismo),' by Alberto Chimal (¡sí, aquí también se habla español!).
 
-Please read the following guidelines, then use the form below to submit your work.
+<!--Please read the following guidelines, then use the form below to submit your work.-->
 
 ### Please submit:
 - Stories in English or Spanish
@@ -59,7 +57,7 @@ Please read the following guidelines, then use the form below to submit your wor
 - First responses (either a rejection or a second round notice) within approximately one month of the end of our reading period.
 - Payment of 12.5 cents per word
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrmS8Fv2ad8wsL4j?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1213" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<!-- <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrmS8Fv2ad8wsL4j?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1213" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
 
 ----
 
