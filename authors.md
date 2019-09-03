@@ -580,6 +580,9 @@ permalink: /authors
 ### Sandra M. Odell
 — [_Listening to it Rain_](/issue5/chapter/listening-to-it-rain/)
 
+### Aimee Ogden
+— [_Shelter, Sustenance, Self_](/shelter-sustenance-self)
+
 ### Suyi Davies Okungbowa
 — [_Our Secrets, In Keys_](/our-secrets-in-keys)
 

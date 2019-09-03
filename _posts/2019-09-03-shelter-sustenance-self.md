@@ -6,13 +6,14 @@ editor: Julia Rios
 date: 2019-09-03 01:00:01 -0500
 category: short story
 permalink: shelter-sustenance-self
-audiourl:
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-03-Shelter_Sustenance_Self.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "It's all been leading to this. Learning to use this body of false flesh..."
 author-img: aimee-ogden.jpg
 author-bio: |
   [Aimee Ogden](https://aimeeogdenwrites.wordpress.com/) is a former science teacher and software tester; now she writes stories about angry princesses, sad astronauts, and dead gods. She lives in Madison, Wisconsin, where the beer is always cold and the cheese curds are always fried. She is a graduate of the Viable Paradise workshop and her work also appears in _Shimmer Magazine_, _Apex Magazine_, _Beneath Ceaseless Skies_, _Analog Science Fiction and Fact_, and more.
-proofread: false
+proofread: true
 contentnote:
 ---
 
