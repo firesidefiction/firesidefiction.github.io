@@ -1,23 +1,24 @@
 ---
 layout: post
-title: Shapeshifting Sorcery: The Persistence of Mesoamerican Magic
+title: "Shapeshifting Sorcery: The Persistence of Mesoamerican Magic"
 author: David Bowles
 editor: Julia Rios
-date: 2019-09-06 01:00:01 -0500
+date: 2019-09-05 01:00:01 -0500
 category: essay
 permalink: shapeshifting-sorcery-the-persistence-of-mesoamerican-magic
-audiourl:
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-05-Shapeshifting_Sorcery-_The_Persistence_of_Mesoamerican_Magic.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "It wasn’t until I was an adult that I understood these spooky tales of shapeshifting were remnants of something older, diluted by time and Conquest and Catholicism."
 author-img: david-bowles.jpg
 author-bio: |
   **David Bowles** is the recipient of awards from the American Library Association, Texas Institute of Letters and Texas Associated Press, Mexican American author. He has written fourteen books, including the Pura Belpré Honor Book _The Smoking Mirror_, the collection _Chupacabra Vengeance_, and _Feathered Serpent_, _Dark Heart of Sky: Myths of Mexico_ (one of Kirkus Reviews’ Best YA Books of 2018). 2018 also saw the publication of _They Call Me Güero: A Border Kid's Poems_ (2019 Walter Dean Myers Award for Outstanding Children’s Literature Honor Book). In 2019, Penguin will publish _The Chupacabras of the Rio Grande_, co-written with Adam Gidwitz, and Tu Books will release _Clockwork Curandera_, a graphic novel illustrated by Raúl the Third. David’s work has also appeared in venues such as _Apex Magazine_, _Nightmare Magazine_, _The Dark Magazine_, _Eye to the Telescope_, _Strange Horizons_, _Journal of Children's Literature_, _Translation Review_, and _Rattle_. In 2017, David was inducted into the Texas Institute of Letters in recognition of his literary accomplishments.
-proofread: false
+proofread: true
 art: shapeshifting-sorcery-the-persistence-of-mesoamerican-magic.png
-caption: "TK"
+caption: "A tlahuelpuchi, a Mexican vampire flies through the night"
 artist: Mariana Palova
-artist—img: mariana-palova.jpg
-artist—bio: |
+artist-img: mariana-palova.jpg
+artist-bio: |
   **Mariana Palova** is an enthusiastic alchemist who, from time to time, likes to do a bit of magic. Born in Jalisco, Mexico in 1990, she decided to dedicate her life to a constant and disastrous search for her own personality, which has led her to become a writer, artist, and forest creature. With a special weakness for nature, wolves, occultism, and folk music, her visual work has been exhibited in more than seventy shows around the world. Her first literary saga, Nation of the Beasts, was recently acquired to be published in the United States and Latin America. Nowadays, her biggest dream is to get a small wood cabin in Alaska and live forever happy, surrounded by her books.
 contentnote:
 ---

@@ -43,6 +43,13 @@ layout: default-home
 
       {% if post.category == "news" or post.category == "announcement" or post.category == "essay" or post.category == "interview" %}
       <div class="entry news">
+        {% if post.art %}
+          <a href="{{ post.url | relative_url }}">
+            <figure>
+              <img class="" src="/illustration/{{ post.art }}" alt="{{ post.caption }}">
+            </figure>
+          </a>
+        {% endif %}
         <p class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</p>
         <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
         <h3>by {{ post.author }}</h3>

@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
+{% if page.art %}
+  <figure class="story-illustration">
+    <img src="/illustration/{{ page.art }}" alt="{{ page.caption }}">
+  </figure>
+{% endif %}
 <article>
 
   <header class="post-header">
@@ -9,6 +13,7 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     {% if page.author %}<h2>By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
     {% if page.editor %}<p>Edited by {{ page.editor }}</p>{% endif %}
+    {% if page.artist %}<p>Illustration by {{ page.artist }}</p>{% endif %}
   </header>
 
   <div class="story-controls">

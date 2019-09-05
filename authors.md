@@ -88,6 +88,9 @@ permalink: /authors
 ### Keyan Bowes
 — [_Light and Death on the Indian Battle Station_](/light-and-death-on-the-indian-battle-station)
 
+### David Bowles
+— [_Shapeshifting Sorcery: The Persistence of Mesoamerican Magic_](/shapeshifting-sorcery-the-persistence-of-mesoamerican-magic)
+
 ### Lisa M. Bradley
 — [_By the Mother’s Trunk_](/by-the-mothers-trunk/)
 
