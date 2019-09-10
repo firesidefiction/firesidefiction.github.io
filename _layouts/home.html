@@ -5,7 +5,7 @@ layout: default-home
   {{ content }}
 
     {% for post in paginator.posts %}
-      {% if post.category == "short story" or post.category == "cuento corto" or post.category == "flash fiction" or post.category == "comic" or post.category == "poem" %}
+      {% if post.category == "short story" or post.category == "cuento corto" or post.category == "cuento" or post.category == "flash fiction" or post.category == "comic" or post.category == "poem" %}
         <div class="entry story">
           {% if post.art %}
             <a href="{{ post.url | relative_url }}">

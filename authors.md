@@ -123,6 +123,7 @@ permalink: /authors
 
 ### Raquel Castro
 — [_Larga Distancia_](/larga-distancia)
+— [_Gallinas_](/gallinas)
 
 ### Beth Cato
 — [_To This, You Cling, With Jagged Fingernails_](/to-this-you-cling-with-jagged-fingernails)
