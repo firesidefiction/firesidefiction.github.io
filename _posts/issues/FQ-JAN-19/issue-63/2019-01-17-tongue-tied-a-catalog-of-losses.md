@@ -125,7 +125,7 @@ proofread: true
 ----
 
 **U - Urgency**
-You've been trying to remember how your father says your name when he talks to you. You know how he says it when he talks about you, in both Kurdish and German. But you try to imagine him saying you name to you, subvocalizing over and over, and you can’t.
+You've been trying to remember how your father says your name when he talks to you. You know how he says it when he talks about you, in both Kurdish and German. But you try to imagine him saying your name to you, subvocalizing over and over, and you can’t.
 
 ----
 
