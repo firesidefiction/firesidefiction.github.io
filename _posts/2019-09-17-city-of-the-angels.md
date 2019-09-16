@@ -3,11 +3,16 @@ layout: story
 title: City of the Angels
 author: Libia Brenda
 editor: Julia Rios
-translator: Julia Rios
 date: 2019-09-17 01:00:01 -0500
-category: short story
+category: translated short story
 permalink: city-of-the-angels
-published: false
+translated: yes
+translator: Julia Rios
+language: english
+spanish-url: puebla-de-los-angeles
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-17-City_of_the_Angels.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "If the conquistadors are going to build this city, does that mean that now the angels will work with the Spanish clergy and be their allies?"
 author-img: libia-brenda.jpg
 author-bio: |

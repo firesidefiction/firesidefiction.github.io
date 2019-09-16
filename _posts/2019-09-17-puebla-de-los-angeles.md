@@ -1,12 +1,17 @@
 ---
 layout: story
-title: Puebla de los Ángeles
+title: Puebla de los ángeles
 author: Libia Brenda
 editor: Julia Rios
 date: 2019-09-17 01:00:01 -0500
-category: short story
+category: cuento corto
 permalink: puebla-de-los-angeles
-published: false
+spanish-language: yes
+spanish-date: Septiembre 2019
+english-url: city-of-the-angels
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-17-Puebla_de_los_angeles.mp3
+narrator: Pablo Defendini
+published: true
 teaser: "Si esa ciudad la van a construir los conquistadores, ¿quiere decir que ahora los ángeles trabajarán con el clero español y serán sus aliados?"
 author-img: libia-brenda.jpg
 author-bio: |
@@ -37,7 +42,7 @@ Miguel, que había estado muy quieto, tomó entonces la palabra:
 
 Intervino un serafín:
 
-¬—Miguel habla como estratega, pero yo secundo a Sariel, ¿por qué tenemos que jugar ningún papel?, no pertenecemos a los dominios humanos, no debemos interferir con sus acciones.
+—Miguel habla como estratega, pero yo secundo a Sariel, ¿por qué tenemos que jugar ningún papel?, no pertenecemos a los dominios humanos, no debemos interferir con sus acciones.
 
 El barullo de la discusión inundó el auditorio. En un momento determinado, Gabriel carraspeó y empezó a hablar en tono sosegado. Pero su voz alcanzó hasta el último rincón de la sala:
 

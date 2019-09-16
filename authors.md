@@ -92,7 +92,10 @@ permalink: /authors
 — [_Shapeshifting Sorcery: The Persistence of Mesoamerican Magic_](/shapeshifting-sorcery-the-persistence-of-mesoamerican-magic)
 
 ### Lisa M. Bradley
-— [_By the Mother’s Trunk_](/by-the-mothers-trunk/)
+— [_By the Mother’s Trunk_](/by-the-mothers-trunk)
+
+### Libia Brenda
+— [_Puebla de los ángeles_](/puebla-de-los-angeles)
 
 ### Lee S. Bruce
 — [_A Promise of Flight_](/a-promise-of-flight)
