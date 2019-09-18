@@ -7,7 +7,7 @@ translator: Julia Rios
 date: 2019-09-19 01:00:01 -0500
 category: poem
 permalink: questions-to-grow-up-on
-published: false
+published: true
 teaser: "you call yourself caribbean? your skin’s too light, your name too asian ou did not know the island life"
 author-img:
 author-bio: |
