@@ -207,6 +207,9 @@ permalink: /authors
 ### Pablo Defendini
 — [_Redefining Scripts for Better Masculinity_](/redefining-scripts-for-better-masculinity)
 
+### Ashley Deng
+— [_Questions to Grow Up On_](/questions-to-grow-up-on)
+
 ### Steven J. Dines
 — [_A Trick of the Night_](/issue9/chapter/a-trick-of-the-night/)
 
