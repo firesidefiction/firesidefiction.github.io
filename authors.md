@@ -819,6 +819,9 @@ permalink: /authors
 
 ## V
 
+### Iliana Vargas
+— [_La caja](/la-caja)
+
 ### José González Vargas
 — [_Chiripas_](/chiripas)
 
