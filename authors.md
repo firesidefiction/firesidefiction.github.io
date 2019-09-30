@@ -491,6 +491,9 @@ permalink: /authors
 ### Danny Lore
 — [_Fare_](/fare)
 
+### Catherine Lundoff
+— [_Lost Girl_](/lost-girl)
+
 ----
 
 ## M
