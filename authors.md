@@ -598,6 +598,7 @@ permalink: /authors
 
 ### Suyi Davies Okungbowa
 — [_Our Secrets, In Keys_](/our-secrets-in-keys)
+— [_The Haunting of 13 Olúwo Street_](/the-haunting-of-13-oluwo-street)
 
 ### Daniel José Older
 — [_Stay_](/issue22/chapter/stay/)
