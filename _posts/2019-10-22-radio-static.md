@@ -6,14 +6,10 @@ editor: Julia Rios
 date: 2019-10-22 01:00:01 -0500
 category: short story
 permalink: radio-static
-audiourl:
-narrator:
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-22-Radio_Static.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "You don’t know that I am a ghost, so you sit at my bedside and cup my hand like a seashell in your palm."
-art: title-of-the-story.png
-caption: "Alt text for image"
-artist: Artist Name
-artist-img: artist-name.jpg
 author-img: carolin-jansen.jpg
 author-bio: |
   Carolin Jansen is a writer of short fiction, poetry, and overly ambitious to-do lists. She lives in Germany, where she works as a doctor. English is her second language. Her interests include strange and fantastical stories, bioethics, ice cream, and petting dogs. She can be found on Twitter as [@_cjansen](https://www.twitter.com/_cjansen). "Radio Static" is her first magazine publication.
@@ -49,10 +45,14 @@ I’ve found all these lost things here: the stuffed bunny I had as a kid, spare
 Turn up the radio. Trust me.
 
 A (non-exhaustive) list of things that I am sorry for:
-1.	The call you got in the middle of the night.
-2.	The broken glass of my windshield glittering on the asphalt.
-3.	Driving in the pouring rain.
-4.	Not seeing the twin wounds of tail lights in front of me until it was too late.
+
+1 -	The call you got in the middle of the night.
+
+2 -	The broken glass of my windshield glittering on the asphalt.
+
+3 -	Driving in the pouring rain.
+
+4 -	Not seeing the twin wounds of tail lights in front of me until it was too late.
 
 Today, the doctor frowns at the lack of squiggly lines on my EEG again. I have a plastic card in my wallet that says that I am an organ donor. Any day now, they will salvage what is left of me; deep sea divers exploring the wreckage.
 

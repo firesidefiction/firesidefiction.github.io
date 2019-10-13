@@ -6,16 +6,16 @@ editor: Julia Rios
 date: 2019-10-15 01:00:01 -0500
 category: short story
 permalink: on-the-other-side-of-the-line
-audiourl:
-narrator:
-published: false
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-15-On_the_Other_Side_of_the_Line.mp3
+narrator: C. S. E. Cooney
+published: true
 teaser: "I've never seen a complete message come through the Line. Only fragments."
 art: on-the-other-side-of-the-line.png
 caption: "A woman looks on longingly at the shadow of her lover"
 artist: Amanda Makepeace
 artist-img: amanda-makepeace.jpg
 artist-bio: |
-  Amanda Makepeace is an award-winning illustrator currently living in northeast Georgia. Her art is inspired by nature, mythology, magical beings, and distant worlds. She is the co-founder of the Bird Whisperer Project, a monthly art challenge focused on spreading the love of birds and art-making. Amanda’s art has appeared in ENnie Award-winning games, and on the covers popular independent novels and anthologies. She is a regular at fantasy and science fiction conventions in the southeast. Delve into her imagination at www.amandamakepeace.com.
+  Amanda Makepeace is an award-winning illustrator currently living in northeast Georgia. Her art is inspired by nature, mythology, magical beings, and distant worlds. She is the co-founder of the Bird Whisperer Project, a monthly art challenge focused on spreading the love of birds and art-making. Amanda’s art has appeared in ENnie Award-winning games, and on the covers popular independent novels and anthologies. She is a regular at fantasy and science fiction conventions in the southeast. Delve into her imagination at [www.amandamakepeace.com](www.amandamakepeace.com).
 author-img: a-t-greenblatt.jpg
 author-bio: |
   A. T. Greenblatt is a mechanical engineer by day and a writer by night. She lives in Philadelphia and is known to frequently subject her friends to various cooking and home brewing experiments. She is a graduate of Viable Paradise XVI and Clarion West 2017. Her work is forthcoming or has appeared in _Uncanny Magazine_, _Beneath Ceaseless Skies_, _Clarkesworld Magazine_, and _Fireside Magazine_, as well as other fine places. She was also a finalist for the 2018 Nebula Award. You can find her online at [atgreenblatt.com](http://www.atgreenblatt.com) and on Twitter at [@AtGreenblatt](https://www.twitter.com/AtGreenblatt).
