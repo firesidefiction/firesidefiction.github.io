@@ -8,7 +8,7 @@ category: poem
 permalink: after-living-with-him
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-17-After_Living_With_Him.mp3
 narrator: C. S. E. Cooney
-published: true
+published: false
 teaser: "It was the question I had been dreading
 for a while, knowing that one day
 someone in the family would ask"

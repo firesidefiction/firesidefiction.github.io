@@ -8,7 +8,7 @@ category: short story
 permalink: on-the-other-side-of-the-line
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-15-On_the_Other_Side_of_the_Line.mp3
 narrator: C. S. E. Cooney
-published: true
+published: false
 teaser: "I've never seen a complete message come through the Line. Only fragments."
 art: on-the-other-side-of-the-line.png
 caption: "A woman looks on longingly at the shadow of her lover"
