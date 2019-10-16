@@ -6,7 +6,7 @@ editor: Julia Rios
 date: 2019-10-24 01:00:01 -0500
 category: essay
 permalink: white-saviorism-and-the-brooklyn-hammer-murders
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-24-White_Saviorism_and_the_Brooklyn_Hammer_Murders.mp3
 published: false
 teaser: "We are portrayed as weak and broken victims, completely lacking in agency or strength. We are used in white narratives as props..."
 author-img: diana-lu.jpg

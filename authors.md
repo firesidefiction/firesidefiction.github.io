@@ -298,6 +298,8 @@ permalink: /authors
 ### A. T. Greenblatt
 — [_Team Work_](/team-work)
 
+— [_On the Other Side of the Line_](/on-the-other-side-of-the-line)
+
 ### Megan Grey
 — [_Missing_](/issue15/chapter/missing/)
 
@@ -559,6 +561,9 @@ permalink: /authors
 -[_The Whale of Tikpiti’i_](/the-whale-of-tikpitii)
 
 -[_Reclaiming the Right to Truth_](/reclaiming-the-right-to-truth)
+
+### Okwudili Nebeolisa
+— [_After Living With Him_](after-living-with-him)
 
 ### Derek Newman—Stille
 -[_Faded_](/faded)
