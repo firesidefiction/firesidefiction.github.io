@@ -10,10 +10,6 @@ audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-29-What_Cann
 narrator: C. S. E. Cooney
 published: false
 teaser: "She is still waiting for the family who left her behind fifty years ago."
-art: title-of-the-story.png
-caption: "Alt text for image"
-artist: Artist Name
-artist-img: artist-name.jpg
 author-img: eugenia-triantafyllou.jpg
 author-bio: |
   Eugenia Triantafyllou is a Greek author and artist. She writes ghost stories. She currently lives in northern Sweden with a boy and a dog. Her short fiction has appeared in _Apex Magazine_, _Strange Horizons_, _Black Static_, and other venues. You can find her on Twitter as [@FoxesandRoses](https://www.twitter.com/FoxesandRoses) or at her website [https://eugeniatriantafyllou.wordpress.com](https://eugeniatriantafyllou.wordpress.com).  

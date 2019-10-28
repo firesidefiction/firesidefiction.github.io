@@ -3,7 +3,7 @@ layout: post
 title: White Saviorism and the Brooklyn Hammer Murders
 author: Diana Lu
 editor: Julia Rios
-date: 2019-10-24 01:00:01 -0500
+date: 2019-10-31 01:00:01 -0500
 category: essay
 permalink: white-saviorism-and-the-brooklyn-hammer-murders
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-24-White_Saviorism_and_the_Brooklyn_Hammer_Murders.mp3
@@ -18,9 +18,9 @@ contentnote: This essay examines racially motivated violence and describes speci
 
 On January 15, 2019, 34-year-old Arthur Martunovich barged into the Seaport Buffet, a Coney Island comfort food restaurant overlooking Sheepshead Bay. He stood by the door, looking around, then took a hammer from his backpack and immediately began striking the Asian man who walked past. “I’m not here for you,” he told a Latino employee, then stormed toward the kitchen.
 
-Apparently, Martunovich had seen an unspecified movie in which Chinese men mistreated Chinese women, and he was “acting out of chivalry by defending Chinese women[^1].” By the time police arrived, chef Fufai Pun, 34, had been bludgeoned to death. Restaurant co-owner Tsz Mat Pun, 50, and manager Thang Ng, 60, died in the hospital a few days later.
+Apparently, Martunovich had seen an unspecified movie in which Chinese men mistreated Chinese women, and he was “[acting out of chivalry by defending Chinese women](https://ny.eater.com/2019/1/24/18196355/seaport-buffet-hammer-attack-third-victim-dies).” By the time police arrived, chef Fufai Pun, 34, had been bludgeoned to death. Restaurant co-owner Tsz Mat Pun, 50, and manager Thang Ng, 60, died in the hospital a few days later.
 
-A few weeks after the Brooklyn Hammer Murders, actor Liam Neeson gave an interview in which he said that, after he found out that his close friend was raped by a “black person,” he went around with a bludgeon looking for a “black bastard” to “come out of a pub and have a go at [him] … So that [he] could kill him." Let me reiterate: Liam Neeson walked up and down his neighborhood streets, carrying a weapon, looking for a black man to kill[^2], which to him was an act of chivalry.
+A few weeks after the Brooklyn Hammer Murders, actor Liam Neeson gave an interview in which he said that, after he found out that his close friend was raped by a “black person,” he went around with a bludgeon looking for a “black bastard” to “come out of a pub and have a go at [him] … So that [he] could kill him." Let me reiterate: [Liam Neeson walked up and down his neighborhood streets, carrying a weapon, looking for a black man to kill](https://www.bbc.com/news/entertainment-arts-47117177), which to him was an act of chivalry.
 
 If an innocent black man had been at the wrong place at the wrong time, he would have been killed for no reason at all. Just like Fufai Pun, Tsz Mat Pun, and Thang Ng. But no “bad guys” showed up, and Neeson instead went on to an illustrious acting career filled with white knight-savior roles.
 
@@ -49,7 +49,3 @@ Right now, there isn’t even language to describe this kind of gendered racism.
 I can’t speak for anyone, nor should I. The experiences of Asian American men, especially, have been sorely lacking in mainstream media, and they deserve to be heard. They deserve a voice, and bigger platforms. Their experiences are the flip side of a racial oppression that hurts us all.
 
 These racialized gender gaps further prevent people of color from developing community identity, mutual cultural roots, and group political will. Pushing the narrative that men of color are worse than white men, and that women and children of color need to be saved from them, is white supremacy and just kicks the can down the road to the next generation. We have to do better.
-
-[^1]: https://ny.eater.com/2019/1/24/18196355/seaport-buffet-hammer-attack-third-victim-dies
-
-[^2]: https://www.bbc.com/news/entertainment-arts-47117177
