@@ -389,6 +389,9 @@ permalink: /authors
 ### Hillary Jacques
 — [_The Cutting Yield_](/issue16/chapter/the-cutting-yield/)
 
+### Carolin Jansen
+— [_Radio Static_](/radio-static)
+
 ### Lucas J.W. Johnson
 — [_Remaker, Remaker_](/issue3/chapter/remaker-remaker/)
 
