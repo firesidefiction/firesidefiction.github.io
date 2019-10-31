@@ -496,6 +496,9 @@ permalink: /authors
 ### Danny Lore
 — [_Fare_](/fare)
 
+### Diana Lu
+— [_White Saviorism and the Brooklyn Hammer Murders_](/white-saviorism-and-the-brooklyn-hammer-murders)
+
 ### Catherine Lundoff
 — [_Lost Girl_](/lost-girl)
 
@@ -816,6 +819,9 @@ permalink: /authors
 
 ### R.L. Thull
 — [_The Forever Girl_](/issue33/chapter/the-forever-girl/)
+
+### Eugenia Triantafyllou
+— [_What Cannot Follow_](/what-cannot-follow)
 
 ### Ali Trotta
 — [_Three of Swords, King of Cups_](/three-of-swords-king-of-cups)

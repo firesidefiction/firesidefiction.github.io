@@ -11,7 +11,7 @@ narrator:
 published: false
 teaser: "No matter the number of robo-positive campaigns organized by Town Council, most humans cannot stop themselves from using Female Computer to refer to female robots."
 art: female-computer-wanted-apply-within.png
-caption: "TK"
+caption: "An android holds her lover in her arms."
 artist: Reiko Murakami
 artist-img: reiko-murakami.jpg
 artist-bio: |
