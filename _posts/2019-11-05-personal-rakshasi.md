@@ -8,7 +8,7 @@ category: short story
 permalink: personal-rakshasi
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-05-Personal_Rakshasi.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "She tries to push the words from her head but they stain her dreams - their bitterness coating her tongue when she wakes."
 author-img: suzan-palumbo.jpg
 author-bio: |
