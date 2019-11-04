@@ -629,6 +629,9 @@ permalink: /authors
 
 ## P
 
+### Suzan Palumbo
+— [_Personal Rakshasi_](/personal-rakshasi)
+
 ### Charles Payseur
 — [_How to Spend Your Free Time_](/how-to-spend-your-free-time)
 

@@ -6,14 +6,10 @@ editor: Julia Rios
 date: 2019-11-05 01:00:01 -0500
 category: short story
 permalink: personal-rakshasi
-audiourl:
-narrator:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-05-Personal_Rakshasi.mp3
+narrator: C. S. E. Cooney
 published: false
 teaser: "She tries to push the words from her head but they stain her dreams - their bitterness coating her tongue when she wakes."
-art: title-of-the-story.png
-caption: "Alt text for image"
-artist: Artist Name
-artist-img: artist-name.jpg
 author-img: suzan-palumbo.jpg
 author-bio: |
   Suzan Palumbo lives in Canada. Originally from Trinidad and Tobago, she is an ESL teacher and a New Wave enthusiast. Her stories are often inspired by clashes of culture and the gap between expectations and reality. Her work has been published by _PodCastle_, _Diabolical Plots_, and _Anathema: Spec from the Margins_.
