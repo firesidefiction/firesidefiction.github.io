@@ -172,6 +172,9 @@ permalink: /authors
 ### Tina Connolly
 — [_Queen Aster, Who Dances_](/queen-aster-who-dances)
 
+### Patricia Coral
+— [_Baterías_](/baterias)
+
 ### Frank Cvetkovic
 — [_Snow Ninjas of the Hymalayas_](/issue1/chapter/snow-ninjas-of-the-hymalayas/)
 
