@@ -74,6 +74,9 @@ permalink: /authors
 ### Rebecca Birch
 — [_A Taste of Cinnamon_](/issue21/chapter/a-taste-of-cinnamon/)
 
+### Amber Bird
+— [_who i am_](/who-i-am)
+
 ### Sofie Bird
 — [_If X is a Real Number_](/issue33/chapter/if-x-is-a-real-number/)
 
