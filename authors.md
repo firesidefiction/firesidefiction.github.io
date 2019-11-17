@@ -256,6 +256,9 @@ permalink: /authors
 
 — [_A Post-Modern Oracle_](/a-post-modern-oracle)
 
+### Francesca Forrest
+— [_The Boy on the Roof_](/the-boy-on-the-roof)
+
 ### Eric Francis
 — [_The Boy_](/issue17/chapter/the-boy/)
 
@@ -768,6 +771,8 @@ permalink: /authors
 — [_Blind Reading is in Braille or Large Print_](/blind-reading)
 
 — [_Power Structures Are Meant to Be Broken_](/power-structures-are-meant-to-be-broken)
+
+— [_The Emotional Beats of Becoming a Guide Dog Handler_](/the-emotional-beats-of-becoming-a-guide-dog-handler)
 
 ### Addison Smith
 — [_Hope for Enthos_](/issue10/chapter/hope-for-enthos/)

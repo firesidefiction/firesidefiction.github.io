@@ -6,20 +6,15 @@ editor: Julia Rios
 date: 2019-11-19 01:00:01 -0500
 category: short story
 permalink: the-boy-on-the-roof
-audiourl:
-narrator:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-19-The_Boy_on_the_Roof.mp3
+narrator: C. S. E. Cooney
 published: false
 teaser: "“Did you marry the clouds too?” asked the boy."
-art: title-of-the-story.png
-caption: "Alt text for image"
-artist: Artist Name
-artist-img: artist-name.jpg
 author-img: francesca-forrest.jpg
 author-bio: |
   Francesca Forrest is the author of _The Inconvenient God_ (Annorlunda Books, 2018), about a slacker god with a mysterious past, and the novel _Pen Pal_ (2013), a story of friendship and heroism from the margins, as well as short stories that have appeared in _Not One of Us_, _Strange Horizons_, and other online and print venues, including anthologies. She’s old enough to have four grown children and young enough not to have mastered object permanence just yet. She lives in western Massachusetts.
 proofread: true
 contentnote:
-
 ---
 
 “Washing area is there, and you can hang your things on that pole,” the manager of the hostel said, pointing to a large stone sink and then to a pole not yet fluttering with shirts and skirts and trousers. “No more than two buckets of water per lodger per wash — it’s metered, so don’t try to take more; it’ll turn off — and no more than three washes a week. And tell me if the boy bothers you.”
