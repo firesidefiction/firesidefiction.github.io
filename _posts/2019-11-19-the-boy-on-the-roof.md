@@ -8,7 +8,7 @@ category: short story
 permalink: the-boy-on-the-roof
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-19-The_Boy_on_the_Roof.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "“Did you marry the clouds too?” asked the boy."
 author-img: francesca-forrest.jpg
 author-bio: |
