@@ -41,3 +41,7 @@ destination:  ./docs
 # includes_dir: _includes
 sass:
     sass_dir: _sass
+
+collections:
+  contributors:
+      output: true

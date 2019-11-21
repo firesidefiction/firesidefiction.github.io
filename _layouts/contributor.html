@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1>{{ page.credit-name }}</h1>
+<figure>
+  <img class="" src="/images/contributors/{{ page.profile-pic }}" alt="{{ page.credit-name }}">
+</figure>
+<h2>{{ page.role }}</h2>
+
+{{ content }}
+
+<h2>{{ page.first-name }}'s Work in Fireside</h2>
+<ul>
+  {% assign filtered_author_posts = site.posts | where: 'author', page.short-name %}
+  {% for post in filtered_author_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  {% assign filtered_editor_posts = site.posts | where: 'editor', page.short-name %}
+  {% for post in filtered_editor_posts %}
+    <li>Edited <a href="{{ post.url }}">{{ post.title }} by {{ post.author }}</a></li>
+  {% endfor %}
+</ul>
