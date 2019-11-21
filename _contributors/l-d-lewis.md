@@ -1,6 +1,7 @@
 ---
 layout: contributor
 short-name: l-d-lewis
+permalink: l-d-lewis
 credit-name: L. D. Lewis
 first-name: L. D.
 role: author

@@ -1,6 +1,7 @@
 ---
 layout: contributor
 short-name: dominik-parisien
+permalink: dominik-parisien
 credit-name: Dominik Parisien
 first-name: Dominik
 role: editor

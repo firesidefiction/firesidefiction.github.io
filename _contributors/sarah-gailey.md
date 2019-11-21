@@ -1,6 +1,7 @@
 ---
 layout: contributor
 short-name: sarah-gailey
+permalink: sarah-gailey
 credit-name: Sarah Gailey
 first-name: Sarah
 role: author
