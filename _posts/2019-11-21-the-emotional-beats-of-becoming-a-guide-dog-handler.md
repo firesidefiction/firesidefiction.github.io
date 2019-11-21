@@ -8,7 +8,7 @@ category: essay
 permalink: the-emotional-beats-of-becoming-a-guide-dog-handler
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-21-The_Emotional_Beats_of_Becoming_a_Guide_Dog_Handler.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "I can barely breathe through the fear that this won’t work. What if I can’t get him to focus consistently?"
 author-img: elsa-sjunneson-henry.jpg
 author-bio: |
