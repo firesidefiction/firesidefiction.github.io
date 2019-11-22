@@ -9,9 +9,9 @@ permalink: /contributors
 <h2>Editors</h2>
 <ul>
   {% for contributor in site.contributors %}
-  {% if contributor.role == "editor" or contributor.role-2 == "editor" %}
+  {% if contributor.role == "editor" or contributor.role-2 == "editor" or contributor.role-3 == "editor" %}
     <li>
-      <p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a> | {{ contributor.title | markdownify }}</p>
+      <a href="{{ contributor.url }}">{{ contributor.credit-name }}</a>{{ contributor.title | markdownify }}
     </li>
     {% endif %}
   {% endfor %}
