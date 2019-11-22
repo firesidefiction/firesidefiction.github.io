@@ -1,15 +1,36 @@
 ---
 layout: story
-title:  The Heart of the Story
-author: Kat Howard
-date:   2012-07-02 12:01:00 -0500
 category: short story
+issue: 2
+title: The Heart of the Story
+subtitle:
+author: kat-howard
+author-2:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-07-02 12:01:00 -0500
 permalink: /issue2/chapter/the-heart-of-the-story/
+audiourl:
 teaser: "The world was created with a word. Or at least so we say, in the story we tell of it."
-published: true
 art: the-heart-of-the-story.jpg
-caption: Illustration for The Heart of the Story
-artist: Galen Dara
+artcaption: Illustration for The Heart of the Story
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 _Stories have always fascinated us. The world was created with a word. Or at least so we say, in the story we tell of it. And we believe, because what else could be powerful enough to call a universe into being?_
@@ -133,7 +154,3 @@ One volume more, cordovan calfskin, still smelling of the dark wildness of the h
 Arachne crosses the threshold of the bookstore, steps back onto streets cobbled with five-act arcs, lists of dramatis personae, and epilogues mixed into the mortar. The sole of her right shoe reads "heart," "forest," "end."
 
 The sole of her left shoe is blank.
-
-#### About the Author
-
-Kat Howard's short fiction has appeared in a variety of places, including the anthology _Stories_, edited by Neil Gaiman and Al Sarrantonio, Lightspeed, and Subterranean. She is also the content editor for Fantasy-Matters.com. She writes with a fencing foil by her desk and lives in Minnesota. Find her online at [Strange Ink](http://strangeink.blogspot.com) and on Twitter [@KatWithSword](http://www.twitter.com/KatWithSword).

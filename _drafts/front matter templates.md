@@ -7,7 +7,7 @@ subtitle:
 author:
 author-2:
 editor: brian-j-white
-illustrator:
+illustrator: galen-dara
 copyeditor:
 selector:
 translator:
