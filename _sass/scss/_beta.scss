@@ -5,3 +5,11 @@
     text-align: justify;
   }
 }
+
+
+.multicol {
+  column-count: 3;
+  li {
+    break-inside: avoid;
+  }
+}
