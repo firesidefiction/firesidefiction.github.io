@@ -10,11 +10,32 @@ layout: default
   <header class="story-header">
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
     {% assign author = site.contributors | where: 'short-name', page.author | first %}
+    {% assign author-2 = site.contributors | where: 'short-name', page.author-2 | first %}
     {% assign editor = site.contributors | where: 'short-name', page.editor | first %}
-    {% if page.author %}<h2 class="byline">{% if page.spanish-language %}por{% else %}by{% endif %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="{{ author.url }}">{{ author.credit-name }}</a></span></span></h2>{% endif %}
-    <p>{% if page.selected %}Selected by {{ page.selected }};<br> {% endif %}{% if page.spanish-language %}Editado por {% else %}Edited by {% endif %}{% if page.editor %}<a href="{{ editor.url }}">{{ editor.credit-name }}</a>{% else %}Brian J. White</p>{% endif %}
-    <p>{% if page.translated %}Translated by {{ page.translator }}{% endif %}</p>
-    <p>{% if page.spanish-date %}{{ page.spanish-date }}{% else %}{{ page.date | date: "%B %Y" }}{% endif %}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}
+    {% assign translator = site.contributors | where: 'short-name', page.translator | first %}
+    {% assign copyeditor = site.contributors | where: 'short-name', page.copyeditor | first %}
+    {% assign selector = site.contributors | where: 'short-name', page.selector | first %}
+    {% assign illustrator = site.contributors | where: 'short-name', page.illustrator | first %}
+    {% assign narrator = site.contributors | where: 'short-name', page.narrator | first %}
+    {% if page.author %}
+      <h2 class="byline">{% if page.spanish-language %}por{% else %}by{% endif %} <a href="{{ author.url }}">{{ author.credit-name }}</a>{% if page.author-2 %} &amp; <a href="{{ author-2.url }}">{{ author-2.credit-name }}</a>{% endif %}</h2>
+    {% endif %}
+    {% if page.editor %}
+      <p>{% if page.spanish-language %}Editado por {% else %}Edited by {% endif %}<a href="{{ editor.url }}">{{ editor.credit-name }}</a>
+    {% endif %}
+    {% if page.illustrator %}
+      &nbsp;|&nbsp;{% if page.spanish-language %}Ilustrado por {% else %}Illustrated by {% endif %}<a href="{{ illustrator.url }}">{{ illustrator.credit-name }}</a>
+    {% endif %}</p>
+    {% if page.copyeditor %}
+      <p><small>{% if page.spanish-language %}Redactado por {% else %}Copyedited by {% endif %}<a href="{{ copyeditor.url }}">{{ copyeditor.credit-name }}</a>
+    {% endif %}
+    {% if page.translator %}
+      &nbsp;|&nbsp;{% if page.spanish-language %}Traducido por {% else %}Translated by {% endif %}<a href="{{ translator.url }}">{{ translator.credit-name }}</a>
+    {% endif %}
+    {% if page.selector %}
+      &nbsp;|&nbsp;{% if page.spanish-language %}Seleccionado por {% else %}Selected by {% endif %}<a href="{{ selector.url }}">{{ selector.credit-name }}</a>
+    {% endif %}</small></p>
+    <p>{% if page.spanish-date %}{{ page.spanish-date }}{% else %}{{ page.date | date: "%B %Y" }}{% endif %}</p>
 </header>
 
 <div class="story-controls">
@@ -33,9 +54,9 @@ layout: default
   {% if page.audiourl %}
     <div class="audiomodule">
       {% if page.spanish-language %}
-        <p>Escuche este cuento, narrado por {{ page.narrator }}:</p>
+        <p>Escuche este cuento, narrado por <a href="{{ narrator.url }}">{{ narrator.credit-name }}</a>:</p>
         {% else %}
-        <p>Listen to this story, narrated by {{ page.narrator }}:</p>
+        <p>Listen to this story, narrated by <a href="{{ narrator.url }}">{{ narrator.credit-name }}</a>:</p>
       {% endif %}
       <audio controls>
         <source src="{{ page.audiourl }}" type="audio/mpeg">
@@ -47,7 +68,7 @@ layout: default
 
 {% if page.contentnote %}
   <div class="contentnote">
-    <h4>Content Note:</h4>
+    <h4>{% if page.spanish-language %}Nota de contenido {% else %}Content Note:{% endif %}</h4>
     <p>{{ page.contentnote  | markdownify }}</p>
   </div>
 {% endif %}
@@ -60,7 +81,7 @@ layout: default
 
   <div class="content story-body">
     {{ content }}
-    <h5>© {{ page.date | date: "%Y" }} {{ page.author }}</h5>
+    <h5>© {{ page.date | date: "%Y" }} <a href="{{ author.url }}">{{ author.credit-name }}</a></h5>
     {% include bios.html %}
   </div>
 

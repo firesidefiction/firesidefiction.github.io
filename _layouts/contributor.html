@@ -6,7 +6,7 @@ layout: default
 <figure>
   <img class="" src="/images/contributors/{{ page.profile-pic }}" alt="{{ page.credit-name }}">
 </figure>
-<h2>{{ page.role }}</h2>
+<h2>{{ page.title }}</h2>
 
 {{ content }}
 
@@ -16,8 +16,40 @@ layout: default
   {% for post in filtered_author_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
+
+  {% assign filtered_author-2_posts = site.posts | where: 'author-2', page.short-name %}
+  {% for post in filtered_author-2_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+
   {% assign filtered_editor_posts = site.posts | where: 'editor', page.short-name %}
   {% for post in filtered_editor_posts %}
     <li>Edited <a href="{{ post.url }}">{{ post.title }} by {{ post.author }}</a></li>
   {% endfor %}
+
+  {% assign filtered_illustrator_posts = site.posts | where: 'illustrator', page.short-name %}
+  {% for post in filtered_illustrator_posts %}
+    <li>Illustrated <a href="{{ post.url }}">{{ post.title }} by {{ post.author }}</a></li>
+  {% endfor %}
+
+  {% assign filtered_copyeditor_posts = site.posts | where: 'copyeditor', page.short-name %}
+  {% for post in filtered_copyeditor_posts %}
+    <li>Copyedited <a href="{{ post.url }}">{{ post.title }} by {{ post.author }}</a></li>
+  {% endfor %}
+
+  {% assign filtered_selector_posts = site.posts | where: 'selector', page.short-name %}
+  {% for post in filtered_selector_posts %}
+    <li>Selected <a href="{{ post.url }}">{{ post.title }} by {{ post.author }}</a></li>
+  {% endfor %}
+
+  {% assign filtered_translator_posts = site.posts | where: 'translator', page.short-name %}
+  {% for post in filtered_translator_posts %}
+    <li>Translated <a href="{{ post.url }}">{{ post.title }} by {{ post.author }}</a></li>
+  {% endfor %}
+
+  {% assign filtered_narrator_posts = site.posts | where: 'narrator', page.short-name %}
+  {% for post in filtered_narrator_posts %}
+    <li>Narrated <a href="{{ post.url }}">{{ post.title }} by {{ post.author }}</a></li>
+  {% endfor %}
+
 </ul>
