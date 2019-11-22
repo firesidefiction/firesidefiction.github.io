@@ -1,15 +1,36 @@
 ---
 layout: story
-title:  Emerald Lakes, an Atlanta Burns story
-author: Chuck Wendig
-date:   2012-03-05 12:01:00 -0500
 category: short story
+issue: 1
+title: Emerald Lakes
+subtitle: an Atlanta Burns story
+author: chuck-wendig
+author-2:
+editor: brian-j-white
+illustrator: amy-houser
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-03-05 12:01:00 -0500
 permalink: /issue1/chapter/emerald-lakes/
+audiourl:
 teaser: "The name is a lie; no lake or lakes exist here."
-published: true
 art: emerald-lakes.jpg
-caption: Illustration for Emerald Lakes
-artist: Amy Houser
+artcaption: Illustration for Emerald Lakes
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 THE NAME is a lie; no lake or lakes exist here. Outside it's just a parking lot, some trees, a well-manicured lawn with the light-and-dark stripes mowed into the grass. And the walls are more a seafoam green than emerald. But life is easy in the Emerald Lakes facility. They don't ask much here. Don't miss therapy. Don't miss rec time. Go to your room when the first tone plays, lights out by second tone.
@@ -401,7 +422,3 @@ When it's all over, Atlanta tells Miss Flaherty:
 "I think I want to see my Mom now."
 
 Flaherty nods and makes the call.
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter [@ChuckWendig](https://twitter.com/chuckwendig) and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.

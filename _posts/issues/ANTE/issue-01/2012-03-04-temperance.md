@@ -1,15 +1,36 @@
 ---
 layout: story
-title:  Temperance
-author: Christie Yant
-date:   2012-03-04 12:01:00 -0500
 category: short story
+issue: 1
+title: Temperance
+subtitle:
+author: christie-yant
+author-2:
+editor: brian-j-white
+illustrator: amy-houser
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-03-04 12:01:00 -0500
 permalink: /issue1/chapter/temperance/
+audiourl:
 teaser: "It wasn't the worst bender of Anthony Cardno's life, but it was the first that he had ended in a cemetery, vomiting into an open grave."
-published: true
 art: temperance.jpg
-caption: Illustration for Temperance
-artist: Amy Houser
+artcaption: Illustration for Temperance
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 IT WASN'T THE WORST BENDER of Anthony Cardno's life, but it was the first that he had ended in a cemetery, vomiting into an open grave. His head throbbed; his mouth tasted of dust and sickness. He didn't recall how he came to be here. He remembered the wagon that had carried him away from Santa Lydia, where he had quickly worn out his welcome, but he didn't know which direction it had taken him and couldn't guess where he might be now. As long as it wasn't San Francisco, he'd probably be all right.
@@ -253,7 +274,3 @@ He poured the contents of his glass back in the bottle and stoppered it. The nex
 He turned the pin over and noticed for the first time that there was fine engraving on the back, obscured by the hinged fastener. He unhooked the clasp and held it up to the lamp to catch the light.
 
 The words were etched in a tiny, scrolled hand: _Anthony Cardno, Founder._
-
-## About the Author
-
-Christie Yant is a science fiction and fantasy writer and habitual volunteer. She has been an Assistant Editor for _Lightspeed Magazine_, occasional narrator for _StarShipSofa_, audio book reviewer for Audible.com, and remains a co-blogger at [Inkpunks.com](http://Inkpunks.com), a website for aspiring and newly-pro writers. Her fiction has appeared in _Crossed Genres, Daily Science Fiction_, and the anthologies _The Way of the Wizard, Year's Best Science Fiction & Fantasy 2011_, and _Armored_. She lives in a former Temperance colony on the central coast of California, where she sometimes gets to watch rocket launches with her two amazing daughters, her husband, and assorted four-legged nuisances. Find her online at [inkhaven.net](http://inkhaven.net/) or on Twitter [@inkhaven](https://twitter.com/inkhaven).

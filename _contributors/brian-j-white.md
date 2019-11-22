@@ -2,6 +2,7 @@
 layout: contributor
 credit-name: Brian J. White
 first-name: Brian
+last-name: White
 role: editor
 role-2: selector
 role-3:

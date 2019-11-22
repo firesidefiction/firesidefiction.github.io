@@ -2,8 +2,9 @@
 layout: contributor
 credit-name: Pablo Defendini
 first-name: Pablo
-role: author
-role-2: editor
+last-name: Defendini
+role: editor
+role-2: author
 role-3: narrator
 title: Publisher & Art Director
 twitter-handle: pablod

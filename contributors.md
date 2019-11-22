@@ -12,7 +12,7 @@ permalink: /contributors
   {% if contributor.role == "editor" or contributor.role-2 == "editor" %}
     <li>
       <h2><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></h2>
-      <h3>{{ contributor.title }}</h3>
+      <h3>{{ contributor.title | markdownify }}</h3>
     </li>
     {% endif %}
   {% endfor %}

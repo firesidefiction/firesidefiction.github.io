@@ -2,6 +2,7 @@
 layout: contributor
 credit-name: Sarah Gailey
 first-name: Sarah
+last-name: Gailey
 role: author
 role-2:
 role-3:

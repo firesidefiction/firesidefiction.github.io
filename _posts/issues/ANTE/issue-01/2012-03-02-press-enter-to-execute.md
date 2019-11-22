@@ -1,15 +1,36 @@
 ---
 layout: story
-title:  Press Enter to Execute
-author: Tobias S. Buckell
-date:   2012-03-02 12:01:00 -0500
 category: short story
+issue: 1
+title: Press Enter to Execute
+subtitle:
+author: tobias-s-buckell
+author-2:
+editor: brian-j-white
+illustrator: amy-houser
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-03-02 12:01:00 -0500
 permalink: /issue1/chapter/press-enter-to-execute/
+audiourl:
 teaser: "You want to see a whole year into the future, kid?"
-published: true
 art: press-enter-to-execute.jpg
-caption: Illustration for Press Enter to Execute
-artist: Amy Houser
+artcaption: Illustration for Press Enter to Execute
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 ### Fall From Grace
@@ -399,7 +420,3 @@ I'd been little more than a program, or a tool, used by another tool, to create 
 The floorboards creaked again. The figure took another step forward. I gripped the sides of my chair and waited for the crack of the gun from the assassin behind me.
 
 Because I knew that whoever, no, whatever, set all this up, did not want any loose ends, or any extra routines still running.
-
-#### About the Author
-
-Born in the Caribbean, Tobias S. Buckell is a _New York Times_ Bestselling author. His novels and over 50 short stories have been translated into 17 languages and he has been nominated for the Hugo, Nebula, Prometheus and John W. Campbell Award for Best New Science Fiction Author. He currently lives in Ohio. He can be found on his [blog](http://www.tobiasbuckell.com/blog) and on [twitter](http://www.twitter.com/tobiasbuckell).

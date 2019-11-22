@@ -2,6 +2,7 @@
 layout: contributor
 credit-name: Chelle Parker
 first-name: Chelle
+last-name: Parker
 role: editor
 role-2:
 role-3:

@@ -1,15 +1,17 @@
 ---
 layout: contributor
-short-name: l-d-lewis
-permalink: l-d-lewis
 credit-name: L. D. Lewis
-first-name: L. D.
+first-name: LeKesha
+last-name: Lewis
 role: author
 role-2: editor
-title: Guest Editor, Spring 2020
+role-3:
+title: Guest Editor, _Fireside Quarterly_ Spring 2020
 twitter-handle: ellethevillain
 profile-pic: l-d-lewis.jpg
 website-url:
+short-name: l-d-lewis
+permalink: l-d-lewis
 ---
 
 L. D. Lewis is a medic, writer of fantasy and Art Director for FIYAH Literary Magazine. Find her on Twitter @ellethevillain.

@@ -2,6 +2,7 @@
 layout: contributor
 credit-name: C. S. E. Cooney
 first-name: Claire
+last-name: Cooney
 role: author
 role-2: narrator
 role-3:

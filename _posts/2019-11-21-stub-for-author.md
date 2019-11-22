@@ -2,6 +2,7 @@
 layout: story
 category: short story
 title: A Post Authored by Gailey
+subtitle: an Atlanta Burns story
 author: sarah-gailey
 author-2: pablo-defendini
 editor: brian-j-white
@@ -18,6 +19,12 @@ art:
 spanish-language:
 spanish-date:
 english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story is fucked up and bullshit. Take care when reading it.
 generalnote: Just a short note about this one — nothing scary, just added editorializing.
 published: true

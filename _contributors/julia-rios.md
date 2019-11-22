@@ -2,6 +2,7 @@
 layout: contributor
 credit-name: Julia Rios
 first-name: Julia
+last-name: Rios
 role: editor
 role-2: selector
 role-3:

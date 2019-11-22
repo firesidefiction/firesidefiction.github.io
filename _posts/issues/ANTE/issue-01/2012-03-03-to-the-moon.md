@@ -1,11 +1,35 @@
 ---
 layout: story
-title:  To the Moon
-author: Ken Liu
-date:   2012-03-03 12:01:00 -0500
 category: short story
+issue: 1
+title: To the Moon
+subtitle:
+author: ken-liu
+author-2:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-03-03 12:01:00 -0500
 permalink: /issue1/chapter/to-the-moon/
+audiourl:
 teaser: "Long ago, when you were just a baby, we went to the Moon."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -374,7 +398,3 @@ Sally did not go up to say hi, to ask about her daughter or her new job. She avo
 A few steps later, she turned to wave at Sally. "When I grow up, I want to be like you, telling stories for a living."
 
 Sally watched until they disappeared around the corner.
-
-## About the Author
-
-[Ken Liu](kenliu.name) is an author and translator of speculative fiction, as well as a lawyer and programmer. His fiction has appeared in _The Magazine of Fantasy & Science Fiction_, _Asimov's_, _Analog_, _Clarkesworld_, _Lightspeed_, and _Strange Horizons_, among other places. He has won a Nebula, two Hugos, a World Fantasy Award, and a Science Fiction & Fantasy Translation Award, and been nominated for the Sturgeon and the Locus Awards. He lives with his family near Boston, Massachusetts.
