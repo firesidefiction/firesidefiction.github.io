@@ -1,21 +1,30 @@
-.beta {
-  font-family: 'Rokkitt', serif;
-  font-size: 1em;
-  .story-body {
-    text-align: justify;
-  }
-}
-
-.multicol {
+.index-group {
   font-family: $font-secondary;
-  max-width: 35em;
-  margin: 0 auto;
-  column-count: 2;
-  li {
-    break-inside: avoid;
-    margin: 0;
-    p {
-      margin: 0;
+  max-width: 45em;
+  margin: 1em auto;
+  padding-bottom: 1em;
+  border-bottom: 1px solid black;
+  h2 {
+    margin: 1em 0;
+  }
+  .alphanav {
+
+  }
+  .letter {
+    text-transform: uppercase;
+    margin-top: 1em;
+  }
+  ul {
+    margin: 0 1em;
+    li {
+      break-inside: avoid;
+      margin: .25em 0;
+      p {
+        margin: 0;
+      }
+    }
+    @media all and (min-width: $bp-small-3) {
+      column-count: 3;
     }
   }
 }
