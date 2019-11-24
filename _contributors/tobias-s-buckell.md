@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Tobias S. Buckell
 first-name: Tobias
 last-name: Buckell
+file-as: b
 role: author
 role-2:
 role-3:

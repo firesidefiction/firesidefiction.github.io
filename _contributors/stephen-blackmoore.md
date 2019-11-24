@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Stephen Blackmoore
 first-name: Stephen
 last-name: Blackmoore
+file-as: b
 role: author
 role-2:
 role-3:

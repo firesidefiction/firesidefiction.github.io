@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Julia Rios
 first-name: Julia
 last-name: Rios
+file-as: r
 role: editor
 role-2: selector
 role-3:

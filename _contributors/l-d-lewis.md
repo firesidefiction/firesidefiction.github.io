@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: L. D. Lewis
 first-name: LeKesha
 last-name: Lewis
+file-as: l
 role: author
 role-2: editor
 role-3:

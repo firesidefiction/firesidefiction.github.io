@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Ken Liu
 first-name: Ken
 last-name: Liu
+file-as: l
 role: author
 role-2:
 role-3:

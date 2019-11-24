@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Adam P. Knave
 first-name: Adam
 last-name: Knave
+file-as: k
 role: author
 role-2:
 role-3:

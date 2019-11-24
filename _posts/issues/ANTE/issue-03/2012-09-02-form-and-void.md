@@ -1,11 +1,35 @@
 ---
 layout: story
-title:  Form and Void
-author: Elizabeth Bear
-date:   2012-09-02 12:01:00 -0500
 category: short story
+issue: 3
+title: Form and Void
+subtitle:
+author: elizabeth-bear
+author-2:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-09-02 12:01:00 -0500
 permalink: /issue3/chapter/form-and-void/
+audiourl:
 teaser: "Before she turned into a dragon, Kathy Cutter was Comanche Zariphes' best friend."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -246,7 +270,3 @@ _You should have thought of that._
 Comanche turned her back. She put her helmet on. She squared her shoulders. She closed her eyes.
 
 Eighty-seven seconds elapsed before the puff of displaced air told her Kathy had gone. Comanche still gave her the full five minutes lead before she went to Jericho.
-
-#### About the Author
-
-Elizabeth Bear was born on the same day as Frodo and Bilbo Baggins, but in a different year. She is the author of a number of science fiction and fantasy novels and short stories and has received three Hugo Awards, the John W. Campbell Award for Best New Writer (2005), a Sturgeon Award, a Locus Award, an Asimov's Reader's Choice award, a Spectrum Award, and an honorable mention for the Philip K. Dick Award. She lives in a drafty Victorian in Massachusetts with a giant, ridiculous dog. Find her online at [elizabethbear.com](http://elizabethbear.com) and on Twitter [@matociquala](http://www.twitter.com/matociquala)).

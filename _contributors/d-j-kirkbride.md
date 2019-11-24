@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: D.J. Kirkbride
 first-name: D
 last-name: Kirkbride
+file-as: k
 role: author
 role-2:
 role-3:

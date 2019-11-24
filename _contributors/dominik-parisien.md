@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Dominik Parisien
 first-name: Dominik
 last-name: Parisien
+file-as: p
 role: editor
 role-2:
 role-3:

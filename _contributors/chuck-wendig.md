@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Chuck Wendig
 first-name: Chuck
 last-name: Wendig
+file-as: w
 role: author
 role-2:
 role-3:

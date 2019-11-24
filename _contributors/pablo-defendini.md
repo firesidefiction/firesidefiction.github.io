@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Pablo Defendini
 first-name: Pablo
 last-name: Defendini
+file-as: d
 role: editor
 role-2: author
 role-3: narrator

@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Christie Yant
 first-name: Christie
 last-name: Yant
+file-as: y
 role: author
 role-2:
 role-3:

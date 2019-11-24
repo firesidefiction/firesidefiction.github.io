@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 2
+issue: 3
 title:
 subtitle:
 author:
@@ -36,10 +36,11 @@ published: true
 
 
 ---
-layout: contributor
+layout: contributor-profile
 credit-name:
 first-name:
 last-name:
+file-as:
 role:
 role-2:
 role-3:

@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Sarah Gailey
 first-name: Sarah
 last-name: Gailey
+file-as: g
 role: author
 role-2:
 role-3:

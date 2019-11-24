@@ -1,15 +1,36 @@
 ---
 layout: story
-title:  "John Fisher"
-author: Daniel Abraham
-date:   2012-09-05 12:01:00 -0500
 category: short story
+issue: 3
+title: John Fisher
+subtitle:
+author: daniel-abraham
+author-2:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-09-05 12:01:00 -0500
 permalink: /issue3/chapter/john-fisher/
+audiourl:
 teaser: "I thought John Fisher was an awfully prosaic name for an imaginary friend. Looking back, maybe that should have been a clue, but I have a hard time faulting myself."
-published: true
 art: john-fisher.jpg
-caption: Illustration for John Fisher
-artist: Galen Dara
+artcaption: Illustration for John Fisher
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Well, this would have been about three years ago now, just before my stepdaughter went into first grade. She was still in the process of getting used to me back then. There's nothing quite like having a five-year-old girl think you're the anti-Christ, I can tell you. I've got a stack of Crayola drawings of me and her mother about an inch thick. She only put devil horns on me in about half of them. The family counselor we were seeing said it was pretty normal with a new stepdad in the house, but it still weirded me out. I'm not used to being the bad guy.
@@ -55,7 +76,3 @@ And then he was gone. When I looked over my shoulder, my step-daughter was curle
 I don't know who or what John Fisher was. I don't even know for sure that anything happened that night. But privately, without bragging to anyone about it, I'm proud that my first, panicked instinct was to stand my ground. And I think somewhere in the back of her mind, my stepdaughter knows I did, and thinks better of me for it.
 
 And that's good. She's a special little girl.
-
-#### About the Author
-
-Daniel Abraham is a nationally bestselling author of fourteen books and more than thirty short stories. His work has been nominated for the Nebula, Hugo, and World Fantasy awards. He also writes as MLN Hanover and (with Ty Franck) as James S. A. Corey. Find him online at [the-expanse.com][(http://www.the-expanse.com) and on Twitter [@abrahamhanover](http://www.twitter.com/abrahamhanover).

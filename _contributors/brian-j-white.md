@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Brian J. White
 first-name: Brian
 last-name: White
+file-as: w
 role: editor
 role-2: selector
 role-3:

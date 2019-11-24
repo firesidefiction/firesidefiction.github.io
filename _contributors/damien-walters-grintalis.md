@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Damien Walters Grintalis
 first-name: Damien
 last-name: Walters Grintalis
+file-as: w
 role: author
 role-2:
 role-3:

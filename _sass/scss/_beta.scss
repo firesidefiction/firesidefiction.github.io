@@ -6,10 +6,16 @@
   }
 }
 
-
 .multicol {
-  column-count: 3;
+  font-family: $font-secondary;
+  max-width: 35em;
+  margin: 0 auto;
+  column-count: 2;
   li {
     break-inside: avoid;
+    margin: 0;
+    p {
+      margin: 0;
+    }
   }
 }

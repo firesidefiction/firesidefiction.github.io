@@ -1,11 +1,35 @@
 ---
 layout: story
-title:  Famine's Shadow
-author: Written and lettered by Rachel Deering; art by Christine Larsen
-date:   2012-09-04 12:01:00 -0500
 category: comic
+issue: 3
+title: Famine's Shadow
+subtitle:
+author: rachel-deering
+author-2:
+editor: brian-j-white
+illustrator: christine-larsen
+copyeditor:
+selector:
+translator:
+narrator:
+letterer: rachel-deering
+date: 2012-09-04 12:01:00 -0500
 permalink: /issue3/chapter/famines-shadow/
-teaser: ""
+audiourl:
+teaser:
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 

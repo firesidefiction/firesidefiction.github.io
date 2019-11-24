@@ -30,13 +30,13 @@ ol, ul {
 }
 
 .alphanav {
-	position: fixed;
+	position: /* fixed */block;
 	width: 100%;
 	bottom: 0;
-	padding: 1em;
-	padding-bottom: 7.5em;
+	padding: /* 1em */0;
+	/* padding-bottom: 7.5em; */
 	background-color: white;
-	border-top: 1px solid lighten($color__base--light, 30%);
+	/* border-top: 1px solid lighten($color__base--light, 30%);*/
 	ul {
 	 margin: 0;
 	 list-style: none;

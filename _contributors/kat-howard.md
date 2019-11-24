@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Kat Howard
 first-name: Kat
 last-name: Howard
+file-as: h
 role: author
 role-2:
 role-3:

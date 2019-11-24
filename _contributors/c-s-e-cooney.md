@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: C. S. E. Cooney
 first-name: Claire
 last-name: Cooney
+file-as: c
 role: author
 role-2: narrator
 role-3:

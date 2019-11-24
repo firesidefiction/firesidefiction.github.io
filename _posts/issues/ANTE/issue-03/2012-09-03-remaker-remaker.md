@@ -1,15 +1,36 @@
 ---
 layout: story
-title:  Remaker Remaker
-author: Lucas J. W. Johnson
-date:   2012-09-03 12:01:00 -0500
 category: short story
+issue: 3
+title: Remaker Remaker
+subtitle:
+author: lucas-j-w-johnson
+author-2:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-09-03 12:01:00 -0500
 permalink: /issue3/chapter/remaker-remaker/
+audiourl:
 teaser: "Remaker, Remaker, make me a hand…"
-published: true
 art: remaker-remaker.jpg
-caption: Illustration for Remaker Remaker
-artist: Galen Dara
+artcaption: Illustration for Remaker Remaker
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Clockwork Empire
+serial-url:
+part: 1
+previous-url:
+next-url:
+contentnote:
+generalnote: This story is a companion to [A Clockwork Heart](/issue25/chapter/a-clockwork-heart/).
+published: true
 ---
 
 I've Remade things before, but I never thought I'd get the opportunity to do this.
@@ -243,11 +264,3 @@ Children sing outside my window.
 _Remaker, Remaker, make me a soul …_
 
 That I cannot do.
-
-----
-
-_Note to readers: This story has a follow-up in Issue 25, [A Clockwork Heart](/issue25/chapter/a-clockwork-heart/)._
-
-#### About the Author
-
-Lucas J.W. Johnson is a writer, game designer, and entrepreneur. He's published several short stories, including _Remaker, Remaker_ in Fireside, a companion piece to _Clockwork Heart_. He also founded [Silverstring Media](ttp://silverstringmedia.com/), a narrative design and new media production studio, where he's consulted and written for award-winning games like _Extrasolar_ and Crypt of the _Necrodancer_, and developed original games like the critically-acclaimed _Glitchhikers_ and the coffee-themed horror game _Morning Rituals_. Lucas has been designing narratives since Grade 3, when he was first introduced to tabletop RPGs, and continues to game regularly. He lives with his boyfriend in Vancouver, B.C.

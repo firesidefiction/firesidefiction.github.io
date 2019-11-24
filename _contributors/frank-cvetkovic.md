@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Frank Cvetkovic
 first-name: Frank
 last-name: Cvetkovic
+file-as: c
 role: letterer
 role-2:
 role-3:

@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Galen Dara
 first-name: Galen
 last-name: Dara
+file-as: d
 role: illustrator
 role-2:
 role-3:

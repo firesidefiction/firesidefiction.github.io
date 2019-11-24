@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Amy Houser
 first-name: Amy
 last-name: Houser
+file-as: h
 role: illustrator
 role-2:
 role-3:

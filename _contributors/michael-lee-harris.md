@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Michael Lee Harris
 first-name: Michael
 last-name: Harris
+file-as: h
 role: illustrator
 role-2:
 role-3:

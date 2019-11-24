@@ -1,8 +1,9 @@
 ---
-layout: contributor
+layout: contributor-profile
 credit-name: Chelle Parker
 first-name: Chelle
 last-name: Parker
+file-as: p
 role: editor
 role-2:
 role-3:
