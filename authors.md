@@ -148,6 +148,8 @@ permalink: /authors
 
 — [_The Unusual Customer_](/the-unusual-customer)
 
+— [_FEMALE COMPUTER WANTED, APPLY WITHIN_](/female-computer-wanted-apply-within)
+
 ### Renee Christopher
 — [_And I Never Named Her_](/and-i-never-named-her)
 
