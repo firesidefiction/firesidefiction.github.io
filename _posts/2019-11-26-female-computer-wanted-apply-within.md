@@ -6,8 +6,8 @@ editor: Julia Rios
 date: 2019-11-26 01:00:01 -0500
 category: short story
 permalink: female-computer-wanted-apply-within
-audiourl:
-narrator:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-26-FEMALE_COMPUTER_WANTED_APPLY_WITHIN.mp3
+narrator: C. S. E. Cooney
 published: false
 teaser: "No matter the number of robo-positive campaigns organized by Town Council, most humans cannot stop themselves from using Female Computer to refer to female robots."
 art: female-computer-wanted-apply-within.png
@@ -50,19 +50,19 @@ Yasmine opened her mouth to talk but her words spiraled down Dell's vocal cavity
 
 _Navigation complete_, the Google Navigator beeps. Dell flips open her phone and taps the WhatsApp icon to read the job ad again:
 
-**FEMALE COMPUTER WANTED, APPLY WITHIN
+>FEMALE COMPUTER WANTED, APPLY WITHIN
 
-Chybuz Cyber Café (3C) is currently in need of a female computer for urgent administrative duties.
+>Chybuz Cyber Café (3C) is currently in need of a female computer for urgent administrative duties.
 
-Qualifications:
+>Qualifications:
 
-1.	100% recycled plastic (Metal junks need not apply. Although exceptions will be made for applicants with metalloid circuit boards and minor metal fittings)
+>1— 100% recycled plastic (Metal junks need not apply. Although exceptions will be made for applicants with metalloid circu boards and minor metal fittings)
 
-2.	Full 360° flexibility.
+>2— Full 360° flexibility.
 
-3.	Attractive features (Pimped ride kinda attractive but still looks professional.)
+>3— Attractive features (Pimped ride kinda attractive but still looks professional.)
 
-Payment: 1500 Buzas per daily gig.**
+>Payment: 1500 Buzas per daily gig.
 
 She does not need an OS analysis to see the reasons Yasmine thinks that the ad is problematic. There is the glaring sexual objectification, the willful exclusion of robot models with metal exteriors, and the use of _Female Computer_ to refer to female robots. No matter the number of robo-positive campaigns organized by Town Council, most humans cannot stop themselves from using the slur. Yasmine says it is their last resort to invalidate the existence and autonomy of robots. _They call us computers, thinking it will trick our minds to think they still own us._
 
@@ -88,15 +88,15 @@ Dell's phone rings. It is Yasmine.
 
 Dell switches off the phone and steadies herself before taking the stairs. Halfway up, she initiates an interview-readiness self-check she discovered while scouring the web this morning:
 
-Pantsuit (To be taken seriously)  √
+> Pantsuit (To be taken seriously)  √
 
-White, button-down shirt (A neutral color creates a sense of formality) √
+> White, button-down shirt (A neutral color creates a sense of formality) √
 
-Shoes: mid-heel pump (Not to appear all over the place) √
+> Shoes: mid-heel pump (Not to appear all over the place) √
 
-Faux-leather wristwatch (Woke on how meat production and consumption is destroying the planet, and just the right amount of jewelry) √√
+> Faux-leather wristwatch (Woke on how meat production and consumption is destroying the planet, and just the right amount of jewelry) √√
 
-Briefcase (Highlights organizational capability) √
+> Briefcase (Highlights organizational capability) √
 
 “Breathe. You're overthinking this,” Dell whispers to herself and grabs hold of the banister to stop her legs from shaking.
 
