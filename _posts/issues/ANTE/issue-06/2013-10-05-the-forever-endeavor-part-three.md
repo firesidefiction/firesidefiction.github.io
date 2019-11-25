@@ -1,14 +1,38 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part Three"
-author: Chuck Wendig
-date:   2013-10-05 12:01:00 -0500
-category: serial
+category: short story
+issue: 6
+title: Is Bliss
+subtitle:
+author: chuck-wendig
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-10-05 12:01:00 -0500
 permalink: issue6/chapter/the-forever-endeavor-part-three/
+audiourl:
 teaser: "Five days till Christmas, and three days after the event which shall not be acknowledged."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Forever Endeavor
+serial-url:
+part: 3
+previous-url: /issue5/chapter/the-forever-endeavor-part-two/
+next-url: /issue7/chapter/the-forever-endeavor-part-four/
+contentnote:
+generalnote:
 published: true
 ---
-Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Two]({{ site.url}}/issue5/chapter/the-forever-endeavor-part-two/)
 
 ## 10. IS BLISS
 
@@ -373,9 +397,3 @@ Dale almost hoots like a monkey. He did it! He fixed it. Time has been altered. 
 And suddenly he sees his future, shining and bright. A future without mistakes. A future with a magical, ten-minute cushion.
 
 A future that will allow him to get Susannah back.
-
-Jump to: [Part Four]({{ site.url}}/issue7/chapter/the-forever-endeavor-part-four/)
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.

@@ -10,7 +10,7 @@ role-3:
 title: Author
 twitter-handle:
 profile-pic: andrea-speed.jpg
-website-url: writerodell.com
+website-url: 
 short-name: andrea-speed
 permalink: andrea-speed
 ---

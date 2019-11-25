@@ -1,15 +1,37 @@
 ---
 layout: story
-title:  "Sell it Like Death"
-author: James McGee
-date:   2013-10-02 12:01:00 -0500
 category: short story
+issue: 6
+title: Sell it Like Death
+subtitle:
+author:
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-10-02 12:01:00 -0500
 permalink: issue6/chapter/sell-it-like-death/
+audiourl:
 teaser: "On her twelfth wedding anniversary, as she cleaned the house, Laurie came upon a leather-bound notebook in the nightstand drawer on her husband's side of the bed."
-published: true
 art: sell-it-like-death.jpg
-caption: Illustration for Sell it Like Death
-artist: Galen Dara
+artcaption: Illustration for Sell it Like Death
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The first thing I do when I get to the armory is check the roster. A silly thing, I guess, but I just like to see my name in print, you know? Having it in black and white makes it more real. I find Les, the promoter, already on the floor, setting up the ring with Greg and some of the other workers. Promoters get a bad rap sometimes, but I like Les. All the guys do. He's big on work ethic, always the first one to show up, last one to leave. He sets up, sells tickets, works concession, refs every now and then, breaks down, and cleans up. He's there from beginning to end, and the boys respect him a lot for it.
@@ -295,10 +317,3 @@ I don't say anything for a while. Then I blurt out, "I just thought it would be 
 Les smiles. "I hope so, Rage."
 
 So do I. I hope and dream.
-
-#### About the Author
-
-[James McGee][1] has loved stories all his life, and has wanted to tell them since he was in the 8th grade. He is currently an Assistant Editor at [Red Stylo Media][2]. His work has been featured in Shakespeare Shaken, Super Flash Fiction, Unfashioned Creatures, and This Mutant Life. James lives in West Virginia with his wife, Laura, and an ever-growing army of cats.
-
-[1]: http://jamesleemcgee.blogspot.com/
-[2]: http://redstylo.com/
