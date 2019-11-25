@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Sam"
 author: Lilith Saintcrow
 date:   2015-01-06 12:01:00 -0500

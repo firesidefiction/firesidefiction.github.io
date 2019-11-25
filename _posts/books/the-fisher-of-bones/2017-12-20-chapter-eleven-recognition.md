@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Recognition"
 author: Sarah Gailey
 date:   2017-12-20 01:01:00 -0500

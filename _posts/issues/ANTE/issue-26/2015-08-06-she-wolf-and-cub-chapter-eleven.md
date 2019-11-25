@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Black Hat Collective"
 author: Lilith Saintcrow
 date:   2015-08-06 12:01:00 -0500

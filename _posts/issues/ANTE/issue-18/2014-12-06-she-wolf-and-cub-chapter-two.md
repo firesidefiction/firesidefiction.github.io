@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Township Vega"
 author: Lilith Saintcrow
 date:   2014-12-06 12:01:00 -0500

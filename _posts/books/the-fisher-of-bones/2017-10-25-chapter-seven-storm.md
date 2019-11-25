@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Storm"
 author: Sarah Gailey
 date:   2017-10-25 01:01:00 -0500

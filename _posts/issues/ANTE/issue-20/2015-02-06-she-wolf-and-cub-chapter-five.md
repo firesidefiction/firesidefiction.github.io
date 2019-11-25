@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Night Moves"
 author: Lilith Saintcrow
 date:   2015-02-06 12:01:00 -0500

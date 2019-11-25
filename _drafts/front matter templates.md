@@ -1,11 +1,12 @@
 ---
 layout: story
 category: short story
-issue: 3
+issue: 6
 title:
 subtitle:
 author:
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: galen-dara
 copyeditor:
@@ -32,6 +33,7 @@ contentnote:
 generalnote:
 published: true
 ---
+
 
 
 

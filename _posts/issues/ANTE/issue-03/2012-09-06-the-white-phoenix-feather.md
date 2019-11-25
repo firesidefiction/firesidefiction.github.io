@@ -1,15 +1,37 @@
 ---
 layout: story
-title:  "The White Phoenix Feather: A Tale of Cuisine and Madness"
-author: Mary Robinette Kowal
-date:   2012-09-06 12:01:00 -0500
 category: short story
+issue: 3
+title: The White Phoenix Feather
+subtitle: A Tale of Cuisine and Madness
+author: mary-robinette-kowal
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-09-06 12:01:00 -0500
 permalink: /issue3/chapter/the-white-phoenix-feather/
+audiourl:
 teaser: "When I said the ninjas were no match for us, I meant it. Joe will have the White Phoenix Feather by dessert."
-published: true
 art: the-white-phoenix-feather.jpg
-caption: Illustration for The White Phoenix Feather
-artist: Galen Dara
+artcaption: Illustration for The White Phoenix Feather
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Viola leaned across the white tablecloth of Luigi's Interstellar Cafe and Pub. "When I said the ninjas were no match for us, I meant it. Joe will have the White Phoenix Feather by dessert." She checked the edge of her fish knife. She hated clients like this. "Quit gaping and finish your soup."
@@ -225,7 +247,3 @@ As she placed the scotch on the table in front of her, Cardno frowned at the gla
 Viola hefted her chair and reflected again that she would have to leave the waiter a very good tip. He was a true artist who understood what his patrons needed at any given moment.
 
 She might lack the will to shield Cardno any longer, but a good single malt was worth protecting.
-
-#### About the Author
-
-Mary Robinette Kowal is the author of _Shades of Milk and Honey_ (Tor, 2010) and _Glamour in Glass_ (Tor, 2012). In 2008 she received the Campbell Award for Best New Writer, and in 2011, her short story _For Want of a Nail_ won the Hugo Award for Short Story. Her work has been nominated for the Hugo, Nebula, and Locus awards. Her stories appear in Asimov's, Clarkesworld, and several Year's Best anthologies. She served two terms as the Vice President of Science Fiction and Fantasy Writers of America. Mary, a professional puppeteer, also performs as a voice actor, recording fiction for authors such as Elizabeth Bear, Cory Doctorow, and John Scalzi. She lives in Chicago with her husband, Rob, and over a dozen manual typewriters. Find her online at [maryrobinettekowal.com](http://www.maryrobinettekowal.com) and on Twitter [@MaryRobinette](http://www.twitter.com/MaryRobinette).

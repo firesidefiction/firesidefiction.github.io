@@ -1,11 +1,36 @@
 ---
 layout: story
-title:  "Looking for Bad Guys"
-author: Jake Kerr
-date:   2013-09-04 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 5
+title: Looking for Bad Guys
+subtitle:
+author: jake-kerr
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-09-04 12:01:00 -0500
 permalink: issue5/chapter/looking-for-bad-guys/
+audiourl:
 teaser: "Carter's mom pinned the cape around his shoulders, brushed out the folds, and then stood back. Carter glanced in the mirror and nodded. A superhero looked back at him."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 

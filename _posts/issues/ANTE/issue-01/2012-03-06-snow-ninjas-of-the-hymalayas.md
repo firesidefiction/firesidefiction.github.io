@@ -6,6 +6,7 @@ title: Snow Ninjas of the Hymalayas
 subtitle:
 author: adam-p-knave
 author-2: d-j-kirkbride
+author-3:
 editor: brian-j-white
 illustrator: michael-lee-harris
 copyeditor:

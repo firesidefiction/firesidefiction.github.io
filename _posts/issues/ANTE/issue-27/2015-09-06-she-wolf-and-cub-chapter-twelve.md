@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Who Owns You Now?"
 author: Lilith Saintcrow
 date:   2015-09-06 12:01:00 -0500

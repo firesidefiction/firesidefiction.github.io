@@ -6,6 +6,7 @@ title: Famine's Shadow
 subtitle:
 author: rachel-deering
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: christine-larsen
 copyeditor:

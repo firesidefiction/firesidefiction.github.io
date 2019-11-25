@@ -6,6 +6,7 @@ title: Press Enter to Execute
 subtitle:
 author: tobias-s-buckell
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: amy-houser
 copyeditor:

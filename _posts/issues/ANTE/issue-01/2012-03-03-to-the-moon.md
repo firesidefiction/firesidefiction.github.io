@@ -6,6 +6,7 @@ title: To the Moon
 subtitle:
 author: ken-liu
 author-2:
+author-3:
 editor: brian-j-white
 illustrator:
 copyeditor:

@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Discovery"
 author: Sarah Gailey
 date:   2017-10-11 01:01:00 -0500

@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Arrival"
 author: Sarah Gailey
 date:   2018-01-03 01:01:00 -0500

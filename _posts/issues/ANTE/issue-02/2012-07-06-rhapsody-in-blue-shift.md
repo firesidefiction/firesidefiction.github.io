@@ -4,8 +4,9 @@ category: short story
 issue: 2
 title: Rhapsody in Blue Shift
 subtitle:
-author:
+author: stephen-blackmoore
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: galen-dara
 copyeditor:

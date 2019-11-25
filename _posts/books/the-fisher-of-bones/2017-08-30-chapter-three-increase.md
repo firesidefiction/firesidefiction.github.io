@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Increase"
 author: Sarah Gailey
 date:   2017-08-30 01:00:00 -0500

@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "She Wolf and Cub: Prologue"
 author: Lilith Saintcrow
 date:   2014-10-05 12:01:00 -0500

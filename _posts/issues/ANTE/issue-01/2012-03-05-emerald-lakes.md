@@ -6,6 +6,7 @@ title: Emerald Lakes
 subtitle: an Atlanta Burns story
 author: chuck-wendig
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: amy-houser
 copyeditor:

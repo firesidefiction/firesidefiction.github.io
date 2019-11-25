@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "I Think She's Serious"
 author: Lilith Saintcrow
 date:   2015-06-06 12:01:00 -0500

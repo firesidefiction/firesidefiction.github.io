@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Sealed Train"
 author: Lilith Saintcrow
 date:   2014-10-06 12:01:00 -0500

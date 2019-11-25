@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Cannibal Warfare"
 author: Lilith Saintcrow
 date:   2014-11-06 12:01:00 -0500

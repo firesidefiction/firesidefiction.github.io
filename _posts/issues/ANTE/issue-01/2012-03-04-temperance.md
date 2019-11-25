@@ -6,6 +6,7 @@ title: Temperance
 subtitle:
 author: christie-yant
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: amy-houser
 copyeditor:

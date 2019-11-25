@@ -6,6 +6,7 @@ title: An Honest Mistake
 subtitle:
 author: brian-j-white
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: steve-walker
 copyeditor:

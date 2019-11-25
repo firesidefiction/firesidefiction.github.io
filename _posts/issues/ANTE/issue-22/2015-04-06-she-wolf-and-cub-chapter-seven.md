@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Myth"
 author: Lilith Saintcrow
 date:   2015-04-06 12:01:00 -0500

@@ -1,11 +1,36 @@
 ---
 layout: story
-title:  "The Last Job"
-author: Andrea Speed
-date:   2013-09-05 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 5
+title: The Last Job
+subtitle:
+author:
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-09-05 12:01:00 -0500
 permalink: issue5/chapter/the-last-job/
+audiourl:
 teaser: "Three minutes into the heist, Louie was dead."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -44,7 +69,3 @@ I was glad I was on drugs, cause I could accept it as just a hallucination, even
 "We run, or we die fighting," Josh said, picking up his gun.
 
 I pulled my shotgun from underneath my arm, and took aim. As it was, I was a shitty bank robber anyway.
-
-#### About the Author
-
-Andrea Speed writes way too much. She is the writer of the Infected series for Dreamspinner Press, the Josh of the Damned series for Riptide Publishing, and is Editor In Chief of CxPulp.com. She won a Rainbow Award for best horror/paranormal novel in 2012, and feels she may be ubiquitous on the web. But she is not (sadly) the Italian DJ of the same name that often comes up first in Google searches.

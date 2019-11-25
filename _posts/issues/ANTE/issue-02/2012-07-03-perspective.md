@@ -4,8 +4,9 @@ category: short story
 issue: 2
 title: Perspective
 subtitle:
-author: Jake Kerr
+author: jake-kerr
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: galen-dara
 copyeditor:

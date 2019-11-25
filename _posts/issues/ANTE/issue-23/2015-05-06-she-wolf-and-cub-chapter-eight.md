@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Agent Warfare"
 author: Lilith Saintcrow
 date:   2015-05-06 12:01:00 -0500

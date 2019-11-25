@@ -6,6 +6,7 @@ title: Form and Void
 subtitle:
 author: elizabeth-bear
 author-2:
+author-3:
 editor: brian-j-white
 illustrator:
 copyeditor:

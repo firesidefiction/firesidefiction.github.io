@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Nearness"
 author: Sarah Gailey
 date:   2017-12-06 01:01:00 -0500

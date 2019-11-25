@@ -6,6 +6,7 @@ title: Remaker Remaker
 subtitle:
 author: lucas-j-w-johnson
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: galen-dara
 copyeditor:
@@ -23,7 +24,7 @@ spanish-language:
 spanish-date:
 english-url:
 spanish-url:
-serial-name: The Clockwork Empire
+serial-name:
 serial-url:
 part: 1
 previous-url:

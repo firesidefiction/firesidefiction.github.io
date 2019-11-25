@@ -6,6 +6,7 @@ title: Issue 1 — Welcome to the First Issue of Fireside
 subtitle:
 author: brian-j-white
 author-2:
+author-3:
 editor:
 illustrator:
 copyeditor:

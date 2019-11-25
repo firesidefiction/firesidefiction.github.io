@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Non-Alliance"
 author: Lilith Saintcrow
 date:   2015-07-06 12:01:00 -0500

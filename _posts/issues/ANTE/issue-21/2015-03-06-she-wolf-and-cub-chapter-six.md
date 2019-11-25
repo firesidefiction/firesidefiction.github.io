@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "He's Taken"
 author: Lilith Saintcrow
 date:   2015-03-06 12:01:00 -0500

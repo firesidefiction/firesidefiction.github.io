@@ -6,6 +6,7 @@ title: John Fisher
 subtitle:
 author: daniel-abraham
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: galen-dara
 copyeditor:

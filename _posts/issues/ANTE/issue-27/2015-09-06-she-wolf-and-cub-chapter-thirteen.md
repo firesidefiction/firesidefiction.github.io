@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "She Wolf and Cub: Coda"
 author: Lilith Saintcrow
 date:   2015-09-06 12:02:00 -0500

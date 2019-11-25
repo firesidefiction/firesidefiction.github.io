@@ -6,6 +6,7 @@ title: The Heart of the Story
 subtitle:
 author: kat-howard
 author-2:
+author-3:
 editor: brian-j-white
 illustrator: galen-dara
 copyeditor:
