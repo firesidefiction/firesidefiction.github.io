@@ -8,7 +8,7 @@ category: short story
 permalink: female-computer-wanted-apply-within
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-26-FEMALE_COMPUTER_WANTED_APPLY_WITHIN.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "No matter the number of robo-positive campaigns organized by Town Council, most humans cannot stop themselves from using Female Computer to refer to female robots."
 art: female-computer-wanted-apply-within.png
 caption: "An android holds her lover in her arms."
