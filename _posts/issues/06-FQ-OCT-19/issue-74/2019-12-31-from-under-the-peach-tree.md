@@ -6,14 +6,10 @@ editor: Julia Rios
 date: 2019-12-31 01:00:01 -0500
 category: short story
 permalink: from-under-the-peach-tree
-audiourl:
-narrator:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-31-From_Under_the_Peach_Tree.mp3
+narrator: C. S. E. Cooney
 published: false
 teaser: "They came to her as a sparrow first and made their nest in the peach tree by her cliffside cottage."
-art: title-of-the-story.png
-caption: "Alt text for image"
-artist: Artist Name
-artist-img: artist-name.jpg
 author-img: kerry-truong.jpg
 author-bio: |
   Kerry Truong is a writer, aspiring chef, and lesbian dog dad. Their genres are diverse, but you can be certain that their fantasy will always have a little bit of romance and their romance a little bit of fantasy. They like watching food videos and daydreaming about what they’ll eat next, which is probably why their stories always feature delicious meals. If you like food, asking “but what if lesbians” every time you watch a TV show, and cute animals, you can follow their ramblings on Twitter as [@ninetalesk](http://www.twitter.com/ninetalesk).

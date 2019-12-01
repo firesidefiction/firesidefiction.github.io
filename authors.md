@@ -129,6 +129,7 @@ permalink: /authors
 
 ### Raquel Castro
 — [_Larga Distancia_](/larga-distancia)
+
 — [_Gallinas_](/gallinas)
 
 ### Beth Cato
@@ -147,6 +148,8 @@ permalink: /authors
 — [_River Boy_](/river-boy)
 
 — [_The Unusual Customer_](/the-unusual-customer)
+
+— [_FEMALE COMPUTER WANTED, APPLY WITHIN_](/female-computer-wanted-apply-within)
 
 ### Renee Christopher
 — [_And I Never Named Her_](/and-i-never-named-her)

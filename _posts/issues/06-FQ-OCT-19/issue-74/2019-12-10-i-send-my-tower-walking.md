@@ -6,14 +6,10 @@ editor: Julia Rios
 date: 2019-12-10 01:00:01 -0500
 category: short story
 permalink: i-send-my-tower-walking
-audiourl:
-narrator:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-10-I_Send_My_Tower_Walking.mp3
+narrator: C. S. E. Cooney
 published: false
 teaser: "... my tower groans at this, and I weep, for it hurts it so to do this, but it loves me enough to do whatever I ask ..."
-art: title-of-the-story.png
-caption: "Alt text for image"
-artist: Artist Name
-artist-img: artist-name.jpg
 author-img: amanda-helms.jpg
 author-bio: |
   Amanda Helms is a science fiction and fantasy writer whose fiction has appeared in or is forthcoming from _The Cackle of Cthulhu_ (Baen, 2018), _Daily Science Fiction_, _Future Science Fiction Digest_, and elsewhere. Amanda blogs infrequently at [amandahelms.com](http://www.amandahelms.com) and tweets with a smidgen more frequency as [@amandaghelms](https://www.twitter.com/amandaghelms). She and her husband live in Colorado with their increasingly lazy Boxer mix.  
