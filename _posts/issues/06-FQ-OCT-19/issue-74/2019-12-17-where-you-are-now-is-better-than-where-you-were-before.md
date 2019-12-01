@@ -6,14 +6,10 @@ editor: Julia Rios
 date: 2019-12-17 01:00:01 -0500
 category: short story
 permalink: where-you-are-now-is-better-than-where-you-were-before
-audiourl:
-narrator:
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-17-Where_You_Are_Now_Is_Better_Than_Where_You_Were_Before.mp3
+narrator: C. S. E. Cooney
 published: false
 teaser: "At her first job interview in Sydney for a copywriting job, the hiring manager asks, _I don’t mean to offend, but where did you learn to speak English so well?_"
-art: title-of-the-story.png
-caption: "Alt text for image"
-artist: Artist Name
-artist-img: artist-name.jpg
 author-img: eliza-victoria.jpg
 author-bio: |
   Eliza Victoria is the author of several books, including the Philippine National Book Award-winning _Dwellers_ (2014), the novel _Wounded Little Gods_ (2016), the graphic novel _After Lambana_ (2016, a collaboration with artist Mervin Malonzo), and the science fiction novel-in-stories, _Nightfall_ (2018). Her fiction and poetry have appeared in several online and print publications, most recently in _LONTAR: The Journal of Southeast Asian Speculative Fiction_, _The Best Asian Speculative Fiction_, _The Dark Magazine_, Dark Regions Press's _Stranded: Lone Survivor Deserted Island Horror Stories_, and _The Apex Book of World SF Volume 5_.  
