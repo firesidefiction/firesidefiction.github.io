@@ -7,7 +7,7 @@ file-as: r
 role: editor
 role-2: selector
 role-3:
-title: Editor
+title: Editor, 2017-2019
 twitter-handle: omgjulia
 profile-pic: julia-rios.jpg
 website-url: juliarios.com
