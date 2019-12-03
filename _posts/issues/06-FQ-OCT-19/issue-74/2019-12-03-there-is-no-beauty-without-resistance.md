@@ -8,7 +8,7 @@ category: short story
 permalink: there-is-no-beauty-without-resistance
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-03-There_Is_No_Beauty_Without_Resistance.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "Don’t trust anyone who tries to filter you. Filter yourself. Apply the filter of your choice directly to your face."
 art: there-is-no-beauty-without-resistance.png
 caption: "A woman applies makeup in front of a YouTube overlay."
