@@ -8,7 +8,7 @@ category: short story
 permalink: i-send-my-tower-walking
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-10-I_Send_My_Tower_Walking.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "... my tower groans at this, and I weep, for it hurts it so to do this, but it loves me enough to do whatever I ask ..."
 author-img: amanda-helms.jpg
 author-bio: |
