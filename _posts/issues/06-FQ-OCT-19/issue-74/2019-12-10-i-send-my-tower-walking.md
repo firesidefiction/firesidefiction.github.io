@@ -15,7 +15,6 @@ author-bio: |
   Amanda Helms is a science fiction and fantasy writer whose fiction has appeared in or is forthcoming from _The Cackle of Cthulhu_ (Baen, 2018), _Daily Science Fiction_, _Future Science Fiction Digest_, and elsewhere. Amanda blogs infrequently at [amandahelms.com](http://www.amandahelms.com) and tweets with a smidgen more frequency as [@amandaghelms](https://www.twitter.com/amandaghelms). She and her husband live in Colorado with their increasingly lazy Boxer mix.  
 proofread: true
 contentnote:
-
 ---
 
 In the cool of night, as the owls hoot and moonlight streams through my window, I whisper the spell to twine my hair into my tower. Tendrils of black flecked with gold worm their way into the mortar, seeking the smallest crevices in my tower's stones and binding us together.
