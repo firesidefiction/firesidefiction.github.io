@@ -3,7 +3,7 @@ layout: post
 title: "An Apology"
 author: Pablo Defendini
 date: 2019-10-13 01:00:01 -0500
-category: news
+category: update
 permalink: an-apology
 published: true
 teaser: "Last week I had to cancel some books. The way I went about doing this was not consistent with Fireside’s values. I’d like to offer some explanations and apologize."
