@@ -4,11 +4,11 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently open to submissions for the Autumn 2020 issue of _Fireside Quarterly_, edited by Maurice Broaddus, from **December 2, 2019 at 9am EST** to **December 6, 2019 at 6pm EST**. Please read the following guidelines, then use the form below to submit your work.
+Fireside is currently closed to submissions. During our submissions periods, there will be a form for uploading your submission on this page.
 
-<!--During our submissions periods, there will be a form for uploading your submission on this page.
+Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. We have no upcoming submissions dates announced for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
-Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. We will be open to submissions for short stories during the following periods:
+<!--We will be open to submissions for short stories during the following periods:
 
 - Submissions for the Autumn 2020 issue of _Fireside Quarterly_, edited by Maurice Broaddus, are currently open from **December 2, 2019 at 9am EST** to **December 6, 2019 at 6pm EST**-->
 
@@ -59,7 +59,7 @@ We accept short stories up to 3,000 words. Our budget allows us to pay for up to
 - First responses (either a rejection or a second round notice) within approximately one month of the end of our reading period.
 - Payment of 12.5 cents per word
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrm9Os6jrihbx9yh?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="1750" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<!--iframe class="airtable-embed" src="https://airtable.com/embed/shrm9Os6jrihbx9yh?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="1750" style="background: transparent; border: 1px solid #ccc;"></iframe-->
 
 ----
 
