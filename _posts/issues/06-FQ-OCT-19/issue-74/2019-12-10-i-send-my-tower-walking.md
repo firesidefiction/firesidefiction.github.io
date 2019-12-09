@@ -3,7 +3,7 @@ layout: story
 title: I Send My Tower Walking
 author: Amanda Helms
 editor: Julia Rios
-date: 2019-12-10 01:00:01 -0500
+date: 2019-12-10 02:00:01 -0500
 category: short story
 permalink: i-send-my-tower-walking
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-10-I_Send_My_Tower_Walking.mp3
