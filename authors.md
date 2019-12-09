@@ -342,6 +342,9 @@ permalink: /authors
 ### Thord D. Hedengren
 — [_My Name is Ronald by the Way_](/issue20/chapter/my-name-is-ronald-by-the-way/)
 
+### Amanda Helms
+— [_I Send My Tower Walking_](/i-send-my-tower-walking)
+
 ### Carlos Hernandez
 — [_Geppetto_](/geppetto)
 
@@ -658,6 +661,9 @@ permalink: /authors
 
 ### Andrea Phillips
 — [_Revision_](/issue22/chapter/revision/)
+
+### Dominica Phetteplace
+— [_There Is No Beauty Without Resistance_](/there-is-no-beauty-without-resistance)
 
 — [_Children of Rouwen_](/issue23/chapter/children-of-rouwen/)
 
