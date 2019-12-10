@@ -1,7 +1,7 @@
 ---
 layout: story
-category: short story
-issue: 6
+category: serial
+issue: 6, October 2013
 title: Is Bliss
 subtitle:
 author: chuck-wendig

@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 5
+issue: 5, September 2013
 title: The Last Job
 subtitle:
 author:

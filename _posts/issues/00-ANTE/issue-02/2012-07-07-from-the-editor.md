@@ -1,7 +1,7 @@
 ---
 layout: post
 category: announcement
-issue: 2
+issue: 2, Summer 2012
 title: Issue 2 — WOW. ISSUE TWO.
 subtitle:
 author: brian-j-white

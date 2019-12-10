@@ -1,17 +1,38 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part Four"
-author: Chuck Wendig
-date:   2013-11-05 12:01:00 -0500
 category: serial
+issue: 7, November 2013
+title: The Bird And The Worm
+subtitle:
+author: chuck-wendig
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-11-05 12:01:00 -0500
 permalink: /issue7/chapter/the-forever-endeavor-part-four/
+audiourl:
 teaser: "The big bastard is already at the table, drinking a Godawari Lager, greedily eating momo dumplings by hand."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Forever Endeavor
+serial-url: /issue4/chapter/the-forever-endeavor-part-one/
+part: 4
+previous-url: /issue6/chapter/the-forever-endeavor-part-three/
+next-url: /issue8/chapter/the-forever-endeavor-part-five/
+contentnote:
+generalnote:
 published: true
 ---
-
-Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Three]({{ site.url}}/issue6/chapter/the-forever-endeavor-part-three/)
-
-## 13. THE BIRD AND THE WORM
 
 ### The Bardo Bar, Kathmandu: December 25th,2010.
 
@@ -382,9 +403,3 @@ No. Not fireworks.
 A gunshot.
 
 Upstairs, Dale finds his father dead on the toilet with a gun in his mouth (the cheek catching the barrel like a net bulging with a dead fish) and a box of .44 shells cradled between his thighs.
-
-Jump to: [Part Five]({{ site.url}}/issue8/chapter/the-forever-endeavor-part-five/)
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.

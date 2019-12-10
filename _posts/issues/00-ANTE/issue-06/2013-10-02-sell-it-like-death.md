@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 6
+issue: 6, October 2013
 title: Sell it Like Death
 subtitle:
 author:

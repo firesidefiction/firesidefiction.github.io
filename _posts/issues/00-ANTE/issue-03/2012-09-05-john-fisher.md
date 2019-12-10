@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 3
+issue: 3, Winter 2012
 title: John Fisher
 subtitle:
 author: daniel-abraham

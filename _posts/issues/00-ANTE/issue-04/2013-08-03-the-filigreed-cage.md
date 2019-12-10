@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 4
+issue: 4, August 2013
 title: The Filigreed Cage
 subtitle:
 author: crystal-klaxton

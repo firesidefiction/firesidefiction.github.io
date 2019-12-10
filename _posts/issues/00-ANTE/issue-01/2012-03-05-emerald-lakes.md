@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 1
+issue: 1, Spring 2012
 title: Emerald Lakes
 subtitle: an Atlanta Burns story
 author: chuck-wendig

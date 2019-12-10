@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 6
+issue: 7, November 2013
 title:
 subtitle:
 author:

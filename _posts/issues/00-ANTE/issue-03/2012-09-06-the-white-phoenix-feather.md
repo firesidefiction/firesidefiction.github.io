@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 3
+issue: 3, Winter 2012
 title: The White Phoenix Feather
 subtitle: A Tale of Cuisine and Madness
 author: mary-robinette-kowal

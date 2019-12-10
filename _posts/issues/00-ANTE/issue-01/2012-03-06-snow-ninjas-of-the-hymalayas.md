@@ -1,7 +1,7 @@
 ---
 layout: story
 category: comic
-issue: 1
+issue: 1, Spring 2012
 title: Snow Ninjas of the Hymalayas
 subtitle:
 author: adam-p-knave

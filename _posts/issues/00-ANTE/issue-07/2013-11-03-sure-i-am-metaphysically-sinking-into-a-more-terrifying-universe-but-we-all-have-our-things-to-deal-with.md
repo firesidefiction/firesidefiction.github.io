@@ -1,11 +1,36 @@
 ---
 layout: story
-title:  "Sure I am Metaphysically Sinking Into a More Terrifying Universe, but We All Have Our Things to Deal With"
-author: Sam Gorenstein
-date:   2013-11-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 7, November 2013
+title: Sure I am Metaphysically Sinking Into a More Terrifying Universe, but We All Have Our Things to Deal With
+subtitle:
+author: sam-gorenstein
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: 
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-11-03 12:01:00 -0500
 permalink: /issue7/chapter/sure-i-am-metaphysically-sinking-into-a-more-terrifying-universe-but-we-all-have-our-things-to-deal-with/
+audiourl:
 teaser: "Teeth are pulling me through an inter-dimensional window by my hair, but yes I'm fine."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -18,7 +43,3 @@ I can't even hear you anymore. I can still see you all flailing about in a panic
 Oh hey, there's a Taco Bell here too. That's kinda neat. I- Oh… oh no wait, it's closed.
 
 Man…
-
-#### About the Author
-
-Sam Gorenstein is from Guilderland, N.Y. He has previously served as writing chair for the UAlbany Sketch and Situational Comedy Club. He runs a webcomic at [thesearethethings.smackjeeves.com](http://thesearethethings.smackjeeves.com), and is available on twitter at [@SamIsNotADoctor](https://twitter.com/SamIsNotADoctor). They say on nights when there's not too much fog, if you look closely, you can still see his ghost ship sailing just off the bay.

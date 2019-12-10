@@ -1,7 +1,7 @@
 ---
 layout: post
 category: announcement
-issue: 1
+issue: 1, Spring 2012
 title: Issue 1 — Welcome to the First Issue of Fireside
 subtitle:
 author: brian-j-white

@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 4
+issue: 4, August 2013
 title: Love Song of the Lizard Boy
 subtitle:
 author: delilah-s-dawson

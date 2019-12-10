@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 1
+issue: 1, Spring 2012
 title: Temperance
 subtitle:
 author: christie-yant
