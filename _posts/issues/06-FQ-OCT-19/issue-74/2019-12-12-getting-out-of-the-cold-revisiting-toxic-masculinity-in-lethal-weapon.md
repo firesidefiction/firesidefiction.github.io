@@ -8,7 +8,7 @@ category: essay
 permalink: getting-out-of-the-cold-revisiting-toxic-masculinity-in-lethal-weapon
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-12-Getting_Out_of_the_Cold-_Revisiting_Toxic_Masculinity_in_Lethal_Weapon.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "This is perhaps one of the better lessons of the season: sometimes, the things that teach us how to be men also turn men into tools."
 author-img: brandon-obrien.jpg
 author-bio: |
