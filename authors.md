@@ -614,6 +614,8 @@ permalink: /authors
 ### Brandon O’Brien
 — [_Getting Men Off Ledges_](/getting-men-off-ledges)
 
+— [_Getting Out of the Cold: Revisiting Toxic Masculinity in _Lethal Weapon__](/getting-out-of-the-cold-revisiting-toxic-masculinity-in-lethal-weapon)
+
 — [_Due By the End of the Week_](/due-by-the-end-of-the-week)
 
 ### Sandra M. Odell
