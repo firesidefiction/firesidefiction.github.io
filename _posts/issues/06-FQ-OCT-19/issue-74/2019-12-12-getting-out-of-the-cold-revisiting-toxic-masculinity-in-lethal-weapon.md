@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Out of the Cold: Revisiting Toxic Masculinity in _Lethal Weapon_"
+title: "Getting Out of the Cold: Revisiting Toxic Masculinity in Lethal Weapon"
 author: Brandon O'Brien
 editor: Julia Rios
 date: 2019-12-12 01:00:01 -0500
