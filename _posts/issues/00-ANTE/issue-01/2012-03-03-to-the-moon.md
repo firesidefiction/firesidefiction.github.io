@@ -2,6 +2,8 @@
 layout: story
 category: short story
 issue: 1, Spring 2012
+issue-cover: issue-1-cover.png
+issue-buy-link:
 title: To the Moon
 subtitle:
 author: ken-liu

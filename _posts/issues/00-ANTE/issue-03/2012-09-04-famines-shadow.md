@@ -2,6 +2,8 @@
 layout: story
 category: comic
 issue: 3, Winter 2012
+issue-cover: issue-3-cover.png
+issue-buy-link:
 title: Famine's Shadow
 subtitle:
 author: rachel-deering

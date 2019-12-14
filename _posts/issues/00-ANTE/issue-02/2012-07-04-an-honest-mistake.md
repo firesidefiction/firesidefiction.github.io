@@ -2,6 +2,8 @@
 layout: story
 category: comic
 issue: 2, Summer 2012
+issue-cover: issue-2-cover.png
+issue-buy-link:
 title: An Honest Mistake
 subtitle:
 author: brian-j-white

@@ -2,6 +2,8 @@
 layout: story
 category: short story
 issue: 6, October 2013
+issue-cover: issue-6-cover.png
+issue-buy-link:
 title: Downstairs, Upstairs
 subtitle:
 author: melissa-mead

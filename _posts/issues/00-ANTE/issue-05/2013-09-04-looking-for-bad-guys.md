@@ -2,6 +2,8 @@
 layout: story
 category: short story
 issue: 5, September 2013
+issue-cover: issue-5-cover.png
+issue-buy-link:
 title: Looking for Bad Guys
 subtitle:
 author: jake-kerr

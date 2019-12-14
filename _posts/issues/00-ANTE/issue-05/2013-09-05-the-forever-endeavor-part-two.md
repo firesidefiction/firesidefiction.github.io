@@ -2,6 +2,8 @@
 layout: story
 category: serial
 issue: 5, September 2013
+issue-cover: issue-5-cover.png
+issue-buy-link:
 title: Ham Salad
 subtitle:
 author: chuck-wendig

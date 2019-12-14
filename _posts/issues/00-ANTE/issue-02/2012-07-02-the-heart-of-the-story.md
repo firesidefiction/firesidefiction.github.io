@@ -2,6 +2,8 @@
 layout: story
 category: short story
 issue: 2, Summer 2012
+issue-cover: issue-2-cover.png
+issue-buy-link:
 title: The Heart of the Story
 subtitle:
 author: kat-howard

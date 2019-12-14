@@ -2,6 +2,8 @@
 layout: story
 category: serial
 issue: 4, August 2013
+issue-cover: issue-4-cover.png
+issue-buy-link:
 title: Mistakes Were Made
 subtitle:
 author: chuck-wendig

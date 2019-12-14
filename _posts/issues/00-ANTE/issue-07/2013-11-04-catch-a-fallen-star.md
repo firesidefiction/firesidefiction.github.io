@@ -2,6 +2,8 @@
 layout: story
 category: short story
 issue: 7, November 2013
+issue-cover: issue-7-cover.png
+issue-buy-link:
 title: Catch a Fallen Star
 subtitle:
 author:

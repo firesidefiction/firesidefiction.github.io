@@ -2,6 +2,8 @@
 layout: story
 category: serial
 issue: 7, November 2013
+issue-cover: issue-7-cover.png
+issue-buy-link:
 title: The Bird And The Worm
 subtitle:
 author: chuck-wendig

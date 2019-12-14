@@ -2,6 +2,8 @@
 layout: story
 category: serial
 issue: 6, October 2013
+issue-cover: issue-6-cover.png
+issue-buy-link:
 title: Is Bliss
 subtitle:
 author: chuck-wendig
