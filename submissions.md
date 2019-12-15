@@ -6,11 +6,19 @@ permalink: submissions
 
 Fireside is currently closed to submissions. During our submissions periods, there will be a form for uploading your submission on this page.
 
-Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. We have no upcoming submissions dates announced for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
+Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following periods: <!--We have no upcoming submissions dates announced for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.-->
 
-<!--We will be open to submissions for short stories during the following periods:
+- **April 13, 2020 to May 8, 2020**<br/>Submissions period for the Winter 2021 Issue
 
-- Submissions for the Autumn 2020 issue of _Fireside Quarterly_, edited by Maurice Broaddus, are currently open from **December 2, 2019 at 9am EST** to **December 6, 2019 at 6pm EST**-->
+- **June 15, 2020 to June 19, 2020**<br/>Submissions period for the Spring 2021 Issue
+
+- **August 23, 2020 to August 27, 2020**<br/>Submissions period for the Summer 2021 Issue
+
+- **November 30, 2020 to December 4, 2020**<br/>Submissions period for the Summer 2021 Issue
+
+---
+
+# Guidelines
 
 We welcome previously unpublished work ('published' includes work posted on Patreon or on a blog) in English or Spanish from all writers, and we are especially interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
 
