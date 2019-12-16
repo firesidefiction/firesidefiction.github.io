@@ -868,6 +868,9 @@ permalink: /authors
 ### José González Vargas
 — [_Chiripas_](/chiripas)
 
+### Eliza Victoria
+— [_Where You Are Now Is Better than Where You Were Before_](/where-you-are-now-is-better-than-where-you-were-before)
+
 ### Grace Villmow
 — [_Saving the World, Saving Ourselves: The Role of Justice in the Enviromentalist Movement_](/saving-the-world-saving-ourselves-the-role-of-justice-in-the-environmentalist-movement)
 
