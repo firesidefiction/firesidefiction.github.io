@@ -8,9 +8,9 @@ category: short story
 permalink: where-you-are-now-is-better-than-where-you-were-before
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-17-Where_You_Are_Now_Is_Better_Than_Where_You_Were_Before.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "At her first job interview in Sydney for a copywriting job, the hiring manager asks, _I don’t mean to offend, but where did you learn to speak English so well?_"
-author-img: eliza-victoria.jpg
+author-img:
 author-bio: |
   Eliza Victoria is the author of several books, including the Philippine National Book Award-winning _Dwellers_ (2014), the novel _Wounded Little Gods_ (2016), the graphic novel _After Lambana_ (2016, a collaboration with artist Mervin Malonzo), and the science fiction novel-in-stories, _Nightfall_ (2018). Her fiction and poetry have appeared in several online and print publications, most recently in _LONTAR: The Journal of Southeast Asian Speculative Fiction_, _The Best Asian Speculative Fiction_, _The Dark Magazine_, Dark Regions Press's _Stranded: Lone Survivor Deserted Island Horror Stories_, and _The Apex Book of World SF Volume 5_.  
 proofread: true
@@ -154,17 +154,17 @@ The woman can speak and write English well, but often feels as if she has to sca
 
 (Montage)
 
-1.	At her first job interview in Sydney for a copywriting job, the hiring manager asks, _I don’t mean to offend, but where did you learn to speak English so well?_ even as her resume sits between them, beaming with promise. _Work Experience: Senior Copywriter (6 years)_. She does not get the job, the company explaining that they need an Australian citizen or permanent resident to fill the role. As she accumulates rejections, she wonders if she has made a grave mistake coming here, if she should perhaps tame her ambitions.
+1: At her first job interview in Sydney for a copywriting job, the hiring manager asks, _I don’t mean to offend, but where did you learn to speak English so well?_ even as her resume sits between them, beaming with promise. _Work Experience: Senior Copywriter (6 years)_. She does not get the job, the company explaining that they need an Australian citizen or permanent resident to fill the role. As she accumulates rejections, she wonders if she has made a grave mistake coming here, if she should perhaps tame her ambitions.
 
-2.	_Where are you from?_ her classmates ask.
+2: _Where are you from?_ her classmates ask.
 
 _The Philippines._
 
 And they nod and say, _Okay_, and she wonders what they are picturing in their heads. White sand beaches? Policemen pulling a teenage boy down an alley and leaving him dead near a pigsty?
 
-3.	The woman at the counter at Coles is Filipino, and she says, _You should try to stay here after your course. Everything’s expensive in Sydney, but you’ll earn good money. Better than back home, anyway._ Money always comes up, whenever she speaks to Filipino workers here. _I’m doing this for personal growth,_ she wants to say, but — is that it? The words feel inadequate and insincere. _I’m here because, with the state of politics back home, I was starting to feel like a monster, treating kindness as if it were a finite thread that I have to hold onto to keep from unravelling. But I still can’t loosen my grasp._ The woman at the counter says, “That will be forty dollars,” and she extracts the still-unfamiliar bills, shoves the words back down her throat.
+3: The woman at the counter at Coles is Filipino, and she says, _You should try to stay here after your course. Everything’s expensive in Sydney, but you’ll earn good money. Better than back home, anyway._ Money always comes up, whenever she speaks to Filipino workers here. _I’m doing this for personal growth,_ she wants to say, but — is that it? The words feel inadequate and insincere. _I’m here because, with the state of politics back home, I was starting to feel like a monster, treating kindness as if it were a finite thread that I have to hold onto to keep from unravelling. But I still can’t loosen my grasp._ The woman at the counter says, “That will be forty dollars,” and she extracts the still-unfamiliar bills, shoves the words back down her throat.
 
-4.	_Did you also work as an office assistant back home?_ someone asks at the temp agency, and she considers this question that is only a question, that should not sting. And yet it stings.
+4: _Did you also work as an office assistant back home?_ someone asks at the temp agency, and she considers this question that is only a question, that should not sting. And yet it stings.
 
 _No,_ she replies, barbed wire in her voice, and an awful silence sets in, and that is the end of the conversation.
 
