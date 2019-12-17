@@ -298,7 +298,7 @@ Andrea said, “You haven’t erased the list.”
 
 The remark had a ring of familiarity to it.
 
-Andrea stared at the whiteboard, looking helpless, hopeless.
+Andrea stared at the whiteboard, looking helpless, hopeless. 
 
 _Do you know what’s important in life?_
 
