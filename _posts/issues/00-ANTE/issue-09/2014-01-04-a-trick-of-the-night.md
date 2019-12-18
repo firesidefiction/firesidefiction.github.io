@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "A Trick of the Night"
-author: Steven J. Dines
-date:   2014-01-04 12:01:00 -0500
 category: short story
+issue: 9, January 2014
+issue-cover: issue-9-cover.png
+issue-buy-link:
+title: A Trick of the Night
+subtitle:
+author: steven-j-dines
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-01-04 12:01:00 -0500
 permalink: /issue9/chapter/a-trick-of-the-night/
+audiourl:
 teaser: "I met the devil in my dreams and he told me this would happen."
-published: true
 art: a-trick-of-the-night.jpg
-caption: Illustration for A Trick of the Night
-artist: Galen Dara
+artcaption: Illustration for A Trick of the Night
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 I met the devil in my dreams and he told me this would happen.
@@ -203,7 +227,3 @@ That's when I must have passed out, doctor. It's a rotten twist to the story, an
 I had it.
 
 Until someone snatched it away.
-
-#### About the Author
-
-Steven has published short fiction in over seventy print and online markets, including Black Static, Interzone, and Crimewave. "A Trick of the Night" explores a common theme in his work since becoming a father in 2011: the fears of parenting. Originally from the north east of Scotland, he currently lives in Salisbury, England, with his wife and son. For more information, visit [stevenjdines.com](http://stevenjdines.com).

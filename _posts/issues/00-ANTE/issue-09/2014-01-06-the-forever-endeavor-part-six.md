@@ -1,15 +1,40 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part Six"
-author: Chuck Wendig
-date:   2014-01-06 12:01:00 -0500
 category: serial
+issue: 9, January 2014
+issue-cover: issue-9-cover.png
+issue-buy-link:
+title: A Plate Of Strange Meat
+subtitle:
+author: chuck-wendig
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-01-06 12:01:00 -0500
 permalink: /issue9/chapter/the-forever-endeavor-part-six/
+audiourl:
 teaser: "Dale is shaking."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url: /issue4/chapter/the-forever-endeavor-part-one/
+part: 6
+previous-url: /issue8/chapter/the-forever-endeavor-part-five/
+next-url: /issue10/chapter/the-forever-endeavor-part-seven/
+contentnote:
+generalnote:
 published: true
 ---
-
-Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Five]({{ site.url}}/issue8/chapter/the-forever-endeavor-part-five/)
 
 ## 22. A PLATE OF STRANGE MEAT
 
@@ -340,11 +365,3 @@ She nods and sniffles. "I am."
 She stiffens. Her mouth forms a tight line.
 
 "You just missed him, detective."
-
-
-
-Jump to: [Part Seven]({{ site.url}}/issue10/chapter/the-forever-endeavor-part-seven/)
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.
