@@ -178,6 +178,9 @@ permalink: /authors
 ### Tina Connolly
 — [_Queen Aster, Who Dances_](/queen-aster-who-dances)
 
+### C. S. E. Cooney
+— [_For Mrs. Q_](/for-mrs-q)
+
 ### Patricia Coral
 — [_Baterías_](/baterias)
 
