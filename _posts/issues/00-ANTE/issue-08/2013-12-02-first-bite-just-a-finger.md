@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "First, Bite Just a Finger"
-author: Johann Thorsson
-date:   2013-12-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 8, December 2013
+issue-cover: issue-8-cover.png
+issue-buy-link:
+title: First, Bite Just a Finger
+subtitle:
+author: johann-thorsson
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-12-02 12:01:00 -0500
 permalink: /issue8/chapter/first-bite-just-a-finger/
+audiourl:
 teaser: "Julia tried it for the first time in a party uptown."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -56,7 +83,3 @@ She smiled by herself in the darkness. But she could quit anytime she wanted.
 Just one. More. Bite.
 
 Her friend, _that_ friend, came by later, finding nothing of Julia but lips, bent back in a smile.
-
-#### About the Author
-
-Johann Thorsson lives on an island in the middle of the north-Atlantic ocean, with his girlfriend and two children. He worries that his allergy to cats means that he can never make it as a writer. He writes about books for Bookriot, blogs at [jthorsson.com](http://jthorsson.com), and can be found lurking on Twitter as [@johannthors](http://twitter.com/@johannthors).
