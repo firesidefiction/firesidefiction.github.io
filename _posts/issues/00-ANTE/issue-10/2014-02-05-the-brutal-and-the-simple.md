@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "The Brutal and the Simple"
-author: Adam P. Knave
-date:   2014-01-05 12:01:00 -0500
 category: short story
+issue: 10, February 2014
+issue-cover: issue-10-cover.png
+issue-buy-link:
+title: The Brutal and the Simple
+subtitle:
+author: adam-p-knave
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-01-05 12:01:00 -0500
 permalink: /issue10/chapter/the-brutal-and-the-simple/
+audiourl:
 teaser: "I rode like hell down the shit and dirt we called a road. Head down, I pushed on, spurring the horse under me to just keep going."
-published: true
 art: the-brutal-and-the-simple.jpg
-caption: Illustration for The Brutal and the Simple
-artist: Galen Dara
+artcaption: Illustration for The Brutal and the Simple
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 I rode like hell down the shit and dirt we called a road. Head down, I pushed on, spurring the horse under me to just keep going. I'd wear the horse out, I knew, but being smart and careful wasn't in the cards. Not now. Now was a time for running. My Pa'd chide me for cowardice, but let him come up out of the grave and face down this level of bullshit and then he could give me more endless sermons.
@@ -145,7 +169,3 @@ Let her have the gold. They'd each already had my trust and killed it. Money did
 I unhitched Kyle's horse and rode out of town. Didn't know what direction to head, so I let the horse choose. My Pa'd chide me for cowardice, and Doc Kemper would say I shoulda been colder, but they could both go hang. I'd find a little town far enough away that no one would ever hear of this and I'd… who cared? I found I didn't.
 
 I just rode.
-
-#### About the Author
-
-Adam P. Knave is an Eisner and Harvey award winning editor and writer who has written fiction (CRAZY LITTLE THINGS, STRANGE ANGEL, and STAYS CRUNCHY IN MILK), comics (AMELIA COLE, ACTION CATS, ARTFUL DAGGERS, THINGS WRONG WITH ME, stories in TITMOUSE MOOK vol 2, FIRESIDE MAGAZINE issue 1, OUTLAW TERRITORY and many more), and columns for sites such as thefoonote, TwoHeadedCat, Comics101, PopCultureShock, Three If By Space, and MamaPop. He was also one of the editors of Image's POPGUN anthology.

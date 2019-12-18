@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Just a Couple Modifications"
-author: Kelly C. Stiles
-date:   2014-02-04 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 10, February 2014
+issue-cover: issue-10-cover.png
+issue-buy-link:
+title: Just a Couple Modifications
+subtitle:
+author: kelly-c-stiles
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-02-04 12:01:00 -0500
 permalink: /issue10/chapter/just-a-couple-modifications/
+audiourl:
 teaser: "The bone saw, please."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -32,7 +59,3 @@ It's funny. When I am done with you, you'll wish I'd cut you open sooner. Maybe.
 Hush little one, don't you cry. Now I just need to replace your eye.
 
 Just a couple seconds now, just a few. When you wake up, you'll be all new.
-
-#### About the Author
-
-Kelly Stiles lives in various places, but mostly the woods. She is one of the co-editors for the Goldfish Grimm Spicy Sushi Fiction publication and is also an assistant acquisitions editor of novellas for Dagan Books. Her day job is in the local national park. You can visit her blog at [ladykuro.wordpress.com](http://ladykuro.wordpress.com/).

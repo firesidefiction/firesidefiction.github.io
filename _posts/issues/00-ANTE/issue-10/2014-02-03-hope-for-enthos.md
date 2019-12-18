@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Hope for Enthos"
-author: Addison Smith
-date:   2014-02-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 10, February 2014
+issue-cover: issue-10-cover.png
+issue-buy-link:
+title: Hope for Enthos
+subtitle:
+author: addison-smith
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-02-03 12:01:00 -0500
 permalink: /issue10/chapter/hope-for-enthos/
+audiourl:
 teaser: "The muted horns of passing cars drifted up to Enthos, where he sat on his ledge, peering over the street."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -50,7 +77,3 @@ His gaze wandered to the trunk at the end of the girl's bed, and rested there un
 _The trunk is the answer,_ he realized._ Inside it is my freedom. She just has to open it. That's all._
 
 _She'll open it, and then I'll be free._
-
-#### About the Author
-
-Addison Smith is a typesetter for a small newspaper in Northern Minnesota. When not doing battle with errant punctuation, he writes fantasy, science fiction and horror. He fails to tweet as [@addisoncs](https://twitter.com/addisoncs) but will work on that.
