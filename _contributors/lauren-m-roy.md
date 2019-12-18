@@ -10,7 +10,7 @@ role-3:
 title: Author
 twitter-handle:
 profile-pic: lauren-m-roy.jpg
-website-url: http://www.wordsmeetworld.com/
+website-url: www.wordsmeetworld.com/
 short-name: lauren-m-roy
 permalink: lauren-m-roy
 ---

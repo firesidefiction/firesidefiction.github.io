@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Four Tons Too Late"
-author: K. C. Alexander
-date:   2014-03-04 12:01:00 -0500
 category: short story
+issue: 11, March 2014
+issue-cover: issue-11-cover.png
+issue-buy-link:
+title: Four Tons Too Late
+subtitle:
+author: k-c-alexander
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-03-04 12:01:00 -0500
 permalink: /issue11/chapter/four-tons-too-late/
+audiourl:
 teaser: "He wakes aching. He always wakes aching. Drugs don't help. He kicked that habit a long time ago, before they'd take him into the program."
-published: true
 art: four-tons-too-late.jpg
-caption: Illustration for Four Tons Too Late
-artist: Galen Dara
+artcaption: Illustration for Four Tons Too Late
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 _Patient #8620-87_
@@ -469,7 +493,3 @@ One by one, the chipset sensors in his septic brain short out. The chassis goes 
 Enough anesthetic, and even the four-ton anchor of his tech can't keep him alive. Frank doesn't hurt anymore. They can't hurt him ever again.
 
 It's all Sabrina ever wanted.
-
-#### About the Author
-
-K. C. Alexander is the author of _Necrotech_—a transhumanist sci-fi called “a speed freak rush” by NYT bestseller Richard Kadrey and “a violent thrillride” by award-nominated Stephen Blackmoore. She co-wrote _Mass Effect: Andromeda: Nexus Uprising_ with _NYT_ bestseller Jason M. Hough, Bioware’s first novelization for Mass Effect: Andromeda. Other credits consist of short stories to Fireside magazine and a contribution to _Geeky Giving_. Specialties include voice-driven prose, imperfect characters, and reckless profanity. Also, creative ways to murder the deserving—in fiction. Probably. She champions mental health awareness and prefers animals to people. And she writes anything she wants to. Keep up at [kcalexander.com](http://www.kcalexander.com).

@@ -10,7 +10,7 @@ role-3:
 title: Author
 twitter-handle:
 profile-pic: caroline-m-yoachim.jpg
-website-url: http://carolineyoachim.com
+website-url: carolineyoachim.com
 short-name: caroline-m-yoachim
 permalink: caroline-m-yoachim
 ---

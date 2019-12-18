@@ -10,7 +10,7 @@ role-3:
 title: Author
 twitter-handle:
 profile-pic:
-website-url: http://jennifercampbellhicks.blogspot.com/
+website-url: jennifercampbellhicks.blogspot.com/
 short-name: jennifer-campbell-hicks
 permalink: jennifer-campbell-hicks
 ---

@@ -10,7 +10,7 @@ role-3:
 title: Author
 twitter-handle:
 profile-pic: kelly-c-stiles.jpg
-website-url: http://ladykuro.wordpress.com/
+website-url: ladykuro.wordpress.com/
 short-name: kelly-c-stiles
 permalink: kelly-c-stiles
 ---

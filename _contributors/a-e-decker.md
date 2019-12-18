@@ -10,7 +10,7 @@ role-3:
 title: Author
 twitter-handle:
 profile-pic: a-e-decker.jpg
-website-url: http://www.wordsmeetworld.com/
+website-url: www.wordsmeetworld.com/
 short-name: a-e-decker
 permalink: a-e-decker
 ---

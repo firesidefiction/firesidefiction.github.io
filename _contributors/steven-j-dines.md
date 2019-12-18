@@ -10,7 +10,7 @@ role-3:
 title: Author
 twitter-handle:
 profile-pic: steven-j-dines.jpg
-website-url: http://stevenjdines.com
+website-url: stevenjdines.com
 short-name: steven-j-dines
 permalink: steven-j-dines
 ---

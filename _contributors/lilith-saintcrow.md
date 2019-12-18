@@ -10,7 +10,7 @@ role-3:
 title: Author
 twitter-handle: lilithsaintcrow
 profile-pic: lilith-saintcrow.jpg
-website-url: http://www.lilithsaintcrow.com/
+website-url: www.lilithsaintcrow.com/
 short-name: lilith-saintcrow
 permalink: lilith-saintcrow
 ---

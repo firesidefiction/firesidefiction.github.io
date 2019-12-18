@@ -10,7 +10,7 @@ role-3:
 title: Author
 twitter-handle: SamIsNotADoctor
 profile-pic:
-website-url: http://thesearethethings.smackjeeves.com
+website-url: thesearethethings.smackjeeves.com
 short-name: sam-gorenstein
 permalink: sam-gorenstein
 ---

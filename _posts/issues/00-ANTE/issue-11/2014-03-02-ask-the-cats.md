@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Ask The Cats"
-author: Stefon Mears
-date:   2014-03-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 11, March 2014
+issue-cover: issue-11-cover.png
+issue-buy-link:
+title: Ask The Cats
+subtitle:
+author: stefon-mears
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-03-02 12:01:00 -0500
 permalink: /issue11/chapter/ask-the-cats/
+audiourl:
 teaser: "Did you finish off the graham crackers?"
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -62,7 +89,3 @@ Curiosity cracked its way through the haze of fury.  He tilted his head in a shr
 "Buy an idiot a beer?" he asked with a sad attempt at a smile.
 
 I let out a breath and took my jacket with my own attempt at a reassuring smile.  As we walked through the cool, midnight streets toward the pub around the corner, I said, "I'm glad you have honest cats."
-
-#### About the Author
-
-Stefon Mears occasionally asks his cats questions, but their answers are unreliable. Stefon earned his M.F.A. in Creative Writing from N.I.L.A., and his B.A. in Religious Studies (double emphasis in Ritual and Mythology) from U.C. Berkeley. To date Stefon has published about a score of short pieces and two novels, Magician's Choice and Surviving Telepathy. Look for him online at [stefonmears.com, text](http://www.stefonmears.com), on GooglePlus, or [@stefonmears ](http://www.twitter.com/stefonmears) on Twitter.
