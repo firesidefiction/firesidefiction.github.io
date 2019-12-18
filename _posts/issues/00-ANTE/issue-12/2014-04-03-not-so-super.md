@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Not So Super"
-author: Rob McMonigal
-date:   2014-04-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 12, April 2014
+issue-cover: issue-12-cover.png
+issue-buy-link:
+title: Not So Super
+subtitle:
+author: rob-mcmonigal
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-04-03 12:01:00 -0500
 permalink: /issue12/chapter/not-so-super/
-teaser: "Unfortunately for me, the day I became a superhero, so did everyone else."
+audiourl: "Unfortunately for me, the day I became a superhero, so did everyone else."
+teaser:
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -74,7 +101,3 @@ With sliced pork flesh in one hand, and lighter in the other, I touched the flam
 "YEOWWW!" I screamed, and reverted to childhood lessons about stop, drop, and roll, insuring I wasn't getting back my safety deposit as I ruined the kitchen floor.
 
 So much for the bacon.
-
-#### About the Author
-
-Rob McMonigal is a freelance writer and tutor, recently relocated to Portland, Oregon. He manages the indie-focused comic book blog [Panel Patter](http://www.panelpatter.com), and modeled the character in this story after one of his creator friends--don't ask him which one! A fan of the speculative in all its forms (prose, comics, and film), he grew up on the Three Stooges, Spider-Man, Ray Bradbury, and Universal Horror films. (Explains a lot, right?) Rob lives with his wife, fellow writer Erica Satifka, and entirely too many cats. You can reach him on Twitter [@rob_mcmonigal](http://www.twitter.com/@rob_mcmonigal)
