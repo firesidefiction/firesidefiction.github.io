@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Accidental Queen of the Spiders"
-author: Zina Hutton
-date:   2015-08-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 26, August 2015
+issue-cover: issue-26-cover.png
+issue-buy-link:
+title: Accidental Queen of the Spiders
+subtitle:
+author: zina-hutton
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-08-02 12:01:00 -0500
 permalink: /issue26/chapter/accidental-queen-of-the-spides/
+audiourl:
 teaser: "No one ever talks about how many spiders live on the island."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -68,7 +95,3 @@ And one time — the most important time — the spiders come up to her while sh
 She takes the package because she can't imagine doing otherwise.
 
 Underneath the webbing is a crown.
-
-#### About the Author
-
-Back when she was a child, Zina Hutton jumped out of a window to escape dance class in the Virgin Islands. Now she's an aspiring fantasy writer who tends to leap headfirst into new stories and worlds the second that inspiration strikes. Zina lives in hot and humid South Florida and she's never far away from a notebook and her precious Kindle.  You can find her at [Stitch's Media Mix](https://stitchmediamix.wordpress.com/) and on twitter as [@stichomancery](https://twitter.com/stichomancery).
