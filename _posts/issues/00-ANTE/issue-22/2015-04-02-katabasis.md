@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Katabasis"
-author: Jen R Albert
-date:   2015-04-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 22, April 2015
+issue-cover: issue-22-cover.png
+issue-buy-link:
+title: Katabasis
+subtitle:
+author: jen-r-albert
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-04-02 12:01:00 -0500
 permalink: /issue22/chapter/katabasis/
+audiourl:
 teaser: "Resurrection just isn't what it used to be."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -76,7 +103,3 @@ They call it Katabasis — that epic descent into the underworld, the triumphant
 But I know if I spend too much time with you-but-not-you, the real you will get hazy, even more than you have already. You'll blend with it, then fade away. I might not even notice.
 
 I want to look back at you, Ben, at those happy, imperfect memories. Looking back isn't the problem; the Greek myth had it wrong. It would be so much worse to charge forward blindly, gripping your cold, dead hand, pretending that nothing has changed.
-
-#### About the Author
-
-Jen R Albert uses her day-job as an entomologist as a cover for her moonlight obsession with writing speculative fiction. In stolen moments she reads any and all science fiction and fantasy literature she can get a hold of and even plays the occasional video game. Jen lives in Toronto with her husband and one very large, very hairy German Shepherd. Find her on Twitter [@jenralbert](https://twitter.com/jenralbert)

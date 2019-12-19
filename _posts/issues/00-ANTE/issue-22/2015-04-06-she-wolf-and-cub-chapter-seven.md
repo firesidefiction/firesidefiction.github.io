@@ -1,16 +1,38 @@
 ---
 layout: story
-title:  "Myth"
-author: Lilith Saintcrow
-date:   2015-04-06 12:01:00 -0500
 category: serial
+issue: 22, April 2015
+issue-cover: issue-22-cover.png
+issue-buy-link:
+title: Myth
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-04-06 12:01:00 -0500
+permalink: /issue22/chapter/she-wolf-and-cub-chapter-seven/
+audiourl:
+teaser: "I hadn't laughed like that since… well, since far before I was implemented."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 7
 previous-url: /issue21/chapter/she-wolf-and-cub-chapter-six/
 next-url: /issue23/chapter/she-wolf-and-cub-chapter-eight/
-permalink: /issue22/chapter/she-wolf-and-cub-chapter-seven/
-teaser: "I hadn't laughed like that since… well, since far before I was implemented."
+contentnote:
+generalnote:
 published: true
 ---
 

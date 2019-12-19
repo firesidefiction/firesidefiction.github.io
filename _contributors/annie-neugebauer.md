@@ -1,8 +1,8 @@
 ---
 layout: contributor-profile
 credit-name: Annie Neugebauer
-first-name: Annie Neugebauer
-last-name: Annie Neugebauer
+first-name: Annie
+last-name: Neugebauer
 file-as: n
 role: author
 role-2:
