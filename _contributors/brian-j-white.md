@@ -7,7 +7,7 @@ file-as: w
 role: editor
 role-2: selector
 role-3:
-title: Editor & Founder
+title: Founder & Editor, 2012-2017
 twitter-handle: talkwordy
 profile-pic: brian-j-white.jpg
 website-url: talkwordy.com
