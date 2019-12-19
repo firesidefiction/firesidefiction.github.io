@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 18, December 2014
-issue-cover: issue-18-cover.png
+issue: 19, January 2014
+issue-cover: issue-19-cover.png
 issue-buy-link:
 title:
 subtitle:
