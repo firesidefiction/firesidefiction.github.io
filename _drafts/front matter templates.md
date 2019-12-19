@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 12, April 2014
-issue-cover: issue-12-cover.png
+issue: 15, July 2014
+issue-cover: issue-15-cover.png
 issue-buy-link:
 title:
 subtitle:
@@ -34,6 +34,10 @@ next-url:
 contentnote:
 generalnote:
 published: true
+
+
+
+
 ---
 
 

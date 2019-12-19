@@ -1,15 +1,40 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part Twelve"
-author: Chuck Wendig
-date:   2014-07-05 12:01:00 -0500
 category: serial
+issue: 15, July 2014
+issue-cover: issue-15-cover.png
+issue-buy-link:
+title: Cosmic Forces at Your Local Waffle House
+subtitle:
+author: chuck-wendig
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-07-05 12:01:00 -0500
 permalink: /issue15/chapter/the-forever-endeavor-part-twelve/
+audiourl:
 teaser: "It's midnight and Dale stands on the beach in bare feet, wet sand sucking at his toes."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Forever Endeavor
+serial-url: /issue4/chapter/the-forever-endeavor-part-one/
+part: 12
+previous-url: /issue13/chapter/the-forever-endeavor-part-eleven/
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
-
-Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Eleven](/issue13/chapter/the-forever-endeavor-part-eleven/)
 
 ## 53. COSMIC FORCES AT YOUR LOCAL WAFFLE HOUSE
 
@@ -186,9 +211,3 @@ It won't work, of course.
 The other Dales know that.
 
 And the other Dales, well, they have plans.
-
-
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.
