@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "A Taste of Cinnamon"
-author: Rebecca Birch
-date:   2015-03-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 21, March 2015
+issue-cover: issue-21-cover.png
+issue-buy-link:
+title: A Taste of Cinnamon
+subtitle:
+author: rebecca-birch
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-03-03 12:01:00 -0500
 permalink: /issue21/chapter/a-taste-of-cinnamon/
+audiourl:
 teaser: "C'mon, Renny, Jesmin whispered from the far side of the internal bulkhead. Don't get grav-feet now."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -68,7 +95,3 @@ He contorted his way through the maze and was ready for Jessi when she flew out 
 Jessi, still radiant with the spell of starlight, pulled his head down and kissed him full on the lips. "Thank you," she said. "I needed to see, or I'd have lost my mind." She tilted her head. "I wonder how far we are now from Earth?"
 
 Renny couldn't bring himself to answer. Instead, he kissed her back, and tried, for the moment, to forget.
-
-#### About the Author
-
-Rebecca Birch is a science fiction and fantasy writer based in Seattle, Washington. She's a classically trained soprano, holds a deputy black belt in Tae Kwon Do, and enjoys spending time in the company of trees. Her fiction has appeared in markets including Nature, Cricket, and the Grantville Gazette's Universe Annex. You can find her at [wordsofbirch.com](http://www.wordsofbirch.com).

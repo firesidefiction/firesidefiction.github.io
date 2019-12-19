@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Zanders the Magnificent"
-author: Annie Neugebauer
-date:   2015-03-04 12:01:00 -0500
 category: short story
+issue: 21, March 2015
+issue-cover: issue-21-cover.png
+issue-buy-link:
+title: Zanders the Magnificent
+subtitle:
+author: annie-neugebauer
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-03-04 12:01:00 -0500
 permalink: /issue21/chapter/zanders-the-magnificent/
+audiourl:
 teaser: "My handsome, darling boys, Mrs. Zander said, placing a hand on each of their shoulders. Which one of you wants to be alive today?"
-published: true
 art: zanders-the-magnificent.jpg
-caption: Illustration for Zanders the Magnificent
-artist: Galen Dara
+artcaption: Illustration for Zanders the Magnificent
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 "My handsome, darling boys," Mrs. Zander said, placing a hand on each of their shoulders. "Which one of you wants to be alive today?"
@@ -223,7 +247,3 @@ Mrs. Zander thrashed her feet and head about, trying to break free of her restra
 In the wings, Bobby's arm had already begun a sawing motion.
 
 "Three!"
-
-#### About the Author
-
-Annie Neugebauer ([@AnnieNeugebauer]( https://twitter.com/AnnieNeugebauer)) is a novelist, short story author, and award-winning poet with work appearing in over forty venues, including Black Static, DarkFuse, and Buzzy Mag. She's an active member of the Horror Writers Association, webmaster for the Poetry Society of Texas, and a columnist for Writer Unboxed. She lives in Texas with her sweet husband and two diabolical cats. You can visit her at [AnnieNeugebauer.com](http://www.AnnieNeugebauer.com) for blogs, creative works, free organizational tools for writers, and more.

@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 20, February 2015
-issue-cover: issue-20-cover.png
+issue: 21, March 2015
+issue-cover: issue-21-cover.png
 issue-buy-link:
 title:
 subtitle:
@@ -10,7 +10,7 @@ author:
 author-2:
 author-3:
 editor: brian-j-white
-illustrator: galen-dara
+illustrator:
 copyeditor:
 selector:
 translator:
