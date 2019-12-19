@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 24, June 2015
-issue-cover: issue-24-cover.png
+issue: 25, July 2015
+issue-cover: issue-25-cover.png
 issue-buy-link:
 title:
 subtitle:

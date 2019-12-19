@@ -5,7 +5,7 @@ issue: 24, June 2015
 issue-cover: issue-24-cover.png
 issue-buy-link:
 title: If Wishes Were Obfuscation Codes
-subtitle:
+subtitle: Life, Written in Zeroes
 author: malon-edwards
 author-2:
 author-3:
@@ -26,7 +26,7 @@ spanish-language:
 spanish-date:
 english-url:
 spanish-url:
-serial-name: Life, Written in Zeroes
+serial-name:
 serial-url:
 part:
 previous-url:

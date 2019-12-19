@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Look Upon my Works, Ye Mighty, and Despair (In Three Months)"
-author: Helena Bell
-date:   2015-07-04 12:01:00 -0500
 category: short story
+issue: 25, July 2015
+issue-cover: issue-25-cover.png
+issue-buy-link:
+title: "Look Upon my Works, Ye Mighty, and Despair (In Three Months)"
+subtitle:
+author: helena-bell
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-07-04 12:01:00 -0500
 permalink: /issue25/chapter/look-upon-my-works-ye-mighty-and-despair-in-three-months/
+audiourl:
 teaser: "Samantha believed she was not the last person left alive in the world, but she hadn't seen anyone else since she had to kill her brother Oliver over Christmas."
-published: true
 art: look-upon-my-works-ye-mighty-and-despair-in-three-months.jpg
-caption: Illustration for Look Upon my Works, Ye Mighty, and Despair (In Three Months)
-artist: Galen Dara
+artcaption: Illustration for Look Upon my Works, Ye Mighty, and Despair (In Three Months)
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Samantha believed she was not the last person left alive in the world, but she hadn't seen anyone else since she had to kill her brother Oliver over Christmas. Even the zombies seemed to have mostly disappeared, or decomposed, or disintegrated, and Samantha didn't worry about them as she hiked over the mountain of cars and their desiccated, rusted parts on the way to the Costco. Gun at her side, she stopped to inspect an upside-down fishing boat next to the grocery cart return. She circled it once, tapping here and there at the fiberglass hull.
@@ -308,8 +332,4 @@ Sam and Erin screamed his name as the world continued to focus. Sam couldn't say
 
 _We had to try_. Samantha began to shiver as slowly she turned the top over in her hands and squinted to read the small black writing inside.
 
-_Expires after__…_
-
-#### About the Author
-
-Helena Bell is a writer living in Raleigh, NC. She has MFAs in both Fiction and Poetry from NC State University and Southern Illinois University in Carbondale respectively. Her stories have appeared in Clarkesworld, Lightspeed, the Indiana Review and other publications. You can contact her via her website [helbell.com](http://www.helbell.com) or her Twitter [@HelBell](https://twitter.com/helbell).
+_Expires after_…

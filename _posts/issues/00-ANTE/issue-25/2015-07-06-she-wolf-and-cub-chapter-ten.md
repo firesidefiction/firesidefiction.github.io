@@ -1,16 +1,38 @@
 ---
 layout: story
-title:  "Non-Alliance"
-author: Lilith Saintcrow
-date:   2015-07-06 12:01:00 -0500
 category: serial
+issue: 25, July 2015
+issue-cover: issue-25-cover.png
+issue-buy-link:
+title: Non-Alliance
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-07-06 12:01:00 -0500
+permalink: /issue25/chapter/she-wolf-and-cub-chapter-ten/
+audiourl:
+teaser: "The fourpad exploded, chunks of meat flying and a burst of hot blood."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 10
 previous-url: /issue24/chapter/she-wolf-and-cub-chapter-nine/
 next-url: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
-permalink: /issue25/chapter/she-wolf-and-cub-chapter-ten/
-teaser: "The fourpad exploded, chunks of meat flying and a burst of hot blood."
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -217,9 +239,3 @@ _Now. Do it now, while they think you're weak._
 I lunged, my bladed hand crunching in the throat of the closest silver-eyed agent. Hooking and ripping, a gout of blackish blood full of silver motes swarming in an unfamiliar pattern.
 
 Then my handler shot me. Or rather, he lifted a familiar black dial-box, and thumbed the switch while pointing the wand end at me. Another nano reset pulse crashed into me, and I went down hard.
-
-Jump to: [Chapter Eleven](/issue26/chapter/she-wolf-and-cub-chapter-eleven/)
-
-#### About the Author
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).
