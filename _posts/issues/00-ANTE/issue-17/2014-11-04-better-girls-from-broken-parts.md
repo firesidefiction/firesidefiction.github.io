@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 16, October 2014
-issue-cover: issue-16-cover.png
+issue: 17, November 2014
+issue-cover: issue-17-cover.png
 issue-buy-link:
 title: Better Girls From Broken Parts
 subtitle:

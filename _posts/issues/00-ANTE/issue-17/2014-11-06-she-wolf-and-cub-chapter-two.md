@@ -1,8 +1,8 @@
 ---
 layout: story
 category: serial
-issue: 16, October 2014
-issue-cover: issue-16-cover.png
+issue: 17, November 2014
+issue-cover: issue-17-cover.png
 issue-buy-link:
 title: Cannibal Warfare
 subtitle:
@@ -10,7 +10,7 @@ author: lilith-saintcrow
 author-2:
 author-3:
 editor: brian-j-white
-illustrator: 
+illustrator:
 copyeditor:
 selector:
 translator:
