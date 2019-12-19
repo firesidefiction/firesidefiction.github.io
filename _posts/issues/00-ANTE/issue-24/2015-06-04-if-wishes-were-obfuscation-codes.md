@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "If Wishes Were Obfuscation Codes"
-author: Malon Edwards
-date:   2015-06-04 12:01:00 -0500
 category: short story
+issue: 24, June 2015
+issue-cover: issue-24-cover.png
+issue-buy-link:
+title: If Wishes Were Obfuscation Codes
+subtitle:
+author: malon-edwards
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-06-04 12:01:00 -0500
 permalink: /issue24/chapter/if-wishes-were-obfuscation-codes/
+audiourl:
 teaser: "Well, truth is, I'm in love with an obfuscation programme."
-published: true
 art: if-wishes-were-obfuscation-codes.jpg
-caption: Illustration for If Wishes Were Obfuscation Codes
-artist: Galen Dara
+artcaption: Illustration for If Wishes Were Obfuscation Codes
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: Life, Written in Zeroes
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 "Tell the truth and shame the devil, Doré," Manmi used to say. Well, truth is, I'm in love with an obfuscation programme.
@@ -159,7 +183,3 @@ So I did the only thing I could do. I followed.
 Why wouldn't I? I refuse to let cancer take me.
 
 Besides, I look damn good in those boots.
-
-#### About the Author
-
-Malon Edwards was born and raised on the South Side of Chicago, but now lives in the Greater Toronto Area, where he was lured by his beautiful Canadian wife. Many of his short stories are set in an alternate Chicago and feature people of color. Malon also serves as Managing Director and Grants Administrator for the Speculative Literature Foundation, which provides a number of grants for writers of speculative literature. You can find him online at [malonedwards.com](http://www.malonedwards.com) and on Twitter [@MalonLouis](https://twitter.com/malonlouis).

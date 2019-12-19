@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "All of Our Days"
-author: Jeff Xilon
-date:   2015-06-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 24, June 2015
+issue-cover: issue-24-cover.png
+issue-buy-link:
+title: All of Our Days
+subtitle:
+author: jeff-xilon
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-06-02 12:01:00 -0500
 permalink: /issue24/chapter/all-of-our-days/
+audiourl:
 teaser: "Kelee's voice rouses him from his last dreams."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -140,7 +167,3 @@ He answers it, and Kelee is there.
 "I'm sorry, love. Please enjoy the first day of the rest of your life."
 
 The pod cracks open, and Tyrone takes a deep breath of air that feels ever so slightly stale, and used.
-
-#### About the Author
-
-After spending most of his adult life living in South Korea Jeff Xilon now lives in Sudbury, Ontario, Canada with his family. A recovering ESL/EFL teacher, he continues to try and pay the bills with the English language. You can find him sporadically posting at his website, [jeffxilon.com](http://www.jeffxilon.com), or tweeting the occasional thought as [@JXilon](https://twitter.com/jxilon).

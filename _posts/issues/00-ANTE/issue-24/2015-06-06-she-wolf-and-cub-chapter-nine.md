@@ -1,16 +1,38 @@
 ---
 layout: story
-title:  "I Think She's Serious"
-author: Lilith Saintcrow
-date:   2015-06-06 12:01:00 -0500
 category: serial
+issue: 24, June 2015
+issue-cover: issue-24-cover.png
+issue-buy-link:
+title: I Think She's Serious
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-06-06 12:01:00 -0500
+permalink: /issue24/chapter/she-wolf-and-cub-chapter-nine/
+audiourl:
+teaser: "During the day, the canopy turned everything below into aqueous green shimmer that didn't raise blistering welts on Geoff's skin."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 9
 previous-url: /issue23/chapter/she-wolf-and-cub-chapter-eight/
 next-url: /issue25/chapter/she-wolf-and-cub-chapter-ten/
-permalink: /issue24/chapter/she-wolf-and-cub-chapter-nine/
-teaser: "During the day, the canopy turned everything below into aqueous green shimmer that didn't raise blistering welts on Geoff's skin."
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -289,9 +311,3 @@ Geoff kneed his fourpad forward, and I was about to follow, when the silence blo
 That was when they hit me, knocking me right through the shimmer.
 
 The second-gens could live on the bigger mammals as well. And if Geoff could find me, of course his cousins could, too.
-
-Jump to: [Chapter Ten](/issue25/chapter/she-wolf-and-cub-chapter-ten/)
-
-#### About the Author
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).
