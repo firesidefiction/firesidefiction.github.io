@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="contributor-profile">
-  <div class="contributor-info">
+<div class="contributor-info">
     <figure>
       <img class="" src="/images/contributors/{{ page.profile-pic }}" alt="{{ page.credit-name }}">
     </figure>
@@ -12,6 +12,7 @@ layout: default
       <h1>{{ page.credit-name }}</h1>
       <h2>{{ page.title }}</h2>
       {{ content }}
+      {% if page.website-url %}<p>Website: <a href="http://{{ page.website-url }}">{{ page.website-url }}</a>{% if page.twitter-handle %} • <a href="https://twitter.com/{{ page.twitter-handle }}">@{{ page.twitter-handle }}</a> on Twitter{% endif %}</p>{% endif %}
     </div>
   </div>
   <p class="label">{{ page.first-name }}'s Work in Fireside</p>

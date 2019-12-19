@@ -30,6 +30,7 @@
 }
 
 .contributor-profile {
+  font-family: $font-secondary;
   max-width: 45em;
   margin: 0 auto;
 }
@@ -37,10 +38,10 @@
 .contributor-info {
   display: flex;
   figure {
-    width: 200px;
-    flex-basis: 75%;
+    flex-basis: 25%;
+    margin-right: 1em;
   }
   div {
-    min-width: 20em;
+    flex-basis: 75%;
   }
 }
