@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "All Manner of Men and Monsters"
-author: Rebecca M. Latimer
-date:   2014-12-04 12:01:00 -0500
 category: short story
+issue: 18, December 2014
+issue-cover: issue-18-cover.png
+issue-buy-link:
+title: All Manner of Men and Monsters
+subtitle:
+author: rebecca-m-latimer
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-12-04 12:01:00 -0500
 permalink: /issue18/chapter/all-manner-of-men-and-monsters/
+audiourl:
 teaser: "I remember my father spitting lightning into sand, forming misshapen glass with which to decorate my mother's tower."
-published: true
 art: all-manner-of-men-and-monsters.jpg
-caption: Illustration for All Manner of Men and Monsters
-artist: Galen Dara
+artcaption: Illustration for All Manner of Men and Monsters
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 I remember my father spitting lightning into sand, forming misshapen glass with which to decorate my mother's tower. He'd built it himself, with stacks of black bricks, and I remember wondering as I watched with innocent eyes why he'd chosen to forgo stairs. The structure was tall, impossibly so, with my mother's room perched at the very top. My father could take flight and climb through her lonely window, but what about me?
@@ -121,7 +145,3 @@ I'd gazed endlessly at that window, and I'd seen her shadow, _I'd seen her shado
 I fell so deeply into this dark void that I lost myself, and woke many hours later sitting against a tree. Not quite calm, but solemn. I retrieved my blade and cleaned it. I went back to the cottage, and without looking at my father's corpse collected a bag of rations and gold.
 
 I walked to town. I kept walking.
-
-#### About the Author
-
-Rebecca M. Latimer is a Canadian writer of speculative fiction and a self-taught traditional artist. Her lifelong exile to a wintry, snow-covered realm without magic remains a mystery even to her. For now, she subsists on tea and dreams. Find more of her work at [rebeccamlatimer.com](http://rebeccamlatimer.com) or on Twitter [@RebeccaMLatimer](https://twitter.com/RebeccaMLatimer).

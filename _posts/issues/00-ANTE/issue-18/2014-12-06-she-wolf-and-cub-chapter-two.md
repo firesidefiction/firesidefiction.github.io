@@ -1,16 +1,38 @@
 ---
 layout: story
-title:  "Township Vega"
-author: Lilith Saintcrow
-date:   2014-12-06 12:01:00 -0500
 category: serial
+issue: 18, December 2014
+issue-cover: issue-18-cover.png
+issue-buy-link:
+title: Township Vega
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-12-06 12:01:00 -0500
+permalink: /issue18/chapter/she-wolf-and-cub-chapter-three/
+audiourl:
+teaser: "At first, I thought the township was a worm."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 3
 previous-url: /issue17/chapter/she-wolf-and-cub-chapter-two/
 next-url: /issue19/chapter/she-wolf-and-cub-chapter-four/
-permalink: /issue18/chapter/she-wolf-and-cub-chapter-three/
-teaser: "At first, I thought the township was a worm."
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -273,9 +295,3 @@ I was already on my feet, moving.
 I could mark "ramming a lectric shivprobe through his chest and popping his Dismissal switches" as the last time I saw him, or "dumping pieces of his stripped and trussed-up body in a vat of caustic sludge." Choices, choices. It was Sam, in the flesh, just walking in the front door as if this was a normal meet, him giving me the Agency's marching orders. Winding me up and setting me in motion.
 
 And if my handler had shown up _here_, who else could be not-so-far behind?
-
-Jump to: [Chapter Four](/issue19/chapter/she-wolf-and-cub-chapter-four/)
-
-#### About the Author
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).
