@@ -6,7 +6,7 @@ issue-cover: issue-22-cover.png
 issue-buy-link:
 title: Sally the Psychic Alligator
 subtitle:
-author: sunil-patel
+author: Sunil Patel
 author-2:
 author-3:
 editor: brian-j-white

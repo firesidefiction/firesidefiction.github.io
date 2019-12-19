@@ -1,9 +1,9 @@
 ---
 layout: contributor-profile
-credit-name: Sunil Patel
-first-name: Sunil
-last-name: Patel
-file-as: p
+credit-name: Daniel José Older
+first-name: Daniel
+last-name: Older
+file-as: o
 role: author
 role-2:
 role-3:
