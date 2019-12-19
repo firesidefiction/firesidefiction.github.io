@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Nobody’s Goddess"
-author: Amber D. Sistla
-date:   2015-05-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 23, May 2015
+issue-cover: issue-23-cover.png
+issue-buy-link:
+title: "Nobody’s Goddess"
+subtitle:
+author: amber-d-sistla
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-05-03 12:01:00 -0500
 permalink: /issue23/chapter/nobodys-goddess/
+audiourl:
 teaser: "Benjamin scrolled through the Book's table of contents; the little tablet contained every sanctioned story that had ever been recorded in the Zianon Empire."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -110,7 +137,3 @@ Benjamin couldn't stop smiling. "And you did it for reasons that won't be disclo
 The god nodded. "I predicted as much."
 
 Benjamin allowed the god to guide him to the door. Just before exiting, he knelt and wedged the small book between the wall and a humming piece of hardware. He didn't need to pick out a story for the goddess; his daughter would make her own story.
-
-#### About the Author
-
-Amber D. Sistla was born in Oklahoma and now lives in the Pacific Northwest. She has a degree in computer science and has six U.S. and E.U. patents. Her fiction has appeared in Nature, Jim Baen's Universe, Postcripts, Cosmos, Bull Spec, and Daily Science Fiction. She is an active member of the Science Fiction & Fantasy Writers of America. To find out more about her fiction go to [ambersistla.com](http://www.ambersistla.com/).

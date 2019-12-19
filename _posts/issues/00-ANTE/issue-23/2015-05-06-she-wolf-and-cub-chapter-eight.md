@@ -1,16 +1,38 @@
 ---
 layout: story
-title:  "Agent Warfare"
-author: Lilith Saintcrow
-date:   2015-05-06 12:01:00 -0500
 category: serial
+issue: 23, May 2015
+issue-cover: issue-23-cover.png
+issue-buy-link:
+title: Agent Warfare
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-05-06 12:01:00 -0500
+permalink: /issue23/chapter/she-wolf-and-cub-chapter-eight/
+audiourl:
+teaser: "Coming up from a numbpatch is always the same."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 8
 previous-url: /issue22/chapter/she-wolf-and-cub-chapter-seven/
 next-url: /issue24/chapter/she-wolf-and-cub-chapter-nine/
-permalink: /issue23/chapter/she-wolf-and-cub-chapter-eight/
-teaser: "Coming up from a numbpatch is always the same."
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -293,9 +315,3 @@ I pointed my fourpad north, and Geoff's followed.
 Two hours later, we plunged into the night under the Vines, lit only by faint fungal phosphorescence. The fourpads didn't like it, and neither did I.
 
 We went anyway.
-
-Jump to: [Chapter Nine](/issue24/chapter/she-wolf-and-cub-chapter-nine/)
-
-#### About the Author
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).
