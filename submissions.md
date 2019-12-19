@@ -4,11 +4,21 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently closed to submissions. <!--Please read the following guidelines, then use the form below to submit your work.--> During our submissions periods, there will be a form for uploading your submission on this page.
+Fireside is currently closed to submissions. During our submissions periods, there will be a form for uploading your submission on this page.
 
-Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. We will be open to submissions for short stories during the following periods:
+Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following periods: <!--We have no upcoming submissions dates announced for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.-->
 
-- Submissions for the Autumn 2020 issue of _Fireside Quarterly_, edited by Maurice Broaddus, will be open from **December 2, 2019 at 9am EST** to **December 6, 2019 at 6pm EST**
+- **April 13, 2020 to May 8, 2020**<br/>Submissions period for the Winter 2021 Issue
+
+- **June 15, 2020 to June 19, 2020**<br/>Submissions period for the Spring 2021 Issue
+
+- **August 23, 2020 to August 27, 2020**<br/>Submissions period for the Summer 2021 Issue
+
+- **November 30, 2020 to December 4, 2020**<br/>Submissions period for the Summer 2021 Issue
+
+---
+
+# Guidelines
 
 We welcome previously unpublished work ('published' includes work posted on Patreon or on a blog) in English or Spanish from all writers, and we are especially interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
 
@@ -22,7 +32,7 @@ Below you will find our submissions guidelines for:
 If you have any questions about how to submit please email us at: [questions@firesidefiction.com](mailto:questions@firesidefiction.com).
 
 ### Accessibility
-We use an online form to gather submissions, but we understand that this may not be universally accessible to disabled people. If you have questions related to accessibility, please email us at [questions@firesidefiction.com with the subject line: Accessibility Query](mailto:questions@firesidefiction.com?subject:Accessibility Query). Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
+We use an online form to gather submissions, but we understand that this may not be universally accessible to disabled people. If you have questions related to accessibility, please email us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com?subject:Accessibility Query) with the subject line: Accessibility Query. Accessibility Queries should only contain a request to submit by alternate means, and not be a submission.
 
 Any submissions sent via email will be deleted unread.
 
@@ -42,8 +52,8 @@ We accept short stories up to 3,000 words. Our budget allows us to pay for up to
 - Submissions from anywhere in the world, from all kinds of voices.
 - Double spaced Docx or RTF files set in a 14 point serif font like Times New Roman.
 - Cover letters are optional, but they are great places to tell us about your connection the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
-- Only one story — no multiple submissions.
-- Simultaneous submissions are okay for stories, but we ask that you please withdraw immediately if you take another offer.
+- Only one story per author — no multiple submissions.
+- Sending your story to other venues (simultaneous submissions) is okay, but we ask that you please withdraw immediately if you take another offer by emailing [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com).
 
 ### Please don’t send us:
 - Stories that promote fascism, racism, sexism, homophobia, ableism, etc.
@@ -53,11 +63,11 @@ We accept short stories up to 3,000 words. Our budget allows us to pay for up to
 - Stories that use intellectual property that is under copyright (we enjoy fanfic, but we don't publish it).
 
 ### What to expect from us:
-- Fireside acquires first-world English and/or Spanish language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
+- Fireside acquires English language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
 - First responses (either a rejection or a second round notice) within approximately one month of the end of our reading period.
 - Payment of 12.5 cents per word
 
-<!-- <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrmS8Fv2ad8wsL4j?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="1213" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
+<!--iframe class="airtable-embed" src="https://airtable.com/embed/shrm9Os6jrihbx9yh?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="1750" style="background: transparent; border: 1px solid #ccc;"></iframe-->
 
 ----
 

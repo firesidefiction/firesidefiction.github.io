@@ -178,6 +178,9 @@ permalink: /authors
 ### Tina Connolly
 — [_Queen Aster, Who Dances_](/queen-aster-who-dances)
 
+### C. S. E. Cooney
+— [_For Mrs. Q_](/for-mrs-q)
+
 ### Patricia Coral
 — [_Baterías_](/baterias)
 
@@ -341,6 +344,9 @@ permalink: /authors
 
 ### Thord D. Hedengren
 — [_My Name is Ronald by the Way_](/issue20/chapter/my-name-is-ronald-by-the-way/)
+
+### Amanda Helms
+— [_I Send My Tower Walking_](/i-send-my-tower-walking)
 
 ### Carlos Hernandez
 — [_Geppetto_](/geppetto)
@@ -611,6 +617,8 @@ permalink: /authors
 ### Brandon O’Brien
 — [_Getting Men Off Ledges_](/getting-men-off-ledges)
 
+— [_Getting Out of the Cold: Revisiting Toxic Masculinity in _Lethal Weapon__](/getting-out-of-the-cold-revisiting-toxic-masculinity-in-lethal-weapon)
+
 — [_Due By the End of the Week_](/due-by-the-end-of-the-week)
 
 ### Sandra M. Odell
@@ -658,6 +666,9 @@ permalink: /authors
 
 ### Andrea Phillips
 — [_Revision_](/issue22/chapter/revision/)
+
+### Dominica Phetteplace
+— [_There Is No Beauty Without Resistance_](/there-is-no-beauty-without-resistance)
 
 — [_Children of Rouwen_](/issue23/chapter/children-of-rouwen/)
 
@@ -859,6 +870,9 @@ permalink: /authors
 
 ### José González Vargas
 — [_Chiripas_](/chiripas)
+
+### Eliza Victoria
+— [_Where You Are Now Is Better than Where You Were Before_](/where-you-are-now-is-better-than-where-you-were-before)
 
 ### Grace Villmow
 — [_Saving the World, Saving Ourselves: The Role of Justice in the Enviromentalist Movement_](/saving-the-world-saving-ourselves-the-role-of-justice-in-the-environmentalist-movement)

@@ -32,7 +32,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
+future: false
 source:       .
 destination:  ./docs
 # plugins_dir:  _plugins

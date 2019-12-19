@@ -11,7 +11,7 @@ audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-19-Questions
 narrator: C. S. E. Cooney
 published: true
 teaser: "you call yourself caribbean?  your skin’s too light, your name too asian  you did not know the island life"
-author-img:
+author-img: ashley-deng.jpg
 author-bio: |
   **Ashley Deng** is a Canadian-born Chinese-Jamaican writer with a love of fantasy and all things Gothic. Currently working through a degree in biochemistry, she spends her spare time overthinking genre fiction and writing.
 proofread: true

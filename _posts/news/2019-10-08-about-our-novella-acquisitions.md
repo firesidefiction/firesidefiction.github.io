@@ -3,7 +3,7 @@ layout: post
 title: "About our Acquisitions"
 author: Pablo Defendini
 date: 2019-10-08 01:00:01 -0500
-category: news
+category: update
 permalink: about-our-acquisitions
 published: true
 teaser: "On Monday morning, I sent out messages reverting the rights on five unpublished and unannounced manuscripts that we acquired last year during our novel and novella acquisitions period.  In the last day or so there’s been lots of rumor and speculation, so I wanted to explain what’s going on directly."
