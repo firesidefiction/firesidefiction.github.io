@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Better Girls From Broken Parts"
-author: Nino Cipri
-date:   2014-11-04 12:01:00 -0500
 category: short story
+issue: 16, October 2014
+issue-cover: issue-16-cover.png
+issue-buy-link:
+title: Better Girls From Broken Parts
+subtitle:
+author: nino-cipri
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-11-04 12:01:00 -0500
 permalink: /issue17/chapter/better-girls-from-broken-parts/
+audiourl:
 teaser: "Rachel and Jasmine stared warily at each other while their mothers went through the long process of two grown-ups greeting each other."
-published: true
 art: better-girls-from-broken-parts.jpg
-caption: Illustration for Better Girls From Broken Parts
-artist: Galen Dara
+artcaption: Illustration for Better Girls From Broken Parts
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Rachel and Jasmine stared warily at each other while their mothers went through the long process of two grown-ups greeting each other. _It's been so long! Let me get your bags. Let me get your coat. Sit down, May, you look exhausted. How was the trip? The girl at the gas station said what? Girl, remember that time when—_
@@ -207,7 +231,3 @@ On the way out the door, she paused. She could hear a soft, irregular moaning, l
 "Do you hear that?" she asked. The sound gave her goosebumps, like nails on a chalkboard.
 
 "It's probably nothing," said Rachel, blinking again. "I'm sure it'll quiet down eventually."
-
-#### About the Author
-
-[Nino Cipri](https://ninocipri.com/) is a queer and nonbinary/trans writer. A multidisciplinary artist, Nino has written fiction, essays, reviews, plays, comics, zines, and many rabble-rousing emails. They've also performed as a dancer, actor, and puppeteer. One time, an angry person on the internet called Nino a verbal terrorist, which was pretty cool.

@@ -4,7 +4,7 @@ category: serial
 issue: 16, October 2014
 issue-cover: issue-16-cover.png
 issue-buy-link:
-title: She Wolf and Cub: Prologue
+title: She Wolf and Cub Prologue
 subtitle:
 author: lilith-saintcrow
 author-2:
