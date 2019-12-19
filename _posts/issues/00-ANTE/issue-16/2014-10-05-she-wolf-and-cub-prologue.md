@@ -1,20 +1,39 @@
 ---
 layout: story
-title:  "She Wolf and Cub: Prologue"
-author: Lilith Saintcrow
-date:   2014-10-05 12:01:00 -0500
 category: serial
+issue: 16, October 2014
+issue-cover: issue-16-cover.png
+issue-buy-link:
+title: She Wolf and Cub: Prologue
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-10-05 12:01:00 -0500
+permalink: /issue16/chapter/she-wolf-and-cub-prologue/
+audiourl:
+teaser: "The bar was dim, full of fauxsmoke. Modern ersatz cigs don't kill you like the old ones, and synthetic liquor doesn't bite either."
+art: maternal-type.jpg
+artcaption: Illustration for Maternal Type
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
-part:
+part: 0
 previous-url: /book/she-wolf-and-cub
 next-url: /issue16/chapter/she-wolf-and-cub-chapter-one/
-permalink: /issue16/chapter/she-wolf-and-cub-prologue/
-teaser: "The bar was dim, full of fauxsmoke. Modern ersatz cigs don't kill you like the old ones, and synthetic liquor doesn't bite either."
+contentnote:
+generalnote:
 published: true
-art: maternal-type.jpg
-caption: Illustration for Maternal Type
-artist: Galen Dara
 ---
 
 The bar was dim, full of fauxsmoke. Modern ersatz cigs don't kill you like the old ones, and synthetic liquor doesn't bite either. Cushioned, to keep warmbodies from hurting themselves.
@@ -455,10 +474,4 @@ Bright white light, the cold, and the hideous cramping only lasted an hour. Eigh
 
 He didn't take his hand away. I didn't take mine away either.
 
-"We've got a long way to go," I told him, and held his fingers as the train slid through the City's walls.  
-
-Jump to: [Chapter One](/issue16/chapter/she-wolf-and-cub-chapter-one/)
-
-#### About the Author
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).
+"We've got a long way to go," I told him, and held his fingers as the train slid through the City's walls.

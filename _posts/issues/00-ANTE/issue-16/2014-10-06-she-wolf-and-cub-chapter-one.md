@@ -1,20 +1,39 @@
 ---
 layout: story
-title:  "Sealed Train"
-author: Lilith Saintcrow
-date:   2014-10-06 12:01:00 -0500
 category: serial
+issue: 16, October 2014
+issue-cover: issue-16-cover.png
+issue-buy-link:
+title: Sealed Train
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-10-06 12:01:00 -0500
+permalink: /issue16/chapter/she-wolf-and-cub-chapter-one/
+audiourl:
+teaser: "I thought derailing — or just plain getting off — a sealed train in the middle of the Waste would be difficult, but not impossible."
+art: she-wolf-and-cub-chapter-one.jpg
+caption: Illustration for She Wolf and Cub Chapter One
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 1
 previous-url: /issue16/chapter/she-wolf-and-cub-prologue/
 next-url: /issue17/chapter/she-wolf-and-cub-chapter-two/
-permalink: /issue16/chapter/she-wolf-and-cub-chapter-one/
-teaser: "I thought derailing — or just plain getting off — a sealed train in the middle of the Waste would be difficult, but not impossible."
+contentnote:
+generalnote:
 published: true
-art: she-wolf-and-cub-chapter-one.jpg
-caption: Illustration for She Wolf and Cub Chapter One
-artist: Galen Dara
 ---
 
 
