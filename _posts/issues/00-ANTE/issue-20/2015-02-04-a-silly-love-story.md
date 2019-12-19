@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "A Silly Love Story"
-author: Nino Cipri
-date:   2015-02-04 12:01:00 -0500
 category: short story
+issue: 20, February 2015
+issue-cover: issue-20-cover.png
+issue-buy-link:
+title: A Silly Love Story
+subtitle:
+author: nino-cipri
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-02-04 12:01:00 -0500
 permalink: /issue20/chapter/a-silly-love-story/
+audiourl:
 teaser: "There is something haunting Jeremy's closet."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -282,7 +309,3 @@ Merion laughs deep in his chest, happy.
 In Jeremy's closet, the poltergeist pauses while pulling a shirt off its hanger. Something catches its attention, and it drifts out of the confines of the closet. It ignores the two figures sharing a single chair, pressed chest to chest, mouth to mouth; if one of them is a monster, the poltergeist doesn't care. It picks up the apricot pit from the saucer, examines the scrap of pink flesh clinging to it. It feels like a raw bone, the violent remainder of something that was torn away, chewed up, devoured.
 
 The poltergeist hovers near Jeremy and Merion like a distant ending, ignored but insistent in its presence.
-
-#### About the Author
-
-[Nino Cipri](https://ninocipri.com/) is a queer and nonbinary/trans writer. A multidisciplinary artist, Nino has written fiction, essays, reviews, plays, comics, zines, and many rabble-rousing emails. They've also performed as a dancer, actor, and puppeteer. One time, an angry person on the internet called Nino a verbal terrorist, which was pretty cool.

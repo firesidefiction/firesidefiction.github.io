@@ -1,16 +1,38 @@
 ---
 layout: story
-title:  "Night Moves"
-author: Lilith Saintcrow
-date:   2015-02-06 12:01:00 -0500
 category: serial
+issue: 20, February 2015
+issue-cover: issue-20-cover.png
+issue-buy-link:
+title: Night Moves
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-02-06 12:01:00 -0500
+permalink: /issue20/chapter/she-wolf-and-cub-chapter-five/
+audiourl:
+teaser: "Stars, those faraway nuclear fires you never see through a city's statveiling, glittered on velvet blackness."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 5
 previous-url: /issue19/chapter/she-wolf-and-cub-chapter-four/
 next-url: /issue21/chapter/she-wolf-and-cub-chapter-six/
-permalink: /issue20/chapter/she-wolf-and-cub-chapter-five/
-teaser: "Stars, those faraway nuclear fires you never see through a city's statveiling, glittered on velvet blackness."
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -427,9 +449,3 @@ There was the sleeping-roll, the light blanket. The packs he liked to rest his b
 "Geoff?" Even as I said it, I knew he wasn't eliminating in the back of the cave, or curled in a dark corner.
 
 He was, quite simply, gone.
-
-Jump to: [Chapter Six](/issue21/chapter/she-wolf-and-cub-chapter-six/)
-
-#### About the Author
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).
