@@ -1,18 +1,40 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part Ten"
-author: Chuck Wendig
-date:   2014-05-05 12:01:00 -0500
 category: serial
+issue: 13, May 2014
+issue-cover: issue-13-cover.png
+issue-buy-link:
+title: Undertow
+subtitle:
+author: chuck-wendig
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: 
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-05-05 12:01:00 -0500
 permalink: /issue13/chapter/the-forever-endeavor-part-ten/
+audiourl:
 teaser: "Dale presses the button."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Forever Endeavor
+serial-url: /issue4/chapter/the-forever-endeavor-part-one/
+part: 10
+previous-url: /issue12/chapter/the-forever-endeavor-part-nine/
+next-url: /issue14/chapter/the-forever-endeavor-part-eleven/
+contentnote:
+generalnote:
 published: true
 ---
-
-Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Nine]({{ site.url}}/issue12/chapter/the-forever-endeavor-part-nine/)
-
-
-
 ## 41. UNDERTOW
 
 ### Surf City, Long Beach Island, New Jersey: July 12th, 2011.
@@ -282,9 +304,3 @@ Dale retracts his hand, as if Walter might be able to snap the chains of the han
 "Dale, wait—"
 
 But Dale ignores Walter's pleas as he drags the bodies, one by one, out the front door of his house.
-
-Jump to: [Part Eleven]({{ site.url}}/issue14/chapter/the-forever-endeavor-part-eleven/)
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.

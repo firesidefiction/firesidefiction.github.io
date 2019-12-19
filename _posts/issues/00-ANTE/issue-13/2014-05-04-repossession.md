@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Repossession"
-author: Jonas David
-date:   2014-05-04 12:01:00 -0500
 category: short story
+issue: 13, May 2014
+issue-cover: issue-13-cover.png
+issue-buy-link:
+title: Repossession
+subtitle:
+author: jonas-david
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-05-04 12:01:00 -0500
 permalink: /issue13/chapter/reposession/
+audiourl:
 teaser: "The echo of Marco's footsteps mixed with the pattering of the rain as he stepped off the main road and into the alleyway."
+art: repossession
+artcaption: Illustration for Repossession
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
-art: repossession.jpg
-caption: Illustration for Repossession
-artist: Galen Dara
 ---
 
 The echo of Marco's footsteps mixed with the pattering of the rain as he stepped off the main road and into the alleyway. It seemed like it hadn't stopped raining since she left.
@@ -197,7 +221,3 @@ He'd survived.
 He survived.
 
 The rain came down harder.
-
-#### About the Author
-
-Jonas David is a science fiction writer born and raised and living in the Seattle area. His stories have appeared in Comets and Criminals, Daily Science Fiction, IGMS and others. Additional writing and info can be found at [jonas-david.com](http://jonas-david.com), and you can follow him on Twitter [@thejonasdavid](http://twitter.com/thejonasdavid).

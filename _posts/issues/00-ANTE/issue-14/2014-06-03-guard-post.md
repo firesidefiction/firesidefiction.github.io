@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Guard Post"
-author: Paul O'Donohoe
-date:   2014-06-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 14, June 2014
+issue-cover: issue-14-cover.png
+issue-buy-link:
+title: Guard Post
+subtitle:
+author: paul-odonohoe
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-06-03 12:01:00 -0500
 permalink: /issue14/chapter/guard-post/
+audiourl:
 teaser: "It took a minute to notice over the constant sound of moving water in this place, but it was definitely snoring."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -56,7 +83,3 @@ Silence.
 "Right. I told them to give me a crossbow. And now some sod's only gone and opened Slagarth's Gate. Well, Old Bill ain't taking the blame for that; Old Bill told them they needed to sort out this maze; Old Bill told them some smart arse would come waltzing along and unleash the Angels. Well, Old Bill was right, and that's just what I'll tell them when they bring Old Bill's dinner."
 
 And with that he crossed his arms and settled in to await the arrival of his masters, or the Angels from beyond the gate, who-so-ever arrived first.
-
-#### About the Author
-
-Fleeing the pungent Irish stew of vague religious guilt and alcohol, Paul moved to London where the stew just got more foreign and complicated. He spends his days alternately bemused and astounded by the world at large, and writing is a doomed effort to put words to the visions that gnaw at the ragged edges of his mind. This is Paul's first published piece and he fully expects to be dining out on it for the rest of his days.

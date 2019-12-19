@@ -1,15 +1,40 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part Eleven"
-author: Chuck Wendig
-date:   2014-06-05 12:01:00 -0500
 category: serial
+issue: 14, June 2014
+issue-cover: issue-14-cover.png
+issue-buy-link:
+title: Mistakes Were Made
+subtitle: chuck-wendig
+author:
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-06-05 12:01:00 -0500
 permalink: /issue14/chapter/the-forever-endeavor-part-eleven/
+audiourl:
 teaser: "It's midnight and Dale stands on the beach in bare feet, wet sand sucking at his toes."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Forever Endeavor
+serial-url: /issue4/chapter/the-forever-endeavor-part-one/
+part: 11
+previous-url: /issue13/chapter/the-forever-endeavor-part-ten/
+next-url: /issue15/chapter/the-forever-endeavor-part-twelve/
+contentnote:
+generalnote:
 published: true
 ---
-
-Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Ten](/issue13/chapter/the-forever-endeavor-part-ten/)
 
 ## 45. MISTAKES WERE MADE
 
@@ -400,11 +425,3 @@ They shake hands. Bard shrugs.
 "What's your plan now?" Bard asks.
 
 "I guess we do what we're by now good at doing." Dale Prime lifts his eyebrows and sighs. "We get rid of some bodies. After that, who knows?"
-
-
-
-Jump to: [Part Twelve](/issue15/chapter/the-forever-endeavor-part-twelve/)
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.

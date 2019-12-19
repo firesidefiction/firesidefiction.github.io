@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Silver Hill Hotel"
-author: David Alex Shepherd
-date:   2014-06-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 14, June 2014
+issue-cover: issue-14-cover.png
+issue-buy-link:
+title: Silver Hill Hotel
+subtitle:
+author: david-alex-shepherd
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: 
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-06-02 12:01:00 -0500
 permalink: /issue14/chapter/silver-hill-hotel/
+audiourl:
 teaser: "Silver Hill Hotel, Pine County, Nevada. Erected late 1800s, one of the oldest hotels operating in America."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -200,7 +227,3 @@ I'll be here.
 Darkness doesn't hide sound.
 
 If noise wakes the dead, I dare not whisper.
-
-#### About the Author
-
-David Alex Shepherd resides somewhere in the Canadian Rockies. When he's not writing, you can find him hiking through the mountains, sleeping in haunted hotels, or planning adventures. Rumored to own a death ray. Check him out at davidalexshepherd.com, or on Twitter at @DvShepherd.
