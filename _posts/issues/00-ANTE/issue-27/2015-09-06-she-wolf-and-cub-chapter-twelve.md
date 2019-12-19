@@ -1,16 +1,38 @@
 ---
 layout: story
-title:  "Who Owns You Now?"
-author: Lilith Saintcrow
-date:   2015-09-06 12:01:00 -0500
 category: serial
+issue: 27, September 2015
+issue-cover: issue-27-cover.png
+issue-buy-link:
+title: "Who Owns You Now?"
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-09-06 12:01:00 -0500
+permalink: /issue27/chapter/she-wolf-and-cub-chapter-twelve/
+audiourl:
+teaser: "Fading bitterness coating the tongue."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 12
 previous-url: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
 next-url: /issue27/chapter/she-wolf-and-cub-chapter-thirteen/
-permalink: /issue27/chapter/she-wolf-and-cub-chapter-twelve/
-teaser: "Fading bitterness coating the tongue."
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -411,9 +433,3 @@ Sure I did.
 But I could wait until my kid was grown. By then, I might even have some sort of plan.
 
 With a grateful sigh, I cycled down.
-
-Jump to: [Coda](/issue27/chapter/she-wolf-and-cub-chapter-thirteen/)
-
-#### About the Author
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).

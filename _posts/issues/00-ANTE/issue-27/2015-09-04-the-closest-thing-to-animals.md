@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "The Closest Thing to Animals"
-author: Sofia Samatar
-date:   2015-09-04 12:01:00 -0500
 category: short story
+issue: 27, September 2015
+issue-cover: issue-27-cover.png
+issue-buy-link:
+title: The Closest Thing to Animals
+subtitle:
+author: sofia-samatar
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-09-04 12:01:00 -0500
 permalink: /issue27/chapter/the-closest-thing-to-animals/
+audiourl:
 teaser: "I have a habit of meeting people right before they get famous and don't need me anymore."
-published: true
 art: the-closest-thing-to-animals.jpg
-caption: Illustration for The Closest Thing to Animals
-artist: Galen Dara
+artcaption: Illustration for The Closest Thing to Animals
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 I have a habit of meeting people right before they get famous and don't need me anymore. I met Rock Morris two weeks before his book came out. I met Cindy Vea when she worked at the bakery. Her hair straggled out of her ponytail and neither of us would have guessed you could even be a full-time blogger. Six months later, I emailed Cindy to remind her about the panel we were putting together for the Conference on Negative Realism. She never wrote back. I met Nadia Barsoum the year before she started growing peppers. She kept saying her knee hurt. We thought it was the fog.
@@ -363,7 +387,3 @@ I crossed the room, took off my shoes and got under the quilt opposite Hodan. Ca
 "I feel like there's a magnetic field in here," I said. "I'm still falling, but more slowly."
 
 On the quilt there were elephants and bees and whales. There were people fleeing their country and a dead woman by the side of a road and a little boy vomiting in the back of a truck. There were terrible crowded apartments and policemen banging the doors with their guns and a cat in a noose hanging from a mango tree. There were trees and trees and girls as slender as trees lined up to draw water in dusty camps. There were lonely taxi drivers chewing qaat in the snow. There were bats and bleeding lizards and whales expiring on the sand, the brief lovely grotesque menagerie of our childhood. I snuggled down into it. Soon I was lying curled around Hodan's feet. I drew the quilt over my head and went to sleep.
-
-#### About the Author
-
-Sofia Samatar is the author of the novels _A Stranger in Olondria_ and _The Winged Histories_, and the short story collection, _Tender_. She is the recipient of the Crawford Award, the British Fantasy Award, the World Fantasy Award, and the John W. Campbell Award. Find out more at [sofiasamatar.com](http://sofiasamatar.com).
