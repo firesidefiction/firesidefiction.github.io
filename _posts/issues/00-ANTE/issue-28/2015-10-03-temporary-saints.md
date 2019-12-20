@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Temporary Saints"
-author: JY Yang
-date:   2015-10-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 28, October 2015
+issue-cover: issue-28-cover.png
+issue-buy-link:
+title: Temporary Saints
+subtitle:
+author: j-y-yang
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-10-03 12:01:00 -0500
 permalink: /issue28/chapter/temporary-saints/
+audiourl:
 teaser: "I hate it when it's kids."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -34,7 +61,3 @@ Somedays I wonder about burning it all down — this workroom reeking of preserv
 It's things like that which get me out of bed in the morning, when I can feel the creep of bony protrusions spreading further across my skin, when I can feel the phantom fire ravaging my insides. I still get up and go. Because the saints need me. And I will continue getting up and going until I cannot anymore.
 
 Lilith looks perfect now, a job well done. I draw the sheet over her and wait for the next saint to come in.
-
-#### About the Author
-
-JY Yang is a queer Chinese Singaporean woman cheerfully destroying SFF, one story at a time. Her fiction has been published in Strange Horizons, Clarkesworld, Apex and Lightspeed, among other excellent venues. A graduate of the Clarion West class of 2013, she is currently pursing a masters' degree in creative writing at the University of East Anglia in Norwich. Find her on Twitter at [@halleluyang](https://twitter.com/halleluyang) and at [jyyang@misshallelujah.net](http://www.misshallelujah.net/).
