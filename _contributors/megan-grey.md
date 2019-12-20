@@ -3,7 +3,7 @@ layout: contributor-profile
 credit-name: Megan Grey
 first-name: Megan
 last-name: Grey
-file-as: s
+file-as: g
 role: author
 role-2:
 role-3:
