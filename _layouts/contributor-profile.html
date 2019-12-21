@@ -4,9 +4,11 @@ layout: default
 
 <section class="contributor-profile">
 <div class="contributor-info">
+    {% if page.profile-pic %}
     <figure>
       <img class="" src="/images/contributors/{{ page.profile-pic }}" alt="{{ page.credit-name }}">
     </figure>
+    {% endif %}
     <div>
       <p class="label">Contributor profile</p>
       <h1>{{ page.credit-name }}</h1>
