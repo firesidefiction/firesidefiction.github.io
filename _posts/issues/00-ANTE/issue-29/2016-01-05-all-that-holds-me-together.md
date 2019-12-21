@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "All That Holds Me Together"
-author: A. K. Snyder
-date:   2016-01-05 12:01:00 -0500
 category: short story
+issue: 29, January 2016
+issue-cover: issue-29-cover.png
+issue-buy-link:
+title: All That Holds Me Together
+subtitle:
+author: a-k-snyder
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-01-05 12:01:00 -0500
 permalink: /issue29/chapter/all-that-holds-me-together/
+audiourl:
 teaser: "I want a wound, I say. The tattooist looks at me, his eyes clear of judgement. He waits."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -160,7 +187,3 @@ I flash to the first appointment and the comfort I felt with Marc. Now he's done
 ----
 
 It's been eight years since my first visit to the parlor. I added a couple of vines and a single flower bud to my skin, but those are minor embellishments to the stronger design. When I look in the mirror, I see all that holds me together. I see the pieces that fit, some seamlessly, some a little forced, but now blended with the years. A dragon tail wraps around my side. A reaching branch curls up toward my throat. Most people never see anything but the tip of that branch. A few people are aware there is a darker display under my clothes. Even fewer have seen it. But those who have seen my full illustration are like Marc. They look me in the eye, they hug me close, and they don't flinch at the wound or its varying bandages. They see me, inside and out, and I value them for it.
-
-#### About the Author
-
-A. K. Snyder lives in Tampa, Florida. She is the Innovation Developer for The CE Shop by day, and a writing, kayaking, local explorer on the weekends. You're most likely to spot her walking her overweight beagle around the neighborhood while chuckling to an audiobook. Learn more at her website [alyceaksnyder.com](http://alyceaksnyder.com) or find her on [Pinterest](http://www.pinterest.com/alyceaksnyder).

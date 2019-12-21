@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 28, October 2015
-issue-cover: issue-28-cover.png
+issue: 29, January 2016
+issue-cover: issue-29-cover.png
 issue-buy-link:
 title:
 subtitle:

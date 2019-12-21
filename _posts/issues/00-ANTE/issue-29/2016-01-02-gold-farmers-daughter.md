@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Gold Farmer’s Daughter"
-author: Aidan Doyle
-date:   2016-01-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 29, January 2016
+issue-cover: issue-29-cover.png
+issue-buy-link:
+title: Gold Farmer’s Daughter
+subtitle:
+author: aidan-doyle
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-01-02 12:01:00 -0500
 permalink: /issue29/chapter/gold-farmers-daughter/
+audiourl:
 teaser: "Mei's contract specified she would only get paid if both the bride and groom, along with at least fifty percent of the guests, survived the wedding."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -70,7 +97,3 @@ Mei turned to stare at her mother. "Mom! How could you?"
 "You don't get to level 574 without the occasional betrayal," her mom replied. "But don't worry, you can't buy this kind of publicity, sweetheart. Everyone will want to have a wedding as famous as this one is going to be."
 
 The wounded dinosaur limped toward the panic room. "Make yourself useful and find a priest that isn't dead. There's a prince in need of marrying."
-
-#### About the Author
-
-Aidan Doyle is an Australian writer and computer programmer. He has visited more than 90 countries, and his experiences include teaching English in Japan, interviewing ninjas in Bolivia, and going ten-pin bowling in North Korea. Find him online at [aidandoyle.net]( http://www.aidandoyle.net)and [@aidan_doyle](https://twitter.com/@aidan_doyle).
