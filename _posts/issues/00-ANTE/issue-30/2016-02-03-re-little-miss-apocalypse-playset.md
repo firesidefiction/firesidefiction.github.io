@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Re: Little Miss Apocalypse Playset"
-author: Effie Seiberg
-date:   2016-02-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 30, February 2016
+issue-cover: issue-30-cover.png
+issue-buy-link:
+title: "Re: Little Miss Apocalypse Playset"
+subtitle:
+author: effie-seiberg
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-02-03 12:01:00 -0500
 permalink: /issue30/chapter/re-little-miss-apocalypse-playset/
+audiourl:
 teaser: "Hey folks, I know it's a tight squeeze for the manufacturing deadline for the Little Miss Apocalypse playset, but we got new market research results on the pony names."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -186,7 +213,3 @@ We project profit growth of an additional 10x from this product line alone.
 Go team go!
 
 -Paul
-
-#### About the Author
-
-Effie Seiberg is a fantasy and science fiction writer. Her stories can be found in the "Women Destroy Science Fiction!" special edition of Lightspeed Magazine (winner of the 2015 British Fantasy Award for Best Anthology), Galaxy's Edge, Analog, and PodCastle, amongst others. She is a graduate of Taos Toolbox 2013, a member of Codex, and a reader at Tor.com. Effie lives in San Francisco, recently and upcoming (but not presently) near a giant sculpture of a pink bunny head with a skull in its mouth. She likes to make sculpted cakes and bad puns. Find her online at [effieseiberg.com](http://www.effieseiberg.com/) and on Twitter [@effies](https://twitter.com/effies).
