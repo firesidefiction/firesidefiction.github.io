@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 29, January 2016
-issue-cover: issue-29-cover.png
+issue: 31, March 2016
+issue-cover: issue-31-cover.png
 issue-buy-link:
 title:
 subtitle:
