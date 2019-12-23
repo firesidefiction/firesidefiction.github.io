@@ -1,12 +1,38 @@
 ---
 layout: story
-title:  Imagine a World So Forgiving
-author: Margaret Killjoy
-selected: Daniel José Older
-date:   2016-07-03 12:01:00 -0500
 category: short story
+issue: 34, July 2016
+issue-cover: issue-34-cover.png
+issue-buy-link:
+title: Imagine a World So Forgiving
+subtitle:
+author: margaret-killjoy
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector: daniel-jose-older
+translator:
+narrator:
+letterer:
+date: 2016-07-03 12:01:00 -0500
 permalink: /issue34/chapter/imagine-a-world-so-forgiving/
+audiourl:
 teaser: "It was a shitty fucking mission."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -309,7 +335,3 @@ She didn’t see the horn enter her side, but she felt it pierce her skin and su
 Her vision grew dark.
 
 “But still, fuck you.”
-
-#### About the Author
-
-Margaret Killjoy is an author and editor who travels with no fixed home. Margaret’s most recent book is A Country of Ghosts, a utopian novel published by Combustion Books in 2014. They (blog) [birdsbeforethestorm.net] and say things as [@magpiekilljoy] (http://twitter.com/magpiekilljoy) on Twitter.

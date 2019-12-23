@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 33, May 2016
-issue-cover: issue-33-cover.png
+issue: 34, July 2016
+issue-cover: issue-34-cover.png
 issue-buy-link:
 title:
 subtitle:
