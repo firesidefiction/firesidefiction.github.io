@@ -772,7 +772,7 @@ permalink: /authors
 ### Amber D. Sistla
 — [_Nobody's Goddess_](/issue23/chapter/nobodys-goddess/)
 
-### Elsa Sjunneson-Henry
+### Elsa Sjunneson
 — [_A Place Out of Time_](/issue34/chapter/a-place-out-of-time/)
 
 — [_Blind Reading is in Braille or Large Print_](/blind-reading)

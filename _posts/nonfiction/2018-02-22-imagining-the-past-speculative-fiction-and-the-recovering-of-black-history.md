@@ -2,7 +2,7 @@
 layout: post
 title: 'Imagining the Past: Speculative Fiction and the Recovering of Black History'
 author: Phenderson Djèlí Clark
-editor: Elsa Sjunneson-Henry
+editor: Elsa Sjunneson
 date: 2018-02-22 00:00:01 -0500
 category: essay
 permalink: imagining-the-past-speculative-fiction-and-the-recovering-of-black-history

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Emotional Beats of Becoming a Guide Dog Handler
-author: Elsa Sjunneson-Henry
+author: Elsa Sjunneson
 editor: Julia Rios
 date: 2019-11-21 01:00:01 -0500
 category: essay
@@ -12,7 +12,7 @@ published: true
 teaser: "I can barely breathe through the fear that this won’t work. What if I can’t get him to focus consistently?"
 author-img: elsa-sjunneson-henry.jpg
 author-bio: |
-  Elsa Sjunneson-Henry is a deafblind Hugo Award-winning speculative fiction writer and editor with words featured at _Tor.com_, _Uncanny Magazine_, _CNN Opinion_, _The Boston Globe_, and elsewhere. She writes from a dragon lair in New Jersey, with a guide dog nestled at her feet.
+  Elsa Sjunneson is a deafblind Hugo Award-winning speculative fiction writer and editor with words featured at _Tor.com_, _Uncanny Magazine_, _CNN Opinion_, _The Boston Globe_, and elsewhere. She writes from a dragon lair in New Jersey, with a guide dog nestled at her feet.
 proofread: true
 contentnote:
 ---

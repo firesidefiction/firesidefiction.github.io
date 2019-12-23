@@ -2,7 +2,7 @@
 layout: conversation-harassment
 title: "Who Gets to Say #MeToo?"
 author: Ace Ratcliff
-editor: "Elsa Sjunneson-Henry"
+editor: "Elsa Sjunneson"
 date: 2018-08-23 01:00:01 -0500
 category: essay
 permalink: who-gets-to-say-metoo

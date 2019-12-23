@@ -2,7 +2,7 @@
 layout: post
 title: 'Impostor/Abuser: Power Dynamics in Publishing'
 author: Sarah Gailey
-editor: Elsa Sjunneson-Henry
+editor: Elsa Sjunneson
 date: 2019-03-14 01:00:01 -0500
 category: essay
 permalink: impostor-abuser-power-dynamics-in-publishing

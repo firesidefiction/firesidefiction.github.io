@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  A Place Out Of Time
-author: Elsa Sjunneson-Henry
+author: Elsa Sjunneson
 date:   2016-07-04 12:01:00 -0500
 category: short story
 permalink: /issue34/chapter/a-place-out-of-time/
@@ -83,4 +83,4 @@ We keep ourselves safe by remaining out of time.
 
 #### About the Author
 
-Elsa Sjunneson-Henry is a .5 deaf .5 blind writer from Seattle, Washington. She has a Master's Degree in Women's History from Sarah Lawrence College. Her work has appeared at Disability in Kidlit, XOJane, Offbeat Bride, The Women's Media Center blog, and many other places. When not writing, she walks her hound dog on Revolutionary War battlefields with her husband. You can find her in Apex's _Upside Down_ anthology, at her site [Feminist Sonar](http://feministsonar.com), or on Twitter [@snarkbat](https://www.twitter.com/snarkbat).
+Elsa Sjunneson is a .5 deaf .5 blind writer from Seattle, Washington. She has a Master's Degree in Women's History from Sarah Lawrence College. Her work has appeared at Disability in Kidlit, XOJane, Offbeat Bride, The Women's Media Center blog, and many other places. When not writing, she walks her hound dog on Revolutionary War battlefields with her husband. You can find her in Apex's _Upside Down_ anthology, at her site [Feminist Sonar](http://feministsonar.com), or on Twitter [@snarkbat](https://www.twitter.com/snarkbat).

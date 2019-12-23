@@ -2,7 +2,7 @@
 layout: post
 title: You Wake Up Monstrous
 author: Fran Wilde
-editor: Elsa Sjunneson-Henry
+editor: Elsa Sjunneson
 date: 2018-12-20 01:00:01 -0500
 category: essay
 permalink: you-wake-up-monstrous

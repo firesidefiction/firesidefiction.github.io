@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Blind Reading is in Braille or Large Print"
-author: Elsa Sjunneson-Henry
+author: Elsa Sjunneson
 date:   2017-05-18 12:01:00 -0500
 category: essay
 permalink: /blind-reading
@@ -51,4 +51,4 @@ I’m the only one reading blind on this staff, and I’m also the one who can s
 
 #### About the author
 
-Elsa Sjunneson-Henry is the assistant editor of Fireside.
+Elsa Sjunneson is the assistant editor of Fireside.

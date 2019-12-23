@@ -11,7 +11,7 @@ Julia Rios
 Writer, editor, narrator, podcaster, dabbler in paper crafts. Queer, Latinx.
 
 Managing Editor
-Elsa Sjunneson-Henry
+Elsa Sjunneson
 Writer. Disabled, queer. Fancy Cyclops.
 
 Copyeditor
