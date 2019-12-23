@@ -938,7 +938,7 @@ permalink: /authors
 ### Evelyn Wong
 — [_Reaching Beyond_](/reaching-beyond)
 
-### Merc Fenn Wolfmoore
+### Merc Fenn Wolfmoor
 — [_This is Not a Wardrobe Door_](/issue29/chapter/this-is-not-a-wardrobe-door/)
 
 — [_Iron Aria_](/issue34/chapter/iron-aria/)

@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "This is Not a Wardrobe Door"
-author: Merc Fenn Wolfmoore
-date:   2016-01-04 12:01:00 -0500
 category: short story
+issue: 29, January 2016
+issue-cover: issue-29-cover.png
+issue-buy-link:
+title: This is Not a Wardrobe Door
+subtitle:
+author: merc-fenn-wolfmoor
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-01-04 12:01:00 -0500
 permalink: /issue29/chapter/this-is-not-a-wardrobe-door/
+audiourl:
 teaser: "Dear Gatekeeper, Hi my name is Ellie and I'm six years old and my closet door is broken."
-published: true
 art: this-is-not-a-wardrobe-door.jpg
-caption: Illustration for This is Not a Wardrobe Door
-artist: Galen Dara
+artcaption: Illustration for This is Not a Wardrobe Door
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Dear Gatekeeper,
@@ -206,7 +230,10 @@ Zera smiles at her friends. Things will be all right.
 "We have a lot of work to do to repair this place," Zera says. She clasps Ell's hands. "The curse is gone, but we have to fix the doors and wake the sleepers. Are you ready?"
 
 Ell grins and waves her mom and girlfriend to join her. "Yes. Let's do this."
+<<<<<<< HEAD
+=======
 
 #### About the Author
 
-Merc Fenn Wolfmoore is a queer transmasculine non-binary writer who lives in the Midwest United States. Favorite things include: robots, dinosaurs, monsters, and tea. Their stories have appeared or are forthcoming in Lightspeed, Fireside Fiction, Apex, Escape Pod, Shimmer, Cicada, The Best American Science Fiction and Fantasy 2015, and Wilde Stories 2016. Merc likes to play video games, watch movies, read comics, and wear awesome hats. You can find Merc on Twitter [@merc_wolfmoor](https://twitter.com/merc_wolfmoore ) their website [mercfennwolfmoor.com](http://mercfennwolfmoor.com).
+Merc Fenn Wolfmoor is a queer transmasculine non-binary writer who lives in the Midwest United States. Favorite things include: robots, dinosaurs, monsters, and tea. Their stories have appeared or are forthcoming in Lightspeed, Fireside Fiction, Apex, Escape Pod, Shimmer, Cicada, The Best American Science Fiction and Fantasy 2015, and Wilde Stories 2016. Merc likes to play video games, watch movies, read comics, and wear awesome hats. You can find Merc on Twitter [@merc_wolfmoor](https://twitter.com/merc_wolfmoor) their website [mercfennwolfmoor.com](http://mercfennwolfmoor.com).
+>>>>>>> master
