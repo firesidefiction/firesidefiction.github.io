@@ -1,21 +1,39 @@
 ---
 layout: story
-title: Where You Are Now Is Better than Where You Were Before
-author: Eliza Victoria
-editor: Julia Rios
-date: 2019-12-17 01:00:01 -0500
 category: short story
+issue: 74, December 2019
+issue-cover: issue-74-cover.png
+issue-buy-link:
+title: Where You Are Now Is Better than Where You Were Before
+subtitle:
+author:
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: C. S. E. Cooney
+letterer:
+date: 2019-12-17 01:00:01 -0500
 permalink: where-you-are-now-is-better-than-where-you-were-before
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-17-Where_You_Are_Now_Is_Better_Than_Where_You_Were_Before.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "At her first job interview in Sydney for a copywriting job, the hiring manager asks, _I don’t mean to offend, but where did you learn to speak English so well?_"
-author-img:
-author-bio: |
-  Eliza Victoria is the author of several books, including the Philippine National Book Award-winning _Dwellers_ (2014), the novel _Wounded Little Gods_ (2016), the graphic novel _After Lambana_ (2016, a collaboration with artist Mervin Malonzo), and the science fiction novel-in-stories, _Nightfall_ (2018). Her fiction and poetry have appeared in several online and print publications, most recently in _LONTAR: The Journal of Southeast Asian Speculative Fiction_, _The Best Asian Speculative Fiction_, _The Dark Magazine_, Dark Regions Press's _Stranded: Lone Survivor Deserted Island Horror Stories_, and _The Apex Book of World SF Volume 5_.  
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 The office reminded Lily of the quirky, industrial interior of co-working spaces back home in Manila: white brick walls, empty beer crates turned into chairs in the lounge, copywriters pinning paper on clotheslines or writing their ideas on the glass partitions with silver markers (_IDEA – Execution – Execution – Execution_). One of the teams was working on a pitch for a juice company — their “idea clothesline” filled with sketches of oranges — and Evie the art director was holding her head, sighing and saying to anyone within earshot, “This project is giving me a migraine.”
@@ -298,7 +316,7 @@ Andrea said, “You haven’t erased the list.”
 
 The remark had a ring of familiarity to it.
 
-Andrea stared at the whiteboard, looking helpless, hopeless. 
+Andrea stared at the whiteboard, looking helpless, hopeless.
 
 _Do you know what’s important in life?_
 

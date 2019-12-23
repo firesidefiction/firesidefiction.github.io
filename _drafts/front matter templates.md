@@ -1,20 +1,20 @@
 ---
 layout: story
 category: short story
-issue: 36, September 2016
-issue-cover: issue-36-cover.png
+issue: 74, December 2019
+issue-cover: issue-74-cover.png
 issue-buy-link:
 title:
 subtitle:
 author:
 author-2:
 author-3:
-editor: brian-j-white
+editor: julia-rios
 illustrator:
-copyeditor:
+copyeditor: chelle-parker
 selector:
 translator:
-narrator:
+narrator: C. S. E. Cooney
 letterer:
 date:
 permalink:

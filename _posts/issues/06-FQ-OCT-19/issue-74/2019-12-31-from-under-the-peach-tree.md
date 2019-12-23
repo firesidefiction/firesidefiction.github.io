@@ -1,21 +1,39 @@
 ---
 layout: story
-title: From Under the Peach Tree
-author: Kerry Truong
-editor: Julia Rios
-date: 2019-12-31 01:00:01 -0500
 category: short story
+issue: 74, December 2019
+issue-cover: issue-74-cover.png
+issue-buy-link:
+title: From Under the Peach Tree
+subtitle:
+author: kerry-truong
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: C. S. E. Cooney
+letterer:
+date: 2019-12-31 01:00:01 -0500
 permalink: from-under-the-peach-tree
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-31-From_Under_the_Peach_Tree.mp3
-narrator: C. S. E. Cooney
-published: false
 teaser: "They came to her as a sparrow first and made their nest in the peach tree by her cliffside cottage."
-author-img: kerry-truong.jpg
-author-bio: |
-  Kerry Truong is a writer, aspiring chef, and lesbian dog dad. Their genres are diverse, but you can be certain that their fantasy will always have a little bit of romance and their romance a little bit of fantasy. They like watching food videos and daydreaming about what they’ll eat next, which is probably why their stories always feature delicious meals. If you like food, asking “but what if lesbians” every time you watch a TV show, and cute animals, you can follow their ramblings on Twitter as [@ninetalesk](http://www.twitter.com/ninetalesk).
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 All things in this world are reborn, even gods. Ngai, the god of slights, found themself trapped in the wheel of reincarnation, destined to resurrect and die three times before they could once more ascend to godhood: first as a humble sparrow; second as an ill-tempered tortoiseshell cat; and third as a blue whale wandering the ocean for a hundred years. No matter what the form, however, they could not escape Nguyet.

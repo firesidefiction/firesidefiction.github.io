@@ -1,27 +1,39 @@
 ---
 layout: story
-title: There Is No Beauty Without Resistance
-author: Dominica Phetteplace
-editor: Julia Rios
-date: 2019-12-03 01:00:01 -0500
 category: short story
+issue: 74, December 2019
+issue-cover: issue-74-cover.png
+issue-buy-link:
+title: There Is No Beauty Without Resistance
+subtitle:
+author: dominica-phetteplace
+author-2:
+author-3:
+editor: julia-rios
+illustrator: stephanie-singleton
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: C. S. E. Cooney
+letterer:
+date: 2019-12-03 01:00:01 -0500
 permalink: there-is-no-beauty-without-resistance
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-03-There_Is_No_Beauty_Without_Resistance.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "Don’t trust anyone who tries to filter you. Filter yourself. Apply the filter of your choice directly to your face."
 art: there-is-no-beauty-without-resistance.png
-caption: "A woman applies makeup in front of a YouTube overlay."
-artist: Stephanie Singleton
-artist-img: stephanie-singleton.jpg
-artist-bio: |
-  Stephanie Singleton is a freelance illustrator currently based in Toronto, Canada.
-author-img: dominica-phetteplace.jpg
-author-bio: |
-  Dominica Phetteplace is a writer and math tutor. Her work has appeared in _Asimov's Science Fiction_, _Analog Science Fiction and Fact_, _The Magazine of Fantasy & Science Fiction_, _Clarkesworld Magazine_, _Escape Pod_, _Lightspeed Magazine_, and _The Year's Best Science Fiction and Fantasy 2017_.
-proofread: true
+artcaption: "A woman applies makeup in front of a YouTube overlay."
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 In the summer after abortion was outlawed, a lot of us went wild with our makeup. We started wearing thick stripes of dark eyeliner, or we drew teeth on our lips. Blush came in lavenders and pale greens. We started painting ourselves like cute zombies. Open wounds on the face but with splashes of festive glitter all over.
