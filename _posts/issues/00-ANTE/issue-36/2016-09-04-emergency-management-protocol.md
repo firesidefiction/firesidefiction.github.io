@@ -1,16 +1,39 @@
 ---
 layout: story
-title:  Emergency Management Protocol
-author: C. C. S. Ryan
-selected: Daniel José Older
-date:   2016-09-04 12:01:00 -0500
 category: short story
+issue: 36, September 2016
+issue-cover: issue-36-cover.png
+issue-buy-link:
+title: Emergency Management Protocol
+subtitle:
+author: c-c-s-ryan
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector: daniel-jose-older
+translator:
+narrator:
+letterer:
+date: 2016-09-04 12:01:00 -0500
 permalink: /issue36/chapter/emergency-management-protocol/
+audiourl:
 teaser: "You want to see a whole year into the future, kid?"
-published: true
 art: emergency-management-protocol.jpg
-caption: Illustration for Emergency Management Protocol
-artist: Galen Dara
+artcaption: Illustration for Emergency Management Protocol
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 #### *5 Reasons I Have To Break Up With Nia (Zoraida Tun’s journal)*
@@ -401,6 +424,3 @@ The sun will be rising soon, Zory realizes. She gets herself more coffee, but sh
 *8. Super good at her job*
 
 *9. Will look completely badass in one of those Northern fitted winter jumpsuit things*
-
-#### About the Author
-C. C. S. Ryan likes stories in which the princess gets the girl and stories in which the mad scientist looks nothing like what you get when you google the phrase "mad scientist." Or even better, stories that do both at the same time. She keeps sabotaging her never-ending quest to achieve a reasonable ratio of books to bookshelves by buying more books. You can follow her on Twitter at [@wintersweet](https://twitter.com/wintersweet)
