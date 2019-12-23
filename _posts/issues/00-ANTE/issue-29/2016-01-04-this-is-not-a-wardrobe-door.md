@@ -230,3 +230,4 @@ Zera smiles at her friends. Things will be all right.
 "We have a lot of work to do to repair this place," Zera says. She clasps Ell's hands. "The curse is gone, but we have to fix the doors and wake the sleepers. Are you ready?"
 
 Ell grins and waves her mom and girlfriend to join her. "Yes. Let's do this."
+>>>>>>> master

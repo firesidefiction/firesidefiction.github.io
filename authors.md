@@ -728,13 +728,6 @@ permalink: /authors
 ### Robert Lowell Russell
 — [_Twenty Parsecs East of the Earth Bypass, Closed on Sundays_](/issue18/chapter/twenty-parsecs-east-of-the-earth-bypass-closed-on-sundays/)
 
-### A. Merc Rustad
-— [_This is Not a Wardrobe Door_](/issue29/chapter/this-is-not-a-wardrobe-door/)
-
-— [_Iron Aria_](/issue34/chapter/iron-aria/)
-
-— [_Now Watch My Rising_](/now-watch-my-rising)
-
 ### C. C. S. Ryan
 — [_Emergency Management Protocol_](/issue36/chapter/emergency-management-protocol/)
 
@@ -944,6 +937,13 @@ permalink: /authors
 
 ### Evelyn Wong
 — [_Reaching Beyond_](/reaching-beyond)
+
+### Merc Fenn Wolfmoor
+— [_This is Not a Wardrobe Door_](/issue29/chapter/this-is-not-a-wardrobe-door/)
+
+— [_Iron Aria_](/issue34/chapter/iron-aria/)
+
+— [_Now Watch My Rising_](/now-watch-my-rising)
 
 ----
 

@@ -17,6 +17,6 @@ We released the second book of Minerva Zimmerman's snarky 80s vampire trilogy in
 
 On to Issue 29! We have two flash pieces this month: [_Human Resources_](/issue29/chapter/human-resources/) by Erica L. Satifka, which takes us inside a twisted world of haves and have-nots, and [_Gold Farmer's Daughter_](/issue29/chapter/gold-farmers-daughter/) by Aidan Doyle, where we invite you to be a guest at a wedding inside a MMORPG. Hope you brought your sword!
 
-We also have two short stories this month. First up is A. K. Snyder's [_All That Holds Me Together_](/issue29/chapter/all-that-holds-me-together/), an exploration of loss, grief, and tattoos. And there is A. Merc Rustad's [_This is Not a Wardrobe Door_](/issue29/chapter/this-is-not-a-wardrobe-door/), where two worlds have been severed, and with them, a lot of friendships.
+We also have two short stories this month. First up is A. K. Snyder's [_All That Holds Me Together_](/issue29/chapter/all-that-holds-me-together/), an exploration of loss, grief, and tattoos. And there is Merc Fenn Wolfmoor's [_This is Not a Wardrobe Door_](/issue29/chapter/this-is-not-a-wardrobe-door/), where two worlds have been severed, and with them, a lot of friendships.
 
 Thanks as always for supporting Fireside!
