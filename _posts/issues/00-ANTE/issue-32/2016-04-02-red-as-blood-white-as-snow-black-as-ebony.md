@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Red as Blood, White as Snow, Black as Ebony"
-author: Jordan Taylor
-date:   2016-04-02 12:01:00 -0500
 category: short story
+issue: 32, April 2016
+issue-cover: issue-32-cover.png
+issue-buy-link:
+title: Red as Blood, White as Snow, Black as Ebony
+subtitle:
+author: jordan-taylor
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-04-02 12:01:00 -0500
 permalink: /red-as-blood-white-as-snow-black-as-ebony/
+audiourl:
 teaser: "After word of the Snow White incident got around the kingdom, someone made a killing off the invention of spring-loaded glass coffins."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -46,7 +73,3 @@ And now I am standing. It is not easy — my stomach aches and my knees creak. I
 In a moment I will lower my candle. In a moment the other men will do the same. The straw will take first, and then the soft wood of the tables, and the dry walls of the barn. By now we are all, dead and living alike, too slow to escape.
 
 Let us be forgotten.
-
-#### About the Author
-
-Jordan Taylor grew up in a small town in the American South, where she was raised on equal parts Jesus and fairy tales. She currently lives in Brooklyn with her husband, Kenan, and their corgi, Ein, where she spends too much money in bookstores and drinks copious amounts of tea. You can follow her online at [jordanrtaylor.com](http://jordanrtaylor.com/).

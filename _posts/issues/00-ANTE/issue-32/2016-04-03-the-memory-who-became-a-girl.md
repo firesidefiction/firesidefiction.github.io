@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "The Memory Who Became a Girl"
-author: Jennifer Campbell-Hicks
-date:   2016-04-02 12:01:00 -0500
 category: short story
+issue: 32, April 2016
+issue-cover: issue-32-cover.png
+issue-buy-link:
+title: The Memory Who Became a Girl
+subtitle:
+author: jennifer-campbell-hicks
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-04-02 12:01:00 -0500
 permalink: /issue32/chapter/the-memory-who-became-a-girl/
+audiourl:
 teaser: "At one time, people launched the ashes of their loved ones into space."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -328,7 +355,3 @@ This time, they set the other box on the shelf and turned her box to face it. Wh
 When they had left the room, she smiled at Evan. He stared back at her blank-faced, a program interface awaiting a command. It was as the boys had said. That was all right. She had become self-aware. Evan would too. It might take a year or a century, but she was patient. She would awaken him, no matter how long it took, as he had awakened her long ago.
 
 "Hello, Evan," she said. "My name is Angel. Do you remember me?"
-
-#### About the Author
-
-Jennifer Campbell-Hicks is a writer, journalist, wife, mother and lifelong fan of science fiction and fantasy. Her fiction has appeared in Galaxy's Edge, Intergalactic Medicine Show and Daily Science Fiction. She blogs at [jennifercampbellhicks.blogspot.com](http://jennifercampbellhicks.blogspot.com/).
