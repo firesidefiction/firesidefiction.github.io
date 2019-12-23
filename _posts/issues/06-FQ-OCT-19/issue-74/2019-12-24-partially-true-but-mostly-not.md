@@ -8,7 +8,7 @@ category: short story
 permalink: partially-true-but-mostly-not
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-24-Partially_True_But_Mostly_Not.mp3
 narrator: C. S. E. Cooney
-published: false
+published: true
 teaser: "It didn’t hurt as badly as it used to. The idea that no one knew the difference between her and who they wanted her to be."
 author-img: sherin-nicole.jpg
 author-bio: |
