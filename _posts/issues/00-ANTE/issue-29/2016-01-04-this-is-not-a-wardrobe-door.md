@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  "This is Not a Wardrobe Door"
-author: A. Merc Rustad
+author: Merc Fenn Wolfmoore
 date:   2016-01-04 12:01:00 -0500
 category: short story
 permalink: /issue29/chapter/this-is-not-a-wardrobe-door/
@@ -209,4 +209,4 @@ Ell grins and waves her mom and girlfriend to join her. "Yes. Let's do this."
 
 #### About the Author
 
-A. Merc Rustad is a queer transmasculine non-binary writer who lives in the Midwest United States. Favorite things include: robots, dinosaurs, monsters, and tea. Their stories have appeared or are forthcoming in Lightspeed, Fireside Fiction, Apex, Escape Pod, Shimmer, Cicada, The Best American Science Fiction and Fantasy 2015, and Wilde Stories 2016. Merc likes to play video games, watch movies, read comics, and wear awesome hats. You can find Merc on Twitter [@Merc_Rustad](https://twitter.com/merc_rustad ) their website [amercrustad.com](http://amercrustad.com).
+Merc Fenn Wolfmoore is a queer transmasculine non-binary writer who lives in the Midwest United States. Favorite things include: robots, dinosaurs, monsters, and tea. Their stories have appeared or are forthcoming in Lightspeed, Fireside Fiction, Apex, Escape Pod, Shimmer, Cicada, The Best American Science Fiction and Fantasy 2015, and Wilde Stories 2016. Merc likes to play video games, watch movies, read comics, and wear awesome hats. You can find Merc on Twitter [@merc_wolfmoor](https://twitter.com/merc_rustad ) their website [mercfennwolfmoor.com](http://mercfennwolfmoor.com).

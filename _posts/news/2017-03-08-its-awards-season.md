@@ -13,7 +13,7 @@ It's awards season. And that means that it's time for us to bug you, dear reader
 
 So with that in mind, here's a few things to look out for as you fire up your internets to vote and nominate:
 
-If you're a member of SFWA, please vote for A. Merc Rustad's story [_This is Not a Wardrobe Door_](http://firesidefiction.com/issue29/chapter/this-is-not-a-wardrobe-door/) for the Nebula Award. The last day to vote is March 30th.
+If you're a member of SFWA, please vote for Merc Fenn Wolfmoore's story [_This is Not a Wardrobe Door_](http://firesidefiction.com/issue29/chapter/this-is-not-a-wardrobe-door/) for the Nebula Award. The last day to vote is March 30th.
 
 If you're nominating for the Hugos, there are a ton of great resources out there that can help you get a good sense of everything that's eligible for an award this year. Check out [this spreadsheet](http://bit.ly/hugoaward2017), [this wiki](http://hugonoms2017.wikia.com), and [this blog post](http://www.acwise.net/?p=2288) for a great primer.
 
@@ -25,7 +25,7 @@ Fireside Magazine is eligible for the [Best Semiprozine](http://semiprozine.org/
 
 And finally, we have lots of contenders for your nominating pleasure in the Best Short Story category:
 
-[_This is Not a Wardrobe Door_](http://firesidefiction.com/issue29/chapter/this-is-not-a-wardrobe-door/) by A. Merc Rustad
+[_This is Not a Wardrobe Door_](http://firesidefiction.com/issue29/chapter/this-is-not-a-wardrobe-door/) by Merc Fenn Wolfmoore
 
 [_All That Holds Me Together_](http://firesidefiction.com/issue29/chapter/all-that-holds-me-together/) by A. K. Snyder
 
@@ -49,7 +49,7 @@ And finally, we have lots of contenders for your nominating pleasure in the Best
 
 [_If X is a Real Number_](http://firesidefiction.com/issue33/chapter/if-x-is-a-real-number/) by Sofie Bird
 
-[_Iron Aria_](http://firesidefiction.com/issue34/chapter/iron-aria/) by Merc Rustad
+[_Iron Aria_](http://firesidefiction.com/issue34/chapter/iron-aria/) by Merc Fenn Wolfmoore
 
 [_Imagine a World So Forgiving_](http://firesidefiction.com/issue34/chapter/imagine-a-world-so-forgiving/) by Margaret Killjoy
 
