@@ -8,7 +8,7 @@ role: author
 role-2:
 role-3:
 title: Author
-twitter-handle:
+twitter-handle: snarkbat
 profile-pic: elsa-sjunneson.jpg
 website-url:
 short-name: elsa-sjunneson
