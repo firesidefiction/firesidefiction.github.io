@@ -1,12 +1,38 @@
 ---
 layout: story
-title:  If X is a Real Number
-author: Sofie Bird
-date:   2016-05-06 12:01:00 -0500
 category: short story
+issue: 33, May 2016
+issue-cover: issue-33-cover.png
+issue-buy-link:
+title: If X is a Real Number
+subtitle:
+author: sofie-bird
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-05-06 12:01:00 -0500
 permalink: /issue33/chapter/if-x-is-a-real-number/
-teaser: "There is a number on my screen so small it’s just a line of zeroes too long for the ship’s console to display.
-It is our chances of survival."
+audiourl:
+teaser: "There is a number on my screen so small it’s just a line of zeroes too long for the ship’s console to display. It is our chances of survival."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -241,7 +267,3 @@ There’s little over three hours before the core goes — long enough for you t
 I float, arms waving in the space you left. I fill my mind with Mira’s hair, Tas’s laughter, your smile, until I’m a solid tug of longing.
 
 The line of zeroes glare up at me from my console, still too long to display.
-
-#### About the Author
-
-Sofie Bird writes speculative fiction in Melbourne, Australia, and pays the bills as a technical writer, where no one looks at her askance for wanting to know everything. She also programs, weaves, sculpts glass, and maintains a website at [sofiebird.net](http://sofiebird.net). Sofie is a graduate of the Odyssey Writing Workshop, has published poetry in the Australian periodical Blue Dog, and her fiction has appeared in Orson Scott Card’s Intergalactic Medicine Show, and the anthology *Temporally Out Of Order*, by Zombies Need Brains. You can follow her on Twitter [@sofie\_bird](https://twitter.com/@sofie_bird).

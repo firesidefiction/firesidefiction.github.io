@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  The Middle Child's Practical Guide to Surviving a Fairy Tale
-author: Mari Ness
-date:   2016-05-04 12:01:00 -0500
 category: short story
+issue: 33, May 2016
+issue-cover: issue-33-cover.png
+issue-buy-link:
+title: The Middle Child's Practical Guide to Surviving a Fairy Tale
+subtitle:
+author: mari-ness
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-05-04 12:01:00 -0500
 permalink: /issue33/chapter/the-middle-childs-practical-guide-to-surviving-a-fairy-tale/
+audiourl:
 teaser: "It’s happened. Your worst nightmare. A younger, prettier, differently gendered, or completely simpleminded younger sibling has entered your life, right at the moment when it’s become increasingly clear that your mother is not long for this world and you will soon be facing an Evil Stepmother."
-published: true
 art: the-middle-childs-practical-guide-to-surviving-a-fairy-tale.jpg
-caption: Women in fairy tale princess dresses wander a garden with flowers.
-artist: Galen Dara
+artcaption: Women in fairy tale princess dresses wander a garden with flowers.
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 It’s happened. Your worst nightmare. A younger, prettier, differently gendered, or completely simpleminded younger sibling has entered your life, right at the moment when it’s become increasingly clear that your mother is not long for this world and you will soon be facing an Evil Stepmother, if you are lucky to have any mother at all. Or, still worse, you may still have a mother, one so overwhelmed by the pressures of raising a large family that she is no longer able to argue with your father when he proposes killing all of you off to benefit this new lucky youngest child, or she is now prone to making terrible magical curses that can only be defeated through seven years of weaving nettles, which you *know* the little brat isn’t going to do, because come on, *look* at the kid.
 
@@ -85,7 +109,3 @@ You are more than your story.
 You are more than a fairy tale.
 
 Even if right now your skin is covered in feathers.
-
-#### About the Author
-
-Mari Ness is not quite as obsessed with myth and fairy tales as her fiction might suggest.  Her fiction and poetry have appeared in multiple places, including Tor.com, Clarkesworld, Lightspeed, Daily Science Fiction, Apex, Uncanny, Strange Horizons, and Nightmare, and she blogs weekly at Tor.com on various geeky subjects, most recently about Disney animated movies and their literary sources. For more, check out her blog at [marikness.wordpress.com](http://marikness.wordpress.com), or follow her on Twitter at [@mari\_ness](twitter.com/mari_ness)
