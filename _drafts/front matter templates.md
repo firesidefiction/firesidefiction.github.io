@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 74, December 2019
-issue-cover: issue-74-cover.png
+issue: 73, November 2019
+issue-cover: issue-73-cover.png
 issue-buy-link:
 title:
 subtitle:
@@ -58,4 +58,5 @@ profile-pic:
 website-url:
 short-name:
 permalink:
+bio-spanish:
 ---

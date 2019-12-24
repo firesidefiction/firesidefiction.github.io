@@ -14,4 +14,4 @@ website-url:
 short-name: elsa-sjunneson
 permalink: elsa-sjunneson
 ---
-Elsa Sjunneson is a deafblind Hugo Award-nominated speculative fiction writer and editor with words featured at tor.com, Uncanny Magazine, CNN Opinion, The Boston Globe and elsewhere. She writes from a dragon lair in New Jersey, with a guide dog nestled at her feet.
+Elsa Sjunneson is a deafblind Hugo Award-winning speculative fiction writer and editor with words featured at _Tor.com_, _Uncanny Magazine_, _CNN Opinion_, _The Boston Globe_, and elsewhere. She writes from a dragon lair in New Jersey, with a guide dog nestled at her feet.

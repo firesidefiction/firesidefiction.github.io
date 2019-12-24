@@ -6,7 +6,7 @@ issue-cover: issue-74-cover.png
 issue-buy-link:
 title: Where You Are Now Is Better than Where You Were Before
 subtitle:
-author:
+author: eliza-victoria
 author-2:
 author-3:
 editor: julia-rios

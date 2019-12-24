@@ -7,7 +7,11 @@
       </figure>
     {% endif %}
     <div class="author-bio">
+      {% if page.spanish-language %}
+      <p>{{ author.bio-spanish | markdownify }}</p>
+      {% else %}
       <p>{{ author.content | markdownify }}</p>
+      {% endif %}
     </div>
   </div>
 
@@ -19,7 +23,28 @@
       </figure>
     {% endif %}
     <div class="author-bio">
+      {% if page.spanish-language %}
+      <p>{{ author-2.bio-spanish | markdownify }}</p>
+      {% else %}
       <p>{{ author-2.content | markdownify }}</p>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if page.author-3 %}
+  <div class="author-info">
+    {% if author-3.profile-pic %}
+      <figure class="author-image">
+        <a href="{{ author-3.url }}"><img src="/images/contributors/{{ author-3.profile-pic }}" alt="{{ author-3.credit-name }}"/></a>
+      </figure>
+    {% endif %}
+    <div class="author-bio">
+      {% if page.spanish-language %}
+      <p>{{ author-3.bio-spanish | markdownify }}</p>
+      {% else %}
+      <p>{{ author-3.content | markdownify }}</p>
+      {% endif %}
     </div>
   </div>
   {% endif %}

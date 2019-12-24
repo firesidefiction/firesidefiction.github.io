@@ -1,27 +1,39 @@
 ---
 layout: story
-title: FEMALE COMPUTER WANTED, APPLY WITHIN
-author: Innocent Chizaram Ilo
-editor: Julia Rios
-date: 2019-11-26 01:00:01 -0500
 category: short story
+issue: 73, November 2019
+issue-cover: issue-73-cover.png
+issue-buy-link:
+title: FEMALE COMPUTER WANTED, APPLY WITHIN
+subtitle:
+author: innocent-chizaram-ilo
+author-2:
+author-3:
+editor: julia-rios
+illustrator: reiko-murakami
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: C. S. E. Cooney
+letterer:
+date: 2019-11-26 01:00:01 -0500
 permalink: female-computer-wanted-apply-within
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-26-FEMALE_COMPUTER_WANTED_APPLY_WITHIN.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "No matter the number of robo-positive campaigns organized by Town Council, most humans cannot stop themselves from using Female Computer to refer to female robots."
 art: female-computer-wanted-apply-within.png
-caption: "An android holds her lover in her arms."
-artist: Reiko Murakami
-artist-img: reiko-murakami.jpg
-artist-bio: |
-  Reiko Murakami, also known as Raqmo, is a U.S.-based concept artist and illustrator specializing in surreal fantasy and horror characters. Her work has been published in _Spectrum_, _Infected by Art_, _ArtOrder Invitational: The Journal_, _Exposé_, _2D Artist_, and many others.
-author-img: innocent-chizaram-ilo.jpg
-author-bio: |
-  When he is not receiving tonnes of rejections from cat adoption agencies, Innocent finds time to read and write. He is a 2018 Author of Tomorrow and a Gerald Kraak Award finalist. Inno has works published and forthcoming in _Fireside Magazine_, _Reckoning_, _Strange Horizons_, _Cosmic Roots and Eldritch Shores_, _Brittle Paper_, _SSDA ID Anthology_, and elsewhere. He lives in Nigeria.
-proofread: true
-contentnote: This story depicts of unwanted sexual advances.
-
+artcaption: "An android holds her lover in her arms."
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote: This story depicts unwanted sexual advances.
+generalnote:
+published: true
 ---
 
 “You don't have to fret too much. I will tie a headscarf to cover the air vents on my neck and not speak to anyone until I get to the café. No one will even notice that I am a robot,” Dell tells Yasmine when the job ad is forwarded as a broadcast message on the Robo Support WhatsApp Group.

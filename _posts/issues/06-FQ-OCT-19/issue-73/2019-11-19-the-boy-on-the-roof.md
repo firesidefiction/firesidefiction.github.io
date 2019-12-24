@@ -1,20 +1,39 @@
 ---
 layout: story
-title: The Boy on the Roof
-author: Francesca Forrest
-editor: Julia Rios
-date: 2019-11-19 01:00:01 -0500
 category: short story
+issue: 73, November 2019
+issue-cover: issue-73-cover.png
+issue-buy-link:
+title: The Boy on the Roof
+subtitle:
+author: francesca-forrest
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: C. S. E. Cooney
+letterer:
+date: 2019-11-19 01:00:01 -0500
 permalink: the-boy-on-the-roof
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-19-The_Boy_on_the_Roof.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "“Did you marry the clouds too?” asked the boy."
-author-img: francesca-forrest.jpg
-author-bio: |
-  Francesca Forrest is the author of _The Inconvenient God_ (Annorlunda Books, 2018), about a slacker god with a mysterious past, and the novel _Pen Pal_ (2013), a story of friendship and heroism from the margins, as well as short stories that have appeared in _Not One of Us_, _Strange Horizons_, and other online and print venues, including anthologies. She’s old enough to have four grown children and young enough not to have mastered object permanence just yet. She lives in western Massachusetts.
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 “Washing area is there, and you can hang your things on that pole,” the manager of the hostel said, pointing to a large stone sink and then to a pole not yet fluttering with shirts and skirts and trousers. “No more than two buckets of water per lodger per wash — it’s metered, so don’t try to take more; it’ll turn off — and no more than three washes a week. And tell me if the boy bothers you.”
