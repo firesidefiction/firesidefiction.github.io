@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 73, November 2019
-issue-cover: issue-73-cover.png
+issue: 72, October 2019
+issue-cover: issue-72-cover.png
 issue-buy-link:
 title:
 subtitle:

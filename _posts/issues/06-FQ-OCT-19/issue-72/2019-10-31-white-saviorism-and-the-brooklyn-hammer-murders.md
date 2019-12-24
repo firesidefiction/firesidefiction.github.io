@@ -1,19 +1,39 @@
 ---
 layout: post
-title: White Saviorism and the Brooklyn Hammer Murders
-author: Diana Lu
-editor: Julia Rios
-date: 2019-10-31 01:00:01 -0500
 category: essay
+issue: 72, October 2019
+issue-cover: issue-72-cover.png
+issue-buy-link:
+title: White Saviorism and the Brooklyn Hammer Murders
+subtitle:
+author: diana-lu
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-10-31 01:00:01 -0500
 permalink: white-saviorism-and-the-brooklyn-hammer-murders
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-24-White_Saviorism_and_the_Brooklyn_Hammer_Murders.mp3
-published: true
 teaser: "We are portrayed as weak and broken victims, completely lacking in agency or strength. We are used in white narratives as props..."
-author-img: diana-lu.jpg
-author-bio: |
-  Diana Lu is a writer, comedian, and scientist in Boston, Massachusetts. She is a staff writer for _Plan A Magazine_ and _The New England Theatre Geek_. Her humor writing has appeared in _McSweeney's Internet Tendency_, _Women in Comedy Festival Daily_, _Robot Butt_, _Slackjaw_, and others.
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This essay examines racially motivated violence and describes specific violent incidents.
+generalnote:
+published: true
 ---
 
 On January 15, 2019, 34-year-old Arthur Martunovich barged into the Seaport Buffet, a Coney Island comfort food restaurant overlooking Sheepshead Bay. He stood by the door, looking around, then took a hammer from his backpack and immediately began striking the Asian man who walked past. “I’m not here for you,” he told a Latino employee, then stormed toward the kitchen.

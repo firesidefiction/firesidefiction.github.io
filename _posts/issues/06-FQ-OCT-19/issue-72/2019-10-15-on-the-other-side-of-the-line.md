@@ -1,27 +1,39 @@
 ---
 layout: story
-title: On the Other Side of the Line
-author: A. T. Greenblatt
-editor: Julia Rios
-date: 2019-10-15 01:00:01 -0500
 category: short story
+issue: 72, October 2019
+issue-cover: issue-72-cover.png
+issue-buy-link:
+title: On the Other Side of the Line
+subtitle:
+author: a-t-greenblatt
+author-2:
+author-3:
+editor: julia-rios
+illustrator: amanda-makepeace
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-10-15 01:00:01 -0500
 permalink: on-the-other-side-of-the-line
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-15-On_the_Other_Side_of_the_Line.mp3
-narrator: c-s-e-cooney
-published: true
 teaser: "I've never seen a complete message come through the Line. Only fragments."
 art: on-the-other-side-of-the-line.png
-caption: "A woman looks on longingly at the shadow of her lover"
-artist: Amanda Makepeace
-artist-img: amanda-makepeace.jpg
-artist-bio: |
-  Amanda Makepeace is an award-winning illustrator currently living in northeast Georgia. Her art is inspired by nature, mythology, magical beings, and distant worlds. She is the co-founder of the Bird Whisperer Project, a monthly art challenge focused on spreading the love of birds and art-making. Amanda’s art has appeared in ENnie Award-winning games, and on the covers popular independent novels and anthologies. She is a regular at fantasy and science fiction conventions in the southeast. Delve into her imagination at [www.amandamakepeace.com](www.amandamakepeace.com).
-author-img: a-t-greenblatt.jpg
-author-bio: |
-  A. T. Greenblatt is a mechanical engineer by day and a writer by night. She lives in Philadelphia and is known to frequently subject her friends to various cooking and home brewing experiments. She is a graduate of Viable Paradise XVI and Clarion West 2017. Her work is forthcoming or has appeared in _Uncanny Magazine_, _Beneath Ceaseless Skies_, _Clarkesworld Magazine_, and _Fireside Magazine_, as well as other fine places. She was also a finalist for the 2018 Nebula Award. You can find her online at [atgreenblatt.com](http://www.atgreenblatt.com) and on Twitter at [@AtGreenblatt](https://www.twitter.com/AtGreenblatt).
-proofread: true
+artcaption: "A woman looks on longingly at the shadow of her lover"
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 My dog is longing for something just out of reach. He's lying flat on the floor, ears back, muzzle jammed under the bookshelf, making this weird bark whine noise because he can't open his mouth all the way. Though I should know better by now, I lie down next to him to peer under the bookshelf too.
