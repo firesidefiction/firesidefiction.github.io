@@ -14,7 +14,7 @@ illustrator:
 copyeditor: chelle-parker
 selector:
 translator:
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 letterer:
 date: 2019-11-05 01:00:01 -0500
 permalink: personal-rakshasi

@@ -7,7 +7,7 @@ date: 2019-06-05 01:00:01 -0500
 category: poem
 permalink: the-telegrapher
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-05-the-telegrapher.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "I never imagined him as a child:<br/>
 proudly clutching the hem of his mother’s dress"

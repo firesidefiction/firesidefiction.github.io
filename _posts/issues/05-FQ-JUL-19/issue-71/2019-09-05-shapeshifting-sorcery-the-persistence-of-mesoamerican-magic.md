@@ -7,7 +7,7 @@ date: 2019-09-05 01:00:01 -0500
 category: essay
 permalink: shapeshifting-sorcery-the-persistence-of-mesoamerican-magic
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-05-Shapeshifting_Sorcery-_The_Persistence_of_Mesoamerican_Magic.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "It wasn’t until I was an adult that I understood these spooky tales of shapeshifting were remnants of something older, diluted by time and Conquest and Catholicism."
 author-img: david-bowles.jpg

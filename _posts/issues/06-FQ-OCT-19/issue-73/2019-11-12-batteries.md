@@ -14,7 +14,7 @@ illustrator:
 copyeditor: chelle-parker
 selector:
 translator: julia-rios
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 letterer:
 date: 2019-11-12 01:00:01 -0500
 permalink: batteries

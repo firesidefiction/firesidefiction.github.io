@@ -7,7 +7,7 @@ date: 2019-05-21 01:00:01 -0500
 category: short story
 permalink: my-sister-is-a-house
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-21-my-sister-is-a-house.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "It would have shown in the Aptitudes. I learned that much later. But when we were children, our father never told us our results."
 author-img: zoe-medeiros.jpg

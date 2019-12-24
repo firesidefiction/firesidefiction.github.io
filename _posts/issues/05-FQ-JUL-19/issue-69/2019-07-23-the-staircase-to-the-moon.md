@@ -7,7 +7,7 @@ date: 2019-07-23 01:00:01 -0500
 category: short story
 permalink: the-staircase-to-the-moon
 audiourl: http://traffic.libsyn.com/firesidemagazine/fq-jul-2019-07-23-the_staircase_to_the_moon.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "Earth goddesses always die for their people."
 author-img: m-k-hutchins.jpg

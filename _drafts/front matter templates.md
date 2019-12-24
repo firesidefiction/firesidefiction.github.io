@@ -14,7 +14,7 @@ illustrator:
 copyeditor: chelle-parker
 selector:
 translator:
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 letterer:
 date:
 permalink:

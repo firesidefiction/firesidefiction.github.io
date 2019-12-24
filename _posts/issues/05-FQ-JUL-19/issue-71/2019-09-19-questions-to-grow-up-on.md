@@ -8,7 +8,7 @@ date: 2019-09-19 01:00:01 -0500
 category: poem
 permalink: questions-to-grow-up-on
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-19-Questions_to_Grow_Up_On.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "you call yourself caribbean?  your skin’s too light, your name too asian  you did not know the island life"
 author-img: ashley-deng.jpg

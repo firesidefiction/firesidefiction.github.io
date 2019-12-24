@@ -7,7 +7,7 @@ date: 2019-10-22 01:00:01 -0500
 category: short story
 permalink: radio-static
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-22-Radio_Static.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "You don’t know that I am a ghost, so you sit at my bedside and cup my hand like a seashell in your palm."
 author-img: carolin-jansen.jpg

@@ -7,7 +7,7 @@ date: 2019-07-02 01:00:01 -0500
 category: short story
 permalink: advice-for-your-first-time-at-the-faerie-market
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-07-02-Advice_For_Your_First_Time_At_the_Faerie_Market.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "Don’t meet the shopkeepers’ soot-black eyes. Don’t look at their pointed faces, their beautiful hair..."
 author-img: nibedita-sen.jpg

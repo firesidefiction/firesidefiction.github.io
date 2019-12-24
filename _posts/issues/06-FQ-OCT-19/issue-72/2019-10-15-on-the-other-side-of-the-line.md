@@ -7,7 +7,7 @@ date: 2019-10-15 01:00:01 -0500
 category: short story
 permalink: on-the-other-side-of-the-line
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-15-On_the_Other_Side_of_the_Line.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "I've never seen a complete message come through the Line. Only fragments."
 art: on-the-other-side-of-the-line.png

@@ -7,7 +7,7 @@ date: 2019-10-17 01:00:01 -0500
 category: poem
 permalink: after-living-with-him
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-17-After_Living_With_Him.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "It was the question I had been dreading
 for a while, knowing that one day

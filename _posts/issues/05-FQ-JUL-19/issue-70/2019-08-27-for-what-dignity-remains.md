@@ -7,7 +7,7 @@ date: 2019-08-27 01:00:01 -0500
 category: short story
 permalink: for-what-dignity-remains
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-08-27-For_What_Dignity_Remains.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "Dignity is important for the dead, so we are taught."
 author-img: michelle-muenzler.jpg

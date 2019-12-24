@@ -7,7 +7,7 @@ date: 2019-07-30 01:00:01 -0500
 category: short story
 permalink: the-brightest-lights-of-heaven
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-07-30-The_Brightest_Lights_of_Heaven.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "We knew that beneath the surface we were something else entirely — something hungry, something jagged..."
 author-img: maria-haskins.jpg

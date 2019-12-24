@@ -11,7 +11,7 @@ translator: Julia Rios
 language: english
 spanish-url: larga-distancia
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-25-long-distance.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "But there are other times when she calls to complain: about my absence, about her loneliness, about how cold I’ve become with her..."
 author-img: raquel-castro.jpeg

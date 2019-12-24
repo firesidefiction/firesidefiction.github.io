@@ -7,7 +7,7 @@ date: 2019-07-18 01:00:01 -0500
 category: poem
 permalink: three-of-swords-king-of-cups
 audiourl: http://traffic.libsyn.com/firesidemagazine/fq-jul-2019-07-18-three_of_swords_king_of_cups.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "there’s nothing neat
 about what’s sacred,

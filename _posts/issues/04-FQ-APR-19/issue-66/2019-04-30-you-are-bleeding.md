@@ -7,7 +7,7 @@ date: 2019-04-30 01:00:01 -0500
 category: short story
 permalink: you-are-bleeding
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-04-30-you-are-bleeding.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "You must carry a handkerchief always in case you have to cover shame and tears and other imperfections, in case you are bleeding."
 author-img: alexandra-seidel.jpg

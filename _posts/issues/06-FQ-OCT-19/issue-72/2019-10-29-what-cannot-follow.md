@@ -7,7 +7,7 @@ date: 2019-10-29 01:00:01 -0500
 category: short story
 permalink: what-cannot-follow
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-29-What_Cannot_Follow.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "She is still waiting for the family who left her behind fifty years ago."
 author-img: eugenia-triantafyllou.jpg

@@ -7,7 +7,7 @@ date: 2019-06-20 01:00:01 -0500
 category: essay
 permalink: change-comes-unevenly-protecting-trans-rights-with-the-yes-on-3-campaign
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-20-change-comes-unevenly.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "A yes vote kept the law as it was, protecting transgender people from discrimination in public places. A no vote repealed those protections."
 author-img: a-a-mcnamara.jpg

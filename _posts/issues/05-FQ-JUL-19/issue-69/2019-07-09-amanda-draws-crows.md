@@ -7,7 +7,7 @@ date: 2019-07-09 01:00:01 -0500
 category: short story
 permalink: amanda-draws-crows
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-07-09-Amanda_Draws_Crows.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "Sometimes she didn't even see what she drew. Her hands took over and drew what they wanted, and everything else faded away."
 author-img: jose-pablo-iriarte.jpg

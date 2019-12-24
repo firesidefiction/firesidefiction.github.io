@@ -7,7 +7,7 @@ date: 2019-08-22 01:00:01 -0500
 category: poem
 permalink: how-to-spend-your-free-time
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-08-22-How_to_Spend_Your_Free_Time.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "First plan for your future
 save for cars children vacations houses"

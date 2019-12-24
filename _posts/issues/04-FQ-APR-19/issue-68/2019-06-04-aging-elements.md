@@ -7,7 +7,7 @@ date: 2019-06-04 01:00:01 -0500
 category: short story
 permalink: aging-elements
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-04-aging-elements.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "It’s been years since I’ve flown. I’d forgotten how much the wings strain the muscles of your shoulders..."
 author-img: ben-francisco.jpg

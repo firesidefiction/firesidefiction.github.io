@@ -7,7 +7,7 @@ date: 2019-09-03 01:00:01 -0500
 category: short story
 permalink: shelter-sustenance-self
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-03-Shelter_Sustenance_Self.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "It's all been leading to this. Learning to use this body of false flesh..."
 author-img: aimee-ogden.jpg

@@ -11,7 +11,7 @@ translator: Julia Rios
 language: english
 spanish-url: puebla-de-los-angeles
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-17-City_of_the_Angels.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "If the conquistadors are going to build this city, does that mean that now the angels will work with the Spanish clergy and be their allies?"
 author-img: libia-brenda.jpg
