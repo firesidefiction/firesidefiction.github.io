@@ -607,6 +607,9 @@ permalink: /authors
 
 — [_Beyond Comprehension_](/beyond-comprehension)
 
+### Sherin Nicole
+— [_Partially True (But Mostly Not)_](/partially-true-but-mostly-not)
+
 ### Sara Norja
 — [_Birch Daughter_](/birch-daughter)
 
