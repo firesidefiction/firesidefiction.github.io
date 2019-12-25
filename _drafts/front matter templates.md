@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 71, September 2019
-issue-cover: issue-71-cover.png
+issue: 70, August 2019
+issue-cover: issue-7o-cover.png
 issue-buy-link:
 title:
 subtitle:

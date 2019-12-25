@@ -1,20 +1,42 @@
 ---
 layout: poem
-title: How to Spend Your Free Time
-author: Charles Payseur
-editor: Julia Rios
-date: 2019-08-22 01:00:01 -0500
 category: poem
+issue: 70, August 2019
+issue-cover: issue-7o-cover.png
+issue-buy-link:
+title: How to Spend Your Free Time
+subtitle:
+author: charles-payseur
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-08-22 01:00:01 -0500
 permalink: how-to-spend-your-free-time
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-08-22-How_to_Spend_Your_Free_Time.mp3
-narrator: c-s-e-cooney
-published: true
 teaser: "First plan for your future
 save for cars children vacations houses"
-author-img: charles-payseur.jpg
-author-bio: |
-  Charles Payseur is an avid reader, writer, and reviewer of all things speculative. His fiction and poetry have appeared in _The Best American Science Fiction and Fantasy_, _Strange Horizons_, _Lightspeed Magazine_, and many more. He runs _Quick Sip Reviews_, has been a Hugo finalist fan writer, and can be found drunkenly reviewing _Goosebumps_ on his Patreon. When not hunting Hodags across the wilds of Wisconsin, you can find him gushing about short fiction (and his cats) on Twitter as [@ClowderofTwo](https://www.twitter.come/ClowderofTwo).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 First see to your obligations

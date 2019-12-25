@@ -1,8 +1,8 @@
 ---
 layout: contributor-profile
 credit-name: Iliana Vargas
-first-name: Iliana Vargas
-last-name: Iliana Vargas
+first-name: Iliana
+last-name: Vargas
 file-as: v
 role: author
 role-2:

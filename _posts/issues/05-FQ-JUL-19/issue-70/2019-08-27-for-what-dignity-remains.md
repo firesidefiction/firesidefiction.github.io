@@ -1,20 +1,41 @@
 ---
 layout: story
-title: For What Dignity Remains
-author: Michelle Muenzler
-editor: Julia Rios
-date: 2019-08-27 01:00:01 -0500
 category: short story
+issue: 70, August 2019
+issue-cover: issue-7o-cover.png
+issue-buy-link:
+title: For What Dignity Remains
+subtitle:
+author: michelle-muenzler
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-08-27 01:00:01 -0500
 permalink: for-what-dignity-remains
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-08-27-For_What_Dignity_Remains.mp3
-narrator: c-s-e-cooney
-published: true
 teaser: "Dignity is important for the dead, so we are taught."
-author-img: michelle-muenzler.jpg
-author-bio: |
-  [Michelle Muenzler](http://www.michellemuenzler.com/), known at local science fiction and fantasy conventions as “The Cookie Lady”, writes fiction both dark and strange to counterbalance the sweetness of her baking. Her short fiction and poetry can be read in numerous science fiction and fantasy magazines, and she takes immense joy in crinkling words like little foil puppets.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 When it comes to funerals, it's always best a dead man's hands be peeled. That's what I've been taught, that's what I believe. Something about that sheath of skin lends weight to a dead man's grievances. Allows a man to cling when all else has sloughed away. There's no good in that, of course, as nobody enjoys being berated by their dead husband at the graveside for a handful of dinners burned or a stove left on once overlong.

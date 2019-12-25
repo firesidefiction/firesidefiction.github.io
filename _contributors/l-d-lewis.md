@@ -14,5 +14,4 @@ website-url:
 short-name: l-d-lewis
 permalink: l-d-lewis
 ---
-
-L. D. Lewis is a medic, writer of fantasy and Art Director for FIYAH Literary Magazine. Find her on Twitter @ellethevillain.
+L. D. Lewis is a data analyst and writer of science fiction and fantasy. Previously published works include "Chesirah" (_FIYAH Literary Magazine_, 2017) and _A Ruin of Shadows_ (Dancing Star Press, 2018). She proudly serves as a founding creator and Art Director for _FIYAH Literary Magazine_ for Black speculative fiction. She lives in Georgia with her coffee habit and an impressive Funko Pop! collection.
