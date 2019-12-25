@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 72, October 2019
-issue-cover: issue-72-cover.png
+issue: 71, September 2019
+issue-cover: issue-71-cover.png
 issue-buy-link:
 title:
 subtitle:
@@ -22,6 +22,8 @@ audiourl:
 teaser:
 art:
 artcaption:
+translated:
+language:
 spanish-language:
 spanish-date:
 english-url:
