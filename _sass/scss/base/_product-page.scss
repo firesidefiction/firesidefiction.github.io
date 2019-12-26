@@ -30,12 +30,29 @@
 }
 .product-page {
 	&-quarterly {
+		header nav ul {
+			background-color: $color__product-page;
+			a {
+				color: $white;
+			}
+		}
 		ul {
 			margin: 0 0 0 0;
 			font-family: $font-secondary;
 		}
 		h4 {
 			padding: 1em 0;
+		}
+		a {
+			color: $color__product-page;
+		}
+		.btn {
+			background-color: $color__product-page;
+			border: 1px solid $white;
+			color: $white;
+			&:hover {
+				background-color: darken($color__product-page, 10%);
+			}
 		}
 	}
 	&-toc, &-art, &-ebook, &-cta {
@@ -48,6 +65,10 @@
 	}
 	&-intro, &-art {
 		background-color: $color__product-page;
+		color: $white;
+		a {
+			color: $white;
+		}
 	}
 	&-intro {
 		padding-top: 1em;
@@ -218,6 +239,6 @@
 	svg {
 		margin: 0 auto;
 		width: 70%;
-		fill: $color__fireside-red;
+		fill: $white;
 	}
 }
