@@ -1,27 +1,41 @@
 ---
 layout: story
-title: How to Say I Love You with Wikipedia
-author: Beth Goder
-editor: Julia Rios
-date: 2019-04-16 01:00:01 -0500
 category: short story
+issue: 66, April 2019
+issue-cover: issue-66-cover.png
+issue-buy-link:
+title: How to Say I Love You with Wikipedia
+subtitle:
+author: beth-goder
+author-2:
+author-3:
+editor: julia-rios
+illustrator: cat-oneil
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-04-16 01:00:01 -0500
 permalink: how-to-say-i-love-you-with-wikipedia
-published: true
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-04-16-how-to-say-i-love-you-with-wikipedia.mp3
-narrator: C.S.E. Cooney
 teaser: "It is important to be efficient because my crew is the best crew ever and I want to show them that I have feels."
-author-bio: |
-  **Beth Goder** works as an archivist, processing the papers of economists, scientists, and other interesting folks. Her fiction has appeared in venues such as _Escape Pod_, _Mothership Zeta_, and an anthology from Flame Tree Press. You can find her online at [http://www.bethgoder.com](http://www.bethgoder.com) and on Twitter at [@Beth_Goder](https://www.twitter.com/Beth_Goder).
-author-img: beth-goder.jpg
-proofread: true
 art: how-to-say-i-love-you-with-wikipedia.gif
-caption: "A cute little Mars rover peers at the mirrored helmet of a Mars explorer in their spacesuit."
-artist: Cat O'Neil
-artist-img: cat-oneil.jpg
-artist-bio: |
-  **Cat O’Neil** is an illustrator currently based in Scotland, having previously lived in London, Hong Kong, and France. Winner of the V&A Illustration Awards in Editorial (2018) and the Cheltenham Illustration Awards (2013), her work has also been recognised by the SOI, AOI, and _3x3 Magazine_. Her clients include _The New York Times_, _Variety_, _WIRED_, _The Financial Times_, _The Economist_, _Scientific American_, _Libération_, _Revue XXI_ and more.
+artcaption: "A cute little Mars rover peers at the mirrored helmet of a Mars explorer in their spacesuit."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 It's daytime, so the crew is awake, bustling about the Hab. During the night, the Hab gets dark, and I wonder what it must be like to sleep. On the north side, there's the kitchen with bread yeast and homemade yogurt. All of me is across from the kitchen — terminal, keypad, input tray. I take up a lot of space, more than anyone else.
