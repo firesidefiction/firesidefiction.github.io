@@ -1,21 +1,43 @@
 ---
 layout: poem
-title: Three of Swords, King of Cups
-author: Ali Trotta
-editor: Julia Rios
-date: 2019-07-18 01:00:01 -0500
 category: poem
+issue: 69, July 2019
+issue-cover: issue-69-cover.png
+issue-buy-link:
+title: Three of Swords, King of Cups
+subtitle:
+author: ali-trotta
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-07-18 01:00:01 -0500
 permalink: three-of-swords-king-of-cups
 audiourl: http://traffic.libsyn.com/firesidemagazine/fq-jul-2019-07-18-three_of_swords_king_of_cups.mp3
-narrator: c-s-e-cooney
-published: true
 teaser: "there’s nothing neat
 about what’s sacred,
 so I revel in the mess"
-author-img: ali-trotta.jpg
-author-bio: |
-  [Ali Trotta](http://alwayscoffee.wordpress.com) is a poet, editor, word-nerd, and unapologetic coffee addict. Her poetry has previously appeared in _Uncanny Magazine_ and _Cicada Magazine_. She writes television show reviews for Blastoff Comics. These have included _Agent Carter_, _The Flash_, and _Supergirl_. Additionally, for Blastoff, she has written some personal essays. Ali’s always scribbling on napkins, looking for magic in the world, or singing along to songs at the grocery store. You’ll often find her cooking, baking, hugging an animal, cracking a joke, or pretending to be a mermaid. She’s on Twitter as [@alwayscoffee](https://www.twitter.com/alwayscoffee), and you can also read her blog at [alwayscoffee.wordpress.com](http://alwayscoffee.wordpress.com). Two of her past _Uncanny Magazine_ poems were Rhysling Award nominees.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Sometimes, I put my heart<br/>

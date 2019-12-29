@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 70, August 2019
-issue-cover: issue-7o-cover.png
+issue: 69, July 2019
+issue-cover: issue-69-cover.png
 issue-buy-link:
 title:
 subtitle:
@@ -36,29 +36,4 @@ next-url:
 contentnote:
 generalnote:
 published: true
-
-
-
-
----
-
-
-
-
----
-layout: contributor-profile
-credit-name:
-first-name:
-last-name:
-file-as:
-role:
-role-2:
-role-3:
-title:
-twitter-handle:
-profile-pic:
-website-url:
-short-name:
-permalink:
-bio-spanish:
 ---

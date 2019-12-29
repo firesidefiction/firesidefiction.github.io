@@ -2,7 +2,7 @@
 layout: story
 category: short story
 issue: 70, August 2019
-issue-cover: issue-7o-cover.png
+issue-cover: issue-70-cover.png
 issue-buy-link:
 title: For What Dignity Remains
 subtitle:

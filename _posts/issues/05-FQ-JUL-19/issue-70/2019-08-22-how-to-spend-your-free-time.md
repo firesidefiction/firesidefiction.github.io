@@ -2,7 +2,7 @@
 layout: poem
 category: poem
 issue: 70, August 2019
-issue-cover: issue-7o-cover.png
+issue-cover: issue-70-cover.png
 issue-buy-link:
 title: How to Spend Your Free Time
 subtitle:
