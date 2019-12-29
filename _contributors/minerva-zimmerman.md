@@ -4,10 +4,11 @@ credit-name: Minerva Zimmerman
 first-name: Minerva
 last-name: Zimmerman
 file-as: z
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: grumpymartian
 profile-pic: minerva-zimmerman.jpg
 website-url: minervazimmerman.com

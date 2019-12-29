@@ -4,10 +4,11 @@ credit-name: Hillary Jacques
 first-name: Hillary
 last-name: Jacques
 file-as: j
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: HillaryJacques
 profile-pic: hillary-jacques.jpg
 website-url: regansummers.com

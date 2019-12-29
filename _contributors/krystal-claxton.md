@@ -4,10 +4,11 @@ credit-name: Krystal Claxton
 first-name: Krystal
 last-name: Claxton
 file-as: c
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: krystalclaxton
 profile-pic: krystal-claxton.jpg
 website-url: krystalclaxton.wordpress.com

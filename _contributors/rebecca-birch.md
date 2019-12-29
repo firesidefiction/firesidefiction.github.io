@@ -4,10 +4,11 @@ credit-name: Rebecca Birch
 first-name: Rebecca
 last-name: Birch
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: rebecca-birch.jpg
 website-url: wordsofbirch.com

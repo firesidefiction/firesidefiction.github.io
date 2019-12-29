@@ -4,10 +4,11 @@ credit-name: John F. Gardner
 first-name: John
 last-name: Gardner
 file-as: g
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: wombatdeamor
 profile-pic:
 website-url:

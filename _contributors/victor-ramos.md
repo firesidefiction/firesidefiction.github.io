@@ -4,10 +4,10 @@ credit-name: Victor Ramos
 first-name: Victor
 last-name: Ramos
 file-as: r
-role: author
+role: Narrator
 role-2:
 role-3:
-title: Author
+title: Victor Ramos — Work in Fireside
 twitter-handle:
 profile-pic: victor-ramos.jpg
 website-url:

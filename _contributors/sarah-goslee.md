@@ -4,10 +4,11 @@ credit-name: Sarah Goslee
 first-name: Sarah
 last-name: Goslee
 file-as: g
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: phiala
 profile-pic: sarah-goslee.jpg
 website-url: sarahgoslee.com

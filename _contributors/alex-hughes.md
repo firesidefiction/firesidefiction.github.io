@@ -4,10 +4,10 @@ credit-name: Alex Hughes
 first-name: Alex
 last-name: Hughes
 file-as: h
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
 twitter-handle:
 profile-pic: alex-hughes.jpg
 website-url:

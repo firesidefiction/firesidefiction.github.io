@@ -4,10 +4,11 @@ credit-name: K. C. Alexander
 first-name: K. C.
 last-name: Alexander
 file-as: a
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: k-c-alexander.jpg
 website-url: www.kcalexander.com

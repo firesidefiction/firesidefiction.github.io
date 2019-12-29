@@ -4,10 +4,11 @@ credit-name: Eric Francis
 first-name: Eric
 last-name: Francis
 file-as: f
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: eric-francis.jpg
 website-url: Facebook.com/DogtownWriter

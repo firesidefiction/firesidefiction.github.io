@@ -4,10 +4,11 @@ credit-name: Mari Ness
 first-name: Mari
 last-name: Ness
 file-as: n
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: mari_ness
 profile-pic: mari-ness.jpg
 website-url: marikness.wordpress.com

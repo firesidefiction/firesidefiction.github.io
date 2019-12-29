@@ -4,10 +4,11 @@ credit-name: Lisa Nohealani Morton
 first-name: Lisa
 last-name: Nohealani Morton
 file-as: n
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: lnmorton
 profile-pic: lisa-nohealani-morton.jpg
 website-url:

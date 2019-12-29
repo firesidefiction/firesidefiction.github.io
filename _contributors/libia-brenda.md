@@ -4,10 +4,11 @@ credit-name: Libia Brenda
 first-name: Libia
 last-name: Brenda
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: libia-brenda.jpg
 website-url:

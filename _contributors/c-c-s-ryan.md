@@ -4,10 +4,11 @@ credit-name: C. C. S. Ryan
 first-name: C. C. S. Ryan
 last-name: Ryan
 file-as: r
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: wintersweet
 profile-pic: c-c-s-ryan.jpg
 website-url:

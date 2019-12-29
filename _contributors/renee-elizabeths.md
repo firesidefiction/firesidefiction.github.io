@@ -4,10 +4,11 @@ credit-name: Renee Elizabeths
 first-name: Renee
 last-name: Elizabeths
 file-as: e
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: reneeelizabeths
 profile-pic: renee-elizabeths.jpg
 website-url: reneeelizabeths.com

@@ -4,10 +4,11 @@ credit-name: Iliana Vargas
 first-name: Iliana
 last-name: Vargas
 file-as: v
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: iliana-vargas.jpg
 website-url: alteracionesdelpsicosoma.wordpress.com

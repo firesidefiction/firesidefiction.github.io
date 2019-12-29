@@ -4,10 +4,11 @@ credit-name: John Wiswell
 first-name: John
 last-name: Wiswell
 file-as: w
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: wiswell
 profile-pic: john-wiswell.jpg
 website-url:

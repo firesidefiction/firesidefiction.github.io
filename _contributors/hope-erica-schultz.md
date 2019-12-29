@@ -4,10 +4,11 @@ credit-name: Hope Erica Schultz
 first-name: Hope
 last-name: Schultz
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: hope-erica-schultz.jpg
 website-url: tlenajade.wix.com/hope-erica-schultz

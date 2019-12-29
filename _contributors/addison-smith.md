@@ -4,10 +4,11 @@ credit-name: Addison Smith
 first-name: Addison
 last-name: Smith
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: Addison Smith — Work in Fireside
+description: 
 twitter-handle: addisoncs
 profile-pic: addison-smith.jpg
 website-url:

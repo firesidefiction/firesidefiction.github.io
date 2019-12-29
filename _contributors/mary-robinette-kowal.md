@@ -4,10 +4,11 @@ credit-name: Mary Robinette Kowal
 first-name: Mary Robinette
 last-name: Kowal
 file-as: k
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: MaryRobinette
 profile-pic: mary-robinette-kowal.jpg
 website-url: maryrobinettekowal.com

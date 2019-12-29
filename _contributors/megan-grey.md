@@ -4,10 +4,11 @@ credit-name: Megan Grey
 first-name: Megan
 last-name: Grey
 file-as: g
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: megan-grey.jpg
 website-url: www.megangrey.com

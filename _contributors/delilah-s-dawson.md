@@ -4,10 +4,11 @@ credit-name: Delilah S. Dawson
 first-name: Delilah
 last-name: Dawson
 file-as: d
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: delilah-s-dawson.jpg
 website-url: delilahsdawson.com

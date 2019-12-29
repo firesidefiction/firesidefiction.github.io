@@ -4,10 +4,11 @@ credit-name: Sherin Nicole
 first-name: Sherin
 last-name: Nicole
 file-as: n
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: sherin-nicole.jpg
 website-url:

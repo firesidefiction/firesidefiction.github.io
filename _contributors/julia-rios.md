@@ -4,10 +4,11 @@ credit-name: Julia Rios
 first-name: Julia
 last-name: Rios
 file-as: r
-role: editor
-role-2: selector
-role-3:
-title: Editor, 2017-2019
+role: Editor
+role-2: Selector
+role-3: Translator
+title: Julia Rios — Work in Fireside
+description: Editor, 2017-2019
 twitter-handle: omgjulia
 profile-pic: julia-rios.jpg
 website-url: juliarios.com

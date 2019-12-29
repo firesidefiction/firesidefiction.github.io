@@ -4,10 +4,11 @@ credit-name: Jeff Xilon
 first-name: Jeff
 last-name: Xilon
 file-as: x
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: JXilon
 profile-pic: jeff-xilon.jpg
 website-url: jeffxilon.com

@@ -4,10 +4,11 @@ credit-name: Day Al-Mohamed
 first-name: Day
 last-name: Al-Mohamed
 file-as: a
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: DayAlMohamed
 profile-pic: day-al-mohamed.jpg
 website-url: DayAlMohamed.com

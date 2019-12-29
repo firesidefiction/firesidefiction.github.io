@@ -4,10 +4,11 @@ credit-name: D.J. Kirkbride
 first-name: D
 last-name: Kirkbride
 file-as: k
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: d-j-kirkbride.jpg
 website-url:

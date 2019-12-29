@@ -4,10 +4,11 @@ credit-name: Okwudili Nebeolisa
 first-name: Okwudili
 last-name: Nebeolisa
 file-as: n
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: okwudili-nebeolisa.jpg
 website-url:

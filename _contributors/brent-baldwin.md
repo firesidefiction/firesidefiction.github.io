@@ -4,10 +4,11 @@ credit-name: Brent Baldwin
 first-name: Brent
 last-name: Baldwin
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: dbrentbaldwin
 profile-pic: brent-baldwin.jpg
 website-url: dbbaldwin.com

@@ -4,10 +4,11 @@ credit-name: Sheree Renée Thomas
 first-name: Sheree Renée
 last-name: Thomas
 file-as: t
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: sheree-renee-thomas.jpg
 website-url:

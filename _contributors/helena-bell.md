@@ -4,10 +4,11 @@ credit-name: Helena Bell
 first-name: Helena
 last-name: Bell
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: HelBell
 profile-pic: helena-bell.jpg
 website-url: helbell.com

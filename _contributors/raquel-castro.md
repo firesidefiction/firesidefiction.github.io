@@ -4,10 +4,11 @@ credit-name: Raquel Castro
 first-name: Raquel
 last-name: Castro
 file-as: c
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: raxxie_
 profile-pic: raquel-castro.jpg
 website-url: youtube.com/AlbertoyRaquelMX

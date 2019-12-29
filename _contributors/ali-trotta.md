@@ -4,10 +4,11 @@ credit-name: Ali Trotta
 first-name: Ali
 last-name: Trotta
 file-as: h
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: alwayscoffee
 profile-pic: ali-trotta.jpg
 website-url: alwayscoffee.wordpress.com

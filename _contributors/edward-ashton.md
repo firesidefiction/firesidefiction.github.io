@@ -4,10 +4,11 @@ credit-name: Edward Ashton
 first-name: Edward Ashton
 last-name: Edward Ashton
 file-as: a
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: edward-ashton.jpg
 website-url: edward-ashton.squarespace.com

@@ -4,10 +4,11 @@ credit-name: Steven J. Dines
 first-name: Steven
 last-name: Dines
 file-as: d
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: steven-j-dines.jpg
 website-url: stevenjdines.com

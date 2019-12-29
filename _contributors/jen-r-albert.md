@@ -4,10 +4,11 @@ credit-name: Jen R Albert
 first-name: Jen
 last-name: Albert
 file-as: a
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: jenralbert
 profile-pic: jen-r-albert.jpg
 website-url:

@@ -4,10 +4,11 @@ credit-name: Sandra M. Odell
 first-name: Sandra
 last-name: Odell
 file-as: o
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: sandra-m-odell.jpg
 website-url: writerodell.com

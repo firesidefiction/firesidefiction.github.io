@@ -4,10 +4,11 @@ credit-name: Eugenia Triantafyllou
 first-name: Eugenia
 last-name: Triantafyllou
 file-as: t
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: FoxesandRoses
 profile-pic: eugenia-triantafyllou.jpg
 website-url: eugeniatriantafyllou.wordpress.com

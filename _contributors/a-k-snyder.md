@@ -4,10 +4,11 @@ credit-name: A. K. Snyder
 first-name: A. K. Snyder
 last-name: A. K. Snyder
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: A. K. Snyder — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: a-k-snyder.jpg
 website-url: alyceaksnyder.com

@@ -4,10 +4,11 @@ credit-name: Charles Payseur
 first-name: Charles
 last-name: Payseur
 file-as: p
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: ClowderofTwo
 profile-pic: charles-payseur.jpg
 website-url:

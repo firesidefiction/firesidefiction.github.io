@@ -4,10 +4,11 @@ credit-name: Rebecca M. Latimer
 first-name: Rebecca
 last-name: Latimer
 file-as: l
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: RebeccaMLatimer
 profile-pic: rebecca-m-latimer.jpg
 website-url: rebeccamlatimer.com

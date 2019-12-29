@@ -4,10 +4,11 @@ credit-name: R.D. Sullivan
 first-name: R.D.
 last-name: Sullivan
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: _TheRussian
 profile-pic: r-d-sullivan.jpg
 website-url: govneh.wordpress.com

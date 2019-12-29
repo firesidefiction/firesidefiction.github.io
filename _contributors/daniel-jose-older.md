@@ -4,10 +4,11 @@ credit-name: Daniel José Older
 first-name: Daniel
 last-name: Older
 file-as: o
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: djolder
 profile-pic: daniel-jose-older.jpg
 website-url:

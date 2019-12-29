@@ -4,10 +4,11 @@ credit-name: Sam Gorenstein
 first-name: Sam
 last-name: Gorenstein
 file-as: g
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: SamIsNotADoctor
 profile-pic:
 website-url: thesearethethings.smackjeeves.com

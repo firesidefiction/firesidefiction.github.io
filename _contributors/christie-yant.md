@@ -4,10 +4,11 @@ credit-name: Christie Yant
 first-name: Christie
 last-name: Yant
 file-as: y
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: inkhaven
 profile-pic:
 website-url: inkhaven.net

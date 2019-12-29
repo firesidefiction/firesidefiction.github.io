@@ -4,10 +4,11 @@ credit-name: Aidan Doyle
 first-name: Aidan
 last-name: Doyle
 file-as: d
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: Aidan Doyle — Work in Fireside
+description: 
 twitter-handle: aidan_doyle
 profile-pic: aidan-doyle.jpg
 website-url: www.aidandoyle.net

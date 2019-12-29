@@ -6,7 +6,7 @@ issue-cover: issue-33-cover.png
 issue-buy-link:
 title: An Army of Bees
 subtitle:
-author: caroline-yoachim
+author: caroline-m-yoachim
 author-2:
 author-3:
 editor: brian-j-white

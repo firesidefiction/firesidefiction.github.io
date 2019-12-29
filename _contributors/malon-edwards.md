@@ -4,10 +4,11 @@ credit-name: Malon Edwards
 first-name: Malon
 last-name: Edwards
 file-as: e
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: malonlouis
 profile-pic: malon-edwards.jpg
 website-url: malonedwards.com

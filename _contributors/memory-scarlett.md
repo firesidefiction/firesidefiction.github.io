@@ -4,10 +4,11 @@ credit-name: Memory Scarlett
 first-name: Memory
 last-name: Scarlett
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: memory-scarlett.jpg
 website-url:

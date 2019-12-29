@@ -4,10 +4,11 @@ credit-name: Lauren M. Roy
 first-name: Lauren
 last-name: Roy
 file-as: r
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: lauren-m-roy.jpg
 website-url: www.wordsmeetworld.com/

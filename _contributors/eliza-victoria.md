@@ -4,10 +4,11 @@ credit-name: Eliza Victoria
 first-name: Eliza
 last-name: Victoria
 file-as: v
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic:
 website-url:

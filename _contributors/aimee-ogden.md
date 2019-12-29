@@ -1,18 +1,19 @@
 ---
 layout: contributor-profile
-credit-name: Diana Lu
-first-name: Diana
-last-name: Lu
-file-as: l
-role: author
+credit-name: Aimee Ogden
+first-name: Aimee
+last-name: Ogden
+file-as: o
+role: Author
 role-2:
 role-3:
-title: Author
+title: Aimee Ogden — Work in Fireside
+description: 
 twitter-handle:
-profile-pic: diana-lu.jpg
-website-url:
-short-name: diana-lu
-permalink: diana-lu
+profile-pic: aimee-ogden.jpg
+website-url: aimeeogdenwrites.wordpress.com
+short-name: aimee-ogden
+permalink: aimee-ogden
 bio-spanish:
 ---
-Diana Lu is a writer, comedian, and scientist in Boston, Massachusetts. She is a staff writer for _Plan A Magazine_ and _The New England Theatre Geek_. Her humor writing has appeared in _McSweeney's Internet Tendency_, _Women in Comedy Festival Daily_, _Robot Butt_, _Slackjaw_, and others.
+[Aimee Ogden](https://aimeeogdenwrites.wordpress.com/) is a former science teacher and software tester; now she writes stories about angry princesses, sad astronauts, and dead gods. She lives in Madison, Wisconsin, where the beer is always cold and the cheese curds are always fried. She is a graduate of the Viable Paradise workshop and her work also appears in _Shimmer Magazine_, _Apex Magazine_, _Beneath Ceaseless Skies_, _Analog Science Fiction and Fact_, and more.

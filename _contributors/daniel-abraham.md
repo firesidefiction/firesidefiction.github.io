@@ -4,10 +4,11 @@ credit-name: Daniel Abraham
 first-name: Daniel Abraham
 last-name: Daniel Abraham
 file-as: a
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: abrahamhanover
 profile-pic:
 website-url: the-expanse.com

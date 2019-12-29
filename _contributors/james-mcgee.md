@@ -4,10 +4,11 @@ credit-name: James McGee
 first-name: James
 last-name: McGee
 file-as: m
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: james-mcgee.jpg
 website-url: jamesleemcgee.blogspot.com

@@ -4,10 +4,11 @@ credit-name: James Darrow
 first-name: James
 last-name: Darrow
 file-as: d
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: james-darrow.jpg
 website-url:

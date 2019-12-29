@@ -4,10 +4,11 @@ credit-name: Nibedita Sen
 first-name: Nibedita
 last-name: Sen
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: her_nibsen
 profile-pic: ibedita-sen.jpg
 website-url:

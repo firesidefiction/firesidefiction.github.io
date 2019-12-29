@@ -4,10 +4,11 @@ credit-name: Jennifer Campbell-Hicks
 first-name: Jennifer
 last-name: Campbell-Hicks
 file-as: c
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic:
 website-url: jennifercampbellhicks.blogspot.com/

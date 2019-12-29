@@ -4,10 +4,10 @@ credit-name: C. S. E. Cooney
 first-name: Claire
 last-name: Cooney
 file-as: c
-role: author
-role-2: narrator
+role: Author
+role-2: Narrator
 role-3:
-title: Narrator
+title: C. S. E. Cooney — Work in Fireside
 twitter-handle: csecooney
 profile-pic: c-s-e-cooney.jpg
 website-url:

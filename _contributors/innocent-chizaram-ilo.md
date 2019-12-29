@@ -4,10 +4,11 @@ credit-name: Innocent Chizaram Ilo
 first-name: Innocent
 last-name: Chizaram Ilo
 file-as: c
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: innocent-chizaram-ilo.jpg
 website-url:

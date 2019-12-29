@@ -4,10 +4,11 @@ credit-name: Alexis A. Hunter
 first-name: Alexis
 last-name: Hunter
 file-as: h
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: alexis-a-hunter.jpg
 website-url: alexisahunter.com

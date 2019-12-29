@@ -4,10 +4,11 @@ credit-name: JY Yang
 first-name: JY
 last-name: Yang
 file-as: y
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: halleluyang
 profile-pic: j-y-yang.jpg
 website-url: www.misshallelujah.net

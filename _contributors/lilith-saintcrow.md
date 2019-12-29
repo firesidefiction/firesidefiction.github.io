@@ -4,10 +4,11 @@ credit-name: Lilith Saintcrow
 first-name: Lilith
 last-name: Saintcrow
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: lilithsaintcrow
 profile-pic: lilith-saintcrow.jpg
 website-url: www.lilithsaintcrow.com/

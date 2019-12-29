@@ -4,10 +4,11 @@ credit-name: Suzan Palumbo
 first-name: Suzan
 last-name: Palumbo
 file-as: p
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: suzan-palumbo.jpg
 website-url:

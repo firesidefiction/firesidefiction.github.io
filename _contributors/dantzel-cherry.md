@@ -4,10 +4,11 @@ credit-name: Dantzel Cherry
 first-name: Dantzel
 last-name: Cherry
 file-as: c
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: dantzelcherry
 profile-pic: dantzel-cherry.jpg
 website-url: www.dantzelcherry.com

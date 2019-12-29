@@ -4,10 +4,11 @@ credit-name: D.B. Starler
 first-name: D.B.
 last-name: Starler
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: DBStarler
 profile-pic: d-b-starler.jpg
 website-url:

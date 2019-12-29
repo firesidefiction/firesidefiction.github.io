@@ -4,7 +4,7 @@ credit-name: Sarah Gailey
 first-name: Sarah
 last-name: Gailey
 file-as: g
-role: author
+role: Author
 role-2:
 role-3:
 title:

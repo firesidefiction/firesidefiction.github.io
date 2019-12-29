@@ -4,10 +4,11 @@ credit-name: Amber Bird
 first-name: Amber
 last-name: Bird
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: amber-bird.jpg
 website-url:

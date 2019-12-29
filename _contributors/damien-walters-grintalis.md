@@ -4,10 +4,11 @@ credit-name: Damien Walters Grintalis
 first-name: Damien
 last-name: Walters Grintalis
 file-as: w
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: DWGrintalis
 profile-pic:
 website-url: damienwaltersgrintalis.com

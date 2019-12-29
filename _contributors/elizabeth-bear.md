@@ -4,10 +4,11 @@ credit-name: Elizabeth Bear
 first-name: Elizabeth
 last-name: Bear
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: matociquala
 profile-pic:
 website-url: elizabethbear.com

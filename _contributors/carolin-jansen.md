@@ -4,10 +4,11 @@ credit-name: Carolin Jansen
 first-name: Carolin
 last-name: Jansen
 file-as: j
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: _cjansen
 profile-pic: carolin-jansen.jpg
 website-url:

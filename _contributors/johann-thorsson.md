@@ -4,10 +4,11 @@ credit-name: Johann Thorsson
 first-name: Johann
 last-name: Thorsson
 file-as: t
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: johann-thorsson.jpg
 website-url:

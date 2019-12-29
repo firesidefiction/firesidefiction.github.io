@@ -4,10 +4,11 @@ credit-name: José Iriarte
 first-name: José
 last-name: Iriarte
 file-as: i
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: jose-iriarte.jpg
 website-url: labyrinthrat.com

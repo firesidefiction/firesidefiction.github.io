@@ -4,10 +4,11 @@ credit-name: Melissa Yuan-Innes
 first-name: Melissa
 last-name: Yuan-Innes
 file-as: y
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: dr_sassy
 profile-pic: melissa-yuan-innes.jpg
 website-url: melissayuaninnes.com

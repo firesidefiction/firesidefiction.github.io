@@ -4,10 +4,11 @@ credit-name: Margaret Killjoy
 first-name: Margaret
 last-name: Killjoy
 file-as: k
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: magpiekilljoy
 profile-pic: margaret-killjoy.jpg
 website-url: birdsbeforethestorm.net

@@ -4,10 +4,11 @@ credit-name: Tobias S. Buckell
 first-name: Tobias
 last-name: Buckell
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: tobiasbuckell
 profile-pic: tobias-s-buckell.jpg
 website-url: tobiasbuckell.com

@@ -4,10 +4,11 @@ credit-name: Suyi Davies Okungbowa
 first-name: Suyi
 last-name: Davies Okungbowa
 file-as: d
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: IAmSuyiDavies
 profile-pic: suyi-davies-okungbowa.jpg
 website-url:

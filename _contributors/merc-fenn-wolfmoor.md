@@ -4,10 +4,11 @@ credit-name: Merc Fenn Wolfmoor
 first-name: Merc
 last-name: Wolfmoor
 file-as: w
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: Merc_Rustad
 profile-pic: merc-fenn-wolfmoor.jpg
 website-url: mercfennwolfmoor.com

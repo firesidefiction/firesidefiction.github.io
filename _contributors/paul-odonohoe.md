@@ -4,10 +4,11 @@ credit-name: Paul O'Donohoe
 first-name: Paul
 last-name: O'Donohoe
 file-as: o
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: paul-odonohoe.jpg
 website-url:

@@ -4,10 +4,11 @@ credit-name: Laurel Halbany
 first-name: Laurel
 last-name: Halbany
 file-as: h
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: neverjaunty
 profile-pic: laurel-halbany.jpg
 website-url: neverjaunty.com/blog

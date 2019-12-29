@@ -4,10 +4,11 @@ credit-name: Christine Larsen
 first-name: Christine
 last-name: Larsen
 file-as: l
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic:
 website-url:

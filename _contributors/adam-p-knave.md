@@ -4,10 +4,11 @@ credit-name: Adam P. Knave
 first-name: Adam
 last-name: Knave
 file-as: k
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: Adam P. Knave — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: adam-p-knave.jpg
 website-url:

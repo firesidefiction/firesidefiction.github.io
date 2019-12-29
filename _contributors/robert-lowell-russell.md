@@ -4,10 +4,11 @@ credit-name: Robert Lowell Russell
 first-name: Robert Lowell Russell
 last-name: Robert Lowell Russell
 file-as: r
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: robert-lowell-russell.jpg
 website-url: robertlowellrussell.blogspot.com

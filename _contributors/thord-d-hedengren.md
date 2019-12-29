@@ -4,10 +4,11 @@ credit-name: Thord D. Hedengren
 first-name: Thord
 last-name: Hedengren
 file-as: h
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: tdh
 profile-pic: thord-d-hedengren.jpg
 website-url: tdh.me

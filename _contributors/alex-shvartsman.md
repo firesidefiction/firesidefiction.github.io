@@ -4,10 +4,11 @@ credit-name: Alex Shvartsman
 first-name: Shvartsman
 last-name: Shvartsman
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: alex-shvartsman.jpg
 website-url: alexshvartsman.com

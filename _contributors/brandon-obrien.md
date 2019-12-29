@@ -4,10 +4,11 @@ credit-name: Brandon O'Brien
 first-name: Brandon O'Brien
 last-name: Brandon O'Brien
 file-as: o
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: brandon-obrien.jpg
 website-url:

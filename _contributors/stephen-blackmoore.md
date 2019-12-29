@@ -4,10 +4,11 @@ credit-name: Stephen Blackmoore
 first-name: Stephen
 last-name: Blackmoore
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: sblackmoore
 profile-pic:
 website-url: stephenblackmoore.com

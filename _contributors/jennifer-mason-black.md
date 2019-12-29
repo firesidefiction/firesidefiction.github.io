@@ -4,10 +4,11 @@ credit-name: Jennifer Mason-Black
 first-name: Jennifer
 last-name: Mason-Black
 file-as: m
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: CosDrift
 profile-pic: jennifer-mason-black.jpg
 website-url: cosmicdriftwood.wordpress.com

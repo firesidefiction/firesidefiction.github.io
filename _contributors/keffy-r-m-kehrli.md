@@ -4,10 +4,11 @@ credit-name: Keffy R. M. Kehrli
 first-name: Keffy
 last-name: Kehrli
 file-as: k
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: keffy-r-m-kehrli.jpg
 website-url: glittership.com

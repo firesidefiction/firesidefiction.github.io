@@ -4,10 +4,11 @@ credit-name: M. Bennardo
 first-name: M. Bennardo
 last-name: Bennardo
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: m-bennardo.jpg
 website-url: www.mbennardo.com

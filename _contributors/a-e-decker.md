@@ -4,10 +4,11 @@ credit-name: A. E. Decker
 first-name: A. E.
 last-name: Decker
 file-as: d
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: A. E. Decker — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: a-e-decker.jpg
 website-url: www.wordsmeetworld.com/

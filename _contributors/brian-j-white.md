@@ -4,10 +4,11 @@ credit-name: Brian J. White
 first-name: Brian
 last-name: White
 file-as: w
-role: editor
-role-2: selector
-role-3:
-title: Founder & Editor, 2012-2017
+role: Editor
+role-2: Selector
+role-3: Author
+title: Brian J. White — Work in Fireside
+description: Founder & Editor, 2012-2017
 twitter-handle: talkwordy
 profile-pic: brian-j-white.jpg
 website-url: talkwordy.com

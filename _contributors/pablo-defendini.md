@@ -4,10 +4,11 @@ credit-name: Pablo Defendini
 first-name: Pablo
 last-name: Defendini
 file-as: d
-role: editor
-role-2: author
-role-3: narrator
-title: Publisher & Art Director
+role: Editor
+role-2: Author
+role-3: Narrator
+title: Pablo Defendini — Work in Fireside
+description: Publisher & Art Director
 twitter-handle: pablod
 profile-pic: pablo-defendini.jpg
 website-url: defendini.com

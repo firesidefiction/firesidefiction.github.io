@@ -4,10 +4,11 @@ credit-name: Kerry Truong
 first-name: Kerry
 last-name: Truong
 file-as: t
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: ninetalesk
 profile-pic: kerry-truong.jpg
 website-url:

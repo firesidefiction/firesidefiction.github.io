@@ -4,10 +4,11 @@ credit-name: Patricia Coral
 first-name: Patricia
 last-name: Coral
 file-as: c
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: patricia-coral.jpg
 website-url:

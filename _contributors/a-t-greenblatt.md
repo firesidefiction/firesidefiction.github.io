@@ -4,10 +4,11 @@ credit-name: A. T. Greenblatt
 first-name: A. T.
 last-name: Greenblatt
 file-as: g
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: A. T. Greenblatt — Work in Fireside
+description: 
 twitter-handle: AtGreenblatt
 profile-pic: a-t-greenblatt.jpg
 website-url: atgreenblatt.com

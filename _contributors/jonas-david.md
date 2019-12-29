@@ -4,10 +4,11 @@ credit-name: Jonas David
 first-name: Jonas
 last-name: David
 file-as: d
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: thejonasdavid
 profile-pic: jonas-david.jpg
 website-url: jonas-david.com

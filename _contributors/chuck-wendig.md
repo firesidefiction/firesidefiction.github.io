@@ -4,10 +4,11 @@ credit-name: Chuck Wendig
 first-name: Chuck
 last-name: Wendig
 file-as: w
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: chuck-wendig.jpg
 website-url:

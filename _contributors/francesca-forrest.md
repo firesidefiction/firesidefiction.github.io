@@ -4,10 +4,11 @@ credit-name: Francesca Forrest
 first-name: Francesca Forrest
 last-name: Francesca Forrest
 file-as: f
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: francesca-forrest.jpg
 website-url:

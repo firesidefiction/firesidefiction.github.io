@@ -4,10 +4,11 @@ credit-name: Jason Ridler
 first-name: Jason
 last-name: Ridler
 file-as: r
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: jason-ridler.jpg
 website-url:  

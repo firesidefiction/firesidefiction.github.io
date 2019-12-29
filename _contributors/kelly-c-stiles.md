@@ -4,10 +4,11 @@ credit-name: Kelly C. Stiles
 first-name: Kelly
 last-name: Stiles
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: kelly-c-stiles.jpg
 website-url: ladykuro.wordpress.com/

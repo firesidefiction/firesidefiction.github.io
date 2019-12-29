@@ -4,10 +4,11 @@ credit-name: Elsa Sjunneson
 first-name: Elsa
 last-name: Sjunneson
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: snarkbat
 profile-pic: elsa-sjunneson.jpg
 website-url:

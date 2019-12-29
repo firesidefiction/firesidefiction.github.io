@@ -4,10 +4,11 @@ credit-name: David Bowles
 first-name: David
 last-name: Bowles
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: david-bowles.jpg
 website-url:

@@ -4,10 +4,11 @@ credit-name: Maria Haskins
 first-name: Maria
 last-name: Haskins
 file-as: h
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: mariahaskins
 profile-pic: maria-haskins.jpg
 website-url: mariahaskins.com

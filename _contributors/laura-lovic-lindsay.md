@@ -4,10 +4,11 @@ credit-name: Laura Lovic-Lindsay
 first-name: Laura
 last-name: Lovic-Lindsay
 file-as: l
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: laura-lovic-lindsay.jpg
 website-url:

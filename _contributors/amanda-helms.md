@@ -4,10 +4,11 @@ credit-name: Amanda Helms
 first-name: Amanda
 last-name: Helms
 file-as: h
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: amandaghelms
 profile-pic: amanda-helms.jpg
 website-url: amandahelms.com

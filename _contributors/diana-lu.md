@@ -4,10 +4,10 @@ credit-name: Diana Lu
 first-name: Diana
 last-name: Lu
 file-as: l
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: Diana Lu — Work in Fireside
 twitter-handle:
 profile-pic: diana-lu.jpg
 website-url:

@@ -4,10 +4,11 @@ credit-name: Stefon Mears
 first-name: Stefon
 last-name: Mears
 file-as: m
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: stefonmears
 profile-pic: stefon-mears.jpg
 website-url: www.stefonmears.com

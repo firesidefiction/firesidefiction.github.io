@@ -4,10 +4,11 @@ credit-name: Chelle Parker
 first-name: Chelle
 last-name: Parker
 file-as: p
-role: editor
+role: Editor
 role-2:
 role-3:
-title: Copyeditor
+title: Chelle Parker — Work in Fireside
+description: Copyeditor
 twitter-handle: chellenator
 profile-pic: chelle-parker.jpg
 website-url: mparkerediting.com

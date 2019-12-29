@@ -12,14 +12,14 @@ layout: default
     <div>
       <p class="label">Contributor profile</p>
       <h1>{{ page.credit-name }}</h1>
-      <h2>{{ page.title | markdownify }}</h2>
+      {% if page.description %}<h2>{{ page.description | markdownify }}</h2>{% endif %}
       {{ content }}
       {% if page.website-url %}<p>Website: <a href="http://{{ page.website-url }}">{{ page.website-url }}</a>{% if page.twitter-handle %} • <a href="https://twitter.com/{{ page.twitter-handle }}">@{{ page.twitter-handle }}</a> on Twitter{% endif %}</p>{% endif %}
     </div>
   </div>
   <div class="works-list">
     <ul>
-      {% assign filtered_author_posts = site.posts | where_exp: 'author', page.short-name %}
+      {% assign filtered_author_posts = site.posts | where: 'author', page.short-name %}
       {% for post in filtered_author_posts limit: 1 %}
         <hr/>
         <p class="label">{{ page.first-name }}'s Writing in Fireside</p>

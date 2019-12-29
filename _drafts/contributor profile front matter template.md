@@ -7,7 +7,8 @@ file-as:
 role:
 role-2:
 role-3:
-title:
+title: — Work in Fireside
+description:
 twitter-handle:
 profile-pic:
 website-url:

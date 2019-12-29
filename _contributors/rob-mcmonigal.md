@@ -4,10 +4,11 @@ credit-name: Rob McMonigal
 first-name: Rob
 last-name: McMonigal
 file-as: m
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: rob_mcmonigal
 profile-pic: rob-mcmonigal.jpg
 website-url:  www.panelpatter.com

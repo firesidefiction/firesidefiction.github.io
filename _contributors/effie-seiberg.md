@@ -4,10 +4,10 @@ credit-name: Effie Seiberg
 first-name: Effie
 last-name: Seiberg
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: Effie Seiberg — Work in Fireside
 twitter-handle: effies
 profile-pic: effie-seiberg.jpg
 website-url: effieseiberg.com

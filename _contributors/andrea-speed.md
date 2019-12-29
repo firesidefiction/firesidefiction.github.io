@@ -4,10 +4,11 @@ credit-name: Andrea Speed
 first-name: Andrea
 last-name: Speed
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: andrea-speed.jpg
 website-url: 

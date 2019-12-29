@@ -4,10 +4,11 @@ credit-name: E.C. Ambrose
 first-name: E.C.
 last-name: Ambrose
 file-as: a
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle:
 profile-pic: e-c-ambrose.jpg
 website-url: ecambrose.wordpress.com

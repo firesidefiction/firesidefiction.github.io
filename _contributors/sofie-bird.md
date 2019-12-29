@@ -4,10 +4,11 @@ credit-name: Sofie Bird
 first-name: Sofie
 last-name: Bird
 file-as: b
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: sofie_bird
 profile-pic: sofie-bird.jpg
 website-url: sofiebird.net

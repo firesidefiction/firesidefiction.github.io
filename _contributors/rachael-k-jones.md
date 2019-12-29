@@ -4,10 +4,11 @@ credit-name: Rachael K. Jones
 first-name: Rachael
 last-name: Jones
 file-as: j
-role: author
+role: Author
 role-2:
 role-3:
-title: Author
+title: FOO — Work in Fireside
+description: 
 twitter-handle: rachaelkjones
 profile-pic: rachael-k-jones.jpg
 website-url: rckjones.wordpress.com
