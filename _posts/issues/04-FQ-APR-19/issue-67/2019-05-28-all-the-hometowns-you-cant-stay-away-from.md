@@ -1,26 +1,41 @@
 ---
 layout: story
-title: All the Hometowns You Can't Stay Away From
-author: Izzy Wasserstein
-editor: Julia Rios
-date: 2019-05-28 01:00:01 -0500
 category: short story
+issue: 67, May 2019
+issue-cover: issue-67-cover.png
+issue-buy-link:
+title: All the Hometowns You Can't Stay Away From
+subtitle:
+author: izzy-wasserstein
+author-2:
+author-3:
+editor: julia-rios
+illustrator: matthew-davis
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-05-28 01:00:01 -0500
 permalink: all-the-hometowns-you-cant-stay-away-from
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-28-all-the-hometowns-you-cant-stay-away-from.mp3
-narrator: c-s-e-cooney
-published: true
 teaser: "We all do what we must to survive returning home."
-author-img: izzy-wasserstein.jpg
-author-bio: |
-  **Izzy Wasserstein** teaches writing and literature at a midwestern university, and writes poetry and fiction. Her work has appeared in _Clarkesworld Magazine_, _Lady Churchill's Rosebud Wristlet_, and _PseudoPod_. Her most recent poetry collection is _When Creation Falls_. She shares a home with her spouse, Nora E. Derrington, and their animal companions. She's an enthusiastic member of the 2017 class of Clarion West and likes to slowly run long distances.
-proofread: true
 art: all-the-hometowns-you-cant-stay-away-from.png
-caption: "A woman's face peers at you through the chaotic, electric ether, in multiples."
-artist: Matthew Davis
-artist-img: matthew-davis.jpg
-artist-bio: |
-  **Matt Davis** is a writer and artist from the middle of nowhere in the Central Valley of California. He's written a couple of weird books about magic and monsters, but spends most of his time watching cartoons.
+artcaption: "A woman's face peers at you through the chaotic, electric ether, in multiples."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 You Snap into the procedurally-generated shithole you call a hometown, and a moment later the stench leaves you gagging. So many universes and yet, in almost every one, South Topeka smells like a family of raccoons died inside a middle school locker room.

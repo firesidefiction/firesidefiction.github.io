@@ -1,20 +1,42 @@
 ---
 layout: poem
-title: Mother Tongue
-author: Jessica Jo Horowitz
-editor: Julia Rios
-date: 2019-05-09 01:00:01 -0500
 category: poem
+issue: 67, May 2019
+issue-cover: issue-67-cover.png
+issue-buy-link:
+title: Mother Tongue
+subtitle:
+author: jessica-jo-horowitz
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-05-09 01:00:01 -0500
 permalink: mother-tongue
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-09-mother-tongue.mp3
-narrator: c-s-e-cooney
-published: true
 teaser: "I can almost make out your shape
 locked inside the chambers of my heart"
-author-img: jessica-jo-horowitz.jpg
-author-bio: |
-  **Jessica Jo Horowitz** is a speculative poet and writer who studies fencing and circus arts in the time between. Other works published or forthcoming in _Twisted Moon_, _Apparition Lit_, _Star*Line_, _Grievous Angel_, and others. Born in Korea, she now lives in New England, where she balances her aversion to cold with the inability to live anywhere without snow. Tweets at [@transientj](https://www.twitter.com/transientj).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 “I opened my mouth and my mother came out.”<br/>
