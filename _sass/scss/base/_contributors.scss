@@ -33,6 +33,16 @@
   font-family: $font-secondary;
   max-width: 45em;
   margin: 0 auto;
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 1em;
+  }
+  .label {
+    text-transform: uppercase;
+    margin: 0;
+  }
 }
 
 .contributor-info {
