@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 69, July 2019
-issue-cover: issue-69-cover.png
+issue: 68, June 2019
+issue-cover: issue-68-cover.png
 issue-buy-link:
 title:
 subtitle:

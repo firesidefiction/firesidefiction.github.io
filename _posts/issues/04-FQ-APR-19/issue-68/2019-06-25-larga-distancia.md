@@ -1,23 +1,41 @@
 ---
 layout: story
-title: Larga Distancia
-author: Raquel Castro
-editor: Julia Rios
-date: 2019-06-25 01:00:01 -0500
 category: cuento corto
+issue: 68, June 2019
+issue-cover: issue-68-cover.png
+issue-buy-link:
+title: Larga Distancia
+subtitle:
+author: raquel-castro
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: 
+selector:
+translator:
+narrator: pablo-defendini
+letterer:
+date: 2019-06-25 01:00:01 -0500
 permalink: larga-distancia
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-25-larga-distancia.mp3
+teaser: "Pero hay otras veces en que llama para quejarse: de mi ausencia, de su soledad, de lo frío que me he vuelto con ella..."
+art:
+artcaption:
+translated:
+language:
 spanish-language: yes
 spanish-date: Julio 2019
 english-url: long-distance
-audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-25-larga-distancia.mp3
-narrator: Pablo Defendini
-published: true
-teaser: "Pero hay otras veces en que llama para quejarse: de mi ausencia, de su soledad, de lo frío que me he vuelto con ella..."
-author-img: raquel-castro.jpeg
-author-bio: |
-  **Raquel Castro** (Ciudad de México, 1976) es escritora, profesora, y promotora cultural. En 2012 ganó el Premio Gran Angular de literatura juvenil, y como parte del equipo de producción del programa televisivo mexicano _Diálogos en confianza_ ganó dos veces el Premio Nacional de Periodismo. Es Autora de las novelas _Ojos llenos de sombra_, _Lejos de Casa_, _Exiliados_, _Dark Doll_, y _Un beso en tu futuro_, así como coantologista de _Festín de muertos_, una antología de cuentos mexicanos de zombis con muchos de los mejores autores de weird fiction de México. Tiene una columna sobre literatura infantil y juvenil en la revista _LeeMás_. Su trabajo ha aparecido en inglés en _Latin American Literature Today_, _World Literature Today_, _Nagari_, _Palabras Errantes_ y otras publicaciones. Se le puede encontrar en su canal de YouTube [www.youtube.com/AlbertoyRaquelMX](http://www.youtube.com/AlbertoyRaquelMX) y en Twitter como [@raxxie_](https://www.twitter.com/raxxie_).
-proofread: true
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 A veces, mi madre me llama sólo para saludar: me dice que se acordó de mí por una canción que escuchó en el microbús o por una fotografía en una revista (ella insiste en que me parezco a cierto actor de moda), me cuenta en pocos minutos cómo le ha ido, cómo está la familia y entonces se despide.
