@@ -1,12 +1,12 @@
 ---
 layout: post
 category: announcement
-issue: 2, Summer 2012
-issue-cover: issue-2-cover.png
+issue:
+issue-cover: 
 issue-buy-link:
 title: Issue 2 — WOW. ISSUE TWO.
 subtitle:
-author: brian-j-white
+author:
 author-2:
 editor:
 illustrator:

@@ -17,52 +17,88 @@ layout: default
       {% if page.website-url %}<p>Website: <a href="http://{{ page.website-url }}">{{ page.website-url }}</a>{% if page.twitter-handle %} • <a href="https://twitter.com/{{ page.twitter-handle }}">@{{ page.twitter-handle }}</a> on Twitter{% endif %}</p>{% endif %}
     </div>
   </div>
-  <p class="label">{{ page.first-name }}'s Work in Fireside</p>
-  <ul>
-    {% assign filtered_author_posts = site.posts | where: 'author', page.short-name %}
-    {% for post in filtered_author_posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+  <div class="works-list">
+    <ul>
+      {% assign filtered_author_posts = site.posts | where_exp: 'author', page.short-name %}
+      {% for post in filtered_author_posts limit: 1 %}
+        <hr/>
+        <p class="label">{{ page.first-name }}'s Writing in Fireside</p>
+      {% endfor %}
+      {% for post in filtered_author_posts %}
+        <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
+          <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
 
-    {% assign filtered_author-2_posts = site.posts | where: 'author-2', page.short-name %}
-    {% for post in filtered_author-2_posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+      {% assign filtered_editor_posts = site.posts | where: 'editor', page.short-name %}
+      {% for post in filtered_editor_posts limit: 1 %}
+        <hr/>
+        <p class="label">{{ page.first-name }}'s Developmental Editing Work in Fireside</p>
+      {% endfor %}
+      {% for post in filtered_editor_posts %}
+        <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
+          Edited <a href="{{ post.url }}">{{ post.title }}, by {{ post.author }}</a></li>
+      {% endfor %}
 
-    {% assign filtered_editor_posts = site.posts | where: 'editor', page.short-name %}
-    {% for post in filtered_editor_posts %}
-      <li>Edited <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+      {% assign filtered_illustrator_posts = site.posts | where: 'illustrator', page.short-name %}
+      {% for post in filtered_illustrator_posts limit: 1 %}
+      <hr/>
+      <p class="label">{{ page.first-name }}'s Illustration Work in Fireside</p>
+      {% endfor %}
+      {% for post in filtered_illustrator_posts %}
+        <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
+          Illustrated <a href="{{ post.url }}">{{ post.title }}, by {{ post.author }}</a></li>
+      {% endfor %}
 
-    {% assign filtered_illustrator_posts = site.posts | where: 'illustrator', page.short-name %}
-    {% for post in filtered_illustrator_posts %}
-      <li>Illustrated <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+      {% assign filtered_copyeditor_posts = site.posts | where: 'copyeditor', page.short-name %}
+      {% for post in filtered_copyeditor_posts limit: 1 %}
+      <hr/>
+      <p class="label">{{ page.first-name }}'s Copyediting Work in Fireside</p>
+      {% endfor %}
+      {% for post in filtered_copyeditor_posts %}
+        <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
+          Copyedited <a href="{{ post.url }}">{{ post.title }}, by {{ post.author }}</a></li>
+      {% endfor %}
 
-    {% assign filtered_copyeditor_posts = site.posts | where: 'copyeditor', page.short-name %}
-    {% for post in filtered_copyeditor_posts %}
-      <li>Copyedited <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+      {% assign filtered_selector_posts = site.posts | where: 'selector', page.short-name %}
+      {% for post in filtered_selector_posts limit: 1 %}
+      <hr/>
+      <p class="label">{{ page.first-name }}'s Acquisitions for Fireside</p>
+      {% endfor %}
+      {% for post in filtered_selector_posts %}
+        <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
+          Selected <a href="{{ post.url }}">{{ post.title }}, by {{ post.author }}</a></li>
+      {% endfor %}
 
-    {% assign filtered_selector_posts = site.posts | where: 'selector', page.short-name %}
-    {% for post in filtered_selector_posts %}
-      <li>Selected <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+      {% assign filtered_translator_posts = site.posts | where: 'translator', page.short-name %}
+      {% for post in filtered_translator_posts limit: 1 %}
+      <hr/>
+      <p class="label">{{ page.first-name }}'s Translations in Fireside</p>
+      {% endfor %}
+      {% for post in filtered_translator_posts %}
+        <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
+          Translated <a href="{{ post.url }}">{{ post.title }}, by {{ post.author }}</a></li>
+      {% endfor %}
 
-    {% assign filtered_translator_posts = site.posts | where: 'translator', page.short-name %}
-    {% for post in filtered_translator_posts %}
-      <li>Translated <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+      {% assign filtered_narrator_posts = site.posts | where: 'narrator', page.short-name %}
+      {% for post in filtered_narrator_posts limit: 1 %}
+      <hr/>
+      <p class="label">{{ page.first-name }}'s Narration Work in Fireside</p>
+      {% endfor %}
+      {% for post in filtered_narrator_posts %}
+        <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
+          Narrated <a href="{{ post.url }}">{{ post.title }}, by {{ post.author }}</a></li>
+      {% endfor %}
 
-    {% assign filtered_narrator_posts = site.posts | where: 'narrator', page.short-name %}
-    {% for post in filtered_narrator_posts %}
-      <li>Narrated <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+      {% assign filtered_letterer_posts = site.posts | where: 'letterer', page.short-name %}
+      {% for post in filtered_letterer_posts limit: 1 %}
+      <hr/>
+      <p class="label">{{ page.first-name }}'s Lettering Work in Fireside</p>
+      {% endfor %}
+      {% for post in filtered_letterer_posts %}
+        <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
+          Lettered <a href="{{ post.url }}">{{ post.title }}, by {{ post.author }}</a></li>
+      {% endfor %}
 
-    {% assign filtered_letterer_posts = site.posts | where: 'letterer', page.short-name %}
-    {% for post in filtered_letterer_posts %}
-      <li>Lettered <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-
-  </ul>
+    </ul>
+  </div>
 </section>

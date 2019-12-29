@@ -29,6 +29,14 @@
   }
 }
 
+.works-list {
+  max-width: 35em;
+  margin: 0 auto;
+  li {
+    margin-top: $space-half;
+  }
+}
+
 .contributor-profile {
   font-family: $font-secondary;
   max-width: 45em;
