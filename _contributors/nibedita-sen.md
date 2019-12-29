@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Nibedita Sen — Work in Fireside
+description:
 twitter-handle: her_nibsen
 profile-pic: ibedita-sen.jpg
 website-url:

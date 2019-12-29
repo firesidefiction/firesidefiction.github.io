@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Elsa Sjunneson — Work in Fireside
+description:
 twitter-handle: snarkbat
 profile-pic: elsa-sjunneson.jpg
 website-url:

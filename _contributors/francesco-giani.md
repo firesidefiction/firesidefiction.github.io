@@ -7,7 +7,8 @@ file-as: g
 role: illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Francesco Giani — Work in Fireside
+description: Illustrator
 twitter-handle:
 profile-pic: francesco-giani.jpg
 website-url:

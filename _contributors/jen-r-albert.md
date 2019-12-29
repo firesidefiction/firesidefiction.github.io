@@ -7,8 +7,8 @@ file-as: a
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Jen R Albert — Work in Fireside
+description:
 twitter-handle: jenralbert
 profile-pic: jen-r-albert.jpg
 website-url:

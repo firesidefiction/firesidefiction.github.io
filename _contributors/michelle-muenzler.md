@@ -7,8 +7,8 @@ file-as: m
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Michelle Muenzler — Work in Fireside
+description:
 twitter-handle:
 profile-pic: michelle-muenzler.jpg
 website-url: michellemuenzler.com

@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: David Alex Shepherd — Work in Fireside
+description:
 twitter-handle: DvShepherd
 profile-pic: david-alex-shepherd.jpg
 website-url: davidalexshepherd.com

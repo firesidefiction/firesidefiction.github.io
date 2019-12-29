@@ -7,8 +7,8 @@ file-as: n
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Mari Ness — Work in Fireside
+description:
 twitter-handle: mari_ness
 profile-pic: mari-ness.jpg
 website-url: marikness.wordpress.com

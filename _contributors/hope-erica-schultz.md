@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Hope Erica Schultz — Work in Fireside
+description:
 twitter-handle:
 profile-pic: hope-erica-schultz.jpg
 website-url: tlenajade.wix.com/hope-erica-schultz

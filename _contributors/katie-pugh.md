@@ -7,8 +7,8 @@ file-as: p
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Katie Pugh — Work in Fireside
+description:
 twitter-handle:
 profile-pic: katie-pugh.jpg
 website-url:  bohemianonrye.com

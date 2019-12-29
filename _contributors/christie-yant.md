@@ -7,8 +7,8 @@ file-as: y
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Christie Yant — Work in Fireside
+description:
 twitter-handle: inkhaven
 profile-pic:
 website-url: inkhaven.net

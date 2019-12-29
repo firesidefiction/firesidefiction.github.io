@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Erica L. Satifka — Work in Fireside
+description:
 twitter-handle:
 profile-pic: erica-l-satifka.jpg
 website-url:

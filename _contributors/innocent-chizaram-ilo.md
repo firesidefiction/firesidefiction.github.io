@@ -7,8 +7,8 @@ file-as: c
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Innocent Chizaram Ilo — Work in Fireside
+description:
 twitter-handle:
 profile-pic: innocent-chizaram-ilo.jpg
 website-url:

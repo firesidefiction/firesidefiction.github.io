@@ -4,10 +4,11 @@ credit-name: Amy Houser
 first-name: Amy
 last-name: Houser
 file-as: h
-role: illustrator
+role: Illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Amy Houser — Work in Fireside
+description: Illustrator
 twitter-handle:
 profile-pic: amy-houser.jpg
 website-url: amylikestodraw.com

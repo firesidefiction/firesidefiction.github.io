@@ -7,8 +7,8 @@ file-as: j
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Rachael K. Jones — Work in Fireside
+description:
 twitter-handle: rachaelkjones
 profile-pic: rachael-k-jones.jpg
 website-url: rckjones.wordpress.com

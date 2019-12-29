@@ -7,8 +7,8 @@ file-as: c
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Dantzel Cherry — Work in Fireside
+description:
 twitter-handle: dantzelcherry
 profile-pic: dantzel-cherry.jpg
 website-url: www.dantzelcherry.com

@@ -7,7 +7,8 @@ file-as: g
 role: Author
 role-2:
 role-3:
-title:
+title: Sarah Gailey — Work in Fireside
+description:
 twitter-handle: gaileyfrey
 profile-pic: sarah-gailey.jpg
 website-url: sarahgailey.com

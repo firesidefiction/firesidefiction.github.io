@@ -7,8 +7,8 @@ file-as: b
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Libia Brenda — Work in Fireside
+description:
 twitter-handle:
 profile-pic: libia-brenda.jpg
 website-url:

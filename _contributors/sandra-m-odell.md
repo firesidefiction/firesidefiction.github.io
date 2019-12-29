@@ -7,8 +7,8 @@ file-as: o
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Sandra M. Odell — Work in Fireside
+description:
 twitter-handle:
 profile-pic: sandra-m-odell.jpg
 website-url: writerodell.com

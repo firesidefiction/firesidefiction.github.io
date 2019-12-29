@@ -7,7 +7,8 @@ file-as: p
 role: illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Mariana Palova — Work in Fireside
+description: Illustrator
 twitter-handle:
 profile-pic: mariana-palova.jpg
 website-url:

@@ -6,7 +6,7 @@ issue-cover: issue-28-cover.png
 issue-buy-link:
 title: Cupid and Psyche at the Caffé Sol Y Mar
 subtitle:
-author: jose-iriarte
+author: jose-pablo-iriarte
 author-2:
 author-3:
 editor: brian-j-white

@@ -7,8 +7,8 @@ file-as: c
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Nino Cipri — Work in Fireside
+description:
 twitter-handle:
 profile-pic: nino-cipri.jpg
 website-url: ninocipri.com

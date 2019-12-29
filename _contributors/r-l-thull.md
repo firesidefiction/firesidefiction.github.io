@@ -7,8 +7,8 @@ file-as: t
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: R.L. Thull — Work in Fireside
+description:
 twitter-handle:
 profile-pic: r-l-thull.jpg
 website-url:

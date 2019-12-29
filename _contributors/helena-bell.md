@@ -7,8 +7,8 @@ file-as: b
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Helena Bell — Work in Fireside
+description:
 twitter-handle: HelBell
 profile-pic: helena-bell.jpg
 website-url: helbell.com

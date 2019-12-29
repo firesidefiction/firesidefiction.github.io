@@ -7,8 +7,8 @@ file-as: h
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: M. K. Hutchins — Work in Fireside
+description:
 twitter-handle:
 profile-pic: m-k-hutchins.jpg
 website-url: mkhutchins.com

@@ -7,8 +7,8 @@ file-as: b
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Stephen Blackmoore — Work in Fireside
+description:
 twitter-handle: sblackmoore
 profile-pic:
 website-url: stephenblackmoore.com

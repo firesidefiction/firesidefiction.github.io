@@ -7,8 +7,8 @@ file-as: i
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: José Pablo Iriarte — Work in Fireside
+description:
 twitter-handle: labyrinthrat
 profile-pic: jose-pablo-iriarte.jpg
 website-url: labyrinthrat.com

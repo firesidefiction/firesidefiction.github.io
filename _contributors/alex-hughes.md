@@ -7,7 +7,8 @@ file-as: h
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
+title: Alex Hughes — Work in Fireside
+description:
 twitter-handle:
 profile-pic: alex-hughes.jpg
 website-url:

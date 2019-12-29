@@ -7,8 +7,8 @@ file-as: d
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Steven J. Dines — Work in Fireside
+description:
 twitter-handle:
 profile-pic: steven-j-dines.jpg
 website-url: stevenjdines.com

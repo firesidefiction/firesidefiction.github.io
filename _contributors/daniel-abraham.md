@@ -7,8 +7,8 @@ file-as: a
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Daniel Abraham — Work in Fireside
+description:
 twitter-handle: abrahamhanover
 profile-pic:
 website-url: the-expanse.com

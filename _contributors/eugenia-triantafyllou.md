@@ -7,8 +7,8 @@ file-as: t
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Eugenia Triantafyllou — Work in Fireside
+description:
 twitter-handle: FoxesandRoses
 profile-pic: eugenia-triantafyllou.jpg
 website-url: eugeniatriantafyllou.wordpress.com

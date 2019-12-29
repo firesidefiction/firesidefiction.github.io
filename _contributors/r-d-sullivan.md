@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: R.D. Sullivan — Work in Fireside
+description:
 twitter-handle: _TheRussian
 profile-pic: r-d-sullivan.jpg
 website-url: govneh.wordpress.com

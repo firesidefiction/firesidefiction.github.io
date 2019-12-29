@@ -8,6 +8,7 @@ role: Author
 role-2:
 role-3:
 title: Effie Seiberg — Work in Fireside
+description: 
 twitter-handle: effies
 profile-pic: effie-seiberg.jpg
 website-url: effieseiberg.com

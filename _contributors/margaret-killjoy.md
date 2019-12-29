@@ -7,8 +7,8 @@ file-as: k
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Margaret Killjoy — Work in Fireside
+description:
 twitter-handle: magpiekilljoy
 profile-pic: margaret-killjoy.jpg
 website-url: birdsbeforethestorm.net

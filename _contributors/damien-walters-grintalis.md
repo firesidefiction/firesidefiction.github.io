@@ -7,8 +7,8 @@ file-as: w
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Damien Walters Grintalis — Work in Fireside
+description:
 twitter-handle: DWGrintalis
 profile-pic:
 website-url: damienwaltersgrintalis.com

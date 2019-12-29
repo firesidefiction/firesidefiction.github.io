@@ -7,8 +7,8 @@ file-as: b
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: M. Bennardo — Work in Fireside
+description:
 twitter-handle:
 profile-pic: m-bennardo.jpg
 website-url: www.mbennardo.com

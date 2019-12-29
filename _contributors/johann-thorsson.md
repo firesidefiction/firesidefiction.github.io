@@ -7,8 +7,8 @@ file-as: t
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Johann Thorsson — Work in Fireside
+description:
 twitter-handle:
 profile-pic: johann-thorsson.jpg
 website-url:

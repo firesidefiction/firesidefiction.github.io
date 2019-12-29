@@ -7,8 +7,8 @@ file-as: n
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Sherin Nicole — Work in Fireside
+description:
 twitter-handle:
 profile-pic: sherin-nicole.jpg
 website-url:

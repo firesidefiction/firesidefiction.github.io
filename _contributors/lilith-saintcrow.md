@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Lilith Saintcrow — Work in Fireside
+description:
 twitter-handle: lilithsaintcrow
 profile-pic: lilith-saintcrow.jpg
 website-url: www.lilithsaintcrow.com/

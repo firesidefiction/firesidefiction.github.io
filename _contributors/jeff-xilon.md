@@ -7,8 +7,8 @@ file-as: x
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Jeff Xilon — Work in Fireside
+description:
 twitter-handle: JXilon
 profile-pic: jeff-xilon.jpg
 website-url: jeffxilon.com

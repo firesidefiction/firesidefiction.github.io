@@ -7,8 +7,8 @@ file-as: y
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: JY Yang — Work in Fireside
+description:
 twitter-handle: halleluyang
 profile-pic: j-y-yang.jpg
 website-url: www.misshallelujah.net

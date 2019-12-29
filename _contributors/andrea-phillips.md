@@ -8,6 +8,7 @@ role: Author
 role-2:
 role-3:
 title: Andrea Phillips — Work in Fireside
+description:
 twitter-handle: andrhia
 profile-pic: andrea-phillips.jpg
 website-url: www.deusexmachinatio.com

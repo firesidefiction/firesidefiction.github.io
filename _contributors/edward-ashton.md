@@ -7,8 +7,8 @@ file-as: a
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Edward Ashton — Work in Fireside
+description:
 twitter-handle:
 profile-pic: edward-ashton.jpg
 website-url: edward-ashton.squarespace.com

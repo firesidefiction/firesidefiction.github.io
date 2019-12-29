@@ -4,10 +4,11 @@ credit-name: Amanda Makepeace
 first-name: Amanda
 last-name: Makepeace
 file-as: m
-role: illustrator
+role: Illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Amanda Makepeace — Work in Fireside
+description: Illustrator
 twitter-handle:
 profile-pic: amanda-makepeace.jpg
 website-url: amandamakepeace.com

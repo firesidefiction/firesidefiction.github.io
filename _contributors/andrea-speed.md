@@ -7,11 +7,11 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Andrea Speed — Work in Fireside
+description:
 twitter-handle:
 profile-pic: andrea-speed.jpg
-website-url: 
+website-url:
 short-name: andrea-speed
 permalink: andrea-speed
 ---

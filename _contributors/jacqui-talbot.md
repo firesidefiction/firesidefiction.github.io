@@ -7,8 +7,8 @@ file-as: t
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Jacqui Talbot — Work in Fireside
+description:
 twitter-handle:
 profile-pic: jacqui-talbot.jpg
 website-url:

@@ -7,8 +7,8 @@ file-as: k
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Jake Kerr — Work in Fireside
+description:
 twitter-handle:
 profile-pic:
 website-url:

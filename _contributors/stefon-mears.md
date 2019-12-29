@@ -7,8 +7,8 @@ file-as: m
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Stefon Mears — Work in Fireside
+description:
 twitter-handle: stefonmears
 profile-pic: stefon-mears.jpg
 website-url: www.stefonmears.com

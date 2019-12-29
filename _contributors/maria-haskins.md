@@ -7,8 +7,8 @@ file-as: h
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Maria Haskins — Work in Fireside
+description:
 twitter-handle: mariahaskins
 profile-pic: maria-haskins.jpg
 website-url: mariahaskins.com

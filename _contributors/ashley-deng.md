@@ -7,8 +7,8 @@ file-as: d
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Ashley Deng — Work in Fireside
+description:
 twitter-handle:
 profile-pic: ashley-deng.jpg
 website-url:

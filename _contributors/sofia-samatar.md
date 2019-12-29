@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Sofia Samatar — Work in Fireside
+description:
 twitter-handle:
 profile-pic: sofia-samatar.jpg
 website-url: sofiasamatar.com

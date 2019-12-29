@@ -7,8 +7,8 @@ file-as: n
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Lisa Nohealani Morton — Work in Fireside
+description:
 twitter-handle: lnmorton
 profile-pic: lisa-nohealani-morton.jpg
 website-url:

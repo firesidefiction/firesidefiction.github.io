@@ -7,8 +7,8 @@ file-as: f
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Eric Francis — Work in Fireside
+description:
 twitter-handle:
 profile-pic: eric-francis.jpg
 website-url: Facebook.com/DogtownWriter

@@ -7,8 +7,8 @@ file-as: d
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Jonas David — Work in Fireside
+description:
 twitter-handle: thejonasdavid
 profile-pic: jonas-david.jpg
 website-url: jonas-david.com

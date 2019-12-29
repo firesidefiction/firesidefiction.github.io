@@ -7,8 +7,8 @@ file-as: e
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Renee Elizabeths — Work in Fireside
+description:
 twitter-handle: reneeelizabeths
 profile-pic: renee-elizabeths.jpg
 website-url: reneeelizabeths.com

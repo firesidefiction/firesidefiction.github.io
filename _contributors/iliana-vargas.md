@@ -7,8 +7,8 @@ file-as: v
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Iliana Vargas — Work in Fireside
+description:
 twitter-handle:
 profile-pic: iliana-vargas.jpg
 website-url: alteracionesdelpsicosoma.wordpress.com

@@ -7,8 +7,8 @@ file-as: g
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: John F. Gardner — Work in Fireside
+description:
 twitter-handle: wombatdeamor
 profile-pic:
 website-url:

@@ -1,14 +1,14 @@
 ---
 layout: contributor-profile
 credit-name: Robert Lowell Russell
-first-name: Robert Lowell Russell
-last-name: Robert Lowell Russell
+first-name: Robert
+last-name: ussell
 file-as: r
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Robert Lowell Russell — Work in Fireside
+description:
 twitter-handle:
 profile-pic: robert-lowell-russell.jpg
 website-url: robertlowellrussell.blogspot.com

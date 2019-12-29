@@ -7,8 +7,8 @@ file-as: a
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Day Al-Mohamed — Work in Fireside
+description:
 twitter-handle: DayAlMohamed
 profile-pic: day-al-mohamed.jpg
 website-url: DayAlMohamed.com

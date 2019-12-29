@@ -7,8 +7,8 @@ file-as: a
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: E.C. Ambrose — Work in Fireside
+description:
 twitter-handle:
 profile-pic: e-c-ambrose.jpg
 website-url: ecambrose.wordpress.com

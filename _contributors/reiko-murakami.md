@@ -7,7 +7,8 @@ file-as: m
 role: illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Reiko Murakami — Work in Fireside
+description: Illustrator
 twitter-handle:
 profile-pic: reiko-murakami.jpg
 website-url:

@@ -7,8 +7,8 @@ file-as: t
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Sheree Renée Thomas — Work in Fireside
+description:
 twitter-handle:
 profile-pic: sheree-renee-thomas.jpg
 website-url:

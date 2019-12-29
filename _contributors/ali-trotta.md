@@ -7,8 +7,8 @@ file-as: h
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Ali Trotta — Work in Fireside
+description:
 twitter-handle: alwayscoffee
 profile-pic: ali-trotta.jpg
 website-url: alwayscoffee.wordpress.com

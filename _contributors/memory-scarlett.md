@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Memory Scarlett — Work in Fireside
+description:
 twitter-handle:
 profile-pic: memory-scarlett.jpg
 website-url:

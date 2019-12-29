@@ -7,8 +7,8 @@ file-as: b
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Rebecca Birch — Work in Fireside
+description:
 twitter-handle:
 profile-pic: rebecca-birch.jpg
 website-url: wordsofbirch.com

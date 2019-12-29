@@ -7,8 +7,8 @@ file-as: j
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Carolin Jansen — Work in Fireside
+description:
 twitter-handle: _cjansen
 profile-pic: carolin-jansen.jpg
 website-url:

@@ -7,8 +7,8 @@ file-as: r
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: C. C. S. Ryan — Work in Fireside
+description:
 twitter-handle: wintersweet
 profile-pic: c-c-s-ryan.jpg
 website-url:

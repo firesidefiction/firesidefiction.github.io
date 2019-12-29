@@ -7,8 +7,8 @@ file-as: e
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Malon Edwards — Work in Fireside
+description:
 twitter-handle: malonlouis
 profile-pic: malon-edwards.jpg
 website-url: malonedwards.com

@@ -7,8 +7,8 @@ file-as: l
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Rebecca M. Latimer — Work in Fireside
+description:
 twitter-handle: RebeccaMLatimer
 profile-pic: rebecca-m-latimer.jpg
 website-url: rebeccamlatimer.com

@@ -7,7 +7,8 @@ file-as: w
 role: illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Steve Walker — Work in Fireside
+description: Illustrator
 twitter-handle:
 profile-pic:
 website-url:

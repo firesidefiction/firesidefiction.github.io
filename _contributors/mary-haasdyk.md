@@ -7,7 +7,8 @@ file-as: h
 role: illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Mary Haasdyk — Work in Fireside
+description: Illustrator
 twitter-handle:
 profile-pic: mary-haasdyk.jpg
 website-url:

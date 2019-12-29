@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Amber D. Sistla — Work in Fireside
+description:
 twitter-handle:
 profile-pic: amber-d-sistla.jpg
 website-url: ambersistla.com

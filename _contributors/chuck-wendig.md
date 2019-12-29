@@ -7,8 +7,8 @@ file-as: w
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Chuck Wendig — Work in Fireside
+description:
 twitter-handle:
 profile-pic: chuck-wendig.jpg
 website-url:

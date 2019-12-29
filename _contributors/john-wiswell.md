@@ -7,12 +7,12 @@ file-as: w
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: John Wiswell — Work in Fireside
+description:
 twitter-handle: wiswell
 profile-pic: john-wiswell.jpg
 website-url:
 short-name: john-wiswell
 permalink: john-wiswell
 ---
-John (@Wiswell) is a writer who lives where New York keeps all of its trees. He has been published in Uncanny Magazine, Nature Futures, and Podcastle. 
+John (@Wiswell) is a writer who lives where New York keeps all of its trees. He has been published in Uncanny Magazine, Nature Futures, and Podcastle.

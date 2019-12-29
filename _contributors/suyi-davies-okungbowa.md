@@ -7,8 +7,8 @@ file-as: d
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Suyi Davies Okungbowa — Work in Fireside
+description:
 twitter-handle: IAmSuyiDavies
 profile-pic: suyi-davies-okungbowa.jpg
 website-url:

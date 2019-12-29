@@ -7,8 +7,8 @@ file-as: y
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Melissa Yuan-Innes — Work in Fireside
+description:
 twitter-handle: dr_sassy
 profile-pic: melissa-yuan-innes.jpg
 website-url: melissayuaninnes.com

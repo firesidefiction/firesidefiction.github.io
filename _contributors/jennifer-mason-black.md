@@ -7,8 +7,8 @@ file-as: m
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Jennifer Mason-Black — Work in Fireside
+description:
 twitter-handle: CosDrift
 profile-pic: jennifer-mason-black.jpg
 website-url: cosmicdriftwood.wordpress.com

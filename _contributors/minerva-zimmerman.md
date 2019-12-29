@@ -7,8 +7,8 @@ file-as: z
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Minerva Zimmerman — Work in Fireside
+description:
 twitter-handle: grumpymartian
 profile-pic: minerva-zimmerman.jpg
 website-url: minervazimmerman.com

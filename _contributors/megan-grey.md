@@ -7,8 +7,8 @@ file-as: g
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Megan Grey — Work in Fireside
+description:
 twitter-handle:
 profile-pic: megan-grey.jpg
 website-url: www.megangrey.com

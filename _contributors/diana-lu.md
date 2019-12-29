@@ -8,6 +8,7 @@ role: Author
 role-2:
 role-3:
 title: Diana Lu — Work in Fireside
+description:
 twitter-handle:
 profile-pic: diana-lu.jpg
 website-url:

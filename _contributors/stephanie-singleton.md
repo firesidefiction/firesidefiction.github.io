@@ -7,7 +7,8 @@ file-as: s
 role: illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Stephanie Singleton — Work in Fireside
+description: Illustrator
 twitter-handle:
 profile-pic: stephanie-singleton.jpg
 website-url:

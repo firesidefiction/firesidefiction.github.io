@@ -7,8 +7,8 @@ file-as: p
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Charles Payseur — Work in Fireside
+description:
 twitter-handle: ClowderofTwo
 profile-pic: charles-payseur.jpg
 website-url:

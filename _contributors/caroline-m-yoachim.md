@@ -7,8 +7,8 @@ file-as: y
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Caroline M. Yoachim — Work in Fireside
+description:
 twitter-handle:
 profile-pic: caroline-m-yoachim.jpg
 website-url: carolineyoachim.com

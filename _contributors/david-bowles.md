@@ -7,8 +7,8 @@ file-as: b
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: David Bowles — Work in Fireside
+description:
 twitter-handle:
 profile-pic: david-bowles.jpg
 website-url:

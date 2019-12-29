@@ -7,8 +7,8 @@ file-as: h
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Thord D. Hedengren — Work in Fireside
+description:
 twitter-handle: tdh
 profile-pic: thord-d-hedengren.jpg
 website-url: tdh.me

@@ -7,8 +7,8 @@ file-as: l
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Laura Lovic-Lindsay — Work in Fireside
+description:
 twitter-handle:
 profile-pic: laura-lovic-lindsay.jpg
 website-url:

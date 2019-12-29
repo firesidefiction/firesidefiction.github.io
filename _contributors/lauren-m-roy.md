@@ -7,8 +7,8 @@ file-as: r
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Lauren M. Roy — Work in Fireside
+description:
 twitter-handle:
 profile-pic: lauren-m-roy.jpg
 website-url: www.wordsmeetworld.com/

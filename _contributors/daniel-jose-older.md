@@ -7,8 +7,8 @@ file-as: o
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Daniel José Older — Work in Fireside
+description:
 twitter-handle: djolder
 profile-pic: daniel-jose-older.jpg
 website-url:

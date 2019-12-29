@@ -7,8 +7,8 @@ file-as: m
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: S.M. Mack — Work in Fireside
+description:
 twitter-handle: whatsmacksaid
 profile-pic: s-m-mack.jpg
 website-url:

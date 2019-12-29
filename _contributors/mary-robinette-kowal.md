@@ -7,8 +7,8 @@ file-as: k
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Mary Robinette Kowal — Work in Fireside
+description:
 twitter-handle: MaryRobinette
 profile-pic: mary-robinette-kowal.jpg
 website-url: maryrobinettekowal.com

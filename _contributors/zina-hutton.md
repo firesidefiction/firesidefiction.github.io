@@ -7,8 +7,8 @@ file-as: h
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Zina Hutton — Work in Fireside
+description:
 twitter-handle: stichomancery
 profile-pic: zina-hutton.jpg
 website-url: stitchmediamix.wordpress.com

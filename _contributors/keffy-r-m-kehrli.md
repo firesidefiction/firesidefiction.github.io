@@ -7,8 +7,8 @@ file-as: k
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Keffy R. M. Kehrli — Work in Fireside
+description:
 twitter-handle:
 profile-pic: keffy-r-m-kehrli.jpg
 website-url: glittership.com

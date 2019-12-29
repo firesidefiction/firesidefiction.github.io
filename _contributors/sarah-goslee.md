@@ -7,8 +7,8 @@ file-as: g
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Sarah Goslee — Work in Fireside
+description:
 twitter-handle: phiala
 profile-pic: sarah-goslee.jpg
 website-url: sarahgoslee.com

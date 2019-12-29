@@ -7,8 +7,8 @@ file-as: g
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Sam Gorenstein — Work in Fireside
+description:
 twitter-handle: SamIsNotADoctor
 profile-pic:
 website-url: thesearethethings.smackjeeves.com

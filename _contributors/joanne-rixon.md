@@ -7,8 +7,8 @@ file-as: r
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Joanne Rixon — Work in Fireside
+description:
 twitter-handle:
 profile-pic:
 website-url:

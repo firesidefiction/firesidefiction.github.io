@@ -7,8 +7,8 @@ file-as: h
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Amanda Helms — Work in Fireside
+description:
 twitter-handle: amandaghelms
 profile-pic: amanda-helms.jpg
 website-url: amandahelms.com

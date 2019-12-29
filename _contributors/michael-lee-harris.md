@@ -7,7 +7,8 @@ file-as: h
 role: illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Michael Lee Harris — Work in Fireside
+description: Illustrator
 twitter-handle:
 profile-pic: michael-lee-harris.jpg
 website-url:

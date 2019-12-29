@@ -7,8 +7,8 @@ file-as: b
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Elizabeth Bear — Work in Fireside
+description:
 twitter-handle: matociquala
 profile-pic:
 website-url: elizabethbear.com

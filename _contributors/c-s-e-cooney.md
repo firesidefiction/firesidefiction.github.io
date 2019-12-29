@@ -8,6 +8,7 @@ role: Author
 role-2: Narrator
 role-3:
 title: C. S. E. Cooney — Work in Fireside
+description: 
 twitter-handle: csecooney
 profile-pic: c-s-e-cooney.jpg
 website-url:

@@ -7,8 +7,8 @@ file-as: w
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Merc Fenn Wolfmoor — Work in Fireside
+description:
 twitter-handle: Merc_Rustad
 profile-pic: merc-fenn-wolfmoor.jpg
 website-url: mercfennwolfmoor.com

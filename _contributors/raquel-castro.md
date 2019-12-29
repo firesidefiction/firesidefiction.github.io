@@ -7,8 +7,8 @@ file-as: c
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Raquel Castro — Work in Fireside
+description:
 twitter-handle: raxxie_
 profile-pic: raquel-castro.jpg
 website-url: youtube.com/AlbertoyRaquelMX

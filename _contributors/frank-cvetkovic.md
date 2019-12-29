@@ -7,7 +7,8 @@ file-as: c
 role: letterer
 role-2:
 role-3:
-title: Letterer
+title: Frank Cvetkovic — Work in Fireside
+description: Letterer
 twitter-handle:
 profile-pic: frank-cvetkovic.jpg
 website-url:

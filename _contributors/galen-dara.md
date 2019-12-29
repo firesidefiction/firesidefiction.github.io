@@ -7,7 +7,8 @@ file-as: d
 role: illustrator
 role-2:
 role-3:
-title: Illustrator
+title: Galen Dara — Work in _Fireside
+description: Illustrator
 twitter-handle: galendara
 profile-pic: galen-dara.jpg
 website-url: galendara.com

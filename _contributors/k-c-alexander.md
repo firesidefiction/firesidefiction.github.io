@@ -7,8 +7,8 @@ file-as: a
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: K. C. Alexander — Work in Fireside
+description:
 twitter-handle:
 profile-pic: k-c-alexander.jpg
 website-url: www.kcalexander.com

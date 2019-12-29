@@ -7,8 +7,8 @@ file-as: h
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Laurel Halbany — Work in Fireside
+description:
 twitter-handle: neverjaunty
 profile-pic: laurel-halbany.jpg
 website-url: neverjaunty.com/blog

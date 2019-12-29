@@ -7,8 +7,8 @@ file-as: s
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Kelly C. Stiles — Work in Fireside
+description:
 twitter-handle:
 profile-pic: kelly-c-stiles.jpg
 website-url: ladykuro.wordpress.com/

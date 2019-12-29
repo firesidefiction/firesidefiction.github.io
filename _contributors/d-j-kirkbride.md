@@ -7,8 +7,8 @@ file-as: k
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: D.J. Kirkbride — Work in Fireside
+description:
 twitter-handle:
 profile-pic: d-j-kirkbride.jpg
 website-url:

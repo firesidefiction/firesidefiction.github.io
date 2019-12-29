@@ -7,8 +7,8 @@ file-as: b
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Tobias S. Buckell — Work in Fireside
+description:
 twitter-handle: tobiasbuckell
 profile-pic: tobias-s-buckell.jpg
 website-url: tobiasbuckell.com

@@ -7,8 +7,8 @@ file-as: t
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Jordan Taylor — Work in Fireside
+description:
 twitter-handle:
 profile-pic: jordan-taylor.jpg
 website-url: jordanrtaylor.com

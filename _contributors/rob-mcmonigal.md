@@ -7,8 +7,8 @@ file-as: m
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Rob McMonigal — Work in Fireside
+description:
 twitter-handle: rob_mcmonigal
 profile-pic: rob-mcmonigal.jpg
 website-url:  www.panelpatter.com

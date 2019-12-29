@@ -7,8 +7,8 @@ file-as: h
 role: Author
 role-2:
 role-3:
-title: FOO — Work in Fireside
-description: 
+title: Alexis A. Hunter — Work in Fireside
+description:
 twitter-handle:
 profile-pic: alexis-a-hunter.jpg
 website-url: alexisahunter.com
