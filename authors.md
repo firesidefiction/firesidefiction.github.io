@@ -850,6 +850,9 @@ permalink: /authors
 ### Ali Trotta
 — [_Three of Swords, King of Cups_](/three-of-swords-king-of-cups)
 
+### Kerry Truong
+— [_From Under the Peach Tree_](/from-under-the-peach-tree)
+
 ----
 
 ## U
