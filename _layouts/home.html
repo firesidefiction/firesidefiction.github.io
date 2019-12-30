@@ -17,7 +17,7 @@ layout: default-home
           <div>
             <p class="category">{{ post.category }}</p>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-            <h3>{% if post.spanish-language %}por{% else %}by{% endif %} {{ post.author }}</h3>
+            <h3>{% if post.spanish-language %}por{% else %}by{% endif %} {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</h3>
             <p>{{ post.teaser  | markdownify }}</p>
           </div>
         </div>
@@ -35,7 +35,7 @@ layout: default-home
           <div>
             <p class="category">{{ post.category }}: {{ post.serial-name }}, Chapter {{ post.part }}</p>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-            <h3>by {{ post.author }}</h3>
+            <h3>by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</h3>
             <p>{{ post.teaser  | markdownify }}</p>
           </div>
         </div>
@@ -52,7 +52,7 @@ layout: default-home
         {% endif %}
         <p class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</p>
         <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-        <h3>by {{ post.author }}</h3>
+        <h3>by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</h3>
         <p>{{ post.teaser  | markdownify }}</p>
       </div>
       {% endif %}
@@ -61,7 +61,7 @@ layout: default-home
       <div class="entry news">
         <p class="category">{{ post.date | date: "%b %-d, %Y" }} | <a href="/blackspecfic">{{ post.category }}</a></p>
         <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-        <h3>by {{ post.author }}</h3>
+        <h3>by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</h3>
         <p>{{ post.teaser  | markdownify }}</p>
       </div>
       {% endif %}
