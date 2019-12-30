@@ -11,9 +11,7 @@ layout: default
   <header class="post-header">
     <p class="category">{{ page.date | date: "%b %-d, %Y" }} | {{ page.category }}</p>
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    {% if page.author %}<h2>By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
-    {% if page.editor %}<p>Edited by {{ page.editor }}</p>{% endif %}
-    {% if page.artist %}<p>Illustration by {{ page.artist }}</p>{% endif %}
+    {% include credit-block.html %}
   </header>
 
   <div class="story-controls">
@@ -32,9 +30,9 @@ layout: default
     {% if page.audiourl %}
       <div class="audiomodule">
         {% if page.spanish-language %}
-          <p>Escuche este cuento, narrado por {{ page.narrator }}:</p>
+          <p>Escuche este cuento, narrado por {{ narrator.credit-name }}:</p>
           {% else %}
-          <p>Listen to this story, narrated by {{ page.narrator }}:</p>
+          <p>Listen to this story, narrated by {{ narrator.credit-name }}:</p>
         {% endif %}
         <audio controls>
           <source src="{{ page.audiourl }}" type="audio/mpeg">
@@ -59,6 +57,8 @@ layout: default
 
   <div class="nonfiction">
     {{ content }}
+    <h5>© {{ page.date | date: "%Y" }} <a href="{{ author.url }}">{{ author.credit-name }}</a></h5>
+
     {% include bios.html %}
   </div>
 

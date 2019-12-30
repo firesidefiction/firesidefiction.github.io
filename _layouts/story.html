@@ -10,36 +10,7 @@ layout: default
   <header class="story-header">
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
     <h2>{{ page.subtitle | escape }}</h2>
-    {% assign author = site.contributors | where: 'short-name', page.author | first %}
-    {% assign author-2 = site.contributors | where: 'short-name', page.author-2 | first %}
-    {% assign editor = site.contributors | where: 'short-name', page.editor | first %}
-    {% assign translator = site.contributors | where: 'short-name', page.translator | first %}
-    {% assign copyeditor = site.contributors | where: 'short-name', page.copyeditor | first %}
-    {% assign selector = site.contributors | where: 'short-name', page.selector | first %}
-    {% assign illustrator = site.contributors | where: 'short-name', page.illustrator | first %}
-    {% assign narrator = site.contributors | where: 'short-name', page.narrator | first %}
-    {% assign letterer = site.contributors | where: 'short-name', page.letterer | first %}
-    {% if page.author %}
-      <h2 class="byline">{% if page.spanish-language %}por{% else %}by{% endif %} <a href="{{ author.url }}">{{ author.credit-name }}</a>{% if page.author-2 %} &amp; <a href="{{ author-2.url }}">{{ author-2.credit-name }}</a>{% endif %}</h2>
-    {% endif %}
-    {% if page.illustrator %}
-      <p>{% if page.spanish-language %}Ilustrado por {% else %}Illustrated by {% endif %}<a href="{{ illustrator.url }}">{{ illustrator.credit-name }}</a>&nbsp;|&nbsp;
-    {% endif %}
-    {% if page.editor %}
-      {% if page.spanish-language %}Editado por {% else %}Edited by {% endif %}<a href="{{ editor.url }}">{{ editor.credit-name }}</a>
-    {% endif %}
-    {% if page.letterer %}
-      &nbsp;|&nbsp;{% if page.spanish-language %}Letrado por {% else %}Lettered by {% endif %}<a href="{{ letterer.url }}">{{ letterer.credit-name }}</a>
-    {% endif %}</p>
-    {% if page.copyeditor %}
-      <p><small>{% if page.spanish-language %}Redactado por {% else %}Copyedited by {% endif %}<a href="{{ copyeditor.url }}">{{ copyeditor.credit-name }}</a>
-    {% endif %}
-    {% if page.translator %}
-      &nbsp;|&nbsp;{% if page.spanish-language %}Traducido por {% else %}Translated by {% endif %}<a href="{{ translator.url }}">{{ translator.credit-name }}</a>
-    {% endif %}
-    {% if page.selector %}
-      &nbsp;|&nbsp;{% if page.spanish-language %}Seleccionado por {% else %}Selected by {% endif %}<a href="{{ selector.url }}">{{ selector.credit-name }}</a>
-    {% endif %}</small></p>
+    {% include credit-block.html %}
     <p>{% if page.spanish-date %}{{ page.spanish-date }}{% else %}{{ page.date | date: "%B %Y" }}{% endif %}</p>
 </header>
 

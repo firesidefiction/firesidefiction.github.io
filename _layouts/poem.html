@@ -6,10 +6,8 @@ layout: default
 
   <header class="story-header">
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
-    {% if page.author %}<h2 class="byline">{% if page.spanish-language %}por{% else %}by{% endif %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
-    <p>{% if page.selected %}Selected by {{ page.selected }}; {% endif %}{% if page.spanish-language %}Editado por {% else %}Edited by {% endif %}{% if page.editor %}{{ page.editor }}{% else %}Brian J. White</p>{% endif %}
-    <p>{% if page.translated %}Translated by {{ page.translator }}{% endif %}</p>
-    <p>{% if page.spanish-date %}{{ page.spanish-date }}{% else %}{{ page.date | date: "%B %Y" }}{% endif %}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}
+    {% include credit-block.html %}
+    <p>{% if page.spanish-date %}{{ page.spanish-date }}{% else %}{{ page.date | date: "%B %Y" }}{% endif %}{% if page.artist %} | Illustration by {{ illustrator.credit-name }}</p>{% endif %}
 </header>
 
   <div class="story-controls">
@@ -28,9 +26,9 @@ layout: default
     {% if page.audiourl %}
       <div class="audiomodule">
         {% if page.spanish-language %}
-          <p>Escuche este cuento, narrado por {{ page.narrator }}:</p>
+          <p>Escuche este cuento, narrado por {{ narrator.credit-name }}:</p>
           {% else %}
-          <p>Listen to this story, narrated by {{ page.narrator }}:</p>
+          <p>Listen to this story, narrated by {{ narrator.credit-name }}:</p>
         {% endif %}
         <audio controls>
           <source src="{{ page.audiourl }}" type="audio/mpeg">
@@ -55,7 +53,7 @@ layout: default
 
   <div>
     {{ content }}
-    <h5>© {{ page.date | date: "%Y" }} {{ page.author }}</h5>
+    <h5>© {{ page.date | date: "%Y" }} {{ author.credit-name }}</h5>
     {% include bios.html %}
   </div>
 
