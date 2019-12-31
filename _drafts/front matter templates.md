@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 65, March 2019
-issue-cover: issue-65-cover.png
+issue: 64, February 2019
+issue-cover: issue-64-cover.png
 issue-buy-link:
 title:
 subtitle:

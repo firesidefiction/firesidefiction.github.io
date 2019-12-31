@@ -1,20 +1,41 @@
 ---
 layout: story
-title: "A Martian Woman's Guide to Surviving the Gravity Chamber"
-author: Jennifer Stephan Kapral
-editor: Julia Rios
-date: 2019-02-26 01:00:01 -0500
 category: short story
+issue: 64, February 2019
+issue-cover: issue-64-cover.png
+issue-buy-link:
+title: "A Martian Woman's Guide to Surviving the Gravity Chamber"
+subtitle:
+author: jennifer-stephan-kapral
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-02-26 01:00:01 -0500
 permalink: a-martian-womans-guide-to-surviving-the-gravity-chamber
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-013-a-martian-womans-guide-to-surviving-the-gravity-chamber-by-jennifer-stephan-kapral-_-_1719_3.26_PM.mp3
-narrator: C.S.E. Cooney
-published: true
 teaser: "Celebrate the small victories. Hooray, your radiation levels are at a record low! Yippee, you're ovulating on schedule!"
-author-img: jennifer-stephan-kapral.jpg
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story contains elements of body horror.
-author-bio: |
-  **Jennifer Stephan Kapral** writes poetry, non-fiction, and fiction. She was born in the shadows of steel mills in Western PA and studied creative non-fiction at the University of Pittsburgh. Her work has also appeared in _The Arcanist_ and _Flash Fiction Magazine_, and she is forever at work on her unfinished novels. She resides in Houston, TX, exploring the bayous with her husband, daughter, and two dogs. Visit her at [thegreenquill.org](http://www.thegreenquill.org).
-proofread: true
+generalnote:
+published: true
 ---
 
 1.&nbsp;Shit twice a day instead of once and watch everyone freak out over your fiber intake. It makes life more interesting for the Chamber Nurses.
