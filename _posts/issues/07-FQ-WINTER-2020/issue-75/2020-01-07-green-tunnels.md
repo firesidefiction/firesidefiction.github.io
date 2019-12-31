@@ -18,7 +18,7 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-01-07 01:00:01 -0500
 permalink: green-tunnels
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/002_Fireside_Quarterly_Green_Tunnels.mp3
 teaser: A little girl on a space station dreams of the green her family left behind.
 art: green-tunnels.png
 artcaption: A child sits in her room, surrounded by sunflowers.

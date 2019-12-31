@@ -18,8 +18,8 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-01-14 01:00:01 -0500
 permalink: custom-options-available
-audiourl:
-teaser: A retired mining bot makes its first purchase and bodily modification for the sheer pleasure of it. 
+audiourl: http://traffic.libsyn.com/firesidemagazine/004_Fireside_Quarterly_Custom_Options_Available.mp3
+teaser: A retired mining bot makes its first purchase and bodily modification for the sheer pleasure of it.
 art:
 artcaption:
 spanish-language:

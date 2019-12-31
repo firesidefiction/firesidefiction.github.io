@@ -18,8 +18,8 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-01-28 01:00:01 -0500
 permalink: the-imperishable-birds
-audiourl:
-teaser: A quiet tale on filmmaking, where the symbol is the thing. 
+audiourl: http://traffic.libsyn.com/firesidemagazine/006_Fireside_Quarterly_The_Imperishable_Birds.mp3
+teaser: A quiet tale on filmmaking, where the symbol is the thing.
 art:
 artcaption:
 spanish-language:

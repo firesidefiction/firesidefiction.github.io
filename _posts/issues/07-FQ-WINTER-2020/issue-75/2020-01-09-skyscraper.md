@@ -18,8 +18,8 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-01-09 01:00:01 -0500
 permalink: skyscraper
-audiourl:
-teaser: What if all we had was green, and everything worked to preserve it? 
+audiourl: http://traffic.libsyn.com/firesidemagazine/003_Fireside_Quarterly_Skyscraper.mp3
+teaser: What if all we had was green, and everything worked to preserve it?
 art:
 artcaption:
 spanish-language:

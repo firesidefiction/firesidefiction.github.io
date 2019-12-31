@@ -18,8 +18,8 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-01-21 01:00:01 -0500
 permalink: watching-rome-burn
-audiourl:
-teaser: A story about how we move forward once all we loved is lost. 
+audiourl: http://traffic.libsyn.com/firesidemagazine/005_Fireside_Quarterly_Watching_Rome_Burn.mp3
+teaser: A story about how we move forward once all we loved is lost.
 art:
 artcaption:
 spanish-language:
