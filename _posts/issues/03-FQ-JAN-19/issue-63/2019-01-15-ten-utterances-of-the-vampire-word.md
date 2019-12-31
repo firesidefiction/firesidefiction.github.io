@@ -1,19 +1,41 @@
 ---
-layout: story-list-story
-title: Ten Utterances of the Vampire Word
-author: George Lockett
-editor: Julia Rios
-date: 2019-01-15 01:00:01 -0500
+layout: story
 category: short story
+issue: 63, January 2019
+issue-cover: issue-63-cover.png
+issue-buy-link:
+title: Ten Utterances of the Vampire Word
+subtitle:
+author: george-lockett
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-01-15 01:00:01 -0500
 permalink: ten-utterances-of-the-vampire-word
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-004-ten-utterances-of-the-vampire-word-by-george-lockett_-_1719_3.44_PM.mp3
-narrator: C.S.E. Cooney
-published: true
 teaser: "She turns to see two fearful, bloodshot eyes. They’re gone before she can speak. A cockroach itch wriggles under her tongue."
-author-img: george-lockett.jpg
-author-bio: |
-  **George Lockett** is a London-based writer of short fiction and video games. His short fiction has appeared in _The Colored Lens_, _Asymmetry_, and _Making Monsters: A Speculative and Classical Anthology_. When he's not making up tales of mischievous ghosts or flesh-hungry, triple-headed birds, he can be found on Twitter [@mastergeorge](https://www.twitter.com/mastergeorge), lurking on the web, and in his [weekly technoanxiety newsletter](https://tinyletter.com/altthoughtprocess).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 1: To her. A stranger on the tube whispers it in her ear as the doors open. She turns to see two fearful, bloodshot eyes. They’re gone before she can speak. A cockroach itch wriggles under her tongue. She is afraid.

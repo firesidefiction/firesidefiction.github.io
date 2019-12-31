@@ -5,7 +5,7 @@ first-name: Pablo
 last-name: Defendini
 file-as: d
 role: Editor
-role-2: Author
+role-2: 
 role-3: Narrator
 title: Pablo Defendini — Work in Fireside
 description: Publisher & Art Director
