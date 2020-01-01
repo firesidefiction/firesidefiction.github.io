@@ -1,17 +1,41 @@
 ---
 layout: story
-title: And I Never Named Her
-author: Renee Christopher
-editor: Julia Rios
-date: 2018-11-13 01:00:01 -0500
 category: short story
+issue: 61, November 2018
+issue-cover: issue-61-cover.png
+issue-buy-link:
+title: And I Never Named Her
+subtitle:
+author: renee-christopher
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-11-13 01:00:01 -0500
 permalink: and-i-never-named-her
-published: true
+audiourl:
 teaser: "We didn’t have tongues, not like our ancestors, but we adapted. Sign language, gestures, facial expressions."
-author-img: renee-christopher.jpg
-author-bio: |
-  Renee Christopher is an MFA candidate at Iowa State where she serves as poetry editor for _Flyway: Journal of Writing and Environment_. Her poetry can be found in _Noble Gas Quarterly_, _Crab Fat Magazine_, and _Alyss_’ 2017 Inauguration Edition. Find her on Twitter at [@reneesunok](https://www.twitter.com/reneesunok).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 I opened and shut my mouth like a fish, trying to absorb any moisture I could, wishing for a hint of a breeze. Nemet was the hottest place I’d ever been to. I wasn’t prepared for the arid climate, the dust, the absolute apathy of the sun. My hunting partner, Shahara, rolled her eyes at me as we headed toward a ruined prayer tower for the Nemmen gods. Sweat plastered my short black coils to the sides of my face as I poked my head around the corner of an adobe house.

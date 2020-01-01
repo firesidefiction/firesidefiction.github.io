@@ -1,17 +1,41 @@
 ---
 layout: story
-title: Rain and the Designs of Your Body
-author: J.M. Guzman
-editor: Julia Rios
-date: 2018-11-27 01:00:01 -0500
 category: short story
+issue: 61, November 2018
+issue-cover: issue-61-cover.png
+issue-buy-link:
+title: Rain and the Designs of Your Body
+subtitle:
+author:
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-11-27 01:00:01 -0500
 permalink: rain-and-the-designs-of-your-body
-published: true
+audiourl:
 teaser: "Julio slipped off his shirt and showed me a lake. It stirred, a puddle settling in the landmass that was once his back."
-author-img: j-m-guzman.jpg
-author-bio: |
-  J.M. Guzman is a Dominican-American that writes about ghosts, coffins, and all the things in the dark. He has forthcoming fiction in _Liminal Stories_ with work currently in _Daily Science Fiction_ and _Lackington's Magazine_. You can find him on twitter at [@jmguzman_](https://www.twitter.com/jmguzman_).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Before we muted ourselves, Julio went to show me the skin of his spine. He unwrapped himself: a jacket off, a cardigan peeled. At the time, I didn’t realize we were losing our voices.

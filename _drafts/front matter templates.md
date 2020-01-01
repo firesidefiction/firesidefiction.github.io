@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 62, December 2018
-issue-cover: issue-62-cover.png
+issue: 61, November 2018
+issue-cover: issue-61-cover.png
 issue-buy-link:
 title:
 subtitle:

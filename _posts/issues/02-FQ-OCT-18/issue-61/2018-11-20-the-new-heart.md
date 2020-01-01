@@ -1,17 +1,41 @@
 ---
 layout: story
-title: The New Heart
-author: Natalia Theodoridou
-editor: Julia Rios
-date: 2018-11-20 01:00:01 -0500
 category: short story
+issue: 61, November 2018
+issue-cover: issue-61-cover.png
+issue-buy-link:
+title: The New Heart
+subtitle:
+author: natalia-theodoridou
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-11-20 01:00:01 -0500
 permalink: the-new-heart
-published: true
+audiourl:
 teaser: "She makes sure to hold the chisel at a 45-degree angle; otherwise, the stone will bruise—and who wants a bruised heart?"
-author-img: natalia-theodoridou.jpg
-author-bio: |
-  Natalia Theodoridou is a media and cultural studies scholar, the dramaturge of Adrift Performance Makers ([@adriftPM](https://www.twitter.com/adriftPM)), and a writer of strange stories. Her work has appeared in _Clarkesworld Magazine_, _Beneath Ceaseless Skies_, _Strange Horizons_, and elsewhere. Originally from Greece, she lives in Devon, UK, until she’s asked to leave. Occasionally, she tweets as [@natalia_theodor](https://www.twitter.com/natalia_theodor).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 _The new heart has no frills. It needs none. It is made of limestone, hard and white. The heart maker allows herself just one decorative element, to remind herself of the sedimentary nature of love: a single skeletal fragment of a coral lodged in its middle._
