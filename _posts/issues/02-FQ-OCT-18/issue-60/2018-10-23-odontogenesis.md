@@ -1,17 +1,41 @@
 ---
 layout: story
-title: Odontogenesis
-author: Nino Cipri
-editor: Julia Rios
-date: 2018-10-23 01:00:01 -0500
 category: short story
+issue: 60, October 2018
+issue-cover: issue-60-cover.png
+issue-buy-link:
+title: Odontogenesis
+subtitle:
+author: nino-cipri
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-10-23 01:00:01 -0500
 permalink: odontogenesis
-published: true
+audiourl:
 teaser: "She ran her tongue over the porcelain crowns where her incisors had once been—a nervous habit she’d picked up ever since the dentist had planted them in her gums."
-author-img: nino-cipri.jpg
-author-bio: |
-  Nino Cipri is a queer and nonbinary/trans writer, currently at work on an MFA at the University of Kansas. A multidisciplinary artist, Nino has also written plays, screenplays, and radio features; performed as a dancer, actor, and puppeteer; and worked as a stagehand, bookseller, bike mechanic, and labor organizer. Their writing has appeared multiple times in _Fireside Magazine_, as well as in _Nightmare Magazine_, _Tor.com_, _Interfictions Online_, and other fine venues. One time an angry person called Nino a verbal terrorist, which was pretty cool.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 "Did you hear that?" Abby asked her neighbor, Vivienne. The two of them had been chatting over the fence that separated their front yards. Vivienne had cornered her to talk about school fundraising while Abby uprooted the dandelions that had appeared in the green expanse of her lawn. Abby, anxious for a distraction, had seized on the noise.

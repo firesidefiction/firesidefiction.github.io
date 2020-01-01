@@ -1,17 +1,41 @@
 ---
 layout: story
-title: Pendants of Precariousness
-author: D.A. Xiaolin Spires
-editor: Julia Rios
-date: 2018-10-29 01:00:01 -0500
 category: short story
+issue: 60, October 2018
+issue-cover: issue-60-cover.png
+issue-buy-link:
+title: Pendants of Precariousness
+subtitle:
+author: d-a-xiaolin-spires
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-10-29 01:00:01 -0500
 permalink: pendants-of-precariousness
-published: true
+audiourl:
 teaser: "I tell him that by courting danger I conquer danger. … I tell him that when the sharks come, they will see and they will be scared that I have their weapon."
-author-img: d-a-xiaolin-spires.jpg
-author-bio: |
-  D.A. Xiaolin Spires counts stars and sand, residing currently in Hawai’i. You can find her embarking on olfactorial odysseys as she inhales plumeria blossoms, poke, and poi. Her work appears or is forthcoming in various publications such as _Fireside_, _Clarkesworld Magazine_, _Analog Science Fiction and Fact_, _Terraform_, _Nature Futures_, _Grievous Angel Poetry & Fiction_, _Reckoning_, _Galaxy's Edge Magazine_, _LONTAR: The Journal of Southeast Asian Speculative Fiction_, _Andromeda Spaceways Magazine_ (selected for the Year’s Best issue), _Mithila Review_, _Issues in Earth Science_, _Factor Four Magazine_, _Star*Line_, _Liminality: A Magazine of Speculative Poetry_, _Eye to the Telescope_, _Atlas Poetica_, _Outlook Springs_, _Gathering Storm Magazine_, _Polu Texni_, and _Story Seed Vault_; as well as anthologies of the strange and delightful, such as _Sharp & Sugar Tooth_, _Broad Knowledge_, _Battling in All Her Finery_, and _Ride the Star Wind_. You can find her on her website at [daxiaolinspires.wordpress.com](https://daxiaolinspires.wordpress.com/) or on Twitter at [@spireswriter](https://twitter.com/spireswriter).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 **Laki**
