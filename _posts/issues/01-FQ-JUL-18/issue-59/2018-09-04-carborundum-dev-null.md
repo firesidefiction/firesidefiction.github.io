@@ -1,24 +1,41 @@
 ---
 layout: story
-title: CARBORUNDORUM > /DEV/NULL
-author: Annalee Flower Horne
-editor: Julia Rios
-date: 2018-09-04 01:00:01 -0500
 category: short story
+issue: 59, September 2018
+issue-cover: issue-59-cover.png
+issue-buy-link:
+title: CARBORUNDORUM > /DEV/NULL
+subtitle:
+author: annalee-flower-horne
+author-2:
+author-3:
+editor: julia-rios
+illustrator: michelle-wong
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-09-04 01:00:01 -0500
 permalink: carborundorum-dev-null
-published: true
+audiourl:
 teaser: "So I have to live in The Handmaid's Tale just because you're scared of the dark? That's sexist!"
-author-img: annalee-flower-horne.jpg
-author-bio: |
-  [Annalee Flower Horne](http://www.flowerhorne.com) is a science fiction writer and web developer from Washington, DC. Her fiction has previously appeared in _The Magazine of Fantasy and Science Fiction_, _Mothership Zeta_, and the _Futurescapes Anthology_, where she won first place in the Futurescapes Writing Contest. She co-edits feminist geek culture blog _The Bias_.
 art: carborundorum-dev-null.png
-caption: "Two girls sit on the floor of a living room. They each have a laptop-like device. One of them rocks a brace and a cane. Behind them is a liquor cabinet which is locked—for now!"
-artist: Michelle Wong
-artist-img: michelle-wong.jpg
-artist-bio: |
-  Michelle Wong is a comic artist from Hong Kong. She likes horror, video games and good food. Her clients include: IDW, Action Lab, BOOM! Studios.
-proofread: true
+artcaption: "Two girls sit on the floor of a living room. They each have a laptop-like device. One of them rocks a brace and a cane. Behind them is a liquor cabinet which is locked—for now!"
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story engages with themes of sexual assault and depicts an attempt.
+generalnote:
+published: true
 ---
 
 "Sandra," my house told me, as our subdivision's street lights blinked on, "you have a message I am unable to read aloud."

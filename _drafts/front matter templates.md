@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 60, October 2018
-issue-cover: issue-60-cover.png
+issue: 59, September 2018
+issue-cover: issue-59-cover.png
 issue-buy-link:
 title:
 subtitle:
