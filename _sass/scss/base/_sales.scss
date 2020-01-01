@@ -2,13 +2,9 @@
 	font-family: $font-secondary;
 }
 .back-issues-for-sale {
-	max-width: 90%;
+	//max-width: 90%;
 	margin: 0 auto;
 	font-family: $font-secondary;
-	h1.sales-lead {
-			font-family: $font-secondary;
-			text-transform: uppercase;
-	}
 	.single-back-issue {
 		border-bottom: 1px solid lighten($color__base--light, 30%);
 		padding-top: 1em;
