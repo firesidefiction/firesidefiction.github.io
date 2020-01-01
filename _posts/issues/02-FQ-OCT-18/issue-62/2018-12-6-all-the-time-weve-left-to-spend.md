@@ -1,18 +1,42 @@
 ---
 layout: story
-title: All the Time We've Left to Spend
-author: Alyssa Wong
-editor: Navah Wolfe & Dominik Parisien
-generalnote: This story originally appeared in the [Robots vs. Fairies](https://www.simonandschuster.com/books/Robots-vs-Fairies/Dominik-Parisien/9781481462358) anthology
-date: 2018-12-06 01:00:01 -0500
 category: short story
+issue: 62, December 2018
+issue-cover: issue-62-cover.png
+issue-buy-link:
+title:  All the Time We've Left to Spend
+subtitle:
+author: alyssa-wong
+author-2:
+author-3:
+editor: navah-wolfe
+editor-2: dominik-parisien
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-12-06 01:00:01 -0500
 permalink: all-the-time-weve-left-to-spend
-published: true
+audiourl:
 teaser: No one in their right mind came to the Aidoru Hotel. But those who did always came for a very specific reason.
-author-img: alyssa-wong.jpg
-author-bio: |
-  **Alyssa Wong**’s stories have won the Nebula Award, the World Fantasy Award, and the Locus Award. She was a finalist for the John W. Campbell Award for Best New Writer, and her fiction has been shortlisted for the Hugo, Bram Stoker, and Shirley Jackson Awards. She lives in California.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote: This story originally appeared in the [Robots vs. Fairies](https://www.simonandschuster.com/books/Robots-vs-Fairies/Dominik-Parisien/9781481462358) anthology
+published: true
 ---
 
 When she got to Yume's room, the first thing Ruriko did was slip off her mask and remove her prosthetic jaw. There was an ache in her fake bottom teeth. It was going to rain, although one look at the sky could have told her that.

@@ -1,17 +1,41 @@
 ---
 layout: story
-title: A Letter to My Sister
-author: Nilah Magruder
-editor: Julia Rios
-date: 2018-12-04 01:00:01 -0500
 category: short story
+issue: 62, December 2018
+issue-cover: issue-62-cover.png
+issue-buy-link:
+title: A Letter to My Sister
+subtitle:
+author: nilah-magruder
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-12-04 01:00:01 -0500
 permalink: a-letter-to-my-sister
-published: true
+audiourl:
 teaser: "He is pretty, as knights go. You know how I loathe the pretty ones. Their bones are brittle and sharp, and crack unpleasantly when chewed."
-author-img: nilah-magruder.jpg
-author-bio: |
-  Nilah Magruder is a writer and illustrator based in Los Angeles. Her picture book _How to Find a Fox_ was published by Feiwel & Friends and her award-winning webcomic, _M.F.K._, is available in print from Insight Editions. She has written for Marvel and drawn storyboards for DreamWorks and Disney. She is currently illustrating _Creaky Acres_, a middle-grade graphic novel written by Calista Brill. When she is not working, Nilah is reading fantasy novels, watching movies, roller-skating, and fighting her cat for control of her desk chair. Her website is at [nilahmagruder.com](http://www.nilahmagruder.com).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 My dearest Cassa,

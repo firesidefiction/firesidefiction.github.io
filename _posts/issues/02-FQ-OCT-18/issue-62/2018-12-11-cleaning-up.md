@@ -1,23 +1,41 @@
 ---
 layout: story
-title: Cleaning Up
-author: Brian M. Milton
-editor: Julia Rios
-date: 2018-12-11 01:00:01 -0500
 category: short story
+issue: 62, December 2018
+issue-cover: issue-62-cover.png
+issue-buy-link:
+title: Cleaning Up
+subtitle:
+author: brian-m-milton
+author-2:
+author-3:
+editor: julia-rios
+illustrator: clare-dezutti
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-12-11 01:00:01 -0500
 permalink: cleaning-up
-published: true
+audiourl:
 teaser: "Mr. Bhansal had often remarked that it was a strange and very annoying quirk of magic that a circle of protection had to be smooth and unbroken, but the summoning pentagram could be scrappy and unconnected."
-author-img: brian-m-milton.jpg
-author-bio: |
-  Brian Milton is a short, tweedy Glaswegian who splits his time between work, writing, and flapping at wildlife. He'd like to do less of two of these. Brian lives with his wife, a cat, and thousands of bees. The cat rarely talks to him. He has been published in anthologies such as _Caledonia Dreamin'_ and _Thirty Years of Rain_, and in magazines such as _KZine_ and this here wonderful _Fireside Magazine_. He can be found shouting on the twitters at [@munchkinstein](https://www.twitter.com/muchkinstein).
 art: cleaning-up.jpg
-caption: "A man in a turban, holding a sword, stares down a many-tentacled beast. In the background, a cat nonchalantly licks its paw."
-artist: Clare DeZutti
-artist-img: clare-dezutti.jpg
-artist-bio: |
-  Clare DeZutti is an illustrator and designer in Brooklyn, NY. During the day she works as a assistant designer at Workman Publishing. In her off time, she enjoys drawing, drawing and more drawing. Her work appears in the 1001 Knights Anthology and she colored _Tales of the Night Watchman_ Issue 7, from So What? Press.
-proofread: true
+artcaption: "A man in a turban, holding a sword, stares down a many-tentacled beast. In the background, a cat nonchalantly licks its paw."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The janitor banged all bar one of the toilet cubicle doors.

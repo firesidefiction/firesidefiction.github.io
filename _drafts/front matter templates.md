@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 63, January 2019
-issue-cover: issue-63-cover.png
+issue: 62, December 2018
+issue-cover: issue-62-cover.png
 issue-buy-link:
 title:
 subtitle:
@@ -14,7 +14,7 @@ illustrator:
 copyeditor: chelle-parker
 selector:
 translator:
-narrator: c-s-e-cooney
+narrator:
 letterer:
 date:
 permalink:
