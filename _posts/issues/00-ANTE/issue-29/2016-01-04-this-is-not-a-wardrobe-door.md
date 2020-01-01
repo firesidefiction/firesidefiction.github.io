@@ -230,13 +230,3 @@ Zera smiles at her friends. Things will be all right.
 "We have a lot of work to do to repair this place," Zera says. She clasps Ell's hands. "The curse is gone, but we have to fix the doors and wake the sleepers. Are you ready?"
 
 Ell grins and waves her mom and girlfriend to join her. "Yes. Let's do this."
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
-#### About the Author
-
-Merc Fenn Wolfmoor is a queer transmasculine non-binary writer who lives in the Midwest United States. Favorite things include: robots, dinosaurs, monsters, and tea. Their stories have appeared or are forthcoming in Lightspeed, Fireside Fiction, Apex, Escape Pod, Shimmer, Cicada, The Best American Science Fiction and Fantasy 2015, and Wilde Stories 2016. Merc likes to play video games, watch movies, read comics, and wear awesome hats. You can find Merc on Twitter [@merc_wolfmoor](https://twitter.com/merc_wolfmoor) their website [mercfennwolfmoor.com](http://mercfennwolfmoor.com).
->>>>>>> master
->>>>>>> master
