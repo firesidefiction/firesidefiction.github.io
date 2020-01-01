@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Power Structures Are Meant to Be Broken
-author: Elsa Sjunneson-Henry
+author: Elsa Sjunneson
 editor: Julia Rios
 date: 2018-03-22 00:00:01 -0500
 category: essay
@@ -10,7 +10,7 @@ published: true
 teaser: "Why is it always goddamn white dudes with money? Because society is most comfortable with men with disabilities being active bodies."
 author-img: elsa-sjunneson-henry.jpg
 author-bio: |
-  [Elsa Sjunneson-Henry](http://feministsonar.com/elsa/) is a deafblind speculative fiction writer and editor. She's had work published at tor.com, _Uncanny Magazine_, _Fireside_, and _The Boston Globe_. She's the managing editor of _Fireside_ and the Guest Co-Editor in Chief of _Disabled People Destroy Science Fiction_. In her spare time she destroys the patriarchy and snuggles her hound dog.
+  [Elsa Sjunneson](http://feministsonar.com/elsa/) is a deafblind speculative fiction writer and editor. She's had work published at tor.com, _Uncanny Magazine_, _Fireside_, and _The Boston Globe_. She's the managing editor of _Fireside_ and the Guest Co-Editor in Chief of _Disabled People Destroy Science Fiction_. In her spare time she destroys the patriarchy and snuggles her hound dog.
 proofread: true
 contentnote: |
   Authors Note: There are so many spoilers in this essay. For Game of Thrones, the Vorkosigan-verse, Star Trek, Daredevil, Anything with Oracle in it, and _Mad Max: Fury Road_.

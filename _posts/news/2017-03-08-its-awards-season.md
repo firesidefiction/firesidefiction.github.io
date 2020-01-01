@@ -53,7 +53,7 @@ And finally, we have lots of contenders for your nominating pleasure in the Best
 
 [_Imagine a World So Forgiving_](http://firesidefiction.com/issue34/chapter/imagine-a-world-so-forgiving/) by Margaret Killjoy
 
-[_A Place Out Of Time_](http://firesidefiction.com/issue34/chapter/a-place-out-of-time/) by Elsa Sjunneson-Henry
+[_A Place Out Of Time_](http://firesidefiction.com/issue34/chapter/a-place-out-of-time/) by Elsa Sjunneson
 
 [_Your Body, By Default_](http://firesidefiction.com/issue35/chapter/your-body-by-default/) by Alexis A. Hunter
 

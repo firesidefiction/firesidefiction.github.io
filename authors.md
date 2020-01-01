@@ -607,6 +607,9 @@ permalink: /authors
 
 — [_Beyond Comprehension_](/beyond-comprehension)
 
+### Sherin Nicole
+— [_Partially True (But Mostly Not)_](/partially-true-but-mostly-not)
+
 ### Sara Norja
 — [_Birch Daughter_](/birch-daughter)
 
@@ -772,7 +775,7 @@ permalink: /authors
 ### Amber D. Sistla
 — [_Nobody's Goddess_](/issue23/chapter/nobodys-goddess/)
 
-### Elsa Sjunneson-Henry
+### Elsa Sjunneson
 — [_A Place Out of Time_](/issue34/chapter/a-place-out-of-time/)
 
 — [_Blind Reading is in Braille or Large Print_](/blind-reading)
@@ -846,6 +849,9 @@ permalink: /authors
 
 ### Ali Trotta
 — [_Three of Swords, King of Cups_](/three-of-swords-king-of-cups)
+
+### Kerry Truong
+— [_From Under the Peach Tree_](/from-under-the-peach-tree)
 
 ----
 

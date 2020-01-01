@@ -8,7 +8,7 @@ Fireside is currently closed to submissions. During our submissions periods, the
 
 Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following periods: <!--We have no upcoming submissions dates announced for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.-->
 
-- **April 13, 2020 to May 8, 2020**<br/>Submissions period for the Winter 2021 Issue
+- **April 13, 2020 to April 17, 2020**<br/>Submissions period for the Winter 2021 Issue
 
 - **June 15, 2020 to June 19, 2020**<br/>Submissions period for the Spring 2021 Issue
 
