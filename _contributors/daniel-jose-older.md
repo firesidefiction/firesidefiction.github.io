@@ -5,10 +5,10 @@ first-name: Daniel
 last-name: Older
 file-as: o
 role: Author
-role-2:
+role-2: Editor
 role-3:
 title: Daniel José Older — Work in Fireside
-description:
+description: Guest Editor, 2016
 twitter-handle: djolder
 profile-pic: daniel-jose-older.jpg
 website-url:
