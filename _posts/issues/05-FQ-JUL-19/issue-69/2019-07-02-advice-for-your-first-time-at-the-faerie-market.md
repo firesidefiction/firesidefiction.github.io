@@ -1,20 +1,41 @@
 ---
 layout: story
-title: Advice For Your First Time at the Faerie Market
-author: Nibedita Sen
-editor: Julia Rios
-date: 2019-07-02 01:00:01 -0500
 category: short story
+issue: 69, July 2019
+issue-cover: issue-69-cover.png
+issue-buy-link:
+title: Advice For Your First Time at the Faerie Market
+subtitle:
+author: ibedita-sen
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-07-02 01:00:01 -0500
 permalink: advice-for-your-first-time-at-the-faerie-market
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-07-02-Advice_For_Your_First_Time_At_the_Faerie_Market.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "Don’t meet the shopkeepers’ soot-black eyes. Don’t look at their pointed faces, their beautiful hair..."
-author-img: nibedita-sen.jpg
-author-bio: |
-  Nibedita Sen is a queer Bengali writer, editor, and gamer from Calcutta. A graduate of Clarion West 2015 and SIUC’s MFA program, her work has appeared or is forthcoming in _Podcastle_, _Nightmare Magazine_, and _Fireside Magazine_. She helps edit _GlitterShip_, an LGBTQ science fiction and fantasy podcast, enjoys the company of puns and potatoes, and is nearly always hungry. Hit her up on Twitter at [@her_nibsen](https://www.twitter.com/her_nibsen).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story refers to domestic violence.
+generalnote:
+published: true 
 ---
 
 You’ll smell it before you see it — scents of ticklish pollen, braised roots. The market doesn’t like to let itself be found too easily. I found it by accident nineteen years ago, stumbling from Atgeld Library in that gossamer hour when the sun begins to warm a world still living in night. They tell me the walls between things are thinner at dawn and dusk.

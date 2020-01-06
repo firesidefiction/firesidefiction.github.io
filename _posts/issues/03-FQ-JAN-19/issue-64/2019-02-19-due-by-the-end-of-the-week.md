@@ -1,25 +1,41 @@
 ---
 layout: story
-title: Due By the End of the Week
-author: Brandon O’Brien
-editor: Julia Rios
-date: 2019-02-19 01:00:01 -0500
 category: short story
+issue: 64, February 2019
+issue-cover: issue-64-cover.png
+issue-buy-link:
+title: Due By the End of the Week
+subtitle:
+author: brandon-obrien
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-02-19 01:00:01 -0500
 permalink: due-by-the-end-of-the-week
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-011-due-by-the-end-of-the-week-by-brandon-obrien_-_1719_3.28_PM.mp3
-narrator: C.S.E. Cooney
-published: true
 teaser: "Twenty percent of my final grade. Wrapped up in a class presentation with a ditzy cheerleader who has been in class maybe five periods total."
-author-img: brandon-obrien.jpg
-author-bio: |
-  **Brandon O’Brien** is a performance poet and writer from Trinidad. His work has been shortlisted for the 2014 Alice Yard Prize for Art Writing and the 2014 and 2015 Small Axe Literary Competitions, and is published in _Uncanny Magazine_, _Strange Horizons_, _Reckoning_, and _New Worlds, Old Ways: Speculative Tales from the Caribbean_, among others. He is also the poetry editor of _FIYAH Magazine_.
 art: due-by-the-end-of-the-week.jpg
-caption: "A high-school student wearing a super hero costume fights a mosnter, while a cowardly classmate looks on."
-artist: Ashanti Fortson
-artist-img: ashanti-fortson.jpg
-artist-bio: |
-  **Ashanti Fortson** is an illustrator and cartoonist with a deep love for kind stories and fantastical settings. Their work has been published by _ZEAL_ and _The Nib_, as well as in various comics anthologies. They make a space fantasy webcomic called _Galanthus_, and they hope to one day see the Milky Way. You can reach them at ashantifortson@gmail.com.
-proofread: true
+artcaption: "A high-school student wearing a super hero costume fights a mosnter, while a cowardly classmate looks on."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The only thing I hate more than group assignments is group assignments with Kelly Francis.

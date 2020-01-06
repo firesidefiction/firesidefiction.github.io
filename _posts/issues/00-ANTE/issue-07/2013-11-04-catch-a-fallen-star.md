@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Catch a Fallen Star"
-author: Jennifer Campbell-Hicks
-date:   2013-11-04 12:01:00 -0500
 category: short story
+issue: 7, November 2013
+issue-cover: issue-7-cover.png
+issue-buy-link:
+title: Catch a Fallen Star
+subtitle:
+author:
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-11-04 12:01:00 -0500
 permalink: /issue7/chapter/catch-a-fallen-star/
+audiourl:
 teaser: "The kid was quick, darting ahead of Valentin around chunks of concrete and metal scraps that lay in the street like a giant child’s playthings."
-published: true
 art: catch-a-fallen-star.jpg
-caption: Illustration for Catch a Fallen Star
-artist: Galen Dara
+artcaption: Illustration for Catch a Fallen Star
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The kid was quick, darting ahead of Valentin around chunks of concrete and metal scraps that lay in the street like a giant child’s playthings. Valentin’s lungs burned. He was four strides behind but pumped his legs harder to close the gap.
@@ -451,7 +475,3 @@ Greger peered at the gun’s display screen. “The shot counter says zero. That
 “Maybe I would have, if you had kept running. But you stopped. Everyone did, and I always made the takedown. That’s why I was one of the best.”
 
 He winked at the astonished boy and limped from the room.
-
-#### About the Author
-
-Jennifer Campbell-Hicks is a writer, journalist, wife, mother and lifelong fan of science fiction and fantasy. Her fiction has appeared in Galaxy's Edge, Intergalactic Medicine Show and Daily Science Fiction. She blogs at [jennifercampbellhicks.blogspot.com](http://jennifercampbellhicks.blogspot.com/).

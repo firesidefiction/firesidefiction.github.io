@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Good Ghoul Gone Bad"
-author: D.B. Starler
-date:   2014-06-04 12:01:00 -0500
 category: short story
+issue: 14, June 2014
+issue-cover: issue-14-cover.png
+issue-buy-link:
+title: Good Ghoul Gone Bad
+subtitle:
+author: d-b-starler
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-06-04 12:01:00 -0500
 permalink: /issue14/chapter/good-ghoul-gone-bad/
+audiourl:
 teaser: "Things hadn't really been working out for Lola since she died. Life, if she could even call it that anymore, had pretty much gone down the crapper."
-published: true
 art: good-ghoul-gone-bad.jpg
-caption: Illustration for Good Ghoul Gone Bad
-artist: Galen Dara
+artcaption: Illustration for Good Ghoul Gone Bad
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Things hadn't really been working out for Lola since she died. Life, if she could even call it that anymore, had pretty much gone down the crapper.
@@ -451,7 +475,3 @@ Gray eyes promised retribution as Dash yanked on the door handle, his shout of f
 With a spin of tires, and a spray of gravel, she let the car leap forward, speeding down the driveway. She watched through the rearview mirror as Dash jumped back with a curse, and Lola threw her head back and laughed.
 
 Being a ghoul had never been so fun.
-
-#### About the Author
-
-D.B. Starler writes all sorts of things, in between chasing her children around their small section of North Carolina and drinking copious amounts of Coke Zero. The stories run the gamut from urban fantasy to historical romance, and they almost always include smooching.  Please follow D.B.Starler on Twitter as @DBStarler. She's also on Twitter, Facebook, Goodreads, Pinterest and Google+ as her best-selling, historical romance writing alter ego, Olivia Kelly.

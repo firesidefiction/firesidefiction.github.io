@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Testimony"
-author: Jennifer Mason-Black
-date:   2014-10-04 12:01:00 -0500
 category: short story
+issue: 16, October 2014
+issue-cover: issue-16-cover.png
+issue-buy-link:
+title: Testimony
+subtitle:
+author: jennifer-mason-black
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-10-04 12:01:00 -0500
 permalink: /issue16/chapter/testimony/
+audiourl:
 teaser: "They sleep. At least we assume they do. It's been years, decades."
-published: true
 art: testimony.jpg
-caption: Illustration for Testimony
-artist: Galen Dara
+artcaption: Illustration for Testimony
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 They sleep.
@@ -153,7 +177,3 @@ Second, that it is time for us to confront our great failing. We are surrounded 
 No. I think not.
 
 Wake them. Show me that finally we are not that kind of magician, that we do not do that kind of magic.
-
-#### About the Author
-
-Jennifer Mason-Black lives in the woods of Massachusetts, surrounded by her human family and a menagerie of elderly animals. Her fiction has appeared in The Sun, Strange Horizons, and Daily Science Fiction, among others. Additional information about her work can be found at [cosmicdriftwood.wordpress.com/](http://cosmicdriftwood.wordpress.com/). She can be found on Twitter at [@CosDrift](https://twitter.com/CosDrift)

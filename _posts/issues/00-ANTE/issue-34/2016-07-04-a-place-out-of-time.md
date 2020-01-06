@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  A Place Out Of Time
-author: Elsa Sjunneson
-date:   2016-07-04 12:01:00 -0500
 category: short story
+issue: 34, July 2016
+issue-cover: issue-34-cover.png
+issue-buy-link:
+title: A Place Out Of Time
+subtitle:
+author: elsa-sjunneson
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-07-04 12:01:00 -0500
 permalink: /issue34/chapter/a-place-out-of-time/
+audiourl:
 teaser: "I must write a list for myself. A list of the times to which I cannot go."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -80,7 +107,3 @@ But here I sit in my workroom, placing black dots on my timeline, learning how m
 We linger at our fixed point in time – our imperfect home – hoping desperately that we will find a place where we are welcome, and that we do not make one more fatal mistake. We are searching for a place where our bodies are sacred and *ours*, where our consent matters.
 
 We keep ourselves safe by remaining out of time.
-
-#### About the Author
-
-Elsa Sjunneson is a .5 deaf .5 blind writer from Seattle, Washington. She has a Master's Degree in Women's History from Sarah Lawrence College. Her work has appeared at Disability in Kidlit, XOJane, Offbeat Bride, The Women's Media Center blog, and many other places. When not writing, she walks her hound dog on Revolutionary War battlefields with her husband. You can find her in Apex's _Upside Down_ anthology, at her site [Feminist Sonar](http://feministsonar.com), or on Twitter [@snarkbat](https://www.twitter.com/snarkbat).

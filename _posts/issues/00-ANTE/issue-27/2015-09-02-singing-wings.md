@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Singing Wings"
-author: Keffy R. M. Kehrli
-date:   2015-09-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 27, September 2015
+issue-cover: issue-27-cover.png
+issue-buy-link:
+title: Singing Wings
+subtitle:
+author: keffy-r-m-kehrli
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-09-02 12:01:00 -0500
 permalink: /issue27/chapter/singing-wings/
+audiourl:
 teaser: "When Aduaa and Lakeisha started dating, one of the first things they discussed was the difficulty of being together as human and as chrysilinid."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -44,7 +71,3 @@ She only came to say goodbye, Aduaa thought, and then she remembered something, 
 Lakeisha tilted her head, while the music dropped out, all except Aduaa. She hummed in her human throat, an approximation, matching the song Aduaa had composed for her. And then, she understood.
 
 "You're staying," Lakeisha whispered, radiant with the sunlight and her love.
-
-#### About the Author
-
-Keffy R. M. Kehrli is a speculative fiction writer who currently lives on Long Island. He attended Clarion UCSD in 2008 and has been writing and publishing short fiction since then. Despite having a B.S. in Physics, he is currently getting a PhD in Genetics. His work has previously appeared in magazines such as Uncanny, Apex, Fireside, and Escape Pod. He is also the editor and podcaster at [GlitterShip](http://www.glittership.com), an LGBTQ fiction podcast zine.

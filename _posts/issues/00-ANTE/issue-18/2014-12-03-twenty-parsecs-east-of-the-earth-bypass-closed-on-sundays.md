@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Twenty Parsecs East of the Earth Bypass, Closed on Sundays"
-author: Robert Lowell Russell
-date:   2014-12-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 18, December 2014
+issue-cover: issue-18-cover.png
+issue-buy-link:
+title: Twenty Parsecs East of the Earth Bypass, Closed on Sundays
+subtitle:
+author: robert-lowell-russell
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-12-03 12:01:00 -0500
 permalink: /issue18/chapter/twenty-parsecs-east-of-the-earth-bypass-closed-on-sundays/
+audiourl:
 teaser: "The bell on the door jangled and a pair of Korgalaths entered Samuel's store."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -130,7 +157,3 @@ After the Korgalaths had blasted their saucer back into space, Ruth came up to S
 "Even better. When I let the general know we need more bombs, I'll let him know we have a biological sample to go with the beads."
 
 "Aliens are such rubes," said Ruth, grinning.
-
-#### About the Author
-
-Robert Lowell Russell, a native Texan, lives with his family in southeastern Ohio. He is a former librarian and current nursing school student. He once aspired to be a history professor, but found writing about the real world too constraining. Rob likes to write about all sorts of things, frequently including action and humor in his work. Not satisfied with writing stories of questionable content for adults, he's also working on series of middle school books incorporating his love of not-so-super-heroes and toilet-humor. For links to more of Rob's stories (or to see him dressed like a ninja) visit [robertlowellrussell.blogspot.com](http://robertlowellrussell.blogspot.com).

@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Mr. Reilly’s Tattoo "
-author: Hope Erica Schultz
-date:   2014-12-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 18, December 2014
+issue-cover: issue-18-cover.png
+issue-buy-link:
+title: Mr. Reilly’s Tattoo
+subtitle:
+author: hope-erica-schultz
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-12-02 12:01:00 -0500
 permalink: /issue18/chapter/mr-reillys-tattoo/
+audiourl:
 teaser: "Mr. Reilly was my first patient. I was the only male CNA in the nursing home, and the nurses warned me that some patients would have a problem with it."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -92,7 +119,3 @@ He gave his bark of laughter, and closed his eyes. "We'll see."
 The aide came to get me just at dawn, to do the pronouncement. I opened the pajama top to confirm the lack of a heartbeat, and then stopped.
 
 The new heart was still there, but the hooded figure bore the face of a young, smiling woman. Hands, not claws, cradled the heart. The words, still in Chris's flowing script, proclaimed: "Lorena loves Tom. FOREVER."
-
-#### About the Author
-
-Hope Erica Schultz writes Science Fiction and Fantasy (and very, very rarely horror) YA and New Adult stories and novels (except when it's middle grade or for adults.) When not reading, writing, tramping through the woods, or pretending to be someone else, she keeps busy at 1 1/2 jobs, a happily chaotic family, one dog, four cats, and a flock of wild turkeys who think they own the back yard. Follow her on [Facebook](http://www.facebook.com/hope.schultz.14) and at [her website](http://tlenajade.wix.com/hope-erica-schultz) website.

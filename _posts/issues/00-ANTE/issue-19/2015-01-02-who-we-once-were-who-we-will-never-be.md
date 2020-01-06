@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Who We Once Were, Who We Will Never Be"
-author: Brent Baldwin
-date:   2015-01-02 12:01:00 -0500
-category: flash fiction
-permalink: /issue19/chapter/who-we-once-were-who-we-will-never-be//
+category: short story
+issue: 19, January 2015
+issue-cover: issue-19-cover.png
+issue-buy-link:
+title: Who We Once Were, Who We Will Never Be
+subtitle:
+author: brent-baldwin
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-01-02 12:01:00 -0500
+permalink: /issue19/chapter/who-we-once-were-who-we-will-never-be/
+audiourl:
 teaser: "Your dreams are my dreams, love, forever and always."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -66,7 +93,3 @@ Come with me, love. Follow me through the alley and past the madames. Follow me 
 You look through me, and I'd like to think that you're seeing the girl I used to be.
 
 Follow me, love, and lie down. You'll sleep. You'll sleep when it's over. And I'll fetch the doctor and a cooler. We'll refill the savings jar, and you'll help me open that noodle shop after all.
-
-#### About the Author
-
-Brent hails from the tree-swept hills of the Missouri Ozarks. He's spent a decade working in information technology by day and fiction by night. He loves speculative fiction and thrillers, and especially that place where the two genres collide. Brent lives with his wife, two daughters and terrifying guard dog. You can find him on his website at [dbbaldwin.com](http://www.dbbaldwin.com) and on Twitter as [@dbrentbaldwin](https://twitter.com/dbrentbaldwin).

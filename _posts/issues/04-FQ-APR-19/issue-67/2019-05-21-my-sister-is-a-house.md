@@ -1,20 +1,41 @@
 ---
 layout: story
-title: My Sister Is a House
-author: Zoë Medeiros
-editor: Julia Rios
-date: 2019-05-21 01:00:01 -0500
 category: short story
+issue: 67, May 2019
+issue-cover: issue-67-cover.png
+issue-buy-link:
+title: My Sister Is a House
+subtitle:
+author: zoe-medeiros
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-05-21 01:00:01 -0500
 permalink: my-sister-is-a-house
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-21-my-sister-is-a-house.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "It would have shown in the Aptitudes. I learned that much later. But when we were children, our father never told us our results."
-author-img: zoe-medeiros.jpg
-author-bio: |
-  **Zoë Medeiros** graduated from Bennington College with a BA in literature and writing. She’s lived in nine states and worked in education, insurance, tools, and fish. She has an essay in the _New York Times_ best seller _Not That Bad: Dispatches from Rape Culture_, edited by Roxane Gay. Zoë lives in Northwest Washington with her brown dog and is working on a young adult novel.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 It’s common enough, once or twice a generation. We had a great aunt who became a dagger. Most families have a weapon of some kind, usually a woman, usually a blade, and it is our mother who carries her. Our great aunt will pass to me eventually, and I have already made a sheath and a belt that I think will meet with her approval. There is a family in town with a mirror that was someone’s brother, thirty years ago, and I must say I have never looked better or more myself than I did the one time I saw my reflection in him.

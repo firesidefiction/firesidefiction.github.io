@@ -1,15 +1,39 @@
 ---
 layout: story
-title: Forever Now
-author: A.E. Decker
-date:   2016-04-04 12:01:00 -0500
 category: short story
+issue: 32, April 2016
+issue-cover: issue-32-cover.png
+issue-buy-link:
+title: Forever Now
+subtitle:
+author:  a-e-decker
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-04-04 12:01:00 -0500
 permalink: /issue32/chapter/forever-now/
+audiourl:
 teaser: "I’ve lost my parents, Rita told the man in the many-colored hat."
-published: true
 art: forever-now.jpg
-caption: a little girl with two afro buns on either side of her head holds a picture frame, standing in the center of a multicolored background.
-artist: Galen Dara
+artcaption: A little girl with two afro buns on either side of her head holds a picture frame, standing in the center of a multicolored background.
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 “I’ve lost my parents,” Rita told the man in the many-colored hat.
@@ -279,7 +303,3 @@ She hugged him hard. His fur was as silky as the touch of whipped cream melting 
 “Rita? You all right back there, honey?” asked her mother.
 
 “Yes,” she replied. A single, white-gold feather shimmered behind Ferdinand’s ear. Grinning through her tears, she hugged him again. “Everything’s just great now.”
-
-#### About the Author
-
-A. E. Decker, a former ESL tutor and tai chi instructor, lives in Pennsylvania. Her young adult novel, The Falling of the Moon, is published by [World Weaver Press](http://www.worldweaverpress.com/store/p78/The_Falling_of_the_Moon.html). A graduate of the Odyssey Writers' Workshop, she is the author of numerous short stories and a five-year member of the Bethlehem Writers Group. Like all writers, she is owned by three cats. Come visit her site, [Words Meet World](http://www.wordsmeetworld.com/), for free stories and fur Daleks.

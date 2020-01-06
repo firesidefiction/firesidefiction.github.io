@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  Delta Child
-author: Malon Edwards
-date:   2016-09-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 36, September 2016
+issue-cover: issue-36-cover.png
+issue-buy-link:
+title: Delta Child
+subtitle:
+author: malon-edwards
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-09-02 12:01:00 -0500
 permalink: /issue36/chapter/delta-child/
+audiourl:
 teaser: "As long as I eat, I heal. Today, it’s my rotted right arm that needs it."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 As long as I eat, I heal. Today, it’s my rotted right arm that needs it.
@@ -74,7 +101,3 @@ But I’m staying the fuck away from Jasmine. And my baby boy.
 She don't play. Not when it comes to her baby boy. Our baby boy. She for damn sure will snatch my shit.
 
 And there won't be no coming back from that.
-
-#### About the Author
-
-Malon Edwards was born and raised on the South Side of Chicago, but now lives in the Greater Toronto Area, where he was lured by his beautiful Canadian wife. Many of his short stories are set in an alternate Chicago and feature people of color. Malon also serves as Managing Director and Grants Administrator for the Speculative Literature Foundation, which provides a number of grants for writers of speculative literature. You can find him online at [malonedwards.com](http://www.malonedwards.com) and on Twitter [@MalonLouis](http://www.twitter.com/MalonLouis).

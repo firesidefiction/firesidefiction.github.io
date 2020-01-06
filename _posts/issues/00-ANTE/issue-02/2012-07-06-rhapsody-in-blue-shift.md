@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  Rhapsody in Blue Shift
-author: Stephen Blackmoore
-date:   2012-07-06 12:01:00 -0500
 category: short story
+issue: 2, Summer 2012
+issue-cover: issue-2-cover.png
+issue-buy-link:
+title: Rhapsody in Blue Shift
+subtitle:
+author: stephen-blackmoore
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-07-06 12:01:00 -0500
 permalink: /issue2/chapter/rhapsody-in-blue-shift/
+audiourl:
 teaser: "When I met George Gershwin I was cleaning up D Deck. The gravitational retractors had gone offline, sending clothing, magazines, a thousand odds and ends into the air."
-published: true
 art: rhapsody-in-blue-shift.jpg
-caption: Illustration for Rhapsody in Blue Shift
-artist: Galen Dara
+artcaption: Illustration for Rhapsody in Blue Shift
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 When I met George Gershwin I was cleaning up D Deck. The gravitational retractors had gone offline, sending clothing, magazines, a thousand odds and ends into the air. When they finally came back down it was my job to clean up the mess.
@@ -399,7 +423,3 @@ I only saw Mr. Gershwin one more time. I was cleaning up on D where the refugees
 "Consider her convinced," he said winking at me. He didn't even say goodbye, just faded away with that grin of his.
 
 And that's when the music started playing. All over the ship.
-
-#### About the Author
-
-Stephen Blackmoore is the author of the novels _Dead Things_, _Broken Souls_, and the upcoming _Hungry Ghosts_. He can be found online at [stephenblackmoore.com](http://stephenblackmoore.com) and on Twitter at [@sblackmoore](https://twitter.com/sblackmoore).  He is a scintillating conversationalist and brutally handsome.

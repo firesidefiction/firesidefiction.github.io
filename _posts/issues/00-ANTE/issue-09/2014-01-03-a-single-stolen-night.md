@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "A Single, Stolen Night"
-author: Memory Scarlett
-date:   2014-01-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 9, January 2014
+issue-cover: issue-9-cover.png
+issue-buy-link:
+title: A Single, Stolen Night
+subtitle:
+author: memory-scarlett
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-01-03 12:01:00 -0500
 permalink: /issue9/chapter/a-single-stolen-night/
+audiourl:
 teaser: "Talia painted her lips blue and went down, down, down to the Market Level ball."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -70,7 +97,3 @@ Her shy smile made Talia bold. Surely she could share a single kiss with this vi
 Fine silk rots; lipstick rubs off; purple-dyed hair grows out to its natural brown or black. Good girls and boys make alliances that help their families climb the social ladder. They go to business school and learn the ins and outs of import and export. They make their Mamas proud.
 
 Talia stole her kiss and entered the lift that would take her where she could best serve the Twins. Her purple-and-red paramour remained behind.
-
-#### About the Author
-
-Memory Scarlett lives in Winnipeg, Manitoba, with a tiny dog who thinks he's a cat. When she's not writing, she's usually reading, watching trashy television, or testing a new recipe. She blogs regularly at [memoryscarlett.blogspot.ca](http://memoryscarlett.blogspot.ca) and tweets as [@xicanti](https://twitter.com/xicanti).

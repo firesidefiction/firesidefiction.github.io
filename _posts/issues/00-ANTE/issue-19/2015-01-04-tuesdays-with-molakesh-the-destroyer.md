@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Tuesdays With Molakesh the Destroyer"
-author: Megan Grey
-date:   2015-01-04 12:01:00 -0500
 category: short story
+issue: 19, January 2015
+issue-cover: issue-19-cover.png
+issue-buy-link:
+title: Tuesdays With Molakesh the Destroyer
+subtitle:
+author: megan-grey
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-01-04 12:01:00 -0500
 permalink: /issue19/chapter/tuesdays-with-molakesh-the-destroyer/
+audiourl:
 teaser: "Molakesh the Destroyer moved into the house next door the summer I turned fifteen."
-published: true
 art: tuesdays-with-molakesh-the-destroyer.jpg
-caption: Illustration for Tuesdays With Molakesh the Destroyer
-artist: Galen Dara
+artcaption: Illustration for Tuesdays With Molakesh the Destroyer
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Molakesh the Destroyer moved into the house next door the summer I turned fifteen. There was the expected neighborhood gossip at first, with Mom and her friends worrying about what having a demon on our street might do for property values and with one particularly zealous neighbor lining her property with crosses, but it died down after a few months. Destroyer he may be called, but he kept his yard tidy and pulled in his trash cans at night, so the Homeowners Association turned their scowls on other targets.
@@ -285,7 +309,3 @@ The heat seared my face and choked me, but I stayed just long enough to see his 
 I called 911 when I got home, then microwaved myself a cup of hot chocolate. Mom wouldn't be home from work for another hour or so yet, so she'd miss the show. The wail of approaching sirens sounded as I settled myself onto our porch with the Tweety Bird mug. I watched the flames shoot upwards from my demon neighbor's house, gorgeous threads of red and orange against a gray winter sky.
 
 Molakesh would have liked it.
-
-#### About the Author
-
-Megan Grey lives in Utah with her husband, two kids, and two dogs (all of whom are incredibly supportive of the time she spends writing about retired demons and other supernatural outcasts). This is her second appearance in Fireside, and her fiction can also be found in One Horn to Rule Them All: A Purple Unicorn Anthology, Sybil's Scriptorium, and upcoming in the The Book of the Emissaries: An Animism Short Fiction Anthology. To find out more about Megan, visit her website at  [megangrey.com](http://www.megangrey.com).

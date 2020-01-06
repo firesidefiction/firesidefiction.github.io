@@ -1,11 +1,37 @@
 ---
 layout: post
-title:  "Issue 2 — WOW. ISSUE TWO."
-author: Brian J. White
-date:   2012-07-07 12:01:00 -0500
 category: announcement
+issue:
+issue-cover: 
+issue-buy-link:
+title: Issue 2 — WOW. ISSUE TWO.
+subtitle:
+author:
+author-2:
+editor:
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-07-07 12:01:00 -0500
 permalink: /issue2/front-matter/from-the-editor/
-teaser: ""
+audiourl:
+teaser:
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 

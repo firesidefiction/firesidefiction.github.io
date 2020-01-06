@@ -1,16 +1,38 @@
 ---
-layout: story-serial
-title:  "Cannibal Warfare"
-author: Lilith Saintcrow
-date:   2014-11-06 12:01:00 -0500
+layout: story
 category: serial
+issue: 17, November 2014
+issue-cover: issue-17-cover.png
+issue-buy-link:
+title: Cannibal Warfare
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-11-06 12:01:00 -0500
+permalink: /issue17/chapter/she-wolf-and-cub-chapter-two/
+audiourl:
+teaser: "He didn't complain, even when the sunlight worked through the wrappings and raised blistering weals on pale skin."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 2
 previous-url: /issue16/chapter/she-wolf-and-cub-chapter-one/
 next-url: /issue18/chapter/she-wolf-and-cub-chapter-three/
-permalink: /issue17/chapter/she-wolf-and-cub-chapter-two/
-teaser: "He didn't complain, even when the sunlight worked through the wrappings and raised blistering weals on pale skin."
+contentnote:
+generalnote:
 published: true
 ---
 

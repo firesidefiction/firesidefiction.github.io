@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Cupid and Psyche at the Caffé Sol Y Mar"
-author: José Iriarte
-date:   2015-10-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 28, October 2015
+issue-cover: issue-28-cover.png
+issue-buy-link:
+title: Cupid and Psyche at the Caffé Sol Y Mar
+subtitle:
+author: jose-pablo-iriarte
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-10-02 12:01:00 -0500
 permalink: /issue28/chapter/cupid-and-psyche-at-the-caffe-sol-y-mar/
+audiourl:
 teaser: "Psyche has given up and signaled for the check by the time Cupid pulls up on his red scooter."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -76,7 +103,3 @@ He drops the papers on the table, where they are immediately consumed by green f
 Psyche feels a familiar breeze caress her hair. She glances at the flames on the table and they snuff out without leaving a mark.
 
 "I won't ever be stuck in the doldrums," she says. "Didn't you read what you just signed?" She stands and tosses her pack over her shoulder. "The west wind comes with me."
-
-#### About the Author
-
-José Iriarte is a Cuban-American writer and high school math teacher living in EPCOT with his wife Lisa and their two teenage kids. His fiction has appeared in Strange Horizons, Penumbra, Fantastic Stories of the Imagination, and other venues. Learn more at his website: [labyrinthrat.com](http://www.labyrinthrat.com).

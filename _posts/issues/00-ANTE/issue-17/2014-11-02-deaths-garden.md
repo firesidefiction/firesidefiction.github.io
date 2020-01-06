@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Death’s Garden"
-author: Day Al-Mohamed
-date:   2014-11-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 17, November 2014
+issue-cover: issue-17-cover.png
+issue-buy-link:
+title: Death’s Garden
+subtitle:
+author: day-al-mohamed
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-11-02 12:01:00 -0500
 permalink: /issue17/chapter/deaths-garden/
+audiourl:
 teaser: "Far away, in a country on the other side of East, there is a garden filled with only red flowers."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -48,7 +75,3 @@ The crowd bowed their heads, shamed.
 The mother let her silent tears speak of her love and her goodbye.  They would not meet again for she now belonged to Death, and the living may not enter Death's garden.
 
 And so my Best Beloved, lovers meet and lovers part and lovers are lost. So the garden grows. And when their hearts fly to the country on the other side of East, the Mother of all Broken Hearts is waiting to tend to them. Hers is the first story and the last story and she will continue, Best Beloved, every night as we sleep, from the first whispers of dark until the last shadows of night flee to the sky at dawn.
-
-#### About the Author
-
-Day Al-Mohamed is author for the novel "Baba Ali and the Clockwork Djinn: A Steampunk Faerie Tale", written with Danielle Ackley-McPhail. Day hosts the multi-author blog "Unleaded: Fuel for Writers", and in addition to speculative fiction, she also writes comics and film scripts. Her recent publications are available in "Daily Science Fiction," THE Crossed Genres anthology "Oomph - A Little Super Goes a Long Way," Sword & Laser, and GrayHaven Comics' anti-bullying issue "You Are Not Alone." When not working on fiction, Day is Senior Policy Advisor with the U.S. Department of Labor. She lives in Washington, DC with her wife, N.R. Brown,in a house with too many swords, comic books, and political treatises. She can be found online at [DayAlMohamed.com](http://www.DayAlMohamed.com) and on Twitter at [@DayAlMohamed](http"//twitter.com/DayAlMohamed).

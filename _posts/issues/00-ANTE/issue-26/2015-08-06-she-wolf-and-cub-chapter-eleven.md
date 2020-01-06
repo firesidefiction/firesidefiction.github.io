@@ -1,16 +1,38 @@
 ---
-layout: story-serial
-title:  "Black Hat Collective"
-author: Lilith Saintcrow
-date:   2015-08-06 12:01:00 -0500
+layout: story
 category: serial
+issue: 26, August 2015
+issue-cover: issue-26-cover.png
+issue-buy-link:
+title: Black Hat Collective
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-08-06 12:01:00 -0500
+permalink: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
+audiourl:
+teaser: "They came from below."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 11
 previous-url: /issue25/chapter/she-wolf-and-cub-chapter-ten/
 next-url: /issue27/chapter/she-wolf-and-cub-chapter-twelve/
-permalink: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
-teaser: "They came from below."
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -303,9 +325,3 @@ _Thud_.
 And again.
 
 _Thud._
-
-Jump to: [Chapter Twelve](/issue27/chapter/she-wolf-and-cub-chapter-twelve/)
-
-#### About the Author
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).

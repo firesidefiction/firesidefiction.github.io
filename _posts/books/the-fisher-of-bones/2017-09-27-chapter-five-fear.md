@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Fear"
 author: Sarah Gailey
 date:   2017-09-27 01:01:00 -0500

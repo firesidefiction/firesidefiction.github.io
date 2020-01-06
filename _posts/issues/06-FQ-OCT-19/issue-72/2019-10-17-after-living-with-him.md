@@ -1,23 +1,41 @@
 ---
 layout: poem
-title: After Living With Him
-author: Okwudili Nebeolisa
-editor: Julia Rios
-date: 2019-10-17 01:00:01 -0500
 category: poem
+issue: 72, October 2019
+issue-cover: issue-72-cover.png
+issue-buy-link:
+title: After Living With Him
+subtitle:
+author: okwudili-nebeolisa
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-10-17 01:00:01 -0500
 permalink: after-living-with-him
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-17-After_Living_With_Him.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "It was the question I had been dreading
 for a while, knowing that one day
 someone in the family would ask"
-author-img: okwudili-nebeolisa.jpg
-author-bio: |
-  Born in 1993, Okwudili Nebeolisa is a Nigerian writer whose works have appeared in _Threepenny Review_and anthologies from Commonwealth Writers, and have been nominated for a Pushcart Prize by The _Cincinnati Review_, _Salamander Magazine_, and _Beloit Poetry Journal_. His works have been shortlisted for the Gerald Kraak Award, The Sillerman First Book Prize for African Poetry, and the Tom Howard/John H Reid Fiction and Essay Contest Award.
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 Peeling cocoyam with my mom one evening<br/>

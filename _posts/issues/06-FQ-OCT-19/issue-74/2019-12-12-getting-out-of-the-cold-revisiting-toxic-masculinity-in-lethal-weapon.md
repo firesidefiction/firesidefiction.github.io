@@ -1,20 +1,39 @@
 ---
 layout: post
-title: "Getting Out of the Cold: Revisiting Toxic Masculinity in Lethal Weapon"
-author: Brandon O'Brien
-editor: Julia Rios
-date: 2019-12-12 01:00:01 -0500
 category: essay
+issue: 74, December 2019
+issue-cover: issue-74-cover.png
+issue-buy-link:
+title: "Getting Out of the Cold: Revisiting Toxic Masculinity in Lethal Weapon"
+subtitle:
+author: brandon-obrien
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-12-12 01:00:01 -0500
 permalink: getting-out-of-the-cold-revisiting-toxic-masculinity-in-lethal-weapon
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-12-Getting_Out_of_the_Cold-_Revisiting_Toxic_Masculinity_in_Lethal_Weapon.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "This is perhaps one of the better lessons of the season: sometimes, the things that teach us how to be men also turn men into tools."
-author-img: brandon-obrien.jpg
-author-bio: |
-  Brandon O’Brien is a performance poet, writer, and game designer from Trinidad and Tobago. His work has been shortlisted for the 2014 Alice Yard Prize for Art Writing and the 2014 and 2015 Small Axe Literary Competitions, and is published in _Uncanny Magazine_, _Strange Horizons_, _Reckoning_, and _New Worlds, Old Ways: Speculative Tales from the Caribbean_ (Peekash Press, 2016), among others. He is also the poetry editor of _FIYAH Literary Magazine_.
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 Eight minutes from the end of “Coyote Ugly,” the thirteenth episode of the third season of _Lethal Weapon_, Los Angeles Police Department Detective Wesley Cole is in a pretty floral hospital gown, struggling to stand upright as he hobbles in front of a speeding California Border Patrol truck with two bad guys in the front, bringing it to a halt. He’s clutching a bullet wound that’s only been patched up hours ago. The two crooked agents in the front, and the kidnapped Mexican refugee in the back, look at him with utter incredulity as he points at them fiercely and shouts, “Let him go!”

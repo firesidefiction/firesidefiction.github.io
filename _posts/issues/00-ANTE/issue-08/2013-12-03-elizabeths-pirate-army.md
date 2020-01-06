@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Elizabeth’s Pirate Army"
-author: Caroline M. Yoachim
-date:   2013-12-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 8, December 2013
+issue-cover: issue-8-cover.png
+issue-buy-link:
+title: Elizabeth’s Pirate Army
+subtitle:
+author: caroline-m-yoachim
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-12-03 12:01:00 -0500
 permalink: /issue8/chapter/elizabeths-pirate-army/
+audiourl:
 teaser: "A kraken came to Edgewood Street on the first day of summer vacation."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -54,7 +81,3 @@ Jimmy, clearly embarrassed to have needed help, swaggered up to Elizabeth and sa
 Elizabeth snorted. "Now that we've driven off the kraken, there's no need for pirate armies." A shadow engulfed them as a huge monster flew overhead. Elizabeth knew just the kind of army to fight this new beast.
 
 "Tomorrow I'll be training ninjas," she told Jimmy, "and you can help us fight Mothra, if you want."
-
-#### About the Author
-
-Caroline M. Yoachim lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in Fantasy & Science Fiction, Clarkesworld, Asimov's, and Lightspeed, among other places.  Her debut short story collection, Seven Wonders of a Once and Future World & Other Stories, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at [carolineyoachim.com](http://carolineyoachim.com).

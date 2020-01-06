@@ -1,17 +1,41 @@
 ---
 layout: story
-title:  "When First He Laid Eyes"
-author: Rachael K. Jones
-date:   2016-02-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 30, February 2016
+issue-cover: issue-30-cover.png
+issue-buy-link:
+title: When First He Laid Eyes
+subtitle:
+author: rachael-k-jones
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-02-02 12:01:00 -0500
 permalink: /issue30/chapter/when-first-he-laid-eyes/
+audiourl:
 teaser: "A girl's first stalker is always a cause for celebration."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote: This story explores themes of stalking, harassment, and violence against women.
+generalnote: |
+  Editor's Note: Rachael wrote a piece [delving into the origins of this story](https://rckjones.wordpress.com/2016/02/01/my-zombie-apocalypse-survival-plan/). We think it's essential reading.
 published: true
 ---
-
-_Content Note: This story explores themes of stalking, harassment, and violence against women._
-
-----
 
 A girl's first stalker is always a cause for celebration. She will phone her mother with the big news and spill the story in a tangle of words, voice raw with emotion.
 
@@ -34,13 +58,3 @@ The truth is this: a woman will attempt an escape. She will throw her weight aga
 Only when she has landed will she think of her stalker, when at the dock the locals greet her in a foreign tongue and she finds herself watching for him among their faces, throat tight, heart a-thumping. That is when she will realize that a stalker's gaze is no needle. It is a hook, and his hand patient, and his line is long, and just when a girl forgets him, he will tug, and she will feel the keen red star pull on her like a baleful eye that will not blink, and remember that she is intended, and what he intends for her is fear.
 
 A girl never forgets her first stalker. This, too, is traditional.
-
-----
-
-_Editor's Note: Rachael wrote a piece [delving into the origins of this story](https://rckjones.wordpress.com/2016/02/01/my-zombie-apocalypse-survival-plan/). We think it's essential reading._
-
-----
-
-#### About the Author
-
-Rachael K. Jones grew up in various cities across Europe and North America, picked up (and mostly forgot) six languages, an addiction to running, and a couple degrees. Now she writes speculative fiction in Athens, Georgia, where she lives with her husband. Her work has appeared or is forthcoming in many venues, including Shimmer, Lightspeed, Beneath Ceaseless Skies, Flash Fiction Online, Fireside Magazine, Accessing the Future, Strange Horizons, Escape Pod, Crossed Genres, Diabolical Plots, InterGalactic Medicine Show, Fantastic Stories of the Imagination, The Drabblecast, and  Daily Science Fiction. She is co-editor of PodCastle, a SFWA member, and a secret android. Find her online at [rckjones.wordpress.com](https://rckjones.wordpress.com/) and on Twitter [@RachaelKJones](https://twitter.com/rachaelkjones).

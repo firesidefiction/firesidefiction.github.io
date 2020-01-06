@@ -1,15 +1,40 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part Two"
-author: Chuck Wendig
-date:   2013-09-05 12:01:00 -0500
 category: serial
+issue: 5, September 2013
+issue-cover: issue-5-cover.png
+issue-buy-link:
+title: Ham Salad
+subtitle:
+author: chuck-wendig
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-09-05 12:01:00 -0500
 permalink: /issue5/chapter/the-forever-endeavor-part-two/
+audiourl:
 teaser: "Walter Bard comes in the door. Throws his keys down, his hat, his jacket—tries to shed his day along with it but the day's like a second skin you can't just peel off."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Forever Endeavor
+serial-url:
+part: 2
+previous-url: http://www.firesidefiction.com/issue4/chapter/the-forever-endeavor-part-one/
+next-url: http://www.firesidefiction.com/issue6/chapter/the-forever-endeavor-part-three/
+contentnote:
+generalnote:
 published: true
 ---
-
-Jump to: [Part One](http://www.firesidefiction.com/issue4/chapter/the-forever-endeavor-part-one/)
 
 ## 7. HAM SALAD
 
@@ -328,9 +353,3 @@ This day sucks, he thinks.
 Then the phone rings.
 
 And it gets a lot worse.
-
-Jump to: [Part Three](http://www.firesidefiction.com/issue6/chapter/the-forever-endeavor-part-three/)
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.

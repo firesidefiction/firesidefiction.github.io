@@ -1,15 +1,40 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part Seven"
-author: Chuck Wendig
-date:   2014-02-06 12:01:00 -0500
 category: serial
+issue: 10, February 2014
+issue-cover: issue-10-cover.png
+issue-buy-link:
+title: Hot Dale-On-Dale Action
+subtitle:
+author: chuck-wendig
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-02-06 12:01:00 -0500
 permalink: /issue10/chapter/the-forever-endeavor-part-seven/
+audiourl:
 teaser: "Dale is shaking."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Forever Endeavor
+serial-url: /issue4/chapter/the-forever-endeavor-part-one/
+part: 7
+previous-url: issue9/chapter/the-forever-endeavor-part-six/
+next-url: /issue11/chapter/the-forever-endeavor-part-eight/
+contentnote:
+generalnote:
 published: true
 ---
-
-Jump to: [Beginning]({{ site.url}}/issue4/chapter/the-forever-endeavor-part-one/) | [Part Six]({{ site.url}}/issue9/chapter/the-forever-endeavor-part-six/)
 
 ## 26. HOT DALE-ON-DALE ACTION
 
@@ -464,9 +489,3 @@ Finally, standing over them all: another Dale. Gun in his hand.
 A stain on his shirt. Hair a-muss.
 
 "Welcome to the party, pal," Drunk Gun-Toting Dale says, and laughs.
-
-Jump to: [Part Eight]({{ site.url}}/issue11/chapter/the-forever-endeavor-part-eight/)
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.

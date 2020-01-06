@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Bones at the Door"
-author: John Wiswell
-date:   2015-09-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 27, September 2015
+issue-cover: issue-27-cover.png
+issue-buy-link:
+title: Bones at the Door
+subtitle:
+author: john-wiswell
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-09-03 12:01:00 -0500
 permalink: /issue27/chapter/bones-at-the-door/
+audiourl:
 teaser: "There was a squirrel skeleton the morning before it really started."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -52,7 +79,3 @@ In case it didn't like her suggestion, she kept hotdogs in her room.
 It left nothing for her the next day. She ate the hotdogs with black pepper and no buns. They were favorite meat, and she had the best sleep of her life — not that night, but two nights later. That was the night the apartment next door was quiet.
 
 The following morning, as Mom tugged her to the car for Dad's formal acquittal, she spotted the boy sitting on the railing. He waved as they drove off, and smiled in an empty way. Mandy waved back and tried to remember if she'd ever been photographed for a yearbook.
-
-#### About the Author
-
-John ([@Wiswell](https://twitter.com/wiswell)) has more stories out now at Urban Fantasy Magazine and The Sockdolager, and upcoming at Podcastle and Daily Science Fiction. He requests any photographs of himself not be paired with sacrificial meat.

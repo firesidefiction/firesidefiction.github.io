@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  Perspective
-author: Jake Kerr
-date:   2012-07-03 12:01:00 -0500
 category: short story
+issue: 2, Summer 2012
+issue-cover: issue-2-cover.png
+issue-buy-link:
+title: Perspective
+subtitle:
+author: jake-kerr
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2012-07-03 12:01:00 -0500
 permalink: /issue2/chapter/perspective/
+audiourl:
 teaser: "The worst part about picking my son up from the police station was the walk to get there. I hadn't been outside in years, but it was still the same — black molecular paint permanently defacing an already wretched city."
-published: true
 art: perspective.jpg
-caption: Illustration for Perspective
-artist: Galen Dara
+artcaption: Illustration for Perspective
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The worst part about picking my son up from the police station was the walk to get there. I hadn't been outside in years, but it was still the same — the drab gray of the smog-stained overcast sky, the decaying concrete, the stench of gasoline, urine, and who knew what else. But thanks to Jeffrey there was a new assault to my senses — black molecular paint permanently defacing an already wretched city.
@@ -103,7 +127,3 @@ I held out my hand into the air, reaching through the distance to touch a piece 
 I couldn't believe the scale of Jeffrey's accomplishment. Each small piece of black paint was part of a whole that could only be perceived from this balcony, this exact spot. She looked back at me — the city, my wife. She was beautiful.
 
 Ten years was too long to wait to hug your son, but sometimes you don't have a choice. I wiped my eyes and moved my chair out to the balcony.
-
-#### About the Author
-
-Jake Kerr is an author of short fiction whose works have appeared in Lightspeed, Fireside, Escape Pod, Chinese literary journal Zui Found, and other publications and anthologies. His first published story, "The Old Equations," was nominated for the Nebula, Theodore Sturgeon Memorial, and StorySouth Million Writers awards. He lives in Texas with his wife and three daughters.

@@ -1,21 +1,39 @@
 ---
 layout: story
-title: Radio Static
-author: Carolin Jansen
-editor: Julia Rios
-date: 2019-10-22 01:00:01 -0500
 category: short story
+issue: 72, October 2019
+issue-cover: issue-72-cover.png
+issue-buy-link:
+title: Radio Static
+subtitle:
+author: carolin-jansen
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-10-22 01:00:01 -0500
 permalink: radio-static
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-22-Radio_Static.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "You don’t know that I am a ghost, so you sit at my bedside and cup my hand like a seashell in your palm."
-author-img: carolin-jansen.jpg
-author-bio: |
-  Carolin Jansen is a writer of short fiction, poetry, and overly ambitious to-do lists. She lives in Germany, where she works as a doctor. English is her second language. Her interests include strange and fantastical stories, bioethics, ice cream, and petting dogs. She can be found on Twitter as [@_cjansen](https://www.twitter.com/_cjansen). "Radio Static" is her first magazine publication.
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 If you can hear this: I know the blood on the wall was overly dramatic. My handwriting was appalling even before I became an amorphous apparition, so I should probably not be surprised that the words came out as a mess of bloody fingerprints. I would apologize to the janitor if I still had a voice.

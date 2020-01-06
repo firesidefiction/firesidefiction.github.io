@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Skinned Knees"
-author: R.D. Sullivan
-date:   2013-10-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 6, October 2013
+issue-cover: issue-6-cover.png
+issue-buy-link:
+title: Skinned Knees
+subtitle:
+author:
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-10-03 12:01:00 -0500
 permalink: /issue6/chapter/skinned-knees/
+audiourl:
 teaser: "From a distance I have always watched them. Children are the culmination of somebody else's hopes and dreams, kept warm under heat lamps of love and expectations."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -46,7 +73,3 @@ Saturday night I made his favorite dish, seasoned with horse tranquilizer. I too
 Sunday, I awoke to Luke standing over me, smiling at the edge of my bed.
 
 "I want to go play basketball at the school, mom. Come play with me."
-
-#### About the Author
-
-R.D. Sullivan is the author of multiple good-for-nothing novels and short stories that do nothing but lay about and mooch off of her. "Skinned Knees" is the first of her stories to venture out in to the world and make something of itself and R.D.'s grandmother couldn't be prouder, even if she thinks R.D. looks funny. She lives in Northern California with her husband where they raise their toddler, wrangle their pack of dogs, and run a business together. She can be found on twitter as [@_TheRussian ](https://twitter.com/_therussian) or on [her blog](http://govneh.wordpress.com). She is also the founder of the Cement Shoe Broadcast Network and hosts its flagship show,  [Talking Shit with Dave and Earl.](http://daveandearl.libsyn.com)

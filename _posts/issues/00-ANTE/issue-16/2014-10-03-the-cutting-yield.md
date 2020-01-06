@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "The Cutting Yield"
-author: Hillary Jacques
-date:   2014-10-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 16, October 2014
+issue-cover: issue-16-cover.png
+issue-buy-link:
+title: The Cutting Yield
+subtitle:
+author: hillary-jacques
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-10-03 12:01:00 -0500
 permalink: /issue16/chapter/the-cutting-yield/
+audiourl:
 teaser: "Gramma Gershon taught me many things. When to pick berries to capture the brightest color and sweetest taste. Why to avoid wild mushrooms."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -33,7 +60,3 @@ I thought it was her stomach when she took to drinking grapeseed oil. It was a c
 Like a sleepwalker in a dream of plenty, I prepared her meal. Bright radishes and carrots around a pile of cutlets, gleaming with drippings. Narrow racks of ribs that had smoked all night. A briny terrine, both peppery and sweet. Dry-fried liver with lemon and garlic.
 
 I tasted every dish that passed through the swinging doors. She would have been proud of her last meal.
-
-#### About the Author
-
-Hillary Jacques is an Alaskan author of speculative fiction. She enjoys travel, small plate dining, and action movies. She's worked jobs as diverse as carnival vendor and federal contractor, and every setting has spawned a story. Her story "Recession of the Divine" is featured in the Carniepunk anthology and her urban fantasy Night Runner series is published under pen name [Regan Summers](http://regansummers.com/). You can find her on Twitter at [@HillaryJacques](https://twitter.com/HillaryJacques).

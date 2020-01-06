@@ -1,25 +1,41 @@
 ---
 layout: story
-title: The Blanched Bones, the Tyrant Wind
-author: Karen Osborne
-editor: Julia Rios
-date: 2019-03-12 01:00:01 -0500
 category: short story
+issue: 65, March 2019
+issue-cover: issue-65-cover.png
+issue-buy-link:
+title: The Blanched Bones, the Tyrant Wind
+subtitle:
+author: karen-osborne
+author-2:
+author-3:
+editor: julia-rios
+illustrator: bernard-lee
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-03-12 01:00:01 -0500
 permalink: the-blanched-bones-the-tyrant-wind
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-016-the-blanched-bones-the-tyrant-wind-by-karen-osborne_-_1719_3.24_PM.mp3
-narrator: C.S.E. Cooney
-published: true
 teaser: "I hope I am so sticky and rangy that he cannot force the hate in my veins down his steel throat. I hope he chokes on my solid, frozen heart."
-author-img: karen-osborne.jpg
-author-bio: |
-  **Karen Osborne** lives in Baltimore with two violins, an autoharp, four cameras, a husband and a bonkers orange cat. She’s been a reporter, a wedding videographer, a newspaper photographer, a high school English teacher, a Starfleet captain and a Scottish fiddler. Her short fiction currently appears at _Escape Pod_ and is forthcoming in _Beneath Ceaseless Skies_. She is a graduate of Viable Paradise and the Clarion Writers’ Workshop, and while she hasn’t yet climbed the mountain herself, she keeps on staring at the skies. Karen can be found on Twitter at @karenthology and at [karenosborne.com](http://www.karenosborne.com).
 art: the-blanched-bones-the-tyrant-wind.jpg
-caption: "A group of women of varying ages line up. They look ready to fight."
-artist: Bernard Lee
-artist-img: bernard-lee.jpg
-artist-bio: |
-  **Bernard Lee** was born and raised in Orange County, CA and graduated with a BFA in Illustration from Syracuse University. After working in New York City for a few years as an Art Director at Scientific American, he now resides in California again creating illustrations for the publishing, editorial and entertainment industries as well as for private collectors. Past clients include Rockstar Games, _Variety_, _Scientific American_, Macmillan, _VICE_ and more.
-proofread: true
+artcaption: "A group of women of varying ages line up. They look ready to fight."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 

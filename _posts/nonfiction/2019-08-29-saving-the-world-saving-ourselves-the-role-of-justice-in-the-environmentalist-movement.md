@@ -7,7 +7,7 @@ date: 2019-08-29 01:00:01 -0500
 category: essay
 permalink: saving-the-world-saving-ourselves-the-role-of-justice-in-the-environmentalist-movement
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-08-08-Saving_the_World_Saving_Ourselves_the_Role_of_Justice_in_the_Environmentalist_Movement.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "Weighing in at around 5% of the earth’s population, Americans consume over 30% of the world’s resources."
 author-img: grace-villmow.jpg

@@ -1,21 +1,39 @@
 ---
 layout: story
-title: Partially True (But Mostly Not)
-author: Sherin Nicole
-editor: Julia Rios
-date: 2019-12-24 01:00:01 -0500
 category: short story
+issue: 74, December 2019
+issue-cover: issue-74-cover.png
+issue-buy-link:
+title: Partially True (But Mostly Not)
+subtitle:
+author: sherin-nicole
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-12-24 01:00:01 -0500
 permalink: partially-true-but-mostly-not
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-24-Partially_True_But_Mostly_Not.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "It didn’t hurt as badly as it used to. The idea that no one knew the difference between her and who they wanted her to be."
-author-img: sherin-nicole.jpg
-author-bio: |
-  Sherin Nicole might be a covert agent. Word on the street says the CIA offered her a scholarship (but that's classified). By day, she's an agent provocateur as chief creative officer for idobi Network. By night, she produces content for Geek Girl Riot. Formerly a paranormal romance writer (under her secret identities), she has three novels and several novellas. One of which was listed on Book Riot’s “100 Must-Read Romantic Comedies,” and another is _Bloody Fabulous_ (Prime Books, 2012). Culturally she’s half American, half British, and very southern—right down to the accent. Government reports show a residence in DC, but Sherin spends most of her time in the worlds she writes and she hopes to meet you there.
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 The thing that was neither true nor fully a lie often slept beside her. Some days, if she didn’t wake up fast enough, it would go out and live in her shoes. No one knew the difference. Therefore some days she slept in, wrapped inside herself like a seed pod that had forgotten how to open.

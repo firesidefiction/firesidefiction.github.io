@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "To Fall, and Pause, and Fall"
-author: Lisa Nohealani Morton
-date:   2015-02-05 12:01:00 -0500
 category: short story
-permalink: issue20/chapter/to-fall-and-pause-and-fall/
+issue: 20, February 2015
+issue-cover: issue-20-cover.png
+issue-buy-link:
+title: To Fall, and Pause, and Fall
+subtitle:
+author: lisa-nohealani-morton
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-02-05 12:01:00 -0500
+permalink: /issue20/chapter/to-fall-and-pause-and-fall/
+audiourl:
 teaser: "The club is brightly lit as the audience files in."
-published: true
 art: to-fall-and-pause-and-fall.jpg
-caption: Illustration for To Fall, and Pause, and Fall
-artist: Galen Dara
+artcaption: Illustration for To Fall, and Pause, and Fall
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The club is brightly lit as the audience files in. It was clearly never meant to be. With all the spots and floods on, the uneven concrete floor and black-painted, unfinished wood beams are transformed from underground aesthetic to cheap grunge. The foam "rock" walls, hung with video screens, look like the cheap imitations that they are. The bar's leprous stains and old cigarette burns make it look dirty instead of DIY.
@@ -175,7 +199,3 @@ Behind the audience, all 24 Carolines are silent. They sit, looking straight int
 The door swings open. Behind it is a silhouetted human figure. And all of the Carolines start speaking again.
 
 "So what's it going to be, Caroline?" they ask in perfect unison. "Are you us, or aren't you?"
-
-#### About the Author
-
-Born and raised in Honolulu, Lisa Nohealani Morton lives in Washington, DC. By day she is a mild-mannered database wrangler, computer programmer, and all-around data geek, and by night she writes science fiction, fantasy, and combinations of the two. Her short fiction has appeared in publications such as Lightspeed, Daily Science Fiction, and the anthology Hellebore and Rue. She can be found on Twitter as [@lnmorton](https://twitter.com/lnmorton).

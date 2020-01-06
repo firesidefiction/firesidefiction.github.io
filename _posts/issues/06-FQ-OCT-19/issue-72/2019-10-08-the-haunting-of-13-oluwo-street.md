@@ -1,22 +1,40 @@
 ---
 layout: story
-title: The Haunting of 13 Olúwo Street
-author: Suyi Davies Okungbowa
-editor: Julia Rios
-date: 2019-10-08 00:00:01 -0500
 category: short story
+issue: 72, October 2019
+issue-cover: issue-72-cover.png
+issue-buy-link:
+title: The Haunting of 13 Olúwo Street
+subtitle:
+author: suyi-davies-okungbowa
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: suyi-davies-okungbowa
+letterer:
+date: 2019-10-08 00:00:01 -0500
 permalink: the-haunting-of-13-oluwo-street
 audiourl: http://traffic.libsyn.com/firesidemagazine/The_Haunting_of_13_Oluwo_Street.mp3
-narrator: Suyi Davies Okungbowa
-published: true
 teaser: "But you don’t really know anything about being haunted, do you?
 You’re thinking about this all wrong."
-author-img: suyi-davies-okungbowa.jpg
-author-bio: |
-  Suyi Davies Okungbowa is the author of the forthcoming godpunk novel, _David Mogo, Godhunter_ (Abaddon, July 2019). He is a speculative fiction writer whose stories feature African gods, starships, monsters, detectives, and everything in between. His work has appeared in _Lightspeed Magazine_, _Fireside Magazine_, _Podcastle_, _The Dark Magazine_, and other venues and anthologies. He is an MFA candidate in Creative Writing at the University of Arizona in Tucson, and tweets at [@IAmSuyiDavies](https://www.twitter.com/IAmSuyiDavies).
-proofread: true
-contentnote: This story alludes to rape and murder.
-
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote: This story alludes to rape and murder.
+published: true
 ---
 
 You’d think I would be a wastrel. You’d think my roof would have rusting zinc that flaps, iron dust floating in the night wind, rotting wood barely supporting its eaves, worms in its holes, playing hide-and-seek in the sun and taking shelter from the harmattan cold. You’d think the wind bangs against me at night, whooshes through the gaps in my belly and blows soft foghorns that echo, ghostly bassoons.

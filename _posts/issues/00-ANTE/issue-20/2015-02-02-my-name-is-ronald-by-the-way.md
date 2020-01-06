@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "My Name is Ronald by the Way"
-author: Thord D. Hedengren
-date:   2015-02-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 20, February 2015
+issue-cover: issue-20-cover.png
+issue-buy-link:
+title: My Name is Ronald by the Way
+subtitle:
+author: thord-d-hedengren
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: 
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-02-02 12:01:00 -0500
 permalink: issue20/chapter/my-name-is-ronald-by-the-way/
+audiourl:
 teaser: "Slippery. That was the feeling I couldn't shake after speaking to the salesman."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -98,7 +125,3 @@ I'm scared.
 ----
 
 My name is Ronald by the way. Just thought you should know.
-
-#### About the Author
-
-Thord D. Hedengren is addicted to words, and the stories they make. He writes fiction, short and long, as well as freelance articles and columns for various media outlets. He's a renowned web developer and designer, and the author of SMASHING WORDPRESS: BEYOND THE BLOG and THE WRITER'S IPAD, among other techy things. You'll find him wasting away on Twitter as [@tdh](https://twitter.com/tdh), or writing about just about anything at [tdh.me](http://tdh.me). Thord lives in Sweden, the Land of Kings.

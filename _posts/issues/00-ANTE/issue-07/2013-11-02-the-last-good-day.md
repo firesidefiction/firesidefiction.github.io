@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "The Last Good Day"
-author: John F. Gardner
-date:   2013-11-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 7, November 2013
+issue-cover: issue-7-cover.png
+issue-buy-link:
+title: The Last Good Day
+subtitle:
+author: john-f-gardner
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-11-02 12:01:00 -0500
 permalink: /issue7/chapter/the-last-good-day/
+audiourl:
 teaser: "Steven rubbed his hand over the stent in his chest, and for the first time in a year felt he could get up and move. He knew it was time to die."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -76,7 +103,3 @@ They sat silently for ten minutes until a thin, dark-skinned man with salt-and-p
 Mary held her breath. The seconds ticked by, slower than usual as she held his limp hand. Five minutes passed, then ten. After fifteen minutes Steve's hand gripped hers again, tightly. His lids opened to reveal grey clouds where his beautiful brown eyes used to be. He jerked his body forward, snapping his jaws and growling at her. She tore her hand away from his and stood in front of what was once her husband.
 
 "No, Steve," she said, so quietly no one could have heard her over his growling, "thank you for the last ten years." She put her forearm in front of his mouth, and he bit down.
-
-#### About the Author
-
-John F. Gardner lives in Warsaw, Indiana, a small town you've never heard of that controls whether or not you can get replacement bones. He has a wife, two sons, a cat, and a snake. He tries to post one snarky thing a day to Twitter. Follow him [@wombatdeamor](https://twitter.com/wombatdeamor). This is his first professional sale.

@@ -7,7 +7,7 @@ date: 2019-05-23 01:00:01 -0500
 category: essay
 permalink: harassment-culture-youre-soaking-in-it
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-05-16-harassment-culture-youre-soaking-in-it.mp3
-narrator: C. S. E. Cooney
+narrator: c-s-e-cooney
 published: true
 teaser: "Another known harasser’s aggressive bullying behavior was excused by white women because his primary targets were women of color."
 author-img: mikki-kendall.jpg

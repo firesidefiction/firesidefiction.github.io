@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part Eight"
-author: Chuck Wendig
-date:   2014-03-05 12:01:00 -0500
 category: serial
+issue: 11, March 2014
+issue-cover: issue-11-cover.png
+issue-buy-link:
+title: Feast and Famine
+subtitle:
+author: chuck-wendig
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-03-05 12:01:00 -0500
 permalink: /issue11/chapter/the-forever-endeavor-part-eight/
+audiourl:
 teaser: "Fireworks out over the cold ocean."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Forever Endeavor
+serial-url: /issue4/chapter/the-forever-endeavor-part-one/
+part: 8
+previous-url: /issue10/chapter/the-forever-endeavor-part-seven/
+next-url: /issue12/chapter/the-forever-endeavor-part-nine/
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -222,11 +249,3 @@ Dave doesn't know what any of that means.
 But he knows how to open his mouth and bite.
 
 And he does.
-
-
-
-Jump to: [Part Nine]({{ site.url}}/issue12/chapter/the-forever-endeavor-part-nine/
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.

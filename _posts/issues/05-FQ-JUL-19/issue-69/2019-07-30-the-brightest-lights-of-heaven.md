@@ -1,20 +1,41 @@
 ---
 layout: story
-title: The Brightest Lights of Heaven
-author: Maria Haskins
-editor: Julia Rios
-date: 2019-07-30 01:00:01 -0500
 category: short story
+issue: 69, July 2019
+issue-cover: issue-69-cover.png
+issue-buy-link:
+title: The Brightest Lights of Heaven
+subtitle:
+author: maria-haskins
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-07-30 01:00:01 -0500
 permalink: the-brightest-lights-of-heaven
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-07-30-The_Brightest_Lights_of_Heaven.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "We knew that beneath the surface we were something else entirely — something hungry, something jagged..."
-author-img: maria-haskins.jpg
-author-bio: |
-  [Maria Haskins](https://mariahaskins.com/) is a Swedish-Canadian writer and translator. She writes speculative fiction, and debuted as a writer in the mythical era called "the 1980s". She was born and grew up in Sweden, but moved to Canada in 1992. Currently, she lives just outside Vancouver with a husband, two kids, and a very large black dog. Her fiction has appeared in _Shimmer Magazine_, _Cast of Wonders_, _Beneath Ceaseless Skies_, and elsewhere. You can find her on Twitter as [@mariahaskins](https://twitter.com/mariahaskins).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story alludes to violence against animals and many acts of murder.
+generalnote:
+published: true
 ---
 
 I haven't seen Moira for fourteen years, but I dream about her all the time. The dream is always the same. We're six years old and we're dragons again — jumping off the roof together — but this time we don't hit the ground and we don't end up in the hospital and we don't need any stitches. Instead we just spread our wings and fly.

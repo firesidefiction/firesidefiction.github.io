@@ -1,20 +1,41 @@
 ---
 layout: story
-title: Bubbles and His Biped
-author: Mary Berman
-editor: Julia Rios
-date: 2019-06-18 01:00:01 -0500
 category: short story
+issue: 68, June 2019
+issue-cover: issue-68-cover.png
+issue-buy-link:
+title: Bubbles and His Biped
+subtitle:
+author: mary-berman
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-06-18 01:00:01 -0500
 permalink: bubbles-and-his-biped
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-18-bubbles-and-his-biped.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "MacKenzie’s body had fought off the diseases, and she’d dodged the vines, and when roaches had invaded her dorm, Bubbles had killed them..."
-author-img: mary-berman.jpg
-author-bio: |
-  **Mary Berman** is an MFA candidate in fiction at the University of Mississippi. Her work has been published or is forthcoming in _Cicada Magazine_, the BrokenEyeBooks anthology _It Came from Miskatonic University_, and elsewhere. In her free time she reads about the French Revolution, practices taekwondo, and chases her cat around the house. You can connect with her online at [www.mtgberman.com](http://www.mtgberman.com) and on Twitter as [@mtgberman](https://www.twitter.com/mtgberman).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story depicts threats of violence to animals.
+generalnote:
+published: true
 ---
 
 Actually, MacKenzie liked the apocalypse.

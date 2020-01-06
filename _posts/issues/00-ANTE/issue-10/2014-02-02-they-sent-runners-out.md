@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "They Sent Runners Out"
-author: Sarah Pinsker
-date:   2014-02-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 10, February 2014
+issue-cover: issue-10-cover.png
+issue-buy-link:
+title: They Sent Runners Out
+subtitle:
+author: sarah-pinsker
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-02-02 12:01:00 -0500
 permalink: /issue10/chapter/they-sent-runners-out/
+audiourl:
 teaser: "My twin brother had been a dry-eyed baby, and he grew into a dry-eyed boy."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -48,7 +75,3 @@ Over the weeks that followed, as we stretched the last of the last of our food, 
 "I understand," Yaakov said each time. I didn't understand. For the first time, I felt distant from him.
 
 And so I hurt my brother, over and over. He let me. We bore the secret together. I had a second secret that I kept to myself: sometime during the long winter I learned to hold back my own tears. When the first real strawberries of spring arrived, they didn't taste nearly as sweet.
-
-#### About the Author
-
-Sarah Pinsker is a singer-songwriter with three albums and a fourth close to completion. Her fiction has appeared in Strange Horizons and Asimov's, and she has stories forthcoming in F &SF and Lightspeed. She lives in Baltimore, Maryland.

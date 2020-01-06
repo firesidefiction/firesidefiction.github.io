@@ -1,23 +1,41 @@
 ---
 layout: story
-title: Light and Death on the Indian Battle Station
-author: Keyan Bowes
-editor: Julia Rios
-date: 2018-10-09 01:00:01 -0500
 category: short story
+issue: 60, October 2018
+issue-cover: issue-60-cover.png
+issue-buy-link:
+title: Light and Death on the Indian Battle Station
+subtitle:
+author: keyan-bowes
+author-2:
+author-3:
+editor: julia-rios
+illustrator: saleha-chowdhury
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-10-09 01:00:01 -0500
 permalink: light-and-death-on-the-indian-battle-station
-published: true
+audiourl:
 teaser: "Mom’s turquoise-blue saree morphed into her silver Battle Station uniform. … She’d be needed in the Situation Room with all the other Telepaths."
-author-img: keyan-bowes.jpg
-author-bio: |
-  Keyan Bowes is a peripatetic writer of science fiction and fantasy based in San Francisco. She's lived in nine cities in seven countries, and visited many more (and still hopes to add even more to the list). These places sometimes form the settings for her stories. Her work can be found online in various webzines (including a Polish one), a podcast, and an award-winning short film; and on paper in a dozen print anthologies. She’s a graduate of the 2007 Clarion Workshop for science fiction and fantasy writers. Keyan’s website is at [www.keyanbowes.org](http://www.keyanbowes.org).
 art: light-and-death-on-the-indian-battle-station.png
-caption: "A girl lays on a gourney, unconscious. Over her, her mother is in grief, and above them both, an Indian god has come to claim her. Her sister rushes to save her from death."
-artist: Saleha Chowdhury
-artist-img: saleha-chowdhury.jpg
-artist-bio: |
-  Saleha Chowdhury is a digital illustrator based in New York who enjoys drawing colorful and strange worlds. Her art is inspired by astronomy, science fiction and fantasy. She enjoys feeding birds and bird watching in her spare time.
-proofread: true
+artcaption: "A girl lays on a gourney, unconscious. Over her, her mother is in grief, and above them both, an Indian god has come to claim her. Her sister rushes to save her from death."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Diwali, the Festival of Lights is a magical time of the year, even on the Indian Battle Station. A hundred tiny oil-lamps decorated our apartment, glimmering along window ledges, glowing at the corners of the rangoli floor pattern, shining in the little niche with the image of Lakshmi, goddess of prosperity.

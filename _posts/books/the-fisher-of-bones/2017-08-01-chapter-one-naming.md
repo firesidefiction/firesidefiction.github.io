@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Naming"
 author: Sarah Gailey
 date:   2017-08-02 01:01:00 -0500

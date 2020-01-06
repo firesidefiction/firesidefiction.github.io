@@ -1,16 +1,38 @@
 ---
-layout: story-serial
-title:  "She Wolf and Cub: Coda"
-author: Lilith Saintcrow
-date:   2015-09-06 12:02:00 -0500
+layout: story
 category: serial
+issue: 27, September 2015
+issue-cover: issue-27-cover.png
+issue-buy-link:
+title: "She Wolf and Cub: Coda"
+subtitle:
+author: lilith-saintcrow
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-09-06 12:02:00 -0500
+permalink: /issue27/chapter/she-wolf-and-cub-chapter-thirteen/
+audiourl:
+teaser: "They came from below."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
 serial-name: She Wolf and Cub
 serial-url: /book/she-wolf-and-cub
 part: 13
 previous-url: /issue27/chapter/she-wolf-and-cub-chapter-twelve/
 next-url: /book/she-wolf-and-cub
-permalink: /issue27/chapter/she-wolf-and-cub-chapter-thirteen/
-teaser: "They came from below."
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -82,7 +104,3 @@ _Two hours after that, one of the scattered, headless bodies twitched once. Twic
 _The Vines sighed. Aftershocks rippled through its roots. The sun rose higher._
 
 _And the headless body twitched again…_
-
-#### About the Author
-
-Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together. You can find her at [lilithsaintcrow.com/](http://www.lilithsaintcrow.com/), on Twitter at [@lilithsaintcrow](https://twitter.com/lilithsaintcrow) and on [Facebook](https://www.facebook.com/pages/Lilith-Saintcrow/172118402032).

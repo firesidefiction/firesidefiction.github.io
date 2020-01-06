@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "The Kingfisher Manifesto"
-author: Sarah Goslee
-date:   2016-03-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 31, March 2016
+issue-cover: issue-31-cover.png
+issue-buy-link:
+title: The Kingfisher Manifesto
+subtitle:
+author: sarah-goslee
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-03-02 12:01:00 -0500
 permalink: /issue31/chapter/the-kingfisher-manifesto/
+audiourl:
 teaser: "White wings flashing in the gloom. Kingfisher."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -46,7 +73,3 @@ Sandbar. Snags. Trout in the crystal water. Even my guide vanished. Silence, sti
 This is where I should deny any anticipation, where I ought to assure you that I never had even a flicker of doubt about what I'd see, where I paper over a kingfisher-sized lump while you and I speak knowingly to each other about the difference between reality and fantasy.
 
 But no. This is where I scrawl "Follow the kingfisher!" across the wallpaper in silver spraypaint. This is where I point my kayak upstream.
-
-#### About the Author
-
-Sarah Goslee is a cyborg, a mad scientist, and a string enthusiast. She writes about all of those things, often in less than 140 characters as [@phiala](https:/twitter.com/phiala), and in rather more than 140 at [sarahgoslee.com](http://www.sarahgoslee.com). She spends a lot of time kayaking in central Pennsylvania, and this story is entirely true.

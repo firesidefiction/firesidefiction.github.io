@@ -1,12 +1,39 @@
 ---
 layout: story
-title:  The Forever Girl
-author: R.L. Thull
-date:   2016-05-05 12:01:00 -0500
 category: short story
+issue: 33, May 2016
+issue-cover: issue-33-cover.png
+issue-buy-link:
+title: The Forever Girl
+subtitle:
+author: r-l-thull
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-05-05 12:01:00 -0500
 permalink: /issue33/chapter/the-forever-girl/
+audiourl:
 teaser: "The girl shifted limply and moaned. Two sleepy words came out. “OK, promise.”
 That was when the trouble had started."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -123,6 +150,3 @@ It was easier the next time, and the next time. More weekends without Lily in a 
 Val took her daughter’s hand. “Promise you’ll grow up,” she said.
 
 Lily smiled sweetly. Two words came out. “OK, promise.”
-
-#### About the Author
-R. L. Thull is a graphic designer with a small robot collection. Her fiction has received an honorable mention in the L. Ron Hubbard Writers of the Future contest. She resides in Minneapolis, Minnesota with her husband and two misbehaving cats.

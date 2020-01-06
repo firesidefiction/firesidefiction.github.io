@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "The Filigreed Cage"
-author: Krystal Claxton
-date:   2013-08-04 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 4, August 2013
+issue-cover: issue-4-cover.png
+issue-buy-link:
+title: The Filigreed Cage
+subtitle:
+author: crystal-klaxton
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-08-04 12:01:00 -0500
 permalink: /issue4/chapter/the-filigreed-cage/
+audiourl:
 teaser: "For seven years they'd shared the room in her mother's house, and in all those years he'd been a perfect Husband."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -72,7 +99,3 @@ He stroked her cheek with his thumb, a sad smile playing across his features. "I
 Her vision blurred as she nodded, pressing her lips into a tight line. He kissed her forehead.
 
 When she was ready, they approached the Overseer's structure. A disembodied voice announced: "Congratulations. Self-determination is the first requirement for sapience. Would you like to proceed to the second test?"
-
-#### About the Author
-
-Krystal Claxton writes speculative fiction in the sliver of time between raising a three-year-old with her wonderful husband and being a full-time computer technician. She enjoys attending Dragon*Con in costume, science magazines, and feverishly researching whichever random topic has just piqued her interest. Keep up with her at [krystalclaxton.wordpress.com](http://krystalclaxton.wordpress.com) or @krystalclaxton on Twitter.

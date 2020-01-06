@@ -1,17 +1,41 @@
 ---
 layout: story
-title: Choose Wisely
-author: Fran Wilde
-editor: Julia Rios
-date: 2018-12-18 01:00:01 -0500
 category: short story
+issue: 62, December 2018
+issue-cover: issue-62-cover.png
+issue-buy-link:
+title: Choose Wisely
+subtitle:
+author: fran-wilde
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-12-18 01:00:01 -0500
 permalink: choose-wisely
-published: true
+audiourl:
 teaser: "The child is already at school, and didn’t forget her wand this time, so this is the perfect moment for dealing with the paperwork that sometimes comes with your latest medical adventure…"
-author-img: fran-wilde.jpg
-author-bio: |
-  Fran Wilde’s novels and short stories have been nominated for three Nebula Awards and two Hugos, and include her Andre Norton- and Compton-Crook-winning debut novel, _Updraft_ (Tor, 2015), its sequels, _Cloudbound_ (2016) and _Horizon_ (2017), and the novelette “The Jewel and Her Lapidary” (Tor.com Publishing, 2016). Her short stories appear in _Asimov's Science Fiction_, _Tor.com_, _Beneath Ceaseless Skies_, _Shimmer Magazine_, _Nature Futures_, and the 2017 _Year’s Best Dark Fantasy and Horror_. She writes for publications including _The Washington Post_, _Tor.com_, _Clarkesworld Magazine_, _iO9.com_, and _GeekMom.com_. You can find her on Twitter, Facebook, and at [franwilde.net](http://www.franwilde.net).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 You sip your coffee down to the dregs, then cast the spell for another, noting you have some time before work this morning. No doctors’ waiting rooms today. No prescription pickups. And the child is already at school, and didn’t forget her wand this time, so this is the perfect moment for dealing with the paperwork that sometimes comes with your latest medical adventure — let’s just call that one "No, it wasn’t anxiety after all."

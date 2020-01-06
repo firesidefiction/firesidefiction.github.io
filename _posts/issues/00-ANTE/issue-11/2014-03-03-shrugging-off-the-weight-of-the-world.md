@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Shrugging Off the Weight of the World"
-author: Dantzel Cherry
-date:   2014-03-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 11, March 2014
+issue-cover: issue-11-cover.png
+issue-buy-link:
+title: Shrugging Off the Weight of the World
+subtitle:
+author: dantzel-cherry
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: 
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-03-03 12:01:00 -0500
 permalink: /issue11/chapter/shrugging-off-the-weight-of-the-world/
+audiourl:
 teaser: "With each passing minute the sky dug a little harder onto Atlas's shoulders."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -76,7 +103,3 @@ Epimetheus nodded.
 She caressed his cheek. "In another thousand years."
 
 Then she too was gone, and Atlas was alone with the celestial sphere, the cold stone under his feet, and the brisk, whispering wind helping him count down the 999 years, 364 days until he was free from his burden once more.
-
-#### About the Author
-
-Dantzel Cherry is a dance/yoga/Pilates teacher, a writer, a wife, and a mom. Sometimes she remembers to make food for herself, and when she does it's pretty delicious. Her work has also appeared in Penumbra and Metro Fiction. Dantzel lives with her husband, daughter, and two cats in Texas. You can read more about her at [dantzelcherry.com](http://www.dantzelcherry.com) or follow her on Twitter [@dantzelcherry](http://www.twitter.com/dantzelcherry).

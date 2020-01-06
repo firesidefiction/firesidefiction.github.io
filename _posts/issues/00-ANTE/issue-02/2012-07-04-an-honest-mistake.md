@@ -1,13 +1,41 @@
 ---
 layout: story
-title:  An Honest Mistake
-author: Written by Brian White; art by Steve Walker; letters by Frank Cvetkovic
-date:   2012-07-04 12:01:00 -0500
 category: comic
+issue: 2, Summer 2012
+issue-cover: issue-2-cover.png
+issue-buy-link:
+title: An Honest Mistake
+subtitle:
+author: brian-j-white
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: steve-walker
+copyeditor:
+selector:
+translator:
+narrator:
+letterer: frank-cvetkovic
+date: 2012-07-04 12:01:00 -0500
 permalink: /issue2/chapter/an-honest-mistake/
-teaser: ""
+audiourl:
+teaser:
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
+
 ![an-honest-mistake-001](/illustration/an-honest-mistake-001.jpg)
 ![an-honest-mistake-002](/illustration/an-honest-mistake-002.jpg)
 ![an-honest-mistake-003](/illustration/an-honest-mistake-003.jpg)

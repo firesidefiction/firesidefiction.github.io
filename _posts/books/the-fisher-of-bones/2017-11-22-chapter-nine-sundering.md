@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Sundering"
 author: Sarah Gailey
 date:   2017-11-22 01:01:00 -0500

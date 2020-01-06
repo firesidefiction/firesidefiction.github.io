@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Rocket Ship Nirvana"
-author: Jason Ridler
-date:   2014-04-04 12:01:00 -0500
 category: short story
+issue: 12, April 2014
+issue-cover: issue-12-cover.png
+issue-buy-link:
+title: Rocket Ship Nirvana
+subtitle:
+author: jason-ridler
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2014-04-04 12:01:00 -0500
 permalink: /issue12/chapter/30/
+audiourl:
 teaser: "Distorted guitars and a hissing snare drum snap invaded her brain through her earphones as Dad pulled into the driveway with a bump over the uneven road."
-published: true
 art: rocket-ship-nirvana.jpg
-caption: Illustration for Rocket Ship Nirvana
-artist: Galen Dara
+artcaption: Illustration for Rocket Ship Nirvana
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 A few stray fireworks died dull against daylight and Peggy yawned. Distorted guitars and a hissing snare drum snap invaded her brain through her earphones as Dad pulled into the driveway with a bump over the uneven road. The trunk was filled with enough cola to drown God. Peggy thumbed through the ratty issue of _Spin_ that was like a holy object now. Screaming the lyrics that made her heart ache, Kurt Cobain sang into her, making her briefly forget that he was dead, head blown off by his own hands, leaving them all numb like ghosts still walking the world. She rolled up the mag and shoved it under her arm.
@@ -277,7 +301,3 @@ Lightning crackled before the thunder. A blister of white that stank like burnin
 Then BANG!
 
 Not a thousand little shots, like she expected, not a million cherry bombs dying at the same time, but a jerry-rigged powderkeg that blasted like galactic buckshot into the sky with a crackling thunder. She watched it burn a trail into the sky, like a shooting star running away from home in the wrong direction. In the wake of the boom, she found herself in her mother's arms. Dad raised his arms in victory as Mom gripped her tight while Kurt's voice died at the end of the tape like an epiphany. She pressed stop and heard her mother's voice. Strong, soothing, and live.
-
-#### About the Author
-
-Jason S. Ridler is writer and historian. He is the author of BLOOD AND SAWDUST, the Spar Battersea thrillers (DEATH MATCH, CON JOB and DICE ROLL), the short story collection KNOCKOUTS, and has published over fifty stories in such magazines and anthologies as Beneath Ceaseless Skies, Brain Harvest, Not One of Us, Chilling Tales, Tesseracts Thirteen, and more. His popular non-fiction has appeared in Clarkesworld, Dark Scribe, and the Internet Review of Science Fiction. A former punk rock musician and cemetery groundskeeper, Mr. Ridler holds a Ph.D. in War Studies from the Royal Military College of Canada.

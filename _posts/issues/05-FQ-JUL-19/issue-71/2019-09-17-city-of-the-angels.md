@@ -1,24 +1,41 @@
 ---
 layout: story
-title: City of the Angels
-author: Libia Brenda
-editor: Julia Rios
-date: 2019-09-17 01:00:01 -0500
 category: translated short story
+issue: 71, September 2019
+issue-cover: issue-71-cover.png
+issue-buy-link:
+title: City of the Angels
+subtitle:
+author: libia-brenda
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-09-17 01:00:01 -0500
 permalink: city-of-the-angels
-translated: yes
-translator: Julia Rios
-language: english
-spanish-url: puebla-de-los-angeles
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-17-City_of_the_Angels.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "If the conquistadors are going to build this city, does that mean that now the angels will work with the Spanish clergy and be their allies?"
-author-img: libia-brenda.jpg
-author-bio: |
-  **Libia Brenda** (Puebla, 1974) is an editor and writer. She has spent the last twenty years making books (the majority of her work is on independent small publications), and writes science fiction and fantasy short stories. She is the co-founder of the Cúmulo de Tesla collective (@Cumulodetesla on Twitter), a multidisciplinary working group that promotes the dialogue between the arts and sciences, with a special focus on science fiction. She has published stories, reviews, and essays in online and printed magazines, as well as various anthologies. Her work has been translated from Spanish to English and Italian. In 2018 she was part of The Mexicanx Initiative, an endeavour led by John Picacio. She is a Hugo Award nominee in the Related Work category (2019), for the anthology _A Larger Reality/Una realidad más amplia_, attached to www.mexicanxinitiative.com
-proofread: true
+art:
+artcaption:
+translated: yes
+language: english
+spanish-language:
+spanish-date:
+english-url:
+spanish-url: puebla-de-los-angeles
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 _1531 AD_

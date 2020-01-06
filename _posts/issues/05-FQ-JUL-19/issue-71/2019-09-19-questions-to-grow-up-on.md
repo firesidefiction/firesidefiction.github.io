@@ -1,21 +1,41 @@
 ---
 layout: poem
-title: Questions to Grow Up On
-author: Ashley Deng
-editor: Julia Rios
-translator: Julia Rios
-date: 2019-09-19 01:00:01 -0500
 category: poem
+issue: 71, September 2019
+issue-cover: issue-71-cover.png
+issue-buy-link:
+title: Questions to Grow Up On
+subtitle:
+author: ashley-deng
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-09-19 01:00:01 -0500
 permalink: questions-to-grow-up-on
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-19-Questions_to_Grow_Up_On.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "you call yourself caribbean?  your skin’s too light, your name too asian  you did not know the island life"
-author-img: ashley-deng.jpg
-author-bio: |
-  **Ashley Deng** is a Canadian-born Chinese-Jamaican writer with a love of fantasy and all things Gothic. Currently working through a degree in biochemistry, she spends her spare time overthinking genre fiction and writing.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 <div class="questions">
 

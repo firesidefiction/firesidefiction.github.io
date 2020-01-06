@@ -1,21 +1,39 @@
 ---
 layout: story
-title: Personal Rakshasi
-author: Suzan Palumbo
-editor: Julia Rios
-date: 2019-11-05 01:00:01 -0500
 category: short story
+issue: 73, November 2019
+issue-cover: issue-73-cover.png
+issue-buy-link:
+title: Personal Rakshasi
+subtitle:
+author: suzan-palumbo
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-11-05 01:00:01 -0500
 permalink: personal-rakshasi
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-05-Personal_Rakshasi.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "She tries to push the words from her head but they stain her dreams - their bitterness coating her tongue when she wakes."
-author-img: suzan-palumbo.jpg
-author-bio: |
-  Suzan Palumbo lives in Canada. Originally from Trinidad and Tobago, she is an ESL teacher and a New Wave enthusiast. Her stories are often inspired by clashes of culture and the gap between expectations and reality. Her work has been published by _PodCastle_, _Diabolical Plots_, and _Anathema: Spec from the Margins_.
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 Priya’s drawing lotuses with chalk on the driveway, unhappy with each blossom’s symmetry, when a shadow lurches across her designs. She digs her nails into her palms, fists set to clobber her older brother, Videsh, who’s probably come to drag his heels across her picture again.

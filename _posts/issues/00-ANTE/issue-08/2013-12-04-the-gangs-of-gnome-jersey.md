@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "The Gangs of Gnome Jersey"
-author: A. E. Decker
-date:   2013-12-04 12:01:00 -0500
 category: short story
+issue: 8, December 2013
+issue-cover: issue-8-cover.png
+issue-buy-link:
+title: The Gangs of Gnome Jersey
+subtitle:
+author: a-e-decker
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-12-04 12:01:00 -0500
 permalink: issue8/chapter/the-gangs-of-gnome-jersey/
+audiourl:
 teaser: "Some of life's moments should come attached to a warning label."
-published: true
 art: the-gangs-of-gnome-jersey.jpg
-caption: Illustration for The Gangs of Gnome Jersey
-artist: Galen Dara
+artcaption: Illustration for The Gangs of Gnome Jersey
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Some of life's moments should come attached to a warning label. Mine — well, one of mine — began when a flash of red under my rhododendron caught my eye.  
@@ -290,7 +314,3 @@ Finding what I wanted online took some time. I didn't get to bed until 4 a.m. Bu
 He was dubious at first, but I could see his mind changing when I set down a mirror. Just to cinch the deal, I invited the whole gnome troop in to watch _The Untouchables_ and _Public Enemies_ that evening. After that, they were practically clamoring for their pinstriped pants and sleek white ties. A few even asked for violin cases and tommy guns — toy ones, of course — and I was happy to oblige. The next day dawned on a gang of tiny, bearded John Dillingers striking cool poses about my yard.
 
 They still put on their traditional garb to work in the garden, but since that always takes place at night, I don't complain. My garden's never looked better. People still stop to gawk at my lawn, but at least now there's a trace of admiration to their gaping. Hey, if I gotta be the guy with the gnomes, at least they're the coolest gnomes around.
-
-#### About the Author
-
-A. E. Decker, a former ESL tutor and tai chi instructor, lives in Pennsylvania. Her young adult novel, The Falling of the Moon, is published by [World Weaver Press](http://www.worldweaverpress.com/store/p78/The_Falling_of_the_Moon.html). A graduate of the Odyssey Writers' Workshop, she is the author of numerous short stories and a five-year member of the Bethlehem Writers Group. Like all writers, she is owned by three cats. Come visit her site, [Words Meet World](http://www.wordsmeetworld.com/), for free stories and fur Daleks.

@@ -1,28 +1,41 @@
 ---
 layout: story
-title: Lord Serpent
-author: Mary Soon Lee
-editor: Julia Rios
-date: 2019-01-22 01:00:01 -0500
 category: short story
+issue: 63, January 2019
+issue-cover: issue-63-cover.png
+issue-buy-link:
+title: Lord Serpent
+subtitle:
+author: mary-soon-lee
+author-2:
+author-3:
+editor: julia-rios
+illustrator: galen-dara
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-01-22 01:00:01 -0500
 permalink: lord-serpent
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-005-lord-serpent-by-mary-soon-lee_-_1719_3.42_PM.mp3
-narrator: C.S.E. Cooney
-published: true
 teaser: "The fourth demon took the form of a giant serpent, two hundred feet long and as wide in girth as a wagon."
-author-img: mary-soon-lee.jpg
-author-bio: |
-  **Mary Soon Lee** was born and raised in London, but has lived in Pittsburgh for over twenty years. She writes both fiction and poetry, and has won the Rhysling Award and the Elgin Award. Her credits include _Analog_, _Daily Science Fiction_, _The Magazine of Fantasy & Science Fiction_, _Lightspeed Magazine_, and 119 haiku in _Science_. She has an antiquated website at [http://www.marysoonlee.com](http://www.marysoonlee.com).
 art: lord-serpent.jpg
-caption: "An Asian serpent surrounds a Chinese fortress. An old woman looks on."
-artist: Galen Dara
-artist-img: galen-dara.jpg
-artist-bio: |
-  **Galen Dara** broke into the industry with an early Hugo Award win for Best Fan Artist in 2013, followed by a nomination in 2014 for Best Professional Artist, a category very few women had ever been nominated for. She quickly followed up with more nominations for the Hugo and Chesley Awards, and won the World Fantasy Award in 2016.
-  Dara has illustrated covers for numerous anthologies, magazines, and novels, as well as games and comics. Working primarily in digital mediums with a raw, impressionistic bent, Dara’s art balances whimsey and horror, using bright strikes of color to highlight her dark, dreamy compositions. She finds her inspiration in “monsters, mystics, and dead things”, elements that are often found or referenced in her paintings.
-  Dara attended the Illustrator’s Master Class in 2012 and 2014, and is a frequent participant in the Spectrum Art Show. Widely regarded as one of the best up and coming artists in the field, Dara currently works with a number of regular publications, including _Fireside Magazine_, _Lightspeed_,  _Uncanny Magazine_, _Subterranean Press_, and many more.
-  Her portfolio, prints, and more information can be found at http://www.galendara.com
-proofread: true
+artcaption: "An Asian serpent surrounds a Chinese fortress. An old woman looks on."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 In the year of the snake, at the start of the reign of Emperor Liu, may his memory shine imperishable, four demons beset the Middle Kingdom. The greatest and most terrible of these demons was vanquished by Emperor Liu himself, the second demon was drowned in oil by the Chancellor, and the Grand Commandant slew the third demon after battling with it for eight days and eight nights.

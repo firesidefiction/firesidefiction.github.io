@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Fairy Tales are for White People"
-author: Melissa Yuan-Innes
-date:   2016-02-04 12:01:00 -0500
 category: short story
+issue: 30, February 2016
+issue-cover: issue-30-cover.png
+issue-buy-link:
+title: Fairy Tales are for White People
+subtitle:
+author: melissa-yuan-innes
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-02-04 12:01:00 -0500
 permalink: /issue30/chapter/fairy-tales-are-for-white-people/
+audiourl:
 teaser: "Climbing up the basement stairs with a duck carcass, holding the slippery neck far enough away from his body so that his knees didn't clank into the dangling legs, Trenton Lo caught his first glimpse of the fairy godfather."
-published: true
 art: fairy-tales-are-for-white-people.jpg
-caption: Illustration for Fairy Tales are for White People
-artist: Galen Dara
+artcaption: Illustration for Fairy Tales are for White People
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Climbing up the basement stairs with a duck carcass, holding the slippery neck far enough away from his body so that his knees didn't clank into the dangling legs, Trenton Lo caught his first glimpse of the fairy godfather.
@@ -269,7 +293,3 @@ In the meantime, Trenton heard his mother's voice, lighter than he could ever re
 Behind her, he could hear Baba sweeping salt off the floor and Mui Mui sucking her thumb.
 
 The door's bells rang again. A customer wanted quality meat from their family.
-
-#### About the Author
-
-Melissa Yuan-Innes wrote this story in honour of Jacques Wong of Ho Ho BBQ and other under-recognized ethnic chefs. Melissa writes fantasy to escape from her job as an emergency doctor. Her publications include Writers of the Future, Nature, Tesseracts16, and the Aurora-winning anthology The Dragon and the Stars. Since no one can pronounce her name, she also writes medical thrillers under the pseudonym Melissa Yi. In her spare time, Melissa chases after two small children and one large Rottweiler. Find her online at [melissayuaninnes.com](http://www.melissayuaninnes.com) on Twitter [@dr_sassy](https://twitter.com/dr_sassy).

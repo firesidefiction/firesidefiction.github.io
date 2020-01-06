@@ -1,21 +1,41 @@
 ---
 layout: story
-title: You Are Bleeding
-author: Alexandra Seidel
-editor: Julia Rios
-date: 2019-04-30 01:00:01 -0500
 category: short story
+issue: 66, April 2019
+issue-cover: issue-66-cover.png
+issue-buy-link:
+title: You Are Bleeding
+subtitle:
+author: alexandra-seidel
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-04-30 01:00:01 -0500
 permalink: you-are-bleeding
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-04-30-you-are-bleeding.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "You must carry a handkerchief always in case you have to cover shame and tears and other imperfections, in case you are bleeding."
-author-img: alexandra-seidel.jpg
-author-bio: |
-  **Alexandra Seidel** writes poems and stories about things that are ... real. Kinda. Her work can be found at places like _Lackington's_, _Strange Horizons_, _Mythic Delirium_, and others. If you are so inclined you can follow Alexa on Twitter ([@Alexa_Seidel](https://www.twitter.com/Alexa_Seidel)) or read her blog:
-  [http://tigerinthematchstickbox.blogspot.com/](http://tigerinthematchstickbox.blogspot.com/)
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story depicts violence against women and patriarchal violence.
+generalnote:
+published: true
 ---
 
 The girl, pigtail-aged, tells everyone: "I want to be an astronaut."

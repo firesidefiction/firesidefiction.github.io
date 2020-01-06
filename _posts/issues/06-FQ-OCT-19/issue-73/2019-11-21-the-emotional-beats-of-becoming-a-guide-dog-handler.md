@@ -1,20 +1,39 @@
 ---
 layout: post
-title: The Emotional Beats of Becoming a Guide Dog Handler
-author: Elsa Sjunneson
-editor: Julia Rios
-date: 2019-11-21 01:00:01 -0500
 category: essay
+issue: 73, November 2019
+issue-cover: issue-73-cover.png
+issue-buy-link:
+title: The Emotional Beats of Becoming a Guide Dog Handler
+subtitle:
+author: elsa-sjunneson
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-11-21 01:00:01 -0500
 permalink: the-emotional-beats-of-becoming-a-guide-dog-handler
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-11-21-The_Emotional_Beats_of_Becoming_a_Guide_Dog_Handler.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "I can barely breathe through the fear that this won’t work. What if I can’t get him to focus consistently?"
-author-img: elsa-sjunneson-henry.jpg
-author-bio: |
-  Elsa Sjunneson is a deafblind Hugo Award-winning speculative fiction writer and editor with words featured at _Tor.com_, _Uncanny Magazine_, _CNN Opinion_, _The Boston Globe_, and elsewhere. She writes from a dragon lair in New Jersey, with a guide dog nestled at her feet.
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 On February 22nd, I made the decision to drop everything in my life and make the biggest change I’d made since getting married.
 

@@ -1,13 +1,41 @@
 ---
 layout: story
-title:  Snow Ninjas of the Hymalayas
-author: Written by Adam P. Knave and D.J. Kirkbride; art by Michael Lee Harris; letters by Frank Cvetkovic
-date:   2012-03-06 12:01:00 -0500
 category: comic
+issue: 1, Spring 2012
+issue-cover: issue-1-cover.png
+issue-buy-link:
+title: Snow Ninjas of the Hymalayas
+subtitle:
+author: adam-p-knave
+author-2: d-j-kirkbride
+author-3:
+editor: brian-j-white
+illustrator: michael-lee-harris
+copyeditor:
+selector:
+translator:
+narrator:
+letterer: frank-cvetkovic
+date: 2012-03-06 12:01:00 -0500
 permalink: /issue1/chapter/snow-ninjas-of-the-hymalayas/
-teaser: ""
+audiourl:
+teaser:
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
+
 ![image-title-here](/illustration/snow-ninjas-page-001.jpg)
 ![image-title-here](/illustration/snow-ninjas-page-002.jpg)
 ![image-title-here](/illustration/snow-ninjas-page-003.jpg)

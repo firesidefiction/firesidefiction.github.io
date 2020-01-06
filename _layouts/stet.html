@@ -38,9 +38,7 @@ layout: default
       <div class="prime-text">
         <header class="story-header">
           <h1 itemprop="name headline"><a href="#one">{{ page.title | escape }}</a></h1>
-          {% if page.author %}<h2 class="byline">by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h2>{% endif %}
-          <p>{% if page.selected %}Selected by {{ page.selected }}; {% endif %}Edited by {% if page.editor %}{{ page.editor }}{% else %}Brian J. White</p>{% endif %}
-          <p>{{ page.date | date: "%B %Y" }}{% if page.artist %} | Illustration by {{ page.artist }}</p>{% endif %}
+          {% include credit-block.html %}
         </header>
 
       {% if page.contentnote %}

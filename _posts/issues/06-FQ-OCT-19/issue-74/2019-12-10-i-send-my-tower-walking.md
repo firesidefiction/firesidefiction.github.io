@@ -1,20 +1,39 @@
 ---
 layout: story
-title: I Send My Tower Walking
-author: Amanda Helms
-editor: Julia Rios
-date: 2019-12-10 01:00:01 -0500
 category: short story
+issue: 74, December 2019
+issue-cover: issue-74-cover.png
+issue-buy-link:
+title: I Send My Tower Walking
+subtitle:
+author: amanda-helms
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-12-10 01:00:01 -0500
 permalink: i-send-my-tower-walking
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-12-10-I_Send_My_Tower_Walking.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "... my tower groans at this, and I weep, for it hurts it so to do this, but it loves me enough to do whatever I ask ..."
-author-img: amanda-helms.jpg
-author-bio: |
-  Amanda Helms is a science fiction and fantasy writer whose fiction has appeared in or is forthcoming from _The Cackle of Cthulhu_ (Baen, 2018), _Daily Science Fiction_, _Future Science Fiction Digest_, and elsewhere. Amanda blogs infrequently at [amandahelms.com](http://www.amandahelms.com) and tweets with a smidgen more frequency as [@amandaghelms](https://www.twitter.com/amandaghelms). She and her husband live in Colorado with their increasingly lazy Boxer mix.  
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 In the cool of night, as the owls hoot and moonlight streams through my window, I whisper the spell to twine my hair into my tower. Tendrils of black flecked with gold worm their way into the mortar, seeking the smallest crevices in my tower's stones and binding us together.

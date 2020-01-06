@@ -1,19 +1,41 @@
 ---
 layout: story
-title: Symphony for the Space Between the Stars
-author: Jenn Reese
-editor: Julia Rios
-date: 2019-02-05 01:00:01 -0500
 category: short story
+issue: 64, February 2019
+issue-cover: issue-64-cover.png
+issue-buy-link:
+title: Symphony for the Space Between the Stars
+subtitle:
+author: jenn-reese
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-02-05 01:00:01 -0500
 permalink: symphony-for-the-space-between-the-stars
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-008-symphony-for-the-space-between-the-stars-by-jenn-reese_-_1719_3.34_PM.mp3
-narrator: C.S.E. Cooney
-published: true
 teaser: "Her systems will cease to function long before she arrives at her destination. But her protocol is clear. She will follow the last path set by her captain."
-author-img: jenn-reese.jpg
-author-bio: |
-  **Jenn Reese** writes speculative fiction for readers of all ages. _Above World_, a Norton Award finalist, is the first book in her trilogy about bioengineered mermaids in an post-collapse future, from Candlewick Press. Her short fiction has appeared in China’s _Science Fiction World_, _The Magazine of Fantasy & Science Fiction_, and the World Fantasy Award-winning anthology _Paper Cities_, among others. She lives in Portland where she works as a freelance graphic designer, plays too many video games, and revels in the rain.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 At 0600 hours, _Aurora_ brews coffee, intensifies the lights to 800 lumens, and heats the ship to an optimal 70.2 degrees, all according to protocol. Captain Crispin does not like classical music but _Aurora_’s protocols do not explicitly forbid her from playing it. Today she has chosen Copland’s _Appalachian Spring_, a particular favorite of Engineer Mohammad, and a piece she finds suitably invigorating for morning. As it echoes through her hull, _Aurora_ assesses the bridge, crew quarters, and recreation spaces for anomalies. She has not registered one in 73,207 days.

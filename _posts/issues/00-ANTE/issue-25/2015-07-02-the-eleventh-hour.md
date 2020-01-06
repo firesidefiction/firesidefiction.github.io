@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "The Eleventh Hour"
-author: Lauren M. Roy
-date:   2015-07-02 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 25, July 2015
+issue-cover: issue-25-cover.png
+issue-buy-link:
+title: The Eleventh Hour
+subtitle:
+author: lauren-m-roy
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-07-02 12:01:00 -0500
 permalink: /issue25/chapter/the-eleventh-hour/
+audiourl:
 teaser: "She gave me an hour to save the world."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -54,7 +81,3 @@ Instead I put it somewhere safe, tuck it away for later. I'll watch the news for
 When the time comes, I hope I'll make the right one.
 
 But I can't promise that, when disaster looms, I won't choose instead to spend that hour quietly, selfishly, unrepentantly, with you.
-
-#### About the Author
-
-Lauren M. Roy has been an independent bookseller, a publisher sales rep, and is completing her bookselling hat trick as an author. Her _Night Owls_ urban fantasy series is published by Ace Books, and her YA fantasy _The Fire Children_ is published by Solaris. Her flash fiction has appeared in Fireside Magazine and on Podcastle. Lauren lives in Southeastern Massachusetts with her husband, their cats, and the ghosts of the houseplants she forgets to water.

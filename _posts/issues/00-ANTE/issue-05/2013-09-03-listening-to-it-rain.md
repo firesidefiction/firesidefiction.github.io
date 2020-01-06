@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Listening to it Rain"
-author: Sandra M. Odell
-date:   2013-09-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 5, September 2013
+issue-cover: issue-5-cover.png
+issue-buy-link:
+title: Listening to it Rain
+subtitle:
+author:
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-09-03 12:01:00 -0500
 permalink: /issue5/chapter/listening-to-it-rain/
+audiourl:
 teaser: "Alan found me at Cook Creek, near where it fed into the summer sludge of the North Raccoon River."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 

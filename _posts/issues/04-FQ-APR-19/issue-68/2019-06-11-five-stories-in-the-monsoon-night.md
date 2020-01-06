@@ -1,26 +1,41 @@
 ---
 layout: story
-title: Five Stories in the Monsoon Night
-author: Nghi Vo
-editor: Julia Rios
-date: 2019-06-11 01:00:01 -0500
 category: short story
+issue: 68, June 2019
+issue-cover: issue-68-cover.png
+issue-buy-link:
+title: Five Stories in the Monsoon Night
+subtitle:
+author: nghi-vo
+author-2:
+author-3:
+editor: julia-rios
+illustrator: ora-xu
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-06-11 01:00:01 -0500
 permalink: five-stories-in-the-monsoon-night
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-11-five-stories-in-the-monsoon-night.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "He paused slightly when he saw the worn sword at my side, but he did not ask for it, and I would not have given it to him in any case."
-author-img: nghi-vo.jpg
-author-bio: |
-  **Nghi Vo** lives on the shores of Lake Michigan, and her fiction has appeared in _Strange Horizons_, _Uncanny Magazine_, _PodCastle_, and _Lightspeed_. Her short story "Neither Witch nor Fairy" is on the 2014 Tiptree Award Honor List. She believes in the ritual of lipstick, the power of stories, and the right to change your mind. She can be reached at bridgeofbirds@gmail.com.
 art: five-stories-in-the-monsoon-night.jpg
-caption: "Hands pull noodles. In the center, a steaming bowl. Behind that, a menacing snake."
-artist: Ora Xu
-artist-img: ora-xu.jpg
-artist-bio: |
-  **Ora Xu** (Ziqi Xu) is a California-based Chinese illustrator and painter. She uses a highly saturated palette of chromatic color in her delighted illustrations. Cute and strange at the same time, her style fits in a wide range of contexts. She got her unique style from her mixed background working in various fields. She has published two award-winning children's books and is currently working with an indie game company. She eats chocolate when her hands are free from painting.
+artcaption: "Hands pull noodles. In the center, a steaming bowl. Behind that, a menacing snake."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story depicts threats of violence to a child, and attempts to coerce a child into unwanted contact.
-proofread: true
+generalnote:
+published: true
 ---
 
 The hand-lettered sign hanging in the Crooked Dragon's front window proclaimed that it had the best wide egg noodles in the city of Tsang, which of course must be taken to mean that it had the best wide egg noodles in the world.

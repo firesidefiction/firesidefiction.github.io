@@ -1,17 +1,41 @@
 ---
 layout: story
-title:  "A Clockwork Heart"
-author: Lucas J. W. Johnson
-date:   2015-07-03 12:01:00 -0500
 category: short story
+issue: 25, July 2015
+issue-cover: issue-25-cover.png
+issue-buy-link:
+title: A Clockwork Heart
+subtitle: The Clockwork Empire
+author: lucas-j-w-johnson
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-07-03 12:01:00 -0500
 permalink: /issue25/chapter/a-clockwork-heart/
+audiourl:
 teaser: "Myss, the three-hundred-year old harpy, rarely cursed, but she did now."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote: |
+  Note to readers: This story is a follow-up to Lucas's Issue 3 story, [Remaker Remaker](/issue3/chapter/remaker-remaker/)
 published: true
 ---
-
-_Note to readers: This story is a follow-up to Lucas's Issue 3 story,_ [Remaker Remaker](/issue3/chapter/remaker-remaker/)
-
-----
 
 The steam engines hummed, the only sound on the bridge. The small control crew, bound and gagged, huddled against the walls, fear in their eyes. The small fortress-like ship, a Roman Imperial Armoured Air Frigate, flew south. It crossed the Alps far more easily than Hannibal ever could, and it carried a secret experimental weapon toward Rome. It carried destruction.
 

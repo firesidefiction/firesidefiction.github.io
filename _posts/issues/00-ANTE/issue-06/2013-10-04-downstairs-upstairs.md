@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Downstairs, Upstairs"
-author: Melissa Mead
-date:   2013-10-04 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 6, October 2013
+issue-cover: issue-6-cover.png
+issue-buy-link:
+title: Downstairs, Upstairs
+subtitle:
+author: melissa-mead
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-10-04 12:01:00 -0500
 permalink: /issue6/chapter/downstairs-upstairs/
+audiourl:
 teaser: "Working for the Almighty is no piece of cake. Even the winged guys Upstairs have it tough, working 24/7 for Eternity."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -50,7 +77,3 @@ A couple of bosses came running. One wrapped her, very gently, in something supe
 So now I'm taking classes to learn how to help guide the Flimsies out of their torments. Most of the time it's not as simple as talking to Bubbles, but the bosses tell me that if I keep at it I might get a job Upstairs someday.
 
 Course, everybody says that's a whole new kind of hard work. But nobody ever said that working for the Almighty would be easy.
-
-#### About the Author
-
-Melissa Mead lives in Upstate NY. She likes to write all kings of things, except bios. Her Web page is [here](http://carpelibris.wordpress.com/).

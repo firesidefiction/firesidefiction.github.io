@@ -1,21 +1,39 @@
 ---
 layout: story
-title: What Cannot Follow
-author: Eugenia Triantafyllou
-editor: Julia Rios
-date: 2019-10-29 01:00:01 -0500
 category: short story
+issue: 72, October 2019
+issue-cover: issue-72-cover.png
+issue-buy-link:
+title: What Cannot Follow
+subtitle:
+author: eugenia-triantafyllou
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-10-29 01:00:01 -0500
 permalink: what-cannot-follow
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-OCT-2019-10-29-What_Cannot_Follow.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "She is still waiting for the family who left her behind fifty years ago."
-author-img: eugenia-triantafyllou.jpg
-author-bio: |
-  Eugenia Triantafyllou is a Greek author and artist. She writes ghost stories. She currently lives in northern Sweden with a boy and a dog. Her short fiction has appeared in _Apex Magazine_, _Strange Horizons_, _Black Static_, and other venues. You can find her on Twitter as [@FoxesandRoses](https://www.twitter.com/FoxesandRoses) or at her website [https://eugeniatriantafyllou.wordpress.com](https://eugeniatriantafyllou.wordpress.com).  
-proofread: true
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
-
+generalnote:
+published: true
 ---
 
 There are three things one needs to know about ghosts:

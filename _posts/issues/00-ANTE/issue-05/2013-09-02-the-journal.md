@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "The Journal"
-author: Ken Liu
-date:   2013-09-02 12:01:00 -0500
 category: short story
+issue: 5, September 2013
+issue-cover: issue-5-cover.png
+issue-buy-link:
+title: The Journal
+subtitle:
+author: ken-liu
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-09-02 12:01:00 -0500
 permalink: /issue5/chapter/the-journal/
+audiourl:
 teaser: "On her twelfth wedding anniversary, as she cleaned the house, Laurie came upon a leather-bound notebook in the nightstand drawer on her husband's side of the bed."
-published: true
 art: the-journal.jpg
-caption: Illustration for The Journal
-artist: Galen Dara
+artcaption: Illustration for The Journal
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 On her twelfth wedding anniversary, as she cleaned the house, Laurie came upon a leather-bound notebook in the nightstand drawer on her husband's side of the bed.
@@ -227,7 +251,3 @@ _How do I tell her I do not like my work …_
 _Sometimes she seems so far away …_
 
 And the words grew blurry and indistinct, as she read and read, gazing into the mystery of her own heart.
-
-#### About the Author
-
-Ken Liu ([kenliu.name](http://kenliu.name/)) is an author and translator of speculative fiction, as well as a lawyer and programmer. His fiction has appeared in The Magazine of Fantasy & Science Fiction, Asimov's, Analog, Clarkesworld, Lightspeed, and Strange Horizons, among other places. He has won a Nebula, two Hugos, a World Fantasy Award, and a Science Fiction & Fantasy Translation Award, and been nominated for the Sturgeon and the Locus Awards. He lives with his family near Boston, Massachusetts.

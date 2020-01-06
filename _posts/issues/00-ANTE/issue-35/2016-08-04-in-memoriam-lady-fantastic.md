@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "In Memoriam: Lady Fantastic"
-author: Lauren M. Roy
-date:   2016-08-04 12:01:00 -0500
 category: short story
+issue: 35, August 2016
+issue-cover: issue-35-cover.png
+issue-buy-link:
+title: "In Memoriam: Lady Fantastic"
+subtitle:
+author: lauren-m-roy
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-08-04 12:01:00 -0500
 permalink: /issue35/chapter/27/
+audiourl:
 teaser: "Lady Fantastic died yesterday. She was one of the classics, one of the first to don her cape and soar over the skyline, one of that golden generation who inspired every hero who came after."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -45,7 +72,3 @@ In fifth grade, I dressed as her for Halloween. The skirt went down past my knee
  It’s sad, knowing Lady Fantastic will never again soar through the atmosphere, but when I look up at night and seek out that tiny red dot, I’ll remember all the things she did to help my daughter go even higher, even farther.
 
  Like I said, she never minded sharing the sky.
-
-#### About the Author
-
-Lauren M. Roy has been an independent bookseller, a publisher sales rep, and is completing her bookselling hat trick as an author. Her Night Owls urban fantasy series is published by Ace Books, and her YA fantasy The Fire Children is published by Solaris. Her flash fiction has appeared in Fireside Magazine and on Podcastle. Lauren lives in Southeastern Massachusetts with her husband, their cats, and the ghosts of the houseplants she forgets to water.

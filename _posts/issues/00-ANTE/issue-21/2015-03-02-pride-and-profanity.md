@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Pride and Profanity"
-author: Aidan Doyle
-date:   2015-02-02 12:01:00 -0500
-category: flash fiction
-permalink: issue21/chapter/pride-and-profanity/
+category: short story
+issue: 21, March 2015
+issue-cover: issue-21-cover.png
+issue-buy-link:
+title: Pride and Profanity
+subtitle:
+author: aidan-doyle
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-02-02 12:01:00 -0500
+permalink: /issue21/chapter/pride-and-profanity/
+audiourl:
 teaser: "Heavily armored punctuation guarded the palace gates. “Where’s your invitation?” a belligerent semicolon demanded."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -80,7 +107,3 @@ Attila the Pun rode into the ballroom with his horde of double entendres. He lau
 It took a while for the other words to adjust to their new freedom, but most of them learned to subvert their meanings. Verbs sat around doing nothing. Colorless green ideas slept furiously. Filth bathed in pristine mountain streams. Disgusting ran through meadows with the cutest puppy in the world.
 
 And I was finally welcomed into polite society. The elderly told me how nice it was to hear my name. The religious praised me in their sermons. One of the happiest days of my life was when I was guest of honor at a kindergarten graduation ceremony. The young words shouted out my name with joy, and my heart filled with pride.
-
-#### About the Author
-
-Aidan Doyle is an Australian writer and computer programmer. He has visited more than 90 countries, and his experiences include teaching English in Japan, interviewing ninjas in Bolivia, and going ten-pin bowling in North Korea. Find him online at [aidandoyle.net](http://www.aidandoyle.net) and [@aidan_doyle](https://twitter.com/@aidan_doyle).

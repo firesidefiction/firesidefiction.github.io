@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Human Resources"
-author: Erica L. Satifka
-date:   2016-01-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 29, January 2016
+issue-cover: issue-29-cover.png
+issue-buy-link:
+title: Human Resources
+subtitle:
+author: erica-l-satifka
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-01-03 12:01:00 -0500
 permalink: /issue29/chapter/human-resources/
+audiourl:
 teaser: "Even a half-brain like me can see that Celia misses the hell out of her left index finger."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -88,7 +115,3 @@ I think of the missing sliver of my brain, lodged deep within some rich academic
 "Take mine instead," I say, after figuring out which hand is my non-dominant one.
 
 I won't even miss it.
-
-#### About the Author
-
-Erica L. Satifka's fiction has appeared in Clarkesworld, Shimmer, and various other places. Her debut novel Stay Crazy will be released by Apex Publications in August 2016. She lives in Portland, Oregon, with her spouse Rob and three needy cats. Visit her online at [ericasatifka.com](http://ericasatifka.com) or on Twitter [@ericasatifka](https://twitter.com/ericasatifka).

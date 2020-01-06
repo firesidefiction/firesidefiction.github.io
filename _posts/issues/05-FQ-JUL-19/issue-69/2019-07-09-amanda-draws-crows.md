@@ -1,20 +1,41 @@
 ---
 layout: story
-title: Amanda Draws Crows
-author: José Pablo Iriarte
-editor: Julia Rios
-date: 2019-07-09 01:00:01 -0500
 category: short story
+issue: 69, July 2019
+issue-cover: issue-69-cover.png
+issue-buy-link:
+title: Amanda Draws Crows
+subtitle:
+author: jose-pablo-iriarte
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-07-09 01:00:01 -0500
 permalink: amanda-draws-crows
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-07-09-Amanda_Draws_Crows.mp3
-narrator: C. S. E. Cooney
-published: true
 teaser: "Sometimes she didn't even see what she drew. Her hands took over and drew what they wanted, and everything else faded away."
-author-img: jose-pablo-iriarte.jpg
-author-bio: |
-  José Pablo Iriarte is a Cuban-American writer, high school math teacher, and parent of two. José's fiction can be found in magazines such as _Lightspeed Magazine_, _Strange Horizons_, _Terraform_, and others — including "Cupid and Psyche at the Caffé Sol Y Mar" in _Fireside Magazine_. Learn more at [www.labyrinthrat.com](http://www.labyrinthrat.com), or look for José on twitter as [@labyrinthrat](https://www.twitter.com/labyrinthrat).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story depicts a child in danger.
+generalnote:
+published: true
 ---
 
 Amanda drew while Mommy cooked dinner. Amanda was always drawing. Ever since she could hold a crayon. Sometimes she didn't even see what she drew. Her hands took over and drew what they wanted, and everything else faded away.

@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Betty and the Squelchy Saurus"
-author: Caroline M. Yoachim
-date:   2015-10-04 12:01:00 -0500
 category: short story
+issue: 28, October 2015
+issue-cover: issue-28-cover.png
+issue-buy-link:
+title: Betty and the Squelchy Saurus
+subtitle:
+author: caroline-m-yoachim
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-10-04 12:01:00 -0500
 permalink: /issue28/chapter/betty-and-the-squelchy-saurus/
+audiourl:
 teaser: "Betty was hanging wet towels on the clothesline when a faded blue Plymouth Roadking came up the drive."
-published: true
 art: betty-and-the-squelchy-saurus.jpg
-caption: Illustration for Betty and the Squelchy Saurus
-artist: Galen Dara
+artcaption: Illustration for Betty and the Squelchy Saurus
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Betty was hanging wet towels on the clothesline when a faded blue Plymouth Roadking came up the drive. Someone had donated the car to the Six Sisters orphanage back in 1952, and Sister Mary Margaret was the only nun who knew how to drive it.
@@ -50,7 +74,7 @@ The treaty was signed by Roach and by Allison Michaels, who lived in Betty's roo
 
 Catherine nodded, and Betty sent her upstairs to the big third-floor room where all the younger girls slept.
 
-* * *
+---
 
 Squelchy Saurus lived in a closet. It was a nice closet, small and cozy, full of delicious-smelling clothes. With the door closed it was wonderfully dark, and it kept her hidden from the terrifying grownups who sometimes came to make sure the room was clean.
 
@@ -78,7 +102,7 @@ Squelchy felt sad for the poor dead monsters, but Bitey clearly didn't care.
 
 Bitey slithered up one side of Janet's bed and coiled himself around the pillow. "We no longer need to obey the rulesss. Today, we will plan our strategy. Tonight, the children are ours for the taking."
 
-* * *
+---
 
 Betty finished her chores and went back to her room to read. She was nearly done with _Animal Farm_, and she had just enough time to finish it before dinner. She reached for her book, then noticed that the room was messy — both beds were rumpled, three books had fallen off her shelf, and Janet's pink hair ribbon was on the floor. Sister Mary Joseph was strict about keeping things tidy, and the room was definitely not as Betty had left it.
 
@@ -94,7 +118,7 @@ Under her own bed there were two books. One was the copy of Lolita that her step
 
 Betty sat on her bed to think. There had been no sign of Poison Bitey-Snake under the beds, but it was daytime, so of course there wouldn't be. Still, something felt wrong, and if the monsters were up to something she'd have to find out what it was.
 
-* * *
+---
 
 Squelchy sat at the back of the meeting, her tail looped over a sack of potatoes and her head resting on a basket of onions. Her slime dripped down onto both the onions and the potatoes, making it rather likely that they would go moldy, but there were a lot of monsters at the meeting, and the pantry was crowded. Bitey, unfortunately, was sitting on the shelf above her head. She'd hoped to save that spot for Pink Fluffy Flesheater, who she used to share a closet with.
 
@@ -116,7 +140,7 @@ Squelchy went back to her closet. She had no interest in eating the children, th
 
 She decided to pretend that the old rules still applied. She hunkered down in her closet, back behind the laundry hamper where no one would see her, and curled up for a nap.
 
-* * *
+---
 
 As the oldest girl in the orphanage, Betty usually didn't pay much attention to the third-floor girls. She taught them the rules when they arrived, then left them alone. They stared at her when she sat down at their table at dinner.
 
@@ -140,7 +164,7 @@ It was a Monday, and after the children went to bed the nuns watched _I Love Luc
 
 "I'll take care of the rest," Betty said.
 
-* * *
+---
 
 Day turned into night, and Squelchy Saurus huddled in the back of her closet. She hadn't heard Betty or Janet come in and go to bed, which was odd. Odder still, there were _voices_ coming from the big common room across the hall. Children's voices.
 
@@ -172,7 +196,7 @@ She heard the children celebrating their victory. She was wondering what she sho
 
 "I'm coming in, Squelchy," Betty called, "I know you're in there."
 
-* * *
+---
 
 Betty left the other girls in charge of guarding the door and went into the bathroom to talk to Squelchy Saurus. As monsters went, she wasn't bad — slimy and oozy and unpleasant to look at, but also kind of shy. She was certainly better than Poison Bitey-Snake, who Betty was afraid of, even though she was too old to be afraid of monsters any more.
 
@@ -198,7 +222,7 @@ The monsters discussed their options.
 
 Betty smiled and returned to the Bathroom Towel Alcove.
 
-* * *
+---
 
 After an hour of negotiation, Squelchy was ready to sign. Most of the terms of the Second Treaty of the Bathroom Alcove were the same. The monsters kept their territory of under-the-beds and inside-the-closets, and would hide during the day and refrain from kidnapping and eating children so long as they stayed in bed. The children were allowed to get things from inside the closet during the day, and were not allowed to have monsters shot or otherwise killed.
 
@@ -206,7 +230,7 @@ The only thing different about the new treaty was that items under the bed would
 
 Satisfied with the terms, Squelchy picked up a crayon in her mouth and signed the bottom of the paper. Then she ate the crayon, which was crunchy and waxy and smelled a little bit like Betty.
 
-* * *
+---
 
 Betty checked the hallway clock. The treaty was signed, and daytime rules were in effect. She read the treaty to the monsters locked in the bedroom. Janet and some of the other girls went downstairs to unblock the other end of the not-so-secret passageway. When the living room was back in order, Betty told the monsters that she would open the door in thirty seconds.
 
@@ -216,7 +240,7 @@ She counted to thirty. There was rustling on the other side of the door as monst
 
 "Under the bed is my territory! Things down there are forever lossst!" he hissed, and bit her in the leg.
 
-* * *
+---
 
 Squelchy charged into the bedroom when Betty yelped, and other monsters came out from under attic beds. Crushmonster and Pink Fluffy Flesheater subdued Bitey and threw him out the window.
 
@@ -239,11 +263,3 @@ By convention, monsters and children weren't supposed to talk to each other, but
 The book hit the hamper and dropped to the closet floor. To Squelchy's surprise, it wasn't the children's book that Betty had given up; it was the other one, Lolita. Poison Bitey-Snake had spent a lot of time reading that one. He almost never deigned to read the other one, the one about the rabbit that was so well loved that he became real.
 
 Squelchy Saurus wondered if Betty would ever love her that much. It must be a wonderful thing, to be real. Could children love monsters? Squelchy suspected it was rare. But if Betty was leaving snacks for her, they were off to a good start.
-
-#### About the Author
-
-**Caroline M. Yoachim** lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in Fantasy & Science Fiction, Clarkesworld, Asimov's, and Lightspeed, among other places.  Her debut short story collection, Seven Wonders of a Once and Future World & Other Stories, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at [carolineyoachim.com][3].
-
-[1]: https://www.patreon.com/firesidefiction
-[2]: /issue28/
-[3]: http://carolineyoachim.com

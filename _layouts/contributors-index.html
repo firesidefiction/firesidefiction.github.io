@@ -1,0 +1,368 @@
+---
+layout: default
+---
+
+
+<div id="editors" class="index-group">
+  <h1>Contributors</h1>
+  <h2>Editors</h2>
+  <ul class="multicol">
+    {% assign editors = site.contributors | sort: 'last-name' %}
+    {% for contributor in editors %}
+    {% if contributor.role == "Editor" or contributor.role-2 == "Editor" or contributor.role-3 == "Editor" %}
+      <li>
+        <a href="{{ contributor.url }}">{{ contributor.credit-name }}</a><small>{{ contributor.description | markdownify }}</small>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+<div id="authors" class="index-group">
+  <h2>Authors</h2>
+  <div id="alphabet-nav" class="alphanav">
+    <ul class="toc">
+      <a href="#aut-a" class="active"><li>A</li></a>
+      <a href="#aut-b" class="active"><li>B</li></a>
+      <a href="#aut-c" class="active"><li>C</li></a>
+      <a href="#aut-d" class="active"><li>D</li></a>
+      <a href="#aut-e" class="active"><li>E</li></a>
+      <a href="#aut-f" class="active"><li>F</li></a>
+      <a href="#aut-g" class="active"><li>G</li></a>
+      <a href="#aut-h" class="active"><li>H</li></a>
+      <a href="#aut-i" class="active"><li>I</li></a>
+      <a href="#aut-j" class="active"><li>J</li></a>
+      <a href="#aut-k" class="active"><li>K</li></a>
+      <a href="#aut-l" class="active"><li>L</li></a>
+      <a href="#aut-m" class="active"><li>M</li></a>
+      <a href="#aut-n" class="active"><li>N</li></a>
+      <a href="#aut-o" class="active"><li>O</li></a>
+      <a href="#aut-p" class="active"><li>P</li></a>
+      <a href="#aut-q" class="active"><li>Q</li></a>
+      <a href="#aut-r" class="active"><li>R</li></a>
+      <a href="#aut-s" class="active"><li>S</li></a>
+      <a href="#aut-t" class="active"><li>T</li></a>
+      <a href="#aut-u" class="active"><li>U</li></a>
+      <a href="#aut-v" class="active"><li>V</li></a>
+      <a href="#aut-w" class="active"><li>W</li></a>
+      <a href="#aut-x" class="active"><li>X</li></a>
+      <a href="#aut-y" class="active"><li>Y</li></a>
+      <a href="#aut-z" class="active"><li>Z</li></a>
+    </ul>
+  </div>
+  <div id="aut-a" class="letter">a</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "a" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-b" class="letter">b</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "b" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-c" class="letter">c</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "c" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-d" class="letter">d</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "d" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-e" class="letter">e</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "e" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-f" class="letter">f</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "f" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-g" class="letter">g</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "g" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-h" class="letter">h</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "h" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-i" class="letter">i</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "i" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-j" class="letter">j</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "j" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-k" class="letter">k</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "k" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-l" class="letter">l</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "l" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-m" class="letter">m</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "m" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-n" class="letter">n</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "n" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-o" class="letter">o</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "o" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-p" class="letter">p</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "p" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-q" class="letter">q</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "q" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-r" class="letter">r</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "r" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-s" class="letter">s</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "s" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-t" class="letter">t</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "t" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-u" class="letter">u</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "u" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-v" class="letter">v</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "v" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-w" class="letter">w</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "w" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-x" class="letter">x</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "x" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-y" class="letter">y</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "y" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+  <div id="aut-z" class="letter">z</div>
+  <ul class="multicol">
+      {% assign authors = site.contributors | sort: 'last-name' %}
+      {% for contributor in authors %}
+        {% if contributor.file-as == "z" and contributor.role == "Author" or contributor.role-2 == "Author" or contributor.role-3 == "Author" %}
+          <li><p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+</div>
+
+<div id="illustrators" class="index-group">
+  <h2>Illustrators</h2>
+  <ul class="multicol">
+    {% assign illustrators = site.contributors | sort: 'last-name' %}
+    {% for contributor in illustrators %}
+    {% if contributor.role == "illustrator" %}
+      <li>
+        <p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+<div id="letterers" class="index-group">
+  <h2>Letterers</h2>
+  <ul class="multicol">
+    {% assign letterers = site.contributors | sort: 'last-name' %}
+    {% for contributor in letterers %}
+    {% if contributor.role == "letterer" %}
+      <li>
+        <p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+<div id="narrators" class="index-group">
+  <h2>Narrators</h2>
+  <ul class="multicol">
+    {% assign narrators = site.contributors | sort: 'last-name' %}
+    {% for contributor in narrators %}
+    {% if contributor.role == "Narrator" or contributor.role-2 == "Narrator" or contributor.role-3 == "Narrator" %}
+      <li>
+        <p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+<div id="translators" class="index-group">
+  <h2>Translators</h2>
+  <ul class="multicol">
+    {% assign translators = site.contributors | sort: 'last-name' %}
+    {% for contributor in translators %}
+    {% if contributor.role == "Translator" or contributor.role-2 == "Translator" or contributor.role-3 == "Translator" %}
+      <li>
+        <p><a href="{{ contributor.url }}">{{ contributor.credit-name }}</a></p>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

@@ -1,15 +1,39 @@
 ---
 layout: story
-title:  "Love Song of the Lizard Boy"
-author: Delilah S. Dawson
-date:   2013-08-04 12:01:00 -0500
 category: short story
+issue: 4, August 2013
+issue-cover: issue-4-cover.png
+issue-buy-link:
+title: Love Song of the Lizard Boy
+subtitle:
+author: delilah-s-dawson
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-08-04 12:01:00 -0500
 permalink: /issue4/chapter/love-song-of-the-lizard-boy/
+audiourl:
 teaser: "The knotted tassel and last night's full moon agreed: it was time for him to go."
-published: true
 art: love-song-of-the-lizard-boy.jpg
-caption: Illustration for Love Song of the Lizard Boy
-artist: Galen Dara
+artcaption: Illustration for Love Song of the Lizard Boy
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The knotted tassel and last night's full moon agreed: it was time for him to go. Eblick counted the shells one more time and tucked the faded tangle of leather back in the pocket of his vest, smoothing the worn pinstripes over the pale green scales of his chest.
@@ -365,7 +389,3 @@ The other freaks of the caravan went quiet as the ringmaster himself appeared.
 The tightrope walker snorted. "Need him? What for? He's not so special."
 
 "Emerlie, pet, I could find a far less annoying girl and train her up to do your job in a week. But Eblick's the only lizard boy in the entire world." The ringmaster winked as if he could see straight down into Eblick's soul and found the whole thing tremendously funny. For once, Eblick didn't tremble or look down. Instead, he showed Criminy his fangs in a lopsided smile.
-
-#### About the Author
-
-Delilah S. Dawson is a native of Roswell, Georgia and the author of the paranormal romance Blud series for Pocket, including WICKED AS THEY COME and WICKED AS SHE WANTS and two e-novellas, THE MYSTERIOUS MADAM MORPHO and THE PECULIAR PETS OF MISS PLEASANCE. Her short story THE THREE LIVES OF LYDIA will be in Gallery's Carniepunk anthology in July 2013. Her first YA, a creepy paranormal called SERVANTS OF THE STORM will be available in 2014 from Simon Pulse. RT Book Reviews has called her "a wonderfully fresh new voice!" and "on the fast track to the top of the genre!" and awarded WICKED AS SHE WANTS the May Seal of Excellence. Delilah is a member of the Romance Writers of America and the Georgia Romance Writers and is Associate Editor at www.CoolMomPicks.com and www.CoolMomTech.com. She's a geek of all trades, a synesthete, and the sort of person who saw Spawn in the theater and made other people angry by laughing. Find her online at [delilahsdawson.com](http://www.delilahsdawson.com). Bring cupcakes.

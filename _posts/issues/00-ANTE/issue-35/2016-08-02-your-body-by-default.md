@@ -1,16 +1,39 @@
 ---
 layout: story
-title: Your Body, By Default
-author: Alexis A. Hunter
-selected: Daniel José Older
-date:   2016-08-02 12:01:00 -0500
 category: short story
+issue: 35, August 2016
+issue-cover: issue-35-cover.png
+issue-buy-link:
+title: Your Body, By Default
+subtitle:
+author: alexis-a-hunter
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector: daniel-jose-older
+translator:
+narrator:
+letterer:
+date: 2016-08-02 12:01:00 -0500
 permalink: /issue35/chapter/your-body-by-default/
+audiourl:
 teaser: "The IED blew your body into pieces: bone and brain and blood, sprayed in the sand with the twisted shell of your tank"
-published: true
 art: your-body-by-default.jpg
-caption: "four panels, all mirroring a man with a square jaw, outer panels in dark blue. The center panel is in color - pinks and soft teals, with a male and female figure overlayed on one another, each figure touching their chin with their left hand."
-artist: Galen Dara
+artcaption: "four panels, all mirroring a man with a square jaw, outer panels in dark blue. The center panel is in color - pinks and soft teals, with a male and female figure overlayed on one another, each figure touching their chin with their left hand."
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 They brought you back because they want something from you. Maybe one day they will bring people back because they can or because it’s the right thing to do — but for now there’s you and there’s them and there’s the unspoken obligations that lie between you both.
@@ -275,7 +298,3 @@ You couldn’t have, you know, without Rosa.
 But what about tomorrow? And the day after? You don’t know.
 
 For now there’s only you, and them, and the half-spoken obligations that lie between you both.
-
-#### About the Author
-
-Alexis A. Hunter revels in the endless possibilities of speculative fiction.  Over fifty of her short stories have appeared in magazines such as Shimmer, Apex, Fantastic Stories of the Imagination, and more.  To learn more, visit [alexisahunter.com](http://www.alexisahunter.com).

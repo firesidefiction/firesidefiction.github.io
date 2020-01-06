@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "Fluffy Harbinger of Death"
-author: Alex Hughes
-date:   2015-06-03 12:01:00 -0500
 category: short story
+issue: 24, June 2015
+issue-cover: issue-24-cover.png
+issue-buy-link:
+title: Fluffy Harbinger of Death
+subtitle:
+author: alex-hughes
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-06-03 12:01:00 -0500
 permalink: /issue24/chapter/fluffy-harbinger-of-death/
+audiourl:
 teaser: "Myss, the three-hundred-year old harpy, rarely cursed, but she did now."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -138,7 +165,3 @@ A dawning sense of joy hit her. "I got—"
 "Yes, sir," she said, and left. Her sisters would hear it now.
 
 And maybe, just maybe, she could check in on Layla now and then to make sure she was okay.
-
-#### About the Author
-
-Alex Hughes, the author of the award-winning Mindspace Investigations series from Roc, has lived in the Atlanta area since the age of eight. Her short fiction has been published in several markets including EveryDay Fiction, Thunder on the Battlefield and White Cat Magazine. She is an avid cook and foodie, a trivia buff, and a science geek, and loves to talk about neuroscience, the Food Network, and writing craft—but not necessarily all at the same time! For all the latest news and free short stories, join [Alex's email list](http://bit.ly/AlexsList).

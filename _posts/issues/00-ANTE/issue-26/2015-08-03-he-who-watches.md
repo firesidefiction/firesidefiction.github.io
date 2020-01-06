@@ -1,11 +1,38 @@
 ---
 layout: story
-title:  "He Who Watches"
-author: Alex Shvartsman
-date:   2015-08-03 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 26, August 2015
+issue-cover: issue-26-cover.png
+issue-buy-link:
+title: He Who Watches
+subtitle:
+author: alex-shvartsman
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-08-03 12:01:00 -0500
 permalink: /issue26/chapter/he-who-watches/
+audiourl:
 teaser: "On the twentieth anniversary of the end of the world, Andrew lit a candle."
+art:
+artcaption:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -48,7 +75,3 @@ On the twentieth anniversary of the end of the world, Andrew took one last look 
 He entered the codes and the silos opened, revealing the last of the intercontinental ballistic nuclear missiles aimed at strategic points spread across the enemy's homeland. Project "Third Strike" would ensure definitive victory.
 
 He initiated the launch sequence.
-
-#### About the Author
-
-Alex Shvartsman is a writer, translator, and anthologist from Brooklyn, NY. Over 80 of his short stories have appeared in Nature, InterGalactic Medicine Show, Galaxy's Edge, Daily SF, and other venues. He's the winner of the 2014 WSFA Small Press Award for short fiction. His collection, _Explaining Cthulhu to Grandma and Other Stories_, and his steampunk humor novella _H. G. Wells, Secret Agent_ were both published in 2015. Alex edits _Unidentified Funny Objects_, the annual anthology series of humorous SF/F. He has edited several other anthologies as well. He's currently at work on his first novel which, at current pace, will be finished sometime around 2020. His website is [www.alexshvartsman.com](http://alexshvartsman.com/).

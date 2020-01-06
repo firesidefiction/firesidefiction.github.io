@@ -1,20 +1,41 @@
 ---
 layout: story
-title: Beyond Comprehension
-author: Russell Nichols
-editor: Julia Rios
-date: 2019-01-08 01:00:01 -0500
 category: short story
+issue: 63, January 2019
+issue-cover: issue-63-cover.png
+issue-buy-link:
+title: Beyond Comprehension
+subtitle:
+author: russell-nichols
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: c-s-e-cooney
+letterer:
+date: 2019-01-08 01:00:01 -0500
 permalink: beyond-comprehension
-contentnote: This story includes instances of fatphobic language, depictions of abusive family dynamics, and childhood bullying.
 audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JAN-2019-003-beyond-comprehension-by-russell-nichols_-_1719_3.45_PM.mp3
-narrator: C.S.E. Cooney
-published: true
 teaser: "He’d seen the ads: Happy kids with their headsets, uploading book after book from the VR library to their brains. Instantly. Click and done."
-author-img: russell-nichols.jpg
-author-bio: |
-  **Russell Nichols** is a speculative fiction writer and endangered journalist. Raised in Richmond, California, he sold all his stuff in 2011 and now lives out of a backpack with his wife, vagabonding around the world. Find his work in _Fiyah_, _Terraform_, _Nightmare Magazine_, _Apex Magazine_ and others. Would you like to know more? Look for him at [russellnichols.com](http://www.russellnichols.com/).
-proofread: false
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote: This story includes instances of fatphobic language, depictions of abusive family dynamics, and childhood bullying.
+generalnote:
+published: true
 ---
 
 "Can you read me a bedtime story?" says the recovering boy, his brown eyes half-closed.

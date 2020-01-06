@@ -1,17 +1,41 @@
 ---
 layout: story
-title: Tablecloth
-author: Kathryn Kania
-editor: Julia Rios
-date: 2018-12-25 01:00:01 -0500
 category: short story
+issue: 62, December 2018
+issue-cover: issue-62-cover.png
+issue-buy-link:
+title: Tablecloth
+subtitle:
+author: kathryn-kania
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-12-25 01:00:01 -0500
 permalink: tablecloth
-published: true
+audiourl:
 teaser: "She does not own a cat. She has never even seen a cat near her building. But still, there it is, curled up into an almost perfect circle of black."
-author-img: kathryn-kania.jpg
-author-bio: |
-  Kathryn Kania is a writer and librarian living in New England. When not thinking about mythological beings, storytelling, or food, Kathryn enjoys swing dancing and walking amongst trees.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 There is a cat sitting on her kitchen table when she wakes up. She does not own a cat. She has never even seen a cat near her building. But still, there it is, this cat, curled up into an almost perfect circle of black, snoring slightly. Shedding, likely. She used to love cats. Or maybe she had just loved people that loved cats. But she hasn’t been around cats in a while, ages. Hell, when had she even last seen a cat?

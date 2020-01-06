@@ -1,23 +1,41 @@
 ---
 layout: story
-title: Puebla de los ángeles
-author: Libia Brenda
-editor: Julia Rios
-date: 2019-09-17 01:00:01 -0500
 category: cuento corto
+issue: 71, September 2019
+issue-cover: issue-71-cover.png
+issue-buy-link:
+title: Puebla de los ángeles
+subtitle:
+author: libia-brenda
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor: chelle-parker
+selector:
+translator:
+narrator: pablo-defendini
+letterer:
+date: 2019-09-17 01:00:01 -0500
 permalink: puebla-de-los-angeles
+audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-17-Puebla_de_los_angeles.mp3
+teaser: "Si esa ciudad la van a construir los conquistadores, ¿quiere decir que ahora los ángeles trabajarán con el clero español y serán sus aliados?"
+art:
+artcaption:
+translated:
+language:
 spanish-language: yes
 spanish-date: Septiembre 2019
 english-url: city-of-the-angels
-audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-09-17-Puebla_de_los_angeles.mp3
-narrator: Pablo Defendini
-published: true
-teaser: "Si esa ciudad la van a construir los conquistadores, ¿quiere decir que ahora los ángeles trabajarán con el clero español y serán sus aliados?"
-author-img: libia-brenda.jpg
-author-bio: |
-  **Libia Brenda** (Puebla, 1974) estudió Lengua y Literatura Hispánicas, trabaja haciendo libros desde hace veinte años, y escribe cuentos de corte entre fantástico e de ciencia ficción. Es Cofundadora del colectivo  Cúmulo de Tesla ([@Cumulodetesla](https://www.twitter.com/Cumulodetesla)), un agrupación basada en el trabajo ultidisciplinario que fomenta el diálogo entre arte y ciencia, con un gusto especial por la ciencia ficción. Ha publicado cuentos, reseños, y ensayos en varias revistas y antologías. También tiene una identidad secreta dedicada a la gastronomía.
-proofread: true
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 _Año del Señor de 1531_

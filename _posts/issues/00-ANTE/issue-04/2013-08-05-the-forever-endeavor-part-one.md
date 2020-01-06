@@ -1,18 +1,40 @@
 ---
 layout: story
-title:  "The Forever Endeavor: Part One"
-author: Chuck Wendig
-date:   2013-08-05 12:01:00 -0500
 category: serial
+issue: 4, August 2013
+issue-cover: issue-4-cover.png
+issue-buy-link:
+title: Mistakes Were Made
+subtitle:
+author: chuck-wendig
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2013-08-05 12:01:00 -0500
 permalink: /issue4/chapter/the-forever-endeavor-part-one/
-teaser: "The knotted tassel and last night's full moon agreed: it was time for him to go."
-published: true
+audiourl:
+teaser: "It's midnight and Dale stands on the beach in bare feet, wet sand sucking at his toes."
 art: the-forever-endeavor-part-one.jpg
-caption: "Illustration for The Forever Endeavor: Part One"
-artist: Galen Dara
+artcaption: Illustration for The Forever Endeavor Part One
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name: The Forever Endeavor
+serial-url:
+part: 1
+previous-url:
+next-url: /issue5/chapter/the-forever-endeavor-part-two/
+contentnote:
+generalnote:
+published: true
 ---
-
-## 1. MISTAKES WERE MADE
 
 ### **Surf City, Long Beach Island, New Jersey: July 15th, 2011**
 
@@ -505,10 +527,3 @@ The tweaker shrieks like a widow's ghost—
 And that's when Dale knows he's dead.
 
 The gun goes off just as his thumb presses the black button.
-
-
-Jump to: [Part Two](/issue5/chapter/the-forever-endeavor-part-two/)
-
-#### About the Author
-
-Chuck Wendig is a novelist, screenwriter, and game designer. He is the author of the novels BLACKBIRDS, MOCKINGBIRD, THE BLUE BLAZES, and UNDER THE EMPYREAN SKY. He is an alumni of the Sundance Screenwriter's Lab and is the co-author of the Emmy-nominated digital narrative COLLAPSUS. He lives in Pennsyltucky with wife, son, and two dopey dogs. You can find him on Twitter @ChuckWendig and at his website, [terribleminds.com](http://terribleminds.com), where he frequently dispenses dubious and very-NSFW advice on writing, publishing, and life in general.

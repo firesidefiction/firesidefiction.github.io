@@ -1,5 +1,5 @@
 ---
-layout: story-serial
+layout: story
 title:  "Cycle"
 author: Sarah Gailey
 date:   2017-08-16 06:01:00 -0500

@@ -1,17 +1,39 @@
 ---
 layout: story
-title:  "Children of Rouwen"
-author: Andrea Phillips
-date:   2015-05-04 12:01:00 -0500
 category: short story
+issue: 23, May 2015
+issue-cover: issue-23-cover.png
+issue-buy-link:
+title: Children of Rouwen
+subtitle:
+author: andrea-phillips
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2015-05-04 12:01:00 -0500
 permalink: /issue23/chapter/children-of-rouwen/
+audiourl:
 teaser: "The new house was too small for the three of them, really. Even so, it was more than she could strictly afford."
-published: true
 art: children-of-rouwen.jpg
-caption: Illustration for Children of Rouwen
-artist: Galen Dara
-author-bio: |
-  Andrea Phillips is an award-winning transmedia writer, game designer and author. She has worked on projects such as iOS fitness games "Zombies, Run!" and "The Walk," "The Maester's Path" for HBO's "Game of Thrones," human rights game "America 2049," and the independent commercial "ARG Perplex City." Her projects have variously won the Prix Jeunesse Interactivity Prize, a Broadband Digital award, a Canadian Screen Award, a BIMA, the Origins Vanguard Innovation Award, and others. Her book "A Creator's Guide to Transmedia Storytelling" is used to teach digital storytelling at universities around the world. Her independent work includes the Kickstarted serial "The Daring Adventures of Captain Lucy Smokeheart" and "The McKinnon Account," a short story that unfolds in your email inbox. Her short fiction has been published in Escape Pod and the "Jews vs. Aliens anthology." [Andrea's website](http://www.deusexmachinatio.com/) | [Andrea on Twitter: @andrhia](https://twitter.com/andrhia)
+artcaption: Illustration for Children of Rouwen
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The new house was too small for the three of them, really. Even so, it was more than she could strictly afford.
