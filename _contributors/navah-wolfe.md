@@ -8,10 +8,10 @@ role: Editor
 role-2:
 role-3:
 title: Navah Wolfe — Work in Fireside
-description: 
-twitter-handle:
-profile-pic: navah-wolfe.jpg
-website-url:
+description: Guest Editor
+twitter-handle: navahw
+profile-pic:
+website-url: reedsy.com/navah-wolfe
 short-name: navah-wolfe
 permalink: navah-wolfe
 bio-spanish:

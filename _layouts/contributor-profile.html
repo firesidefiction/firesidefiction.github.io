@@ -39,6 +39,13 @@ layout: default
           Edited <a href="{{ post.url }}">{{ post.title }}, by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</a></li>
       {% endfor %}
 
+      {% assign filtered_editor-2_posts = site.posts | where: 'editor-2', page.short-name %}
+      
+      {% for post in filtered_editor-2_posts %}
+        <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
+          Edited <a href="{{ post.url }}">{{ post.title }}, by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</a></li>
+      {% endfor %}
+
       {% assign filtered_illustrator_posts = site.posts | where: 'illustrator', page.short-name %}
       {% for post in filtered_illustrator_posts limit: 1 %}
       <hr/>

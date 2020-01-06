@@ -5,10 +5,10 @@ first-name: Elsa
 last-name: Sjunneson
 file-as: s
 role: Author
-role-2:
+role-2: Editor
 role-3:
 title: Elsa Sjunneson — Work in Fireside
-description:
+description: Nonficiton Editor
 twitter-handle: snarkbat
 profile-pic: elsa-sjunneson.jpg
 website-url:

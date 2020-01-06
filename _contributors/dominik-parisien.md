@@ -11,7 +11,7 @@ title: Dominik Parisien — Work in Fireside
 description: Guest Editor, _Fireside Quarterly_ Winter 2020
 twitter-handle: domparisien
 profile-pic: dominik-parisien.jpg
-website-url: Dominik.com
+website-url: dominikparisien.wordpress.com
 short-name: dominik-parisien
 permalink: dominik-parisien
 ---
