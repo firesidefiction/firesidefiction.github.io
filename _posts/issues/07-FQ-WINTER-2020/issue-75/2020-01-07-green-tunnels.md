@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Alice has forgotten most of the feelings of home. She can’t remember the heat of the sun on her skin, or the sound of cicadas, or the taste of water that hasn’t been endlessly recycled. Sometimes her father tells stories, trying to help her recreate the sensations that she has lost.
 
