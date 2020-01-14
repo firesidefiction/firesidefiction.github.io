@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 The hardware specialist does not want to sell me genitals.
 
