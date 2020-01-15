@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 48, October 2017
-issue-cover: issue-48-cover.png
+issue: 47, September 2017
+issue-cover: issue-47-cover.png
 issue-buy-link:
 title:
 subtitle:
