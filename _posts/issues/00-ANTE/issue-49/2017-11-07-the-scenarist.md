@@ -1,13 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 49, November 2017
+issue-cover: issue-49-cover.png
+issue-buy-link:
 title: The Scenarist
-author: Stu West
-editor: Julia Rios
+subtitle:
+author: stu-west
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-11-07 00:00:01 -0500
-category: flash fiction
 permalink: the-scenarist
-published: true
+audiourl:
 teaser: "This is something that has caused problems in the past. New clinicians arrive from light years away, bringing impressive lists of publications and achievements—and staggering ignorance of the medical issues we face in this part of the galaxy."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Some things can only be learned from experience, but I have always been a strong believer in the value of studying for exams. This is why I am spending so much clinic time lately dealing with imaginary patients.
