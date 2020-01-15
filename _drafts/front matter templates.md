@@ -1,15 +1,15 @@
 ---
 layout: story
 category: short story
-issue: 47, September 2017
-issue-cover: issue-47-cover.png
+issue: 46, August 2017
+issue-cover: issue-46-cover.png
 issue-buy-link:
 title:
 subtitle:
 author:
 author-2:
 author-3:
-editor: julia-rios
+editor: brian-j-white
 illustrator:
 copyeditor:
 selector:

@@ -1,16 +1,41 @@
 ---
 layout: story
-title: Three Laws
-author: Andrea Phillips
-editor: Brian J. White
-date: 2017-08-22 01:00:01 -0500
 category: short story
+issue: 46, August 2017
+issue-cover: issue-46-cover.png
+issue-buy-link:
+title: Three Laws
+subtitle:
+author: andrea-phillips
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: daniel-stolle
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-08-22 01:00:01 -0500
 permalink: three-laws
-published: true
+audiourl:
 teaser: “Doctor Susan Hobbes, the lead investigator for the Emergent Robotic Behaviors Division of American Robotics Corp., was deeply and profoundly annoyed.”
 art: three-laws.jpg
-caption: A woman sits at a couch, back to the viewer. in front of her, a body lies prone. There's a puddle of blood on the floor.
-artist: Daniel Stolle
+artcaption: A woman sits at a couch, back to the viewer. in front of her, a body lies prone. There's a puddle of blood on the floor.
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 > *A robot may not harm its owner or, through inaction, allow its owner to be harmed.*
@@ -292,8 +317,3 @@ At last Dashiel returned with a steaming cup of coffee and five kinds of pastry.
 Susan took a sip. She had a few new thoughts to pass on to the Ultimate Messenger marketing team. They couldn’t use the true details of the case, thanks to extensive mutual nondisclosures and a certain degree of legal liability. But one could do wonders with subtext and hypothetical scenarios.
 
 At last she smiled. “Good news,” she said. “Iris is working perfectly.”
-
-#### About the author
-
-Andrea Phillips is an award-winning game designer and author. Currently she co-writes the serials [Bookburners](https://www.serialbox.com/serials/556edb3cada6e270f8e2641d) and [ReMade](https://www.serialbox.com/serials/5755b744ada6e220cd1d9948). Her debut novel, [*Revision*](/book/revision), is about a wiki where your edits come true. Andrea lived in Angeles City in the Philippines as a child, in the years before and after the 1986 People Power Revolution. This was extremely formative to her.
-You can find Andrea on Twitter at [@andrhia](http://twitter.com/andrhia). You know, if you like that sort of thing.

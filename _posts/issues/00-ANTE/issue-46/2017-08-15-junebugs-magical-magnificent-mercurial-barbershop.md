@@ -1,12 +1,40 @@
 ---
 layout: story
+category: short story
+issue: 46, August 2017
+issue-cover: issue-46-cover.png
+issue-buy-link:
 title:  "Junebug’s Magical Magnificent Mercurial Barbershop"
-author: Malon Edwards
-editor: Brian J. White
+subtitle:
+author: malon-edwards
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-08-15 01:00:00 -0500
-category: flash fiction
-permalink: /junebugs-magical-magnificent-mercurial-barbershop
+permalink: junebugs-magical-magnificent-mercurial-barbershop
+audiourl:
 teaser: "When Junebug’s clippers bit the nape of De’Vontay’s neck, my boy didn’t flinch."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -31,7 +59,3 @@ Ella was right. But so was I.
 I crossed my arms, clutched my shoulders, and closed my eyes. Two tears trickled through my lashes.
 
 Shouts and shakes to the Dust Mother, First of the Seven Mothers. She has allowed us another chance to commune with Her Blackstone. She has given us another chance to raise up a second child in Their Way.
-
-#### About the author
-
-Malon Edwards was born and raised on the South Side of Chicago, but now lives in the Greater Toronto Area, where he was lured by his beautiful Canadian wife. Many of his short stories are set in an alternate Chicago and feature people of color. Malon also serves as Managing Director and Grants Administrator for the Speculative Literature Foundation, which provides a number of grants for writers of speculative literature.

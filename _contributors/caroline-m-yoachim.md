@@ -16,4 +16,4 @@ short-name: caroline-m-yoachim
 permalink: caroline-m-yoachim
 ---
 
-Caroline M. Yoachim lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in Fantasy & Science Fiction, Clarkesworld, Asimov's, and Lightspeed, among other places.  Her debut short story collection, Seven Wonders of a Once and Future World & Other Stories, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at [carolineyoachim.com](http://carolineyoachim.com).
+Caroline M. Yoachim lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in _Fantasy & Science Fiction_, _Clarkesworld_, _Asimov’s_, and _Lightspeed_, among other places. Her debut short story collection, _Seven Wonders of a Once and Future World & Other Stories_, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at [carolineyoachim.com](http://carolineyoachim.com).
