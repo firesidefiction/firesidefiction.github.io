@@ -1,11 +1,40 @@
 ---
 layout: story
+category: short story
+issue: 42, April 2017
+issue-cover: issue-42-cover.png
+issue-buy-link:
 title: "The Hulder’s Husband Says Don’t"
-author: Kate Lechler
+subtitle:
+author: kate-lechler
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-04-11 12:01:00 -0500
-category: flash fiction
 permalink: the-hulders-husband-says-dont
+audiourl:
 teaser: "The first word I learned that day was “perfect.” He repeated it, over and over, running hot fingers down the skin of my cheek and neck. His hands found the ragged wooden edges of the hole in my back, danced down to the base of my spine, stroked down the furred length of my tail."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -100,7 +129,3 @@ I unlace my arms from my mother’s cloak and lay it gently across him, pulling 
 “Don’t,” he murmurs, shifting, his mouth the soft red O. His eyes snap open, hands to his throat. “Don’t!”
 
 I do.
-
-#### About the author
-
-Kate Lechler's work has appeared in Podcastle, Metaphorosis, and Arsenika, and is forthcoming from Superstition Review. She teaches British literature at the University of Mississippi in Oxford, Miss., where she lives with her husband, a dog, a cat, and seven fish. When she’s not at school, you can find her sitting on a lawn chair in her carport, writing about genetically-engineered unicorns and dragons.

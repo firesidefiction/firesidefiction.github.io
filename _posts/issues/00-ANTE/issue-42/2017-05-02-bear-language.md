@@ -1,19 +1,42 @@
 ---
 layout: story
-title: "Bear Language"
-author: "Martin Cahill"
-selected: Daniel José Older
-date: 2017-05-02 12:01:00 -0500
 category: short story
+issue: 42, April 2017
+issue-cover: issue-42-cover.png
+issue-buy-link:
+title: "Bear Language"
+subtitle:
+author: martin-cahill
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector: daniel-jose-older
+translator:
+narrator:
+letterer:
+date: 2017-05-02 12:01:00 -0500
 permalink: bear-language
+audiourl:
 teaser: "Daddy says he can still hear it, but we can *all* still hear it, pawing at the bag of chips I left on the counter downstairs, snuffling into the salt. Do bears like chips?"
-published: true
 art: bear-language.jpg
-caption: A young girl stands in front of a roaring bear. In the background is a slightly run down house and the moon, looming large above everything.
-artist: Galen Dara
+artcaption: A young girl stands in front of a roaring bear. In the background is a slightly run down house and the moon, looming large above everything.
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote: This story deals extensively with issues of child abuse and alcohol abuse.
+generalnote:
+published: true
 ---
-
-> *Content note: This story deals extensively with issues of child abuse and alcohol abuse.*
 
 ## Day One
 

@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 43, May 2017
-issue-cover: issue-43-cover.png
+issue: 42, April 2017
+issue-cover: issue-42-cover.png
 issue-buy-link:
 title:
 subtitle:

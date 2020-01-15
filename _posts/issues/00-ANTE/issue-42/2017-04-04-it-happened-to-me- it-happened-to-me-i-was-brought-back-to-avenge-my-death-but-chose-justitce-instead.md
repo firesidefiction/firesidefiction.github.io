@@ -1,15 +1,43 @@
 ---
 layout: story
-title:  "It Happened To Me: I Was Brought Back to Avenge My Death, But Chose Justice Instead"
-author: Nino Cipri
-date:   2017-04-04 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 42, April 2017
+issue-cover: issue-42-cover.png
+issue-buy-link:
+title: "It Happened To Me: I Was Brought Back to Avenge My Death, But Chose Justice Instead"
+subtitle:
+author: nino-cipri
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-04-04 12:01:00 -0500
 permalink: it-happened-to-me-i-was-brought-back-to-avenge-my-death-but-chose-justice-instead
+audiourl:
 teaser: "Dirty river water filling my mouth, the tastes of oil and mud and rust; plastic zip-ties cutting into the skin of my wrists; lights on the surface of the water receding away from me. That’s what I remember from before I died."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote: |
+  Editor’s note: This is the third story we’re publishing in Nino’s “It Happened To Me” series. You can read [the first one here](/issue39/chapter/it-happened-to-me-my-doppleganger-stole-my-credit-card-info-and-then-my-life/) and [the second one here](/it-happened-to-me-i-melded-my-consciousness-wtih-the-giant-alien-mushroom-floating-above-chicago).
 published: true
 ---
-
-*Editor’s note: This is the third story we’re publishing in Nino’s “It Happened To Me” series. You can read [the first one here](/issue39/chapter/it-happened-to-me-my-doppleganger-stole-my-credit-card-info-and-then-my-life/) and [the second one here](/it-happened-to-me-i-melded-my-consciousness-wtih-the-giant-alien-mushroom-floating-above-chicago).*
 
 Dirty river water filling my mouth; the tastes of oil and mud and rust; plastic zip-ties cutting into the skin of my wrists; lights on the surface of the water receding away from me. That’s what I remember from before I died. Then a long stretch of nothing, until a voice called my name.
 
@@ -96,7 +124,3 @@ When wasn’t it? A butterfly flapped its wings, a white asshole in a tie drew a
 The raven said reluctantly, *We can try it your way.*
 
 “Welcome to the struggle, comrade,” I said. “Solidarity forever.”
-
-#### About the author
-
-[Nino Cipri](#)(https://ninocipri.com/) is a queer and nonbinary/trans writer. A multidisciplinary artist, Nino has written fiction, essays, reviews, plays, comics, zines, and many rabble-rousing emails. They've also performed as a dancer, actor, and puppeteer. One time, an angry person on the internet called Nino a verbal terrorist, which was pretty cool.

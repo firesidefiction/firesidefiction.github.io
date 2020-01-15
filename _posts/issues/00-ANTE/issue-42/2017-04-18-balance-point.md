@@ -1,11 +1,40 @@
 ---
 layout: story
-title: "Balance Point"
-author: Sarah Goslee
-date: 2017-04-18 12:01:00 -0500
 category: short story
+issue: 42, April 2017
+issue-cover: issue-42-cover.png
+issue-buy-link:
+title: "Balance Point"
+subtitle:
+author: sarah-goslee
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-04-18 12:01:00 -0500
 permalink: balance-point
+audiourl:
 teaser: "Nik came here to learn magic, not to be ignored by everyone — even the teachers — except when it was time for tea."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -50,7 +79,3 @@ Nik stood agape. Master Aidan knew everything, even things kept secret within ba
 ”We watch the apprentices even more closely than you watch us. We see who listens, who thinks, who will work for magic even when it is denied, and who will be content without it. Usually, though, the final test is not so,” Aidan paused, ”dramatic.”
 
 ”Your lessons begin in my office at noon.”
-
-#### About the author
-
-[Sarah Goslee](http://www.sarahgoslee.com) shares many traits with her cats: she is insatiably curious, spends much time playing with string, and is on the third of her nine lives. Unlike the cats, however, she pays her bills and can write somewhat more intelligibly than "xdfjjkds."
