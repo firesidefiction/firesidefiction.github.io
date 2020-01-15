@@ -1,17 +1,41 @@
 ---
 layout: story
-title: Dust to Dust
-author: Mary Robinette Kowal
-editor: Julia Rios
-date: 2018-02-06 00:00:01 -0500
 category: short story
+issue: 52, February 2018
+issue-cover: issue-52-cover.png
+issue-buy-link:
+title: Dust to Dust
+subtitle:
+author: mary-robinette-kowal
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-02-06 00:00:01 -0500
 permalink: dust-to-dust
-published: true
+audiourl:
 teaser: "Lloyd bent down and kissed her on the nape of her neck, smelling the cherry wood and bird-of-paradise dust he'd mixed for her. Her skin was warm and tender beneath his lips. All was well."
-author-img: mary-robinette-kowal.jpg
-author-bio: |
-  Mary Robinette Kowal is the author of historical fantasy novels: _Ghost Talkers_, and The Glamourist Histories series. She is also a three-time Hugo Award winner. Her short fiction appears in _Uncanny_, _Tor.com_, and _Asimov’s_. Mary, a professional puppeteer, lives in Chicago. Visit her online at [maryrobinettekowal.com](http://maryrobinettekowal.com).  
-
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The mudroom got darn hot in the summer, but he couldn't risk doing magic inside the house. It got into the air conditioning and caused all kinds of trouble. Some magics he'd chance, but the Lord knew he didn't want anything interfering with Edna's health.
@@ -26,8 +50,8 @@ Some folks didn't think about things like that.
 
 Edna knocked on the glass pane set in the door. Lloyd shook his head and kept cranking. He could just imagine her, popping her gum in the kitchen, waiting for him to finish so she could come in without stirring up the dust. The children weren't always so good about that, particularly Luther. That boy wouldn't know how to slow down if you tied him to a tree.
 
-When he'd ground the last of the feathers, Lloyd draped a damp cloth on the bowl of dust and straightened, his back protesting from how long he'd been hunched over. He picked up his iced tea and carried into the kitchen. The air-conditioner hummed and blasted out a steady stream of cool air. It was almost cold after the mudroom.
-Lloyd had a little bit of a love-hate relationship with the air-conditioner. He would grant that it was convenient. With it, Edna didn’t have to ask him to grind up the stream-smoothed stone, fern, and willow bark that made up a cooling spell.
+When he'd ground the last of the feathers, Lloyd draped a damp cloth on the bowl of dust and straightened, his back protesting from how long he'd been hunched over. He picked up his iced tea and carried into the kitchen.The air-conditioner hummed and blasted out a steady stream of cool air. It was almost cold after the mudroom.
+Lloyd had a little bit of a love-hate relationship with the air-conditioner.He would grant that it was convenient. With it, Edna didn’t have to ask him to grind up the stream-smoothed stone, fern, and willow bark that made up a cooling spell.
 
 That convenience had also put him out of a job, though. Once, big department stores like Loveman’s had employed men like him as cooling and heating pulvesters. But mechanical contraptions didn’t require a pension.
 

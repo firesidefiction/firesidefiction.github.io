@@ -1,24 +1,45 @@
 ---
 layout: story
-title: The Secret Lives of the Nine Negro Teeth of George Washington
-author: Phenderson Djèlí Clark
-editor: Julia Rios
-selected: Brian J. White
-date: 2018-02-20 00:00:01 -0500
 category: short story
+issue: 52, February 2018
+issue-cover: issue-52-cover.png
+issue-buy-link:
+title: The Secret Lives of the Nine Negro Teeth of George Washington
+subtitle:
+author: phenderson-djeli-clark
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector: brian-j-white
+translator:
+narrator:
+letterer:
+date: 2018-02-20 00:00:01 -0500
 permalink: the-secret-lives-of-the-nine-negro-teeth-of-george-washington
-published: true
+audiourl:
 teaser: "When he wore that tooth, George Washington complained of hearing the heavy fall of a hammer on an anvil day and night. He ordered all iron making stopped at Mount Vernon."
 art: the-secret-lives-of-the-nine-negro-teeth-of-george-washington.jpg
-caption: "Nine ethereal Black people stand in defiance, surrounded by creepy dentures and luminous orbs."
-artist: Odera Igbokwe
-author-img: phenderson-djeli-clark.jpg
-author-bio: |
-  Phenderson Djèlí Clark is a historian and occasional speculative fiction writer. His short SFF stories have appeared in such online literary spaces as _Daily Science Fiction_, _Heroic Fantasy Quarterly_, _Fantasy-Magazine_, _Tor.com_ and several print anthologies including _Griots_, _Hidden Youth_ and most recently _Clockwork Cairo_. You can read his ramblings on SFF, history, diversity and more at his blog [The Disgruntled Haradrim](https://pdjeliclark.wordpress.com). He also tweets stuff: [@pdjeliclark](https://twitter.com/pdjeliclark).
+artcaption: "Nine ethereal Black people stand in defiance, surrounded by creepy dentures and luminous orbs."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 > “By Cash pd Negroes for 9 Teeth on Acct of Dr. Lemoire”
-–Lund Washington, Mount Vernon plantation, Account Book dated 1784. 
+–Lund Washington, Mount Vernon plantation, Account Book dated 1784.
 
 The first Negro tooth purchased for George Washington came from a blacksmith, who died that very year at Mount Vernon of the flux. The art of the blacksmith had been in his blood—passed down from ancestral spirits who had come seeking their descendants across the sea. Back in what the elder slaves called Africy, he had heard, blacksmiths were revered men who drew iron from the earth and worked it with fire and magic: crafting spears so wondrous they could pierce the sky and swords with beauty enough to rend mountains. Here, in this Colony of Virginia, he had been set to shape crueler things: collars to fasten about bowed necks, shackles to ensnare tired limbs, and muzzles to silence men like beasts. But blacksmiths know the secret language of iron, and he beseeched his creations to bind the spirits of their wielders—as surely as they bound flesh. For the blacksmith understood what masters had chosen to forget: when you make a man or woman a slave you enslave yourself in turn. And the souls of those who made thralls of others would never know rest—in this life, or the next.
 
@@ -44,7 +65,7 @@ To George Washington’s frustration, Tom’s tooth frequently fell out of his d
 
 When George Washington wore Henrietta’s tooth he sometimes woke screaming from night terrors. He told Martha they were memories from the war, and would never speak of the faces he saw coming for him in those dreams: a fierce Indian man with long black hair and death in his eyes, and a laughing slave girl with a curiously innocent face, who plunged scorching steel into his belly.
 
- ----
+----
 
 The fifth Negro tooth belonging to George Washington came by unexplained means from a conjure man who was not listed among Mount Vernon’s slaves. He had been born before independence, in what was then the Province of New Jersey, and learned his trade from his mother—a root woman of some renown (among local slaves at any rate), having been brought to the region from the southern territories of New France. The conjure man used his magics mostly in the treatment of maladies affecting his fellow bondsmen, of the mundane or paranormal varieties. He had been one of the tens of thousands of slaves during the war who answered the call put out by the Earl of Dunmore, Royal Governor of Virginia in November 1775:
 
@@ -60,13 +81,13 @@ The sixth Negro tooth of George Washington belonged to a slave who had tumbled h
 
 Solomon claimed not to know anything about magic, which didn’t exist in her native home. But how could that be, the other slaves wondered, when she could mix together powders to cure their sicknesses better than any physician; when she could make predictions of the weather that always came true; when she could construct all manner of wondrous contraptions from the simplest of objects? Even the plantation manager claimed she was “a Negro of curious intellect,” and listened to her suggestions on crop rotations and field systems. The slaves well knew the many agricultural reforms at Mount Vernon, for which their master took credit, was actually Solomon’s genius. They often asked why she didn’t use her remarkable wit to get hired out and make money? Certainly, that’d be enough to buy her freedom.
 
-Solomon always shook her head, saying that though she was from another land, she felt tied to them by “the consanguinity of bondage.” She would work to free them all, or, falling short of that, at the least bring some measure of ease to their lives. But at night, after she’d finished her mysterious “experiments” (which she kept secret from all) she could be found gazing up at the stars, and it was hard not to see the longing held deep in her eyes. When George Washington wore Solomon’s tooth, he dreamed of a place of golden spires and colorful glass domes, where Negroes flew through the sky on metal wings like birds and sprawling cities that glowed bright at night were run by machines who thought faster than men. It both awed and frightened him at once.
+Solomon always shook her head, saying that though she was from another land, she felt tied to them by “the consanguinity of bondage.” She would work to free them all, or, falling short of that, at the least bring some measure of ease to their lives. But at night, after she’d finished her mysterious “experiments” (which she kept secret from all) she could be found gazing up at the stars, and it was hard not to see the longing held deep in her eyes.When George Washington wore Solomon’s tooth, he dreamed of a place of golden spires and colorful glass domes, where Negroes flew through the sky on metal wings like birds and sprawling cities that glowed bright at night were run by machines who thought faster than men. It both awed and frightened him at once.
 
 ----
 
 The seventh Negro tooth purchased for George Washington had come from a Negro from Africa who himself had once been a trader in slaves. He had not gone out with the raids or the wars between kingdoms to procure them, but had been an instrumental middleman—a translator who spoke the languages of both the coastal slavers and their European buyers. He was instrumental in keeping the enchanted rifles and rum jugs flowing and assuring his benefactors a good value for the human merchandise. It was thus ironic that his downfall came from making a bad deal. The local ruler, a distant relative to a king, felt cheated and (much to the trader’s shock) announced his translator put up for sale. The English merchant gladly accepted the offer. And just like that, the trader went from a man of position to a commodity.
 
-He went half mad of despair when they’d chained him in the hold of the slave ship. Twice he tried to rip out his throat with his fingernails, preferring death to captivity. But each time he died, he returned to life—without sign of injury. He’d jumped into the sea to drown, only to be hauled back in without a drop of water in his lungs. He’d managed to get hold a sailor’s knife, driven it into his chest, and watched in shock as his body pushed the blade out and healed the wound. It was then he understood the extent of his downfall: he had been cursed. Perhaps by the gods. Perhaps by spirits of the vengeful dead. Or by some witch or conjurer for whom he’d haggled out a good price. He would never know. But they had cursed him to suffer this turn of fate, to become what he’d made of others. And there would be no escape. The Negro slave trader’s tooth was George Washington’s favorite. No matter how much he used it, the tooth showed no signs of wear. Sometimes he could have sworn he’d broken it. But when inspected, it didn’t show as much as a fracture—as if it mended itself. He put that tooth to work hardest of all, and gave it not a bit of rest.
+He went half mad of despair when they’d chained him in the hold of the slave ship. Twice he tried to rip out his throat with his fingernails, preferring death to captivity. But each time he died, he returned to life—without sign of injury. He’d jumped into the sea to drown, only to be hauled back in without a drop of water in his lungs. He’d managed to get hold a sailor’s knife, driven it into his chest, and watched in shock as his body pushed the blade out and healed the wound. It was then he understood the extent of his downfall: he had been cursed. Perhaps by the gods. Perhaps by spirits of the vengeful dead. Or by some witch or conjurer for whom he’d haggled out a good price. He would never know. But they had cursed him to suffer this turn of fate, to become what he’d made of others. And there would be no escape.The Negro slave trader’s tooth was George Washington’s favorite. No matter how much he used it, the tooth showed no signs of wear. Sometimes he could have sworn he’d broken it. But when inspected, it didn’t show as much as a fracture—as if it mended itself. He put that tooth to work hardest of all, and gave it not a bit of rest.
 
 ----
 
@@ -88,4 +109,4 @@ The ninth, and final, Negro tooth purchased for George Washington came from a sl
 
 That was not to say Emma did not have her own life, for slaves learned early how to carve out spaces separate from their masters. She had befriended, loved, married, cried, fought, and found succor in a community as vibrant as the Washingtons’—perhaps even more so, if only because they understood how precious it was to live. Yet she still dreamed for more. To be unbound from this place. To live a life where she had not seen friends and family put under the lash; a life where the children she bore were not the property of others; a place where she might draw a free breath and taste its sweetness. Emma didn’t know any particular sorcery. She was no root woman or conjurer, nor had she been trained like the Washington women in simple domestic enchantments. But her dreams worked their own magic. A strong and potent magic that she clung to, that grew up and blossomed inside her—where not even her owners could touch, or take it away.
 
-When George Washington wore Emma’s tooth, some of that magic worked its way into him and perhaps troubled some small bit of his soul. In July 1799, six months before he died, Washington stipulated in his will that the 123 slaves belonging to himself, among them Emma, be freed upon his wife’s death. No such stipulations were made for the Negro teeth still in his possession.
+When George Washington wore Emma’s tooth, some of that magic worked its way into him and perhaps troubled some small bit of his soul. In July 1799, six months before he died, Washington stipulated in his will that the 123 slaves belonging to himself, among them Emma, be freed upon his wife’s death.No such stipulations were made for the Negro teeth still in his possession.
