@@ -1,18 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 55, May 2018
+issue-cover: issue-55-cover.png
+issue-buy-link:
 title: The Finger
-author: April Grant
-editor: Julia Rios
+subtitle:
+author: april-grant
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2018-05-22 01:00:01 -0500
-category: flash fiction
 permalink: the-finger
-published: true
+audiourl:
 teaser: "All you have to do is just go to the range, wrap your finger across the muzzle and pull the trigger. Bang. Your hand slipped, it was an accident, they call an ambulance, you're done."
-author-img: april-grant.jpg
-author-bio: |
-  [April](http://www.aprilcatherinegrant.com) lives near Boston, and writes stories, poems, and songs. She has published poetry in _Strange Horizons_ and _Mythic Delirium_, and in the anthology _The Moment of Change_ (2012). Her other interests include traditional music, contra dancing, biking, container gardening, and appreciating actors from classic horror movies.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story includes non-graphic descriptions and discussions of gun violence.
+generalnote:
+published: true
 ---
 
 "You'll never be at a better time in your life for this to happen," said my father. "You're really healthy; even for a college student, you're fit. You can get it over with now, and then you'll be safe forever."
@@ -25,7 +48,7 @@ contentnote: This story includes non-graphic descriptions and discussions of gun
 
 "Ambulances cost money." I fixated on that, because expense usually made the difference when he decided against anything.
 
-"Mom and I will pay for the ambulance. We'll pay for your hospital bills." I was almost certain Mom did not know about any of this.
+"Mom and I will pay for the ambulance. We'll pay for your hospital bills."I was almost certain Mom did not know about any of this.
 
 "Honey," Dad went on. "You'll just be in a little bit of pain for a short time. And then you'll be safe."
 

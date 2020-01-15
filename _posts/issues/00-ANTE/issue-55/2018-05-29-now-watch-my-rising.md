@@ -1,18 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 55, May 2018
+issue-cover: issue-55-cover.png
+issue-buy-link:
 title: Now Watch My Rising
-author: Merc Fenn Wolfmoor
-editor: Julia Rios
+subtitle:
+author: merc-fenn-wolfmoor
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2018-05-29 01:00:01 -0500
-category: flash fiction
 permalink: now-watch-my-rising
-published: true
+audiourl:
 teaser: "Stories filter down through moss and leaf, fed by the sun that hears all. Wolf listens, for there are many tales of other wolves like them."
-author-img: a-merc-rustad.jpg
-author-bio: |
-  Merc Fenn Wolfmoor is a queer non-binary writer who lives in Minnesota and is a 2016 Nebula Awards finalist. ("This Is Not A Wardrobe Door" was first published in Fireside!) Their stories have appeared in _Lightspeed_, _Fireside_, _Apex_, _Uncanny_, _Shimmer_, _Cicada_, and other fine venues. You can find Merc on Twitter [@merc_wolfmoor](https://twitter.com/mercrustad) or at their website: [http://mercfennwolfmoor.com](http://mercfennwolfmoor.com). Their debut short story collection, _So You Want to Be a Robot_, was published at Lethe Press in May 2017.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 "Your purpose is to eat the sun," says Prophecy, "at the end of all things."
