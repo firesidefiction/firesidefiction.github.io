@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 52, February 2018
-issue-cover: issue-52-cover.png
+issue: 51, January 2018
+issue-cover: issue-51-cover.png
 issue-buy-link:
 title:
 subtitle:
