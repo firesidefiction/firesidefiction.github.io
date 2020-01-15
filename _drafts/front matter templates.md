@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 57, July 2018
-issue-cover: issue-57-cover.png
+issue: 56, June 2018
+issue-cover: issue-56-cover.png
 issue-buy-link:
 title:
 subtitle:

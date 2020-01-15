@@ -4,11 +4,11 @@ credit-name: Hal Y. Zhang
 first-name: Hal
 last-name: Zhang
 file-as: z
-role: Author
+role: Illustrator
 role-2:
 role-3:
 title: Hal Y. Zhang — Work in Fireside
-description:
+description: Illustrator
 twitter-handle:
 profile-pic: hal-y-zhang.jpg
 website-url: halyzhang.com
