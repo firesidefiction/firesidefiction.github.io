@@ -1,15 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 50, December 2017
+issue-cover: issue-50-cover.png
+issue-buy-link:
 title: The Gingerbread Pox
-author: Rachel Rodman
-editor: Julia Rios
+subtitle:
+author:
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-12-19 00:00:01 -0500
-category: flash fiction
 permalink: the-gingerbread-pox
-published: true
+audiourl:
 teaser: "“I'm the Gingerbread Pox!” the cloud announced, all abuzz, as it hovered before its latest target. “You can't avoid catching me!”"
-author-bio: |
-  Rachel Rodman is a writer and a biology teacher, living in the western portion of what remains of the Mesozoic continent of Laurasia. Her fiction has appeared in _Daily Science Fiction_, _Grievous Angel_, _The Future Fire_, _The Journal of Compressed Creative Arts_, and elsewhere. You can link to more of her writing: fiction, non-fiction, and somewhere-in-between, at her website, [www.rachelrodman.com](http://www.rachelrodman.com).
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 A swirl of oven-warm crumbs composed the cloud, spicy and pungent. In their coordinated roiling, they took on the vague contours of a man.
 

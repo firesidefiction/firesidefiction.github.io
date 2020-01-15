@@ -1,16 +1,43 @@
 ---
 layout: story
+category: short story
+issue: 50, December 2017
+issue-cover: issue-50-cover.png
+issue-buy-link:
 title: A Rabbit Egg for Flora
-author: Caroline M. Yoachim
-editor: Julia Rios
+subtitle:
+author:
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-12-26 01:00:01 -0500
-category: flash fiction
 permalink: a-rabbit-egg-for-flora
-published: true
+audiourl:
 teaser: "Flora stares at the egg, her finger poised over the button that will initiate the hatching sequence. 'It's probably an elephant.' "
-author-bio: |
-  Caroline M. Yoachim lives in Seattle and loves cold cloudy weather. She is the author of dozens of short stories, appearing in _Fantasy & Science Fiction_, _Clarkesworld_, _simov’s_, and _Lightspeed_, among other places. Her debut short story collection, _Seven Wonders of a Once and Future World & Other Stories_, came out with Fairwood Press in August 2016. For more about Caroline, check out her website at [carolineyoachim.com](http://carolineyoachim.com/).
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
+
 The back door is tinged purple when I go out to throw my morning coffee grounds onto the compost heap. A faint rainbow tints the yard in concentric circles, progressing from purple through all the other colors before ending in a large red dot in the middle of the — admittedly rather weedy — vegetable patch that Flora had planted with her other mum, back before Kalida moved out.
 
 “Flora, come look,“ I call.
