@@ -100,7 +100,3 @@ Let me get the door for you. No, no, it’s all right, I handle heavier things e
 You’re welcome, sir.
 
 Take care now.
-
-#### About the author
-
-Eden Royce is the recipient of the Speculative Literature Foundation’s Diverse Worlds grant and a regular contributor to Graveyard Shift Sisters. Her fiction has appeared in _FIYAH Literary Magazine of Black Speculative Fiction_ and on _PodCastle_. She is the author of the short story collection, _Spook Lights: Southern Gothic Horror_. You can find her work on [www.edenroyce.com](http://edenroyce.com/) and her tweets [@edenroyce](https://twitter.com/EdenRoyce).

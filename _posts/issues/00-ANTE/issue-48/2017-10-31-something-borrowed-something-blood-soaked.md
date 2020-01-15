@@ -1,18 +1,46 @@
 ---
 layout: story
+category: short story
+issue: 48, October 2017
+issue-cover: issue-48-cover.png
+issue-buy-link:
 title: Something Borrowed, Something Blood-Soaked
-author: Christa Carmen
-editor: Julia Rios
+subtitle:
+author: christa-carmen
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-10-31 00:00:01 -0500
-category: flash fiction
 permalink: something-borrowed-something-blood-soaked
-published: true
+audiourl:
 teaser: “This should feel romantic, she thought wistfully as Luke pushed past her out the door. And anyway, it wasn’t my idea to spend the last hour going to the forest’s edge with such a heavy load.”
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
-The fire gave an inviting crackle as Bella’s new husband locked her in a fervent embrace. Bella pulled back. “We should get going. Everyone will be wondering where we are.”
+The fire gave an inviting crackle as Bella’s new husband locked her in a fervent embrace.Bella pulled back. “We should get going. Everyone will be wondering where we are.”
 
-“Chill, Bel,” Luke said. “No one expects the bride and groom to appear right after the wedding. Besides...” He pressed his face obnoxiously into the bodice of her gown. “It’s your fault we’re so late.” Bella pulled away again and started across the lobby of the Stanley Hotel, catching her reflection in the window along with dozens of candle-lit Jack-o’-lanterns. _This should feel romantic_, she thought wistfully as Luke pushed past her out the door. _And anyway, it wasn’t my idea to spend the last hour going to the forest’s edge with such a heavy load_.
+“Chill, Bel,” Luke said. “No one expects the bride and groom to appear right after the wedding. Besides...” He pressed his face obnoxiously into the bodice of her gown. “It’s your fault we’re so late.”Bella pulled away again and started across the lobby of the Stanley Hotel, catching her reflection in the window along with dozens of candle-lit Jack-o’-lanterns. _This should feel romantic_, she thought wistfully as Luke pushed past her out the door. _And anyway, it wasn’t my idea to spend the last hour going to the forest’s edge with such a heavy load_.
 
 Ghost hunters peppered the patio, wielding EMF meters and handheld audio recorders like weapons, hoping the historic hotel would cough up a paranormal phenomenon. _Maybe this will be their lucky night_, Bella thought. She didn’t believe in ghosts, but if anyone was stubborn enough to come back and haunt these halls, it would be Aunt Louise.
 
@@ -39,7 +67,3 @@ A chill swept through the room, raising the hairs on Bella’s bare arms.
 “What did I always tell you, Belladonna?” The harsh voice was unmistakable even in the din of the masquerade. “Men should think twice before a woman figures out widowhood is the best path to power.”
 
 Bella smiled a smile more radiant than any captured by her wedding photographer. Maybe those ghost hunters would have two more specters to pursue before the night was over.
-
-#### About the author
-
-Christa Carmen's work has been featured in a myriad of anthologies, ezines, and podcasts, including _DarkFuse Magazine_, Comet Press' _Year's Best Hardcore Horror Volume 2_, Third Flatiron's _Strange Beasties_, and _Tales to Terrify_. She has work forthcoming from _Unnerving Magazine_ and Alban Lake Publishing, and lives in Westerly, RI with her husband and a beagle who rivals her in stubbornness.

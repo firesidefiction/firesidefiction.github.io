@@ -99,11 +99,3 @@ So I fished the card out of the file, called the number and said I had thought a
 “Only there for narrative colour,“ I said. “I‘ll remove it.“
 
 This week our grant was restored and shipments of clinical supplies are back on schedule. And details of ex-military patients showing clear signs of having been exposed to forbidden biological weapons have simply become one more item added to the list of things we take new doctors aside and inform them about, far from interfering eyes and ears. I have always been a strong believer in the value of studying for exams, but some things can only be learned from experience.
-
-#### About the author
-
-<<<<<<< HEAD:_drafts/2017-11-07-the-scenarist.md
-Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the Trailer Park of Terror comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://twitter.com/stuwest).
-=======
-Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the Trailer Park of Terror comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://twitter.com/stuwest).
->>>>>>> origin/master:_posts/2017-11-07-the-scenarist.md

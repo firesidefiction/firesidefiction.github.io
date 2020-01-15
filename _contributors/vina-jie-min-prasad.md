@@ -11,7 +11,9 @@ title: Vina Jie-Min Prasad — Work in Fireside
 description:
 twitter-handle:
 profile-pic:
-website-url:
+website-url: vinaprasad.com
 short-name: vina-jie-min-prasad
 permalink: vina-jie-min-prasad
 ---
+
+Vina Jie-Min Prasad is a Singaporean writer working against the world-machine. Her short fiction has appeared in _Clarkesworld_ and _Uncanny Magazine_. You can find links to her work at vinaprasad.com.

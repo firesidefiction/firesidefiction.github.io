@@ -16,5 +16,4 @@ short-name: eden-royce
 permalink: eden-royce
 bio-spanish:
 ---
-**Eden Royce** is the recipient of the Speculative Literature Foundation’s Diverse Worlds Grant and a regular contributor to _Graveyard Shift Sisters_. Her fiction has appeared in _FIYAH Magazine_ and on _PodCastle_. She is the author of the short story collection, _Spook Lights: Southern Gothic Horror_.
-You can find her work on [www.edenroyce.com](http://www.edenroyce.com) and her tweets [@edenroyce](https://www.twitter.com/edenroyce).
+Eden Royce is the recipient of the Speculative Literature Foundation’s Diverse Worlds grant and a regular contributor to Graveyard Shift Sisters. Her fiction has appeared in _FIYAH Literary Magazine of Black Speculative Fiction_ and on _PodCastle_. She is the author of the short story collection, _Spook Lights: Southern Gothic Horror_. You can find her work on [www.edenroyce.com](http://edenroyce.com/) and her tweets [@edenroyce](https://twitter.com/EdenRoyce).

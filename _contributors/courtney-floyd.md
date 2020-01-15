@@ -3,17 +3,16 @@ layout: contributor-profile
 credit-name: Courtney Floyd
 first-name: Courtney
 last-name: Floyd
-file-as: F
+file-as: f
 role: Author
 role-2:
 role-3:
 title: Courtney Floyd — Work in Fireside
 description:
 twitter-handle:
-profile-pic: courtney-floyd.jpg
-website-url: synonymsandsuch.com
+profile-pic:
+website-url:
 short-name: courtney-floyd
 permalink: courtney-floyd
-bio-spanish:
 ---
-[Courtney Floyd](https://synonymsandsuch.com) is a Ph.D. Candidate and writing instructor at the University of Oregon. She created, produces, and co-hosts Victorian Scribblers, a podcast about all the Victorian writers you've probably never heard of but should have. Her favorite Modernist poem is H.D.'s "Eurydice," and like the Sybil she lives for a good espresso.
+Courtney Floyd spent the first twenty-four years of her life living on the borders of the underworld, where she learned to write in between tarantula turf wars and apocalyptic dust storms. She now lives in Oregon with her husband, her hellhound, and an ancient cat whose skeleton she plans to articulate when it passes on to that great big paper bag in the sky.

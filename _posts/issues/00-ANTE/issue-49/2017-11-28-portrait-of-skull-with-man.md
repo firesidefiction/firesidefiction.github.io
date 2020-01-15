@@ -147,9 +147,3 @@ _What is it?_
 _I hate you._
 
 “You know you love me,“ I said, and gave him a big wet kiss.
-
-#### About the author
-
-Vina Jie-Min Prasad is a Singaporean writer working against the world-machine. Her short fiction has appeared in _Clarkesworld_ and _Uncanny Magazine_. You can find links to her work at [vinaprasad.com][1].
-
-[1]:	http://vinaprasad.com/
