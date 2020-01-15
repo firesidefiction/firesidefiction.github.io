@@ -1,11 +1,40 @@
 ---
 layout: story
-title:  "Snow White"
-author: Mikki Kendall
-date:   2017-05-16 12:01:00 -0500
 category: short story
+issue: 43, May 2017
+issue-cover: issue-43-cover.png
+issue-buy-link:
+title: "Snow White"
+subtitle:
+author: mikki-kendall
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-05-16 12:01:00 -0500
 permalink: snow-white
+audiourl:
 teaser: "It is a curious thing to live long enough to hear the story of your life go from a gossipy tale told by people on the periphery to a myth that frames you both as a victim and a villain."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 It is a curious thing to live long enough to hear the story of your life go from a gossipy tale told by people on the periphery to a myth that frames you both as a victim and a villain. Some truth is always mixed with the lies, but never the whole truth and never told in the right way. My stepmother was a witch. She tried to kill me. This is truth. A man saved me from the coffin she wanted me in, and we ordered her execution. This is also truth. But the story is much more complex than anything ever told. My father was not her victim. Nor mine. We conspired against him together. He killed my true mother for the crime of birthing a daughter instead of the son he wanted, and for failing to bear another child at all over the 13 years after my birth. I watched him behead her; he made sure that I did. Made sure that I knew he was king, that he would be obeyed by all, and that lives, even eternal ones, would be forfeit.
@@ -55,7 +84,3 @@ We did burn her body. That is the way of our people, and also it was a small mea
 They called me Snow White in the stories they told of me, though that was not my name, it was barely a nickname. Another way to render me the innocent in need of a prince’s succor, and my stepmother the villain who deserved to die so that our reign would be long and loved by the humans. I have forgotten… let me not lie now after all this truth… I have hidden my true name for so long I cannot bring myself to reveal it now. Nor will I reveal stepmother’s. She might hear it spoken and find her way back to me. She owes me a death, and I am not ready for her to collect.
 
 Someday I will speak it, and we will see what happens next.
-
-#### About the author
-
-Mikki Kendall aspires to be an over-educated loudmouth with deep pockets. Failing that she manages to be a periodic cyborg who masquerades as a person with a spouse, kids, and all the trappings of quasi respectability. Once gainfully employed by an unnamed agency, she now invests her time in writing, wrangling jackasses on the internet, and telling people to go straight to hell. Raised by a family of cutthroat sarcastic assassins with magic powers, her obsession with history has led to her publishing weird stories, and articles about every serious issue under the sun. Her nonfiction work has appeared in the Washington Post, Time, Bitch Planet, and a host of other outlets including the anthology *Here We Are: Feminism For The Real World.* Her fiction work includes comics and short stories that are available via Revelator Magazine, Torquere Press, Dynamite Comics, and online, and she co-edited the Locus-nominated anthology *Hidden Youth.* She is a snatcher of all wigs, regardless of hair type.

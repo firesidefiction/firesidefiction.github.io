@@ -1,11 +1,40 @@
 ---
 layout: story
-title:  "Friendly Emily"
-author: Kevin Hearne
-date:   2017-05-22 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 43, May 2017
+issue-cover: issue-43-cover.png
+issue-buy-link:
+title: "Friendly Emily"
+subtitle:
+author: kevin-hearne
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-05-22 12:01:00 -0500
 permalink: friendly-emily
+audiourl:
 teaser: "She heard my boots crunch around the bend in the trail, looked up, and gave a tiny smirk when she saw me stop in confusion. Instead of saying hello or asking for help, she tried to reassure me. “Don’t worry, Mister, I won’t eat you,” she said. “I’m not hungry right now.”"
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -96,7 +125,3 @@ She beamed at me and waved. “No problem. Bye, Dennis!”
 I sweated and stumbled downhill to my SUV, cutting my hike short. I dropped my keys twice before I could get the door open, my hands shook so much.
 
 “Fuck hiking,” I said, my voice broken.
-
-#### About the author
-
-Kevin Hearne is the NYT bestselling author of the Iron Druid Chronicles. He lives in Colorado with his wife, son, and doggies. He hugs trees, rocks out to heavy metal, and will happily geek out over comic books with you. He also thinks tacos are a pretty nifty idea.

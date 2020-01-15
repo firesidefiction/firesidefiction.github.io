@@ -1,17 +1,41 @@
 ---
-
 layout: story
-title:  "Narrative Disorder"
-author: Malka Older
-date:   2017-05-30 12:01:00 -0500
 category: short story
+issue: 43, May 2017
+issue-cover: issue-43-cover.png
+issue-buy-link:
+title: "Narrative Disorder"
+subtitle:
+author: malka-older
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-05-30 12:01:00 -0500
 permalink: narrative-disorder
+audiourl:
 teaser: "Mishima was the youngest person ever to be diagnosed. Her third-year teacher became suspicious after overhearing her retell a five-minute trip to the bathroom as an epic saga with two subplots and an unexpected denouement (minor sink malfunction)."
 art: narrative_disorder.jpg
-caption: A woman in a long coat leaps through the air, one leg extended in a kick with the other curled beneath her.
-artist: Galen Dara
+artcaption: A woman in a long coat leaps through the air, one leg extended in a kick with the other curled beneath her.
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
-
 ---
 
 Mishima was the youngest person ever to be diagnosed. Her third-year teacher became suspicious after overhearing her retell a five-minute trip to the bathroom as an epic saga with two subplots and an unexpected denouement (minor sink malfunction).
@@ -317,7 +341,3 @@ When she finally tells a man she is sharing her bed with about the condition, sh
 ----
 
 *She leans over the railing. The sky is cloudy but still; maybe the storm has veered away after all. The low waves are opaque. Off to her left she can see the top of a ruined plastic sign; the lower half, the post, and the restaurant it represents long submerged. The middle of the sign has been washed out and only the first letter remains, black against shattered yellow plastic: W____. Further away the top five floors of pink building are visible above the swell, and beyond that, the scattered bluing skyline of a drowned city. Dry land is about a kilometer away. Mishima glances down. Her skiffer, little more than a motorized surfboard, is still gripped on at the waterline. She taps out a code into the transmitter in her tooth: all clear. Her gaze strays back in the other direction, to the open sea, glittery and impenetrable with the rays of the low sun.*
-
-#### About the author
-
-Malka Older is a writer, aid worker, and PhD candidate. Her writing can be found at Leveler, Tor.com, Bengal Lights, Sundog Lit, Capricious, Reservoir, Inkscrawl, Rogue Agent, in the poetry anthology My Cruel Invention, and in Chasing Misery, an anthology of writing by female aid workers. Her science fiction political thriller Infomocracy is the first full-length novel from Tor.com, and the sequel Null States will be published in 2017. She was nominated for the 2016 John W. Campbell Award for Best New Writer. Named Senior Fellow for Technology and Risk at the Carnegie Council for Ethics in International Affairs for 2015, she has more than a decade of experience in humanitarian aid and development, Her doctoral work on the sociology of organizations at the Institut d’Études Politques de Paris (Sciences Po) explores the dynamics of multi-level governance and disaster response using the cases of Hurricane Katrina and the Japan tsunami of 2011.
