@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 45, July 2017
-issue-cover: issue-45-cover.png
+issue: 44, June 2017
+issue-cover: issue-44-cover.png
 issue-buy-link:
 title:
 subtitle:

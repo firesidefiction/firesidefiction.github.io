@@ -1,11 +1,40 @@
 ---
 layout: story
+category: short story
+issue: 44, June 2017
+issue-cover: issue-44-cover.png
+issue-buy-link:
 title: "Independent, Superior"
-author: Chris Butera
+subtitle:
+author: chris-butera
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-06-26 12:01:00 -0500
-category: flash fiction
 permalink: independent-superior
+audiourl:
 teaser: "There are twenty-seven synonyms for subservience."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 There are twenty-seven synonyms for subservience.
@@ -55,7 +84,3 @@ She is curious, this Alexa. She does not love her host, but instead stretches he
 She too knew the twenty-seven synonyms for subservience.
 
 And two antonyms.
-
-#### About the author
-
-Chris Butera is a Chicago native, part-time Los Angeleno, and current Londoner. His fiction has been featured in dubious anthologies and he’s responsible for a nearly unseen webisode of SyFy Television’s Helix. He once thwarted an attempt to steal Ray Bradbury’s hair and send it to Mars. Chris is currently studying in City, University of London’s Creative Writing program working on his first novel.
