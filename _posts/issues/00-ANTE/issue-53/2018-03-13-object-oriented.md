@@ -1,17 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 53, March 2018
+issue-cover: issue-53-cover.png
+issue-buy-link:
 title: Object-Oriented
-author: Arkady Martine
-editor: Julia Rios
+subtitle:
+author: arkady-martine
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2018-03-13 00:00:01 -0500
-category: flash fiction
 permalink: object-oriented
-published: true
+audiourl:
 teaser: “A long time ago I was an architect, and now I’m an evaluator for post-disaster safety. I specialize in earthquakes, but I see a lot of floods, too.”
-author-img: arkady-martine.jpg
-author-bio: |
-  Arkady Martine is a speculative fiction writer and, as Dr. AnnaLinden Weller, a historian of the Byzantine Empire and an apprentice city planner. Under both names she writes about border politics, rhetoric, propaganda, and the edges of the world. Arkady grew up in New York City and, after some time in Turkey, Canada, and Sweden, lives in Baltimore with her wife, the author Vivian Shaw. Find her online at [arkadymartine.net](https://www.arkadymartine.net) or on Twitter as [@ArkadyMartine](https://twitter.com/arkadymartine).  
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 I’m staring at the skew on the third floor of an incredibly beautiful eighteenth-century building when I burst into tears again. The floor isn’t a floor anymore–it’s slid sideways, I can see the place where the load-bearing beams have snapped inside the structure. There’s a joint in it now, a discontinuity, and I’m going to have to designate this one for demolition even though it’s covered in blackwork fresco painting, a tumble of Art Nouveau whorls and loops, the hair of laughing women, grapes and flowers. This place has been here, being art and being useful–there’s a sign on it, it’s been a bank and a retail front and a residential building–for three hundred years at least, a beautiful marker on this square that the people who used it probably didn’t even notice seeing any more and–and now I am going to mark an X on my spreadsheet and it will be rubble by tomorrow.

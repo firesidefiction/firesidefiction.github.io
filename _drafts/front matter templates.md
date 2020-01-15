@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 54, April 2018
-issue-cover: issue-54-cover.png
+issue: 53, March 2018
+issue-cover: issue-53-cover.png
 issue-buy-link:
 title:
 subtitle:

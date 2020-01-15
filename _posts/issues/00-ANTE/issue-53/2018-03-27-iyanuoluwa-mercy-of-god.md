@@ -1,18 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 53, March 2018
+issue-cover: issue-53-cover.png
+issue-buy-link:
 title: Iyanuoluwa-Mercy of God
-author: Jojo Bee
-editor: Julia Rios
+subtitle:
+author: jojo-bee
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2018-03-27 00:00:01 -0500
-category: flash fiction
 permalink: iyanuoluwa-mercy-of-god
-published: true
+audiourl:
 teaser: “When the blue-eyed devil first led me to the ship, I thought it was for a better life. The village chief told me it was an honor. He said it would be good for me to go and wouldn’t I like to explore?”
-author-img: jojo-bee.jpg
-author-bio: |
-  As a child Jojo was a wild thing who spent her time climbing trees, playing with animals, and dreaming up adventure. She now spends her time playing roller derby, cuddling her three pets... and dreaming up adventure. She believes representation matters and strives to portray vivid and complex characters, as colorful as her imagination.  
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote: This story is about the African slave trade and contains graphic humiliation and violence.
+generalnote:
+published: true
 ---
 
 One day a blue-eyed devil came and took me away.

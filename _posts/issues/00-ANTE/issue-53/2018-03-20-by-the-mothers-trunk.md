@@ -1,17 +1,41 @@
 ---
 layout: story
-title: By the Mother’s Trunk
-author: Lisa M. Bradley
-editor: Julia Rios
-date: 2018-03-20 00:00:01 -0500
 category: short story
+issue: 53, March 2018
+issue-cover: issue-53-cover.png
+issue-buy-link:
+title: By the Mother’s Trunk
+subtitle:
+author: lisa-m-bradley
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-03-20 00:00:01 -0500
 permalink: by-the-mothers-trunk
-published: true
+audiourl:
 teaser: “Tillie received a bath earlier this morning, but the water droplets that caught in the coarse hairs on her head have already evaporated. She would like to dust herself but Governor says, ‘It’s SHOWTIME.’”
-author-img: lisa-m-bradley.jpg
-author-bio: |
-  A Tejana living in Iowa, Lisa M. Bradley writes about boundaries and those who defy them in works ranging from haiku to novels. Recently her work has appeared in _Uncanny_, _PodCastle_, and _Sunvault: Stories of Solarpunk and Eco-Speculation_. Her first collection is _The Haunted Girl_ (Aqueduct Press). Her first novel, _Exile_, is forthcoming from Rosarium. As [@cafenowhere](https://twitter.com/cafenowhere), she tweets about writing, resistance, art, animals, Latinx issues, immigration, and disability.  
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 _Elephants have 1,948 olfactory receptors. Dogs have 811. Humans have only 396, fewer than guinea pigs or softshell turtles. An elephant can smell water 12 miles away._
