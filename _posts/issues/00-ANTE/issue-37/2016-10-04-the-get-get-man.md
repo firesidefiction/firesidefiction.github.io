@@ -1,16 +1,41 @@
 ---
 layout: story
-title:  The Get-Get Man
-author: Melissa Moorer
-selected: Daniel José Older
-date:   2016-10-04 12:01:00 -0500
 category: short story
-permalink: /issue37/chapter/the-get-get-man/
+issue: 37, October 2016
+issue-cover: issue-37-cover.png
+issue-buy-link:
+title: The Get-Get Man
+subtitle:
+author: melissa-moorer
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector: daniel-jose-older
+translator:
+narrator:
+letterer:
+date: 2016-10-04 12:01:00 -0500
+permalink: issue37/chapter/the-get-get-man/
+audiourl:
 teaser: "The Get-Get Man travels at night, sharp as a scalpel, dark as soot. He cuts through the yards and streets, slicing and taking what doesn’t make way. They say you can only see him from the side."
-published: true
 art: the-get-get-man.jpg
-caption: Illustration for The Get-Get Man
-artist: Galen Dara
+artcaption: Illustration for The Get-Get Man
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The Get-Get Man travels at night, sharp as a scalpel, dark as soot. He cuts through the yards and streets, slicing and taking what doesn’t make way. They say you can only see him from the side. If you see him head on it’s probably too, late because which way would you run anyway? He is as wide as the sky, deeper than the grave, and he always gets what he came for.
@@ -230,7 +255,3 @@ The head sat there bleeding and oozing onto the faded colors of the smiley-face 
 I never found out who the head belonged to, but the Red River Killer stopped killing.
 
 I messaged Leslie thinking I’d done it for her, but she never answered.
-
-#### About the author
-
-Melissa Moorer was struck by lightning when she was eight. Her work has been published in luminous journals such as Electric Literature, The Future Fire, Heiresses of Russ 2015, The Butter/The Toast, The Offing Mag (forthcoming), LCRW, Hot Metal Bridge, FLAPPERHOUSE, Vestal Review. She was Assistant Editor at The Butter/The Toast where she wrote”’This Writer's On Fire’”series for Roxane Gay. She still does research for Roxane Gay, which is the coolest job in the world.

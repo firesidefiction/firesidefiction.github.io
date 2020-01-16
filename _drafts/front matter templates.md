@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 39, January 2017
-issue-cover: issue-39-cover.png
+issue: 37, October 2016
+issue-cover: issue-37-cover.png
 issue-buy-link:
 title:
 subtitle:

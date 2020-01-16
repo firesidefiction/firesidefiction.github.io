@@ -1,15 +1,41 @@
 ---
 layout: story
-title:  Dragon Soap
-author: M.K. Hutchins
-date:   2016-11-04 12:01:00 -0500
 category: short story
-permalink: /issue38/chapter/25/
+issue: 38, November 2016
+issue-cover: issue-38-cover.png
+issue-buy-link:
+title: Dragon Soap
+subtitle:
+author: m-k-hutchins
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-11-04 12:01:00 -0500
+permalink: issue38/chapter/25/
+audiourl:
 teaser: "Gran never did like it when I used the Winchester to deal with dragons — so I went and did a damn fool thing and set out to hunt them in the dead of night. It wasn’t hard to sneak by Gran. She snored twice as loud as she barked, which was saying something."
-published: true
 art: dragon-soap.jpg
-caption: A woman crouches calf-deep in a swamp, rifle at the ready. Dragon surround her.
-artist: Galen Dara
+artcaption: A woman crouches calf-deep in a swamp, rifle at the ready. Dragon surround her.
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Gran never did like it when I used the Winchester to deal with dragons — so I went and did a damn fool thing and set out to hunt them in the dead of night. It wasn’t hard to sneak by Gran. She snored twice as loud as she barked, which was saying something.
@@ -356,7 +382,3 @@ Gran took a few more spoonfuls of soup, thinking it over. “Beth will watch her
 Gran nodded. “I like your plan, Maisy. Just promise me you’ll sell the soap right in front of her store, where she can watch.”
 
 “Yes, Gran.”
-
-#### About the author
-
-M.K. Hutchins regularly draws on her background in archaeology when writing fiction. Her YA fantasy novel Drift was both a Junior Library Guild Selection and a VOYA Top Shelf Honoree. Her short fiction appears in Fireside Magazine, Podcastle, IGMS, Daily Science Fiction, and elsewhere. A long-time Idahoan, she now lives in Utah with her husband and four children. Find her at [mkhutchins.com](http://mkhutchins.com)

@@ -1,12 +1,40 @@
 ---
 layout: story
-title:  Rabbit Heart
-author: Alyssa Wong
-selected: Daniel José Older
-date:   2016-10-02 12:01:00 -0500
-category: flash fiction
-permalink: /issue37/chapter/rabbit-heart/
+category: short story
+issue: 37, October 2016
+issue-cover: issue-37-cover.png
+issue-buy-link:
+title: Rabbit Heart
+subtitle:
+author: alyssa-wong
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector: daniel-jose-older
+translator:
+narrator:
+letterer:
+date: 2016-10-02 12:01:00 -0500
+permalink: issue37/chapter/rabbit-heart/
+audiourl:
 teaser: "When the Xiongs’ only son died, instead of calling the crematorium and arranging for a funeral, the family came to me."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -70,7 +98,3 @@ The imprint of their bodies on the couch lingered, and I ran my fingers over the
 “It’s a shame,” said Lilin. She watched from the door, her body full and healthy. I remembered the first time I had seen her in a cage at the pet store, her white fur luminous, her black eyes shining like two round stones. The first time I lifted her, new-born, from one of my tanks and felt her pulse racing against mine.
 “I made some oolong,” said Lilin. There was sympathy in her face. “There’s extra. Would you like some?”
 I laid the Xiongs’ money on the table to deal with later. She didn’t yet know that I hated oolong. “Yes,” I said. “I’d like to spend some time with you.”
-
-#### About the Author
-
-Alyssa Wong studies fiction in Raleigh, N.C., and really, really likes crows. Her story *Hungry Daughters of Starving Mothers* won the 2015 Nebula Award for Best Short Story, and she was a finalist for the 2016 Campbell Award. Her fiction has been shortlisted for the Pushcart Prize, the Bram Stoker Award, the Locus Award, and the Shirley Jackson Award. Her work has been published in The Magazine of Fantasy & Science Fiction, Strange Horizons, Nightmare Magazine, Black Static, and Tor.com, among others. She can be found on Twitter as [@crashwong](twitter.com/crashwong).

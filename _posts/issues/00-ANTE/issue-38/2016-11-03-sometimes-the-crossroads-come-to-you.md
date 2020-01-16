@@ -1,11 +1,40 @@
 ---
 layout: story
-title:  Sometimes the Crossroads Come to You
-author: Mikki Kendall
-date:   2016-11-03 12:01:00 -0500
 category: short story
-permalink: /issue38/chapter/23/
+issue: 38, November 2016
+issue-cover: issue-38-cover.png
+issue-buy-link:
+title: Sometimes the Crossroads Come to You
+subtitle:
+author: mikki-kendall
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-11-03 12:01:00 -0500
+permalink: issue38/chapter/23/
+audiourl:
 teaser: "“If you’re darker than warm beige we don’t recommend using this unit to visit the past prior to 2150. Only go into the recent past, or into the future.”"
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -56,7 +85,3 @@ There was no Devil at the crossroads to grant Robert Johnson power, no Devil to 
 I felt the remnants of the time-travel unit tug at me. Sidestepping time had done something to it, maybe made it better, maybe driven the proto-AI insane. I could destroy it and make my own way, or I could follow the signal back to my own time. Step into a world where almost anything was possible, and make everything possible.
 
 For the right price.
-
-#### About the author
-
-Mikki Kendall aspires to be an over-educated loudmouth with deep pockets. Failing that she manages to be a periodic cyborg who masquerades as a person with a spouse, kids, and all the trappings of quasi respectability. Once gainfully employed by an unnamed agency, she now invests her time in writing, wrangling jackasses on the internet, and telling people to go straight to hell. Raised by a family of cutthroat sarcastic assassins with magic powers, her obsession with history has led to her publishing weird stories, and articles about every serious issue under the sun. Her nonfiction work has appeared in the _Washington Post_, _Time_, and a host of other outlets. Her fiction work includes comics, and short stories are available via _Revelator Magazine_, Torquere Press, and online.
