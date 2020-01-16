@@ -1,13 +1,40 @@
 ---
-
 layout: story
-title:  The Resurrectionists
-author: Alec Austin
-selected: Daniel José Older
-date:   2017-03-14 12:01:00 -0500
 category: short story
-permalink: /the-resurrectionists
+issue: 41, March 2017
+issue-cover: issue-41-cover.png
+issue-buy-link:
+title: The Resurrectionists
+subtitle:
+author: alec-austin
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector: daniel-jose-older
+translator:
+narrator:
+letterer:
+date: 2017-03-14 12:01:00 -0500
+permalink: the-resurrectionists
+audiourl:
 teaser: "They’d gone three days without seeing anything more than mesas and miles of bone-sand before Kade saw the newspaper."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -258,7 +285,3 @@ It was cool and clear when they set out the next morning. As they rode across th
 “Armistice day,” Marya said, gazing at the sliver of the sun visible in the east. “Isn’t peace grand?”
 
 The sun stabbed at Kade’s eyes as it breached the horizon, and after a heartbeat, he turned away. “Go ask the dead,” he told her. “They’re the only ones who’d know.”
-
-#### About the author
-
-Alec Austin is a game designer with a tendency to ask questions like "What would Total War look like in Faerie?".  He holds a Masters in Comparative Media Studies from MIT, and is an alumnus of the Clarion West and Viable Paradise writing workshops.  Alec's fiction has appeared in Apex, Beneath Ceaseless Skies, Strange Horizons, and other venues.  He lives in Los Angeles.

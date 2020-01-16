@@ -1,11 +1,40 @@
 ---
 layout: story
-title:  Radio Werewolf
-author: Cassandra Khaw
-date:   2017-03-21 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 41, March 2017
+issue-cover: issue-41-cover.png
+issue-buy-link:
+title: Radio Werewolf
+subtitle:
+author: cassandra-khaw
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-03-21 12:01:00 -0500
 permalink: radio-werewolf
+audiourl:
 teaser: “The Nazis’ broadcasts said they had guerrilla forces waiting, watching from the mouth of the pines. Werewolves. Ready to devour us whole.”
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 “You really think there are Nazis in these woods?”
@@ -69,7 +98,3 @@ His teeth are as long as mine. “Oh, nothing at all, sir. “
 He laughs again as he lopes away, singing under his breath the words we hear every morning, blared from Berlin. “My werewolf teeth bite the enemy. And then he's done and then he's gone. Hoo, hoo hoo.”
 
 A little later, when there is no one to watch, when the sounds of singing become muddled, a wolf stretches and follows him into the gloom.
-
-#### About the author
-
-Cassandra Khaw writes horror, press releases, video games, articles about video games, and tabletop RPGs. These are not necessarily unrelated items. Her work can be found in professional short story magazines such as Clarkesworld, Fireside Fiction, Uncanny, and Shimmer. Cassandra’s first original novella, *Hammers on Bone*, came out in October 2016 from Tor.com. To her mild surprise, people seem to enjoy it. She occasionally spends time in a Muay Thai gym punching people and pads.
