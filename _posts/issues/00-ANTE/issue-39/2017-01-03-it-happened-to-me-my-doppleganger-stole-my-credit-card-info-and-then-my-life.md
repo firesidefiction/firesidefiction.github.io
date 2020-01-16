@@ -1,11 +1,40 @@
 ---
 layout: story
-title:  "It Happened To Me: My Doppleganger Stole My Credit Card Info, and then My Life"
-author: Nino Cipri
-date:   2017-01-03 12:01:00 -0500
 category: short story
-permalink: /issue39/chapter/it-happened-to-me-my-doppleganger-stole-my-credit-card-info-and-then-my-life/
+issue: 39, January 2017
+issue-cover: issue-39-cover.png
+issue-buy-link:
+title: "It Happened To Me: My Doppleganger Stole My Credit Card Info, and then My Life"
+subtitle:
+author: nino-cipri
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-01-03 12:01:00 -0500
+permalink: issue39/chapter/it-happened-to-me-my-doppleganger-stole-my-credit-card-info-and-then-my-life/
+audiourl:
 teaser: "The Nono thing started when you were a toddler. Nono was your favorite word, and your father and I liked to say that it wasn't you who'd pulled all of the dishtowels out of the drawer. It was Nono."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -140,7 +169,3 @@ She nodded. My skin itched madly, all the spots on my body that she once inhabit
 The development I'd grown up in had expanded, new streets eating into the old pastures and fields that had once lined it. But the old sycamore tree that had stood behind the houses was still there, having miraculously been spared from the bulldozers.
 
 The trunk had split open years before, though the gap had always been too narrow to squeeze through — I'd tried plenty of times. But as I got down on my hands and knees to examine it, the hole seemed to dilate. I could hear a mockingbird singing, a low whistle that sounded like an uptempo version of _Piano Man_. As I wriggled though, I began to hum along.
-
-#### About the author
-
-[Nino Cipri](https://ninocipri.com/) is a queer and nonbinary/trans writer. A multidisciplinary artist, Nino has written fiction, essays, reviews, plays, comics, zines, and many rabble-rousing emails. They've also performed as a dancer, actor, and puppeteer. One time, an angry person on the internet called Nino a verbal terrorist, which was pretty cool.
