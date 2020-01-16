@@ -1,11 +1,40 @@
 ---
 layout: story
+category: short story
+issue: 44, June 2017
+issue-cover: issue-44-cover.png
+issue-buy-link:
 title:  "How to Sync Your Spouse"
-author: Russell Nichols
-date:   2017-06-12 1:00:00 -0500
-category: flash fiction
+subtitle:
+author: russell-nichols
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-06-12 1:00:00 -0500
 permalink: how-to-sync-your-spouse
+audiourl:
 teaser: "All over Ixesha, every tick-tocking soul says the motto of their great African nation in unison. Completely in sync. That is, except Menzi and Lindiwe."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 _Time is of the essence for those who have clockwork hearts_.
@@ -128,7 +157,3 @@ That is, except Menzi and Lindiwe.
 They stand still, speechless.
 
 Then, without a second thought, Menzi reaches out to his pregnant wife and, after a beat, Lindiwe takes his mechanical, trembling hand.
-
-#### About the author
-
-Russell Nichols is a spec-fic writer and endangered journalist from Richmond, CA. His story about a black vampire on trial in Boston was included in the Best of _Apex Magazine: Volume 1_. Find his work in _Terraform_, _Nightmare Magazine_'s _POC Destroy Horror_ special issue, and other anthologies. He left the States in 2011 to wander the world, living out of a backpack with his wife. Look for him at [www.russellnichols.com](russellnichols.com).

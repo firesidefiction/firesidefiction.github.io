@@ -1,17 +1,41 @@
 ---
 layout: post
-title: Reclaiming Makerhood
-author: Jessica S. Cauttero
-editor: Elsa Sjunneson
-date: 2018-07-26 00:00:01 -0500
 category: essay
+issue: 57, July 2018
+issue-cover: issue-57-cover.png
+issue-buy-link:
+title: Reclaiming Makerhood
+subtitle:
+author: jessica-cauttero
+author-2:
+author-3:
+editor: elsa-sjunneson
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-07-26 00:00:01 -0500
 permalink: reclaiming-makerhood
-published: true
+audiourl:
 teaser: Like a single strand of yarn, looped over and through, knitting connects people with each other.
-author-img: jessica-cauttero.png
-author-bio: |
- Jessica has been making art—be it word, performance, or fiber—on and off since adolescence. She has been working in or around theatermaking for over ten years and her favorite offstage job was probably making puppets. When not writing, reading, sewing, or knitting, she is either performing under an assumed name wearing a lot of glitter, marathoning television series, or cuddling one of her critters (husband included).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 My grandmother taught me to knit when I was 11 years old. It had been announced that we would learn in Girl Scouts the following week and, well, I've always been the kind to skip ahead in my studies. Call me an overachiever, but I just like to be prepared. Grandma was my matriarch. At the time of our lesson, she was a Jewish woman in her 70s who had been my second mother. She lived three flights up in our outer-borough high-rise apartment building. She hadn’t knit much since I was small, but when I took those three sets of stairs up to her, she pulled her kit out, and gave me a set of size 5 mint green steel needles and a ball of Red Heart, the ubiquitous acrylic yarn most Depression-era matrons gravitated toward. It probably still had a 99 cent price tag from Woolworth’s on the label years after the store had closed up shop, making the fiber about as old I was. The mechanism of slip-wrap-pull-repeat was soothing, it made a certain sense, and it brought back the joy I felt when I wore the zippered hooded sweaters she made for me as a toddler—items I still have and cherish today as an adult. This skill may have been her greatest gift to me.

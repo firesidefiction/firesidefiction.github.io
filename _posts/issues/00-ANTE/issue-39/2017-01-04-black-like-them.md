@@ -1,20 +1,44 @@
 ---
 layout: story
-title:  Black Like Them
-author: Troy L. Wiggins
-date:   2017-01-04 12:01:00 -0500
 category: short story
-permalink: /issue39/chapter/black-like-them/
+issue: 39, January 2017
+issue-cover: issue-39-cover.png
+issue-buy-link:
+title: Black Like Them
+subtitle:
+author: troy-l-wiggins
+author-2:
+author-3:
+editor: brian-j-white
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-01-04 12:01:00 -0500
+permalink: issue39/chapter/black-like-them/
+audiourl:
 teaser: "According to the most recent census numbers, approximately twelve percent of Americans identify as African-American. Take a look around. Do you see any African-American people — black people — around you? We would urge you to look a bit closer. Perhaps they're not as black as you think."
-published: true
 art: black-like-them.jpg
-caption: The image of a black man is repeated three times. Inside each of them, a person is trapped. In the background, angry people protest.
-artist: Galen Dara
+artcaption: The image of a black man is repeated three times. Inside each of them, a person is trapped. In the background, angry people protest.
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote: |
+  Editor's Note: The following is a transcript of Black Like Them, a Dilemma Magazine special report by senior reporter Matt Disher. To listen to the full audio report, please consider becoming a subscriber. Your support enables us to do great journalism like this
+published: true
 ---
 
-_Editor's Note: The following is a transcript of Black Like Them, a Dilemma Magazine special report by senior reporter Matt Disher. To listen to the full audio report, please consider becoming a subscriber. Your support enables us to do great journalism like this._
-
-----
 
 **NARRATOR**
 
@@ -455,7 +479,3 @@ At this point Lovington enters, glares at me, and hands Pierce a phone.
 Unfortunately, I am going to have to call in the authorities. I wish that it didn't come to this, but you and I both know that some people just can't deny their… savage nature. Let's hope that law enforcement doesn't let that, well, color their reaction to this crowd. Now, if you'll excuse me?
 
 Ms. Lovington, please show Mr. Disher out.
-
-#### About the author
-
-Troy L. Wiggins is a writer and co-editor of [Fiyah Magazine of Black Speculative Fiction](http://www.fiyahlitmag.com/). His short fiction has appeared in the _Griots: Sisters of the Spear_, _Long Hidden: Speculative Fiction From the Margins of History_, and _Memphis Noir_ anthologies. Troy lives in Memphis with his wife, their two dogs, and entirely too many books. Find him on twitter [@TroyLWiggins](https://twitter.com/TroyLWiggins).

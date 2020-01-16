@@ -1,13 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 47, September 2017
+issue-cover: issue-47-cover.png
+issue-buy-link:
 title: If We Live to Be Giants
-author: Allison Mulder
-editor: Julia Rios
+subtitle:
+author: allison-mulder
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-09-12 01:00:01 -0500
-category: flash fiction
 permalink: if-we-live-to-be-giants
-published: true
+audiourl:
 teaser: “Grandpa measures our heights every day against the hallway markings. Rhiannon and I stand flat as we can, afraid even breathing will subtly lengthen our spines.”
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Grandpa measures our heights every day against the hallway markings. Rhiannon and I stand flat as we can, afraid even breathing will subtly lengthen our spines.
@@ -99,7 +127,3 @@ I smash the windowpane with a dented baseball bat, then shrug.
 "Is now."
 
 And his long arms scoop us out through the window.
-
-#### About the author
-
-Allison Mulder grew up in various small Midwestern towns and a sizable swath of the internet. She writes fantasy, science fiction, and—often by accident—horror. Her fiction has appeared in _Escape Pod_, _InterGalactic Medicine Show_, _Crossed Genres_, and more. With patience, sensitive equipment, and ample provisions, you can sometimes glimpse Allison at [allisonmulder.wordpress.com](https://allisonmulder.wordpress.com/). Or, track her far more easily on Twitter at [@AMulderWrites](https://twitter.com/AMulderWrites), where she broadcasts any significant life happenings, gushes over her current fictional obsessions, and uses far too many X-Files gifs.

@@ -1,23 +1,41 @@
 ---
 layout: story
-title: A Taxonomy of Hurts
-author: Kate Dollarhyde
-editor: Julia Rios
-date: 2018-08-28 01:00:01 -0500
 category: short story
+issue: 58, August 2018
+issue-cover: issue-58-cover.png
+issue-buy-link:
+title: A Taxonomy of Hurts
+subtitle:
+author: kate-dollarhyde
+author-2:
+author-3:
+editor: julia-rios
+illustrator: kevin-tong
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-08-28 01:00:01 -0500
 permalink: a-taxonomy-of-hurts
-published: true
+audiourl:
 teaser: "They are his most hurtful memories, and if I touch them, I can recall them as if they are my own."
-author-img: kate-dollarhyde.jpg
-author-bio: |
-  [Kate Dollarhyde](http://katedollarhyde@gmail.com) is a narrative designer and writer of speculative fiction. Her stories can be found in _Lackington’s_, _Beneath Ceaseless Skies_, and other places. You can find her on Twitter as [@keightdee](https://www.twitter.com/keigtdee). Though she lives in California, her true home is on the internet.
 art: a-taxonomy-of-hurts.jpg
-caption: "Two figures look at each other. Ethereal fauna erupts from their bodies."
-artist: Kevin Tong
-artist-img: kevin-tong.jpg
-artist-bio: |
-  Kevin Tong learned to draw in the competitive world of underground illustration, where clients often used knife fight challenges to get out of paying him. Nevertheless, he prevailed and from that wood chipper furnace life his savage illustration style was forged. Since taking it to the streets, Kevin has been steadily illustrating since 2005. He currently lives and works in Austin, TX
-proofread: true
+artcaption: "Two figures look at each other. Ethereal fauna erupts from their bodies."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 _Penthos var. sturnus vulgaris_

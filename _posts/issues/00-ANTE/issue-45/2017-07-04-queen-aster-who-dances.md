@@ -1,12 +1,40 @@
 ---
 layout: story
-title:  "Queen Aster, Who Dances"
-author: Tina Connolly
-editor: 
-date:   2017-07-03 12:00:00 -0500
-category: flash fiction
+category: short story
+issue: 45, July 2017
+issue-cover: issue-45-cover.png
+issue-buy-link:
+title: "Queen Aster, Who Dances"
+subtitle:
+author: tina-connolly
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-07-03 12:00:00 -0500
 permalink: queen-aster-who-dances
+audiourl:
 teaser: "There are two of us, my twin and I, the two youngest princesses they never thought would rule. We found our own paths in life, I in dance and Gentian in song."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -71,7 +99,3 @@ But apparently I would rather be free than anything else at all.
 Closer to him, and closer; it is all decided.
 
 I am Queen Aster, and I dance.
-
-#### About the Author
-
-Tina Connolly is the author of the _Ironskin_ trilogy from Tor, and the _Seriously Wicked_ series from Tor Teen. Her novels have been finalists for the Nebula and the Norton. Her first collection, _On the Eyeball Floor and Other Stories_, is available from Fairwood Press. She is one of the co-hosts of _Escape Pod_, narrates for _Beneath Ceaseless Skies_ and _Podcastle_, and runs the Parsec-winning flash fiction podcast Toasted Cake. Find her at [tinaconnolly.com](http://tinaconnolly.com).

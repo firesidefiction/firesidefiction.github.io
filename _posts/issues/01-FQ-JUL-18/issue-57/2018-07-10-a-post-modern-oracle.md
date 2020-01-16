@@ -1,17 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 57, July 2018
+issue-cover: issue-57-cover.png
+issue-buy-link:
 title: A Post-Modern Oracle
-author: Courtney Floyd
-editor: Julia Rios
+subtitle:
+author: courtney-floyd
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2018-07-10 01:00:01 -0500
-category: flash fiction
 permalink: a-post-modern-oracle
-published: true
+audiourl:
 teaser: "Offer her worthy espresso, and she’ll read your future in the post-it notes scattered around her office like fallen leaves."
-author-img: courtney-floyd.jpg
-author-bio: |
-  [Courtney Floyd](https://synonymsandsuch.com) is a Ph.D. Candidate and writing instructor at the University of Oregon. She created, produces, and co-hosts Victorian Scribblers, a podcast about all the Victorian writers you've probably never heard of but should have. Her favorite Modernist poem is H.D.'s "Eurydice," and like the Sybil she lives for a good espresso.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 The Sybil’s teaching Modernist poetry at a small college in New Mexico these days.

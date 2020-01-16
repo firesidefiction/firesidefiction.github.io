@@ -1,15 +1,44 @@
 ---
 layout: story
-title: The Praetorian Guard
-author: Lucas J.W. Johnson
-date: 2017-03-30 12:01:00 -0500
 category: short story
-permalink: /the-praetorian-guard
+issue: 41, March 2017
+issue-cover: issue-41-cover.png
+issue-buy-link:
+title: The Praetorian Guard
+subtitle:
+author: lucas-j-w-johnson
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-03-30 12:01:00 -0500
+permalink: the-praetorian-guard
+audiourl:
 teaser: "Praetorian Marshal Lia Song strode through the door into the claustrophobic room, hailed by a gust of icy wind from outside."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote: |
+  Editor’s note: This story is our third from Lucas set in this world, the others are [Remaker Remaker ](http://firesidefiction.com/issue3/chapter/remaker-remaker/) and [A Clockwork Heart](http://firesidefiction.com/issue25/chapter/a-clockwork-heart/)
 published: true
 ---
 
-*Editor’s note: This story is our third from Lucas set in this world, the others are* [Remaker Remaker ](http://firesidefiction.com/issue3/chapter/remaker-remaker/) *and* [A Clockwork Heart](http://firesidefiction.com/issue25/chapter/a-clockwork-heart/).
 
 The tavern was dark and cramped, like everything on the Imperial Skystation. Space had to be preserved when you were trying to keep thousands of tons hovering in the air, but there was always room for ale and wine. The whole place hummed, the walls and floors vibrating constantly with the force of the engines far below.
 
@@ -730,7 +759,3 @@ No. For the *people* of the Empire.
 That’s who mattered. This wasn’t about some idealized State; ideals were dangerous. Vivarius was a man of ideals.
 
 Lia fought for the people. And as the airship flew into the clouds above Londinium, she was starting to see that a war was brewing against them.
-
-#### About the author
-
-Lucas J.W. Johnson is a writer, game designer, and entrepreneur. He’s published several short stories, including *[Remaker Remaker](http://firesidefiction.com/issue3/chapter/remaker-remaker/)* in Fireside, a companion piece to *[A Clockwork Heart](http://firesidefiction.com/issue25/chapter/a-clockwork-heart/)*. He also founded [Silverstring Media](http://silverstringmedia.com/), a narrative design and digital media production studio, where he’s consulted and written for award-winning games like *Extrasolar* and *Crypt of the Necrodancer*, and developed original games like the critically-acclaimed *[Glitchhikers](http://glitchhikers.com/)* and the coffee-themed horror game *[Morning Rituals](https://silverstring.itch.io/morningrituals)*. Lucas has spoken about digital media and storytelling across North America, and been designing narratives since Grade 3, when he was first introduced to tabletop RPGs. He lives with his soon-to-be-husband in Vancouver, B.C.

@@ -1,11 +1,40 @@
 ---
 layout: story
-title:  Paperclips and Memories and Things That Won’t Be Missed
-author: Caroline M. Yoachim
-date:   2016-11-02 12:01:00 -0500
-category: flash fiction
-permalink: /issue38/chapter/21/
+category: short story
+issue: 38, November 2016
+issue-cover: issue-38-cover.png
+issue-buy-link:
+title: Paperclips and Memories and Things That Won’t Be Missed
+subtitle:
+author: caroline-m-yoachim
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2016-11-02 12:01:00 -0500
+permalink: issue38/chapter/21/
+audiourl:
 teaser: "The ghost in my attic is Margaret, but she lets me call her Margie. She was seventy-six years old when she died, and now that she’s a ghost she sits in her rocking chair day and night, holding a tiny baby in her arms. The baby rarely moves and almost never cries."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -30,7 +59,3 @@ I’m using the socks to make a quilt for Gavin, to replace the terrible cobwebs
 All ghosts are collectors, even my unborn baby boy. He collects static from the radio and warm water from the bath and muffled voices that come up through the ceiling. Anything that reminds him of the womb. He is trying to recreate me.
 
 I am tempted, sometimes, to collect my husband’s new baby.  He is pudgy and gurgly and just starting to smile. But he isn’t my baby, and I know all too well the pain that it would cause if I took him from his family. So instead I haunt the house that once was mine, and listen to the children’s laughter, and try to collect only little things that won’t be missed.
-
-#### About the author
-
-Caroline M. Yoachim lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in _Fantasy & Science Fiction_, _Clarkesworld_, _Asimov's_, and _Lightspeed_, among other places.  Her debut short story collection, _Seven Wonders of a Once and Future World & Other Stories_, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at [carolineyoachim.com](carolineyoachim.com).

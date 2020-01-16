@@ -1,11 +1,40 @@
 ---
 layout: story
-title:  "God Talk: Advice From A Deity in Distress"
-author: Alexis A. Hunter
-date:   2017-01-02 12:01:00 -0500
-category: flash fiction
-permalink: /issue39/chapter/god-talk-advice-from-a-deity-in-distress/
+category: short story
+issue: 39, January 2017
+issue-cover: issue-39-cover.png
+issue-buy-link:
+title: "God Talk: Advice From A Deity in Distress"
+subtitle:
+author: alexis-a-hunter
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-01-02 12:01:00 -0500
+permalink: issue39/chapter/god-talk-advice-from-a-deity-in-distress/
+audiourl:
 teaser: "What makes a god a monster? What makes a monster a god? The answer to both questions is the same: power."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -44,7 +73,3 @@ Yes, yes, I see. The magic's wearing off, isn't it? This lava requires a bit mor
 And you must do what you must do (but please, keep IT as far away from me as possible. Oh yes, I'll close my eyes. FUCK, as if you had any modesty) and I'm guessing you figured out sooner than me that a god has to be useful to them in order to survive.
 
 So this is your use. Well, honey, go ahead. Just remember everything I said: you'll be back. And next time, it'll be your _other_ head, bobbing with me in this fucking desecrated lava.
-
-#### About the author
-
-Alexis A. Hunter revels in the endless possibilities of speculative fiction.  Over fifty of her short stories have appeared in magazines such as Shimmer, Apex, Fantastic Stories of the Imagination, and more.  To learn more, visit [alexisahunter.com](http://www.alexisahunter.com).

@@ -1,12 +1,40 @@
 ---
 layout: story
+category: short story
+issue: 45, July 2017
+issue-cover: issue-45-cover.png
+issue-buy-link:
 title:  "The Witch in the Tower"
-author: Mari Ness
-editor:
+subtitle:
+author: mari-ness
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date:   2017-07-18 00:00:00 -0500
-category: flash fiction
 permalink: the-witch-in-the-tower
+audiourl:
 teaser: "Only one girl at a time, of course. One girl. She regretted that she could not do more, but she was only one woman, and she had other responsibilities."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -67,7 +95,3 @@ The witch gave the young girl — she could not be more than ten, perhaps eleven
 She had failed once, certainly.
 
 But this time — this time — she would not fail to cut this girl's hair.
-
-#### About the Author
-
-Mari Ness has published fiction and poetry in _Tor.com_, _Clarkesworld_, _Lightspeed_, _Daily Science Fiction_, _Apex_, _Uncanny_, _Strange Horizons_, and many more, including a previous story here at _Fireside_. Her poetry novella, _Through Immortal Shadows Singing_, was recently released by Papaveria Press. She lives in central Florida, where she keeps a careful eye out for magic.

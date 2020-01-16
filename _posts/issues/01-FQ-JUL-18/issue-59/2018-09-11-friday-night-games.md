@@ -11,7 +11,7 @@ author-2:
 author-3:
 editor: julia-rios
 illustrator:
-copyeditor: chelle-parker
+copyeditor:
 selector:
 translator:
 narrator:

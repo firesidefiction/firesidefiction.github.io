@@ -1,13 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 49, November 2017
+issue-cover: issue-49-cover.png
+issue-buy-link:
 title: A Cure for Ghosts
-author: Eden Royce
-editor: Julia Rios
+subtitle:
+author: eden-royce
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-11-21 00:00:01 -0500
-category: flash fiction
 permalink: a-cure-for-ghosts
-published: true
+audiourl:
 teaser: "You know better now, don’t ya? How do them ghosts smell? Like dirt and damp moss and dank places closed so tight no air ever enters. Like the end."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 Do you touch what isn’t yours? That’s what she did.
 
@@ -72,7 +100,3 @@ Let me get the door for you. No, no, it’s all right, I handle heavier things e
 You’re welcome, sir.
 
 Take care now.
-
-#### About the author
-
-Eden Royce is the recipient of the Speculative Literature Foundation’s Diverse Worlds grant and a regular contributor to Graveyard Shift Sisters. Her fiction has appeared in _FIYAH Literary Magazine of Black Speculative Fiction_ and on _PodCastle_. She is the author of the short story collection, _Spook Lights: Southern Gothic Horror_. You can find her work on [www.edenroyce.com](http://edenroyce.com/) and her tweets [@edenroyce](https://twitter.com/EdenRoyce).

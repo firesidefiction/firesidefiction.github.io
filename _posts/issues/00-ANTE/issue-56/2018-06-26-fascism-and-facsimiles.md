@@ -1,17 +1,41 @@
 ---
 layout: story
-title: Fascism and Facsimiles
-author: John Wiswell
-editor: Julia Rios
-date: 2018-06-26 01:00:01 -0500
 category: short story
+issue: 56, June 2018
+issue-cover: issue-56-cover.png
+issue-buy-link:
+title: Fascism and Facsimiles
+subtitle:
+author: john-wiswell
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-06-26 01:00:01 -0500
 permalink: fascism-and-facsimiles
-published: true
+audiourl:
 teaser: "Yeah, but we’re not Nazis, right?"
-author-img: john-wiswell-parrot.jpg
-author-bio: |
-  John [@Wiswell](https://www.twitter.com/wiswell) lives where New York keeps all its trees. This is John's third story in _Fireside Magazine_, following ["Bones at the Door"](https://firesidefiction.com/issue27/chapter/bones-at-the-door/) and ["A Silhouette Against Armageddon."](https://firesidefiction.com/a-silhouette-against-armageddon) His fiction has also appeared in _Daily Science Fiction_, _Pseudopod_, and most recently in _Diabolical Plots_ and _Robot Dinosaurs_. Superhero comics helped teach him to read and so he's fiercely loyal to them, especially when they betray themselves.
-proofread: false
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published:
 ---
 
 This was the moment that turned villains into legends, and the two of them were just henchmen. LaShawn braced his elbow on the battlement, training his laser cannon down on Captain Democracy’s red, white, and blue helmet. He scaled their castle’s walls like a cheap gym workout, with no idea that he was in LaShawn’s sights.

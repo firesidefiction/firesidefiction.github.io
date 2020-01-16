@@ -1,17 +1,17 @@
 ---
 layout: story
 category: short story
-issue: 58, August 2018
-issue-cover: issue-58-cover.png
+issue: 37, October 2016
+issue-cover: issue-37-cover.png
 issue-buy-link:
 title:
 subtitle:
 author:
 author-2:
 author-3:
-editor: julia-rios
+editor: brian-j-white
 illustrator:
-copyeditor: chelle-parker
+copyeditor:
 selector:
 translator:
 narrator:

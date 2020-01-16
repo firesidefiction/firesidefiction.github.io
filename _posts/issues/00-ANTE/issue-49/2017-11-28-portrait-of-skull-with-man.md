@@ -1,13 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 49, November 2017
+issue-cover: issue-49-cover.png
+issue-buy-link:
 title: Portrait of Skull with Man
-author: Vina Jie-Min Prasad
-editor: Julia Rios
+subtitle:
+author: vina-jie-min-prasad
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-11-28 01:00:01 -0500
-category: flash fiction
 permalink: portrait-of-skull-with-man
-published: true
+audiourl:
 teaser: "I‘m open to unusual and unconventional shoots, but I have to be depicted with the skull. This is ABSOLUTELY non-negotiable."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 **MALE Figure Model Available (PLEASE READ DESCRIPTION!!!)**
@@ -32,7 +60,7 @@ Poses are to be discussed on a case-by-case basis.
 
 SERIOUS INQUIRIES ONLY. This is not a sex ad!!
 
----- 
+----
 
 Richard was too tired to use the controller, and I was playing video games for him—not that there was much gameplay in the arthouse shit he liked, so technically I was shooting dudes and helping to trigger boring cutscenes for him to watch. It wasn‘t even the _fun_ kind of shooting since this game was the kind with some sort of anti-war message.
 
@@ -40,7 +68,7 @@ Richard was too tired to use the controller, and I was playing video games for h
 
 “I don‘t know,“ I said. “I was thinking that passport-sized one.“ It looked terrible in colour, and was bound to look even worse when scaled up and put in greyscale newsprint, but I‘d scoured Richard‘s social media and all that came up were Tom Stoppard memes and blurry class reunion photos.
 
-“Aren‘t there any others?“ I could feel Richard wincing against my neck. 
+“Aren‘t there any others?“ I could feel Richard wincing against my neck.
 
 “You‘re the one who said you didn‘t believe in taking photos, remember? We should live in the moment instead of capturing it for endless replay, blah blah blah, why put a screen between us and life?“
 
@@ -54,10 +82,10 @@ Richard was too tired to use the controller, and I was playing video games for h
 
 “Of course not,“ Richard said. “That‘s too plebeian.“
 
----- 
+----
 
 As usual, I was spending my free time in a dingy hostel room completely naked, holding my dead boyfriend‘s skull. It was art school application season, and a lot of students were trying to dash out their applications to Goldsmiths or Tokyo University of the Arts or that one in Chicago, whatever its name was. I‘d been through a few posing sessions with Somchai, which were mainly memorable for his desire to have me grip the skull while splaying my fingers out in terribly uncomfortable positions.
- 
+
 I adjusted my grip, and a voice boomed in my head. _If you crack my skull because of this kid, I‘m going to haunt you forever._
 
 “Oh my god, Richard, shut up,“ I hissed.
@@ -94,7 +122,7 @@ _No, I think he‘s going for it, stop him—_
 
 _Oh my god, thank you,_ Richard‘s voice said, so I made sure to ham it up beyond tolerable limits just to hear him wince.
 
----- 
+----
 
 Richard and I both irritated the other in a way that neither could get enough of, the kind of all-pervasive itch that burned under your skin and made—well, made me wish I‘d get reincarnated alongside him just so I could detest him all over again. I had no intention of dying despite having spent all my weekends with depressed artists, but the fact that death and corpse beetles and bleach didn‘t stop Richard from coming back to piss me off made me a bit more confident that my wish was, at the very least, possible.
 
@@ -119,9 +147,3 @@ _What is it?_
 _I hate you._
 
 “You know you love me,“ I said, and gave him a big wet kiss.
-
-#### About the author
-
-Vina Jie-Min Prasad is a Singaporean writer working against the world-machine. Her short fiction has appeared in _Clarkesworld_ and _Uncanny Magazine_. You can find links to her work at [vinaprasad.com][1].
-
-[1]:	http://vinaprasad.com/

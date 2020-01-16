@@ -1,12 +1,40 @@
 ---
 layout: story
+category: short story
+issue: 45, July 2017
+issue-cover: issue-45-cover.png
+issue-buy-link:
 title:  "We Who Stay Behind"
-author: Karl Dandenell
-editor:
-date:   2017-07-11 00:00:00 -0500
-category: flash fiction
+subtitle:
+author: karl-dandenell
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-07-11 00:00:00 -0500
 permalink: we-who-stay-behind
+audiourl:
 teaser: "You are Explorers. You are First Contact. You go through the Portal. We do not. We are the ones who stay behind."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -56,7 +84,3 @@ We bring you fresh uniforms the day the medics release you, and wait while you d
 You look into our eyes, then, and notice them for the first time. They are eyes that have seen alien worlds, and beauty, and death. Eyes of Explorers.
 
 We need you, we say calmly, and extend our hands. Stay.
-
-#### About the Author
-
-Karl Dandenell is a first-generation Swedish American, survivor of Viable Paradise XVI, and active member of the Science Fiction Writers of America. He lives on an island near San Francisco with his family and 2 cat overlords. He is fond of strong tea and distilled spirits. When not sitting in project meetings, he reads a lot of speculative fiction, and serves as a First Reader for _The Magazine of Fantasy & Science Fiction_.

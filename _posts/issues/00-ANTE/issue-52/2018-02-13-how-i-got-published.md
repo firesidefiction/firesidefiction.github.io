@@ -1,16 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 52, February 2018
+issue-cover: issue-52-cover.png
+issue-buy-link:
 title: How I Got Published (12 Tips from a Bestselling Author)
-author: Dominica Phetteplace
-editor: Julia Rios
+subtitle:
+author: dominica-phetteplace
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2018-02-13 00:00:01 -0500
-category: flash fiction
 permalink: how-i-got-published
-published: true
+audiourl:
 teaser: "I was too stung by rejection to query this second novel. I could have tried self-publishing, but it was easier just to give up on humanity."
-author-img: dominica-phetteplace.jpg
-author-bio: |
- Dominica Phetteplace is a math tutor who writes literary and science fiction. Her work has appeared in _Analog_, _Asimov’s_, _Clarkesworld_ and _F&SF_. She has won a Pushcart Prize, a Rona Jaffe Award, a Barbara Deming Award and fellowships from the MacDowell Colony, I-Park, and Marble House Project.
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 ### 1.

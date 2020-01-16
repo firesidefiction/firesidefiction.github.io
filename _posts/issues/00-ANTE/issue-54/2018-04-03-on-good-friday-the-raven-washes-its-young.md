@@ -1,17 +1,41 @@
 ---
 layout: story
-title: On Good Friday the Raven Washes Its Young
-author: Bogi Takács
-editor: Julia Rios
-date: 2018-04-03 01:00:01 -0500
 category: short story
+issue: 54, April 2018
+issue-cover: issue-54-cover.png
+issue-buy-link:
+title: On Good Friday the Raven Washes Its Young
+subtitle:
+author:
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-04-03 01:00:01 -0500
 permalink: on-good-friday-the-raven-washes-its-young
-published: true
+audiourl:
 teaser: "The family didn't want a freak, so I came all the way here, to the planetfrontier."
-author-bio: |
-  [Bogi Takács](http://www.prezzey.net) is a Hungarian Jewish author currently living in the US as a resident alien. Eir work has been published in venues like [_Clarkesworld_](http://clarkesworldmagazine.com/author/Bogi%20Tak%C3%A1cs/), [_Apex_](http://www.apex-magazine.com/tag/bogi-takacs/) and  [_Strange Horizons_](http://strangehorizons.com/author/bogi-takacs/), among others. You can find em on [Twitter](https://www.twitter.com/bogiperson) and [Instagram](https://www.instagram.com/bogiperson/) as @bogiperson, or see what happens when [Bogi Reads the World](http://www.bogireadstheworld.com).
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
 contentnote:
+generalnote:
+published: true
 ---
 
 >“On Good Friday the raven washes its young,as this world curses me with frogs and snaketongue;so this world should tell me face to face,who have I wronged in my life in this place.”

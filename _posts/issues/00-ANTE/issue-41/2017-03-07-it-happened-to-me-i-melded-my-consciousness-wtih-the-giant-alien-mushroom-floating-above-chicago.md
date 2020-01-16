@@ -1,15 +1,43 @@
 ---
 layout: story
-title:  "It Happened To Me: I Melded My Consciousness With the Giant Alien Mushroom Floating Above Chicago"
-author: Nino Cipri
-date:   2017-03-07 12:01:00 -0500
-category: flash fiction
+category: short story
+issue: 41, March 2017
+issue-cover: issue-41-cover.png
+issue-buy-link:
+title: "It Happened To Me: I Melded My Consciousness With the Giant Alien Mushroom Floating Above Chicago"
+subtitle:
+author: nino-cipri
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-03-07 12:01:00 -0500
 permalink: it-happened-to-me-i-melded-my-consciousness-wtih-the-giant-alien-mushroom-floating-above-chicago
+audiourl:
 teaser: "I was twenty-three, and on my lunch break when the giant alien mushroom bloomed in the sky over Lake Michigan."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote: |
+  Editor’s note: This is the second story we’re publishing in Nino’s “It Happened To Me” series. You can read [the first one here](/issue39/chapter/it-happened-to-me-my-doppleganger-stole-my-credit-card-info-and-then-my-life/).
 published: true
 ---
-
-*Editor’s note: This is the second story we’re publishing in Nino’s “It Happened To Me” series. You can read [the first one here](/issue39/chapter/it-happened-to-me-my-doppleganger-stole-my-credit-card-info-and-then-my-life/).*
 
 I was twenty-three, and on my lunch break when the giant alien mushroom bloomed in the sky over Lake Michigan. I nearly spit out my Jamba Juice when I saw Amanita, spreading above Chicago’s skyline like an otherworldly egg, cracked onto the flat expanse of sky.
 
@@ -52,7 +80,3 @@ I won’t divulge the details of what happened afterwards. If you want to find o
 I feel great having melded my consciousness with Amanita. I feel *whole.* I’ve finally found that “something bigger” that I’ve been searching for my entire life. Her name is Amanita, and she comes from somewhere very far away, and she understands loneliness. That’s why she’s gathered us: not just me and Doug, the bike courier, but hundreds of us, maybe thousands now.
 
 Can’t you feel her beckoning? She wants you, too.
-
-#### About the author
-
-[Nino Cipri](https://ninocipri.com/) is a queer and nonbinary/trans writer. A multidisciplinary artist, Nino has written fiction, essays, reviews, plays, comics, zines, and many rabble-rousing emails. They've also performed as a dancer, actor, and puppeteer. One time, an angry person on the internet called Nino a verbal terrorist, which was pretty cool.

@@ -1,19 +1,42 @@
 ---
 layout: story
-title: Reaching Beyond
-author: Evelyn Wong
-editor: Julia Rios
-date: 2017-09-19 00:00:01 -0500
 category: short story
+issue: 47, September 2017
+issue-cover: issue-47-cover.png
+issue-buy-link:
+title: Reaching Beyond
+subtitle:
+author: evelyn-wong
+author-2:
+author-3:
+editor: julia-rios
+illustrator: galen-dara
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2017-09-19 00:00:01 -0500
 permalink: reaching-beyond
-published: true
+audiourl:
 teaser: “A choked sob sounded before the person sucked in a hiccupping breath. “The Chans. They came for them at night… and they…” the voice broke down.”
 art: reaching-beyond.jpg
-caption: "Two children holding hands, walk past two adults in the foreground."
-artist: Galen Dara
+artcaption: "Two children holding hands, walk past two adults in the foreground."
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote: This story briefly alludes to child death.
+generalnote:
+published: true
 ---
-
-> *Content note: This story briefly alludes to child death.*
 
 _October 1965 - Semarang, Indonesia_
 The blazing sun beamed down on me through the palm trees. My legs pumped madly as I ran through the tall grass, looking for a place to hide. A grin spread across my face as I spotted the perfect hiding place—under our neighbour’s porch three doors down. I wiggled under the loose board, brushing spiders and insects from my arms. Light footsteps walked through the grass, passing me. I was about to leap out of my hiding spot when I heard heavier footsteps walking up the stairs.
@@ -131,8 +154,3 @@ _October 1965 - Semarang, Indonesia_
 My hands clenched harder, my limbs trembling. “I c-c-can’t,” I said, my teeth chattering.
 Laying both of her hands over mine, her warmth seeped into my frozen limbs. Tears streamed down my numb cheeks. Taking great care, she helped unhook my hands from the steering wheel. They curled in on themselves as if afraid of reaching for anything beyond. I clutched them to my chest and wept. Aunty Siew encircled me in her arms and squeezed tight.
 “It’s okay now, Lan. You made it. You’re safe.”
-
-#### About the author
-
-It's taken Evelyn a circuitous time to arrive at her actual purpose in life—writing stories. A reformed brand marketer, she now spends her time experiencing everything life has to offer, weaving them into her stories.
-Evelyn participated in a Bulgarian artist residency in May and will continue with others throughout Europe for the rest of this year.

@@ -1,13 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 49, November 2017
+issue-cover: issue-49-cover.png
+issue-buy-link:
 title: The Scenarist
-author: Stu West
-editor: Julia Rios
+subtitle:
+author: stu-west
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-11-07 00:00:01 -0500
-category: flash fiction
 permalink: the-scenarist
-published: true
+audiourl:
 teaser: "This is something that has caused problems in the past. New clinicians arrive from light years away, bringing impressive lists of publications and achievements—and staggering ignorance of the medical issues we face in this part of the galaxy."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 Some things can only be learned from experience, but I have always been a strong believer in the value of studying for exams. This is why I am spending so much clinic time lately dealing with imaginary patients.
@@ -71,11 +99,3 @@ So I fished the card out of the file, called the number and said I had thought a
 “Only there for narrative colour,“ I said. “I‘ll remove it.“
 
 This week our grant was restored and shipments of clinical supplies are back on schedule. And details of ex-military patients showing clear signs of having been exposed to forbidden biological weapons have simply become one more item added to the list of things we take new doctors aside and inform them about, far from interfering eyes and ears. I have always been a strong believer in the value of studying for exams, but some things can only be learned from experience.
-
-#### About the author
-
-<<<<<<< HEAD:_drafts/2017-11-07-the-scenarist.md
-Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the Trailer Park of Terror comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://twitter.com/stuwest).
-=======
-Stu West was recently imported to Canada from his native Scotland, where he spent several years studying creative writing at the University of Glasgow. His previous credits include writing liner note essays for the UK music industry and contributing several scripts to the Trailer Park of Terror comics anthology series. He lives in Ottawa with his wife and their two cats and can be found on Twitter at [@stuwest](https://twitter.com/stuwest).
->>>>>>> origin/master:_posts/2017-11-07-the-scenarist.md

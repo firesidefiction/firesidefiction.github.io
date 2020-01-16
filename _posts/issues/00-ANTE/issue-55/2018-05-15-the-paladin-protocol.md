@@ -1,18 +1,41 @@
 ---
 layout: story
-title: The Paladin Protocol
-author: Sydnee Thompson
-editor: Julia Rios
-date: 2018-05-15 01:00:01 -0500
 category: short story
+issue: 55, May 2018
+issue-cover: issue-55-cover.png
+issue-buy-link:
+title: The Paladin Protocol
+subtitle:
+author: sydnee-thompson
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-05-15 01:00:01 -0500
 permalink: the-paladin-protocol
-published: true
+audiourl:
 teaser: "Do NOT initiate contact with me, nor administer treatment, without my direction from now on. That is a strict order. Command: Affirm compliance."
-author-img: sydnee-thompson.jpg
-author-bio: |
- [Sydnee Thompson](http://shadesofsydnee.com) is an editor and writer based in metro Detroit whose fiction has been published by _Fiyah Lit Magazine_, _Seven Scribes_, and _Brown Sugar Griots_; their nonfiction credits include _Black Girl Dangerous_ and _Hour Detroit_. They spend more time sleeping than anything else, but when they do write, Sydnee likes to make their characters miserable and blow things up, because why not. Find them on Twitter [@SydMT](https://twitter.com/SydMT) and at their website, shadesofsydnee.com.
-proofread: true
-
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 A tingling sensation builds on the skin above Aaryn’s ears. They blink their eyes open, waiting for the message alert to reach their implant.
@@ -37,7 +60,7 @@ Aaryn scans the projection on their bedroom ceiling. A pale blue sky, complete w
 
 Aaryn sighs. _Reply: Darius, I already told you I’m not interested._
 
- _Darius: You just haven’t found the one. I’m gonna hook you up good this time though, you’ll see._
+_Darius: You just haven’t found the one. I’m gonna hook you up good this time though, you’ll see._
 
 _Reply: Just bring my goddamned ice cream. Command: End transmission._
 
@@ -153,7 +176,7 @@ Aaryn scans the projection on their bedroom ceiling. A pale blue sky, complete w
 
 Three loud pounds strike their front door.
 
- **Perimeter sensors indicate that Darius McNeil has arrived, along with two guests. He is 20 minutes early. Would you like help with that?**
+**Perimeter sensors indicate that Darius McNeil has arrived, along with two guests. He is 20 minutes early. Would you like help with that?**
 
 “Yo, man!” Darius yells through the door. “Open up! It’s hot as shit and the ice cream’s melting!”
 
@@ -171,7 +194,7 @@ Aaryn scans the projection on their bedroom ceiling. A pale blue sky, complete w
 
 _Viktor: You’re one of the top neuroscientists in the country. You know what the chemical wars have done to the West Coast. The government is in shambles. It’s up to science to save us now._
 
- _Reply: This isn’t science. This is—_
+_Reply: This isn’t science. This is—_
 
 **Error: Message not transmitted.**
 
@@ -231,7 +254,7 @@ Aaryn scans the projection on their bedroom ceiling. A pale blue sky, complete w
 
 _“You know what I find most interesting about the insular cortex?” Aaryn asks._
 
- _Viktor chuckles. “No. What?”_
+_Viktor chuckles. “No. What?”_
 
 _“It’s such a tiny little thing, but it does so much. It’s not just the processing of pain—our emotions, our consciousness, our perception of the world… all those things are influenced by it, too. In a lot of ways, it’s the key to the human soul itself.”_
 

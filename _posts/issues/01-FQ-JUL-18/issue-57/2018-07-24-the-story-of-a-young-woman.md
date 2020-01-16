@@ -1,16 +1,41 @@
 ---
 layout: story
+category: short story
+issue: 57, July 2018
+issue-cover: issue-57-cover.png
+issue-buy-link:
 title: The Story of a Young Woman
-author: Ose Utomi
-editor: Julia Rios
+subtitle:
+author: ose-utomi
+author-2:
+author-3:
+editor: julia-rios
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2018-07-24 01:00:01 -0500
-category: flash fiction
 permalink: the-story-of-a-young-woman
-published: true
+audiourl:
 teaser: "This is a story of love. The young woman’s love for her people. Her love for her ancestors."
-author-bio: |
-  Ose Utomi has done a lot of different things for a little bit of time, but writing is his constant. When he's not indulging his restlessness by traveling about, he's being a martial artist or doing karaoke—with or without a backing track. He currently lives in New York City.
-proofread: true
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
 
 There’s a story we first began to tell long ago, before the time of your Greatmamas, and their Greatmamas before them, before the Queens of the Kudu, before the Asundrance. A story of gain and sacrifice. A story of words that give life and whispers that kill. A story that will hollow out your heart and fill it, tear your spirit at the seams and mend it whole. The only story you’ll ever need to hear.

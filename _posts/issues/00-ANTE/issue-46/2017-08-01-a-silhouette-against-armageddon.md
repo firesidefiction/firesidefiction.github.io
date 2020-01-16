@@ -1,12 +1,40 @@
 ---
 layout: story
+category: short story
+issue: 46, August 2017
+issue-cover: issue-46-cover.png
+issue-buy-link:
 title:  "A Silhouette Against Armageddon"
-author: John Wiswell
-editor:
+subtitle:
+author: john-wiswell
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-08-01 02:00:00 -0500
-category: flash fiction
-permalink: /a-silhouette-against-armageddon
+permalink: a-silhouette-against-armageddon
+audiourl:
 teaser: "Someone's trying to get into my coffin."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -47,7 +75,3 @@ He kisses my forehead with a lipless mouth. “That’s what I thought.”
 “Shut up for a minute,” I say, hugging him until his rib bones creak, burying what's left of my nose in his collar.
 
 The aluminum siding has no give, and we smoosh together like we used to sharing a twin bed in his aunt’s attic. It's cramped and awful and I forgot how much I needed it. I twine my arms around him, and he links his fingers with mine. No skin and he still has cold hands. I squeeze them, gently as I can, as he shuts the coffin lid over us both, shutting out the clarion calls of Heaven and Hell. The dead have risen, and now two of them can finally rest in peace.
-
-#### About the author
-
-John ([@wiswell](http://twitter.com/wiswell)) lives where New York keeps all its trees. He’s previously appeared at _Fireside_ with [_Bones at the Door_](/issue27/chapter/bones-at-the-door/), and he has a new horror story coming soon to Pseudopod. He intends to donate his body to medical science, which will make romantic apocalypses harder on him.

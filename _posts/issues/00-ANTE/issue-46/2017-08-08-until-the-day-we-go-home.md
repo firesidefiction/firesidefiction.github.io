@@ -1,12 +1,40 @@
 ---
 layout: story
+category: short story
+issue: 46, August 2017
+issue-cover: issue-46-cover.png
+issue-buy-link:
 title:  "Until the Day We Go Home"
-author: Caroline M. Yoachim
-editor: Brian J. White
+subtitle:
+author: caroline-m-yoachim
+author-2:
+author-3:
+editor: brian-j-white
+illustrator:
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
 date: 2017-08-08 01:00:00 -0500
-category: flash fiction
-permalink: /until-the-day-we-go-home
+permalink: until-the-day-we-go-home
+audiourl:
 teaser: "I wait at the fence with the other kids, bare toes in the dry dirt. Someone spots Liana's lavender wings in the distance and squeals."
+art:
+artcaption:
+translated:
+language:
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
 published: true
 ---
 
@@ -55,7 +83,3 @@ One blink she's standing in the square, the next she is gone. The entire square 
 We wait at the edge of the square. A few of the kids have candies, and they visit Liana's worlds while the last light fades from the sky and the moon rises. At midnight, the guards return, not with our parents, but not alone, either.
 
 Where the adults once stood there are dozens of babies and toddlers — the next generation of displaced humans. I'm not ready, but I step forward into the crowd of frightened little ones. I pick up an infant, swaddled tightly in a lavender blanket. She's too little for it now, but when she's old enough, I'll give up my other-world candies to make sure there are enough for her.
-
-#### About the author
-
-Caroline M. Yoachim lives in Seattle and loves cold cloudy weather.  She is the author of dozens of short stories, appearing in _Fantasy & Science Fiction_, _Clarkesworld_, _Asimov’s_, and _Lightspeed_, among other places. Her debut short story collection, _Seven Wonders of a Once and Future World & Other Stories_, came out with Fairwood Press in August 2016.  For more about Caroline, check out her website at [carolineyoachim.com](http://carolineyoachim.com).
