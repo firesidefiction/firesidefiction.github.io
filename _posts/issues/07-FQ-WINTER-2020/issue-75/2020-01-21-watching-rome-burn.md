@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Of all the terrible things I saw as a paramedic, the one that most haunted me was the look on a woman’s face as she watched a fire ferociously consume her home with her two small children still inside. Her world was burning.
 
