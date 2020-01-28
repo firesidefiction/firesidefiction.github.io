@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote: This story depicts animal abuse.
 generalnote:
-published: false
+published: true
 ---
 Kusul burns the birds on camera. The shot is wide so that you can see all seven birds, yellow-billed babblers that won’t sit still long enough to catch fire. Whenever she lights a match and squats to hold it under their tails, they flutter up and come down again a few feet further away, so she crab-walks over to them and lights another match.
 
