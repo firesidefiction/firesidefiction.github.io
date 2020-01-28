@@ -9,7 +9,7 @@ teaser: "We're pretty excited about our new site, so I thought I'd talk a bit ab
 published: true
 ---
 
-We're pretty excited about our new site. We've been working on it in one form or another for about a year, and much of the interesting stuff that we're doing is actually invisible to the reader — it's happening backstage — so I thought I'd talk a bit about the improvements we made when refreshing our visual design and rethinking our our technology stack and our workflow.
+We're pretty excited about our new site. We've been working on it in one form or another for about a year, and much of the interesting stuff that we're doing is actually invisible to the reader — it's happening backstage — so I thought I'd talk a bit about the improvements we made when refreshing our visual design and rethinking our technology stack and our workflow.
 
 The previous Fireside site was organized around the conceit of issues. That led us to build the site using a deeply customized version of WordPress which relied heavily on plugins and custom themes. This site served us well, but it was very complex. Over time bit rot set in, and the site became slower and slower, both for readers, and for Brian, Elsa, and I when working on editing and publishing the magazine. So when we set out to rethink the site to reflect our shift to a more blog-like publishing schedule, we doubled down on simplicty as one of our core guiding principles.
 
