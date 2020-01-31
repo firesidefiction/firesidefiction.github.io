@@ -1,8 +1,8 @@
 ---
 layout: poem
 category: poem
-issue: 77, March 2020
-issue-cover: issue-77-cover.png
+issue: 76, February 2020
+issue-cover: issue-76-cover.png
 issue-buy-link:
 title: How to Leave the Planet
 subtitle:
@@ -16,7 +16,7 @@ selector: julia-rios
 translator:
 narrator: daniela-acitelli
 letterer:
-date: 2020-03-12 01:00:01 -0500
+date: 2020-02-18 01:00:01 -0500
 permalink: how-to-leave-the-planet
 audiourl:
 teaser: A lyrical farewell to living things.

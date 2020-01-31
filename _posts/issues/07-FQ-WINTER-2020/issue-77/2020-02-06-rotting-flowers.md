@@ -1,8 +1,8 @@
 ---
 layout: poem
 category: poem
-issue: 76, February 2020
-issue-cover: issue-76-cover.png
+issue: 77, March 2020
+issue-cover: issue-77-cover.png
 issue-buy-link:
 title: Rotting Flowers
 subtitle:
@@ -16,7 +16,7 @@ selector: julia-rios
 translator:
 narrator: daniela-acitelli
 letterer:
-date: 2020-02-06 01:00:01 -0500
+date: 2020-03-31 01:00:01 -0500
 permalink: rotting-flowers
 audiourl:
 teaser: A heart-wrenching poem on motherhood and rage.
