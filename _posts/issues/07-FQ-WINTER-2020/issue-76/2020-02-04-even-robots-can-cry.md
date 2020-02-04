@@ -18,7 +18,7 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-02-04 01:00:01 -0500
 permalink: even-robots-can-cry
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/007_Fireside_Quarterly_Even_Robots_Can_Cry.mp3
 teaser: An overwhelmed student desperately wishes he were a robot.
 art:
 artcaption:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 There’s a buzzing in Simon’s head. Like a dying fluorescent light.
 
