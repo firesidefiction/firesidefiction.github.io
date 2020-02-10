@@ -18,7 +18,7 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-02-11 01:00:01 -0500
 permalink: a-bitter-orange-perfume
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/009_Fireside_Quarterly_A_Bitter_Orange_Perfume.mp3
 teaser: A perfumer’s three daughters engage with their mother’s legacy after her funeral.
 art:
 artcaption:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 There were three women attending the perfumer's funeral; others were nothing but colorless shadows. Maria Alberta was the first one — twenty-nine by then, the oldest of the Latorre sisters. Then came Maria Clarinda — twenty-six, short, sickly, and unwed. The last, Maria Gracinda, was twenty-three and the only of them dressed all in black.
 
