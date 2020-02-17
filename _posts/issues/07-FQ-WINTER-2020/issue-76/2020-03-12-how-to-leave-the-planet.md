@@ -18,7 +18,7 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-02-18 01:00:01 -0500
 permalink: how-to-leave-the-planet
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/013_Fireside_Quarterly_How_to_Leave_the_Planet.mp3
 teaser: A lyrical farewell to living things.
 art:
 artcaption:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 _Airborne birds_: easiest, still impossible. fly<br/>
 up and out, pump your wings hard<br/>
