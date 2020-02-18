@@ -1,19 +1,19 @@
 ---
 layout: contributor-profile
-credit-name: Hal Y. Zhang
-first-name: Hal
-last-name: Zhang
-file-as: z
-role: Author
+credit-name: Charis Loke
+first-name: Charis
+last-name: Loke
+file-as: l
+role: illustrator
 role-2:
 role-3:
-title: Hal Y. Zhang — Work in Fireside
-description:
-twitter-handle:
-profile-pic: hal-y-zhang.jpg
-website-url: halyzhang.com
-short-name: hal-y-zhang
-permalink: hal-y-zhang
+title: Charis Loke — Work in Fireside
+description: Illustrator
+twitter-handle: charisloke
+profile-pic: charis-loke.jpg
+website-url: charisloke.com
+short-name: charis-loke
+permalink: charis-loke
 bio-spanish:
 ---
-[Hal Y. Zhang](http://halyzhang.com) can be found indoors and out of direct sunlight.
+Charis Loke is an illustrator and educator based in Malaysia. She makes pictures that evoke a sense of wonder and curiosity, believing that art matters, stories matter, and the two can bring people together. Her art and writing can be found at [http://charisloke.com](charisloke.com).
