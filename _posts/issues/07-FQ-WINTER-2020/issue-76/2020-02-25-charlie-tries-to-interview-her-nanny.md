@@ -18,10 +18,10 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-02-25 01:00:01 -0500
 permalink: charlie-tries-to-interview-her-nanny
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/010_Fireside_Quarterly_Charlie_Tries_to_Interview_Her_Nanny.mp3
 teaser: "A little girl interviews the person she admires most: her Nanny helper bot."
 art: charlie-tries-to-interview-her-nanny.png
-artcaption: A girl thinks as she's writing on her tablet device. IN the background, various scenes featuring her robot nanny play out.
+artcaption: A girl thinks as she's writing on her tablet device. In the background, various scenes featuring her robot nanny play out.
 spanish-language:
 spanish-date:
 english-url:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 “Nanny,” Charlie said, officially, tablet in hand. “Can I ask you something?”
 
