@@ -4,9 +4,9 @@ category: short story
 issue: 69, July 2019
 issue-cover: issue-69-cover.png
 issue-buy-link:
-title: Advice For Your First Time at the Faerie Market
+title: Advice for Your First Time at the Faerie Market
 subtitle:
-author: ibedita-sen
+author: nibedita-sen
 author-2:
 author-3:
 editor: julia-rios
