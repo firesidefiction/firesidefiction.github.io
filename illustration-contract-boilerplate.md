@@ -21,9 +21,9 @@ The Illustration should pertain to the story `[Title of the Story]` by `[Author 
 ## Schedule
 
 ### Project Milestones
-- Thumbnails and/or pencils are due to Fireside by `[Due date]`
-- Feedback from Fireside is due to the Artist by `[Due date]`
-- Final delivery of illustration to Fireside, accompanied by the Artist's invoice, is due by `[Due date]`
+- At least 3 thumbnail sketches are due to Fireside by `[Due date]`. Feedback is due to the Artist by `[Due date]`.
+- A refined sketch is due to Fireside by  `[Due date]`. Feedback is due to the Artist by `[Due date]`.
+- Final delivery of illustration to Fireside, accompanied by the Artist's invoice, is due by `[Due date]`.
 
 _The delivery of the final files by the Artist is contingent upon payment of fee in full by Fireside._
 
