@@ -18,7 +18,7 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-03-03 01:00:01 -0500
 permalink: rule-of-thirds
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/011_Fireside_Quarterly_Rule_of_Thirds.mp3
 teaser: A scientist struggles to maintain her self-control in dark, flooded tunnels deep beneath the earth.
 art:
 artcaption:
