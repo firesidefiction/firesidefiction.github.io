@@ -6,7 +6,7 @@ issue-cover: issue-77-cover.png
 issue-buy-link:
 title: Rule of Thirds
 subtitle:
-author: l-h-moore
+author: lh-moore
 author-2:
 author-3:
 editor: dominik-parisien
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Deep, dark, and far underground are the world’s mysteries that remain, and I have been trying to discover them for my entire life. I stand here knowing that I am about to leave everything and everyone on land behind. As I slip into the warmth of the water, it surrounds me. Every time it is an embrace, a homecoming. One that even a hooded wetsuit or equipment or tanks does not distance me from. It is the unexpected that calls me. The thrill and sense of impending discovery and wonder that draws me back over and over and over again.
 
@@ -55,13 +55,13 @@ Her mouth twisted as she looked at me with sad, fear-filled eyes. “But why, ba
 
 
 
-• • •
+----
 
 If only she could see what I see: The beauty of geology. These ancient places only a few — or no — humans have ever seen. Forests of delicate stalactites and stalagmites. Limestone formations like something out of a sculptor’s imagination. Ones like bells. Others like frozen curtains of flowstone waterfalls. Shafts with walls that remind me of chipped arrowheads. Cream and rust colors abound. Water so pure that it changes from crystal clear as the air itself to teals and midnight blues. I love these places with their recesses and nooks and their isolation. Of being beyond everything. There is a stillness that I move through. There is also a stillness of my mind in these places that are so otherworldly and alien although we have not left Earth at all.
 
 
 
-• • •
+----
 
 
 
@@ -69,7 +69,7 @@ Our descent is quick. The entrance is still filtering light above us, but we wil
 
 
 
-• • •
+----
 
 
 
@@ -91,7 +91,7 @@ Air is life.
 
 
 
-• • •
+----
 
 
 
@@ -105,7 +105,7 @@ And then he didn’t come up.
 
 
 
-• • •
+----
 
 
 
@@ -211,7 +211,7 @@ I take its hand.
 
 
 
-• • •
+----
 
 
 
