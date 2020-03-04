@@ -9,8 +9,8 @@ role-2:
 role-3:
 title: Victor Ramos — Work in Fireside
 description: Narrator
-twitter-handle:
-profile-pic: victor-ramos.jpg
+twitter-handle: donvictorramos
+profile-pic:
 website-url:
 short-name: victor-ramos
 permalink: victor-ramos
