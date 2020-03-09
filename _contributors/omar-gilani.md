@@ -9,7 +9,7 @@ role-2:
 role-3:
 title: Omar Gilani — Work in Fireside
 description: Illustrator
-twitter-handle: omardraws
+twitter-handle: omargdraws
 profile-pic: omar-gilani.jpg
 website-url:
 short-name: omar-gilani
