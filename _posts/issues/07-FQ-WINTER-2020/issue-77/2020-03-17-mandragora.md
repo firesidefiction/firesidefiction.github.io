@@ -18,7 +18,7 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-03-17 01:00:01 -0500
 permalink: mandragora
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/014_Fireside_Quarterly_Mandragora.mp3
 teaser: A woman receives a strange, crooning root as a parting gift from her dead mother.  
 art:
 artcaption:
@@ -33,8 +33,9 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
+
 The mandrake root is the same deep brown as Kavya’s skin. Its limbs are chunky and tuberous, and its fibrous skull has the weight and feel of a coconut in her palm as she scoops it gently from the soil-filled tote.
 
 It squirms as she slides it into the bowl of milk, but then it falls still.
@@ -45,11 +46,7 @@ _Don’t do anything to piss it off,_ the witch had warned. _You don’t want to
 
 Geoff will be here soon. Kavya sucks the milk and blood off her finger and backs carefully out from underneath the bed.
 
-
-
 ----
-
-
 
 She’s distracted that night, but so is Geoff, who doesn’t notice her stealing glances at the bed. They order Chinese food and then kiss for a while on the couch, tasting black bean sauce on each other’s lips, but when she moves his hand between her thighs, he curls it back and yawns.
 
@@ -115,11 +112,7 @@ The mandrake has no eyes that she can see, only fingernail-shaped indents to sug
 
 A shiver travels down her spine. She pulls her finger gently free and crawls out from under the bed as fast as she can.
 
-
-
 ----
-
-
 
 Geoff comes by again on day seven. Kavya meets him at the door with a kiss that lingers and then turns urgent, bowing them both back against the wall, his hands on her hips, until they have to come back up for air. She links her fingers into his to pull him towards the couch (not the bed, not with what’s under it), but he peers at it and stops, looking puzzled. “Babe,” he says. “What’s this?”
 
