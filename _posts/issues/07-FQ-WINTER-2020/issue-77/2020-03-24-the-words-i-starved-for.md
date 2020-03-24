@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote: This story depicts physical abuse against a child
 generalnote:
-published: false
+published: true
 ---
 Someone made me invisible, when I was small, and no one ever saw me again. I’ve been here in my house ever since.
 
