@@ -109,11 +109,11 @@ The door will be next, and then the girl. This is how it goes.
 
 I don’t watch, but I don’t leave her side.
 
-_Things are getting worse.
+_Things are getting worse._
 
-My mother has stopped stepping between us. Too many teeth last time. Harder to hide his temper from the neighbors when balusters are missing. The phone rings and something in her voice sets me running to my room.
+_My mother has stopped stepping between us. Too many teeth last time. Harder to hide his temper from the neighbors when balusters are missing. The phone rings and something in her voice sets me running to my room._
 
-Mama comes looking for me, to hide me. But I’ve already slipped into the space behind my closet. It should be patched up by now, but he forgot to do it. He probably forgot how he put it there too, with fists and feet and me. “Don’t come out till I call for you,” she shouts to no one as his car rumbles up in front of the house._
+_Mama comes looking for me, to hide me. But I’ve already slipped into the space behind my closet. It should be patched up by now, but he forgot to do it. He probably forgot how he put it there too, with fists and feet and me. “Don’t come out till I call for you,” she shouts to no one as his car rumbles up in front of the house._
 
 
 
@@ -151,9 +151,9 @@ I see you. I see you. I see you. You are not alone.
 
 
 
-_He’s throwing things again. Glasses. Bottles. Mama. Me.
+_He’s throwing things again. Glasses. Bottles. Mama. Me._
 
-Mama is okay... mostly. I am not. I am already spilling into the pine at the foot of the stairs._
+_Mama is okay... mostly. I am not. I am already spilling into the pine at the foot of the stairs._
 
 Even though the parents pretend not to know the thing that they know, pretend that things are as pretty and fine as their outdoor faces, pretend that doing nothing is doing something — the boy is always worse with her when they’re not around to chirp at him.
 
