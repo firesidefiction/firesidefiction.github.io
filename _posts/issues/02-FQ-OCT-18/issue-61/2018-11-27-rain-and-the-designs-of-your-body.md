@@ -6,7 +6,7 @@ issue-cover: issue-61-cover.png
 issue-buy-link:
 title: Rain and the Designs of Your Body
 subtitle:
-author:
+author: j-m-guzman
 author-2:
 author-3:
 editor: julia-rios

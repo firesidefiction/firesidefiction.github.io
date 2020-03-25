@@ -10,7 +10,7 @@ author: sara-norja
 author-2:
 author-3:
 editor: julia-rios
-illustrator:
+illustrator: satu-kettunen
 copyeditor: chelle-parker
 selector:
 translator:

@@ -6,7 +6,7 @@ issue-cover: issue-63-cover.png
 issue-buy-link:
 title: By the Storytelling Fire
 subtitle:
-author:
+author: jaymee-goh
 author-2:
 author-3:
 editor: julia-rios
