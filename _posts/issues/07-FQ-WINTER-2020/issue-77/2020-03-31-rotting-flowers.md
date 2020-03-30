@@ -18,7 +18,7 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-03-31 01:00:01 -0500
 permalink: rotting-flowers
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/008_Fireside_Quarterly_Rotting_Flowers.mp3
 teaser: A heart-wrenching poem on motherhood and rage.
 art:
 artcaption:
