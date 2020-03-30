@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote: This poem depicts physical assault and sexual violence against women.
 generalnote:
-published: false
+published: true
 ---
 I’m going to tell you a story, a true story. A black man with a black wife and a black son calls himself pro-black.... Then, twists his mouth to set my womanhood on fire, says he does not want a daughter, bathes in my ashes. The black man’s unborn daughter screams at his cruelty but he drowns her too.
 
