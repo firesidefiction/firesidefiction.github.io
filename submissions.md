@@ -14,7 +14,7 @@ Fireside holds a submissions period for each upcoming issue of _Fireside Quarter
 
 - **August 23, 2020 to August 27, 2020**<br/>Submissions period for the Summer 2021 Issue
 
-- **November 30, 2020 to December 4, 2020**<br/>Submissions period for the Summer 2021 Issue
+- **November 30, 2020 to December 4, 2020**<br/>Submissions period for the Autumn 2021 Issue
 
 ---
 
