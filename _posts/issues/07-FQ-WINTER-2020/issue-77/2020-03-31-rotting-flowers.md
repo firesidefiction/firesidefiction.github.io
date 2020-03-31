@@ -18,7 +18,7 @@ narrator: daniela-acitelli
 letterer:
 date: 2020-03-31 01:00:01 -0500
 permalink: rotting-flowers
-audiourl:
+audiourl: http://traffic.libsyn.com/firesidemagazine/008_Fireside_Quarterly_Rotting_Flowers.mp3
 teaser: A heart-wrenching poem on motherhood and rage.
 art:
 artcaption:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote: This poem depicts physical assault and sexual violence against women.
 generalnote:
-published: false
+published: true
 ---
 I’m going to tell you a story, a true story. A black man with a black wife and a black son calls himself pro-black.... Then, twists his mouth to set my womanhood on fire, says he does not want a daughter, bathes in my ashes. The black man’s unborn daughter screams at his cruelty but he drowns her too.
 
