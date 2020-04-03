@@ -18,7 +18,7 @@ narrator: victor-ramos
 letterer:
 date: 2020-04-07 01:00:01 -0500
 permalink: gender-and-other-faulty-software
-audiourl: http://traffic.libsyn.com/firesidemagazine/Gender_and_Other_Faulty_Software.m4a
+audiourl: http://traffic.libsyn.com/firesidemagazine/Gender_and_Other_Faulty_Software.mp3
 teaser: A sentient ship's technician encounters a very nonbinary situation.
 art:
 artcaption:
