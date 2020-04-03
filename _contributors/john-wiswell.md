@@ -15,4 +15,4 @@ website-url:
 short-name: john-wiswell
 permalink: john-wiswell
 ---
-John (@Wiswell) is a writer who lives where New York keeps all of its trees. He has been published in Uncanny Magazine, Nature Futures, and Podcastle.
+John (@Wiswell) is a writer who lives where New York keeps all of its trees. He has been published in _Uncanny Magazine_, _Nature Futures_, and _Podcastle_.
