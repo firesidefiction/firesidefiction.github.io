@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 **Log001:** This is my eighty-first ship reclamation in four weeks for UniClaim. I never knew there were so many abandoned vessels in the asteroid belt. They’re going to make a killing reselling them.
