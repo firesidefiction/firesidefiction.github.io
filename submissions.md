@@ -4,11 +4,13 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently closed to submissions. During our submissions periods, there will be a form for uploading your submission on this page.
+**Fireside is currently open to short story submissions for the Winter 2021 Issue of _Firesdie Quarterly_, edited by Danny Lore. We will be accepting submissions until Friday, April 17, 2020 at 6pm EST.**
 
-Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following periods: <!--We have no upcoming submissions dates announced for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.-->
+To submit your manuscript for consideration, please read our [submissions guidelines for short stories](#short-stories) and then fill in the form that follows our guidelines.
 
-- **April 13, 2020 at 9am EST to April 17, 2020 at 6pm EST**<br/>Submissions period for the Winter 2021 Issue, edited by Danny Lore
+Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following periods:
+
+<!--We have no upcoming submissions dates announced for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.-->
 
 - **June 15, 2020 to June 19, 2020**<br/>Submissions period for the Spring 2021 Issue
 
@@ -22,13 +24,6 @@ Fireside holds a submissions period for each upcoming issue of _Fireside Quarter
 
 We welcome previously unpublished work ('published' includes work posted on Patreon or on a blog) in English or Spanish from all writers, and we are especially interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
 
-Below you will find our submissions guidelines for:
-- [Short Stories](#short-stories)
-- [Poetry](#poetry)
-- [Non-Fiction](#non-fiction)
-- [Novels and Novellas](#novels-and-novellas)
-- [Artwork](#artwork)
-
 If you have any questions about how to submit please email us at: [questions@firesidefiction.com](mailto:questions@firesidefiction.com).
 
 ### Accessibility
@@ -40,9 +35,9 @@ Any submissions sent via email will be deleted unread.
 
 ## Short Stories
 
-We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories. We especially love to see very short pieces that still tell great stories and make us laugh, cry, or transport us to new worlds. We love short short stories, like Karl Dandenell's '[We Who Stay Behind](https://firesidefiction.com/we-who-stay-behind);' '[Junebug's Magical Magnificent Mercurial Barbershop](https://firesidefiction.com/junebugs-magical-magnificent-mercurial-barbershop)' by Malon Edwards, and of course, '[Parasitismo](https://firesidefiction.com/parasitismo),' by Alberto Chimal (¡sí, aquí también se habla español!).
+We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories.
 
-<!--Please read the following guidelines, then use the form below to submit your work.-->
+Please read the following guidelines, then use the form below to submit your work.
 
 ### Please submit:
 - Stories in English or Spanish
@@ -64,28 +59,10 @@ We accept short stories up to 3,000 words. Our budget allows us to pay for up to
 
 ### What to expect from us:
 - Fireside acquires English language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
-- First responses (either a rejection or a second round notice) within approximately one month of the end of our reading period.
+- First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of June, 2020.
 - Payment of 12.5 cents per word
 
-<!--iframe class="airtable-embed" src="https://airtable.com/embed/shrm9Os6jrihbx9yh?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="1750" style="background: transparent; border: 1px solid #ccc;"></iframe-->
-
-----
-
-## Poetry
-
-Fireside is currently closed to submissions for poetry. We don't have upcoming dates to announce.
-
-----
-
-## Non-Fiction
-
-Fireside is currently closed to submissions for nonfiction. We don't have upcoming dates to announce.
-
-----
-
-## Novels and Novellas
-
-Fireside is currently closed to submissions for novels and novellas. We don't have upcoming dates to announce.
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrVj8DBQilISw9uc?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="1993" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ----
 
@@ -94,3 +71,21 @@ Fireside commissions original artwork for specific stories. If you send us a lin
 
 ### What to expect from us:
 - Fireside acquires worldwide rights in print and digital formats, and ownership of all original art remains with the Artist. Please see our [Illustration Contract Boilerplate](https://firesidefiction.com/legal/illustration-contract-boilerplate) for the full text of our contract.
+
+----
+
+## Poetry
+
+Fireside is closed to submissions for poetry. We don't have upcoming dates to announce.
+
+----
+
+## Non-Fiction
+
+Fireside is closed to submissions for nonfiction. We don't have upcoming dates to announce.
+
+----
+
+## Novels and Novellas
+
+Fireside is closed to submissions for novels and novellas. We don't have upcoming dates to announce.
