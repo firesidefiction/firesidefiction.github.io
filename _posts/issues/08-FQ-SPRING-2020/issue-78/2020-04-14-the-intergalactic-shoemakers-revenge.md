@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 Space pirates get all the attention. They get the chromeware clink of toasts in the station’s coolest underdeck bars. They get the echo-whispers of gossip in the civilian quarter, though there’s nothing civil about their ways. They even get clickbeat songs written about them.
