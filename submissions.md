@@ -3,14 +3,14 @@ layout: page
 title:  "Submissions Guidelines"
 permalink: submissions
 ---
+Firesie is currently closed for submissions.
+<!-- **Fireside is currently open to short story submissions for the Winter 2021 Issue of _Fireside Quarterly_, edited by Danny Lore. We will be accepting submissions until Friday, April 17, 2020 at 6pm EST.**
 
-**Fireside is currently open to short story submissions for the Winter 2021 Issue of _Fireside Quarterly_, edited by Danny Lore. We will be accepting submissions until Friday, April 17, 2020 at 6pm EST.**
-
-To submit your manuscript for consideration, please read our [submissions guidelines for short stories](#short-stories) and then fill in the form that follows our guidelines.
+To submit your manuscript for consideration, please read our [submissions guidelines for short stories](#short-stories) and then fill in the form that follows our guidelines.-->
 
 Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following periods:
 
-<!--We have no upcoming submissions dates announced for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.-->
+We have no upcoming submissions dates announced for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates. During open submissions periods, there will be a form on this page for uploading your submission.
 
 - **June 15, 2020 to June 19, 2020**<br/>Submissions period for the Spring 2021 Issue
 
@@ -62,7 +62,7 @@ Please read the following guidelines, then use the form below to submit your wor
 - First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of June, 2020.
 - Payment of 12.5 cents per word
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrVj8DBQilISw9uc?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="1993" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<!--script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrVj8DBQilISw9uc?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="1993" style="background: transparent; border: 1px solid #ccc;"></iframe-->
 
 ----
 
