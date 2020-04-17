@@ -3,10 +3,7 @@ layout: page
 title:  "Submissions Guidelines"
 permalink: submissions
 ---
-Firesie is currently closed for submissions.
-<!-- **Fireside is currently open to short story submissions for the Winter 2021 Issue of _Fireside Quarterly_, edited by Danny Lore. We will be accepting submissions until Friday, April 17, 2020 at 6pm EST.**
-
-To submit your manuscript for consideration, please read our [submissions guidelines for short stories](#short-stories) and then fill in the form that follows our guidelines.-->
+Fireside is currently closed for submissions.
 
 Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following periods:
 
