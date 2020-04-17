@@ -34,7 +34,7 @@ Any submissions sent via email will be deleted unread.
 
 We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories.
 
-Please read the following guidelines, then use the form below to submit your work.
+<!--Please read the following guidelines, then use the form below to submit your work.-->
 
 ### Please submit:
 - Stories in English or Spanish
