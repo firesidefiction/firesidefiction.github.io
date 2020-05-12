@@ -18,7 +18,7 @@ narrator: victor-ramos
 letterer:
 date: 2020-05-12 01:00:01 -0500
 permalink: for-change-is-the-moons-domain-and-tonight-she-watches
-audiourl:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/For_Change_is_the_Moons_Domain_and_Tonight_She_Watches.mp3
 teaser: A tale of yearning, and of growing into your self.
 art:
 artcaption:
