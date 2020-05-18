@@ -18,7 +18,7 @@ narrator: victor-ramos
 letterer:
 date: 2020-05-19 01:00:01 -0500
 permalink: and-for-my-next-universe
-audiourl:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/And_For_My_Next_Universe.mp3
 teaser: A tale of show business, and messing with quantum forces.
 art:
 artcaption:
