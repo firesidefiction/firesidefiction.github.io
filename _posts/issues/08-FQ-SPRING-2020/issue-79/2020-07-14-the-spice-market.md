@@ -16,7 +16,7 @@ selector:
 translator:
 narrator: victor-ramos
 letterer:
-date: 2020-05-12 01:00:01 -0500
+date: 2020-07-14 01:00:01 -0500
 permalink: the-spice-market
 audiourl:
 teaser:

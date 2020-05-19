@@ -4,7 +4,7 @@ category: short story
 issue: 79, May 2020
 issue-cover: issue-79-cover.png
 issue-buy-link:
-title: And For My Next Universe…
+title: "And For My Next Universe…"
 subtitle:
 author: matthew-castleman
 author-2:
@@ -18,8 +18,8 @@ narrator: victor-ramos
 letterer:
 date: 2020-05-19 01:00:01 -0500
 permalink: and-for-my-next-universe
-audiourl:
-teaser:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/And_For_My_Next_Universe.mp3
+teaser: A tale of show business, and messing with quantum forces.
 art:
 artcaption:
 spanish-language:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 A thousand rabbits poured from the hat. Something had gone very wrong. They hopped straight off the stage and through the petrified crowd. White rabbits, black rabbits, grey and brown rabbits, big plump thumpers and little cottony wisps.
 
