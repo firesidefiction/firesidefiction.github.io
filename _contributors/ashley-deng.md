@@ -11,7 +11,7 @@ title: Ashley Deng — Work in Fireside
 description:
 twitter-handle:
 profile-pic: ashley-deng.jpg
-website-url:
+website-url: aedeng.wordpress.com
 short-name: ashley-deng
 permalink: ashley-deng
 bio-spanish:
