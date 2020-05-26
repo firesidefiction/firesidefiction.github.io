@@ -4,7 +4,7 @@ credit-name: Michelle Wong
 first-name: Michelle
 last-name: Wong
 file-as: w
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Michelle Wong — Work in Fireside

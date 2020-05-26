@@ -4,7 +4,7 @@ credit-name: Katie Chandler
 first-name: Katie
 last-name: Chandler
 file-as: c
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Katie Chandler — Work in Fireside

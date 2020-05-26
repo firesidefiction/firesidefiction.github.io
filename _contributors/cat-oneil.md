@@ -4,7 +4,7 @@ credit-name: Cat O'Neil
 first-name: Cat
 last-name: O'Neil
 file-as: o
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Cat O'Neil — Work in Fireside

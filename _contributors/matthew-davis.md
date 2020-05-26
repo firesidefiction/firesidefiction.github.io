@@ -4,7 +4,7 @@ credit-name: Matthew Davis
 first-name: Matthew
 last-name: Davis
 file-as: d
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Matthew Davis — Work in Fireside

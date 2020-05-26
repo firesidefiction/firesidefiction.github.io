@@ -4,7 +4,7 @@ credit-name: Amanda Makepeace
 first-name: Amanda
 last-name: Makepeace
 file-as: m
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Amanda Makepeace — Work in Fireside

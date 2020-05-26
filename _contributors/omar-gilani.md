@@ -4,7 +4,7 @@ credit-name: Omar Gilani
 first-name: Omar
 last-name: Gilani
 file-as: g
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Omar Gilani — Work in Fireside

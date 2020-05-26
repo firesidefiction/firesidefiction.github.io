@@ -4,7 +4,7 @@ credit-name: Saleha Chowdhury
 first-name: Saleha
 last-name: Chowdhury
 file-as: c
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Saleha Chowdhury — Work in Fireside

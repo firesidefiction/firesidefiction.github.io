@@ -4,7 +4,7 @@ credit-name: Maggie Chiang
 first-name: Maggie
 last-name: Chiang
 file-as: c
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Maggie Chiang — Work in Fireside

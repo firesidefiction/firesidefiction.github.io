@@ -4,7 +4,7 @@ credit-name: Dawid Planeta
 first-name: Dawid
 last-name: Planeta
 file-as: p
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Dawid Planeta — Work in Fireside
