@@ -1,0 +1,59 @@
+.home-stream {
+  display: flex;
+	max-width: 58em;
+	margin: 0 auto;
+  justify-content: space-between;
+  h2 {
+    border-top: 1px solid $color__base;
+    margin: 1em 0;
+    padding: 1em 0 0;
+  }
+}
+
+.home-magazine {
+  flex-basis: auto;
+  flex-grow: 3;
+  flex-shrink: 0;
+  //max-width: 45em;
+  //margin: 0 auto;
+  div {
+    margin: 1em 1em 1em 0;
+  }
+  hr {
+    margin: 2em 0em 1em -1em;
+  }
+  h2 {
+    border-top: 1px solid $color__base;
+    margin: 1em 0;
+    padding: 1em 0 0;
+    &:first-of-type {
+      border: none;
+      padding: 0;
+    }
+  }
+}
+.home-sidebar {
+  flex-basis: 35%;
+  flex-grow: 1;
+  flex-shrink: 0;
+  margin-left: 2em;
+  div {
+    margin: 1em 1em 1em 0;
+  }
+}
+
+.issue-container {
+  display: flex;
+  .ebook-showcase {
+    flex-grow: 1;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+  }
+  .issue-contents {
+    flex-grow: 3;
+    div {
+      margin-top: 0;
+    }
+  }
+}
