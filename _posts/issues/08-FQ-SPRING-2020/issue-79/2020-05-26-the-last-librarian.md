@@ -18,8 +18,8 @@ narrator: victor-ramos
 letterer:
 date: 2020-05-26 01:00:01 -0500
 permalink: the-last-librarian
-audiourl:
-teaser:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/The_Last_Librarian.mp3
+teaser: Guerilla archivists work to liberate culture from a corporate hegemony.
 art:
 artcaption:
 spanish-language:
