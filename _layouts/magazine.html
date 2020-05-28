@@ -24,9 +24,8 @@ layout: default
             {% if item.category == "short story" or item.category == "story" or item.category == "cuento corto" or item.category == "cuento" or item.category == "flash fiction" or item.category == "comic" or item.category == "poem" %}
               <div>
                 <!--p class="category">{{ item.category }}</p-->
-                <h1><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h1>
-                <h3>{% if item.spanish-language %}un {{ item.category }} por{% else %}a {{ item.category }} by{% endif %} {{ item.author }}{% if item.art %}; {% if item.spanish-language %}ilustrado por {{ item.artist }}{% else %}illustrated by{% endif %} {{ item.artist }}{% endif %}</h3>
-                <p>{{ item.teaser  | markdownify }}</p>
+                <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>, {% if item.spanish-language %}un {{ item.category }} por{% else %}a {{ item.category }} by{% endif %} {% assign author = site.contributors | where:'short-name', item.author  | first %}{{ author.credit-name }}{% if item.art %}; {% if item.spanish-language %}ilustrado por {{ item.artist }}{% else %}illustrated by{% endif %} {{ item.artist }}{% endif %}</h3>
+                {{ item.teaser  | markdownify }}
               </div>
             {% endif %}
             {% if item.category == "serial" %}

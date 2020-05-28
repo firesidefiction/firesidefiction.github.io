@@ -1,6 +1,7 @@
 ---
 layout: story
 title:  "Recognition"
+issue: 0
 author: Sarah Gailey
 date:   2017-12-20 01:01:00 -0500
 category: serial

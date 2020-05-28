@@ -14,8 +14,8 @@
   flex-basis: auto;
   flex-grow: 3;
   flex-shrink: 0;
-  //max-width: 45em;
-  //margin: 0 auto;
+  max-width: 62em;
+  margin: 0 auto;
   div {
     margin: 1em 1em 1em 0;
   }
@@ -46,7 +46,8 @@
   display: flex;
   .ebook-showcase {
     flex-grow: 1;
-    max-width: 400px;
+    min-width: 250px;
+    max-width: 250px;
     display: flex;
     flex-direction: column;
   }

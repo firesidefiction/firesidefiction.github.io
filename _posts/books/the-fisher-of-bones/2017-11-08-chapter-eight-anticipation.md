@@ -2,6 +2,7 @@
 layout: story
 title:  "Anticipation"
 author: Sarah Gailey
+issue: 0
 date:   2017-11-08 01:01:00 -0500
 category: serial
 serial-name: The Fisher of Bones
