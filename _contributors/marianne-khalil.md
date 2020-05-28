@@ -4,7 +4,7 @@ credit-name: Marianne Khalil
 first-name: Marianne
 last-name: Khalil
 file-as: k
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Marianne Khalil — Work in Fireside

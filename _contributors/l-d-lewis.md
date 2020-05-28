@@ -5,10 +5,10 @@ first-name: LeKesha
 last-name: Lewis
 file-as: l
 role: Author
-role-2:
+role-2: Editor
 role-3:
 title: L. D. Lewis — Work in Fireside
-description: 
+description: Guest Editor, _Fireside Quarterly_ Spring 2020
 twitter-handle: ellethevillain
 profile-pic: l-d-lewis.jpg
 website-url:

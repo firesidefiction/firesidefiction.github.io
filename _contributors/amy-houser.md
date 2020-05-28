@@ -4,7 +4,7 @@ credit-name: Amy Houser
 first-name: Amy
 last-name: Houser
 file-as: h
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Amy Houser — Work in Fireside

@@ -4,7 +4,7 @@ credit-name: Ora Xu
 first-name: Ora
 last-name: Xu
 file-as: x
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Ora Xu — Work in Fireside

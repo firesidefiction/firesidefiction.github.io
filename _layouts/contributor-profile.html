@@ -14,7 +14,7 @@ layout: default
       <h1>{{ page.credit-name }}</h1>
       {% if page.description %}<h2>{{ page.description | markdownify }}</h2>{% endif %}
       {{ content }}
-      {% if page.website-url %}<p>Website: <a href="http://{{ page.website-url }}">{{ page.website-url }}</a>{% if page.twitter-handle %} • <a href="https://twitter.com/{{ page.twitter-handle }}">@{{ page.twitter-handle }}</a> on Twitter{% endif %}</p>{% endif %}
+      <p>{% if page.website-url %}Website: <a href="http://{{ page.website-url }}">{{ page.website-url }}</a>{% endif %}{% if page.twitter-handle %} • <a href="https://twitter.com/{{ page.twitter-handle }}">@{{ page.twitter-handle }}</a> on Twitter{% endif %}</p>
     </div>
   </div>
   <div class="works-list">
@@ -40,7 +40,7 @@ layout: default
       {% endfor %}
 
       {% assign filtered_editor-2_posts = site.posts | where: 'editor-2', page.short-name %}
-      
+
       {% for post in filtered_editor-2_posts %}
         <li><span class="category">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
           Edited <a href="{{ post.url }}">{{ post.title }}, by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</a></li>

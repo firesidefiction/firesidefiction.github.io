@@ -18,8 +18,8 @@ narrator: victor-ramos
 letterer:
 date: 2020-05-26 01:00:01 -0500
 permalink: the-last-librarian
-audiourl:
-teaser:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/The_Last_Librarian.mp3
+teaser: Guerilla archivists work to liberate culture from a corporate hegemony.
 art:
 artcaption:
 spanish-language:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 I’m in the library, inches from my target, when I get shot in the back. A real library, for chrissake. Who knows why it’s even here? The last one bold enough to be public, after others were reduced to shattered husks during the Decency Riots. The only way to get those high-quality confiscated books now is through pirated copies of electronic archives, a portion of which are about to be recovered — by me.
 

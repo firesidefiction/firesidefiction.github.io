@@ -4,7 +4,7 @@ credit-name: Erik Ly
 first-name: Erik
 last-name: Ly
 file-as: l
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Erik Ly — Work in Fireside

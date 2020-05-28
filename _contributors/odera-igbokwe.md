@@ -4,7 +4,7 @@ credit-name: Odera Igbokwe
 first-name: Odera
 last-name: Igbokwe
 file-as: i
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Odera Igbokwe — Work in Fireside

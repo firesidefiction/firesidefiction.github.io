@@ -4,7 +4,7 @@ credit-name: Kevin Tong
 first-name: Kevin
 last-name: Tong
 file-as: d
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Kevin Tong — Work in Fireside
