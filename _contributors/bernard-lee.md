@@ -4,7 +4,7 @@ credit-name: Bernard Lee
 first-name: Bernard
 last-name: Lee
 file-as: l
-role: Author
+role: illustrator
 role-2:
 role-3:
 title: Bernard Lee — Work in Fireside

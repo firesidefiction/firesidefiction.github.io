@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 79, May 2020
-issue-cover: issue-79-cover.png
+issue: 81, July 2020
+issue-cover: issue-81-cover.png
 issue-buy-link:
 title: Even the Clearest Water
 subtitle:
@@ -16,7 +16,7 @@ selector:
 translator:
 narrator: victor-ramos
 letterer:
-date: 2020-05-21 01:00:01 -0500
+date: 2020-07-28 01:00:01 -0500
 permalink: even-the-clearest-water
 audiourl:
 teaser:

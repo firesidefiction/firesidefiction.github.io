@@ -9,11 +9,11 @@ role-2:
 role-3:
 title: Ashley Deng — Work in Fireside
 description:
-twitter-handle:
+twitter-handle: ashesandmochi
 profile-pic: ashley-deng.jpg
 website-url: aedeng.wordpress.com
 short-name: ashley-deng
 permalink: ashley-deng
 bio-spanish:
 ---
-**Ashley Deng** is a Canadian-born Chinese-Jamaican writer with a love of fantasy and all things Gothic. Currently working through a degree in biochemistry, she spends her spare time overthinking genre fiction and writing.
+Ashley Deng is a Canadian-born Chinese-Jamaican writer with a love of fantasy and all things Gothic. She studied biochemistry with a particular interest in making accessible the often-cryptic world of science and medicine. When not writing, she spends her spare time overthinking society and culture and genre fiction. You can find those ramblings at baroqueintentions.wordpress.com or on Twitter at @ashesandmochi.

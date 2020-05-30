@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 79, May 2020
-issue-cover: issue-79-cover.png
+issue: 81, July 2020
+issue-cover: issue-81-cover.png
 issue-buy-link:
 title: The Spice Market
 subtitle:
