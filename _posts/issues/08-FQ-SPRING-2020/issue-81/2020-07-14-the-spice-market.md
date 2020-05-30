@@ -1,8 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 79, May 2020
-issue-cover: issue-79-cover.png
+issue: 81, July 2020
+issue-cover: issue-81-cover.png
 issue-buy-link:
 title: The Spice Market
 subtitle:
@@ -19,7 +19,7 @@ letterer:
 date: 2020-07-14 01:00:01 -0500
 permalink: the-spice-market
 audiourl:
-teaser:
+teaser: A story about discovering new tastes, and the blooming of commerce.
 art:
 artcaption:
 spanish-language:
