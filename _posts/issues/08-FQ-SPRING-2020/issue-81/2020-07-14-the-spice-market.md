@@ -19,7 +19,7 @@ letterer:
 date: 2020-07-14 01:00:01 -0500
 permalink: the-spice-market
 audiourl:
-teaser:
+teaser: A story about discovering new tastes, and the blooming of commerce.
 art:
 artcaption:
 spanish-language:

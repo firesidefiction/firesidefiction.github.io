@@ -16,9 +16,15 @@ selector:
 translator:
 narrator: victor-ramos
 letterer:
+<<<<<<< HEAD
 date: 2020-07-14 01:00:01 -0500
 permalink: sun-moon-and-wretched-star
 audiourl:
+=======
+date: 2020-06-02 01:00:01 -0500
+permalink: sun-moon-and-wretched-star
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/Sun_Moon_and_Wretched_Star.mp3
+>>>>>>> master
 teaser: A girl grapples with her family's past through the haze of incense on her Pohpoh's altar.
 art: sun-moon-and-wretched-star.png
 artcaption: An altar. Incense burns.
@@ -33,7 +39,11 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
+<<<<<<< HEAD
 published: false
+=======
+published: true
+>>>>>>> master
 ---
 
 Willow’s family thanks the dead with food. They revere them with gifts, a mix of clementines, rationed chicken on rice, and incense, before an altar filled with portraits and covered in scrolls. She appreciates the beauty of the calligraphy though she can’t read its words, and she’s never asked about the people in the pictures. They take up this shed, so many thousands of kilometres away from their homeland; obscured by the shadows cast in the candlelight. Portraits of men and of women with shaven heads and long, braided queues.
