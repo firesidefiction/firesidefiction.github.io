@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 30 — From the Editor"
-author: Brian J. White
+author: brian-j-white
 date:   2016-02-07 12:01:00 -0500
 category: announcement
 permalink: /issue30/front-matter/from-the-editor/

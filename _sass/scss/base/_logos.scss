@@ -19,4 +19,10 @@
 		visibility: hidden;
 		display: none;
 	}
+	svg g {
+		fill: $color__fireside-red;
+		&#Group-2 {
+			fill: #ffffff;
+		}
+	}
 }

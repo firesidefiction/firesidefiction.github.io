@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Here are the stories we bought in March, along with some statistics on race and ethnicity"
-author: Brian J. White
+author: brian-j-white
 date: 2017-04-13 00:01:00 -0500
 category: news
 permalink: /march2017-submissions-results

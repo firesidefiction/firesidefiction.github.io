@@ -2,7 +2,7 @@
 layout: post
 title: "Change Comes Unevenly: Protecting Trans Rights with the Yes on 3 Campaign"
 author: A. A. McNamara
-editor: Julia Rios
+editor: julia-rios
 date: 2019-06-20 01:00:01 -0500
 category: essay
 permalink: change-comes-unevenly-protecting-trans-rights-with-the-yes-on-3-campaign

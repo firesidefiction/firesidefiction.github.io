@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Regarding Patreon'
-author: Pablo Defendini
+author: pablo-defendini
 date:   2017-12-07 01:01:00 -0500
 category: news
 permalink: /regarding-patreon

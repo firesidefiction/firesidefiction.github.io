@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 21 — From the Editor"
-author: Brian J. White
+author: brian-j-white
 date:   2015-03-07 12:01:00 -0500
 category: announcement
 permalink: /issue21/front-matter/from-the-editor/

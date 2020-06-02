@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Little Sunshine"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2017-03-18 12:01:00 -0500
 category: news
 permalink: /a-little-sunshine

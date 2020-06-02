@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 5 — Hugos and Stories and Art, Oh Yeah!"
-author: Brian J. White
+author: brian-j-white
 date:   2013-09-07 12:01:00 -0500
 category: announcement
 permalink: /issue5/front-matter/introduction/

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Hurricane Bookstore Wrap-Up'
-author: Pablo Defendini
+author: pablo-defendini
 date:   2017-10-19 01:01:00 -0500
 category: news
 permalink: /hurricane-bookstore-wrapup

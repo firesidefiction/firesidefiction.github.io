@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing the Cover Reveal for Lilith Saintcrow's Rattlesnake Wind"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2018-11-29 01:00:01 -0500
 category: news
 permalink: rattlesnake-wind-cover-reveal

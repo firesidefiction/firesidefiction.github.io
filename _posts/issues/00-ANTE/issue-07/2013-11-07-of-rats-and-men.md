@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 7 — Of Rats and Men"
-author: Brian J. White
+author: brian-j-white
 date:   2013-11-07 12:01:00 -0500
 category: announcement
 permalink: /issue7/front-matter/of-rats-and-men/

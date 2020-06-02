@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing The Fisher of Bones by Sarah Gailey"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2017-07-13 14:01:00 -0500
 category: news
 permalink: /announcing-the-fisher-of-bones-by-sarah-gailey

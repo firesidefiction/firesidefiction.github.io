@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 12 — Empty Inside"
-author: Brian J. White
+author: brian-j-white
 date:   2014-04-07 12:01:00 -0500
 category: announcement
 permalink: /issue12/front-matter/from-the-editor/

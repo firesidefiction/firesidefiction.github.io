@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "Fireside Quarterly Oct '18 Cover Reveal"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2018-08-20 01:00:01 -0500
 category: news
 permalink: oct-issue-cover-reveal

@@ -3,7 +3,7 @@ layout: thunderstorm
 issue: 0
 title: Thunderstorm in Glasgow, July 25, 2013
 author: Amal El-Mohtar, illustrated by Molly Crabapple
-editor: Julia Rios
+editor: julia-rios
 date: 2018-01-17 01:00:01 -0500
 category: poem
 permalink: thunderstorm-in-glasgow-july-25-2013

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Support Fireside — Subscribe to Fireside Quarterly
-author: Pablo Defendini
+author: pablo-defendini
 date: 2018-12-12 01:00:01 -0500
 category: announcement
 permalink: support-fireside-subscribe-to-fireside-quarterly

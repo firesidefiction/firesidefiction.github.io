@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Don't Talk to Strangers"
-author: Brian J. White
+author: brian-j-white
 date:   2017-03-05 12:01:00 -0500
 category: news
 permalink: /dont-talk-to-strangers

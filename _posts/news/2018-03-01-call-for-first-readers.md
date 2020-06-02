@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Call for First Readers
-author: Elsa Sjunneson
+author: elsa-sjunneson
 date:   2018-03-01 01:01:00 -0500
 category: news
 permalink: call-for-first-readers

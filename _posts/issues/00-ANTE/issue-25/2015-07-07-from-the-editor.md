@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 25 — From the Editor"
-author: Brian J. White
+author: brian-j-white
 date:   2015-07-07 12:01:00 -0500
 category: announcement
 permalink: /issue25/front-matter/from-the-editor/

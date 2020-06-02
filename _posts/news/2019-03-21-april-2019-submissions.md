@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Announcing our Next Submissions Period
-author: Pablo Defendini
+author: pablo-defendini
 date:   2019-03-21 01:01:00 -0500
 category: news
 permalink: april-2019-submissions

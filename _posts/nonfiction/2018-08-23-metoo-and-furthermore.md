@@ -2,7 +2,7 @@
 layout: conversation-harassment
 title: "#MeToo, and Furthermore"
 author: Hillary Monahan
-editor: Julia Rios
+editor: julia-rios
 date: 2018-09-20 01:00:01 -0500
 category: essay
 permalink: metoo-and-furthermore

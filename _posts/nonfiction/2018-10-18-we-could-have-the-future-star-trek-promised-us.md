@@ -2,7 +2,7 @@
 layout: article
 title: We Could Have the Future Star Trek Promised Us
 author: Danilo Campos
-editor: Julia Rios
+editor: julia-rios
 date: 2018-10-18 01:00:01 -0500
 category: essay
 permalink: we-could-have-the-future-star-trek-promised-us

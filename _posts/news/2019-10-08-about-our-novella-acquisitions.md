@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About our Acquisitions"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2019-10-08 01:00:01 -0500
 category: update
 permalink: about-our-acquisitions

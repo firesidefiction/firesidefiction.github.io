@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Announcing the Hurricane Relief Bookstore
-author: Pablo Defendini
+author: pablo-defendini
 date:   2017-09-18 09:01:00 -0500
 category: news
 permalink: /hurricane-bookstore

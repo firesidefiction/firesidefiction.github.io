@@ -1,7 +1,7 @@
 ---
 layout: blackspecfic
 title: "Announcing this year's #BlackSpecFic editor"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2018-05-30 01:00:01 -0500
 category: news
 permalink: announcing-this-years-blackspecfic-editor

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 9 — Aw, geez mom!"
-author: Brian J. White
+author: brian-j-white
 date:   2014-01-07 12:01:00 -0500
 category: announcement
 permalink: /issue9/front-matter/from-the-editor/

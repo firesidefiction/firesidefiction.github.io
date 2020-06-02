@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 11 — Cold, Aching Hearts"
-author: Brian J. White
+author: brian-j-white
 date:   2014-03-07 12:01:00 -0500
 category: announcement
 permalink: /issue11/front-matter/from-the-editor/

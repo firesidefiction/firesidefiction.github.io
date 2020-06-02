@@ -1,7 +1,7 @@
 ---
 layout: frontmatter
 title: Table of Contents
-author: Pablo Defendini
+author: pablo-defendini
 published: false    
 proofread: true
 ---

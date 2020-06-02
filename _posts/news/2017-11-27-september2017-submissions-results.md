@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stories Accepted and Survey Stats from September of 2017
-author: Julia Rios
+author: julia-rios
 date: 2017-12-01 01:01:00 -0500
 category: news
 permalink: /september2017-submissions-results

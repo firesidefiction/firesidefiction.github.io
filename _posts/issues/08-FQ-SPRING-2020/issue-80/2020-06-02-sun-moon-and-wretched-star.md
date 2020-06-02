@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 80, June 2020
 issue-cover: issue-80-cover.png
-issue-buy-link:
+issue-buy-link: 
 title: Sun, Moon, and Wretched Star
 subtitle:
 author: ashley-deng

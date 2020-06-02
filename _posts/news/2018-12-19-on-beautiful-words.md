@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Beautiful Words"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2018-12-19 01:00:01 -0500
 category: news
 permalink: on-beautiful-words

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  We've been nominated for a Hugo award!
-author: Pablo Defendini
+author: pablo-defendini
 date:   2018-04-05 01:01:00 -0500
 category: news
 permalink: weve-been-nominated-for-a-hugo-award

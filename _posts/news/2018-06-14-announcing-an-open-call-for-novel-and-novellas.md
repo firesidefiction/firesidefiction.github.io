@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "Announcing an Open Call for Novel and Novellas"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2018-06-14 01:00:01 -0500
 category: news
 permalink: announcing-an-open-call-for-novel-and-novellas

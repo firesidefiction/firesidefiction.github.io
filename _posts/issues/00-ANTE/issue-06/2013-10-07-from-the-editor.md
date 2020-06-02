@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 6 — Going to the mat"
-author: Brian J. White
+author: brian-j-white
 date:   2013-10-07 12:01:00 -0500
 category: announcement
 permalink: /issue6/front-matter/going-to-the-mat/

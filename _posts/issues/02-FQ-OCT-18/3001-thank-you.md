@@ -1,7 +1,7 @@
 ---
 layout: backmatter
 title: Thank you for reading Fireside.
-author: Pablo Defendini
+author: pablo-defendini
 published: false    
 proofread: true
 ---

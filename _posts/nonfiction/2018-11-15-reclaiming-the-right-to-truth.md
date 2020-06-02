@@ -2,7 +2,7 @@
 layout: conversation-harassment
 title: Reclaiming the Right to Truth
 author: Tariro Ndoro
-editor: Julia Rios
+editor: julia-rios
 date: 2018-11-15 01:00:01 -0500
 category: essay
 permalink: reclaiming-the-right-to-truth
