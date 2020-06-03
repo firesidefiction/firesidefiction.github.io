@@ -175,7 +175,7 @@ main > section {
 	margin: -1.5em 0 0 0;
 	max-height: 200px;
 	overflow: hidden;
-	background: darken($color__fireside-red, 50%);
+	background: darken($color__main-site, 50%);
 	img {
 		width: 100%;
 		margin: -200px 0 0 0;
@@ -196,7 +196,7 @@ main > section {
 	p {
 		margin-bottom: 0;
 		&:first-child:first-letter {
-		  color: $color__fireside-red;
+		  color: $color__main-site;
 			font-weight: 500;
 			float: left;
 		  font-size: 97px;
