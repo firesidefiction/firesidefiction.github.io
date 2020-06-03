@@ -29,7 +29,9 @@ $color__default: $gray-dark-2;
 // Fireside Red
 $color__fireside-red: #22783D;
 
-$color__product-page: #22783D;
+$color__main-site: #000000;
+
+$color__product-page: $color__main-site;
 
 $color__reverse: #ffffff;
 
@@ -37,7 +39,7 @@ $color__reverse: #ffffff;
 $color__base: $color__default;
 $color__base--light: lighten($color__base, 20%);
 $color__base--dark: darken($color__base, 10%);
-$color__highlight: $color__fireside-red;
+$color__highlight: $color__main-site;
 $color__highlight--focus: lighten($color__highlight, 10%);
 
 //Typography
