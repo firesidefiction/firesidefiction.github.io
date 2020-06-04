@@ -3,14 +3,14 @@ layout: story
 category: short story
 issue: 64, February 2019
 issue-cover: issue-64-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-64-february-2019
 title: Due By the End of the Week
 subtitle:
 author: brandon-obrien
 author-2:
 author-3:
 editor: julia-rios
-illustrator:
+illustrator: ashanti-fortson
 copyeditor: chelle-parker
 selector:
 translator:

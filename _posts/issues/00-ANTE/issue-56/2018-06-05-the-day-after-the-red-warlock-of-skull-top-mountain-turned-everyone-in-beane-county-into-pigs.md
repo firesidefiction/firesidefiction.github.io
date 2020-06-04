@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 56, June 2018
 issue-cover: issue-56-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-56-june-2018
 title: The Day After the Red Warlock of Skull Top Mountain Turned Everyone in Beane County into Pigs
 subtitle:
 author: susan-jane-bigelow

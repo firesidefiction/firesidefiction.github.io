@@ -3,7 +3,7 @@ layout: poem
 category: poem
 issue: 75, January 2020
 issue-cover: issue-75-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-75-january-2020
 title: Skyscraper
 subtitle:
 author: annika-barranti-klein

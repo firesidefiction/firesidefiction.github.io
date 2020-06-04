@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 79, May 2020
 issue-cover: issue-79-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-79-may-2020
 title: The Last Librarian
 subtitle:
 author: trace-yulie

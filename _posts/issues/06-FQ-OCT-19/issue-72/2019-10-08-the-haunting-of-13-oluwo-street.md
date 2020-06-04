@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 72, October 2019
 issue-cover: issue-72-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-72-october-2019
 title: The Haunting of 13 Olúwo Street
 subtitle:
 author: suyi-davies-okungbowa

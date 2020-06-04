@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 49, November 2017
 issue-cover: issue-49-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-49
 title: Portrait of Skull with Man
 subtitle:
 author: vina-jie-min-prasad

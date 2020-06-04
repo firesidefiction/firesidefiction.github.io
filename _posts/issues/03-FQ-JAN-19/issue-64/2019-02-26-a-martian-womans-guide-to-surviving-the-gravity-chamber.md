@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 64, February 2019
 issue-cover: issue-64-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-64-february-2019
 title: "A Martian Woman's Guide to Surviving the Gravity Chamber"
 subtitle:
 author: jennifer-stephan-kapral

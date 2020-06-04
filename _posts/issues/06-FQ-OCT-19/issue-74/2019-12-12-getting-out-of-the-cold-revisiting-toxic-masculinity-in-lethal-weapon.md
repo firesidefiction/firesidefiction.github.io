@@ -3,7 +3,7 @@ layout: post
 category: essay
 issue: 74, December 2019
 issue-cover: issue-74-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-74-december-2019
 title: "Getting Out of the Cold: Revisiting Toxic Masculinity in Lethal Weapon"
 subtitle:
 author: brandon-obrien

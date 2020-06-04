@@ -3,7 +3,7 @@ layout: post
 category: essay
 issue: 65, March 2019
 issue-cover: issue-65-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-65-march-2019
 title: 'Impostor/Abuser: Power Dynamics in Publishing'
 subtitle:
 author: sarah-gailey

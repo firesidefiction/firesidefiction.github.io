@@ -3,7 +3,7 @@ layout: post
 category: essay
 issue: 72, October 2019
 issue-cover: issue-72-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-72-october-2019
 title: White Saviorism and the Brooklyn Hammer Murders
 subtitle:
 author: diana-lu

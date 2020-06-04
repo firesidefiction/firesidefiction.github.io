@@ -3,7 +3,7 @@ layout: poem
 category: poem
 issue: 71, September 2019
 issue-cover: issue-71-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-71-september-2019
 title: Questions to Grow Up On
 subtitle:
 author: ashley-deng

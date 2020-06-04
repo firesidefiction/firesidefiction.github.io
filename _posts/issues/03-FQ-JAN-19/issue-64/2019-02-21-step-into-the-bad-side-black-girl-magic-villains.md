@@ -3,7 +3,7 @@ layout: post
 category: essay
 issue: 64, February 2019
 issue-cover: issue-64-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-64-february-2019
 title: "Step into the Bad Side: Black Girl Magic Villains"
 subtitle:
 author: kenesha-williams

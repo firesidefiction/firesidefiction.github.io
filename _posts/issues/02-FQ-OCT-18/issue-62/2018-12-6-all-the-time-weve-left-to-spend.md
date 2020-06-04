@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 62, December 2018
 issue-cover: issue-62-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-62-december-2018
 title:  All the Time We've Left to Spend
 subtitle:
 author: alyssa-wong

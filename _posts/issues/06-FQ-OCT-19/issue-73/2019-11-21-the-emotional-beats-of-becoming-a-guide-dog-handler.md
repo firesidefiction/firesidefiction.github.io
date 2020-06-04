@@ -3,7 +3,7 @@ layout: post
 category: essay
 issue: 73, November 2019
 issue-cover: issue-73-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-73-november-2019
 title: The Emotional Beats of Becoming a Guide Dog Handler
 subtitle:
 author: elsa-sjunneson

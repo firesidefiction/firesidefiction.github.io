@@ -5,7 +5,7 @@ issue: 51, January 2018
 issue-cover: issue-51-cover.png
 issue-buy-link:
 title: Those We Feed
-subtitle:
+subtitle: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-51-january-2018
 author: layla-al-bedawi
 author-2:
 author-3:

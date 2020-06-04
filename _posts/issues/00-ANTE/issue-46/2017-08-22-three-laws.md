@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 46, August 2017
 issue-cover: issue-46-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-46
 title: Three Laws
 subtitle:
 author: andrea-phillips

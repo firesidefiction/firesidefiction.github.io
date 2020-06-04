@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 43, May 2017
 issue-cover: issue-43-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-43
 title: "Friendly Emily"
 subtitle:
 author: kevin-hearne

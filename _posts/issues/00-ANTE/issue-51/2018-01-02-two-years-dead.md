@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 51, January 2018
 issue-cover: issue-51-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-51-january-2018
 title: Two Years Dead
 subtitle:
 author: kathryn-kania

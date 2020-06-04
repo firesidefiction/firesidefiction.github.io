@@ -3,7 +3,7 @@ layout: poem
 category: poem
 issue: 70, August 2019
 issue-cover: issue-70-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-70-august-2019
 title: How to Spend Your Free Time
 subtitle:
 author: charles-payseur

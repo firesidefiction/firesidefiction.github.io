@@ -3,7 +3,7 @@ layout: story
 category: cuento corto
 issue: 68, June 2019
 issue-cover: issue-68-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-68-june-2019
 title: Larga Distancia
 subtitle:
 author: raquel-castro
@@ -11,7 +11,7 @@ author-2:
 author-3:
 editor: julia-rios
 illustrator:
-copyeditor: 
+copyeditor:
 selector:
 translator:
 narrator: pablo-defendini

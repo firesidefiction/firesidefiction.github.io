@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 79, May 2020
 issue-cover: issue-79-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-79-may-2020
 title: Dirt Under the Nails
 subtitle:
 author: aaron-menzel
@@ -19,7 +19,7 @@ letterer:
 date: 2020-05-05 01:00:01 -0500
 permalink: dirt-under-the-nails
 audiourl: http://traffic.libsyn.com/firesidemagazine/Dirt_Under_the_Nails.mp3
-teaser: A farmer and his robot ruminate on life, craft, and the solitary nature of their work. 
+teaser: A farmer and his robot ruminate on life, craft, and the solitary nature of their work.
 art: dirt-under-the-nails.jpg
 artcaption: A farmer and a robot politic in the field.
 spanish-language:

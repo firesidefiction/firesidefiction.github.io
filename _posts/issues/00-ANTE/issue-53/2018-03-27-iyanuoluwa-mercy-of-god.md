@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 53, March 2018
 issue-cover: issue-53-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-53-march-2018
 title: Iyanuoluwa-Mercy of God
 subtitle:
 author: jojo-bee

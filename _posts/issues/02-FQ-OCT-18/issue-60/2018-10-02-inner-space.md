@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 60, October 2018
 issue-cover: issue-60-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-60-october-2018
 title: Inner Space
 subtitle:
 author: takim-williams
