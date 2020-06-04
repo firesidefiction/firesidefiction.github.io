@@ -1,8 +1,10 @@
 .home-stream {
-  display: flex;
 	max-width: 58em;
 	margin: 0 auto;
-  justify-content: space-between;
+  @media all and (min-width: 690px) {
+    display: flex;
+    justify-content: space-between;
+  }
   h2 {
     border-top: 1px solid $color__base;
     margin: 1em 0;
@@ -14,8 +16,9 @@
   flex-basis: auto;
   flex-grow: 3;
   flex-shrink: 0;
-  max-width: 62em;
+  max-width: 45em;
   margin: 0 auto;
+  padding: 0 $space-half;
   div {
     margin: 1em 1em 1em 0;
   }
@@ -36,7 +39,15 @@
   flex-basis: 35%;
   flex-grow: 1;
   flex-shrink: 0;
-  margin-left: 2em;
+  margin-top: 2em;
+  padding-top: 2em;
+  border-top: 1px solid $color__base;
+  @media all and (min-width: 690px) {
+    margin-top: 0;
+    padding-top: 0;
+    margin-left: 2em;
+    border-top: 0;
+  }
   div {
     margin: 1em 1em 1em 0;
   }

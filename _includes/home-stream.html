@@ -33,7 +33,7 @@
     </div-->
     <!--div-->
       <h4 class="label no-border">Essays and News</h4>
-      {% for post in site.posts limit: 50 %}
+      {% for post in site.posts limit: 60 %}
         {% if post.category == "news" or post.category == "announcement" or post.category == "essay" or post.category == "interview" %}
         <div>
           <small class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</small>
