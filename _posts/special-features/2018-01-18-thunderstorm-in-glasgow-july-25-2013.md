@@ -1,19 +1,41 @@
 ---
 layout: thunderstorm
-issue: 0
-title: Thunderstorm in Glasgow, July 25, 2013
-author: Amal El-Mohtar, illustrated by Molly Crabapple
-editor: julia-rios
-date: 2018-01-17 01:00:01 -0500
 category: poem
+issue: 
+issue-cover:
+issue-buy-link:
+title: Thunderstorm in Glasgow, July 25, 2013
+subtitle:
+author: amal-el-mohtar
+author-2:
+author-3:
+editor: julia-rios
+illustrator: molly-crabapple
+copyeditor:
+selector:
+translator:
+narrator:
+letterer:
+date: 2018-01-17 01:00:01 -0500
 permalink: thunderstorm-in-glasgow-july-25-2013
-published: true
+audiourl:
 teaser: Rattle my heart, four-chambered sound...
 art: thunderstorm-in-glasgow-july-25-2013.jpg
-caption: "A sketch of buildings in Beirut"
-artist: Molly Crabapple
-author-bio:
+artcaption: "A sketch of buildings in Beirut"
+spanish-language:
+spanish-date:
+english-url:
+spanish-url:
+serial-name:
+serial-url:
+part:
+previous-url:
+next-url:
+contentnote:
+generalnote:
+published: true
 ---
+
 Rattle my heart, four-chambered sound
 loosen my language from my teeth
 tumble raaed out from a fallow throat

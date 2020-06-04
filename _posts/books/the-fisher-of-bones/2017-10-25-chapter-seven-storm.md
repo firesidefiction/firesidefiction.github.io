@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  "Storm"
-issue: 0
+issue:
 author: Sarah Gailey
 date:   2017-10-25 01:01:00 -0500
 category: serial

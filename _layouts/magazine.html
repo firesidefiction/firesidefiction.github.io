@@ -9,13 +9,17 @@ layout: default
 
   {% assign items_grouped = site.posts | group_by: 'issue' %}
     {% for group in items_grouped %}
+    {% for item in group.items limit: 1 %}
+    {% if item.issue %}
       <h2>Issue {{group.name}}</h2>
       <div class="issue-container">
         {% for item in group.items limit: 1 %}
         <div class="ebook-showcase">
+          {% if item.issue-cover %}
           <figure>
             <img class="" src="/images/issue-covers/{{ item.issue-cover }}" alt="ebook cover">
           </figure>
+          {% endif %}
           {% if item.issue-buy-link %}<a href="{{ item.issue-buy-link }}" class="btn">Buy the ebook</a>{% endif %}
         </div>
         {% endfor %}
@@ -39,5 +43,7 @@ layout: default
           {% endfor %}
         </div>
       </div>
+      {% endif %}
+      {% endfor %}
     {% endfor %}
 </div>

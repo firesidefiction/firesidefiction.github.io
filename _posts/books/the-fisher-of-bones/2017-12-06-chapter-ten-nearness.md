@@ -2,7 +2,7 @@
 layout: story
 title:  "Nearness"
 author: Sarah Gailey
-issue: 0
+issue:
 date:   2017-12-06 01:01:00 -0500
 category: serial
 serial-name: The Fisher of Bones
