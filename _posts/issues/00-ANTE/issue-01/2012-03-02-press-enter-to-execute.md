@@ -1,7 +1,8 @@
 ---
 layout: story
 category: short story
-issue: 1, Spring 2012, Spring 2012
+issue: 1, Spring 2012
+issue-cover: issue-1-cover.png
 title: Press Enter to Execute
 subtitle:
 author: tobias-s-buckell
