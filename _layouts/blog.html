@@ -12,7 +12,8 @@ layout: default
     <div>
       <small class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</small>
       <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
-        <p>by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}<br/>{{ post.teaser  | markdownify }}</p>
+        <p>by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}
+        <br/>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     </div>
     {% endif %}
     {% if post.category == "#Blackspecfic" %}
