@@ -10,8 +10,8 @@
               <!--p class="category">{{ item.category }}</p-->
               <!--small class="category">{{ item.date | date: "%b %-d, %Y" }}</small-->
               <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-              <p>{% if item.spanish-language %}un {{ item.category }} por{% else %}a {{ item.category }} by{% endif %} {% assign author = site.contributors | where:'short-name', item.author  | first %}{{ author.credit-name }}{% if item.art %}; {% if item.spanish-language %}ilustrado por {% assign illustrator = site.contributors | where:'short-name', item.illustrator  | first %}{{ illustrator.credit-name }}{% else %}illustrated by{% endif %} {% assign illustrator = site.contributors | where:'short-name', item.illustrator  | first %}{{ illustrator.credit-name }}{% endif %}</p>
-              <!-- p>{{ item.teaser  | markdownify }}</p-->
+              <p>{% if item.spanish-language %}un {{ item.category }} por{% else %}a {{ item.category }} by{% endif %} {% assign author = site.contributors | where:'short-name', item.author  | first %}{{ author.credit-name }}{% if item.art %}; {% if item.spanish-language %}ilustrado por {% assign illustrator = site.contributors | where:'short-name', item.illustrator  | first %}{{ illustrator.credit-name }}{% else %}illustrated by{% endif %} {% assign illustrator = site.contributors | where:'short-name', item.illustrator  | first %}{{ illustrator.credit-name }}{% endif %}
+              <br/>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             </div>
           {% endif %}
           {% if item.category == "serial" %}
@@ -20,7 +20,7 @@
               <!--small class="category">{{ item.date | date: "%b %-d, %Y" }}</small-->
               <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
               <p>by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</p>
-              <!-- p>{{ item.teaser  | markdownify }}</p-->
+              <p>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             </div>
           {% endif %}
         {% endfor %}
@@ -33,19 +33,19 @@
     </div-->
     <!--div-->
       <h4 class="label no-border">Essays and News</h4>
-      {% for post in site.posts limit: 60 %}
+      {% for post in site.posts limit: 80 %}
         {% if post.category == "news" or post.category == "announcement" or post.category == "essay" or post.category == "interview" %}
         <div>
           <small class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</small>
           <p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>, by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</p>
-          <!-- p>{{ post.teaser  | markdownify }}</p-->
+          <!-- p>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p-->
         </div>
         {% endif %}
         {% if post.category == "#Blackspecfic" %}
         <div>
           <small class="category">{{ post.date | date: "%b %-d, %Y" }} | <a href="/blackspecfic">{{ post.category }}</a></small>
           <p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>, by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</p>
-          <!-- p>{{ post.teaser  | markdownify }}</p-->
+          <!-- p>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p-->
         </div>
         {% endif %}
       {% endfor %}

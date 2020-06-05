@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saving the World, Saving Ourselves: The Role of Justice in the Enviromentalist Movement"
-author: Grace Villmow
+author: grace-villmow
 editor: julia-rios
 date: 2019-08-29 01:00:01 -0500
 category: essay
@@ -10,9 +10,6 @@ audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-JUL-2019-08-08-Saving_th
 narrator: c-s-e-cooney
 published: true
 teaser: "Weighing in at around 5% of the earth’s population, Americans consume over 30% of the world’s resources."
-author-img: grace-villmow.jpg
-author-bio: |
-  Grace Villmow was born and raised in Chicago and is a rising senior at St. John's College. Her environmental background comes from her time working with conservation organizations in her home city, her passion for Chicagoland native plants, and catching toads. She is the Editor in Chief of _The Epoch Journal_, St. John's College's political journal, and enjoys writing about urban ecology.
 proofread: true
 ---
 

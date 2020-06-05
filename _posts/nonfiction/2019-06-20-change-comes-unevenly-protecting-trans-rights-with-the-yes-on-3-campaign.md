@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Change Comes Unevenly: Protecting Trans Rights with the Yes on 3 Campaign"
-author: A. A. McNamara
+author: a-a-mcnamara
 editor: julia-rios
 date: 2019-06-20 01:00:01 -0500
 category: essay
@@ -10,9 +10,6 @@ audiourl: http://traffic.libsyn.com/firesidemagazine/FQ-APR-2019-06-20-change-co
 narrator: c-s-e-cooney
 published: true
 teaser: "A yes vote kept the law as it was, protecting transgender people from discrimination in public places. A no vote repealed those protections."
-author-img: a-a-mcnamara.jpg
-author-bio: |
-  **A. A. McNamara** is a writer and librarian living in central Massachusetts. Their fiction has appeared in venues such as _Lady Churchill's Rosebud Wristlet_ and _Crossed Genres Magazine_. You can find them on Twitter as [@aamcnamara](https:///www.twitter.com/aamcnamara).   
 proofread: true
 contentnote: This essay depicts transphobic and homophobic behavior.
 ---
