@@ -1,7 +1,7 @@
 ---
 layout: conversation-harassment
 title: We Need New Scripts
-author: Andrea Phillips
+author: andrea-phillips
 editor: julia-rios
 date: 2018-04-19 00:00:01 -0500
 category: essay

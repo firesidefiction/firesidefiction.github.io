@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Power Structures Are Meant to Be Broken
-author: Elsa Sjunneson
+author: elsa-sjunneson
 editor: julia-rios
 date: 2018-03-22 00:00:01 -0500
 category: essay

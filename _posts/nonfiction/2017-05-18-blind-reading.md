@@ -48,7 +48,3 @@ We need to read anonymously, not blindly. We need to talk about epic tales, not 
 We have to do better, and that means looking hard at the words we use and considering that perhaps we aren’t as evolved as we like to think.
 
 I’m the only one reading blind on this staff, and I’m also the one who can see the cover letters, the names of authors, and whatever other information our submission readers don’t have when they are reading anonymously, without all the knowledge.  
-
-#### About the author
-
-Elsa Sjunneson is the assistant editor of Fireside.

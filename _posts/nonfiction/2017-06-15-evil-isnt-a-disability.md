@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Evil Isn’t a Disability: 10 Cloverfield Lane, Donald Trump, and Don’t Breathe"
-author: John Wiswell
+author: john-wiswell
 date:   2017-06-15 12:01:00 -0500
 category: essay
 permalink: evil-isnt-a-disability
@@ -94,7 +94,3 @@ As I finish this piece, the two biggest horror films of the year are *Split* and
 As I finish this piece, Republicans are rushing a bill through Congress that will kill healthcare for millions of chronically ill and disabled Americans. They failed once and are already on to a sequel.
 
 As I finish this piece, I can’t even enjoy being the villain.
-
-#### About the author
-
-John (@wiswell) lives where New York keeps all its trees. He's previously appeared at Fireside with “Bones at the Door,” and he has a new horror story coming soon to Pseudopod. He intends to donate his body to medical science, which will make romantic apocalypses harder on him.
