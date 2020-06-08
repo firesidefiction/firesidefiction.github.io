@@ -11,7 +11,7 @@ We have no upcoming submissions dates announced for the moment. Please [subscrib
 
 - **June 15, 2020 to June 19, 2020**<br/>Submissions period for the Spring 2021 Issue
 
-- **August 23, 2020 to August 27, 2020**<br/>Submissions period for the Summer 2021 Issue
+- **August 24, 2020 to August 28, 2020**<br/>Submissions period for the Summer 2021 Issue
 
 - **November 30, 2020 to December 4, 2020**<br/>Submissions period for the Autumn 2021 Issue
 
