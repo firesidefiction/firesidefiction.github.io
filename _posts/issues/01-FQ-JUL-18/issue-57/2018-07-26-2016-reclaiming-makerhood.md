@@ -3,7 +3,7 @@ layout: post
 category: essay
 issue: 57, July 2018
 issue-cover: issue-57-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-57-july-2018
 title: Reclaiming Makerhood
 subtitle:
 author: jessica-cauttero

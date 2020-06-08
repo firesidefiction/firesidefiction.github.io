@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  About Our New Site
-author: Pablo Defendini
+author: pablo-defendini
 date:   2017-03-02 12:01:00 -0500
 category: essay
 permalink: /about-our-new-site

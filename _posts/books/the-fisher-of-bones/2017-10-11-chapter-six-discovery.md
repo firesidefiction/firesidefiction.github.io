@@ -1,6 +1,7 @@
 ---
 layout: story
 title:  "Discovery"
+issue:
 author: Sarah Gailey
 date:   2017-10-11 01:01:00 -0500
 category: serial

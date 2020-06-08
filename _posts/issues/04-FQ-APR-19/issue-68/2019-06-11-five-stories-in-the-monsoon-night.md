@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 68, June 2019
 issue-cover: issue-68-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-68-june-2019
 title: Five Stories in the Monsoon Night
 subtitle:
 author: nghi-vo

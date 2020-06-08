@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Blind Reading is in Braille or Large Print"
-author: Elsa Sjunneson
+author: elsa-sjunneson
 date:   2017-05-18 12:01:00 -0500
 category: essay
 permalink: /blind-reading
@@ -48,7 +48,3 @@ We need to read anonymously, not blindly. We need to talk about epic tales, not 
 We have to do better, and that means looking hard at the words we use and considering that perhaps we aren’t as evolved as we like to think.
 
 I’m the only one reading blind on this staff, and I’m also the one who can see the cover letters, the names of authors, and whatever other information our submission readers don’t have when they are reading anonymously, without all the knowledge.  
-
-#### About the author
-
-Elsa Sjunneson is the assistant editor of Fireside.

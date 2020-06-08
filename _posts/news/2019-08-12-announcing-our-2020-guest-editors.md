@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing Our 2020 Guest Editors"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2019-08-12 01:00:01 -0500
 category: news
 permalink: announcing-our-2020-guest-editors

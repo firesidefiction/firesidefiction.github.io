@@ -3,7 +3,7 @@ layout: conversation-harassment
 category: essay
 issue: 58, August 2018
 issue-cover: issue-58-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-58-august-2018
 title: "Who Gets to Say #MeToo?"
 subtitle:
 author: ace-ratcliff

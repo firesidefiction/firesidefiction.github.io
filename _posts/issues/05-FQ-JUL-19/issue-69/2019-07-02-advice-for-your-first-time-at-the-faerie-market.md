@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 69, July 2019
 issue-cover: issue-69-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-69-july-2019
 title: Advice for Your First Time at the Faerie Market
 subtitle:
 author: nibedita-sen
@@ -35,7 +35,7 @@ previous-url:
 next-url:
 contentnote: This story refers to domestic violence.
 generalnote:
-published: true 
+published: true
 ---
 
 You’ll smell it before you see it — scents of ticklish pollen, braised roots. The market doesn’t like to let itself be found too easily. I found it by accident nineteen years ago, stumbling from Atgeld Library in that gossamer hour when the sun begins to warm a world still living in night. They tell me the walls between things are thinner at dawn and dusk.

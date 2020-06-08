@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Our Next Reading Period Will Be in April
-author: Julia Rios
+author: julia-rios
 date:   2018-02-15 01:01:00 -0500
 category: news
 permalink: april-2018-submissions

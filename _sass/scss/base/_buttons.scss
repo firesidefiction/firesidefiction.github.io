@@ -20,7 +20,7 @@
 	&:hover, &:focus {
 		background: $color__highlight--focus;
 		border: 10px, $color__highlight--focus;
-		color: $white;
+		color: $color__reverse;
 	}
 
 	&.disabled {
@@ -52,7 +52,7 @@
 	@include transition(color, 0.4s, ease-in-out);
 
 	&:hover, &:focus {
-		color: $color__highlight--focus;
+		color: $color__reverse;
 	}
 }
 
@@ -64,7 +64,13 @@
 	&:hover, &:focus {
 		background: $color__highlight--focus;
 		border: 1px solid $white;
-		color: $white;
+		color: $color__reverse;
+		& > a {
+			color: $color__reverse;
+		}
+	}
+	a:hover, a:focus {
+			color: $color__reverse;
 	}
 }
 

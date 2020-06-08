@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 4 — This One Was a Squeaker"
-author: Brian J. White
+author: brian-j-white
 date:   2012-09-07 12:01:00 -0500
 category: announcement
 permalink: /issue3/front-matter/from-the-editor/

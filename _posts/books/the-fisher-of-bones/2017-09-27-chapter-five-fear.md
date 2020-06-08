@@ -1,6 +1,7 @@
 ---
 layout: story
 title:  "Fear"
+issue:
 author: Sarah Gailey
 date:   2017-09-27 01:01:00 -0500
 category: serial

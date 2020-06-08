@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 40, February 2017
 issue-cover: issue-40-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-40
 title: The Revolution, Brought to You by Nike
 subtitle:
 author: andrea-phillips

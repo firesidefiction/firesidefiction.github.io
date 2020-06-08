@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 47, September 2017
 issue-cover: issue-47-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-47
 title: If We Live to Be Giants
 subtitle:
 author: allison-mulder

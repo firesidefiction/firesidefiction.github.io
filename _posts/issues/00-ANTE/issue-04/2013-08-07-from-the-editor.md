@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 4 — Welcome to Year Two"
-author: Brian J. White
+author: brian-j-white
 date:   2013-08-07 12:01:00 -0500
 category: announcement
 permalink: /issue4/front-matter/welcome-to-year-two/

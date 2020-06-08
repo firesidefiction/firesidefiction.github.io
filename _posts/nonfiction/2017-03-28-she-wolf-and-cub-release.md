@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Out today: She Wolf and Cub, a novel by Lilith Saintcrow"
-author: Brian J. White
+author: brian-j-white
 date: 2017-03-28 12:01:00 -0500
 category: news
 permalink: /she-wolf-and-cub-release

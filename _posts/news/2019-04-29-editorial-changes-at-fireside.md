@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Editorial Changes at Fireside"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2019-04-29 01:00:01 -0500
 category: news
 permalink: editorial-changes-at-fireside

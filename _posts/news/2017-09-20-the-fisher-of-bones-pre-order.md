@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sarah Gailey's The Fisher of Bones ebook available for pre-order
-author: Pablo Defendini
+author: pablo-defendini
 date:   2017-09-20 01:01:00 -0500
 category: news
 permalink: /the-fisher-of-bones-pre-order

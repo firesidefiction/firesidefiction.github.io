@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Apology"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2019-10-13 01:00:01 -0500
 category: update
 permalink: an-apology

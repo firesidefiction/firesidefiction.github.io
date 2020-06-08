@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 41, March 2017
 issue-cover: issue-41-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-41
 title: "It Happened To Me: I Melded My Consciousness With the Giant Alien Mushroom Floating Above Chicago"
 subtitle:
 author: nino-cipri

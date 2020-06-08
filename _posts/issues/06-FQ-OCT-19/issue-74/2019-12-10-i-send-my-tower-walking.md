@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 74, December 2019
 issue-cover: issue-74-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-74-december-2019
 title: I Send My Tower Walking
 subtitle:
 author: amanda-helms

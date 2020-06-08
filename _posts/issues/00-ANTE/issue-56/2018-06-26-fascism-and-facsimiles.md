@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 56, June 2018
 issue-cover: issue-56-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-56-june-2018
 title: Fascism and Facsimiles
 subtitle:
 author: john-wiswell

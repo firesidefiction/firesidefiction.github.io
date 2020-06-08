@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teach Me How To Say Goodbye"
-author: Brian J. White
+author: brian-j-white
 date: 2017-07-07 00:01:00 -0500
 category: news
 permalink: /teach-me-how-to-say-goodbye

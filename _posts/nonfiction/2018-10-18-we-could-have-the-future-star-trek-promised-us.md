@@ -1,16 +1,13 @@
 ---
 layout: article
 title: We Could Have the Future Star Trek Promised Us
-author: Danilo Campos
-editor: Julia Rios
+author: danilo-campos
+editor: julia-rios
 date: 2018-10-18 01:00:01 -0500
 category: essay
 permalink: we-could-have-the-future-star-trek-promised-us
 published: true
 teaser: "What if science and technology could make the entire global resource pie so large, even a minuscule slice could represent abundant prosperity?"
-author-img: danilo-campos.jpg
-author-bio: |
-  Danilo is a lifelong student of futurism who pays the bills by applying that knowledge as a software developer and technology educator. A descendent of colonized people, Danilo lives in tension: a critic of technology as an extraction vehicle, but also a champion of its power to amplify marginalized voices and the reach of the human mind. He was raised on a steady diet of speculative fiction, from Asimov to _Star Trek_ to _Snow Crash_, and still sees it as an ideal lens for imagining the futures we want — or must prevent.
 proofread: true
 ---
 

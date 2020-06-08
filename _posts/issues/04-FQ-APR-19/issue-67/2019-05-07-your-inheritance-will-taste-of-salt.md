@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 67, May 2019
 issue-cover: issue-67-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-67-may-2019
 title: Your Inheritance Will Taste of Salt
 subtitle:
 author: karolina-fedyk

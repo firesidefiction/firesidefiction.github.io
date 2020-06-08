@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 55, May 2018
 issue-cover: issue-55-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-55-may-2018
 title: Now Watch My Rising
 subtitle:
 author: merc-fenn-wolfmoor

@@ -1,16 +1,13 @@
 ---
 layout: conversation-harassment
 title: Reclaiming the Right to Truth
-author: Tariro Ndoro
-editor: Julia Rios
+author: tariro-ndoro
+editor: julia-rios
 date: 2018-11-15 01:00:01 -0500
 category: essay
 permalink: reclaiming-the-right-to-truth
 published: true
 teaser: When we sweep rape culture under the rug to protect the men who provide for us, we begin to believe those lies.
-author-img: tariro-ndoro.jpg
-author-bio: |
-  Tariro Ndoro is an avid reader. She writes poems and short stories that explore dysfunction. Tariro's publication credits include _AFREADA_, _La Shamba_, _Omenana_, and _Puerto del Sol_. You can follow Tariro on Twitter at [@tariro_writes](https://www.twitter.com/tariro_writes) or find links to her other works at [tarirondoro.wordpress.com](https://tarirondoro.wordpress.com/).
 proofread: true
 contentnote: This essay contains non-graphic descriptions of harassment and assault.
 ---

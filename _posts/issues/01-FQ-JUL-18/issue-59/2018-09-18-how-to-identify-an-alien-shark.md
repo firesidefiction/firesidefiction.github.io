@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 59, September 2018
 issue-cover: issue-59-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-59-september-2018
 title: How to Identify an Alien Shark
 subtitle:
 author: beth-goder

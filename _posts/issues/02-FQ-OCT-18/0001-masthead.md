@@ -1,7 +1,7 @@
 ---
 layout: frontmatter
 title: Masthead
-author: Pablo Defendini
+author: pablo-defendini
 published: false    
 proofread: true
 ---

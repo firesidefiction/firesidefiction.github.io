@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  It's Awards Season
-author: Pablo Defendini
+author: pablo-defendini
 date:   2017-03-08 12:01:00 -0500
 category: news
 permalink: /its-awards-season-2017

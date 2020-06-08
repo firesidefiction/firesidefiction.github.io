@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 50, December 2017
 issue-cover: issue-50-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-50
 title: The Gingerbread Pox
 subtitle:
 author:

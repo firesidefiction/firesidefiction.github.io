@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 63, January 2019
 issue-cover: issue-63-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-63-january-2019
 title: Beyond Comprehension
 subtitle:
 author: russell-nichols

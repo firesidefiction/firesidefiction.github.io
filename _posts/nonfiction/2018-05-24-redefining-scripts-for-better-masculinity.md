@@ -1,8 +1,8 @@
 ---
 layout: conversation-harassment
 title: Redefining Scripts for Better Masculinity
-author: Pablo Defendini
-editor: Julia Rios
+author: pablo-defendini
+editor: julia-rios
 date: 2018-05-24 01:00:01 -0500
 category: essay
 permalink: redefining-scripts-for-better-masculinity

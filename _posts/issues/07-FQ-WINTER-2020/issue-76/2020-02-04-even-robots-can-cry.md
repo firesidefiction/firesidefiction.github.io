@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 76, February 2020
 issue-cover: issue-76-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-76-february-2020
 title: Even Robots Can Cry
 subtitle:
 author: sam-kyung-yoo

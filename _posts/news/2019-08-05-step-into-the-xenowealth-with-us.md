@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Step into the Xenowealth with us"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2019-08-05 01:00:01 -0500
 category: news
 permalink: step-into-the-xenowealth-with-us

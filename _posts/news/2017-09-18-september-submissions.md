@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  We Are Open to Flash Fiction and Short Story Submissions This Week
-author: Pablo Defendini
+author: pablo-defendini
 date:   2017-09-18 01:01:00 -0500
 category: news
 permalink: /september-2017-submissions

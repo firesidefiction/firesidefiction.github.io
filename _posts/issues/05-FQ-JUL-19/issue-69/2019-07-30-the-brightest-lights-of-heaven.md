@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 69, July 2019
 issue-cover: issue-69-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-69-july-2019
 title: The Brightest Lights of Heaven
 subtitle:
 author: maria-haskins

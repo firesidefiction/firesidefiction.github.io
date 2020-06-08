@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "Announcing the Fireside 2018 Books List"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2018-06-01 01:00:01 -0500
 category: news
 permalink: announcing-the-fireside-2018-books-list

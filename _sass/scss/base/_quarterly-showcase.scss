@@ -1,0 +1,75 @@
+.quarterly-showcase {
+  background-color: $color__main-site;
+	color: $color__reverse;
+  padding-top: 2em;
+  margin-bottom: 1em;
+  & > div {
+    max-width: 58em;
+    @media all and (min-width: 690px) {
+      display: flex;
+      justify-content: space-around;
+      margin: 0 auto;
+    }
+  }
+  figure {
+    width: 80%;
+    margin: 0 auto;
+    @media all and (min-width: 690px) {
+      max-width: 34%;
+      margin: 0 0 1em 0;
+    }
+  }
+  div {
+  //  max-width: $bp-small-3;
+  }
+	.quarterly-info {
+    margin: 0 0 1em 1em;
+		max-width: $bp-small-3;
+    h1, h2, h3, h4 {
+			padding-left: 9px;
+			//margin: 0;
+		}
+		h4 {
+			margin-top: 1em;
+			&:first-child {
+				margin-top: 0;
+			}
+		}
+		//I'm using a variation on this technique to do the separators: https://medium.com/@mandy.michael/you-dont-need-a-media-query-for-that-1-inline-content-separators-a9c562a597a6
+		.quarterly-contributors {
+			display: flex;
+			overflow-y: hidden;
+			flex-wrap: wrap;
+		}
+		.quarterly-contributor-01 {
+	    padding-right: 5px;
+		}
+
+		.quarterly-contributor {
+		    position: relative;
+		    transform: translateX(-6px);
+
+		    &::before {
+		        content: "•";
+		    }
+		}
+	}
+  .quarterly-showcase-cta {
+    display: flex;
+		align-items: center;
+    padding: 0 0 0 .5em;
+    .btn {
+      padding: .5em 1em;
+    }
+		small {
+			font-size: 14px;
+		}
+    p {
+      margin-left: 2em;
+      a {
+      color: $color__reverse;
+      text-decoration: underline;
+      }
+    }
+  }
+}

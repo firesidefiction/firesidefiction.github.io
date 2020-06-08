@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 42, April 2017
 issue-cover: issue-42-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-42
 title: "It Happened To Me: I Was Brought Back to Avenge My Death, But Chose Justice Instead"
 subtitle:
 author: nino-cipri

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A note about submissions"
-author: Brian J. White
+author: brian-j-white
 date: 2017-06-19 12:01:00 -0500
 category: news
 permalink: /a-note-about-submissions

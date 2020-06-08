@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Here's the Cover for the January Issue of Fireside Quarterly"
-author: Pablo Defendini
+author: pablo-defendini
 date: 2018-12-14 01:00:01 -0500
 category: news
 permalink: january-2019-cover-reveal

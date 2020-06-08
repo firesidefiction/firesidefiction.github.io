@@ -1,8 +1,8 @@
 ---
 layout: conversation-harassment
 title: Getting Men Off Ledges
-author: Brandon O’Brien
-editor: Julia Rios
+author: brandon-obrien
+editor: julia-rios
 date: 2018-06-21 01:00:01 -0500
 category: essay
 permalink: getting-men-off-ledges

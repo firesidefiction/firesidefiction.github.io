@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  We're Open to Artist Submissions
-author: Pablo Defendini
+author: pablo-defendini
 date:   2018-02-19 01:01:00 -0500
 category: news
 permalink: were-open-to-artist-submissions

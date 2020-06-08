@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 52, February 2018
 issue-cover: issue-52-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-52-february-2018
 title: The Secret Lives of the Nine Negro Teeth of George Washington
 subtitle:
 author: phenderson-djeli-clark

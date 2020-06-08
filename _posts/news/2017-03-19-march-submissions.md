@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  We Are Open to Flash Fiction Submissions This Week
-author: Brian J. White
+author: brian-j-white
 date:   2017-03-19 12:01:00 -0500
 category: news
 permalink: /march-2017-submissions

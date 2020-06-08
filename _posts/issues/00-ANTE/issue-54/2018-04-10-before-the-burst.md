@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 54, April 2018
 issue-cover: issue-54-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-54-april-2018
 title: Before the Burst
 subtitle:
 author: d-a-xiaolin-spires

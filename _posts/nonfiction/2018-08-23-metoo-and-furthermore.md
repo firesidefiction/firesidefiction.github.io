@@ -2,15 +2,12 @@
 layout: conversation-harassment
 title: "#MeToo, and Furthermore"
 author: Hillary Monahan
-editor: Julia Rios
+editor: julia-rios
 date: 2018-09-20 01:00:01 -0500
 category: essay
 permalink: metoo-and-furthermore
 published: true
 teaser: “What do I do, as a survivor existing in publishing? For that matter, what do other victims do?"
-author-img: hillary-monahan.jpg
-author-bio: |
- Hillary Monahan is the critically acclaimed NYT bestselling author of the _Mary: The Summoning_ series for Disney-Hyperion, among other titles. She lives in southeastern Massachusetts with her family of some parts humans, some parts fur kids. She's a feminist, a queer advocate, and a professional gloom cookie who can (and will) recite _Young Frankenstein_ from memory for you if you ask nicely.
 proofread: true
 contentnote: This essay contains descriptions of sexual assault.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Join the Antifascist Fiction Club"
-author: Brian J. White
+author: brian-j-white
 date: 2017-04-07 12:01:00 -0500
 category: news
 permalink: /join-the-antifascist-fiction-club

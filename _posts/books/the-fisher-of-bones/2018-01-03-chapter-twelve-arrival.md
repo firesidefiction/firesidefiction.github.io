@@ -1,6 +1,7 @@
 ---
 layout: story
 title:  "Arrival"
+issue:
 author: Sarah Gailey
 date:   2018-01-03 01:01:00 -0500
 category: serial

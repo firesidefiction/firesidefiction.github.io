@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 77, March 2020
 issue-cover: issue-77-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-77-march-2020
 title: Mandragora
 subtitle:
 author: nibedita-sen

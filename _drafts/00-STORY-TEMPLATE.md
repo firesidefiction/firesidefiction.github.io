@@ -2,7 +2,7 @@
 layout: story | post | article | book | blackspecfic | story-serial
 title: Title of the Story
 author: Author Name
-editor: Julia Rios
+editor: julia-rios
 date: 2017-01-01 01:00:01 -0500
 category: short story | flash fiction | announcement | essay | book | serial
 permalink: title-of-the-story

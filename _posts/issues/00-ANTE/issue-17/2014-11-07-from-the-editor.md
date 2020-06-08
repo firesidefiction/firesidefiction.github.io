@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue 17 — From the Editor"
-author: Brian J. White
+author: brian-j-white
 date:   2014-11-07 12:01:00 -0500
 category: announcement
 permalink: /issue17/front-matter/from-the-editor/
