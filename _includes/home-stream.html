@@ -5,6 +5,7 @@
       {% for group in items_grouped limit: 3 %}
         <h2>Issue {{group.name}}</h2>
         {% for item in group.items %}
+        {% if item.issue > "1" %}
           {% if item.category == "short story" or item.category == "story" or item.category == "cuento corto" or item.category == "cuento" or item.category == "flash fiction" or item.category == "comic" or item.category == "poem" %}
             <div>
               <!--p class="category">{{ item.category }}</p-->
@@ -14,14 +15,6 @@
               <br/>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             </div>
           {% endif %}
-          {% if item.category == "serial" %}
-            <div>
-              <small class="category">{{ item.category }}: {{ item.serial-name }}, Chapter {{ item.part }}</small>
-              <!--small class="category">{{ item.date | date: "%b %-d, %Y" }}</small-->
-              <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-              <p>by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</p>
-              <p>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-            </div>
           {% endif %}
         {% endfor %}
       {% endfor %}
