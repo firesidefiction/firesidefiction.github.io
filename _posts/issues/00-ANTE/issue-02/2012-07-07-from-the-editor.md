@@ -1,12 +1,12 @@
 ---
 layout: post
 category: announcement
-issue:
-issue-cover: 
+
+issue-cover:
 issue-buy-link:
 title: Issue 2 — WOW. ISSUE TWO.
 subtitle:
-author:
+author: brian-j-white
 author-2:
 editor:
 illustrator:

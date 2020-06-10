@@ -1,7 +1,7 @@
 ---
 layout: post
 category: announcement
-issue:
+
 issue-cover:
 issue-buy-link:
 title: "Announcing Ryan Boyd as the Editor for our Spring 2021 Issue"

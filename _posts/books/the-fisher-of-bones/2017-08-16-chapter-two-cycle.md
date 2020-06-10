@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  "Cycle"
-issue:
+
 author: Sarah Gailey
 date:   2017-08-16 06:01:00 -0500
 category: serial

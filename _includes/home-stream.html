@@ -2,10 +2,9 @@
   <div class="home-magazine">
     <h4 class="label no-border">Fireside Magazine</h4>
     {% assign items_grouped = site.posts | group_by: 'issue' %}
-      {% for group in items_grouped limit: 3 %}
+      {% for group in items_grouped limit: 4 %}
         <h2>Issue {{group.name}}</h2>
         {% for item in group.items %}
-        {% if item.issue > "1" %}
           {% if item.category == "short story" or item.category == "story" or item.category == "cuento corto" or item.category == "cuento" or item.category == "flash fiction" or item.category == "comic" or item.category == "poem" %}
             <div>
               <!--p class="category">{{ item.category }}</p-->
@@ -14,7 +13,6 @@
               <p>{% if item.spanish-language %}un {{ item.category }} por{% else %}a {{ item.category }} by{% endif %} {% assign author = site.contributors | where:'short-name', item.author  | first %}{{ author.credit-name }}{% if item.art %}; {% if item.spanish-language %}ilustrado por {% assign illustrator = site.contributors | where:'short-name', item.illustrator  | first %}{{ illustrator.credit-name }}{% else %}illustrated by{% endif %} {% assign illustrator = site.contributors | where:'short-name', item.illustrator  | first %}{{ illustrator.credit-name }}{% endif %}
               <br/>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             </div>
-          {% endif %}
           {% endif %}
         {% endfor %}
       {% endfor %}

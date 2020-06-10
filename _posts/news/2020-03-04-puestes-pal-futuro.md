@@ -1,7 +1,7 @@
 ---
 layout: post
 category: announcement
-issue:
+
 issue-cover:
 issue-buy-link:
 title: "Introducing 'Puestes pa'l futuro': words and images from a future, post-colonial Puerto Rico"

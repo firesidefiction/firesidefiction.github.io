@@ -1,7 +1,7 @@
 ---
 layout: thunderstorm
-category: poem
-issue: 1
+category: special
+
 issue-cover:
 issue-buy-link:
 title: Thunderstorm in Glasgow, July 25, 2013

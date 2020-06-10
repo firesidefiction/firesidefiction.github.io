@@ -2,7 +2,7 @@
 layout: story
 title:  "Sundering"
 author: Sarah Gailey
-issue:
+
 date:   2017-11-22 01:01:00 -0500
 category: serial
 serial-name: The Fisher of Bones

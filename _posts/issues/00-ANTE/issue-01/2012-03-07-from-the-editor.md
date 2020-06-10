@@ -1,7 +1,7 @@
 ---
 layout: post
 category: announcement
-issue:
+
 issue-cover:
 issue-buy-link:
 title: Issue 1 — Welcome to the First Issue of Fireside

@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  "Increase"
-issue:
+
 author: Sarah Gailey
 date:   2017-08-30 01:00:00 -0500
 category: serial
