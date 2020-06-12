@@ -1,6 +1,6 @@
 ---
 layout: post
-category: announcement
+category: editorial
 issue-cover:
 issue-buy-link:
 title: "Abolish the Police"
