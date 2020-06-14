@@ -25,7 +25,7 @@
     <!--div-->
       <h4 class="label no-border">Essays and News</h4>
       {% for post in site.posts limit: 80 %}
-        {% if post.category == "news" or post.category == "announcement" or post.category == "essay" or post.category == "interview" %}
+        {% if post.category == "news" or post.category == "announcement" or post.category == "essay" or post.category == "interview" or post.category == "editorial" %}
         <div>
           <small class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</small>
           <p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>, by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</p>
