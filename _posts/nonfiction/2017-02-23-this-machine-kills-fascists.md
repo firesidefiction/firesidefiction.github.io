@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title:  This Machine Kills Fascists
 author: brian-j-white
 date:   2017-02-23 12:01:00 -0500

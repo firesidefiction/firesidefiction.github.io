@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title:  Speculative Antiblackness
 author: Troy L. Wiggins
 date:   2016-07-26 12:01:00 -0500

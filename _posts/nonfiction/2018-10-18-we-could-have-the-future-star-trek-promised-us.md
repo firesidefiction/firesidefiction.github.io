@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: We Could Have the Future Star Trek Promised Us
 author: danilo-campos
 editor: julia-rios

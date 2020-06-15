@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title:  Boldly Going Nowhere
 author: Tobias Buckell
 date:   2016-08-01 12:01:00 -0500

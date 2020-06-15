@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title:  The Revolution Was Televised
 author: andrea-phillips
 date:   2017-02-28 12:01:00 -0500

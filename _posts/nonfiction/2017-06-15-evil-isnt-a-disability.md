@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Evil Isn’t a Disability: 10 Cloverfield Lane, Donald Trump, and Don’t Breathe"
 author: john-wiswell
 date:   2017-06-15 12:01:00 -0500
