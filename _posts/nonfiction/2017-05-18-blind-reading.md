@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title:  "Blind Reading is in Braille or Large Print"
 author: elsa-sjunneson
 date:   2017-05-18 12:01:00 -0500
