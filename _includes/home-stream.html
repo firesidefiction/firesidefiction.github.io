@@ -3,7 +3,7 @@
     <h4 class="label no-border">Fireside Magazine</h4>
     {% assign items_grouped = site.posts | group_by: 'issue' %}
       {% for group in items_grouped limit: 4 %}
-        <h2>Issue {{group.name}}</h2>
+        <!--h2>Issue {{group.name}}</h2-->
         {% for item in group.items %}
           {% if item.category == "short story" or item.category == "story" or item.category == "cuento corto" or item.category == "cuento" or item.category == "flash fiction" or item.category == "comic" or item.category == "poem" %}
             <div>
