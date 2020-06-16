@@ -13,7 +13,7 @@ Fireside holds a submissions period for each upcoming issue of _Fireside Quarter
 
 <!--During open submissions periods, there will be a form on this page for uploading your submission.-->
 
-We have no furhter submissions dates to announce for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
+We have no further submissions dates to announce for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
 ---
 
@@ -43,8 +43,8 @@ Please read the following guidelines, then use the form below to submit your wor
 - Stories of any genre.
 - Submissions from anywhere in the world, from all kinds of voices.
 - One Docx file set in a comfortably-sized, legible font.
-- Cover letters are optional, but they are great places to tell us about your connection the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
-- Only one story per author — no multiple submissions. (But it is fine to resubmit a story you've submitted previosuly to another issue.)
+- Cover letters are optional, but they are great places to tell us about your connection to the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
+- Only one story per author — no multiple submissions. (But it is fine to resubmit a story you've submitted previously to another issue.)
 - Sending your story to other venues (simultaneous submissions) is okay, but we ask that you please withdraw immediately if you take another offer by emailing [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com).
 
 ### Our editor is particularly looking for work that engages with:
