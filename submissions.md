@@ -3,7 +3,7 @@ layout: page
 title:  "Submissions Guidelines"
 permalink: submissions
 ---
-Fireside is currently <!--closed-->open for submissions for the Spring 2021 Issue, edited by Ryan Boyd, from **June 15, 2020 at 6am EST to June 19, 2020 at 6pm EST**. Please read the following guidelines, then use the form below to submit your work.
+Fireside is currently closed <!--open -->for submissions<!--for the Spring 2021 Issue, edited by Ryan Boyd, from **June 15, 2020 at 6am EST to June 19, 2020 at 6pm EST**. Please read the following guidelines, then use the form below to submit your work-->.
 
 Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following periods:
 
@@ -11,7 +11,7 @@ Fireside holds a submissions period for each upcoming issue of _Fireside Quarter
 
 - **November 30, 2020 to December 4, 2020**<br/>Submissions period for the Autumn 2021 Issue
 
-<!--During open submissions periods, there will be a form on this page for uploading your submission.-->
+During open submissions periods, there will be a form on this page for uploading your submission.
 
 We have no further submissions dates to announce for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
@@ -34,7 +34,7 @@ _Any submissions sent via email will be deleted unread._
 
 We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories.
 
-Please read the following guidelines, then use the form below to submit your work.
+Please read the following guidelines<!--, then use the form below to submit your work-->. During open submissions periods, there will be a form below for uploading your submission.
 
 ### Please submit:
 - Stories in English or Spanish
@@ -44,14 +44,14 @@ Please read the following guidelines, then use the form below to submit your wor
 - Submissions from anywhere in the world, from all kinds of voices.
 - One Docx file set in a comfortably-sized, legible font.
 - Cover letters are optional, but they are great places to tell us about your connection to the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
-- Only one story per author — no multiple submissions. (But it is fine to resubmit a story you've submitted previously to another issue.)
+- Only one story per author — no multiple submissions. (But it is fine to resubmit a story you've submitted previously to us for another issue.)
 - Sending your story to other venues (simultaneous submissions) is okay, but we ask that you please withdraw immediately if you take another offer by emailing [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com).
 
-### Our editor is particularly looking for work that engages with:
+<!--### Ryan Boyd, our editor for the Spring 2021 issue, is particularly looking for work that engages with:
 - Transformational narratives with a focus on the body
 - Repurposing technology to do things it wasn’t meant to do
 - Trauma and the ways in which it reshapes the ability to connect with others
-- Cyberpunk and cyberpunk-adjacent ‘fifteen minutes into the future’ dystopias.
+- Cyberpunk and cyberpunk-adjacent ‘fifteen minutes into the future’ dystopias.-->
 
 ### Please don’t send us:
 - Stories that promote fascism, racism, sexism, homophobia, ableism, etc.
@@ -62,12 +62,12 @@ Please read the following guidelines, then use the form below to submit your wor
 
 ### What to expect from us:
 - Fireside acquires English language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
-- First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of August, 2020.
+- First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period<!--, and a final decision by the end of August, 2020-->.
 - Payment of 12.5 cents per word
 
-## Use this form to submit your work:
+<!--## Use this form to submit your work:
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrokTbGecQ1bzOlk?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="1779" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrokTbGecQ1bzOlk?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="1779" style="background: transparent; border: 1px solid #ccc;"></iframe>-->
 
 ----
 
