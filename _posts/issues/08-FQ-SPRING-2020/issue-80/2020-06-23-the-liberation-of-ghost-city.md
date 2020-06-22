@@ -18,7 +18,7 @@ narrator: victor-ramos
 letterer:
 date: 2020-06-23 01:00:01 -0500
 permalink: the-liberation-of-ghost-city
-audiourl:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/The_Liberation_of_Ghost_City.mp3
 teaser: Those who would be liberated must free their minds before their worlds will follow.
 art:
 artcaption:
