@@ -9,9 +9,9 @@ role-2:
 role-3:
 title: AJ Fitzwater — Work in Fireside
 description:
-twitter-handle:
+twitter-handle: AJFitzwater
 profile-pic: aj-fitzwater.jpg
-website-url:
+website-url: pickledthink.blogspot.com
 short-name: aj-fitzwater
 permalink: aj-fitzwater
 bio-spanish:
