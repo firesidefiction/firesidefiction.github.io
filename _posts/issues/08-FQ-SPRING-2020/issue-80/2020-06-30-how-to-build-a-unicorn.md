@@ -18,7 +18,7 @@ narrator: victor-ramos
 letterer:
 date: 2020-06-30 01:00:01 -0500
 permalink: how-to-build-a-unicorn
-audiourl:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/How_to_Build_a_Unicorn.mp3
 teaser: A step-by-step guide to spitting cold vengeance upon the world.
 art:
 artcaption:
