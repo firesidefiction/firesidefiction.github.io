@@ -6,7 +6,7 @@ issue-cover: issue-6-cover.png
 issue-buy-link:
 title: Skinned Knees
 subtitle:
-author:
+author: r-d-sullivan
 author-2:
 author-3:
 editor: brian-j-white
