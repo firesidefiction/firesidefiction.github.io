@@ -18,8 +18,8 @@ narrator: victor-ramos
 letterer:
 date: 2020-07-07 01:00:01 -0500
 permalink: the-ransom-of-miss-coraline-connelly
-audiourl:
-teaser: An epistolary recounting of a kidnapping turned sweet.
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/The_Ransom_of_Miss_Coraline_Connelly.mp3
+teaser: An epistolary recounting of a kidnapping turne... sweet.
 art:
 artcaption:
 spanish-language:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 To the parents or guardians of Miss Coraline Connelly:
@@ -84,7 +84,7 @@ The witch-cakes had some unforeseen effects on Miss Connelly (flight, invisibili
 
 She’s sleeping now, although still slightly translucent and hovering several inches above the bed, looking improbably innocent. That’s the wrong word — innocence implies the existence of sin, and we don’t believe in sin down here. I mean, she looks small and fragile but somehow infinite. Like a rosebud or an apple-seed, something with ten thousand futures folded neatly inside it.
 
-I suppose she is probably not an agent of my ancient enemies after all but merely a child. I wouldn’t know, as I `never had`
+I suppose she is probably not an agent of my ancient enemies after all but merely a child. I wouldn’t know, as I ~~never had~~
 
 In consideration of Coraline’s temperament and your own (I’m sure considerable) distress, I am prepared to waive the tithe altogether.
 
