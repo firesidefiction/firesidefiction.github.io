@@ -19,7 +19,7 @@ letterer:
 date: 2020-07-07 01:00:01 -0500
 permalink: the-ransom-of-miss-coraline-connelly
 audiourl: https://traffic.libsyn.com/secure/firesidemagazine/The_Ransom_of_Miss_Coraline_Connelly.mp3
-teaser: An epistolary recounting of a kidnapping turne... sweet.
+teaser: An epistolary recounting of a kidnapping turned... sweet.
 art:
 artcaption:
 spanish-language:
