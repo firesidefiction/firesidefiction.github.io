@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 If a room could breathe, this one would be dragon’s fire. Not that dragons existed, but Amaya had heard enough stories about them from the northern merchants that she felt as if she could draw them from description alone.
