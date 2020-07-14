@@ -18,7 +18,7 @@ narrator: victor-ramos
 letterer:
 date: 2020-07-14 01:00:01 -0500
 permalink: the-spice-market
-audiourl:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/The_Spice_Market.mp3
 teaser: A story about discovering new tastes, and the blooming of commerce.
 art:
 artcaption:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 If a room could breathe, this one would be dragon’s fire. Not that dragons existed, but Amaya had heard enough stories about them from the northern merchants that she felt as if she could draw them from description alone.
