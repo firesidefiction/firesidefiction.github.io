@@ -18,8 +18,8 @@ narrator: victor-ramos
 letterer:
 date: 2020-07-28 01:00:01 -0500
 permalink: even-the-clearest-water
-audiourl:
-teaser:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/Even_the_Clearest_Water.mp3
+teaser: A story about water fae, autistic families, bargains, and love.
 art:
 artcaption:
 spanish-language:

@@ -18,7 +18,7 @@ narrator: victor-ramos
 letterer:
 date: 2020-07-21 01:00:01 -0500
 permalink: bury-me-standing
-audiourl:
+audiourl: https://traffic.libsyn.com/secure/firesidemagazine/Bury_Me_Standing.mp3
 teaser: The story of workers who make robots, and of Roma resistance.
 art:
 artcaption:
@@ -33,7 +33,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 The Romani shantytown was an ocean of sodium-gold light lapping the outskirts of Beograd. Some called it Deponia, others Cardboard City, but most preferred not to mention it at all. Life coursed through the dirt roads between the piling shacks while a new metropolis loomed in the clouds, out of earshot of song, wail, or prayer.
 
