@@ -1,19 +1,43 @@
 <section class="home-stream">
   <div class="home-magazine">
-    <h4 class="label no-border">Fireside Magazine</h4>
+    <h2 class="label no-border">Fireside Magazine</h2>
     {% assign items_grouped = site.posts | group_by: 'issue' %}
-      {% for group in items_grouped limit: 4 %}
-        <!--h2>Issue {{group.name}}</h2-->
-        {% for item in group.items %}
-          {% if item.category == "short story" or item.category == "story" or item.category == "cuento corto" or item.category == "cuento" or item.category == "flash fiction" or item.category == "comic" or item.category == "poem" %}
-            <div>
-              <!--p class="category">{{ item.category }}</p-->
-              <!--small class="category">{{ item.date | date: "%b %-d, %Y" }}</small-->
-              <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-              <p>{% if item.spanish-language %}un {{ item.category }} por{% else %}a {{ item.category }} by{% endif %} {% assign author = site.contributors | where:'short-name', item.author  | first %}{{ author.credit-name }}{% if item.art %}; {% if item.spanish-language %}ilustrado por {% assign illustrator = site.contributors | where:'short-name', item.illustrator  | first %}{{ illustrator.credit-name }}{% else %}illustrated by{% endif %} {% assign illustrator = site.contributors | where:'short-name', item.illustrator  | first %}{{ illustrator.credit-name }}{% endif %}
-              <br/>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p>
-            </div>
-          {% endif %}
+      {% for group in items_grouped limit: 3 %}
+      {% for item in group.items limit: 1 %}
+      {% if item.issue %}
+        <h2>Fireside Magazine Issue {{group.name}}</h2>
+        <div class="issue-container">
+          {% for item in group.items limit: 1 %}
+          <div class="ebook-showcase">
+            {% if item.issue-cover %}
+            <figure>
+              <img class="" src="/images/issue-covers/{{ item.issue-cover }}" alt="ebook cover">
+            </figure>
+            {% endif %}
+            {% if item.issue-buy-link %}<a href="{{ item.issue-buy-link }}" class="btn">Buy the ebook</a>{% endif %}
+          </div>
+          {% endfor %}
+          <div class="issue-contents">
+            {% for item in group.items %}
+              {% if item.category == "short story" or item.category == "story" or item.category == "cuento corto" or item.category == "cuento" or item.category == "flash fiction" or item.category == "comic" or item.category == "poem" %}
+                <div>
+                  <!--p class="category">{{ item.category }}</p-->
+                  <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>, <br/>{% if item.spanish-language %}un {{ item.category }} por{% else %}a {{ item.category }} by{% endif %} {% assign author = site.contributors | where:'short-name', item.author  | first %}{{ author.credit-name }}{% if item.art %}; {% if item.spanish-language %}ilustrado por {% else %}illustrated by{% endif %} {% assign artist = site.contributors | where:'short-name', item.illustrator  | first %}{{ artist.credit-name }}{% endif %}</h3>
+                  {{ item.teaser  | markdownify }}
+                </div>
+              {% endif %}
+              {% if item.category == "serial" %}
+                <div>
+                  <small class="category">{{ item.category }}: {{ item.serial-name }}, Chapter {{ item.part }}</small>
+                  <h1><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h1>
+                  <h3>by {{ item.author }}</h3>
+                  <p>{{ item.teaser  | markdownify }}</p>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
         {% endfor %}
       {% endfor %}
       <p class="btn reverse"><a href="/magazine">See all back issues</a></p>
@@ -23,7 +47,7 @@
       <h4 class="label no-border">Featured Book</h4>
     </div-->
     <!--div-->
-      <h4 class="label no-border">Essays and News</h4>
+      <h2 class="label no-border">Essays and News</h2>
       {% for post in site.posts limit: 80 %}
         {% if post.category == "news" or post.category == "announcement" or post.category == "essay" or post.category == "interview" or post.category == "editorial" %}
         <div>
