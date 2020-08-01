@@ -197,15 +197,15 @@ main > section {
 	}
 	p {
 		margin-bottom: 0;
-		&:first-child:first-letter {
+		&:first-child:first-line {
 		  color: $color__main-site;
 			font-weight: 500;
-			float: left;
-		  font-size: 97px;
-		  line-height: 60px;
-		  padding-top: 11px;
-		  padding-right: 8px;
-		  padding-left: 3px;
+			//float: left;
+		 // font-size: 97px;
+		  //line-height: 60px;
+		  //padding-top: 11px;
+		  //padding-right: 8px;
+		  //padding-left: 3px;
 		}
 	}
 	blockquote p {
