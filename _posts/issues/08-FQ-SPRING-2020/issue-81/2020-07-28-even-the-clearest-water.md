@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 81, July 2020
 issue-cover: issue-81-cover.png
-issue-buy-link:
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-81-july-2020
 title: Even the Clearest Water
 subtitle:
 author: andi-c-buchanan
