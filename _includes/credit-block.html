@@ -10,7 +10,7 @@
 {% assign narrator = site.contributors | where: 'short-name', page.narrator | first %}
 {% assign letterer = site.contributors | where: 'short-name', page.letterer | first %}
 {% if page.author %}
-  <h2 class="byline">{% if page.spanish-language %}por{% else %}by{% endif %} <a href="{{ author.url }}">{{ author.credit-name }}</a>{% if page.author-2 %} &amp; <a href="{{ author-2.url }}">{{ author-2.credit-name }}</a>{% endif %}</h2>
+  <h2 class="byline">{% if page.spanish-language %}por{% else %}by{% endif %} <a href="{{ author.url }}">{{ author.credit-name }}</a>{% if page.author-2 %}{% if page.author-3 %}, {% else %} &amp; {% endif %} <a href="{{ author-2.url }}">{{ author-2.credit-name }}</a>{% endif %}{% if page.author-3 %} &amp; <a href="{{ author-2.url }}">{{ author-3.credit-name }}</a>{% endif %}</h2>
 {% endif %}
 <p>{% if page.illustrator %}
   {% if page.spanish-language %}Ilustrado por {% else %}Illustrated by {% endif %}<a href="{{ illustrator.url }}">{{ illustrator.credit-name }}</a>&nbsp;|&nbsp;

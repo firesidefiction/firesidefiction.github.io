@@ -15,4 +15,4 @@ website-url: vajra.me
 short-name: vajra-chandrasekera
 permalink: vajra-chandrasekera
 ---
-Vajra Chandrasekera is from Colombo, Sri Lanka. His work has appeared in _Analog Science Fiction and Fact_, _Clarkesworld Magazine_, and _Nightmare Magazine_, among others. He blogs occasionally at (http://vajra.me)[vajra.me] and is @_vajra on Twitter.
+Vajra Chandrasekera is from Colombo, Sri Lanka. His work has appeared in _Analog Science Fiction and Fact_, _Clarkesworld Magazine_, and _Nightmare Magazine_, among others. He blogs occasionally at http://vajra.me and is @_vajra on Twitter.
