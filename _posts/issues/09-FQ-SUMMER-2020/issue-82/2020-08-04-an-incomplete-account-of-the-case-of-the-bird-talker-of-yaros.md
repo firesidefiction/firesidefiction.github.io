@@ -16,6 +16,7 @@ selector:
 translator:
 narrator: hollis-beck
 letterer:
+word-count: 2396
 date: 2020-08-04 01:00:01 -0500
 permalink: an-incomplete-account-of-the-case-of-the-bird-talker-of-yaros
 audiourl: https://traffic.libsyn.com/secure/firesidemagazine/005_An_Incomplete_Account.mp3
