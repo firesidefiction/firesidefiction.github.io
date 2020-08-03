@@ -16,6 +16,7 @@ selector:
 translator:
 narrator: hollis-beck
 letterer:
+word-count: 751
 date: 2020-08-25 01:00:01 -0500
 permalink: redemption
 audiourl: https://traffic.libsyn.com/secure/firesidemagazine/008_Redemption.mp3
