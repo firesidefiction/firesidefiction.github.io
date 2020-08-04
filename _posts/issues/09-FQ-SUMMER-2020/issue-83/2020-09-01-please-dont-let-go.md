@@ -16,6 +16,7 @@ selector:
 translator:
 narrator: hollis-beck
 letterer:
+word-count: 2177
 date: 2020-09-01 01:00:01 -0500
 permalink: please-dont-let-go
 audiourl: https://traffic.libsyn.com/secure/firesidemagazine/009_PleaseDontLetGo.mp3

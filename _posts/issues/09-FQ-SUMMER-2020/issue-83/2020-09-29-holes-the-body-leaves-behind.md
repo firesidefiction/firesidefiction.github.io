@@ -16,6 +16,7 @@ selector:
 translator:
 narrator: hollis-beck
 letterer:
+word-count: 941
 date: 2020-09-29 01:00:01 -0500
 permalink: holes-the-body-leaves-behind
 audiourl: https://traffic.libsyn.com/secure/firesidemagazine/013_Holes_the_Body_Leaves_Behind.mp3

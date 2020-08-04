@@ -12,6 +12,7 @@ layout: default
     <h2>{{ page.subtitle | escape }}</h2>
     {% include credit-block.html %}
     <p>{% if page.spanish-date %}{{ page.spanish-date }}{% else %}{{ page.date | date: "%B %Y" }}{% endif %}</p>
+    {% if page.word-count %}<p><small>{{ page.word-count }} words — Reading time: around {{ page.word-count | divided_by: 200 }} minutes</small></p>{% endif %}
 </header>
 
 <div class="story-controls">

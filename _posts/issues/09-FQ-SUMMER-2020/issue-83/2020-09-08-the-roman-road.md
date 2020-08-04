@@ -16,6 +16,7 @@ selector:
 translator:
 narrator: hollis-beck
 letterer:
+word-count: 1458
 date: 2020-09-08 01:00:01 -0500
 permalink: the-roman-road
 audiourl: https://traffic.libsyn.com/secure/firesidemagazine/010_The_Roman_Road.mp3

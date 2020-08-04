@@ -16,6 +16,7 @@ selector:
 translator:
 narrator: hollis-beck
 letterer:
+word-count: 1315
 date: 2020-09-15 01:00:01 -0500
 permalink: a-machine-unhaunted
 audiourl: https://traffic.libsyn.com/secure/firesidemagazine/011_A_Machine_Unhaunted.mp3
