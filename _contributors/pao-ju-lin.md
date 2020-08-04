@@ -16,4 +16,4 @@ short-name: pao-ju-lin
 permalink: pao-ju-lin
 bio-spanish:
 ---
-Pao-Ju Lin is a freelance illustrator currently based in London. After receiving MA degree in illustration from Kingston University, London, she started to work on editorial illustrations and collaborated with other artists. Also, she is constantly doing her personal projects for experimenting and discovering interesting ways to tell stories. Check out her website at www.paojulin.com or follow her on Instagram at @paojulin
+Pao-Ju Lin is a freelance illustrator currently based in London. After receiving her MA in illustration from Kingston University in London, she started to work on editorial illustrations and collaborated with other artists. She is constantly doing personal projects, experimenting and discovering interesting ways to tell stories. Check out her website at paojulin.com or follow her on Instagram at @paojulin.
