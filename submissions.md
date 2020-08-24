@@ -21,7 +21,7 @@ We have no further submissions dates to announce for the moment. Please [subscri
 
 We welcome previously unpublished work ('published' includes work posted on Patreon or on a blog) in English or Spanish from all writers anywhere in the world, and we are interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
 
-If you have any questions about how to submit, please email us at: [questions@firesidefiction.com](mailto:questions@firesidefiction.com).
+If you have any questions about how to submit, please email us at: [questions@firesidefiction.com](mailto:questions@firesidefiction.com). (_Any submissions sent via email will be deleted unread._)
 
 ## Accessibility
 We use an online form to gather submissions, but we understand that this may not be universally accessible to disabled people. If you have questions related to accessibility, please email us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com?subject:Accessibility Query) with the subject line: Accessibility Query. Accessibility Queries should only contain a request to submit by alternate means, and should not include a submission.
@@ -34,7 +34,7 @@ _Any submissions sent via email will be deleted unread._
 
 We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories.
 
-Please read the following guidelines<!--, then use the form below to submit your work-->. During open submissions periods, there will be a form below for uploading your submission.
+Please read the following guidelines, then use the form below to submit your work.<!-- During open submissions periods, there will be a form below for uploading your submission.-->
 
 ### Please submit:
 - Stories in English or Spanish
@@ -62,7 +62,7 @@ Please read the following guidelines<!--, then use the form below to submit your
 
 ### What to expect from us:
 - Fireside acquires English language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
-- First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period<!--, and a final decision by the end of August, 2020-->.
+- First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of November, 2020.
 - Payment of 12.5 cents per word
 
 ## Use this form to submit your work:
