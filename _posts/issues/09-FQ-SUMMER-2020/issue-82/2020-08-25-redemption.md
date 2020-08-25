@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 "812 years, 148 days remaining," announces the wall as it wakes you up. You reach over to silence it for the rest of the day. Perhaps it is possible to practice a perfected life with a soundtrack. If so, that is a level of merit you have yet to attain.
