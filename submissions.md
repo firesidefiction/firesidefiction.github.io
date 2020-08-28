@@ -3,15 +3,13 @@ layout: page
 title:  "Submissions Guidelines"
 permalink: submissions
 ---
-Fireside is <!--currently closed -->open for submissions for the Summer 2021 Issue, edited by Yanni Kuznia, from **August 24, 2020 at 6am EST to August 28, 2020 at 6pm EST**. Please read the following guidelines, then use the form below to submit your work.
+Fireside is currently closed <!--open--> to submissions. <!--for the Summer 2021 Issue, edited by Yanni Kuznia, from **August 24, 2020 at 6am EST to August 28, 2020 at 6pm EST**. Please read the following guidelines, then use the form below to submit your work.-->
 
-Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following periods:
-
-- **August 24, 2020 to August 28, 2020**<br/>Submissions period for the Summer 2021 Issue, edited by Yanni Kuznia
+Fireside holds a submissions period for each upcoming issue of _Fireside Quarterly_. In 2020, Fireside will be open to submissions for short stories during the following period:
 
 - **November 30, 2020 to December 4, 2020**<br/>Submissions period for the Autumn 2021 Issue
 
-<!--During open submissions periods, there will be a form on this page for uploading your submission.-->
+-During open submissions periods, there will be a form on this page for uploading your submission.
 
 We have no further submissions dates to announce for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
@@ -34,7 +32,7 @@ _Any submissions sent via email will be deleted unread._
 
 We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories.
 
-Please read the following guidelines, then use the form below to submit your work.<!-- During open submissions periods, there will be a form below for uploading your submission.-->
+Please read the following guidelines. During open submissions periods, there will be a form below for uploading your submission.
 
 ### Please submit:
 - Stories in English or Spanish
@@ -65,10 +63,9 @@ Please read the following guidelines, then use the form below to submit your wor
 - First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of November, 2020.
 - Payment of 12.5 cents per word
 
-## Use this form to submit your work:
-
+<!--
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrhflwnbmpf5cS2u?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="2234" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
+-->
 ----
 
 ## Artwork
