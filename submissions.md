@@ -9,7 +9,7 @@ Fireside holds a submissions period for each upcoming issue of _Fireside Quarter
 
 - **November 30, 2020 to December 4, 2020**<br/>Submissions period for the Autumn 2021 Issue
 
--During open submissions periods, there will be a form on this page for uploading your submission.
+During open submissions periods, there will be a form on this page for uploading your submission.
 
 We have no further submissions dates to announce for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
