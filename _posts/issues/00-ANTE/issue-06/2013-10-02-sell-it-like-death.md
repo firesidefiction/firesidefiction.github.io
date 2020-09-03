@@ -6,7 +6,7 @@ issue-cover: issue-6-cover.png
 issue-buy-link:
 title: Sell it Like Death
 subtitle:
-author:
+author: james-mcgee
 author-2:
 author-3:
 editor: brian-j-white
