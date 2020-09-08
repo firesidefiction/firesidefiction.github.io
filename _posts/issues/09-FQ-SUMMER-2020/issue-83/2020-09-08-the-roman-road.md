@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 The upload helmet is lined with buzzsaws, as you can see, diamond-edged and very sharp. We are assured by those who have undergone the process that it is painless. Observe now, one in progress: there is a brief noise like a swarm of hornets, then an unfortunately unavoidable spray of blood and grey bone-dust; a reminder, if you will, of the frailty of the flesh. Then the top of the skull comes off as neat as you please.
