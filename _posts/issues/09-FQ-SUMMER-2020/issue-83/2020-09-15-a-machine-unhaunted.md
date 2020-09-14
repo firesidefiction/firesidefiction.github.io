@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 Josie was not paying sufficient attention to me. She sat on the swivel chair beneath the window, watching raindrops gather and roll over the grime-streaked glass. Distracted.
