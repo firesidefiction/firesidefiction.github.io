@@ -16,4 +16,4 @@ short-name: hal-y-zhang
 permalink: hal-y-zhang
 bio-spanish:
 ---
-Hal Y. Zhang starts the day with earl grey, ends it with jasmine, and types furiously in between. Read more of her work at [halyzhang.com](http://halyzhang.com).
+Hal Y. Zhang writes science, fiction, and science fiction, in no particular order. Her work is at halyzhang.com, and her chapbook _Hard Mother, Spider Mother, Soft Mother_ was published by Radix Media.
