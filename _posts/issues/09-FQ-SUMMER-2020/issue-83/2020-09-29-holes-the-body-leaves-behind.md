@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 I was not surprised when the roads I'd yo-yo'd over all these years ripped themselves clean of the earth, knotted themselves into the rough shape of a body, and began destroying the city of my birth. Its flesh was pothole-pitted and sashed with guardrails.
 
