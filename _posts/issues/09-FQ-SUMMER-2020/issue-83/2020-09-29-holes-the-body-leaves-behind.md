@@ -36,6 +36,7 @@ contentnote:
 generalnote:
 published: true
 ---
+
 I was not surprised when the roads I'd yo-yo'd over all these years ripped themselves clean of the earth, knotted themselves into the rough shape of a body, and began destroying the city of my birth. Its flesh was pothole-pitted and sashed with guardrails.
 
 Safe in the suburbs, I sat in the snow outside my house, wrapped in double-layered clothing and a mummy bag, drinking cocoa, watching — the dark bulk on the skyline an answer to the skyscrapers shining through the mist. I had heard of these Colossuses in faraway places: giants made of train cars, or sawdust, or oil derricks, bound to some destructive will. I’d read of survivors who dreamed up ways to fight back, to reclaim the homes they’d lost until, day by day, their old lives faded.
