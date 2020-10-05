@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Eighteen years ago, Ntinyari takes her heart out of her chest for the first time. It is a frightened bird in her hand. An ugly thing, slick with fat and slippery and loud, _kugu_ _kugu_ _kugu_. She squeezes it, willing it to still for just a moment and let her hear herself. Mother finds her fallen over, a marionette in a heap. Her heart has rolled under the bed.
 
