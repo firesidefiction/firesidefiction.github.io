@@ -1,11 +1,12 @@
 <section class="home-stream">
+
   <div class="home-magazine">
-    <h2 class="label no-border">Fireside Magazine</h2>
+    <h2 class="label no-border"><em>Fireside Magazine</em> is also available as a monthly ebook — <a href="https://firesidefiction.memberful.com/checkout?plan=25782">subscribe now for $5 per month</a> or buy individual back issues below. </h2>
     {% assign items_grouped = site.posts | group_by: 'issue' %}
       {% for group in items_grouped limit: 3 %}
       {% for item in group.items limit: 1 %}
       {% if item.issue %}
-        <h2>Fireside Magazine Issue {{group.name}}</h2>
+        <h2><em>Fireside Magazine</em> Issue {{group.name}}</h2>
         <div class="issue-container">
           {% for item in group.items limit: 1 %}
           <div class="ebook-showcase">
@@ -42,29 +43,5 @@
       {% endfor %}
       <p class="btn reverse"><a href="/magazine">See all back issues</a></p>
   </div>
-  <div class="home-sidebar">
-    <!--div>
-      <h4 class="label no-border">Featured Book</h4>
-    </div-->
-    <!--div-->
-      <h2 class="label no-border">Essays and News</h2>
-      {% for post in site.posts limit: 80 %}
-        {% if post.category == "news" or post.category == "announcement" or post.category == "essay" or post.category == "interview" or post.category == "editorial" %}
-        <div>
-          <small class="category">{{ post.date | date: "%b %-d, %Y" }} | {{ post.category }}</small>
-          <p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>, by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</p>
-          <!-- p>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p-->
-        </div>
-        {% endif %}
-        {% if post.category == "#Blackspecfic" %}
-        <div>
-          <small class="category">{{ post.date | date: "%b %-d, %Y" }} | <a href="/blackspecfic">{{ post.category }}</a></small>
-          <p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>, by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</p>
-          <!-- p>{{ item.teaser | markdownify | remove: '<p>' | remove: '</p>' }}</p-->
-        </div>
-        {% endif %}
-      {% endfor %}
-      <p class="btn reverse"><a href="/blog">See all articles</a></p>
-    </div>
-  <!--/div-->
+
 </section>

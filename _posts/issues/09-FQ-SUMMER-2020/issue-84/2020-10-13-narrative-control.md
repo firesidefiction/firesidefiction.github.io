@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 “Begin narration. You are sitting on the couch, hating yourself for your contented indolence, wondering if any of your friends have noticed how much weight you’ve put on since your partner finally wised up and left."
 
