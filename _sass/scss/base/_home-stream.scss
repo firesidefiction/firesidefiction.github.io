@@ -9,6 +9,9 @@
     border-top: 1px solid $color__base;
     margin: 1em 0;
     padding: 1em 0 0;
+		&:first-of-type {
+			border-top: none;
+		}
   }
 }
 
@@ -39,7 +42,7 @@
       border: none;
       padding: 0;
 			margin: 0;
-			display: none;
+			//display: none;
     }
 		&::nth-child(2) {
       border: none;
