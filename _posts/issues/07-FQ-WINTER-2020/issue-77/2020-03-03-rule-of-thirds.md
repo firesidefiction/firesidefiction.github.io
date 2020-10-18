@@ -81,7 +81,7 @@ The idea of being beneath and within the earth, like a child in its mother’s w
 
 We ease ourselves forward carefully.
 
-_Control. _
+_Control._
 
 _Control._
 
@@ -183,7 +183,7 @@ I reach out for the guideline again. This time someone takes my gloved hand and 
 
 _Oh God.... Is this what Karst saw earlier?! Is this why he was behaving like that?! What if there are more? Don’t panic, DON’T panic._
 
-_Control. Control. _
+_Control. Control._
 
 The creature is about four feet long and the size of a child, with thin, translucent skin. I can see its veins and even the outlines of its organs just beneath. There’s nothing where its eyes should be, just recesses suggesting ones were there long ago. They are unnecessary down here anyway. What must have been its legs are now fused into what looks like an undulating tail. Gills flutter at the sides of its head, and feathery feelers protrude from what would have been ears.
 
