@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 It is remarkable what a difference it makes. Only twenty minutes a day. No special tools required. I was skeptical at first, but then I tried it and saw the results for myself.
 
