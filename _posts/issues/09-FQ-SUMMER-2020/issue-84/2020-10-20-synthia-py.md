@@ -10,7 +10,7 @@ author: hal-y-zhang
 author-2:
 author-3:
 editor: kate-dollarhyde
-illustrator: anna-dittman
+illustrator: anna-dittmann
 copyeditor: chelle-parker
 selector:
 translator:
