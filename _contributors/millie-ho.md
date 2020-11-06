@@ -15,4 +15,4 @@ website-url: millieho.net
 short-name: millie-ho
 permalink: millie-ho
 ---
-Millie Ho’s short stories and poems have appeared in _Fireside Magazine_, _Strange Horizons_, _Uncanny Magazine_, and others. She won Third Place in the 2019 Rhysling Awards and is a graduate of Clarion West. Find her at [www.millieho.net](https://millieho.net/) and on Twitter [@Millie_Ho](https://twitter.com/millie_ho)
+Millie Ho's short stories appear in _Lightspeed Magazine_, _Nightmare Magazine_, _Fireside Magazine_, and others. Her poems appear in _PRISM international_, _Strange Horizons_, and _Uncanny Magazine_. She was a finalist for the 2019 Rhysling Awards. Find her at [www.millieho.net](http://www.millieho.net).
