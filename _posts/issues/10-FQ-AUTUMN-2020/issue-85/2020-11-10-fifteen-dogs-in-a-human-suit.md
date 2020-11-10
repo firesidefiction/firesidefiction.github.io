@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 Fifteen dogs scrambled into a humansuit, paws flailing and tongues lolling as they squeezed their haunches into limb capsules and torso canisters. None of them were very big, but it was a tight fit for each and every one, right down to the terrier who whined as the headbox shut tight around her. Fifteen tails twitched back and forth until they found bioports and plugged in. Breathing and heart rates synchronised.
