@@ -205,7 +205,7 @@ Moonlight cuts a curtain into the chamber, but only so far. He stands with his b
 
 Dr. Sara Bisel is a pale woman who wears her hair cut close to her scalp. She speaks with a studied slowness that gives the impression of exaggerated care and walks at a similar pace. She keeps to such a stroll that Jun feels the anxiety of holding his steps back as a kind of jittery tension. Liz seems to fall easily into step with her. They’ve been dispatched to the fish market in preparation for a celebratory we’re-funded-for-another-six-months cookout on the beach. Dr. Bisel wants to choose fish that the ancient Ossuarians ate. It’s a long list of species. Jun, Liz, and Daniel the intern have come along to carry.
 
-“But seriously, though. Do we actually need to get all three kids of eel?” Daniel says, angling his voice into Jun’s ear, away from Liz and Dr. Bisel.
+“But seriously, though. Do we actually need to get all three kinds of eel?” Daniel says, angling his voice into Jun’s ear, away from Liz and Dr. Bisel.
 
 “Why wouldn’t we?” Jun replies, pitched loud enough for the entire group. Daniel doesn’t answer.
 
