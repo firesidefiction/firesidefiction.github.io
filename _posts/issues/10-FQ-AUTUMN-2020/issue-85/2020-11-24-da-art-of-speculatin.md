@@ -14,12 +14,12 @@ illustrator:
 copyeditor: chelle-parker
 selector:
 translator:
-narrator: kevin-rineer
+narrator:
 letterer:
 word-count: 880
 date: 2020-11-24 01:00:01 -0500
 permalink: da-art-of-speculatin
-audiourl: https://traffic.libsyn.com/secure/firesidemagazine/010_FiresideQuarterly_Da_Art_of_Speculatin.mp3
+audiourl:
 teaser: A breakdown of the afrofuturistic stylings of OutKast
 art:
 artcaption:
