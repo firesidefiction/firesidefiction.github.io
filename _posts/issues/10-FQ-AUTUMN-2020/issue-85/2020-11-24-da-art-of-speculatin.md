@@ -34,13 +34,13 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 
 I’m a southern Black woman who stands in the long shadow of the Civil Rights Movement. Southern hip hop helped me navigate the contemporary Black South. When I gathered with friends, southern hip hop was the soundtrack. When I grieved my father, southern hip hop was my comfort. And, years after my initial transplanting into Albany, GA, it dawned on me that southern hip hop was the blueprint for understanding Black southernness in the post-Civil Rights era. Specifically, I found myself doing deeper and deeper dives into the music catalogue of OutKast, those two funkateers from Atlanta that offered innovative and dynamic musical redressing to the question of where and how the Black South positions itself in American culture.  
 
-OutKast, comprised of members Antwan “Big Boi” Patton and André “3000” Benjamin, entered hip hop in the early 1990s, a time where hip hop was fixated on the growing tension between northeastern and western coast rap artists. While the northeast and west coasts focused on each other, southern hip hop artists like OutKast crept through hip hop’s back door, a stirring re-rendering to the Jim Crow narratives that paved the way for contemporary southern Black folks. 
+OutKast, comprised of members Antwan “Big Boi” Patton and André “3000” Benjamin, entered hip hop in the early 1990s, a time where hip hop was fixated on the growing tension between northeastern and western coast rap artists. While the northeast and west coasts focused on each other, southern hip hop artists like OutKast crept through hip hop’s back door, a stirring re-rendering to the Jim Crow narratives that paved the way for contemporary southern Black folks.
 
 OutKast’s music pushes the limits of southernness and its proximity to Black cultural experience. Rather than considering the south’s relationship to the future as oxymoronic, OutKast fuses possibilities of the future together like grits and eggs, collard greens and fatback, Martin Luther King and the mountaintop. As I argue in my forthcoming book on OutKast, _Chronicling Stankonia_, King’s metaphorical mountaintop serves as the apex for racial equality and inclusion, but the mountaintop is not flat. There are new challenges and opportunities for southern Black folks to speak their truths into power and agency without losing sight of the strides made in our immediate past. And because southerners move through the world with one foot and eye in the past and the other foot and eye in the future, OutKast’s music is a useful framework for the unique way southerners maneuver the world.  
 
