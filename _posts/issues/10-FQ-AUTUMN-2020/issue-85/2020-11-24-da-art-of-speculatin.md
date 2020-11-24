@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 880
-date: 2020-11-24 01:00:01 -0500
+date: 2020-11-24 03:00:01 -0500
 permalink: da-art-of-speculatin
 audiourl:
 teaser: A breakdown of the afrofuturistic stylings of OutKast
