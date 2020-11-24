@@ -14,12 +14,12 @@ illustrator:
 copyeditor: chelle-parker
 selector: julia-rios
 translator:
-narrator: kevin-rineer
+narrator: 
 letterer:
 word-count: 4078
 date: 2020-11-10 01:00:01 -0500
 permalink: fifteen-dogs-in-a-human-suit
-audiourl: https://traffic.libsyn.com/secure/firesidemagazine/007_FiresideQuarterly_Fifteen_Dogs_in_a_Human_Suit.mp3
+audiourl:
 teaser:
 art:
 artcaption:

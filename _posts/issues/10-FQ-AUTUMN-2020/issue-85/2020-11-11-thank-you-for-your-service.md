@@ -14,12 +14,12 @@ illustrator:
 copyeditor: chelle-parker
 selector: pablo-defendini
 translator:
-narrator: kevin-rineer
+narrator: 
 letterer:
 word-count: 1880
 date: 2020-11-11 01:00:01 -0500
 permalink: thank-you-for-your-service
-audiourl: https://traffic.libsyn.com/secure/firesidemagazine/008_FiresideQuarterly_Thank_you_for_your_service.mp3
+audiourl:
 teaser:
 art:
 artcaption:

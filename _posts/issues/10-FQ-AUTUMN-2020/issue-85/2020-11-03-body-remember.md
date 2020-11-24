@@ -14,12 +14,12 @@ illustrator:
 copyeditor: chelle-parker
 selector: julia-rios
 translator:
-narrator: kevin-rineer
+narrator:
 letterer:
 word-count: 4006
 date: 2020-11-03 01:00:01 -0500
 permalink: body-remember
-audiourl: https://traffic.libsyn.com/secure/firesidemagazine/006_FiresideQuarterly_Body_Remember.mp3
+audiourl:
 teaser:
 art:
 artcaption:
