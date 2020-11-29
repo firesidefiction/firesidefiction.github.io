@@ -1,6 +1,6 @@
 ---
 layout: post
-category: essay
+category: announcement
 issue: 85, November 2020
 issue-cover: issue-85-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-85-november-2020
