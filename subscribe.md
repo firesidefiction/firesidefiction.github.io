@@ -1,5 +1,5 @@
 ---
-layout: magazine-product-page
+layout: home
 title:  "Subscribe to Fireside"
 permalink: subscribe
 ---
