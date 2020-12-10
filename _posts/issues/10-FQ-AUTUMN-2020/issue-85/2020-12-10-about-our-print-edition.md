@@ -45,7 +45,7 @@ This was a difficult decision; the quarterly print edition is a beautiful thing 
 
 We have already reached out to all of our print subscribers to facilitate refunds, convert print subscriptions to digital subscriptions, and answer any other concerns they may have. If you are a print subscriber and did not receive an email about this, please contact us at [subscriptions@firesideficiton.com](mailto:subscriptions@firesidefiction.com).
 
-One of my goals during this transition period is to be transparent as I can about what we’re changing and why we’re changing it, because I think Fireside owes that to the people who were harmed by that recording and to all the people who have supported us over the years. I’ll continue to post updates like these as I make decisions and figure out the way forward.
+One of my goals during this transition period is to be as transparent as I can about what we’re changing and why we’re changing it, because I think Fireside owes that to the people who were harmed by that recording and to all the people who have supported us over the years. I’ll continue to post updates like these as I make decisions and figure out the way forward.
 
 Thank you.
 
