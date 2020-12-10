@@ -20,7 +20,7 @@
           {% endfor %}
           <div class="issue-contents">
             {% for item in group.items %}
-              {% if item.category == "short story" or item.category == "story" or item.category == "cuento corto" or item.category == "cuento" or item.category == "flash fiction" or item.category == "comic" or item.category == "poem" or item.category == "essay" or item.category == "announcement" %}
+              {% if item.category == "short story" or item.category == "story" or item.category == "cuento corto" or item.category == "cuento" or item.category == "flash fiction" or item.category == "comic" or item.category == "poem" or item.category == "essay" %}
                 <div>
                   <p class="category">{{ item.category }}</p>
                   <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>, <br/>by {% assign author = site.contributors | where:'short-name', item.author  | first %}{{ author.credit-name }}{% if item.art %}; {% if item.spanish-language %}ilustrado por {% else %}illustrated by{% endif %} {% assign artist = site.contributors | where:'short-name', item.illustrator  | first %}{{ artist.credit-name }}{% endif %}</h3>
@@ -43,5 +43,17 @@
       {% endfor %}
       <p class="btn reverse"><a href="/magazine">See all back issues</a></p>
   </div>
+
+    <div class="home-sidebar">
+      <h2 class="label no-border">Announcements</h2>
+      {% for post in site.posts limit: 5 %}
+        {% if post.category == "announcement" %}
+         <div>
+          <small class="category">{{ post.date | date: "%b %-d, %Y" }}</small>
+          <p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>, <br/>by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</p>
+        </div>
+      {% endif %}
+      {% endfor %}
+    </div>
 
 </section>
