@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: false 
 ---
 The moment she stepped into the Glass Hall, she felt a brief shudder, but she chided herself and was still. She was here for her husband. He had married her with pride, and she would do her utmost to ensure that his pride in her was justified.
 
