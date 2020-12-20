@@ -262,3 +262,15 @@ main > section {
 		margin: $space*2;
 	}
 }
+
+
+.image-center {
+	margin: 1em auto;
+	text-indent: 0!important;
+}
+
+.screengrab {
+	margin: 1em 0;
+	max-width: 90%;
+	text-indent: 0!important;
+}
