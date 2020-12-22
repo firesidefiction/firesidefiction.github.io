@@ -5,11 +5,11 @@ first-name: Danny
 last-name: Lore
 file-as: l
 role: Author
-role-2:
+role-2: Editor
 role-3:
 title: Danny Lore — Work in Fireside
-description:
-twitter-handle:
+description: Guest Editor, _Fireside Quarterly_ Winter 2020
+twitter-handle: weredawgz
 profile-pic: danny-lore.jpg
 website-url: dannylore.com
 short-name: danny-lore
