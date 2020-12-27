@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Zain started tweeting as the lighthouse on a lark. The federal board certainly didn’t order him. Even the coast guard had stopped maintaining Oren Lighthouse: it never made the Massachusetts tourist lists, always overshadowed by must-see lights like Chatham, Nauset, and Long Point. He knew it wouldn’t be long before the board would recommend demolishing the structure. A dark lighthouse with no tourists had no value.
 
