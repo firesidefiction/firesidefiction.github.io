@@ -34,9 +34,9 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: true
+published: false
 ---
-Zain started tweeting as the lighthouse on a lark. The federal board certainly didn’t order him. Even the coast guard had stopped maintaining Oren Lighthouse: it never made the Massachusetts tourist lists, always overshadowed by must-see lights like Chatham, Nauset, and Long Point. He knew it wouldn’t be long before the board would recommend demolishing the structure. A dark lighthouse with no tourists had no value. 
+Zain started tweeting as the lighthouse on a lark. The federal board certainly didn’t order him. Even the coast guard had stopped maintaining Oren Lighthouse: it never made the Massachusetts tourist lists, always overshadowed by must-see lights like Chatham, Nauset, and Long Point. He knew it wouldn’t be long before the board would recommend demolishing the structure. A dark lighthouse with no tourists had no value.
 
 Tweeting gave the light a voice. He hoped it would reach people who would visit the structure for what it was, instead of passersby in search of restrooms.
 
