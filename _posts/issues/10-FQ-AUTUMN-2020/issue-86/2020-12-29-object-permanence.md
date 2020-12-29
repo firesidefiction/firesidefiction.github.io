@@ -34,8 +34,8 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-subnote: 
-published: false
+subnote:
+published: true
 ---
 Zain started tweeting as the lighthouse on a lark. The federal board certainly didn’t order him. Even the coast guard had stopped maintaining Oren Lighthouse: it never made the Massachusetts tourist lists, always overshadowed by must-see lights like Chatham, Nauset, and Long Point. He knew it wouldn’t be long before the board would recommend demolishing the structure. A dark lighthouse with no tourists had no value.
 
@@ -58,7 +58,7 @@ Zain ducked under the glass fishbowl. The Fresnel lens used to be here. Back the
 ![A tweet from Oren Lighthouse, which reads: The birds are lively today, nestling in my sycamore trees.](/images/graphics/object-permanence-02.png){: .screengrab }
 
 {: .image-center }
-![A tweet from Oren Lighthouse, which reads: Somed ays, it's easy to forget the ships are even out there now that I'm not guiding them.](/images/graphics/object-permanence-03.png){: .screengrab }
+![A tweet from Oren Lighthouse, which reads: Some days, it's easy to forget the ships are even out there now that I'm not guiding them.](/images/graphics/object-permanence-03.png){: .screengrab }
 
 
 Some mornings, he woke to find that the light had sent its own tweets—messages he didn’t remember writing. The Twitter support folks reassured him that no one had hacked the account. It was normal for those that manage tweets to blur the lines between real life and their personas, they said. Zain didn’t quite believe this, though.
@@ -166,9 +166,6 @@ Other landmarks with green checkmarks followed him — a nearby village, a farmh
 
 {: .image-center }
 ![A tweet from Oren Lighthouse, which reads: @NabassatPond That sounds fabulous. Lots of people there?.](/images/graphics/object-permanence-11.png){: .screengrab }
-
-{: .image-center }
-![A tweet from Nabassat Pond, which reads: @OrenLighthouse Only a few. One skater who came to town just to see me!.](/images/graphics/object-permanence-13.png){: .screengrab }
 
 {: .image-center }
 ![A tweet from Oren Lighthouse, which reads: @NabassatPond Congrats!](/images/graphics/object-permanence-12.png){: .screengrab }
