@@ -1,13 +1,13 @@
 ---
 layout: contributor-profile
-credit-name: James yu
+credit-name: James Yu
 first-name: James
-last-name: yu
+last-name: Yu
 file-as: y
 role: Author
 role-2:
 role-3:
-title: James yu — Work in Fireside
+title: James Yu — Work in Fireside
 description:
 twitter-handle: jamesjyu
 profile-pic: james-yu.jpg
