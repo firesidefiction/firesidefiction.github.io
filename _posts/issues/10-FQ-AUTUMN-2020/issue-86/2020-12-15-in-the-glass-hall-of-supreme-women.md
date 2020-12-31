@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 86, December 2020
 issue-cover: issue-86-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-86-november-2020
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-86-december-2020
 title: In the Glass Hall of Supreme Women
 subtitle:
 author: jaymee-goh
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: true 
+published: true
 ---
 The moment she stepped into the Glass Hall, she felt a brief shudder, but she chided herself and was still. She was here for her husband. He had married her with pride, and she would do her utmost to ensure that his pride in her was justified.
 

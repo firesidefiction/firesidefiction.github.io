@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 86, December 2020
 issue-cover: issue-86-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-86-november-2020
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-86-december-2020
 title: Letters from Yours
 subtitle:
 author: em-liu
