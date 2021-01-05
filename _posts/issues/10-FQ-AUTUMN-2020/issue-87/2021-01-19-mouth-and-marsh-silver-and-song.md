@@ -6,10 +6,10 @@ issue-cover: issue-87-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-87-january-2021
 title: Mouth & Marsh, Silver & Song
 subtitle:
-author: wayfarer-ah-ola
+author: sloane-leong
 author-2:
 author-3:
-editor:
+editor: pablo-defendini
 illustrator:
 copyeditor: chelle-parker
 selector: julia-rios
