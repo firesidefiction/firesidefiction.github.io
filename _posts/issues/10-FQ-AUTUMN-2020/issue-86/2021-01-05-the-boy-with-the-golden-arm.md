@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Behind the Coliseum, a crowd gathered around a food truck and a booth that sold vintage audio gear. A line of hapless emcees stretched around thirty-five or forty bodies from Michael to a vault-like metal door. He wanted to battle, but the threshold filled his belly with sour notes and fear.
 
