@@ -9,9 +9,9 @@ role-2:
 role-3:
 title: Sloane Leong — Work in Fireside
 description: Author
-twitter-handle: wayfarerahola
+twitter-handle: sloanesloane
 profile-pic: sloane-leong.jpg
-website-url: wayfarerahola.wordpress.com/
+website-url: sloanesloane.com/
 short-name: sloane-leong
 permalink: sloane-leong
 bio-spanish:
