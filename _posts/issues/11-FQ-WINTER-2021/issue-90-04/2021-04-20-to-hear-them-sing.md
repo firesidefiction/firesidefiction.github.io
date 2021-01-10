@@ -10,7 +10,7 @@ author: rebecca-burton
 author-2:
 author-3:
 editor: danny-lore
-illustrator:
+illustrator: christina-chung
 copyeditor: chelle-parker
 selector:
 translator:
@@ -21,7 +21,7 @@ date: 2021-04-20 01:00:01 -0500
 permalink: to-hear-them-sing
 audiourl:
 teaser:
-art:
+art: to-hear-them-sing.png
 artcaption:
 spanish-language:
 spanish-date:
