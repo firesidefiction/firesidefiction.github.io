@@ -76,7 +76,7 @@ audio {
 		text-indent: 0;
 		margin: $space-double 0 $space-quad 0;
 		&:after {
-			content: '----';
+			content: '• • •';
 		}
 	}
 	.content p:first-child, hr + p {

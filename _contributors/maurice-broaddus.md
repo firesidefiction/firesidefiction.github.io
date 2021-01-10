@@ -5,10 +5,10 @@ first-name: Maurice
 last-name: Broaddus
 file-as: b
 role: Author
-role-2:
+role-2: Editor
 role-3:
 title: Maurice Broaddus — Work in Fireside
-description:
+description: Guest Editor, _Fireside Quarterly_ Autumn 2020
 twitter-handle: MauriceBroaddus
 profile-pic: maurice-broaddus.jpg
 website-url: MauriceBroaddus.com

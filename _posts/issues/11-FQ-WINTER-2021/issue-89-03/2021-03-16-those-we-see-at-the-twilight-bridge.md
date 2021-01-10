@@ -54,7 +54,7 @@ He looks around, as they all do, to the fog-faded world behind us, all its color
 
 Richard sees me now for who I am but doesn't wait for me to explain how I'd altered his perception. He doesn't need me to ask him if he's ready. He's across the bridge with a cry of joy, and my job, for the moment, is done.
 
-• • •
+----
 
 Time passes here in flutters and bursts. Other dancers come and go, guiding their charges onward.
 
@@ -78,13 +78,13 @@ She starts across the bridge, toward her mother's waiting arms, but then she doe
 
 "Maybe it should be."
 
-• • •
+----
 
 I think about her words long after she's gone. It's never been my place to decide who crosses over or when. My job is to give comfort, not vengeance. But as time trickles past, I find myself returning to him again and again. In other alleys. In other cities. And one by one, I pry them from his arms, hold them close, and whisper as we dance. Maria. Ginny. Bess. Raven.
 
 And slowly, I form a plan.
 
-• • •
+----
 
 The face I greet him with has no name; he prefers the _idea_ of a woman to any actual, living being.
 

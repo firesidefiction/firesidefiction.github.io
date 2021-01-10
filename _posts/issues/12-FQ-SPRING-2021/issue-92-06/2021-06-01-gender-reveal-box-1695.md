@@ -16,8 +16,8 @@ selector:
 translator:
 narrator:
 letterer:
-word-count: 3747
-date: 2020-06-01 01:00:01 -0500
+word-count:
+date: 2021-06-01 01:00:01 -0500
 permalink: gender-reveal-box-1695
 audiourl:
 teaser:
