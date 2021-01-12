@@ -16,4 +16,4 @@ short-name: em-liu
 permalink: em-liu
 bio-spanish:
 ---
-Wayfarer Ah Ola is a mixed indigenous cartoonist, writer, and artist. She is most well known for her indigenous sci-fi comic Prism Stalker and she has a new graphic novel called A Map to the Sun forthcoming from First Second Books in 2020. She is currently living near Portland, Oregon.
+Em Liu grew up in Palm Beach, Florida, and has lived in the American Southwest, the Midwest, New England, and Japan. She now resides with her husband and new son in the greater Washington, DC, metro area, where she researches financial systems by day and devises magic systems by night. Her fiction has appeared in _Analog Science Fiction and Fact_, _Daily Science Fiction_, and others, and you can find her on Twitter as @EmLiuWriting. This is her first story for _Fireside Magazine_.
