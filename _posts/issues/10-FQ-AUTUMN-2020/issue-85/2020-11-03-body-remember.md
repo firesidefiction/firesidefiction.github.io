@@ -257,4 +257,4 @@ Jun finds it in himself to argue. Panic is a place where nobody can follow you. 
 
 But the child’s bones don’t speak English, and they have no use for his adult devices. It’s a child, and it doesn’t want to be a story, an excavation, ancient. A child wants a body, to be alive. There will be time for regret when you run, it tells him. Time to make things as complicated as you need them to be, but only if you run.
 
-It’s untrue. Jun know that it’s untrue. They will always be dead. He will always be himself. But this is a child, and it doesn’t need the truth from him. A child has a right to fear. He holds these bones and turns, and he follows the sound of the sea.
+It’s untrue. Jun knows that it’s untrue. They will always be dead. He will always be himself. But this is a child, and it doesn’t need the truth from him. A child has a right to fear. He holds these bones and turns, and he follows the sound of the sea.
