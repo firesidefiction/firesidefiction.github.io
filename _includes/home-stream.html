@@ -3,7 +3,7 @@
   <div class="home-magazine">
     <h2 class="label no-border"><em>Fireside Magazine</em> is available as a monthly ebook — <a href="https://firesidefiction.memberful.com/checkout?plan=25782">subscribe now for $5 per month</a> or buy individual back issues below. </h2>
     {% assign items_grouped = site.posts | group_by: 'issue' %}
-      {% for group in items_grouped limit: 3 %}
+      {% for group in items_grouped limit: 10 %}
       {% for item in group.items limit: 1 %}
       {% if item.issue %}
         <h2><em>Fireside Magazine</em> Issue {{group.name}}</h2>
@@ -44,7 +44,7 @@
       <p class="btn reverse"><a href="/magazine">See all back issues</a></p>
   </div>
 
-    <div class="home-sidebar">
+    <!-- div class="home-sidebar">
       <h2 class="label no-border">Announcements</h2>
       {% for post in site.posts limit: 5 %}
         {% if post.category == "announcement" %}
@@ -54,6 +54,6 @@
         </div>
       {% endif %}
       {% endfor %}
-    </div>
+    </div-->
 
 </section>
