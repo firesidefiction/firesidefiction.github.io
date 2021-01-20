@@ -90,11 +90,9 @@ Please read the following guidelines. During open submissions periods, there wil
 - Poems that use intellectual property that is under copyright (we enjoy fanfic, but we don’t publish it).
 
 ### What to expect from us:
-- Fireside acquires English language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
+- Fireside acquires English language rights in print, digital, and audio formats. Please see our [Poem Contract Boilerplate](https://firesidefiction.com/legal/poetry-contract-boilerplate) for the full text of our contract.
 - First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of May, 2021. If there’s any delay to this timing, we’ll let you know.
 - Flat payment of $100 for accepted poems.
-
-----
 
 <!--
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrhflwnbmpf5cS2u?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="2234" style="background: transparent; border: 1px solid #ccc;"></iframe>
