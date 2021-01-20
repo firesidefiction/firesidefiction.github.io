@@ -46,23 +46,45 @@ Please read the following guidelines. During open submissions periods, there wil
 - Only one story per author — no multiple submissions. (But it is fine to resubmit a story you've submitted previously to us for another issue.)
 - Sending your story to other venues (simultaneous submissions) is okay, but we ask that you please withdraw immediately if you take another offer by emailing [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com).
 
-<!--### Ryan Boyd, our editor for the Spring 2021 issue, is particularly looking for work that engages with:
-- Transformational narratives with a focus on the body
-- Repurposing technology to do things it wasn’t meant to do
-- Trauma and the ways in which it reshapes the ability to connect with others
-- Cyberpunk and cyberpunk-adjacent ‘fifteen minutes into the future’ dystopias.-->
-
 ### Please don’t send us:
 - Stories that promote fascism, racism, sexism, homophobia, ableism, etc.
 - Stories longer than 3,000 words (please don't email to ask if you're the special exception — you're not).
 - PDF files
-- Stories attached to or pasted into the body of an email. Submissions sent via email will be deleted unread.
+- Submissions via email. Emailed submissions will be deleted unread. Please use the submissions form.
 - Stories that use intellectual property that is under copyright (we enjoy fanfic, but we don't publish it).
 
 ### What to expect from us:
 - Fireside acquires English language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
-- First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of November, 2020.
+- First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of May, 2021. If there’s any delay to this timing, we’ll let you know.
 - Payment of 12.5 cents per word
+
+## Poems
+
+We accept poems of any length.
+
+Please read the following guidelines. During open submissions periods, there will be a form below for uploading your submission.
+
+### Please submit:
+- Poems in English.
+- Poems that have never been published before.
+- Poems of any genre.
+- Submissions from anywhere in the world, from all kinds of voices.
+- One Docx file set in a comfortably-sized, legible font.
+- Cover letters are optional, but they are great places to tell us about your connection to the material, personal background or identity, and to include content warnings if your story deals with difficult subject matter.
+- Only one poem per author — no multiple submissions. (But it is fine to resubmit a story you’ve submitted previously to us for another issue.)
+- Sending your poem to other venues (simultaneous submissions) is okay, but we ask that you please withdraw immediately if you take another offer by emailing editorial@firesidefiction.com.
+
+### Please don’t send us:
+- Poems that promote fascism, racism, sexism, homophobia, ableism, etc.
+- PDF files.
+- Submissions via email. Emailed submissions will be deleted unread. Please use the submissions form.
+- Poems that use intellectual property that is under copyright (we enjoy fanfic, but we don’t publish it).
+
+### What to expect from us:
+- Fireside acquires English language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
+- First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of May, 2021. If there’s any delay to this timing, we’ll let you know.
+- Flat payment of $100 for accepted poems.
+
 
 <!--
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrhflwnbmpf5cS2u?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="2234" style="background: transparent; border: 1px solid #ccc;"></iframe>
