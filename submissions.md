@@ -6,7 +6,7 @@ permalink: submissions
 
 Fireside is currently closed <!--open--> to submissions. <!--for the Summer 2021 Issue, edited by Yanni Kuznia, from **August 24, 2020 at 6am EST to August 28, 2020 at 6pm EST**. Please read the following guidelines, then use the form below to submit your work.-->
 
-In 2021, Fireside will be open to submissions for short stories during the following period:
+In 2021, Fireside will be open to submissions for short stories and poems during the following period:
 
 - **January 25 at 6am EST to February 5 at 6pm EST:** Submissions period for Autumn 2021, edited by Brandon O'Brien.
 
@@ -58,8 +58,17 @@ Please read the following guidelines. During open submissions periods, there wil
 - First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of May, 2021. If there’s any delay to this timing, we’ll let you know.
 - Payment of 12.5 cents per word
 
-## Poems
+----
 
+## Artwork
+Fireside commissions original artwork for specific stories. If you send us a link to your portfolio using [this form](https://airtable.com/shrHIocwQiPakQgkT), we will be happy to add it to our roster, and if a story comes up for which we think you’d be a good fit, we’ll be in touch.
+
+### What to expect from us:
+- Fireside acquires worldwide rights in print and digital formats, and ownership of all original art remains with the Artist. Please see our [Illustration Contract Boilerplate](https://firesidefiction.com/legal/illustration-contract-boilerplate) for the full text of our contract.
+
+----
+
+## Poetry
 We accept poems of any length.
 
 Please read the following guidelines. During open submissions periods, there will be a form below for uploading your submission.
@@ -85,26 +94,13 @@ Please read the following guidelines. During open submissions periods, there wil
 - First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of May, 2021. If there’s any delay to this timing, we’ll let you know.
 - Flat payment of $100 for accepted poems.
 
+----
 
 <!--
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrhflwnbmpf5cS2u?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="2234" style="background: transparent; border: 1px solid #ccc;"></iframe>
 -->
-----
-
-## Artwork
-Fireside commissions original artwork for specific stories. If you send us a link to your portfolio using [this form](https://airtable.com/shrHIocwQiPakQgkT), we will be happy to add it to our roster, and if a story comes up for which we think you’d be a good fit, we’ll be in touch.
-
-### What to expect from us:
-- Fireside acquires worldwide rights in print and digital formats, and ownership of all original art remains with the Artist. Please see our [Illustration Contract Boilerplate](https://firesidefiction.com/legal/illustration-contract-boilerplate) for the full text of our contract.
 
 ----
-
-## Poetry
-
-Fireside is closed to submissions for poetry. We don't have upcoming dates to announce.
-
-----
-
 ## Non-Fiction
 
 Fireside is closed to submissions for nonfiction. We don't have upcoming dates to announce.
