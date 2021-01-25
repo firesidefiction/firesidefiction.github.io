@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 I used to take walks along a patch of scruffy waste ground a couple of blocks from my house in Indiana. It's where the old RCA factory stood before the city tore it down. Back when I had a dog, I walked the dog there on the path that winds along the creek. The dog died, but I kept taking the same walk. Migrating geese stopped in the puddles, and hawks sometimes hunted from the tops of the utility poles. It wasn't pretty, but it was a little scrap of nature.
 
