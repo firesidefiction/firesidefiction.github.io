@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## What is Fireside?
-Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story magazine. We began with the goals of finding and publishing great stories regardless of genre, and paying our writers well. Since Nov. 8, 2016, we have a third goal: resisting the global rise of fascism and far-right populism, starting with the current occupant of the White House.
+Fireside Fiction Company started in 2012 as a Kickstarter-funded short-story magazine. We began with the goals of finding and publishing great stories regardless of genre, and paying our writers well.
 
 For general inquiries, please contact [questions@firesidefiction.com](mailto:questions@firesidefiction.com). For press requests, please email [marketing@firesidefiction.com](mailto:marketing@firesidefiction.com).
 

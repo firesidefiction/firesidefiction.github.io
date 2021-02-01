@@ -22,7 +22,7 @@ permalink: at-the-intersection-of-light-and-sound
 audiourl:
 teaser:
 art: at-the-intersection-of-light-and-sound.png
-artcaption:
+artcaption: A vignette shows the progression of a woman from young girl at her musician grandfather's feet, to astronaut reaching for the stars.
 spanish-language:
 spanish-date:
 english-url:
