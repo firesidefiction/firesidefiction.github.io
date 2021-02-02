@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 I knew from the outset of this mission that there would be no return trip for me. But I am renewed in my realization that I have come back to the start. That I will be reunited with everything and everyone that ever was.
 
