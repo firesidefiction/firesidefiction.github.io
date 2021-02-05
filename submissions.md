@@ -4,15 +4,11 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently <!--closed--> open to submissions for the Autumn 2021 period, edited by Brandon O'Brien, from **January 25 at 6am EST to February 5 at 6pm EST**. Please read the following guidelines, then use the form at the bottom of this page to submit your work.
+Fireside is currently closed to submissions.
 
-<!--In 2021, Fireside will be open to submissions for short stories and poems during the following period:
-
--  Submissions period for Autumn 2021, edited by Brandon O'Brien.
+We have no further submissions dates to announce for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
 During open submissions periods, there will be a form on this page for uploading your submission.
-
-We have no further submissions dates to announce for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.-->
 
 ---
 
@@ -31,9 +27,11 @@ We use an online form to gather submissions, but we understand that this may not
 
 ## Short Stories
 
-We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories.
+Fireside is closed to submissions for short stories. We don't have upcoming dates to announce.
 
 Please read the following guidelines. During open submissions periods, there will be a form below for uploading your submission.
+
+We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories.
 
 ### Please submit:
 - Stories in English or Spanish
@@ -61,7 +59,7 @@ Please read the following guidelines. During open submissions periods, there wil
 ----
 
 ## Poetry
-We accept poems of any length.
+Fireside is closed to submissions for poetry. We don't have upcoming dates to announce.
 
 Please read the following guidelines. During open submissions periods, there will be a form below for uploading your submission.
 
@@ -86,7 +84,7 @@ Please read the following guidelines. During open submissions periods, there wil
 - First responses (either a rejection or a second round notice) within approximately 30 days from the end of our reading period, and a final decision by the end of May, 2021. If there’s any delay to this timing, we’ll let you know.
 - Flat payment of $100 for accepted poems.
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shr9YX4XTaxviR6Cf?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1934" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<!--<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shr9YX4XTaxviR6Cf?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1934" style="background: transparent; border: 1px solid #ccc;"></iframe>-->
 
 ----
 
