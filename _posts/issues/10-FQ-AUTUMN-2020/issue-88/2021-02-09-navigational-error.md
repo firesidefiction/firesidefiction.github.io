@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 The door to your sleeping compartment _whooshes_ open, so I swivel in the pilot’s chair to greet you. But my “Morning, gorgeous!” dies halfway up my throat when I see your face. Your eyes are bloodshot, puffy. They gleam with anger and abject grief.
 
