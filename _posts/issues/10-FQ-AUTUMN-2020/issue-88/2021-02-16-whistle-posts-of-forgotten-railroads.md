@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 The train tracks run not by my house but near, along a railroad viaduct slicing our city into a here and a there, into this neighborhood and that. A raised battlement of weeds and trees topping century-old cement and cut stone walls lifting trains above our lowly city streets.
