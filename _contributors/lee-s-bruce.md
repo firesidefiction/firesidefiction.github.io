@@ -9,7 +9,7 @@ role-2:
 role-3:
 title: Lee S. Bruce — Work in Fireside
 description:
-twitter-handle: SydMT
+twitter-handle: stella_dominus
 profile-pic: lee-s-bruce.jpg
 website-url:
 short-name: lee-s-bruce
