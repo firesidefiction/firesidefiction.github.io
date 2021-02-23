@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 2714
-date: 2021-03-02 01:00:01 -0500
+date: 2021-02-23 01:00:01 -0500
 permalink: diamonds-and-pearls
 audiourl:
 teaser:
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Diamonds are two a penny, but everybody wants them anyway.
 
