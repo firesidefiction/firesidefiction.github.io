@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Remember that they are people. Most of them will be just as awed by what you can do as all your other audiences. If they’ve invited you, then they want you here. Don’t treat them differently. The patients deserve magic, too.
 
