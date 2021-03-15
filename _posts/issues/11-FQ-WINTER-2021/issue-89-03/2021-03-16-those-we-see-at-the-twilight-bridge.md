@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 The old man wheezes. Amid the beeping of machinery, I stand over his hospital bed, waiting for him to open his eyes.
 
