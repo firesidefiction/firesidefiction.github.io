@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 When asked if she’d join the team in launching the enchantments that would destroy most of Central Texas, Carly hesitated. “Well,” she began.
 
