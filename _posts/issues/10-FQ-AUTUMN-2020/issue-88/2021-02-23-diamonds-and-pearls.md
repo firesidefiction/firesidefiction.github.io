@@ -3,7 +3,7 @@ layout: story
 category: short story
 issue: 88, February 2021
 issue-cover: issue-88-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-89-march-2021
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-88-february-2021
 title: Diamonds and Pearls
 subtitle:
 author: jl-george
