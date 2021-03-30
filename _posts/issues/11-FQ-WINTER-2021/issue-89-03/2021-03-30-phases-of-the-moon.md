@@ -34,9 +34,9 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
-### New Moon
+### **New Moon**
 
 I found your red cardigan.
 
@@ -49,7 +49,7 @@ I was late getting home, because I decided to watch you take off after all. I sa
 Last week, you proposed. I still don't know how to answer you.
 
 
-### Waxing Crescent
+### **Waxing Crescent**
 
 I received your message today. I'm glad you made it safely and that you're settling in. It's hard to gauge emotions from emails, especially yours; your dry scientific training spilling even into your love letters. You spent two whole paragraphs on the technical specifications of the shuttle but only a sentence describing how you felt: "At some point, the moon became larger than the earth."
 
@@ -58,7 +58,7 @@ Even so, as I read, I imagined the excitement in your voice. I pictured you sitt
 One of the buttons fell off your cardigan. I found it on the floor by the hamper.
 
 
-### First Quarter
+### **First Quarter**
 
 You wore the cardigan a week before you left, when I treated you to dinner at your favorite Italian bistro; I was trying to remind you of all the good things about earth, in the hopes that they might counterbalance the moon's enticements.
 
@@ -77,7 +77,7 @@ I placed my hands flat on either side of my plate. "You could stay. Then you wou
 "A year is a long time." I scraped my chair awkwardly as I stood. I didn't even wait to order the cannoli.
 
 
-### Waxing Gibbous
+### **Waxing Gibbous**
 
 Today, I bought thread. I took your cardigan to the fabric store, and the owner helped me match its bright carmine. "It's a lovely color."
 
@@ -94,7 +94,7 @@ The owner smiled. "Isn't that amazing! Well, she's lucky to have you keeping thi
 I nodded.
 
 
-### Full Moon
+### **Full Moon**
 
 Last night, the moon was bright enough that I could make out its craters and ridges. I know it's silly, but every time it transitions from thin crescent to fullness, I imagine that it's truly getting bigger, that you have new territories to explore every night.
 
