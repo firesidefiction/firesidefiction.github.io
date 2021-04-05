@@ -157,7 +157,7 @@ I turned toward him. “Yeah?”
 
 The quiet in the bar, in my head, after that. That’s the kind of quiet the woods is. Right before something happens.
 
-	----
+----
 
 It’s been three days since the accident-that-wasn’t-an-accident. I stand at the edge of a steep south-facing slope, head tilting up, mouth open, soothing my tongue. Soft, sore patches of green fuzz coat it like weird cakey thrush. No matter how much I scrape with my fingers, it grows back. My body is covered in the weird tendrils now. The air feels good. It feels like I could drink it.
 
@@ -181,9 +181,9 @@ _it cold_
 
 and
 
-_it dry. but we not lonely.  
+_it dry. but we not lonely._  
 
-we wet  we rot   but we be together_, they say.
+_we wet      we rot       but we be together_, they say.
 
 _Who is we?_ I ask, in the same not-speaking way.  
 
@@ -267,43 +267,43 @@ I take the phone and raise it to my face. In the reflection of the screen, I mak
 
 I turn as my brother walks up and over the ridge, loping and graceful and black and green and alive. We smile, and I feel life everywhere.
 
-	----
+----
 
-_it is late fall _
+<p></p>_it is late fall_
 
-
+<br/>
 
 _if we close we eyes_
 
-_and       reach         down      and out oh_
+_and&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reach&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;down&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and&nbsp;out&nbsp;oh_
 
+<br/>
 
-
-_it’s so immense.   we can feel                    all the way           to the giant sequoia  halfway_
+_it’s&nbsp;so&nbsp;immense.&nbsp;&nbsp;&nbsp;we&nbsp;can&nbsp;feel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all&nbsp;the&nbsp;way&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;the&nbsp;giant&nbsp;sequoia&nbsp;&nbsp;halfway_
 
 _down the state._
 
-
+<br/>
 
 _you one of us now,_ it all, we all say. I hearfeel it, like a chorus shivering up all my spines and stems and rustling my leaves in the breeze.
 
-
+<br/>
 
 _we shiver. we happy. we joy. we together._
 
-
+<br/>
 
 _i guess_
 
 _that boy was right_
 
-
+<br/>
 
 _when we go_
 
 _into the woods_
 
-
+<br/>
 
 _we don’t_
 
