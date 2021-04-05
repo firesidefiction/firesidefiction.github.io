@@ -34,13 +34,13 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 The worst part of the bombing was the music. Each explosion was timed to the drum beat, each burst of fanfare trumpeted in the streets as buildings shook and crumbled. It was loud enough to penetrate the rolls of cotton, foam plugs, and hasty fingers in the ears of all those in the city.
 
 No. Of course, the worst part of the bombing was the death, the destruction of the humans and the pets, of tall cathedrals and homes, of hospitals and shopping centers, grandparents and mothers, all gone in one blaring leitmotif. It was enough to subdue the populace each time the song was played again, in Nina’s classroom or on the wireless speakers installed on every street. The blare made Nina pause even now, though she had been the eldest of four and had not been scared until she saw the terror in her parents’ faces.
 
-Nina hated her teachers for playing the song as punishment, but she hated the teachers for plenty of other reasons too. School was mandatory reeducation, and she had to learn a whole new language — a language with lots of consonants and strange broad noises, not quick and witty like her native tongue. 
+Nina hated her teachers for playing the song as punishment, but she hated the teachers for plenty of other reasons too. School was mandatory reeducation, and she had to learn a whole new language — a language with lots of consonants and strange broad noises, not quick and witty like her native tongue.
 
 Any act of rebellion inside or outside the classroom was crushed, absolutely, so Nina studied the new language. Her rebellion was to master it, to speak it better than its natives and use it against them. The plan worked for a while.
 
