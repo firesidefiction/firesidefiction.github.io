@@ -169,23 +169,23 @@ I close my eyes. _Tell me what death feels like_, I think.
 
 And then I hear (I hear?)
 
-_it slow_
+<span class="forest-thing-interstitial">_it slow_</span>
 
 and
 
-_we shiver_
+<span class="forest-thing-interstitial">_we shiver_</span>
 
 and
 
-_it cold_
+<span class="forest-thing-interstitial">_it cold_</span>
 
 and
 
-_it dry. but we not lonely._  
+<span class="forest-thing-interstitial">_it dry. but we not lonely._</span>  
 
-_we wet      we rot       but we be together_, they say.
+<span class="forest-thing-interstitial">_we wet      we rot       but we be together_</span>, they say.
 
-_Who is we?_ I ask, in the same not-speaking way.  
+<span class="forest-thing-interstitial">_Who is we?_</span> I ask, in the same not-speaking way.  
 
 And then I freeze.       
 
@@ -237,13 +237,13 @@ The forest is tight around me. The wind is picking up leaves, tossing them aside
 
 And then, I hear nothing. Quiet. _Paused_. I smile. Nobody’s flirting this time.
 
-_we mad_.
+<span class="forest-thing-interstitial">_we mad_</span>.
 
 “No,” I say. “You won’t.”
 
-_we ready?_ I say.
+<span class="forest-thing-interstitial">_we ready?_</span> I say.
 
-_we ready,_ we say.
+<span class="forest-thing-interstitial">_we ready,_</span> we say.
 
 We are still standing in the foxtails, but the foxtails are _flexing_. My advisor twitches, his men twitch. And then, before they can _run_, before they can escape, the cluster of pines swell against the grooves in their broad, burnt orange and silver trunks. Their glossy, green needles shiver at the ends of their branches and then tighten, and I think, _Hedgehog? Porcupine?_
 
@@ -253,7 +253,7 @@ My advisor twists and writhes and raises his gun. “_Stop. This. Now_,” he wh
 
 And the forest blooms: bright, orange, rot, and rust. I drop, cover my ears against the lightning cracks of splitting trunks and screaming men. My brother drops beside me. We find each other’s hands and hold on. We stay down. The forest does its thing. Explodes around us.
 
-_this what death feels like, hon_, it says-not-says. _it loud and terrible,_ and _it pain us_.
+<span class="forest-thing-interstitial">_this what death feels like, hon_</span>, it says-not-says. <span class="forest-thing-interstitial">_it loud and terrible,_</span> and <span class="forest-thing-interstitial">_it pain us_.</span>
 
 We don’t know how much time passes. But it is over. We look, me all around where we dropped, and I send my brother to check for anyone else over the ridge. I tell him to make sure no one else is coming. He leaves.
 
@@ -269,44 +269,44 @@ I turn as my brother walks up and over the ridge, loping and graceful and black 
 
 ----
 
-<p></p>_it is late fall_
+<p></p><span class="forest-thing-interstitial">_it is late fall_</span>
 
 <br/>
 
-_if we close we eyes_
+<span class="forest-thing-interstitial">_if we close we eyes_</span>
 
-_and&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reach&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;down&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and&nbsp;out&nbsp;oh_
-
-<br/>
-
-_it’s&nbsp;so&nbsp;immense.&nbsp;&nbsp;&nbsp;we&nbsp;can&nbsp;feel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all&nbsp;the&nbsp;way&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;the&nbsp;giant&nbsp;sequoia&nbsp;&nbsp;halfway_
-
-_down the state._
+<span class="forest-thing-interstitial">_and&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reach&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;down&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and&nbsp;out&nbsp;oh_</span>
 
 <br/>
 
-_you one of us now,_ it all, we all say. I hearfeel it, like a chorus shivering up all my spines and stems and rustling my leaves in the breeze.
+<span class="forest-thing-interstitial">_it’s&nbsp;so&nbsp;immense.&nbsp;&nbsp;&nbsp;we&nbsp;can&nbsp;feel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all&nbsp;the&nbsp;way&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;the&nbsp;giant&nbsp;sequoia&nbsp;&nbsp;halfway_</span>
+
+<span class="forest-thing-interstitial">_down the state._</span>
 
 <br/>
 
-_we shiver. we happy. we joy. we together._
+<span class="forest-thing-interstitial">_you one of us now,_</span> it all, we all say. I hearfeel it, like a chorus shivering up all my spines and stems and rustling my leaves in the breeze.
 
 <br/>
 
-_i guess_
-
-_that boy was right_
+<span class="forest-thing-interstitial">_we shiver. we happy. we joy. we together._</span>
 
 <br/>
 
-_when we go_
+<span class="forest-thing-interstitial">_i guess_</span>
 
-_into the woods_
+<span class="forest-thing-interstitial">_that boy was right_</span>
 
 <br/>
 
-_we don’t_
+<span class="forest-thing-interstitial">_when we go_</span>
 
-_come_
+<span class="forest-thing-interstitial">_into the woods_</span>
 
-_back out._
+<br/>
+
+<span class="forest-thing-interstitial">_we don’t_</span>
+
+<span class="forest-thing-interstitial">_come_</span>
+
+<span class="forest-thing-interstitial">_back out._</span>
