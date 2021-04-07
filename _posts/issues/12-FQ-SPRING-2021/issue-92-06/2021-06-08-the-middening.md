@@ -38,7 +38,7 @@ published: false
 ---
 “You’re lucky if you marry a fisherman.” That’s what they told us growing up, but there are not many fishermen left around here.
 
-We made our own way, made our own fun, Mhairi and me. This was our place, the disused swimming pool built into the cliffside. Sure, there were junkies there before us, shooting up in the changing pavilion. There’s the wifey spray painted on the majestic hillside, her paps like two empty bags and a turned-up hair-do dripping down, but if you ignore all that, you can imagine that you are in some _Planet of the Apes_ situation, and it’s just you left, and your survival is a triumph of things put right.
+We made our own way, made our own fun, Mhairi and me. This was our place, the disused swimming pool built into the cliffside. Sure, there were junkies there before us, shooting up in the changing pavilion. There’s the wifey spray painted on the majestic hillside, her paps like two empty bags and a turned-up hair-do dripping down. But if you ignore all that, you can imagine that you are in some _Planet of the Apes_ situation, and it’s just you left, and your survival is a triumph of things put right.
 
 In its day, it was a marvel of engineering. The tide-driven pumps filled the pool with water from the North Sea, while high tide cleared out the old water. Gran said you could swim in that pool for maybe fifteen minutes before hypothermia set in. When she got out, her Ma would rub her down to get the blood back in and pop a sweetie in her mouth. She called it a shivery bite. It was a children’s boating pool in the front, the deepest part. Now, the water is stagnant and you can never see the bottom. On a sunny day, in the shallow bit toward the sea, you can look into the bright water and see seaweed rolling about and tiny fish darting.
 
@@ -46,7 +46,9 @@ I have been there during storms, when the waves crash over the surface of the po
 
 “Stalinist Deco” is what we called it. It was our favourite place to have a picnic, me and Mhairi, when we were skiving off beauty school.
 
-It was a Monday when she told me about the horse. We had our ginger topped up with grocery-store vodka from her Da’s larder. Mhairi shook the bottle, which I thought was a waste as it always fizzed up everywhere, but she said it was the only way to get them to play nice. We huddled in the shelter of the tea pavilion in front of the boating pool. It was pissing down, and we looked out at the grey sea. That endless vista was our medicine. Mhairi cackled to the big sky, throwing back her faded blue hair, holding her throat up proud as if to say, Go ahead and hang me, you rotters! Which is something she did often say.
+It was a Monday when she told me about the horse. We had our ginger topped up with grocery-store vodka from her Da’s larder. Mhairi shook the bottle, which I thought was a waste as it always fizzed up everywhere, but she said it was the only way to get them to play nice. We huddled in the shelter of the tea pavilion in front of the boating pool. It was pissing down, and we looked out at the grey sea. That endless vista was our medicine.
+
+Mhairi cackled to the big sky, throwing back her faded blue hair, holding her throat up proud as if to say, "Go ahead and hang me, you rotters!" Which is something she did often say.
 
 “You ever see the horse? Like, up on the cliff there?”
 
@@ -70,7 +72,7 @@ I followed her; I always did.
 
 I wanted to ask her if she’d done it yet. I thought that’s how I’d lose her — we would be separated in untold ways, and she would belong to someone, probably a boy who could bring her what we called a “normal for fish-town” life.
 
-She turned to me wide-eyed and said, “Shhhhh...”
+She turned to me wide-eyed and said, “Shhhhh....”
 
 My heart went flip like the little summer fish in the pool. “What?” I hissed back.
 
@@ -78,7 +80,7 @@ My heart went flip like the little summer fish in the pool. “What?” I hissed
 
 “The Nucklelevee?”
 
-That was what we called it, the thing that loomed over the place, that knew everything about it, what guarded it. We’d been calling it that since we were just girls, both of us from someplace else. She said her Ma told her a story once, about having to run from a Nucklelevee when she was a girl on Shetland, the thing half horse and half man with no skin on, so all his muscles and veins were clear to see. That shadow just chased her Ma all the way to the mainland.
+That was what we called it, the thing that loomed over the place, that knew everything about it, what guarded it. We’d been calling it that since we were just girls, both of us from someplace else. Mahairi said her Ma told her a story once, about having to run from a Nucklelevee when she was a girl on Shetland, the thing half horse and half man with no skin on, so all his muscles and veins were clear to see. That shadow just chased her Ma all the way to the mainland.
 
 I had a good look through the boards and saw nothing but darkness shifting with the movement of my own head. Mhairi snorted and made to push me into the dark water, and I almost fell.
 
@@ -90,7 +92,7 @@ They were dressed in disposable boiler suits and carried bags of rubbish slung o
 
 After they were covered in slimy rot, the droogs untied them and helped them down from their perch. The bride-and-groom-to-be ran into the sea on the adjacent beach to wash the gunk from themselves.
 
-“Yeah, never doing that.” Mhairi said. She always said just what I was thinking
+“Yeah, never doing that,” Mhairi said. She always said just what I was thinking.
 
 ----
 
@@ -142,7 +144,7 @@ I got it in my head I’d be better off running, so I pulled myself up, one knee
 
 “Kipper," I heard her voice calling me from the far edge of the pool, “you dozy mare!” She was hot with a rage usually reserved for the boys at school or her father. I looked for her and saw nothing.
 
-His hands were on me then, strong as an undertow, and as cold. We fell in without a splash, and he pulled me down and under. He put his mouth to mine, and it was metallic and blood-like, a shivery bite. He breathed into me all the wrongness of the stray, all my wishes to be away. At first it felt right, the way familiar things do. We were sinking now, drifting towards the wall that divided the pool from the vast sea. There was a hole there, a crack big enough for us, and he had me fast.
+His hands were on me then, strong as an undertow and as cold. We fell in without a splash, and he pulled me down and under. He put his mouth to mine, and it was metallic and blood-like, a shivery bite. He breathed into me all the wrongness of the stray, all my wishes to be away. At first it felt right, the way familiar things do. We were sinking now, drifting towards the wall that divided the pool from the vast sea. There was a hole there, a crack big enough for us, and he had me fast.
 
 Before he pulled me through the crevice, the surface broke above, the darkness churning with two pale legs and then an arm, the wrist glinting with a single star on a chord. Mhairi, always the better swimmer, was coming for me.
 
@@ -156,7 +158,7 @@ Some dog walkers found me washed up there at the side of the pool. I was not in 
 
 It wasn’t Mhairi at all beside me but a slim nurse with cool hands, taking my pulse, watching the little watch pinned to her breast. “You’ve had a time of it, but you’ll be fine,” she lied, smiling.
 
-A policeman watched through the big glass window, and my heart sank. He came in, hopping a little and rocking back and forth as he repeated lines he’d rehearsed in advance. I recognised him as the same policeman, pale, ginger and fidgety, who talked to us about drugs in high school.
+A policeman watched through the big glass window, and my heart sank. He came in, hopping a little and rocking back and forth as he repeated lines he’d rehearsed in advance. I recognised him as the same policeman, pale, ginger, and fidgety, who talked to us about drugs in high school.
 
 I fiddled with the plastic hospital tag on my wrist and didn’t look at him.
 
@@ -166,4 +168,4 @@ I told him I was there alone, and I fell in. He typed it into his phone and seem
 
 After I was discharged, I went back to look for her. The pool was taped off as a crime scene now. She was missing, somewhere between the living and the dead. It dogged me that she had gone down for my sake. Maybe he wanted her all along, and not me. I was just the bait.
 
-Sometimes, when the sky is dark and that freezing sea mist called the haar rolls in, I’ll go down to the pool. It’s a long walk, and when I get there I’m soaked through and hardened to this task of watching and waiting. She is disappeared and as present as a shadow. I know that thing with the yellow eyes will be there. Galloping over the cliff, it looks just like a tawny horse. It scores the grass with its hoof, nodding as if to say, _Your friend already got out_.
+Sometimes, when the sky is dark and that freezing sea mist called the haar rolls in, I’ll go down to the pool. It’s a long walk, and when I get there, I’m soaked through and hardened to this task of watching and waiting. She is disappeared and as present as a shadow. I know that thing with the yellow eyes will be there. Galloping over the cliff, it looks just like a tawny horse. It scores the grass with its hoof, nodding as if to say, "Your friend already got out."

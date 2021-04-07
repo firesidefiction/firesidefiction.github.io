@@ -16,4 +16,4 @@ short-name: imogen-archer
 permalink: imogen-archer
 bio-spanish:
 ---
-Imogen Archer is a speculative fiction writer living in Michigan with her partner and cats and is overly fond of run-on sentences. She is on Twitter at @Arch_Imogen.
+Imogen Archer is a speculative fiction writer living in Michigan with her partner and cats, and is overly fond of run-on sentences. She is on Twitter at @Arch_Imogen.

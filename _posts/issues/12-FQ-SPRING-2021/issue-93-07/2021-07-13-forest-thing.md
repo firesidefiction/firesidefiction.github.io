@@ -49,7 +49,7 @@ I crouch in the shell of a redwood cracked open by lightning. Sap drips on my sh
 
 I don’t; they don’t. It’s a mess up there.
 
-But down here? Down here, the wind walks calmly through the trees, a queen on her runway. Trails her fingers along the leaves. It feels _bad_ on my skin. “Bad in a good way”, we used to say.
+But down here? Down here, the wind walks calmly through the trees, a queen on her runway. Trails her fingers along the leaves. It feels _bad_ on my skin. “Bad in a good way,” we used to say.
 
 I close my eyes. I hear small things, growing sounds and insect feet. I hear something that sounds like crinkled hair lifted from a neck, shaken a little, and let fall. I listen, try to catch the resonance. Mad or playful? A twig snaps above me, derisive as a head toss. Uh-uh. Not mad.
 
@@ -71,9 +71,9 @@ Hours later. I squat naked as a sun in the stream, my body torn up as a scratchi
 
 Three truths.
 
-First, it wasn’t an accident. Anyone who says otherwise is a liar or a child. A gun in the hand of either will kill you. Try looking up the word accident. Does it say “a consistent pattern over a 30-year period of placing hazardous waste facilities in neighborhoods where poor people and people of color live”? No? No.
+First, it wasn’t an accident. Anyone who says otherwise is a liar or a child. A gun in the hand of either will kill you. Try looking up the word _accident_. Does it mean “a consistent pattern over a thirty-year period of placing hazardous waste facilities in neighborhoods where poor people and people of color live”? No? No.
 
-Second, they made it worse. Before I was born, the city of Palo Alto installed industrial fans that stalked like great, white guardian spiders along the west side of the highway, to blow all the bad air out of the good side of town. “Into the bay,” they said, “where it can’t hurt anyone.” Into our homes, they meant, where it would only hurt people who didn’t have the money to lobby the state legislator about it. The constant throbbing, electric burr of the fans was the soundtrack to all of my dreams when I was a kid.
+Second, they made it worse. Before I was born, the city of Palo Alto installed industrial fans that stalked like great white guardian spiders along the west side of the highway, to blow all the bad air out of the good side of town. “Into the bay,” they said, “where it can’t hurt anyone.” Into our homes, they meant, where it would only hurt people who didn’t have the money to lobby the state legislator about it. The constant throbbing, electric burr of the fans was the soundtrack to all of my dreams when I was a kid.
 
 Third, everyone else is dead. My mom. My dad. My aunts. My neighbors. My brother, well. I have to assume he’s dead, too.
 
@@ -109,7 +109,7 @@ I’m out again.
 
 ----
 
-I remember: The week we finished our qualifying exams, my advisor took us out for drinks. I sat and drank the strong, smokey bourbon he was paying for, and another, and in between drinks, I clinked the ice in my glass and sucked my teeth in my mouth. I laughed when I was supposed to laugh, letting short, sharp _ha’s_ push from my chest.
+I remember: The week we finished our qualifying exams, my advisor took us out for drinks. I sat and drank the strong, smokey bourbon he was paying for, and another, and in between drinks, I clinked the ice in my glass and sucked my teeth in my mouth. I laughed when I was supposed to laugh, letting short, sharp _ha_’s push from my chest.
 
 Two and a half rounds in, the professor turned to me and said, “And Sandra? You should feel really, very encouraged. You’ve come very far. You’ll get there.”
 
@@ -161,7 +161,7 @@ The quiet in the bar, in my head, after that. That’s the kind of quiet the woo
 
 It’s been three days since the accident-that-wasn’t-an-accident. I stand at the edge of a steep south-facing slope, head tilting up, mouth open, soothing my tongue. Soft, sore patches of green fuzz coat it like weird cakey thrush. No matter how much I scrape with my fingers, it grows back. My body is covered in the weird tendrils now. The air feels good. It feels like I could drink it.
 
-Bristles of flower poke around my legs, upended paintbrushes dipped in vermillion and scarlet. The flowers have led me to a stand of foxtail pines. They spike thirty feet above me, straight-boled with thick branches and flat crowns. At their feet, a mess of soft broken cones.
+Bristles of flower poke around my legs, upended paintbrushes dipped in vermillion and scarlet. The flowers have led me to a stand of foxtail pines. They spike thirty feet above me, straight-boled, with thick branches and flat crowns. At their feet, a mess of soft broken cones.
 
 I scoop one into my hands and lick. Rust, metal, rot, death. I can almost taste the fleshy, orange bulbs that will be clustered like swollen blisters along the trees’ branches. These trees are dying, poisoned from the inside. It can take years, decades. But death is sure, if not swift.
 
@@ -285,7 +285,7 @@ _down the state._
 
 <br/>
 
-_you one of us now,_ it all, we all say. I hearfeel it, like a chorus shivering up all my spines and stems and rustling my leaves in the breeze.
+_you one of us now,_ it all, we all, say. I hearfeel it, like a chorus shivering up all my spines and stems and rustling my leaves in the breeze.
 
 <br/>
 

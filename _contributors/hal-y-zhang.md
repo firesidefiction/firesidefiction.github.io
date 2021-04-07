@@ -9,11 +9,11 @@ role-2:
 role-3:
 title: Hal Y. Zhang — Work in Fireside
 description:
-twitter-handle:
+twitter-handle: halyzhang
 profile-pic: hal-y-zhang.jpg
 website-url: halyzhang.com
 short-name: hal-y-zhang
 permalink: hal-y-zhang
 bio-spanish:
 ---
-Hal Y. Zhang writes science, fiction, and science fiction, in no particular order. Her work is at halyzhang.com, and her chapbook _Hard Mother, Spider Mother, Soft Mother_ was published by Radix Media.
+Hal Y. Zhang is a lapsed physicist who splits her time between the East Coast of the United States and the Internet, where she writes at halyzhang.com. She has a language-and-loss chapbook, _AMNESIA_, from Newfound, and a women-with-sharp-things collection, _Goddess Bandit of the Thousand Arms_, from Aqueduct Press.

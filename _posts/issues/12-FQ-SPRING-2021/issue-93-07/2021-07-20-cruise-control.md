@@ -84,7 +84,7 @@ I huffed a laugh. I thought I'd get phonebot speech scripts. “Bet the VR's goo
 
 “There's lots of options, but I don't really watch. I have trouble following that stuff nowadays.”
 
-I shuddered, and wrapped my arms around my chest to ward off a rising cough. “Sounds awful,” I croaked. “All that wifi, and you can't use it?”
+I shuddered, and wrapped my arms around my chest to ward off a rising cough. “Sounds awful,” I croaked. “All that WiFi, and you can't use it?”
 
 “Nah, VR's for more than streaming. My favorite is driving the Aïr Massif, in Niger. Big bare mountains around you, shrubs and desert spread out below.”
 
@@ -110,7 +110,7 @@ And Carlos came back every week, baring his skin, knowing I'd find a way under i
 
 The Senior Ride app said the closest van was “out of service.” Pack of lies. On the map, Breanna’s van pulled out of the post office parking lot a mile away, and headed toward the highway.
 
-The app had a _Report Driver_ button. The next screen was a list of options, from “My driver was rude” to “My driver made me feel unsafe”, but nothing for “My driver blocked me because she didn’t want to answer personal questions while she was working.”
+The app had a _Report Driver_ button. The next screen was a list of options, from “My driver was rude” to “My driver made me feel unsafe,” but nothing for “My driver blocked me because she didn’t want to answer personal questions while she was working.”
 
 I pressed _Cancel_. I hadn't meant to piss Breanna off, but hell. It's what I do best.
 

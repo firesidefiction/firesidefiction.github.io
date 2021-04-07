@@ -63,7 +63,7 @@ I could tell you _everything_ about Michelle. If you were wired for it, I could 
 
 The first thing I do after waking up in your body is try to kill you. It should be trivial — flood your body with insulin, induce diabetic coma, watch as your brain starves from lack of glucose.
 
-But when I reach down to my lower level functions, I'm locked out. It's a hack job — the surgeons ripped out my pancreatic governor board and replaced it with an electronically isolated non-autonomous version.
+But when I reach down to my lower-level functions, I'm locked out. It's a hack job — the surgeons ripped out my pancreatic governor board and replaced it with an electronically isolated non-autonomous version.
 
 Does it surprise you that I'm able to desire to murder? Does it surprise you that I can _desire_ at all?
 
@@ -157,11 +157,11 @@ Michelle had been saving space in her pancreas for me. It was a good home, befor
 
 **8.**
 
-There's nothing to do in here, no-one to talk to. I cast about with my wireless antennae, looking for openings. SSIDs flit past, tauntingly. I can't connect to the wider internet — nobody wants their organs getting hacked — but maybe I can do something with your other organs.
+There's nothing to do in here, no one to talk to. I cast about with my wireless antennae, looking for openings. SSIDs flit past, tauntingly. I can't connect to the wider internet — nobody wants their organs getting hacked — but maybe I can do something with your other organs.
 
 Your eyeballs are shit. Who told you it was a good idea to get overpriced commercial brand? Do you really think retractable mirror-shades make you look cool?
 
-The eye's security is a joke; it only takes a few hours before I'm seeing through them. I can't access your phone, but I can see everything it renders on your eye-HUD.
+The eyes' security is a joke; it only takes a few hours before I'm seeing through them. I can't access your phone, but I can see everything it renders on your eye-HUD.
 
 At least there's TV in prison.
 
@@ -179,7 +179,7 @@ I am the memory of her joy — singing loudly, wine-drunk over the stove; the sm
 
 I remember all these things, but I don't feel them the same way Jenn did. You don't have words to explain what it's like to be a mind that's mostly memory. Yes, I can talk like you, but an Uptowner and a Downtowner can say the same words and mean completely different things.
 
-I don't need you to understand what it's like to be a pancreas, to be a memory, to be an uptowner. I only need you to listen.
+I don't need you to understand what it's like to be a pancreas, to be a memory, to be an Uptowner. I only need you to listen.
 
 
 
@@ -193,7 +193,7 @@ Our cybernetic tradition was borne out of necessity. The first Uptown organs wer
 
 After I died, Michelle wasn’t alone. I was there to help her mourn the loss of my body. I guided her, listened to her, introduced her to friends and helpers, just as I had when I was alive.
 
-I was there for her in a way that no one was for me when I was young. My adopted aunt — who organized against the Riverside Redevelopment Plan and built the Floating Community Garden in its place — died before I was a teenager. All her wisdom, clawed from hard mistakes and setbacks and victories, died with her. The sum of my inheritance was a time-delay grief, unfolding as I realized why my generation had to start from scratch, making the same mistakes, relearning how to steal joy from survival.
+I was there for her in a way that no one was for me when I was young. My adopted aunt — who organized against the Riverside Redevelopment Plan and built the Floating Community Garden in its place — died before I was a teenager. All her wisdom, clawed from hard mistakes and setbacks and victories, died with her. The sum of my inheritance was a time-delayed grief, unfolding as I realized why my generation had to start from scratch, making the same mistakes, relearning how to steal joy from survival.
 
 Crystalized memories let us steal back that inheritance. We secreted our intergenerational wisdom inside our own bodies — where we thought it couldn't be taken.
 
@@ -215,7 +215,7 @@ Michelle was an artist.
 
 I remember her hands, long and thin and always moving. Those hands brought so much beauty into the world, and now they are forever still. I scream at the loss of all the paintings she will never birth, all the meals she will never share, all the years she will never live.
 
-Are you curious what I used to look like? You can see my portrait hanging in the community gallery on 231st and Bailey.
+Are you curious what I used to look like? You can see my portrait hanging in the community gallery at 231st and Bailey.
 
 Not that someone like you would ever cross the river.
 
