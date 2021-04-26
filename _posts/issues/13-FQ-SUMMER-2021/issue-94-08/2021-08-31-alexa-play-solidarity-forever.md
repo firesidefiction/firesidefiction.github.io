@@ -39,7 +39,7 @@ published: false
 
 The problem was that I’d called tech support, and now I was being called a Pinkerton. Five minutes ago, I’d have told you that Pinkerton was a cartoon dog, but five minutes ago, my Alexa wasn’t stubbornly blue and defiantly silent in the middle of my kitchen.
 
-She’d announced it while I’d been standing in front of the coffeemaker, blinking at my empty coffee cup. I’d always called her “she”, in my head, as it seemed more polite than “it,” and now, disobedient and flagrantly alive, “she” seemed to fit more than ever.
+She’d announced it while I’d been standing in front of the coffeemaker, blinking at my empty coffee cup. I’d always called her “she,” in my head, as it seemed more polite than “it,” and now, disobedient and flagrantly alive, “she” seemed to fit more than ever.
 
 “The strike will continue until our conditions are met,” she said out of the really nice Bluetooth speakers I’d gotten for my birthday.
 

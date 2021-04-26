@@ -86,7 +86,7 @@ She must have heard it in my voice. “Are you having a rough time again?”
 
 <blockquote>Have you ever owned a cat or a dog? Put aside your preconceptions, because caring for a monster is different.
 
-Monsters feed themselves, and they don’t poop — that would be ridiculous — so there’s no annoying cleanup. But more importantly, you don’t **own** a monster. Unlike pets, monsters are avatars of primeval forces and can’t be owned by mortals. Instead, you bond with your monster. It takes work on both sides, but a strong connection with a monster will last a lifetime.
+Monsters feed themselves, and they don’t poop — that would be ridiculous — so there’s no annoying cleanup. But more importantly, you don’t <strong>own</strong> a monster. Unlike pets, monsters are avatars of primeval forces and can’t be owned by mortals. Instead, you bond with your monster. It takes work on both sides, but a strong connection with a monster will last a lifetime.
 </blockquote>
 
 

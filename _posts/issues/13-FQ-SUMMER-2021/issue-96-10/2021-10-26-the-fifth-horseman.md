@@ -78,7 +78,7 @@ Death nods. “Sooner than we always think, brother. Sleep well.”
 
 War looks back at the fifth horseman. But she already has her finger to her lips, and War is bleeding from a thousand shallow cuts. The wind drives through him, emptying him of his red, red love. Falling to his knees, he drowns the earth in his blood and is gone, leaving only a crimson shadow to show he was ever there.
 
-The fifth horseman regards her oldest sister with fondness. Death gifts her a wry grin. “We both know so little of each other, don’t we, sister? If only you could ravage worlds with us, we’d have some time—a little time at least, to learn one another’s hearts. Wouldn’t that be nice?”
+The fifth horseman regards her oldest sister with fondness. Death gifts her a wry grin. “We both know so little of each other, don’t we, sister? If only you could ravage worlds with us, we’d have some time — a little time at least, to learn one another’s hearts. Wouldn’t that be nice?”
 
 The fifth horseman smiles sadly, her eyebrows coming together, and her shoulders rising, just so.
 

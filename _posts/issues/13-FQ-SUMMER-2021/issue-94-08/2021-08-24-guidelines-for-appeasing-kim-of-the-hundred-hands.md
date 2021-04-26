@@ -73,4 +73,4 @@ published: false
 
 ----
 
-**10.**-	After you make your offering, it is custom to rub one of Kim of the Hundred Hands’s feet. Statistical analysis shows this does not actually benefit your chances of divine assistance, but it is not forbidden by university policy. It is a nice gesture and we would all like to be in her good graces again.
+**10.**	After you make your offering, it is custom to rub one of Kim of the Hundred Hands’s feet. Statistical analysis shows this does not actually benefit your chances of divine assistance, but it is not forbidden by university policy. It is a nice gesture and we would all like to be in her good graces again.
