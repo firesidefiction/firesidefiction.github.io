@@ -15,4 +15,4 @@ website-url:
 short-name: kate-francia
 permalink: kate-francia
 ---
-Kate Francia’s short fiction has appeared or is forthcoming in _Electric Lit_, _Beneath Ceaseless Skies_ and _Fireside Magazine_. She has an MFA in speculative fiction from Sarah Lawrence College. She lives in a small town in New York with her husband and toddler.
+Kate Francia’s short fiction has appeared or is forthcoming in _Electric Lit_, _Beneath Ceaseless Skies_, and _Fireside Magazine_. She has an MFA in speculative fiction from Sarah Lawrence College. She lives in a small town in New York with her husband and toddler.

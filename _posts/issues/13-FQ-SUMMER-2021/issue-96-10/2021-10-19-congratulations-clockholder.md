@@ -50,7 +50,7 @@ You look up from the page. Sensing your deep interest, an incorporeal loan offic
 
 “I’m with the Bank of Chronos,” it says in a voice like sandpaper harps. “Would you like to learn more about our special offer?”
 
-“Yes please,” you say.
+“Yes, please,” you say.
 
 It arranges its vaporous shawls to hang more neatly and begins to recite in sing-song: “Thanks to our special partnership with the eternally damned, the Bank of Chronos can offer amazing cash-outs based on the equity of your mortal soul.” One of the specter’s translucent hands lifts in your direction. “Did you know our records indicate _your soul_ could be worth _millions?_”
 

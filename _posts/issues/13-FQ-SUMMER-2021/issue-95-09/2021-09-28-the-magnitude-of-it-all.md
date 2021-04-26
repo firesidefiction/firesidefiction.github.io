@@ -84,7 +84,7 @@ You laugh in your self-deprecating way. "They're already calling it pseudo-scien
 
 "Can't do that, I'm afraid. Can.... Can we meet? I've got something to show you."
 
-You're caught off guard, but after a moment, you agree. We arrange a time.
+You're caught off guard but, after a moment, you agree. We arrange a time.
 
 You don't ask how I am. I haven't asked it of you either.
 

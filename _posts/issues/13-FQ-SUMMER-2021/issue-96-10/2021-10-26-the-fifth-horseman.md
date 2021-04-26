@@ -126,7 +126,7 @@ The fifth horseman feels a thorn of jealousy in her heart at this and wonders wh
 
 Still, she puts it aside. She’s good at putting things aside.
 
-The fifth horseman walks downward through the caked, dried clay, her ears guiding her around the corpses and bones of sea monster and man alike, her footprints leaving muddy ghosts in her wake.
+The fifth horseman walks downward through the caked, dried clay, her ears guiding her around the corpses and bones of sea monsters and men alike, her footprints leaving muddy ghosts in her wake.
 
 Where it’s deepest, she finds a gargantuan, a beast of myriad limbs and eyes the size of worlds. Massive, baked raw by the red sun, she can hear that still, somehow, it breathes. A breath no bigger than a moth, but still: breath.          
 
@@ -142,7 +142,7 @@ The sea beast trembles under her tender touch and its breathing slows further, a
 
 She opens her jar and catches its last breath within; there, it joins the wind of the world, the songs of the low, the sounds of civilization destroyed, the laughing and sobbing and unheard weeping of this dead world.
 
-Even after the giant has passed, it is still some time before she leaves it’s side, there at the bottom of an empty sea.
+Even after the giant has passed, it is still some time before she leaves its side, there at the bottom of an empty sea.
 
 ---
 

@@ -66,7 +66,7 @@ The blood fades into clean bamboo and rice paper. We’re back in the fake parlo
 
 I resist the urge to harden. I’m teaching for a reason, and these people came of their own accord to learn. That alone makes them vastly better than most.
 
-_The Empathy Lessons are designed to increase cross-cultural understanding and communication. By vicariously experiencing the history of a people, Participants gain an instinctive and visceral understanding of the past and present of the Target Culture. Our surveys have shown that 80% of Participants report significantly increased positive feelings toward the Target Culture post-Lessons, defined as greater than two points on the Yue Scale with 95% confidence. We find in a follow-up study that this effect persists for months beyond the Lessons._
+<blockquote>_The Empathy Lessons are designed to increase cross-cultural understanding and communication. By vicariously experiencing the history of a people, Participants gain an instinctive and visceral understanding of the past and present of the Target Culture. Our surveys have shown that 80% of Participants report significantly increased positive feelings toward the Target Culture post-Lessons, defined as greater than two points on the Yue Scale with 95% confidence. We find in a follow-up study that this effect persists for months beyond the Lessons._</blockquote>
 
 Usually there are a few questions from the crowd: If you started off so advanced, why did you become so weak? Is it true what I read on the Internet that the Second World War was faked? Why, why, why? As if I am all of China. As if I have any answers.
 
@@ -78,7 +78,7 @@ Usually there are a few questions from the crowd: If you started off so advanced
 
 I would laugh if it isn’t inappropriate, so I shake my head instead. My previous knowledge of China was pieced together from one chapter of a sixth-grade social studies textbook, a diorama, and hundreds of stories from my parents in a tongue too hard for me to understand — so I never tried.
 
-_Tour Guides must treat the exercise with impartiality. In scenarios with disturbing or difficult content, Participants often seek reassurance from the authority figure in the room, but the emotional work of processing, absorbing, and learning from the experiences does not fall to the Tour Guide, nor should it. For cautionary tales of unhealthy attachments developed during the Lessons, look no further than the following examples…._
+<blockquote>_Tour Guides must treat the exercise with impartiality. In scenarios with disturbing or difficult content, Participants often seek reassurance from the authority figure in the room, but the emotional work of processing, absorbing, and learning from the experiences does not fall to the Tour Guide, nor should it. For cautionary tales of unhealthy attachments developed during the Lessons, look no further than the following examples…._</blockquote>
 
 It would be an understatement to say that my grandparents and friends and therapist were surprised I took this job. Who wants to relive the rise and fall, over and over, in a masochist’s time loop?
 

@@ -42,7 +42,7 @@ Thank you for the opportunity to read “The Night is a House with a Single Wind
 
 The descriptions are really vivid — the scene in which Marcela drinks too much (and later realizes her friends left her alone at the party) was so competently written that one of our slush readers was knocked out. He needed to spend a whole afternoon in an Adverse Effects Room — and, according to him, the hangover was awful. Congratulations!
 
-The characters are really well developed, but we feel you pushed too hard on the stalker's verisimilitude — all the women on our staff received calls from him all week, and one of our assistant editors saw an unknown man roaming around her house yesterday. (We already called the pertinent authorities.)
+The characters are really well developed, but we feel you pushed too hard on the stalker's verisimilitude — all the women on our staff received calls from him all week, and one of our assistant editors saw an unknown man roaming around her house yesterday. (We've already called the relevant authorities.)
 
 And finally, the prose is very mature and well-knit — well, mostly. This was the main problem we had with your text: Some stuff escaped from the pages. The shadow monster, which starts to slowly devour the protagonist after _that_ scene, got away from the plot and almost ate our senior editor's left arm. He's an extremely serious professional who could have had his life ruined because you dared to write about _too-dark_ themes, if you know what I mean.
 
@@ -60,4 +60,4 @@ Howard Klein (he/him)
 
 Publisher/Editor
 
-Marginalia Magazine
+_Marginalia Magazine_

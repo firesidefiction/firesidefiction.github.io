@@ -86,7 +86,7 @@ She must have heard it in my voice. “Are you having a rough time again?”
 
 <blockquote>Have you ever owned a cat or a dog? Put aside your preconceptions, because caring for a monster is different.
 
-Monsters feed themselves, and they don’t poop — that would be ridiculous — so there’s no annoying cleanup. But more importantly, you don’t _own_ a monster. Unlike pets, monsters are avatars of primeval forces and can’t be owned by mortals. Instead, you bond with your monster. It takes work on both sides, but a strong connection with a monster will last a lifetime.
+Monsters feed themselves, and they don’t poop — that would be ridiculous — so there’s no annoying cleanup. But more importantly, you don’t **own** a monster. Unlike pets, monsters are avatars of primeval forces and can’t be owned by mortals. Instead, you bond with your monster. It takes work on both sides, but a strong connection with a monster will last a lifetime.
 </blockquote>
 
 
@@ -112,27 +112,27 @@ He had a point. I hated that he had a point.
 
 <blockquote>Rank the following monster types from most to least frightening:<br/>
 
-•	A warm, stinky breath on the back of your neck<br/>
+&nbsp;&nbsp;&nbsp;•	A warm, stinky breath on the back of your neck<br/>
 
-•	Slithering sounds outside your door at night<br/>
+&nbsp;&nbsp;&nbsp;•	Slithering sounds outside your door at night<br/>
 
-•	The clasp of tentacles around your ankles<br/>
+&nbsp;&nbsp;&nbsp;•	The clasp of tentacles around your ankles<br/>
 
-•	A many-legged creature moving in the shadows<br/>
+&nbsp;&nbsp;&nbsp;•	A many-legged creature moving in the shadows<br/>
 
-•	A chill of dread with no apparent source<br/>
+&nbsp;&nbsp;&nbsp;•	A chill of dread with no apparent source<br/>
 
 Monsters are self-sufficient hunters and rarely need to be fed by their humans. What are the most abundant sources of monster food in your home? (Choose all that apply.)<br/>
 
-•	Mice and other vermin<br/>
+&nbsp;&nbsp;&nbsp;•	Mice and other vermin<br/>
 
-•	Forgotten, decaying food in the back of your fridge<br/>
+&nbsp;&nbsp;&nbsp;•	Forgotten, decaying food in the back of your fridge<br/>
 
-•	Parental guilt<br/>
+&nbsp;&nbsp;&nbsp;•	Parental guilt<br/>
 
-•	Fear of making an irrevocable error<br/>
+&nbsp;&nbsp;&nbsp;•	Fear of making an irrevocable error<br/>
 
-•	Feelings of inadequacy and despair
+&nbsp;&nbsp;&nbsp;•	Feelings of inadequacy and despair
 </blockquote>
 
 
@@ -162,7 +162,7 @@ Then he left, and I was alone with the crate.
 
 I sat cross-legged on the floor, my back against the opposite wall, watching it. Every so often, it made soft snuffling noises or scratched the box. For the next hour, I roller-coastered between excitement and dread, and when I couldn’t stand it anymore, I undid the clasps and lifted off the lid to see my monster.
 
-He was covered in wiry fur that stood out at odd angles, fur in every color you can imagine. Calling him a rainbow makes him sound pretty, but he was like a rainbow in the way grunge rock is like opera. All the colors clashed, pumpkin orange next to neon green dotted with a sickly yellowish-gray. He had lumpy horns on his head, a snout like an alligator, and a tail like a rat. He was the ugliest thing I’d ever seen.
+He was covered in wiry fur that stood out at odd angles, fur in every color you can imagine. Calling him a rainbow would make him sound pretty, but he was like a rainbow in the way grunge rock is like opera. All the colors clashed, pumpkin orange next to neon green dotted with a sickly yellowish-gray. He had lumpy horns on his head, a snout like an alligator, and a tail like a rat. He was the ugliest thing I’d ever seen.
 
 I knew, right then, I would die for him.
 
@@ -178,7 +178,7 @@ He growled softly at me and curled up at the back of his box.
 
 I rolled out of bed early the next morning, anxious and eager for my first full day with my monster. But I couldn’t find him.
 
-“Monster?” I called, and then, “Grumph?” That was the name I’d given him, because he seemed like a _Grumph_. But he didn’t answer to it yet.
+“Monster?” I called, and then, “Grumph?” That was the name I’d given him, because he seemed like a “Grumph.” But he didn’t answer to it yet.
 
 I searched everywhere: under the bed, the back corners of closets, the cobwebbed gaps behind bookshelves. Nothing. I checked the manual. It talked about learning your monster’s favorite hiding places, but it didn’t say what to do if your monster disappeared.
 
@@ -238,7 +238,7 @@ When I woke again, the room was brighter. Inside my heart, everything was still 
 
 ---
 
-<blockquote>Customer Testimonial:
+<blockquote><strong>Customer Testimonial:</strong><br />
 
 When I first got my monster, I didn’t really get why I needed him. But over the past months, I’ve come to understand: Your monster loves you in a way no one else can.
 

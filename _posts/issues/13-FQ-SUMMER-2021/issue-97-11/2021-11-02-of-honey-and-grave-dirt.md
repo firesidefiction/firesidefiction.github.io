@@ -46,11 +46,11 @@ Inside the bundle is a child.
 
 ---
 
-He is not a child in the normal way. The assistant learns this very quickly, though she does not know much about normal children. At first glance, he is only a baby, which fills her heart with panic because she is not knowledgeable on the subject of babies. She knows how to precisely measure ingredients, and a fair bit about the placement of the stars, and a wealth of other things she studied in hopes it would be helpful once she became an assistant. She also knows a lot about keeping a clean kitchen, doing laundry, and quelling fires, which are the skills _actually_ helpful to a sorcerer’s assistant.
+He is not a child in the normal way. The assistant learns this very quickly, though she does not know much about normal children. At first glance, he is only a baby, which fills her heart with panic because she is not knowledgeable on the subject of babies. She knows how to precisely measure ingredients, and a fair bit about the placement of the stars, and a wealth of other things she studied in hopes they would be helpful once she became an assistant. She also knows a lot about keeping a clean kitchen, doing laundry, and quelling fires, which are the skills _actually_ helpful to a sorcerer’s assistant.
 
 She didn’t think babies were on either list.
 
-But in the midst of her panic, the burden in her arms changes, growing to a comfortable heaviness instead of the feather-light delicacy of an infant. When she pulls the blanket back, the inquisitive face of a toddler peers up at her, silent and understanding. His eyes are a curious, warm brown.
+But in the midst of her panic, the burden in her arms changes, growing to a comfortable heaviness instead of the feather-light delicacy of an infant. When she pulls the blanket back, the inquisitive face of a toddler peers up at her, silent and understanding. His eyes are a curious warm brown.
 
 The assistant, who has not been looked upon with anything close to warmth for some months, finds herself charmed.
 
@@ -120,11 +120,11 @@ The sorcerer does not answer at first. He is looking at his assistant and frowni
 
 ---
 
-The next month he hands her another bundle.
+The next month, he hands her another bundle.
 
 The assistant wants to refuse. She does not want to know what this child likes to eat. She does not want to know the color of their eyes. She does not want to know the shape of the void they will leave in her body. But she can already see it — a waiting emptiness.
 
-She takes the child from the sorcerer and says, firmly. “Let me help you with the next one.”
+She takes the child from the sorcerer and says, firmly, “Let me help you with the next one.”
 
 “Why would I do that?” he asks. The sorcerer is very handsome, but he is not as beautiful as any of the children he has given to eternity to be eaten. There is a lack to all his expressions, as though he is already thinking of the next thing.
 
@@ -134,7 +134,7 @@ The sorcerer looks at her thoughtfully. “You are more useful than I thought yo
 
 His apprentice gathers the blanketed child close and stares evenly back at him and says nothing.
 
-This child lives longer than the other two combined. They dig literal claws into the assistant’s skin, as though clinging tightly will keep them there. They don’t eat honey and their hair is jet black. So are their eyes. They sing at night, staring out the window at the moon. The singing bothers the sorcerer, but the assistant likes hearing a voice besides his and her own. Sometimes she joins in and sings everything she knows into the night, abandoning words in favor of melody.
+This child lives longer than the other two combined. They dig literal claws into the assistant’s skin, as though clinging tightly will keep them there. They don’t eat honey, and their hair is jet black. So are their eyes. They sing at night, staring out the window at the moon. The singing bothers the sorcerer, but the assistant likes hearing a voice besides his and her own. Sometimes she joins in and sings everything she knows into the night, abandoning words in favor of melody.
 
 The child is odd and terrifying, and the apprentice knows before she begins that it’s no use telling herself not to get attached. She gives away her love, even as she sets aside a perfect jet-black stone, knowing she will place it on this child’s mound of dirt.
 

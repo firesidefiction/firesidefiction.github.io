@@ -72,7 +72,7 @@ Hectic pink patches spread across the creature's cheeks. Its proboscis swelled a
 
 Her eyes swam with tears. She blinked them away and sat up, wiping her cheeks dry with the back of her hand. She looked around, confused. Why was she on the ground beside craft services?
 
-She felt good, really good, for the first time since... she couldn't remember when. She hadn't realized how much everything still hurt until it stopped.
+She felt good, really good, for the first time since.... She couldn't remember when. She hadn't realized how much everything still hurt until it stopped.
 
 "Chloe!" the AD called. "We need you."
 
@@ -132,7 +132,7 @@ That thought nagged at her as she turned down gig after gig that involved height
 
 _No matter what I have to do._
 
-#
+---
 
 When Chloe pulled up to the set in an unmarked white van, she was as prepared as she could be. Stun gun, check. Mace, check. Kevlar-reinforced gloves, check. Cross necklace she hadn't worn since she was sixteen, check. Blood bag, check.
 
@@ -198,7 +198,7 @@ When Chloe got home, Kayla asked something about dinner.
 
 Chloe giggled. "Make yourself a peanut butter and jelly sandwich," she said. She wasn't hungry herself, so she drifted off to her bedroom to lie down.
 
-#
+---
 
 The next morning, Chloe still felt happy and confident. When Kayla came into the kitchenette for breakfast, Chloe was practicing balancing a chef's knife on the tip of her finger.
 
@@ -232,7 +232,9 @@ Ragged sobs shook Kayla.
 
 "Fine," Chloe said. "I'll call a ride." But because she wouldn't let Kayla spoil everything, Chloe ordered a raspberry gelato and an artichoke dip with garlic bread to go.
 
-Kayla cried quietly all the way home, which would have been annoying if Chloe weren't in such a good mood. Inside the apartment, Kayla announced, "I'm going to call Dad to come and get me."
+Kayla cried quietly all the way home, which would have been annoying if Chloe weren't in such a good mood.
+
+Inside the apartment, Kayla announced, "I'm going to call Dad to come and get me."
 
 "Want any artichoke dip?" Chloe asked, swirling a piece of garlic bread in it. "It's delicious."
 
@@ -260,7 +262,7 @@ Something tickled at the edge of her mind. Chloe had come back to herself after 
 
 Maybe there was a way through this after all.
 
-#
+---
 
 Chloe paused in front of the storage compartment. Either this worked, or her career was over. She took out the pill she'd made and dry-swallowed it.
 

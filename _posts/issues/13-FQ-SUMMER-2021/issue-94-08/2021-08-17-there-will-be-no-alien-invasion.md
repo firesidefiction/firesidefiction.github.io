@@ -64,7 +64,7 @@ So that thing where I came to the lab this morning to find your phosphorescent e
 
 
 
-I’m not ready to let this go: the vacuum chamber that you ruined. Do you know how hard it is for someone as low on the academic totem pole as me to get a vacuum chamber? Even one that needs to be resealed, regreased, retrofitted with metal plates, and that was purchased on Craigslist from a senile professor emeritus best known for wearing amoeba costumes in public? Do you have any idea how many hours it will take to make that chamber functional again?
+I’m not ready to let this go: the vacuum chamber that you ruined. Do you know how hard it is for someone as low on the academic totem pole as me to get a vacuum chamber? Even one that needs to be resealed, regreased, and retrofitted with metal plates, and that was purchased on Craigslist from a senile professor emeritus best known for wearing amoeba costumes in public? Do you have any idea how many hours it will take to make that chamber functional again?
 
 
 
@@ -84,7 +84,7 @@ We need to talk.
 
 I have this radio-frequency receiver, the low noise amplifier of which took me three and half years to design and perfect, and it should be receiving _no_ signals. Why, you ask, do I believe that it should be receiving no signals? Excellent question.
 
-A: It is sitting in an anechoic chamber. Surely a super-advanced species such as yourself must know how this works? Anechoic chamber: a big enclosure made of conductive material and stuffed with egg-crate-like foam, the whole of which shields receivers from picking up any electromagnetic signals — external or reflected, bizarre or otherwise.
+A: It is sitting in an anechoic chamber. Surely a super-advanced species such as yourself must know how this works? Anechoic chamber: A big enclosure made of conductive material and stuffed with egg-crate-like foam, the whole of which shields receivers from picking up any electromagnetic signals — external or reflected, bizarre or otherwise.
 
 B: It is also sitting in a helium bath. The bath is dropping the receiver’s temperature so low that its molecules can barely move, thus all but eliminating internal electromagnetic noise. I spent three days getting the vacuum chamber up and running again, together with its helium circulator, just so it could sit in that bath.
 
@@ -102,7 +102,7 @@ And there, under the message, a photo of me next to the words “nerd hero,” s
 
 First, are you really going to eat thirty-five thousand bars of chocolate? How many of you are there, anyway?
 
-Second, here’s what I’m not doing tonight: I’m not reading the very dense _Introduction to Our Alien Species_ pamphlet that you left on my desk, looking for clues for how to thwart your invasion, because there will be no invasion. Instead, I am going to find out how the hell your electromagnetic junk mail is making it into the anechoic chamber to contaminate my readings. I’m putting an end to it. And then I’m finishing enough work to submit to a particular, exclusive conference, the abstracts for which are due in two weeks.
+Second, here’s what I’m not doing tonight: I’m not reading the very dense “Introduction to Our Alien Species” pamphlet that you left on my desk, looking for clues for how to thwart your invasion, because there will be no invasion. Instead, I am going to find out how the hell your electromagnetic junk mail is making it into the anechoic chamber to contaminate my readings. I’m putting an end to it. And then I’m finishing enough work to submit to a particular, exclusive conference, the abstracts for which are due in two weeks.
 
 Tell you what: I recommend my labmate Ernest for this position. I’ll give him your little pamphlet. You swap his photo with mine and beam him up. Ba-bang. He’s been “finishing his doctorate” for eleven years now, and his breath smells like stale tuna fish. My advisor might pay you to take him. If he doesn’t, I will.
 
@@ -162,7 +162,7 @@ In fact, I walked right past the wormhole you set up in my office, together with
 
 You should send Ernest back, however. He’s useless to you. By a mechanism I can’t fathom, he came to our electrical engineering lab with a philosophy degree, and no technical competence has rubbed off on him over the last eleven years. He can barely operate a toaster oven. He hasn’t figured out the difference between an electromagnetic and an acoustic wave. If you keep him for any appreciable amount of time, you will spend your entire invasion budget on coffee and canned tuna, and he might talk you to death. Just a friendly diplomatic heads-up from one species to another.
 
-I have to go. One of the undergrads walked in with the _How to Thwart this Terrible Alien Invasion_ textbook that you left yesterday. (I don’t know why you bothered. I wouldn’t read your two-page pamphlet. Why would I read a whole textbook?) I locked the textbook in a cabinet, and the undergrad burst into tears. There’s that to deal with. Now that we have (excellent) baseline data for the receiver, we can start tomorrow characterizing the minimum signal that it can pick up. I’m not letting hysteria get in the way.
+I have to go. One of the undergrads walked in with the _How to Thwart This Terrible Alien Invasion_ textbook that you left yesterday. (I don’t know why you bothered. I wouldn’t read your two-page pamphlet. Why would I read a whole textbook?) I locked the textbook in a cabinet, and the undergrad burst into tears. There’s that to deal with. Now that we have (excellent) baseline data for the receiver, we can start tomorrow characterizing the minimum signal that it can pick up. I’m not letting hysteria get in the way.
 
 
 
@@ -180,7 +180,7 @@ I have to go. One of the undergrads walked in with the _How to Thwart this Terri
 
 I see it now.
 
-I have in hand the lab’s one flashlight, and I’m sitting in the otherwise pitch black with my two sniveling undergrads, who yesterday were trying to explain to me what they read on page 1 of your _How to Thwart this Terrible Alien Invasion_ textbook: “If this textbook is locked in a small space, it will trigger [insert long explanation of complicated mechanism] that will cause a massive power outage.”
+I have in hand the lab’s one flashlight, and I’m sitting in the otherwise pitch black with my two sniveling undergrads, who yesterday were trying to explain to me what they read on page 1 of your _How to Thwart This Terrible Alien Invasion_ textbook: “If this textbook is locked in a small space, it will trigger [insert long explanation of complicated mechanism] that will cause a massive power outage.”
 
 Are you serious?
 
@@ -212,7 +212,7 @@ You may have noticed that our lab has no windows. I spent the last week tripping
 
 But as of yesterday, I gathered everything I could need. I crossed into your stupid wormhole with half of the tools in the lab, and then spent ten hours rigging up a mechanism to funnel power from your oversized spaceship through the wormhole and straight back to my experimental setup.
 
-Most of the country may have plunged into an alien-induced darkness with no air conditioning, no refrigeration, and be newly dependent on international aid. The university might have boarded its doors and windows against rioters who had heard rumors of the Great Error. But I have electrical power. I threatened my remaining undergrad with expulsion (which I have zero power to act on, but the undergrad doesn’t know that), and between us, the electrical power, an apocalypse-level ramen noodle stash, and my advisor (who has a tendency disrupt rather than enable work and is using the blackout as an excuse to go on vacation to somewhere tropical), research goes on unabated.
+Most of the country may have plunged into an alien-induced darkness with no air conditioning, no refrigeration, and be newly dependent on international aid. The university might have boarded its doors and windows against rioters who had heard rumors of the Great Error. But I have electrical power. I threatened my remaining undergrad with expulsion (which I have zero power to act on, but the undergrad doesn’t know that), and between us, the electrical power, an apocalypse-level ramen noodle stash, and my advisor (who has a tendency to disrupt rather than enable work and is using the blackout as an excuse to go on vacation to somewhere tropical), research goes on unabated.
 
 
 
@@ -246,13 +246,13 @@ Now that I’ve had time to think about it. You know what pisses me off? Your sp
 
 I came back to my apartment feeling good. Fed both cats and recarpeted the part of their cat tower that they destroyed. Ate lukewarm ramen since I don’t have gas. Spent a good hour listening to the cats’ sharp little claws tearing up the new carpet. Sounds of joy. Took a pleasant lukewarm shower. Got into bed, ready to start work in the morning.
 
-Woke up startled, like from a nightmare. (Do aliens dream?) Had one cat asleep on my foot, another one across my neck, and I kept thinking of the chart on your ship. The one with the names of the universes. One label says, “This spaceship is located here in THIS universe.” The other label says, “The alien invasion of the small blue-green planet called Earth is in THAT universe.” Where the “THIS” label and the “THAT” label are not pointing to the same universe. 	
+Woke up startled, like from a nightmare. (Do aliens dream?) Had one cat asleep on my foot, another one across my neck, and I kept thinking of the chart on your ship. The one with the names of the universes. One label said, “This spaceship is located here in THIS universe.” The other label said, “The alien invasion of the small blue-green planet called Earth is in THAT universe.” Where the “THIS” label and the “THAT” label were not pointing to the same universe. 	
 
-Is that a joke?
+Was that a joke?
 
 What does that mean, for your ship to be parked in another universe? Nothing — no particle, no wave, no information whatsoever — can ever escape from a universe, not ever. How could any being ever know of more than one universe, let alone move between them? It’s a logical fallacy. It _doesn’t make sense_.
 
-You know what else doesn’t make sense? You being here. Haven’t you seen those analyses? Where they estimate how many stars emerge per year, and how many of those stars produce habitable planets and have likely produced life, and how much of that life is likely to be intelligent— Okay, yes, there should totally be aliens. But the known universe is 93-some billion light-years across, and humans have only been around for 0.001% of it. The density of intelligent life is… not a number large enough to make sense of. So when you consider the odds that we might coexist — YOU SHOULD NOT BE HERE. Or we shouldn’t.
+You know what else doesn’t make sense? You being here. Haven’t you seen those analyses? Where they estimate how many stars emerge per year, and how many of those stars produce habitable planets and have likely produced life, and how much of that life is likely to be intelligent— Okay, yes, there should totally be aliens. But the known universe is 93-some billion light-years across, and humans have only been around for 0.001% of it. The density of intelligent life is… not a number large enough to make sense of. So when you consider the odds that we might coexist — YOU SHOULD NOT BE HERE. Or _we_ shouldn’t.
 
 I’ve spent three and a half years building petty variants of a radio-frequency receiver that can detect unimaginably tiny signals so that I can detect foreign objects in space better than anyone else. And it seemed like the greatest thing — super publishable data and therefore infinitely exciting — until just this moment. Now it seems stupid…. Tiny….
 
@@ -290,7 +290,9 @@ Did I really walk into another universe?
 
 I packed up the receiver that took three and a half years to perfect and dragged it through the wormhole.
 
-It’s ridiculous — I’ve barely started the experiments that it was built for, and once I eject it into space, I will never get it back. Even if I were willing to build another, I wouldn’t have the funding. And yet it is the perfect thing (if overkill) for listening to cosmic background radiation. In our universe, the peak is in the microwave range — 160 GHz, somewhere in the D band. I have this theory that if the wormhole leads to another universe, the cosmic background radiation signature might be different. Of course, it might not be. And then I will have wasted years of work and have no answers.
+It’s ridiculous — I’ve barely started the experiments that it was built for, and once I eject it into space, I will never get it back. Even if I were willing to build another, I wouldn’t have the funding. And yet it is the perfect thing (if overkill) for listening to cosmic background radiation.
+
+In our universe, the peak is in the microwave range — 160 GHz, somewhere in the D band. I have this theory that if the wormhole leads to another universe, the cosmic background radiation signature might be different. Of course, it might not be. And then I will have wasted years of work and have no answers.
 
 Anyway, I got to the airlock, and under the sign marked “Airlock Button!” was this little asterisk. After the disaster with locking the textbook up, I learned my lesson: Read the text. All of it. It was written in some alien language — yours, I imagine. After several days of effort — which for reasons I can't fathom involved deciphering alien star-maps for clues, writing out the equations for nearly-as-fast-as-light drives, and parsing the DNA of a dinosaur (what the fuck?) — I solved it. It read: "This button will open the airlock."
 
@@ -322,4 +324,4 @@ I hope that made you happy.
 
 A lifetime ago, I would have hoarded the only dataset from another universe and used it to boost my h-index — a quantifiable awesomeness meter in the land of the academic nerds. I made it publicly available this morning. Raw data, nothing withheld or altered. In a bizarre burst of niceness, I apologized to both undergrads, including the one who turned me into the media, since that undergrad was kind of right. Then I packed up Photon and Muon, a lifetime supply of kibble, and went to try the wormhole, but it was gone. I wanted to know what else was out there. That option being unavailable, I went and sat outside in the university courtyard, disguised in a wig and giant glasses, staring up at the trees and trying to decide what to do with my life.
 
-For as long as I can remember, I always thought astrophysics was inferior to electrical engineering. Like okay, you get to contemplate the great mysteries of how the universe began and will end, and the most extreme dense blocks of mass, and the most empty vacuums of spaces — but you can’t test anything. How do you prove that you’re right? You can’t be like, well, this phenomenon should take twenty-eight billion years. I’ll just set up my telescope and wait and see what happens. But — it’s oddly satisfying to see the bigger picture. And so I signed up for some classes, just to see what else they’ve figured out that I don’t know. And right — I wanted to tell you. It was kind of okay, the whole thing with you invading.
+For as long as I can remember, I always thought astrophysics was inferior to electrical engineering. Like okay, you get to contemplate the great mysteries of how the universe began and will end, and the most extreme dense blocks of mass, and the most empty vacuums of spaces — but you can’t test anything. How do you prove that you’re right? You can’t be like, “Well, this phenomenon should take twenty-eight billion years. I’ll just set up my telescope and wait and see what happens.” But — it’s oddly satisfying to see the bigger picture. And so I signed up for some classes, just to see what else they’ve figured out that I don’t know. And right — I wanted to tell you. It was kind of okay, the whole thing with you invading.
