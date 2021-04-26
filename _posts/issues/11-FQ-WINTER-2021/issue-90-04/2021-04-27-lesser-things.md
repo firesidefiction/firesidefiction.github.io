@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 I die on a Thursday. At least I think it’s still Thursday. All I know is a whole lot of nothingness becomes a whole lot of pain, and I’m choking on mouthfuls of ash. My head aches, my eyes stream, and I can’t remember how it happened.
