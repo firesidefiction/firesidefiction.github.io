@@ -41,7 +41,7 @@ I go to the woods. What else would I do?
 
 ----
 
-I sleep too long. When I open my eyes, the world is already brightening. For a handful of minutes, I waste time not moving. Canopy perchers are calling the sun to slip over the horizon. Heat pricks the nape of my neck. Full, bright sun punctures the canopy, splashes onto the forest floor. It is light enough to be found. I must run. Again.  
+I sleep too long. When I open my eyes, the world is already brightening. For a handful of minutes, I waste time not moving. Canopy perchers are calling the dawn to slip over the horizon. Heat pricks the nape of my neck. Full, bright sun punctures the canopy, splashes onto the forest floor. It is light enough to be found. I must run. Again.  
 
 ----
 
@@ -109,7 +109,7 @@ I’m out again.
 
 ----
 
-I remember: The week we finished our qualifying exams, my advisor took us out for drinks. I sat and drank the strong, smokey bourbon he was paying for, and another, and in between drinks, I clinked the ice in my glass and sucked my teeth in my mouth. I laughed when I was supposed to laugh, letting short, sharp _ha_’s push from my chest.
+I remember: The week we finished our qualifying exams, my advisor took us out for drinks. I sat and drank the strong, smokey bourbon he was paying for, and another, and in between drinks, I clinked the ice in my glass and sucked my teeth in my mouth. I laughed when I was supposed to laugh, didn't when I wasn't.
 
 Two and a half rounds in, the professor turned to me and said, “And Sandra? You should feel really, very encouraged. You’ve come very far. You’ll get there.”
 
@@ -197,7 +197,9 @@ Brown eyes I thought I would never see again dart over my face, over my body. He
 
 “How?” I croak. I haven’t talked in days. Words slide like rocks around my tongue. I swallow and try again. “How. Did you. Find me?”
 
-He shakes his head. The tendrils that are growing from his face, his hair, are green and yellow and brown and beautiful, and they shudder when he moves. Even though they nearly cover his face, I know my baby brother when I see him.  “Sandra,” he says, his voice soft but raspier than it should be. “It’s. A trap.”
+He shakes his head. The tendrils that are growing from his face, his hair, are green and yellow and brown and beautiful, and they shudder when he moves. Even though they nearly cover his face, I know my baby brother when I see him.
+
+“Sandra,” he says, his voice soft but raspier than it should be. “It’s. A trap.”
 
 His eyes move. I turn.
 
@@ -245,7 +247,7 @@ And then, I hear nothing. Quiet. _Paused_. I smile. Nobody’s flirting this tim
 
 <span class="forest-thing-interstitial">_we ready,_</span> we say.
 
-We are still standing in the foxtails, but the foxtails are _flexing_. My advisor twitches, his men twitch. And then, before they can _run_, before they can escape, the cluster of pines swell against the grooves in their broad, burnt orange and silver trunks. Their glossy, green needles shiver at the ends of their branches and then tighten, and I think, _Hedgehog? Porcupine?_
+We are still standing in the foxtails, but the foxtails are _flexing_. My advisor twitches, his men twitch. And then, before they can _run_, before they can escape, the cluster of pines swell against the grooves in their broad, burnt-orange-and-silver trunks. Their glossy, green needles shiver at the ends of their branches and then tighten, and I think, _Hedgehog? Porcupine?_
 
 And now the men are turning — trying to run — but roots have snaked out of the ground and twined themselves around their legs, holding them fast.
 
@@ -259,7 +261,7 @@ We don’t know how much time passes. But it is over. We look, me all around whe
 
 I pray he can’t feel what I feel. I know he can. The bodies broken across the ground,  human and pine, splayed and splattered. Blood still sinking into the earth. We drink it in; we don’t have a choice. It tastes like metal and dirt; sweat and salt; bitter and bad. It tastes like what it is: life gone rotten.
 
-I walk toward the thing that used to be my professor. A shard of bone rises from his ribcage, clotted with blood and bits of earth. Like a blade of white grass shooting up from the dark ground. The forest will take them, do what healing it can. Return them to something different but whole. Maybe black walnut. Maybe sycamore or ash.
+I walk toward the thing that used to be my professor. A shard of bone rises from his rib cage, clotted with blood and bits of earth. Like a blade of white grass shooting up from the dark ground. The forest will take them, do what healing it can. Return them to something different but whole. Maybe black walnut. Maybe sycamore or ash.
 
 Something glinting in the sun catches my eye, and I take myself over to it.
 

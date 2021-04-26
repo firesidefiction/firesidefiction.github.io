@@ -199,11 +199,11 @@ Crystalized memories let us steal back that inheritance. We secreted our interge
 
 I immerse myself in the drudgery of your life. Watching your marketing job is only entertaining because the alternative is listening to the dull thud of a heart that has given up.
 
-Nights alone with your social feed, or with your friends at a club, bottomless brunches, endless coffee meetings with people who don't care about you.
+Nights alone with your social feed or with your friends at a club, bottomless brunches, endless coffee meetings with people who don't care about you.
 
 When I was a woman, or when I was in Michelle, I could ask for help. I had a community who cared for me. Now I have only myself to rely on. I struggle against the memories of anger and loneliness that rise and rise again from my mem-crystals.
 
-But it's not just myself I have to save. I feel the small sound of joy you let out when you read the email about another Uptown organ that will be available soon. How many mimosas will you be able to down with some poor soul's stolen liver?
+But it's not just myself I have to save. I feel the small sound of joy you let out when you read the email telling you about another Uptown organ will be available soon. How many mimosas will you be able to down with some poor soul's stolen liver?
 
 
 

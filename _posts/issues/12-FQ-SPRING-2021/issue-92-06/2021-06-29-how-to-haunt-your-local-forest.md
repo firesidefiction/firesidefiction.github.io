@@ -67,7 +67,7 @@ Your best trick involves Archie’s old chew toys. He’s not interested in them
 
 When Archie can finally stand, balanced, for a full minute, the vet recommends short walks as part of his physical therapy. (“No more than five to ten minutes of walking at a time.”) You take him up to the stop sign and back. It’s March now and the whole world has greened in just three weeks. Archie sniffs the dandelions erupting in the neighbor’s yard thoughtfully, like a sommelier with a glass of wine.
 
-You can’t rest, though; you feel spring inside your veins. That turns to rage when you return to the woods and see how much trash the hunters have left behind at the trailhead. Tins of chew, plastic wrappers for Slim Jims, endless holey cans of Busch. You find one of their empty, busted gas-station coolers and take it home. While Archie watches, you cut out two styrofoam blocks the length of your shoe, and slightly wider. You carve away at the bottom until you create a new footprint. Four-toed. Clawed. Huge.
+You can’t rest, though; you feel spring inside your veins. That turns to rage when you return to the woods and see how much trash the hunters have left behind at the trailhead. Tins of chew, plastic wrappers for Slim Jims, endless holey cans of Busch. You find one of their empty, busted gas-station coolers and take it home. While Archie watches, you cut out two styrofoam blocks the length of your shoe and slightly wider. You carve away at the bottom until you create a new footprint. Four-toed. Clawed. Huge.
 
 In spring, the ground is constantly damp. You strap the styrofoam to your own shoes and walk the forest in long leaping strides. In the distance you hear the bells, the leaves, muffled slightly by the squelch of your steps.
 
@@ -85,7 +85,7 @@ Instead, take your own careful aim and step on the shell, crushing it inside the
 
 Calling your local officials — this part’s easy. You did it before, remember? Found the number for the warden, left messages until they finally called you back three days later.
 
-You had read the entire hunting code, front to back, making a mental list of specific parts that the hunter violated. One: He was on the pedestrian path. Two: His gun wasn't stowed but was loaded, in his hands. Three: The “warning shot” was fired horizontal to the land, not vertically into the air.
+You had read the entire hunting code front to back, making a mental list of specific parts that the hunter violated. One: He was on the pedestrian path. Two: His gun wasn't stowed but was loaded, in his hands. Three: The “warning shot” was fired horizontal to the land, not vertically into the air.
 
 But the warden interrupted you. “Sometime’s hunter’s’ll shoot a dog.”
 
@@ -107,7 +107,7 @@ You find her while you’re checking your sound traps in the woods. She’s not 
 
 She’s heavy, and you’re not sure you’ll be strong enough. You remember how heavy Archie was, all thirty pounds of him, as you jogged him back to your car. How you sobbed harder each time you had to stop, catch your breath, and shift his body, slippery with blood, in your arms. But the calf seems to get lighter as you go, as though her mass is sloughing off into the dead leaves and humus of the forest floor. You make it to the site of an old homestead, an open spot where grass and daffodils mingle. Drag her around the area, flattening the grass in a wide circle before depositing her in the center. In the sunlight, her hide gleams chestnut. It looks like Archie’s. Her head lolls, her tongue black and protruding, but you arrange her delicate fetlocks as though she’s primly crossing her ankles, then step back to view your work.
 
-That’s when you catch sight of it. The hunter’s lean-to, perched on a rise in the woods. It’s just three timber walls and a metal roof. You go check it out, find fresh boot prints outside. Inside there’s a stool, a battery-powered lamp, and a couple of knives on the walls. The floor is littered with empty shells. It smells like mildew and stale whiskey.
+That’s when you catch sight of it. The hunter’s lean-to, perched on a rise in the woods. It’s just three timber walls and a metal roof. You go check it out, find fresh boot prints outside. Inside, there’s a stool, a battery-powered lamp, and a couple of knives on the walls. The floor is littered with empty shells. It smells like mildew and stale whiskey.
 
 Before you leave, you check on the calf one more time. There’s a ring of mushrooms circling her body. They stand a couple of inches high and most appear to bend slightly inwards, as though bowing their cream-colored caps toward the dead cow at the center. You wonder how you hadn’t noticed them before.
 

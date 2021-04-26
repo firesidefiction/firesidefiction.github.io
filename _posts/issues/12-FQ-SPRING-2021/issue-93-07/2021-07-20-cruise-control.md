@@ -84,7 +84,7 @@ I huffed a laugh. I thought I'd get phonebot speech scripts. “Bet the VR's goo
 
 “There's lots of options, but I don't really watch. I have trouble following that stuff nowadays.”
 
-I shuddered, and wrapped my arms around my chest to ward off a rising cough. “Sounds awful,” I croaked. “All that WiFi, and you can't use it?”
+I shuddered, and wrapped my arms around my chest to ward off a rising cough. “Sounds awful,” I croaked. “All that Wi-Fi, and you can't use it?”
 
 “Nah, VR's for more than streaming. My favorite is driving the Aïr Massif, in Niger. Big bare mountains around you, shrubs and desert spread out below.”
 

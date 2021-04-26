@@ -302,7 +302,7 @@ I go still, too, without meaning to.
 
 How bottomless and sharp-edged and _stunningly_ unfair, after all the ways I could have and did lose him and wanted him gone, that it’s now, and real, and this.
 
-In the back of my mind, into the empty space of looking at him, tumbles a single line of music: _Hey baby, look my way, give me a smile for a sunny day / Come on over here and sit by me._
+In the back of my mind, into the empty space of looking at him, tumbles a single line of music: _Hey baby, look my way / give me a smile for a sunny day / Come on over here and sit by me._
 
 I want to slap at my brain like a mosquito landed on it. I hate that fucking song.
 
@@ -310,7 +310,7 @@ Harris loved it. And that whole summer, it was everywhere we went, and I couldn�
 
 My hands come back to me like a system rebooting. I reach back into his head and grab another tendril, and I sing the line out loud, and the next part too.
 
-“_When you're here, it's always summertime, sipping on drinks in the bright sunshine / Make it perfect, just you wait and see._”
+“_When you're here, it's always summertime / sipping on drinks in the bright sunshine / Make it perfect, just you wait and see._”
 
 It’s hollow nonsense, worsened with age. Who’s been outside in the last five years? But annoyance distracts me from horror, and I’ve got the chip clear on three sides.
 

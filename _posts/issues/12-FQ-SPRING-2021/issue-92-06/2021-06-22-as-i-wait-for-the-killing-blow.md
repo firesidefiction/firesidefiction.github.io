@@ -68,7 +68,7 @@ A deep breath. “You’re right, of course,” he said. He wiped his eyes, stra
 
 He nodded and returned to Rivkah’s side.
 
-I let my eyes return fully to the window, imagining that I could feel another pair of eyes, great orbs of midnight, each one as big as my entire frail, old body, watching back. “I’m coming soon,” I whispered, then went to take in as much of my infant granddaughter’s smile as I could.
+I let my eyes return fully to the window, imagining that I could feel another pair of eyes, great orbs of midnight, each one as big as my entire frail old body, watching back. “I’m coming soon,” I whispered, then went to take in as much of my infant granddaughter’s smile as I could.
 
 
 
@@ -76,11 +76,11 @@ I let my eyes return fully to the window, imagining that I could feel another pa
 
 
 
-The most irritating thing about turning is that there’s no one to talk to who understands how much it hurts to feel your own bones hollowing themselves out for flight. As my full plumage comes in (tawny and sleek, like a kestrel), the floor of my home becomes littered with the little, fuzzy pin feathers that preceded them. As if I were a newborn chick. I don’t bother cleaning them up.
+The most irritating thing about turning is that there’s no one to talk to who understands how much it hurts to feel your own bones hollowing themselves out for flight. As my full plumage comes in (tawny and sleek, like a kestrel), the floor of my home becomes littered with the little fuzzy pin feathers that preceded them. As if I were a newborn chick. I don’t bother cleaning them up.
 
 Sometimes they throw a celebration for the grandparent, but I wouldn’t have it. They feel too much like a funeral, with polite relatives pecking at casserole and bobke, and music that alternates between nostalgic and somber. I don’t feel either of those things. I’d be more suited to battle hymns, soaring requiems, screaming arias. The younger folks wouldn’t get it.
 
-The women in my family have always seemed oddly eager to turn, when the time comes. My parents used to tell me that, on the very day I was born, my grandma had sprouted big tufts of fur from her ears. Within a month, she had run into the hills on all fours, covered in a slick, brown pelt. What she did for the next seventeen years is her business. I only know that she was still waiting when I came up there after her with a new shield and an old boar spear over my shoulder.
+The women in my family have always seemed oddly eager to turn, when the time comes. My parents used to tell me that, on the very day I was born, my grandma had sprouted big tufts of fur from her ears. Within a month, she had run into the hills on all fours, covered in a slick brown pelt. What she did for the next seventeen years is her business. I only know that she was still waiting when I came up there after her with a new shield and an old boar spear over my shoulder.
 
 She was no more prepared to go down peacefully than I imagine I’ll be. She had claws like spades and could fit her whole great, hulking body into the tunnels she dug with them. The first time she went underground, I made the mistake of climbing a tree to see where she emerged. Before I knew it, the ground I watched was rushing toward me as the tree fell into the tunnel she had dug beneath it.
 
@@ -88,7 +88,7 @@ I was fortunate not to break a leg in the fall and smart enough to make her chas
 
 Rivkah was my only child. When she was born, it was my mother whose skin turned to scales, whose teeth and neck grew long before she skittered eastward, toward the desert. If anything, she turned even quicker than the stories I’d heard of my grandma. Rivkah never would talk about what happened out there, the week after her seventeenth birthday. I only ever knew that she came back with one less arm but nonetheless walking with her posture a bit higher — ready, at last, to learn a civilized trade.
 
-It takes children and outsiders some time to understand that we aren’t sad when our elders become Ancestors. We are not losing them, the way it happens with a disease, or an accident or a war. When it happens, our fates are intertwined. It ensures that our moment of parting will be personal, that it will be self-determined, and that it renders the child an adult, if they survive.
+It takes children and outsiders some time to understand that we aren’t sad when our elders become Ancestors. We are not losing them, the way it happens with a disease or an accident or a war. When it happens, our fates are intertwined. It ensures that our moment of parting will be personal, that it will be self-determined, and that it renders the child an adult, if they survive.
 
 I lost my husband to a kick from a draft horse. I’d rather have watched him grow these feathers and sent him off into the sky with a kiss on the beak.
 

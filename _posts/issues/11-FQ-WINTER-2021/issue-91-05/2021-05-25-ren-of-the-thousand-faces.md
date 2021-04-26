@@ -160,17 +160,17 @@ Ren assumed Lady Stryphe’s form for what xe dearly hoped would be the last tim
 
 Xe paced quietly for several minutes, agonizing over whether to leave sight unseen or leave some explanation for xyr departure. In the end, xe penned a letter and left it by the lady’s nightstand.
 
-_My Dearest Olivia,
+_My Dearest Olivia,_
 
-I regret to inform you that I cannot stay here and live a life I do not remember. I am off to seek the favor of the gods in hopes that I might one day regain the memories of our life together.
+_I regret to inform you that I cannot stay here and live a life I do not remember. I am off to seek the favor of the gods in hopes that I might one day regain the memories of our life together._
 
-I understand that attempting to regain the gods’ favor is hubris, and potentially impossible. However, the constraints of my curse would cause no small amount of strife for either of us. I would not be able to prove my identity to your subjects, and none of your fellow nobles would trust me.
+_I understand that attempting to regain the gods’ favor is hubris, and potentially impossible. However, the constraints of my curse would cause no small amount of strife for either of us. I would not be able to prove my identity to your subjects, and none of your fellow nobles would trust me._
 
-I do not expect you to forgive me for this, but I pray that you understand well enough to let me go. If fortune deigns to smile upon us, our paths will cross again.
+_I do not expect you to forgive me for this, but I pray that you understand well enough to let me go. If fortune deigns to smile upon us, our paths will cross again._
 
-Respectfully yours,
+_Respectfully yours,_
 
-Aidric_
+_Aidric_
 
 Whether the lady took the letter at face value or as proof of Ren’s fraudulence mattered not. Either way, it would give her a sense of closure. Ren, of all people, could appreciate the necessity for that.
 
