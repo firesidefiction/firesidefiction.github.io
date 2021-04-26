@@ -4,7 +4,7 @@ category: short story
 issue: 92, June 2021
 issue-cover: issue-92-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-92-june-2021
-title: Papa's Gonna Buy You A Mockingbird
+title: Papa's Gonna Buy You a Mockingbird
 subtitle:
 author: julian-stuart
 author-2:
@@ -32,11 +32,11 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote:
+contentnote: This story contains a brief description of domestic violence.
 generalnote:
 published: false
 ---
-I’m still damp from my hasty shower as I clamber back into the Sack, and the feedback suit sticks uncomfortably to my bare skin, but the countdown to my next session is at :23 on the display when I settle my face into the mocap mask. I’ll airdry. I haven’t had a reserved block in weeks, just got whatever came up in the queue, and if someone’s paying the premium to book me, then I can’t disappoint them.
+I’m still damp from my hasty shower as I clamber back into the Sack, and the feedback suit sticks uncomfortably to my bare skin, but the countdown to my next session is at :23 on the display when I settle my face into the mocap mask. I’ll air-dry. I haven’t had a reserved block in weeks, just got whatever came up in the queue, and if someone’s paying the premium to book me, then I can’t disappoint them.
 
 The screen flashes up the intertwined hands of the Closeness logo, and a little thrill makes my stomach quiver. I wonder whose face I’m about to be looking into, and compose my own — receptive and slightly sultry, lips freshly licked and parted.
 
@@ -84,7 +84,7 @@ What I can see, at first, I don’t understand: a dark, spreading blotch behind 
 
 “Needed the money. I lost my job. _Everybody_ lost their job.”  
 
-I don’t say anything. I don’t need to. The Closeness interface says it for me: finally, we’re even.
+I don’t say anything. I don’t need to. The Closeness interface says it for me: Finally, we’re even.
 
 “I was with Zennews a few years, and it was Hutchinson-owned, which was bad enough, but then we got too big and Pagecorp bought us. Anyone with an actual opinion doesn’t last now. It’s just typing. I couldn’t fucking stand it.”
 
@@ -246,7 +246,7 @@ Past scalp and flesh and the edges of pink-white bone, a nest of black tendrils 
 
 My upper lip curls involuntarily.
 
-We’d tested regrowth protocols, root and branch network self-construction: if the chip could build on itself, it could handle uses the base model could never support and programs the base model couldn’t run — profits the base model couldn’t deliver. But we’d never been able to control it precisely enough. It anchored wherever it liked, as it spread on its own algorithmic instructions, and there’d been no way to safely enable it. What I’m looking at, I last saw spiderwebbing a cadaver brain, tugging its lifeless lobes into a new and sickening shape.
+We’d tested regrowth protocols, root and branch network self-construction: If the chip could build on itself, it could handle uses the base model could never support and programs the base model couldn’t run — profits the base model couldn’t deliver. But we’d never been able to control it precisely enough. It anchored wherever it liked, as it spread on its own algorithmic instructions, and there’d been no way to safely enable it. What I’m looking at, I last saw spiderwebbing a cadaver brain, tugging its lifeless lobes into a new and sickening shape.
 
 I didn’t get fired for refusing to test it any further. They found out I knew about their user database first.
 
@@ -306,7 +306,7 @@ In the back of my mind, into the empty space of looking at him, tumbles a single
 
 I want to slap at my brain like a mosquito landed on it. I hate that fucking song.
 
-Harris loved it. And that whole summer it was everywhere we went, and I couldn’t pull it apart from him after he left, and I... remember every word.
+Harris loved it. And that whole summer, it was everywhere we went, and I couldn’t pull it apart from him after he left, and I... remember every word.
 
 My hands come back to me like a system rebooting. I reach back into his head and grab another tendril, and I sing the line out loud, and the next part too.
 
@@ -314,7 +314,7 @@ My hands come back to me like a system rebooting. I reach back into his head and
 
 It’s hollow nonsense, worsened with age. Who’s been outside in the last five years? But annoyance distracts me from horror, and I’ve got the chip clear on three sides.
 
-“_Running down the beach together, blue sky eyes in new love weather / Can’t buy a love that’s ever been so free…._”
+“_Running down the beach together, blue-sky eyes in new love weather / Can’t buy a love that’s ever been so free…._”
 
 How much of me is bought and paid for?
 
@@ -322,7 +322,7 @@ How much have I given him, now?
 
 Bigger problems. There’s a taproot-looking tendril coming out the bottom of the chip, but Harris is grey and barely breathing, and I can’t wait. I grab the chip with my fingertips and slowly, steadily, ease it up and out, singing to cover the sound of wire dragging through flesh.
 
-“_Not a thought, not a thing, not a worry, we got forever, baby don't hurry...._”
+“_Not a thought, not a thing, not a worry/We got forever, baby don't hurry...._”
 
 All at once, the chip comes loose. I nearly fumble it, then hastily cram it into the last empty packet. My skin crawls, and my voice wobbles, but I don’t stop.
 

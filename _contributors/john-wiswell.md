@@ -15,4 +15,4 @@ website-url:
 short-name: john-wiswell
 permalink: john-wiswell
 ---
-John (@Wiswell) is a disabled writer who lives where New York keeps all of its trees. His works have appeared in _Nature Futures_, _Uncanny Magazine_, and _Daily Science Fiction_. This story is dedicated to his late grandfather and to all the friends he can no longer visit.
+John (@Wiswell) is a disabled writer who lives where New York keeps all of its trees. His works have appeared in _Nature Futures_, _Uncanny Magazine_, and _Daily Science Fiction_.

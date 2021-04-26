@@ -50,7 +50,7 @@ To no one’s surprise, it was my son-in-law who had tears in his eyes when he s
 
 “Promise me,” he said. “When she comes of age, you won’t fight her. Let her take you. Please, mom. I can’t stand to think of losing her.”
 
-When my daughter, Rivkah, was five, just going to her first fencing lessons, the realization came to her that I, myself, might become an Ancestor one day. Every parent dreads this conversation, no matter how many books we read to prepare us. I could never forget the look in her eyes, the sound of her voice, when I answered her questions and tried to reassure her that it would not happen for a long, long time.
+When my daughter, Rivkah, was five, just going to her first fencing lessons, the realization came to her that I myself might become an Ancestor one day. Every parent dreads this conversation, no matter how many books we read to prepare us. I could never forget the look in her eyes, the sound of her voice, when I answered her questions and tried to reassure her that it would not happen for a long, long time.
 
 This talk with Yermiyahu brought those sensations back into focus, as if he were my five-year-old daughter instead of my grown child’s husband. And so I talked to him as I had talked to her, back then. “I can make you all the promises in the world,” I said. “And they will be the promises of an old woman. Whether the monster will hold herself to them is not for me to say.”
 
@@ -80,9 +80,9 @@ The most irritating thing about turning is that there’s no one to talk to who 
 
 Sometimes they throw a celebration for the grandparent, but I wouldn’t have it. They feel too much like a funeral, with polite relatives pecking at casserole and bobke, and music that alternates between nostalgic and somber. I don’t feel either of those things. I’d be more suited to battle hymns, soaring requiems, screaming arias. The younger folks wouldn’t get it.
 
-The women in my family have always seemed oddly eager to turn, when the time comes. My parents used to tell me that, on the very day I was born, my grandma sprouted big tufts of fur from her ears. Within a month, she had run into the hills on all fours, covered in a slick, brown pelt. What she did for the next seventeen years is her business. I only know that she was still waiting when I came up there after her with a new shield and an old boar spear over my shoulder.
+The women in my family have always seemed oddly eager to turn, when the time comes. My parents used to tell me that, on the very day I was born, my grandma had sprouted big tufts of fur from her ears. Within a month, she had run into the hills on all fours, covered in a slick, brown pelt. What she did for the next seventeen years is her business. I only know that she was still waiting when I came up there after her with a new shield and an old boar spear over my shoulder.
 
-She was no more prepared to go down peacefully than I imagine I’ll be. She had claws like spades, and could fit her whole great, hulking body into the tunnels she dug with them. The first time she went underground, I made the mistake of climbing a tree to see where she emerged. Before I knew it, the ground I watched was rushing toward me as the tree fell into the tunnel she had dug beneath it.
+She was no more prepared to go down peacefully than I imagine I’ll be. She had claws like spades and could fit her whole great, hulking body into the tunnels she dug with them. The first time she went underground, I made the mistake of climbing a tree to see where she emerged. Before I knew it, the ground I watched was rushing toward me as the tree fell into the tunnel she had dug beneath it.
 
 I was fortunate not to break a leg in the fall and smart enough to make her chase me upslope, where the ground was all rock. Those claws weren’t much good against boulders and cliffs. Then, she had nowhere to hide.
 
