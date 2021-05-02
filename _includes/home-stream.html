@@ -44,9 +44,9 @@
       <p class="btn reverse"><a href="/magazine">See all back issues</a></p>
   </div>
 
-    <!-- div class="home-sidebar">
+    <div class="home-sidebar">
       <h2 class="label no-border">Announcements</h2>
-      {% for post in site.posts limit: 5 %}
+      {% for post in site.posts limit: 23 %}
         {% if post.category == "announcement" %}
          <div>
           <small class="category">{{ post.date | date: "%b %-d, %Y" }}</small>
@@ -54,6 +54,7 @@
         </div>
       {% endif %}
       {% endfor %}
-    </div-->
+      <p><a href="/announcements">See all</a></p>
+    </div>
 
 </section>
