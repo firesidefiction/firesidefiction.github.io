@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 The first Auddid colony on Treye’s list was huge: a village’s worth of interconnected chambers carved from a bank of ancient, dried mud. From a distance, it swarmed with activity, but as Treye drew closer, the Auddids retreated inside.
 
