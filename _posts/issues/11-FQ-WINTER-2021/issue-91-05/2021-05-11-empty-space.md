@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 It starts small, this... loss. So small that you're pretty sure you'd need a telescope to see which infinitesimally tiny piece it was.
 
