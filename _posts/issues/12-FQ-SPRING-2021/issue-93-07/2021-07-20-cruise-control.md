@@ -32,7 +32,7 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote:
+contentnote: This story contains depictions of emotional abuse.
 generalnote:
 published: false
 ---

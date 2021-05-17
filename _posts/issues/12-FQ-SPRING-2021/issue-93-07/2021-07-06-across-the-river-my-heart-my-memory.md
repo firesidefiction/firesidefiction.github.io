@@ -32,7 +32,7 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote:
+contentnote: This story contains references to nonconsensual medical procedures.
 generalnote:
 published: false
 ---

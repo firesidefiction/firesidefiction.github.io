@@ -32,7 +32,7 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote:
+contentnote: This story contains racist language and behavior, depictions of violence towards people of color, and elements of body horror.
 generalnote:
 published: false
 ---

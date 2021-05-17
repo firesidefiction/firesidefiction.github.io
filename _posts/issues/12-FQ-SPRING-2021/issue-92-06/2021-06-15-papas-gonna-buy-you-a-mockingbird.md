@@ -32,7 +32,7 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote: This story contains a brief description of domestic violence.
+contentnote: This story contains elements of body horror and nonconsensual medical experimentation, as well as references to intimate partner violence.
 generalnote:
 published: false
 ---
