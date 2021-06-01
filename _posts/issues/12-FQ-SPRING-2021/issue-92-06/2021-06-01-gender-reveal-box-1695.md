@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 This weekend only, you can get your very own Objective Goods Ltd. Gender Reveal Box for just $16.95. The Gender Reveal Box comes in your choice of six pastel color medleys, each scratch-proof and sturdy enough to resist any conventional explosion. And each box has its containment properties rigorously tested. Don’t be fooled by cheaper competitors; a faulty gender reveal box has consequences that no parent can bear.
 
