@@ -54,7 +54,7 @@ To assist in the deliberate nature of your venture, each Gender Reveal Box comes
 
 Most customers only want to expose a few people, and so ten invitations suit their needs. If you are the sort of person who wants to involve more than ten people in this event, well, that is your choice and they will remember. Additional stationery is for sale in packets of five for $5.95.
 
-Who you invite us up to you. You know the sorts of people who deserve to be at this sort of party. If you spend the $16.95 for a Gender Reveal Box, you become the arbiter of who is complicit in the revelation.
+Who you invite is up to you. You know the sorts of people who deserve to be at this sort of party. If you spend the $16.95 for a Gender Reveal Box, you become the arbiter of who is complicit in the revelation.
 
 Maybe you just want to invite those family members who tell you what colors are appropriate to paint the nursery.
 
