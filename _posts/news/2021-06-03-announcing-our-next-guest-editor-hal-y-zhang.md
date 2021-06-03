@@ -4,7 +4,7 @@ category: announcement
 issue:
 issue-cover:
 issue-buy-link:
-title: Announcing our next guest editor: Hal Y. Zhang
+title: "Announcing our next guest editor: Hal Y. Zhang"
 subtitle:
 author: brian-j-white
 author-2:
