@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count:
-date: 2021-06-04 01:00:01 -0500
+date: 2021-06-03 01:00:01 -0500
 permalink: announcing-our-next-guest-editor-hal-y-zhang
 audiourl:
 teaser:
