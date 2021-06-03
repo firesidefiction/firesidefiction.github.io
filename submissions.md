@@ -6,6 +6,10 @@ permalink: submissions
 
 Fireside is currently closed to submissions.
 
+Fireside will be open to submissions for short stories from **July 5, 2021 at 6am EST to July 11, 2021 at 6pm EST**.
+
+Guest Editor Hal Y. Zhang would especially love to see work loosely themed around science and technology: the joy of discovery, the systemic barriers in place that prevent equal access to advanced knowledge, and how new tools and machines can both empower and disenfranchise marginalized voices. Don't limit yourself to strictly future settings or science fiction — think broadly in terms of any method or system that explores the world through experimentation, such as an ancient sorcerer investigating rules of magic.
+
 We have no further submissions dates to announce for the moment. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
 During open submissions periods, there will be a form on this page for uploading your submission.
