@@ -6,7 +6,7 @@ permalink: submissions
 
 Fireside is currently closed to submissions.
 
-Fireside will be open to submissions for short stories from **July 5, 2021 at 6am EST to July 11, 2021 at 6pm EST**.
+Fireside will be open to submissions for short stories and poems from **July 5, 2021 at 6am EST to July 11, 2021 at 6pm EST**.
 
 Guest Editor Hal Y. Zhang would especially love to see work loosely themed around science and technology: the joy of discovery, the systemic barriers in place that prevent equal access to advanced knowledge, and how new tools and machines can both empower and disenfranchise marginalized voices. Don't limit yourself to strictly future settings or science fiction — think broadly in terms of any method or system that explores the world through experimentation, such as an ancient sorcerer investigating rules of magic.
 
@@ -18,7 +18,7 @@ During open submissions periods, there will be a form on this page for uploading
 
 # Guidelines
 
-We welcome previously unpublished work ('published' includes work posted on Patreon or on a blog) in English or Spanish from all writers anywhere in the world, and we are interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
+We welcome previously unpublished work ('published' includes work posted on Patreon or on a blog) in English from all writers anywhere in the world, and we are interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
 
 If you have any questions about how to submit, please email us at: [questions@firesidefiction.com](mailto:questions@firesidefiction.com). (**_Any submissions sent via email will be deleted unread._**)
 
@@ -31,14 +31,14 @@ We use an online form to gather submissions, but we understand that this may not
 
 ## Short Stories
 
-Fireside is closed to submissions for short stories. We don't have upcoming dates to announce.
+Fireside is closed to submissions for short stories.
 
 Please read the following guidelines. During open submissions periods, there will be a form below for uploading your submission.
 
 We accept short stories up to 3,000 words. Our budget allows us to pay for up to 7,000 words per month, which means we are always going to buy more shorter fiction than longer stories.
 
 ### Please submit:
-- Stories in English or Spanish
+- Stories in English
 - Stories that have never been published before.
 - Short stories up to 3,000 words.
 - Stories of any genre.
@@ -63,7 +63,7 @@ We accept short stories up to 3,000 words. Our budget allows us to pay for up to
 ----
 
 ## Poetry
-Fireside is closed to submissions for poetry. We don't have upcoming dates to announce.
+Fireside is closed to submissions for poetry.
 
 Please read the following guidelines. During open submissions periods, there will be a form below for uploading your submission.
 
