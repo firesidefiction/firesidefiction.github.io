@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to the death of a teenager.
 generalnote:
-published: false
+published: true
 ---
 “You’re lucky if you marry a fisherman.” That’s what they told us growing up, but there are not many fishermen left around here.
 
