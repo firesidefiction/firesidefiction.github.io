@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains elements of body horror and nonconsensual medical experimentation, as well as references to intimate partner violence.
 generalnote:
-published: false
+published: true
 ---
 I’m still damp from my hasty shower as I clamber back into the Sack, and the feedback suit sticks uncomfortably to my bare skin, but the countdown to my next session is at :23 on the display when I settle my face into the mocap mask. I’ll air-dry. I haven’t had a reserved block in weeks, just got whatever came up in the queue, and if someone’s paying the premium to book me, then I can’t disappoint them.
 
