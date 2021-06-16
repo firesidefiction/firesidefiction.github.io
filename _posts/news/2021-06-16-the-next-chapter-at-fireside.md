@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 It's been almost seven months since I [took over as Fireside's interim editorial director](https://firesidefiction.com/interim-editorial-director) after Pablo Defendini's publication of a racist audio recording of an essay. During that time, we've had a lot going on behind the scenes.
 
