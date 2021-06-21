@@ -4,7 +4,7 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently closed to submissions. Our next submissions period for _Fireside Magazine_ will be from **July 5, 2021 at 6am EST to July 11, 2021 at 6pm EST**. At that time, we will be open to **short stories and poems** for consideration by guest editor Hal Y. Zhang.
+Fireside is currently closed to submissions. Our next submissions period for _Fireside Magazine_ will be from **July 5, 2021 at 6am EST to July 11, 2021 at 6pm EST**. At that time, we will be open to **short stories and poems** for consideration by [guest editor Hal Y. Zhang](https://firesidefiction.com/announcing-our-next-guest-editor-hal-y-zhang).
 
 Hal would especially love to see work loosely themed around science and technology: the joy of discovery, the systemic barriers in place that prevent equal access to advanced knowledge, and how new tools and machines can both empower and disenfranchise marginalized voices. Don't limit yourself to strictly future settings or science fiction — think broadly in terms of any method or system that explores the world through experimentation, such as an ancient sorcerer investigating rules of magic.
 
