@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to loss of limb.
 generalnote:
-published: false
+published: true
 ---
 
 
