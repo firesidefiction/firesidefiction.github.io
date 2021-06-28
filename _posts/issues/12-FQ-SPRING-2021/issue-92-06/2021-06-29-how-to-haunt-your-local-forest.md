@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to harm to animals.
 generalnote:
-published: false
+published: true
 ---
 
 **1.	_Fill the forest with magical sigils._**
