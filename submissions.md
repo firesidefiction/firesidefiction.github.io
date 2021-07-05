@@ -100,4 +100,4 @@ Fireside is currently closed to submissions for nonfiction. We do not have any u
 
 ## Novels and Novellas
 
-Fireside is currently closed to submissions for novels and novellas. We do not have any upcoming submission periods for nonfiction at this time.
+Fireside is currently closed to submissions for novels and novellas. We do not have any upcoming submission periods for novels or novellas at this time.
