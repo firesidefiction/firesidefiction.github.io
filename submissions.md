@@ -104,4 +104,6 @@ Fireside is currently closed to submissions for novels and novellas. We do not h
 
 ##Submissions Form
 
+Please use this form to submit your **short story or poem**.
+
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed" src="https://airtable.com/embed/shrl0us9l7Kj6tsfW?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
