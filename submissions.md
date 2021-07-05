@@ -102,7 +102,7 @@ Fireside is currently closed to submissions for novels and novellas. We do not h
 
 ----
 
-##Submissions Form
+## Submissions Form
 
 Please use this form to submit your **short story or poem**.
 
