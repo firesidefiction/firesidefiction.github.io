@@ -4,13 +4,13 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently closed to submissions. Our next submissions period for _Fireside Magazine_ will be from **July 5, 2021 at 6am EST to July 11, 2021 at 6pm EST**. At that time, we will be open to **short stories and poems** for consideration by [guest editor Hal Y. Zhang](https://firesidefiction.com/announcing-our-next-guest-editor-hal-y-zhang).
+Fireside is **currently open to submissions*** of short stories and poems for consideration by [guest editor Hal Y. Zhang](https://firesidefiction.com/announcing-our-next-guest-editor-hal-y-zhang) to be published in _Fireside Magazine_. This submissions period will close on **July 11, 2021, at 6pm EST**.
 
 Hal would especially love to see work loosely themed around science and technology: the joy of discovery, the systemic barriers in place that prevent equal access to advanced knowledge, and how new tools and machines can both empower and disenfranchise marginalized voices. Don't limit yourself to strictly future settings or science fiction — think broadly in terms of any method or system that explores the world through experimentation, such as an ancient sorcerer investigating rules of magic.
 
-We have no other submissions dates to announce at this time. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
+**Please read and follow the guidelines provided below and then scroll to the bottom of the page to access our submissions form.**
 
-During open submissions periods, there will be a form on this page for uploading your submission.
+We have no other submissions dates to announce at this time. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
 ---
 
@@ -43,16 +43,16 @@ When we are open for short story submissions, we accept stories up to 3,000 word
 - Sending your story to other venues (simultaneous submissions) is okay, but we ask that you please withdraw immediately if you take another offer by emailing [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com).
 
 ### Please don’t send us:
-- Stories that promote fascism, racism, sexism, homophobia, ableism, etc.
+- Stories that promote fascism, racism, sexism, ableism, homophobia, transphobia, fatphobia, etc.
 - Stories longer than 3,000 words. (Please don't email to ask if you're the special exception — you're not.)
 - PDF files.
 - Submissions via email. Emailed submissions will be deleted unread. Please use the submissions form that will be available on this page when submissions are open.
 - Stories that use intellectual property that is under copyright. (We enjoy fanfic, but we don't publish it.)
 
 ### What to expect from us:
-- Fireside acquires English language rights in print, digital, and audio formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
-- First responses (either a rejection or a second round notice) within approximately 30 days from the end of the submissions period, and a final decision on second-round holds approximately 60 days after that. If there’s any major delay to this timing, we’ll let you know.
-- Payment of 12.5 cents per word for accepted stories.
+- Fireside acquires English language rights in print and digital formats. Please see our [Story Contract Boilerplate](https://firesidefiction.com/legal/story-contract-boilerplate) for the full text of our contract.
+- First responses (either a rejection or a second-round notice) within approximately 30 days from the end of the submissions period, and a final decision on second-round holds approximately 60 days after that. If there’s any major delay to this timing, we’ll let you know.
+- Payment of USD 12.5 cents per word for accepted stories.
 
 ----
 
@@ -70,17 +70,15 @@ When we are open for poetry submissions, we do not cap poem word counts, but oth
 - Sending your poem to other venues (simultaneous submissions) is okay, but we ask that you please withdraw immediately if you take another offer by emailing [editorial@firesidefiction.com](mailto:editorial@firesidefiction.com).
 
 ### Please don’t send us:
-- Poems that promote fascism, racism, sexism, homophobia, ableism, etc.
+- Poems that promote fascism, racism, sexism, ableism, homophobia, transphobia, fatphobia, etc.
 - PDF files.
 - Submissions via email. Emailed submissions will be deleted unread. Please use the submissions form that will be available on this page when submissions are open.
 - Stories that use intellectual property that is under copyright. (We enjoy fanfic, but we don't publish it.)
 
 ### What to expect from us:
-- Fireside acquires English language rights in print, digital, and audio formats. Please see our [Poem Contract Boilerplate](https://firesidefiction.com/legal/poetry-contract-boilerplate) for the full text of our contract.
-- First responses (either a rejection or a second round notice) within approximately 30 days from the end of the submissions period, and a final decision on second-round holds approximately 60 days after that. If there’s any major delay to this timing, we’ll let you know.
-- Flat payment of $100 for accepted poems.
-
-<!--<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shr9YX4XTaxviR6Cf?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1934" style="background: transparent; border: 1px solid #ccc;"></iframe>-->
+- Fireside acquires English language rights in print and digital formats. Please see our [Poem Contract Boilerplate](https://firesidefiction.com/legal/poetry-contract-boilerplate) for the full text of our contract.
+- First responses (either a rejection or a second-round notice) within approximately 30 days from the end of the submissions period, and a final decision on second-round holds approximately 60 days after that. If there’s any major delay to this timing, we’ll let you know.
+- Flat payment of USD $100 for accepted poems.
 
 ----
 
@@ -101,3 +99,9 @@ Fireside is currently closed to submissions for nonfiction. We do not have any u
 ## Novels and Novellas
 
 Fireside is currently closed to submissions for novels and novellas. We do not have any upcoming submission periods for novels or novellas at this time.
+
+----
+
+##Submissions Form
+
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed" src="https://airtable.com/embed/shrl0us9l7Kj6tsfW?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
