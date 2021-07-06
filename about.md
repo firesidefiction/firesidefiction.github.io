@@ -59,8 +59,8 @@ L. D. Lewis is a data analyst and writer of science fiction and fantasy. Previou
 
 LeKesha can be found online on Twitter ([@ellethevillain](https://twitter.com/ellethevillain))
 
-
-Please see our [Contributors Index](/contributors) for a full list of all of the editors, authors, illustrators, narrators, and translators who make Fireside possible.
+### And many more!
+Please see our [Contributors Index](/contributors) for a full list of all of the editors, authors, illustrators, narrators, and translators who have made Fireside possible.
 
 [back to the top](#top-of-page)
 
