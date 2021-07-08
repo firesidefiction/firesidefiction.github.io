@@ -55,9 +55,15 @@ If you're ever in Ottawa and notice someone’s taken a handful of colourful Sha
 Chelle can be found online at their website ([mparkerediting.com](http://www.mparkerediting.com)) or on Twitter ([@chellenator](https://twitter.com/chellenator))
 
 ### L. D. Lewis — Publisher, Art Director, Web Wrangler
-L. D. Lewis is a data analyst and writer of science fiction and fantasy. Previously published works include “Chesirah” (FIYAH Literary Magazine, 2017) and A Ruin of Shadows (Dancing Star Press, 2018). She proudly serves as a founding creator and Art Director for FIYAH Literary Magazine for Black speculative fiction. She lives in Georgia with her coffee habit and an impressive Funko Pop! collection.
+L.D. Lewis does... a lot.
 
-LeKesha can be found online on Twitter ([@ellethevillain](https://twitter.com/ellethevillain))
+She is an award-winning SF/F writer and editor. She serves as a founding creator, Art Director, and Project Manager for the World Fantasy Award-winning and Hugo Award-nominated FIYAH Literary Magazine. She also serves as the founding Director of Hugo-nominated FIYAHCON, chair of the 2021 Nebula Conference, Awards Manager for the Lambda Literary Foundation, Treasurer for Diverse Voice Inc., and Grants Administrator for the Speculative Literature Foundation. She acquires novellas for Tor.com and researches for the LeVar Burton Reads podcast. She frequently bothers the publishing industry by authoring studies about the treatment and experiences of racially/ethnically marginalized authors in speculative literature.
+
+She is the author of A Ruin of Shadows (Dancing Star Press, 2018) and her published short fiction and poetry includes appearances in _FIYAH_, _PodCastle_, _Strange Horizons_, _Anathema: Spec from the Margins_, _Lightspeed Magazine_, and _Fireside Magazine_, among others.
+
+She lives in Georgia, on perpetual deadline, with her coffee habit, two demon cats, and an impressive Funko Pop! collection.
+
+L. D. can be found online at her website ([ldlewiswrites.com](http://www.ldlewiswrites.com)) or on Twitter ([@ellethevillain](https://twitter.com/ellethevillain))
 
 ### And many more!
 Please see our [Contributors Index](/contributors) for a full list of all of the editors, authors, illustrators, narrators, and translators who have made Fireside possible.
