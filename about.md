@@ -63,7 +63,7 @@ She is the author of _A Ruin of Shadows_ (Dancing Star Press, 2018), and her pub
 
 She lives in Georgia, on perpetual deadline, with her coffee habit, two demon cats, and an impressive Funko Pop! collection.
 
-L. D. can be found online at her website ([ldlewiswrites.com](http://www.ldlewiswrites.com)) or on Twitter ([@ellethevillain](https://twitter.com/ellethevillain)).
+L can be found online at her website ([ldlewiswrites.com](http://www.ldlewiswrites.com)) or on Twitter ([@ellethevillain](https://twitter.com/ellethevillain)).
 
 ### And many more!
 Please see our [Contributors Index](/contributors) for a full list of all of the editors, authors, illustrators, narrators, and translators who have made Fireside possible.
