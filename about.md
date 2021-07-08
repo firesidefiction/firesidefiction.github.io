@@ -43,7 +43,7 @@ Facing the burnout that is all too common among people who work at small presses
 
 In the wider world, Brian is a former journalist who worked as an editor at _The Courier-Journal_ in Louisville from 2006–2010 and at the _Boston Globe_ from 2010–2018, where he was part of the staff that won the 2014 Pulitzer Prize for Breaking News Reporting in 2014 for the newspaper's coverage of the Boston Marathon bombing in 2014. He still lives around Boston, where he works as an editor for a private company and takes photographs, paints miniatures, and spends time with his amazing wife and various cats.
 
-Brian can be found online on Twitter ([@talkwordy](https://twitter.com/talkwordy))
+Brian can be found online on Twitter ([@talkwordy](https://twitter.com/talkwordy)).
 
 ### Chelle Parker — Managing Editor, Copyeditor, Proofreader
 Chelle is a queer, nonbinary, neuroatypical, disabled nerd and has enjoyed an unusually colourful life, having lived in or visited fourteen countries on four continents and learned seven languages along the way. Chelle's background is primarily in education, where they spent eight years teaching English, French, math, science, and life skills to at-risk junior-high students, but they've also worked in a peculiar array of other environments. These range from daycares to sexual health clinics, doing jobs as diverse as librarian, baker, radio DJ, and Braille transcriptionist — all while editing on the side.
@@ -52,7 +52,7 @@ Chelle's staying put for the moment (more or less) in their hometown of Ottawa, 
 
 If you're ever in Ottawa and notice someone’s taken a handful of colourful Sharpies to ugly comments on the inside of all the public bathroom stalls, there’s a good chance that someone was them.
 
-Chelle can be found online at their website ([mparkerediting.com](http://www.mparkerediting.com)) or on Twitter ([@chellenator](https://twitter.com/chellenator))
+Chelle can be found online at their website ([mparkerediting.com](http://www.mparkerediting.com)) or on Twitter ([@chellenator](https://twitter.com/chellenator)).
 
 ### L. D. Lewis — Publisher, Art Director, Web Wrangler
 L.D. Lewis does... a lot.
@@ -63,7 +63,7 @@ She is the author of _A Ruin of Shadows_ (Dancing Star Press, 2018), and her pub
 
 She lives in Georgia, on perpetual deadline, with her coffee habit, two demon cats, and an impressive Funko Pop! collection.
 
-L. D. can be found online at her website ([ldlewiswrites.com](http://www.ldlewiswrites.com)) or on Twitter ([@ellethevillain](https://twitter.com/ellethevillain))
+L. D. can be found online at her website ([ldlewiswrites.com](http://www.ldlewiswrites.com)) or on Twitter ([@ellethevillain](https://twitter.com/ellethevillain)).
 
 ### And many more!
 Please see our [Contributors Index](/contributors) for a full list of all of the editors, authors, illustrators, narrators, and translators who have made Fireside possible.
