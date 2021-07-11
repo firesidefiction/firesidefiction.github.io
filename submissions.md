@@ -4,11 +4,7 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is **currently open to submissions** of short stories and poems for consideration by [guest editor Hal Y. Zhang](https://firesidefiction.com/announcing-our-next-guest-editor-hal-y-zhang) to be published in _Fireside Magazine_. This submissions period will close on **July 11, 2021, at 6pm EST**.
-
-Hal would especially love to see work loosely themed around science and technology: the joy of discovery, the systemic barriers in place that prevent equal access to advanced knowledge, and how new tools and machines can both empower and disenfranchise marginalized voices. Don't limit yourself to strictly future settings or science fiction — think broadly in terms of any method or system that explores the world through experimentation, such as an ancient sorcerer investigating rules of magic.
-
-**Please read and follow the guidelines provided below and then scroll to the bottom of the page to access our submissions form.**
+Fireside is currently closed to submissions. During open submissions periods, there will be a form on this page for you to submit your work.
 
 We have no other submissions dates to announce at this time. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
@@ -99,11 +95,3 @@ Fireside is currently closed to submissions for nonfiction. We do not have any u
 ## Novels and Novellas
 
 Fireside is currently closed to submissions for novels and novellas. We do not have any upcoming submission periods for novels or novellas at this time.
-
-----
-
-## Submissions Form
-
-Please use this form to submit your **short story or poem**.
-
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed" src="https://airtable.com/embed/shrl0us9l7Kj6tsfW?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
