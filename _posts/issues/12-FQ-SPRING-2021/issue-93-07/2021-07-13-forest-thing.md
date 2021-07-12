@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains racist language and behavior, depictions of violence towards people of color, and elements of body horror.
 generalnote:
-published: false
+published: true
 ---
 
 I go to the woods. What else would I do?
