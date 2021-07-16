@@ -6,7 +6,7 @@ issue-cover: issue-67-cover.png
 issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-67-may-2019
 title: Mother Tongue
 subtitle:
-author: jessica-jo-horowitz
+author: jessica-cho
 author-2:
 author-3:
 editor: julia-rios

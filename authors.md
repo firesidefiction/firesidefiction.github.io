@@ -359,7 +359,7 @@ permalink: /authors
 ### Sarah Hollowell
 — [_Crow's Eye_](/crows-eye)
 
-### Jessica Jo Horowitz
+### Jessica Cho
 — [_Mother Tongue_](/mother-tongue)
 
 ### Annalee Flower Horne
