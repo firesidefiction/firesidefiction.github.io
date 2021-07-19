@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains depictions of emotional abuse.
 generalnote:
-published: false
+published: trouble
 ---
 “Why the hell would I want to become a car?” I flicked the pamphlet at my son's face, but it fluttered down to the bleach-white sheet, just short of the metal bed rail.
 
