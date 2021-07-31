@@ -79,7 +79,7 @@ When we are open for poetry submissions, we do not cap poem word counts, but oth
 ----
 
 ## Artwork
-Fireside commissions original artwork for specific stories. If you send us a link to your portfolio using [this form](https://airtable.com/shrHIocwQiPakQgkT), we will be happy to add it to our roster, and if a story comes up for which we think you’d be a good fit, we’ll be in touch.
+Fireside commissions original artwork for specific stories. If you send us a link to your portfolio using [this form](https://airtable.com/shrRp0NTQzX2Edf2Y), we will be happy to add it to our roster, and if a story comes up for which we think you’d be a good fit, we’ll be in touch.
 
 ### What to expect from us:
 - Fireside acquires worldwide rights in print and digital formats, and ownership of all original art remains with the artist. Please see our [Illustration Contract Boilerplate](https://firesidefiction.com/legal/illustration-contract-boilerplate) for the full text of our contract.
