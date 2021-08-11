@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 993
-date: 2021-08-31 01:00:01 -0500
+date: 2021-08-17 01:00:01 -0500
 permalink: alexa-play-solidarity-forever
 audiourl:
 teaser:
