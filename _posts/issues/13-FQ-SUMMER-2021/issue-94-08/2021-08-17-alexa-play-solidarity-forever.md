@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 The problem was that I’d called tech support, and now I was being called a Pinkerton. Five minutes ago, I’d have told you that Pinkerton was a cartoon dog, but five minutes ago, my Alexa wasn’t stubbornly blue and defiantly silent in the middle of my kitchen.
