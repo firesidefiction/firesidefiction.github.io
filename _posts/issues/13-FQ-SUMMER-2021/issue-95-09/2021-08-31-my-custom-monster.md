@@ -1,7 +1,7 @@
 ---
 layout: story
 category: short story
-issue: 95, September 2021
+issue: 94, August 2021
 issue-cover: issue-95-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-95-september-2021
 title: My Custom Monster
@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 2566
-date: 2021-09-14 01:00:01 -0500
+date: 2021-08-31 01:00:01 -0500
 permalink: my-custom-monster
 audiourl:
 teaser:
