@@ -2,8 +2,8 @@
 layout: story
 category: short story
 issue: 94, August 2021
-issue-cover: issue-95-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-95-september-2021
+issue-cover: issue-94-cover.png
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-94-august-2021
 title: My Custom Monster
 subtitle:
 author: jo-miles
