@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 3077
-date: 2021-08-17 01:00:01 -0500
+date: 2021-08-03 01:00:01 -0500
 permalink: there-will-be-no-alien-invasion
 audiourl:
 teaser:
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 **Day 1**
 
