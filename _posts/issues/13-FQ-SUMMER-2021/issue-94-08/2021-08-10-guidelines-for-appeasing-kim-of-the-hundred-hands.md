@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 552
-date: 2021-08-24 01:00:01 -0500
+date: 2021-08-10 01:00:01 -0500
 permalink: guidelines-for-appeasing-kim-of-the-hundred-hands
 audiourl:
 teaser:
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 **1.**	To make an offering, be sure to visit the actual statue of Kim of the Hundred Hands. She is not honored if you visit a replica statue. The real Kim of the Hundred Hands stands in Sable Court, directly north of the campus gymnasium. She is hard to miss. Her many gargantuan splayed hands cast a refreshing shade that covers all buildings on campus no matter the time of day. You have doubtless labored under her gaze.
