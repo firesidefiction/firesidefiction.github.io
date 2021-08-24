@@ -1,9 +1,9 @@
 ---
 layout: story
 category: short story
-issue: 95, September 2021
-issue-cover: issue-95-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-95-september-2021
+issue: 94, August 2021
+issue-cover: issue-94-cover.png
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-94-august-2021
 title: The Mixed Medium
 subtitle:
 author: erica-plouffe-lazure
@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 1010
-date: 2021-09-07 01:00:01 -0500
+date: 2021-08-24 01:00:01 -0500
 permalink: the-mixed-medium
 audiourl:
 teaser:
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 Maybe it wasn’t the best idea — making pottery from a dead person’s ashes — but enough people called after the ad posted that it evolved from a backyard side project into my sole occupation, and a lucrative one at that. When I moved the Memorabowls studio to a storefront downtown, it really took off. Everyone, it seemed, wanted a piece of pottery made from the remains of their loved ones. Making the pottery was easy — the mixer would fold the ashes into clay, and from there, in a few hours, I could turn it into a vase or platter or bowl ready for the kiln. But what I didn’t anticipate was how I would come to “know” my clients —  their afterlife longings, their strangest secrets, or their fondest memories — just by handling their remains.
