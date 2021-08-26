@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 We are so pleased to announce that the spectacular L. M. Davis will be the guest editor for our next submissions period, which will run from September 13 through September 19, 2021.
 
