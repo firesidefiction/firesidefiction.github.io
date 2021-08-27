@@ -36,10 +36,10 @@ contentnote:
 generalnote:
 published: true
 ---
-We are so pleased to announce that the spectacular L. M. Davis will be the guest editor for our next submissions period, which will run from September 13 through September 19, 2021.
+We are so pleased to announce that the spectacular [L. M. Davis](https://lmdaviswrites.com/) will be the guest editor for our next submissions period, which will run from September 13 through September 19, 2021.
 
 L. M. Davis is a speculative fiction author who writes about shapeshifters, aliens, immortals, and witches. She is the author of the Shifters series (_Interlopers_, _Posers_, and _Forgers_) from Lyndberry Press and the three-part novel _skinless_. Her writing has been published in _Paste Magazine_ and on blacksci-fi.com. Davis is also a scholar of African American and Native American literatures and cultures, with particular interest in the speculative production of these communities. Currently, she is working on several projects, including two novels and multiple ventures for television and film. She is the writer and director of the short film "Fevered Dreams."
 
-Davis will be accepting short stories for publication in the spring and summer of 2022. Each writer can submit one short story and one poem during this submissions period. Please read our general submission guidelines for more information about things like story length and what we do and don't accept. When submissions open, the link to submit will be on that page as well. You can sign up for our newsletter if you’d like a reminder when we open (as well as weekly stories in your inbox), and we’ll also post a reminder on Twitter.
+Davis will be accepting short stories for publication in the spring and summer of 2022. Each writer can submit one short story and one poem during this submissions period. Please read our [general submission guidelines](https://firesidefiction.com/submissions) for more information about things like story length and what we do and don't accept. When submissions open, the link to submit will be on that page as well. You can [sign up for our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&id=afc8f5cf09) if you’d like a reminder when we open (as well as weekly stories in your inbox), and we’ll also post a reminder [on Twitter.](https://twitter.com/FiresideFiction)
 
 Get those stories ready! We can’t wait to see what y’all send in.
