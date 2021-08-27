@@ -4,7 +4,7 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently closed to submissions. During open submissions periods, there will be a form on this page for you to submit your work.
+Fireside is currently closed to submissions. Our next submissions period for Fireside Magazine will be from September 13th, 2021 at 12AM EST (GMT -4) to September 19th, 2021 at 11:50PM EST. At that time, we will be open to short stories for consideration by guest editor L. M. Davis.
 
 We have no other submissions dates to announce at this time. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
