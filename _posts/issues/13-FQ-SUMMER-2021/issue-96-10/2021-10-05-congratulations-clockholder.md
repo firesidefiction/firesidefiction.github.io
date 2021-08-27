@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 945
-date: 2021-10-19 01:00:01 -0500
+date: 2021-10-05 01:00:01 -0500
 permalink: congratulations-clockholder
 audiourl:
 teaser:

@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 1160
-date: 2021-10-05 01:00:01 -0500
+date: 2021-09-21 01:00:01 -0500
 permalink: the-empathy-lessons
 audiourl:
 teaser:

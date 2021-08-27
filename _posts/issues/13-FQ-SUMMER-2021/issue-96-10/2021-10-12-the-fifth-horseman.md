@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 2694
-date: 2021-10-26 01:00:01 -0500
+date: 2021-10-12 01:00:01 -0500
 permalink: the-fifth-horseman
 audiourl:
 teaser:

@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 312
-date: 2021-11-09 01:00:01 -0500
+date: 2021-10-26 01:00:01 -0500
 permalink: not-quite-what-were-looking-for-right-now
 audiourl:
 teaser:

@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 2341
-date: 2021-11-02 01:00:01 -0500
+date: 2021-10-19 01:00:01 -0500
 permalink: of-honey-and-grave-dirt
 audiourl:
 teaser:

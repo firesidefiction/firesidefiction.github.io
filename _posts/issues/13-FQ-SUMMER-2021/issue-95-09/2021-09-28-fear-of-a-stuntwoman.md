@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 2953
-date: 2021-10-12 01:00:01 -0500
+date: 2021-09-28 01:00:01 -0500
 permalink: fear-of-a-stuntwoman
 audiourl:
 teaser:

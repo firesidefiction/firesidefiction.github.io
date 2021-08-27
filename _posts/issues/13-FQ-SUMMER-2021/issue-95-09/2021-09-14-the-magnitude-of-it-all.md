@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 862
-date: 2021-09-28 01:00:01 -0500
+date: 2021-09-14 01:00:01 -0500
 permalink: the-magnitude-of-it-all
 audiourl:
 teaser:
