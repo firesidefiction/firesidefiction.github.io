@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 <blockquote>Thank you for your recent gift purchase from the Custom Monster Company. The monster you gave is now settling into your loved one’s home.
 
