@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 862
-date: 2021-09-28 01:00:01 -0500
+date: 2021-09-14 01:00:01 -0500
 permalink: the-magnitude-of-it-all
 audiourl:
 teaser:
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 The data's so fine; my readings are so delicate. At the quantum level, the most miniscule alterations change everything. What I'm seeing can't be there.... It defies belief. But each replication shows me the same result, until I can no longer doubt it. The particles contain a nanomessage.
 
