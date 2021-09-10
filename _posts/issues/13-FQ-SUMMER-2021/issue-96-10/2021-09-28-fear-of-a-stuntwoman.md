@@ -1,9 +1,9 @@
 ---
 layout: story
 category: short story
-issue: 96, October 2021
-issue-cover: issue-96-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-96-october-2021
+issue: 95, September 2021
+issue-cover: issue-95-cover.png
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-95-september-2021
 title: Fear of a Stuntwoman
 subtitle:
 author: abra-staffin-wiebe
@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 2953
-date: 2021-10-12 01:00:01 -0500
+date: 2021-09-28 01:00:01 -0500
 permalink: fear-of-a-stuntwoman
 audiourl:
 teaser:
