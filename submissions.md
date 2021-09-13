@@ -95,3 +95,9 @@ Fireside is currently closed to submissions for nonfiction. We do not have any u
 ## Novels and Novellas
 
 Fireside is currently closed to submissions for novels and novellas. We do not have any upcoming submission periods for novels or novellas at this time.
+
+----
+
+## Submissions Form
+
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed" src="https://airtable.com/embed/shrTkvoszMnQo47Gc?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
