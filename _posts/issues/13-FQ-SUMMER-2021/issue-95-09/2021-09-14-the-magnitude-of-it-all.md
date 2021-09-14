@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 The data's so fine; my readings are so delicate. At the quantum level, the most miniscule alterations change everything. What I'm seeing can't be there.... It defies belief. But each replication shows me the same result, until I can no longer doubt it. The particles contain a nanomessage.
 
