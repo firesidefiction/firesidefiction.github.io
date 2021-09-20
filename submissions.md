@@ -4,9 +4,7 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently open to submissions of short stories for consideration by [guest editor L. M. Davis](https://firesidefiction.com/lm-davis-guest-editor) to be published in _Fireside Magazine_. The submissions period will close on September 19th, 2021 at 11:50PM EST.
-
-**Please read and follow the guidelines provided below and then scroll to the bottom of the page to access our submissions form.**
+Fireside is currently closed to submissions. During open submissions periods, there will be a form on this page for you to submit your work.
 
 We have no other submissions dates to announce at this time. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
 
@@ -97,9 +95,3 @@ Fireside is currently closed to submissions for nonfiction. We do not have any u
 ## Novels and Novellas
 
 Fireside is currently closed to submissions for novels and novellas. We do not have any upcoming submission periods for novels or novellas at this time.
-
-----
-
-# Submissions Form
-
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed" src="https://airtable.com/embed/shrTkvoszMnQo47Gc?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
