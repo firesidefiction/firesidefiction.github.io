@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 First flush jasmine, opium-sweet, a floral body dipping in the mattress of my tongue but not real; neither are the visitors, blinking at their new bodies in front of unfamiliar low tables, cup and cloth so they can play at ceremony.
 
