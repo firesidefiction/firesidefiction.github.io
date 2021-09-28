@@ -1,9 +1,9 @@
 ---
 layout: story
 category: short story
-issue: 96, October 2021
-issue-cover: issue-96-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-96-october-2021
+issue: 95, September 2021
+issue-cover: issue-95-cover.png
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-95-september-2021
 title: Fear of a Stuntwoman
 subtitle:
 author: abra-staffin-wiebe
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 A skyscraper loomed over the bustling anthill of the film crew's activity. Chloe's gaze followed the skyscraper's floors up, up, up to the sixtieth floor and then to the roof where the flying equipment was anchored.
 
