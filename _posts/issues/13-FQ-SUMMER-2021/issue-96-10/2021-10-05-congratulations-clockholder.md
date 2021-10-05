@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Really excellent news. According to the glossy envelope you find tucked in your moss-covered mailbox, you’ve been preapproved. At last, a lucky break! You split the waxen seal and let the trifold letter unfurl in all its glory. A golden crest winks from the finely milled paper.
 
