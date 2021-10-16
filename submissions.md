@@ -4,15 +4,25 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-Fireside is currently closed to submissions. During open submissions periods, there will be a form on this page for you to submit your work.
+# Current Submissions Status
 
-We have no other submissions dates to announce at this time. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about our future submissions dates.
+Fireside is currently **closed to submissions**. During open submissions periods, there will be information on this page about how long we're open for and what the current guest editor is looking for from submissions. There will also be a form available on this page for you to use to submit your work. Our submissions guidelines are available to read below at all times.
+
+We have no upcoming submissions dates to announce at this time, but you can expect an announcement about the next submissions period soon. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about future submissions dates.
+
+## Prior Submissions Periods
+
+If you submitted your work in July 2021 under guest editor Hal Y. Zhang, first-round responses were sent to all submissions on August 30, 2021, and final responses to higher-round considerations were sent on September 20, 2021.
+
+If you submitted your work in September 2021 under guest editor L. M. Davis, you can expect first-round responses at the end of October 2021, and final responses to higher-round considerations in early December 2021. If there are any significant delays to this schedule, we'll make an announcement and update this page.
+
+**All submissions from prior to July 2021 were sent final responses.** If you should have received a response but did not, feel free to inquire by emailing us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com) so we can look into it.
 
 ---
 
 # General Guidelines
 
-We welcome previously unpublished work (where "published" includes work posted on Patreon or on a blog) in English from all writers anywhere in the world, and we are interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
+Fireside opens for submissions approximately every three months and operates on a guest editor model, where each submissions period is under a new guest editor. What each guest editor is looking for may vary in both form (short fiction only, or short fiction and poetry) and content (such as a specific theme, in which case we'll provide a brief). We welcome previously unpublished work (where "published" includes work posted on Patreon or on a blog) in English from all writers anywhere in the world. We are interested in seeing work from people of color, LGBTQIA people, disabled people, members of religious minorities, and people outside the United States. We strongly encourage submissions from people of those backgrounds, and all others whom traditional publishing has historically excluded.
 
 If you have any questions about how to submit, please email us at: [questions@firesidefiction.com](mailto:questions@firesidefiction.com). (**_Any submissions sent via email will be deleted unread._**)
 
@@ -88,10 +98,10 @@ Fireside commissions original artwork for specific stories. If you send us a lin
 
 ## Non-Fiction
 
-Fireside is currently closed to submissions for nonfiction. We do not have any upcoming submission periods for nonfiction at this time.
+Fireside is indefinitely closed to submissions for nonfiction. We do not have any upcoming submission periods for nonfiction at this time.
 
 ----
 
 ## Novels and Novellas
 
-Fireside is currently closed to submissions for novels and novellas. We do not have any upcoming submission periods for novels or novellas at this time.
+Fireside is indefinitely closed to submissions for novels and novellas. We do not have any upcoming submission periods for novels or novellas at this time.
