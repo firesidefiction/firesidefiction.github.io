@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Submissions Guidelines"
+title:  "Submitting to Fireside"
 permalink: submissions
 ---
 
