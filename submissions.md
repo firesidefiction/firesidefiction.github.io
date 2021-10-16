@@ -4,7 +4,7 @@ title:  "Submissions Guidelines"
 permalink: submissions
 ---
 
-# Current Submissions Status
+## Current Submissions Status
 
 Fireside is currently **closed to submissions**. During open submissions periods, there will be information on this page about how long we're open for and what the current guest editor is looking for from submissions. There will also be a form available on this page for you to use to submit your work. Our submissions guidelines are available to read below at all times.
 
