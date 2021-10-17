@@ -12,9 +12,9 @@ We have no upcoming submissions dates to announce at this time, but you can expe
 
 ## Prior Submissions Periods
 
-If you submitted your work in July 2021 under guest editor Hal Y. Zhang, first-round responses were sent to all submissions on August 30, 2021, and final responses to higher-round considerations were sent on September 20, 2021.
+If you submitted your work in July 2021 under guest editor Hal Y. Zhang, first-round responses were sent out on August 30, 2021, and final responses to higher-round considerations were sent on September 20, 2021.
 
-If you submitted your work in September 2021 under guest editor L. M. Davis, you can expect first-round responses at the end of October 2021, and final responses to higher-round considerations in early December 2021. If there are any significant delays to this schedule, we'll make an announcement and update this page.
+If you submitted your work in September 2021 under guest editor L. M. Davis, first-round responses were sent out on October 17, 2021, and you can expect final responses to higher-round considerations in early December 2021. If there are any significant delays to this schedule, we'll make an announcement and update this page.
 
 **All submissions from prior to July 2021 were sent final responses.** If you should have received a response but did not, feel free to inquire by emailing us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com) so we can look into it.
 
