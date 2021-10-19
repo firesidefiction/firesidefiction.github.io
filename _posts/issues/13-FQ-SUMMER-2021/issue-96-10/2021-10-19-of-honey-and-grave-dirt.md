@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 She had thought being a sorcerer’s assistant meant learning the secrets of the universe. Instead it means this: One day, after she has swept the sorcerer’s office, washed all of his dishes, and tidied up the explosion of acid left in the laboratory, he hands her a small, squirming bundle.
 
