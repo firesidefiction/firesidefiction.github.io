@@ -32,7 +32,7 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote:
+contentnote: This story contains elements of body horror and depictions of child endangerment.
 generalnote:
 published: true
 ---

@@ -32,7 +32,7 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote:
+contentnote: This story references the death of a teenager.
 generalnote:
 published: true
 ---
