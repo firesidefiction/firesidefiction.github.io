@@ -4,7 +4,7 @@ credit-name: Hal Y. Zhang
 first-name: Hal
 last-name: Zhang
 file-as: z
-role: author
+role: Author
 role-2:
 role-3:
 title: Hal Y. Zhang — Work in Fireside
