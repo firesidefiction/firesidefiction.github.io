@@ -4,7 +4,7 @@ credit-name: Abra Staffin-Wiebe
 first-name: Abra
 last-name: Staffin-Wiebe
 file-as: s
-role: author
+role: Author
 role-2:
 role-3:
 title: Abra Staffin-Wiebe — Work in Fireside
