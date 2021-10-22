@@ -1,9 +1,9 @@
 ---
 layout: story
 category: short story
-issue: 97, November 2021
-issue-cover: issue-97-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-97-november-2021
+issue: 96, October 2021
+issue-cover: issue-96-cover.png
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-96-october-2021
 title: Of Honey and Grave Dirt
 subtitle:
 author: maiga-doocy
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains child death.
 generalnote:
-published: false
+published: true
 ---
 She had thought being a sorcerer’s assistant meant learning the secrets of the universe. Instead it means this: One day, after she has swept the sorcerer’s office, washed all of his dishes, and tidied up the explosion of acid left in the laboratory, he hands her a small, squirming bundle.
 
