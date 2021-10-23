@@ -6,7 +6,7 @@ issue-cover: issue-28-cover.png
 issue-buy-link:
 title: Temporary Saints
 subtitle:
-author: j-y-yang
+author: neon-yang
 author-2:
 author-3:
 editor: brian-j-white
