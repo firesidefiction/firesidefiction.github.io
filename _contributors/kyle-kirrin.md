@@ -4,7 +4,7 @@ credit-name: Kyle Kirrin
 first-name: Kyle
 last-name: Kirrin
 file-as: k
-role: author
+role: Author
 role-2:
 role-3:
 title: Kyle Kirrin — Work in Fireside

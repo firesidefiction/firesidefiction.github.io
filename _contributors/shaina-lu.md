@@ -4,7 +4,7 @@ credit-name: Shaina Lu
 first-name: Lu
 last-name: Shaina
 file-as: l
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Shaina Lu — Work in Fireside

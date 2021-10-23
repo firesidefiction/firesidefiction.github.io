@@ -4,13 +4,13 @@ credit-name: R.L. Thull
 first-name: R.L.
 last-name: Thull
 file-as: t
-role: author
+role: Author
 role-2:
 role-3:
 title: R.L. Thull — Work in Fireside
 description:
 twitter-handle:
-profile-pic: 
+profile-pic:
 website-url: rlthull.com
 short-name: r-l-thull
 permalink: r-l-thull

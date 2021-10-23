@@ -1,18 +1,18 @@
 ---
 layout: contributor-profile
-credit-name: JY Yang
-first-name: JY
+credit-name: Neon Yang
+first-name: Neon
 last-name: Yang
 file-as: y
 role: Author
 role-2:
 role-3:
-title: JY Yang — Work in Fireside
+title: Neon Yang — Work in Fireside
 description:
-twitter-handle: halleluyang
+twitter-handle: itsneonyang
 profile-pic: j-y-yang.jpg
-website-url: www.misshallelujah.net
-short-name: j-y-yang
-permalink: j-y-yang
+website-url: https://neonyang.com/
+short-name: neon-yang
+permalink: neon-yang
 ---
-JY Yang is a queer Chinese Singaporean woman cheerfully destroying SFF, one story at a time. Her fiction has been published in Strange Horizons, Clarkesworld, Apex and Lightspeed, among other excellent venues. A graduate of the Clarion West class of 2013, she is currently pursing a masters' degree in creative writing at the University of East Anglia in Norwich. Find her on Twitter at [@halleluyang](https://twitter.com/halleluyang) and at [jyyang@misshallelujah.net](http://www.misshallelujah.net/).
+Neon Yang is a queer Chinese Singaporean cheerfully destroying SFF, one story at a time. Their fiction has been published in Strange Horizons, Clarkesworld, Apex and Lightspeed, among other excellent venues. A graduate of the Clarion West class of 2013, they are currently pursing a masters' degree in creative writing at the University of East Anglia in Norwich. Find them on Twitter at [@itsneonyang](https://twitter.com/itsneonyang) and at [neonyang.com](https://neonyang.com/).

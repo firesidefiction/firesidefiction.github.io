@@ -4,7 +4,7 @@ credit-name: Molly Crabapple
 first-name: Molly
 last-name: Crabapple
 file-as: c
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Molly Crabapple — Work in Fireside

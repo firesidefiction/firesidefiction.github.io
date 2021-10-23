@@ -4,7 +4,7 @@ credit-name: Maria Romasco Moore
 first-name: Maria
 last-name: Romasco Moore
 file-as: k
-role: author
+role: Author
 role-2:
 role-3:
 title: Maria Romasco Moore — Work in Fireside

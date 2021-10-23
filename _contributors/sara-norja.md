@@ -4,7 +4,7 @@ credit-name: Sara Norja
 first-name: Sara
 last-name: Norja
 file-as: n
-role: author
+role: Author
 role-2:
 role-3:
 title: Sara Norja — Work in Fireside
