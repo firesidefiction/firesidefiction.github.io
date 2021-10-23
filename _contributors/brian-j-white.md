@@ -11,7 +11,7 @@ title: Brian J. White — Work in Fireside
 description: Executive Editor and Owner
 twitter-handle: talkwordy
 profile-pic: brian-j-white.jpg
-website-url: 
+website-url:
 short-name: brian-j-white
 permalink: brian-j-white
 ---

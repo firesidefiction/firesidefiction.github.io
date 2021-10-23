@@ -8,7 +8,7 @@ role: Author
 role-2: Editor
 role-3:
 title: Maurice Broaddus — Work in Fireside
-description: Guest Editor, _Fireside Quarterly_ Autumn 2020
+description: Guest Editor, Nov 2020–Feb 2021
 twitter-handle: MauriceBroaddus
 profile-pic: maurice-broaddus.jpg
 website-url: MauriceBroaddus.com

@@ -8,7 +8,7 @@ role: Author
 role-2: Editor
 role-3:
 title: Danny Lore — Work in Fireside
-description: Guest Editor, _Fireside Quarterly_ Winter 2020
+description: Guest Editor, Feb–May 2020
 twitter-handle: weredawgz
 profile-pic: danny-lore.jpg
 website-url: dannylore.com

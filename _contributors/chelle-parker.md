@@ -8,7 +8,7 @@ role: Editor
 role-2:
 role-3:
 title: Chelle Parker — Work in Fireside
-description: Managing Editor, Copyeditor, Proofreader
+description: Copyeditor, 2018–Current; Managing Editor, 2021–Current
 twitter-handle: chellenator
 profile-pic: chelle-parker.jpg
 website-url: mparkerediting.com

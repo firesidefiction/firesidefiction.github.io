@@ -8,7 +8,7 @@ role: Editor
 role-2:
 role-3:
 title: Yanni Kuznia — Work in Fireside
-description: Guest Editor
+description: Guest Editor, Aug–Oct 2021
 twitter-handle: yannikuznia
 profile-pic: yanni-kuznia.jpg
 website-url:

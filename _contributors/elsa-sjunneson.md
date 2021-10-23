@@ -8,7 +8,7 @@ role: Author
 role-2: Editor
 role-3:
 title: Elsa Sjunneson — Work in Fireside
-description: Nonficiton Editor
+description: Nonfiction Editor, 2017–2018
 twitter-handle: snarkbat
 profile-pic: elsa-sjunneson.jpg
 website-url:

@@ -8,7 +8,7 @@ role: Author
 role-2: Editor
 role-3:
 title: Kate Dollarhyde — Work in Fireside
-description: Guest Editor, _Fireside Quarterly_ Summer 2020
+description: Guest Editor, Aug–Oct 2020
 twitter-handle: katedollarhyde
 profile-pic: kate-dollarhyde.png
 website-url:

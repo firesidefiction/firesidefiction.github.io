@@ -5,10 +5,10 @@ first-name: Hal
 last-name: Zhang
 file-as: z
 role: Author
-role-2:
+role-2: Editor
 role-3:
 title: Hal Y. Zhang — Work in Fireside
-description:
+description: Guest Editor, Apr–Jun 2022
 twitter-handle: halyzhang
 profile-pic: hal-y-zhang.jpg
 website-url: halyzhang.com

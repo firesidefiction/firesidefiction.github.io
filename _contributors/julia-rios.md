@@ -8,7 +8,7 @@ role: Editor
 role-2: Selector
 role-3: Translator
 title: Julia Rios — Work in Fireside
-description: Editor, 2017-2019
+description: Fiction Editor, 2017–2019
 twitter-handle: omgjulia
 profile-pic:
 website-url: juliarios.com

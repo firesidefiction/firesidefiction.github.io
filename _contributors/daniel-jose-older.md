@@ -8,7 +8,7 @@ role: Author
 role-2: Editor
 role-3:
 title: Daniel José Older — Work in Fireside
-description: Guest Editor, 2016
+description: Guest Editor, Jul–Oct 2016
 twitter-handle: djolder
 profile-pic: daniel-jose-older.jpg
 website-url:

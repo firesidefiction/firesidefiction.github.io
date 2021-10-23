@@ -8,7 +8,7 @@ role: Editor
 role-2:
 role-3:
 title: Ryan Boyd — Work in Fireside
-description: Gueste Editor
+description: Guest Editor, Jun–Jul 2021
 twitter-handle: ryandroyd
 profile-pic: ryan-boyd.jpg
 website-url: yarnbody.net
