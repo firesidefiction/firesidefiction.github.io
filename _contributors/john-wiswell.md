@@ -11,7 +11,7 @@ title: John Wiswell — Work in Fireside
 description:
 twitter-handle: wiswell
 profile-pic: john-wiswell.jpg
-website-url:
+website-url: https://www.patreon.com/Wiswell
 short-name: john-wiswell
 permalink: john-wiswell
 ---
