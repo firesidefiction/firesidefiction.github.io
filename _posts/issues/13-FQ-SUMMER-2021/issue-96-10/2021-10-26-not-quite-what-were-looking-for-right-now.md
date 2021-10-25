@@ -1,9 +1,9 @@
 ---
 layout: story
 category: short story
-issue: 97, November 2021
-issue-cover: issue-97-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-97-november-2021
+issue: 96, October 2021
+issue-cover: issue-96-cover.png
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-96-october-2021
 title: Not Quite What We're Looking for Right Now
 subtitle:
 author: jana-bianchi
@@ -50,14 +50,8 @@ Our recommendation is that you think a little bit more about the consequences of
 
 Anyways, we hope that you'll keep us in mind again in the future.
 
-
-
 Take care,
 
-
-
 Howard Klein (he/him)
-
 Publisher/Editor
-
 _Marginalia Magazine_
