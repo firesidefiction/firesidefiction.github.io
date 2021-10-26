@@ -54,6 +54,7 @@ Anyways, we hope that you'll keep us in mind again in the future.
 
 Take care,
 
+
 Howard Klein (he/him)
 
 Publisher/Editor
