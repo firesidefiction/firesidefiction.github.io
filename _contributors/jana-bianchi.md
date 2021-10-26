@@ -11,7 +11,7 @@ title: Jana Bianchi — Work in Fireside
 description:
 twitter-handle: janapbianchi
 profile-pic: jana-bianchi.jpg
-website-url: https://janabianchi.com.br/english/
+website-url: janabianchi.com.br/english/
 short-name: jana-bianchi
 permalink: jana-bianchi
 ---
