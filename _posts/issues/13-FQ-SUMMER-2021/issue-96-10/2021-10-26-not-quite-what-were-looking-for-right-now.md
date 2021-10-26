@@ -38,6 +38,7 @@ published: true
 ---
 Dear Ana,
 
+
 Thank you for the opportunity to read “The Night is a House with a Single Window.” Unfortunately, it's not quite what we're looking for right now. It was close, though, so we'd like to offer you some longer feedback.
 
 The descriptions are really vivid — the scene in which Marcela drinks too much (and later realizes her friends left her alone at the party) was so competently written that one of our slush readers was knocked out. He needed to spend a whole afternoon in an Adverse Effects Room — and, according to him, the hangover was awful. Congratulations!
@@ -49,6 +50,7 @@ And finally, the prose is very mature and well-knit — well, mostly. This was t
 Our recommendation is that you think a little bit more about the consequences of what you write. We know it's important to tell all kinds of stories, especially if they’re meaningful to you, but there are words (I guess you know which ones) that we all should avoid — just for the sake of everyone's comfort and safety, of course.
 
 Anyways, we hope that you'll keep us in mind again in the future.
+
 
 Take care,
 
