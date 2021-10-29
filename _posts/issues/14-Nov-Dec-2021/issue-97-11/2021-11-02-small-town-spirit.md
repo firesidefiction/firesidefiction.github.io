@@ -10,7 +10,7 @@ author: frances-rowat
 author-2:
 author-3:
 editor: chelle-parker
-illustrator:
+illustrator: steffi-walthall
 copyeditor: chelle-parker
 selector:
 translator:
@@ -21,7 +21,7 @@ date: 2021-11-02 01:00:01 -0500
 permalink: small-town-spirit
 audiourl:
 teaser:
-art:
+art: small-town-spirit.png
 artcaption:
 spanish-language:
 spanish-date:
