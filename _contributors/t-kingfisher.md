@@ -11,7 +11,7 @@ title: T. Kingfisher — Work in Fireside
 description:
 twitter-handle: ursulav
 profile-pic:
-website-url: http://www.redwombatstudio.com/
+website-url: redwombatstudio.com
 short-name: t-kingfisher
 permalink: t-kingfisher
 ---

@@ -11,7 +11,7 @@ title: Neon Yang — Work in Fireside
 description:
 twitter-handle: itsneonyang
 profile-pic: j-y-yang.jpg
-website-url: https://neonyang.com/
+website-url: neonyang.com
 short-name: neon-yang
 permalink: neon-yang
 ---

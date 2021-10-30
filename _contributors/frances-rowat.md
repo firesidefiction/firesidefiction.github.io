@@ -11,7 +11,7 @@ title: Frances Rowat — Work in Fireside
 description:
 twitter-handle: aphotic_ink
 profile-pic: frances-rowat.jpg
-website-url: http://www.aphotic-ink.com
+website-url: aphotic-ink.com
 short-name: frances-rowat
 permalink: frances-rowat
 ---

@@ -11,7 +11,7 @@ title: Brittany N. Williams — Work in Fireside
 description:
 twitter-handle: BrittanyActs
 profile-pic: brittany-n-williams.jpg
-website-url: http://www.brittanynwilliams.com
+website-url: brittanynwilliams.com
 short-name: brittany-n-williams
 permalink: brittany-n-williams
 ---

@@ -11,7 +11,7 @@ title: Virginia M. Mohlere — Work in Fireside
 description:
 twitter-handle: virginiamohlere
 profile-pic: virginia-m-mohlere.jpg
-website-url: http://www.virgniamohlere.com
+website-url: virgniamohlere.com
 short-name: virginia-m-mohlere
 permalink: virginia-m-mohlere
 ---

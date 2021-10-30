@@ -11,7 +11,7 @@ title: Curtis C. Chen — Work in Fireside
 description:
 twitter-handle: CurtisCChen
 profile-pic: curtis-c-chen.jpg
-website-url: https://curtiscchen.com/
+website-url: curtiscchen.com
 short-name: curtis-c-chen
 permalink: curtis-c-chen
 ---
