@@ -10,9 +10,9 @@ role-3:
 title: Neon Yang — Work in Fireside
 description:
 twitter-handle: itsneonyang
-profile-pic: j-y-yang.jpg
+profile-pic: neon-yang.jpg
 website-url: neonyang.com
 short-name: neon-yang
 permalink: neon-yang
 ---
-Neon Yang is a queer Chinese Singaporean cheerfully destroying SFF, one story at a time. Their fiction has been published in Strange Horizons, Clarkesworld, Apex and Lightspeed, among other excellent venues. A graduate of the Clarion West class of 2013, they are currently pursing a masters' degree in creative writing at the University of East Anglia in Norwich. Find them on Twitter at [@itsneonyang](https://twitter.com/itsneonyang) and at [neonyang.com](https://neonyang.com/).
+Neon Yang is the author of the Tensorate series of novellas from Tordotcom (_The Black Tides of Heaven_, _The Red Threads of Fortune_, and _The Descent of Monsters_). Their work has been shortlisted for the Hugo, Nebula, Kitschy, and James Tiptree Jr. Award. They live in Singapore, attended the 2013 class of Clarion West, and have a MA in creative writing from the University of East Anglia.
