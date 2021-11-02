@@ -63,7 +63,7 @@ Mrs. Iverson wouldn't be out on the border if people didn't trust her, and every
 
 Officer Norton is thinking everyone should settle down while he goes to talk to Mrs. Iverson, but he _always_ thinks that. Randi flips her ponytail and declares that she and Betty and Benny will hop on their bikes and go meet the newcomer.
 
-The gas station is out of town and down the road, and it always takes a while to get there; by the time they reach it the sky is turning the colour of peach pie. There's a tingle in Randi's mouth, but she's all the way out here _for_ Little Wells, so she'll be okay.
+The gas station is out of town and down the road, and it always takes a while to get there; by the time they reach it, the sky is turning the colour of peach pie. There's a tingle in Randi's mouth, but she's all the way out here _for_ Little Wells, so she'll be okay.
 
 Out here isn't as nice as in town. The gas station sits at one end of a wide gravel lot that's prickled with weeds except for the spot where they don't grow. The place is dried up and sad, all shaggy paint and dusty glass that makes you want to move along if you're in any kind of hurry.
 
