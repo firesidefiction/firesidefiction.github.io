@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Randi and Betty are sharing a milkshake in a booth at the Olympia, which is a great way to spend a summer afternoon in Little Wells. They're holding hands and feeling how happy everyone in town is when the door jingle-chimes and Betty's brother Benny hurries in to see them.
 
