@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to fatal illness.
 generalnote:
-published: false
+published: true
 ---
 I met him the night his mother had the misfortune to birth him. There was a sadistic wind out, crueler than any snow, threatening to tear up the entire oak forest. I lingered a minute, because even I get chills. His father couldn't get out into town to beg anyone to be his godfather. And his mother, well, she wasn't going anywhere but with me.
 
