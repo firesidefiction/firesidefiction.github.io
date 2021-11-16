@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to violence against women.
 generalnote: This story was previously published in _[Toad Words and Other Stories](https://www.redwombatstudio.com/portfolio/writing/books-for-adults/toad-words/)_ and is reprinted with permission of the author.
-published: false
+published: true
 ---
 She really hadn't known.
 
