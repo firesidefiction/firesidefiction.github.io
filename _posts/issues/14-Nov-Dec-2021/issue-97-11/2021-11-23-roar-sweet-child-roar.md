@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains depictions of a child in a life-threatening situation.
 generalnote:
-published: false
+published: true
 ---
 He woke up in a shallow puddle on the edge of the forest, mud thick and golden like molasses coating his bare body from head to toe. He felt like he’d just belly-flopped across a football field of sandpaper.
 
