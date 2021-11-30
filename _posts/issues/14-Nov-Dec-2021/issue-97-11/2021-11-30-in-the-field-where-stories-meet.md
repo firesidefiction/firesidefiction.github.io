@@ -35,7 +35,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 Tell me how you fell.<br  />
