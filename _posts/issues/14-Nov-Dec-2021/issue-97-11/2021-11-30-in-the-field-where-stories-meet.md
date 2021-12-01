@@ -47,7 +47,7 @@ Tell me<br  />
 <br  />
 Tell me of descent:<br  />
 tell me<br  />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how the atmosphere cried out when you entered it
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how the atmosphere cried out when you entered it<br  />
 tell me<br  />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what remains in your meteorite heart.<br  />
 <br  />
