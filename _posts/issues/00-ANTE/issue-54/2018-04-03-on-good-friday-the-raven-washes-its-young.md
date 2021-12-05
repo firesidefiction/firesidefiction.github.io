@@ -38,7 +38,10 @@ generalnote:
 published: true
 ---
 
->“On Good Friday the raven washes its young,as this world curses me with frogs and snaketongue;so this world should tell me face to face,who have I wronged in my life in this place.”
+>“On Good Friday the raven washes its young,<br  />
+as this world curses me with frogs and snaketongue;<br  />
+so this world should tell me face to face,<br  />
+who have I wronged in my life in this place.”
 
 >—Hungarian Folk Song
 
@@ -84,7 +87,10 @@ In my home-berth, I undress, wrap myself into layers of blankets. Before I know,
 
 ----
 
->“I came to you: an upstanding young man,here to pour dew on beautiful women,because if I don't water them this year,they won't bloom and flower next year.”
+>“I came to you: an upstanding young man,<br  />
+here to pour dew on beautiful women,<br  />
+because if I don't water them this year,<br  />
+they won't bloom and flower next year.”
 
 >—Hungarian Folk Rhyme
 
@@ -128,7 +134,10 @@ They run away.
 
 ----
 
->“Oh my God, tell me what should I do,should I run away or should I stop?If I run, they will chase me still,If I stay, they will beat me till I drop.”_
+>“Oh my God, tell me what should I do,<br  />
+should I run away or should I stop?<br  />
+If I run, they will chase me still,<br  />
+If I stay, they will beat me till I drop.”
 
 >–Beás, Hungarian and Romani folk song
 
