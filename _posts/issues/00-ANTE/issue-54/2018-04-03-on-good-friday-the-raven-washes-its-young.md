@@ -38,12 +38,12 @@ generalnote:
 published: true
 ---
 
-_“On Good Friday the raven washes its young,<br  />
-as this world curses me with frogs and snaketongue;<br  />
-so this world should tell me face to face,<br  />
-who have I wronged in my life in this place.”_
+_“On Good Friday the raven washes its young,<br  />_
+_as this world curses me with frogs and snaketongue;<br  />_
+_so this world should tell me face to face,<br  />_
+_who have I wronged in my life in this place.”_
 
-**—Hungarian Folk Song**
+**—Hungarian Folk Song**<br  /><br  />
 
 
 Splosh creak. The docks are rusting apart, the little gangways are slowly devoured by all the alien chemicals in the sea. I slip, cuss. I want to be underwater, I want to be treasured. I want to feel like my body does what it was meant to do. Up here, I trundle, out of my element.
@@ -88,12 +88,13 @@ In my home-berth, I undress, wrap myself into layers of blankets. Before I know,
 
 ----
 
->“I came to you: an upstanding young man,
-here to pour dew on beautiful women,<br  />
-because if I don't water them this year,<br  />
-they won't bloom and flower next year.”
+_“I came to you: an upstanding young man,<br  />_
+_here to pour dew on beautiful women,<br  />_
+_because if I don't water them this year,<br  />_
+_they won't bloom and flower next year.”_
 
->—Hungarian Folk Rhyme
+**—Hungarian Folk Rhyme**<br  /><br  />
+
 
 “Fagtastic, eeeyah!”
 
@@ -135,12 +136,13 @@ They run away.
 
 ----
 
->“Oh my God, tell me what should I do,<br  />
-should I run away or should I stop?<br  />
-If I run, they will chase me still,<br  />
-If I stay, they will beat me till I drop.”
+_“Oh my God, tell me what should I do,<br  />_
+_should I run away or should I stop?<br  />_
+_If I run, they will chase me still,<br  />_
+_If I stay, they will beat me till I drop.”_
 
->–Beás, Hungarian and Romani folk song
+**–_Beás_, Hungarian and Romani folk song**<br  /><br  />
+
 
 I wander the seaside. _That wasn't a prank_, I'm thinking, _they wanted to hurt me, maim me_.
 
