@@ -38,7 +38,7 @@ generalnote:
 published: true
 ---
 
->“On Good Friday the raven washes its young,<br  />
+>“On Good Friday the raven washes its young,
 as this world curses me with frogs and snaketongue;<br  />
 so this world should tell me face to face,<br  />
 who have I wronged in my life in this place.”
@@ -87,7 +87,7 @@ In my home-berth, I undress, wrap myself into layers of blankets. Before I know,
 
 ----
 
->“I came to you: an upstanding young man,<br  />
+>“I came to you: an upstanding young man,
 here to pour dew on beautiful women,<br  />
 because if I don't water them this year,<br  />
 they won't bloom and flower next year.”
