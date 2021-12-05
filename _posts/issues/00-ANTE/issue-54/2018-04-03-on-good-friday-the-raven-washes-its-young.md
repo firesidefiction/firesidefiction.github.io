@@ -6,7 +6,7 @@ issue-cover: issue-54-cover.png
 issue-buy-link: https://store.firesidefiction.com/collections/back-issues/products/fireside-magazine-issue-54-april-2018
 title: On Good Friday the Raven Washes Its Young
 subtitle:
-author:
+author: bogi-takacs
 author-2:
 author-3:
 editor: julia-rios
