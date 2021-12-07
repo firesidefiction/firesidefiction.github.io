@@ -2,7 +2,7 @@
 layout: story
 category: short story
 issue: 98, December 2021
-issue-cover: 
+issue-cover: issue-98-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-98-december-2021
 title: Habeas Codex
 subtitle:
