@@ -8,13 +8,13 @@ permalink: submissions
 
 Fireside is currently **closed to submissions**. During open submissions periods, there will be information on this page about how long we're open for and what the current guest editor is looking for from submissions. There will also be a form available on this page for you to use to submit your work. Our submissions guidelines are available to read below at all times.
 
-We have no upcoming submissions dates to announce at this time, but you can expect an announcement about the next submissions period soon. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about future submissions dates.
+We have no upcoming submissions periods to announce at this time. Please [subscribe to our newsletter](https://firesidefictioncompany.us7.list-manage.com/subscribe/post?u=0c60ee4cf297215c61d55e861&amp;id=afc8f5cf09) if you'd like to be the first to find out about future submissions dates.
 
 ## Prior Submissions Periods
 
 If you submitted your work in July 2021 under guest editor Hal Y. Zhang, first-round responses were sent out on August 30, 2021, and final responses to higher-round considerations were sent on September 20, 2021.
 
-If you submitted your work in September 2021 under guest editor L. M. Davis, first-round responses were sent out on October 17, 2021, and you can expect final responses to higher-round considerations in early December 2021. If there are any significant delays to this schedule, we'll make an announcement and update this page.
+If you submitted your work in September 2021 under guest editor L. M. Davis, first-round responses were sent out on October 17, 2021, and final responses to higher-round considerations were sent on December 9, 2021.
 
 **All submissions from prior to July 2021 were sent final responses.** If you should have received a response but did not, feel free to inquire by emailing us at [questions@firesidefiction.com](mailto:questions@firesidefiction.com) so we can look into it.
 
