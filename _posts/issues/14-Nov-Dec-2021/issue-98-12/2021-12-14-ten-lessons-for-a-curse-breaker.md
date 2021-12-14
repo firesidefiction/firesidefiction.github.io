@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to intimate partner violence.
 generalnote:
-published: false
+published: true
 ---
 **1.** Do not try to fix generational trauma with a spell.
 
