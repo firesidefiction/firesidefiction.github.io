@@ -6,7 +6,7 @@ issue-cover: issue-98-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-98-december-2021
 title: Never a Gentle Master
 subtitle:
-author: brittany-l-williams
+author: brittany-n-williams
 author-2:
 author-3:
 editor: brian-j-white
