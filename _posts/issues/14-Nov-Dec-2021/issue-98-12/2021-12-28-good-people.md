@@ -63,7 +63,7 @@ who would condemn a girl<br  />
 with scars on her wrists, or condemn<br  />
 a girl who could not speak. No. Good people.<br  />
 Decent. Kindhearted, all. With good reasons<br  />
-to burn a girl at the stake.
+to burn a girl at the stake.<br  />
 
 Afterwards, others crept in<br  />
 to pick over the remains, saying not a word<br  />
