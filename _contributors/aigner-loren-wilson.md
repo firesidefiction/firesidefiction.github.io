@@ -8,7 +8,7 @@ role: Editor
 role-2:
 role-3:
 title: Aigner Loren Wilson  — Work in Fireside
-description: Guest Editor, Aug–Oct 2021
+description: Guest Editor, Jan–Mar 2022
 twitter-handle: ALWlikeahowl
 profile-pic: aigner-loren-wilson.jpg
 website-url:
