@@ -149,6 +149,7 @@ It is the thirteenth night without her, and I realise I know Rosa's hill. It com
 I still cannot bring myself to eat. The others try cajoling me at first, bringing me tempting platters of honeycomb and dark, bitter greens and gem-yellow lemons, potatoes roasted in fat and macadamias round as pearls, and then, with increasing desperation, plates of rusted screws and mud and engine oil. No morsel tempts me, and eventually, one by one, they stop trying.
 
 I am not sure I hunger exactly any more, but I do fade, and some nights I swear I am far more anchored to my house than any place ghosts should inhabit. I become more liminal, feeling most solid in doorways, in dawn and dusk. I try to trick my captivity. Perhaps, if I am quick enough, if I race from the door to the gate just as dawn shatters the night, I can leave this place and run to Rosa's hill and find her, find her, find her. Each morning, I try to flee, and each morning, I return solidly to death just as I reach the threshold.
+
 ---
 
 I have lost count of the nights.
