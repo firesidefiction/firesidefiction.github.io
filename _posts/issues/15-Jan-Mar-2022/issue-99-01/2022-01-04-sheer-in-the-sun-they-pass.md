@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 I do not remember dying except for the feeling of waking, and waking, and waking.
 
