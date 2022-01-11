@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 I followed my mother through the open-air market, weaving between stalls of wallets, pan-flutes, and knitted ponchos in crayon-garish colors. Tourists' sunblock and perfume overpowered the stink of fresh leather from the stalls. I inhaled those foreign scents, let their promises of escape permeate my lungs and quicken my heart. They conjured distant cities, those aromas, with more skyscrapers than colonial façades. A million different futures for my teenage self. But for now, my mother and I sought gifts for my cousins abroad, trinkets for their college dorms. Llamas were all the rage over there, they claimed, but they wanted _authentic_ ones.
 A table of animal figurines caught my eye. The seller, a tiny woman with two long braids, leapt from her stool and greeted me with the customary, "A la orden." At your service. Wrinkles gathered upon her face like tree rings.
