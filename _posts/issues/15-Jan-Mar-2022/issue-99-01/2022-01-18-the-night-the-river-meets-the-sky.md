@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to the arranged marriage of a minor.
 generalnote:
-published: false
+published: true
 ---
 Lisa knelt by the edge of the water as the solstice moon rose far overhead. She checked her watch — not quite midnight — and the shimmer on the water was still just frost for now. She laid the flowers and the box of cinnamon rolls on the bank and stretched. These days, the cold and the late night got to her. Old age.
 
