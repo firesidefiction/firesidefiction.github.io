@@ -35,7 +35,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published:
+published: true
 ---
 
 This was the moment that turned villains into legends, and the two of them were just henchmen. LaShawn braced his elbow on the battlement, training his laser cannon down on Captain Democracy’s red, white, and blue helmet. He scaled their castle’s walls like a cheap gym workout, with no idea that he was in LaShawn’s sights.
