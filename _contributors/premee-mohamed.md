@@ -10,7 +10,7 @@ role-3:
 title: Premee Mohamed — Work in Fireside
 description:
 twitter-handle: premeesaurus
-profile-pic: premee-mohamed.jpg
+profile-pic: preemee-mohamed.jpg
 website-url:
 short-name: premee-mohamed
 permalink: premee-mohamed
