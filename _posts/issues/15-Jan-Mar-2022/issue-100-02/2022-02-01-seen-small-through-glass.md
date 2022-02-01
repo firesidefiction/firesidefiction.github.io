@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains depictions of a missing child.
 generalnote:
-published: false
+published: true
 ---
 My upper lip was oozing sweat like syrup and I couldn't stop thinking about it. Thinking that months from now, someone would interview me in jail and I'd say, "Well, I guess I remember that. Feeling sticky." Some young journalist writing a long-form essay, hungry for these humiliating details. An editor over their shoulder like, "Don't write 'A child has gone missing.' That's too passive."
 
