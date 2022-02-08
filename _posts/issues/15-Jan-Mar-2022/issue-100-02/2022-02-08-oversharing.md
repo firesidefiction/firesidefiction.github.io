@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains elements of body horror.
 generalnote:
-published: false
+published: true
 ---
 The day after I lose my job, it begins as a crust in the corner of my eye. It leaves a scratch as I brush it away.
 
