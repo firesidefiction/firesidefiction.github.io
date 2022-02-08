@@ -10,7 +10,7 @@ role-3:
 title: Lillian Boyd — Work in Fireside
 description: Guest Editor, Jun–Jul 2021
 twitter-handle: herelieslill
-profile-pic: ryan-boyd.jpg
+profile-pic: lillian-boyd.jpg
 website-url: yarnbody.net
 short-name: lillian-boyd
 permalink: lillian-boyd
