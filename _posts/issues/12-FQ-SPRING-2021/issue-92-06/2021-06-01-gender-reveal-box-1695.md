@@ -9,7 +9,7 @@ subtitle:
 author: john-wiswell
 author-2:
 author-3:
-editor: ryan-boyd
+editor: lillian-boyd
 illustrator:
 copyeditor: chelle-parker
 selector:
