@@ -21,7 +21,7 @@ date: 2022-02-08 01:00:01 -0500
 permalink: oversharing
 audiourl:
 teaser:
-art: oversharing.jpg
+art: oversharing.png
 artcaption:
 spanish-language:
 spanish-date:
