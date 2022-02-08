@@ -9,7 +9,7 @@ role-2:
 role-3:
 title: Alexxander Dovelin — Work in Fireside
 description: Illustrator
-twitter-handle: @xxdovelin 
+twitter-handle: xxdovelin 
 profile-pic: alexxander-dovelin.jpg
 website-url: https://xxdovelin.com/
 short-name: alexxander-dovelin
