@@ -36,6 +36,8 @@ contentnote: This story contains descriptions of prolonged and fatal illness.
 generalnote:
 published: true
 ---
+**DAY ONE**
+
 I'm awoken by myself, so that I am the first thing I see.
 
 I look like every other version of me but, as I learn later, the sequencing finds ways to make us all a little different. Uniqueness is an odd thrill across our genetic line. A divot on a piece fresh from the clay thrower's wheel; a branching vein in an autumn leaf; a crimson tile within the azure mosaic. We are the same, and still celebrate our deviations. Eight Hundred and Two has a pale scar on their forehead. Eight Hundred and Sixty-Two's fingers are one half inch longer than everyone else's. Nine Hundred and One's singing voice can reach one quarter of an octave higher than us all.
