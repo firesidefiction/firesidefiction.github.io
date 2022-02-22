@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains descriptions of prolonged and fatal illness.
 generalnote:
-published: false
+published: true
 ---
 I'm awoken by myself, so that I am the first thing I see.
 
