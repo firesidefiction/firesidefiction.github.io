@@ -18,7 +18,7 @@ narrator:
 letterer:
 word-count: 
 date: 2022-02-25 01:00:01 -0500
-permalink: mother-tongue
+permalink: gupta-mother-tongue
 audiourl:
 teaser:
 art: 
