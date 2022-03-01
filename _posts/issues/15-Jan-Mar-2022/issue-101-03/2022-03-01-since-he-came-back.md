@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains descriptions of child endangerment and child abuse, including attempted murder.
 generalnote:
-published: false
+published: true
 ---
 Things have been weird since our dad came back from the dead. He's quieter, for one thing. It's not that he talks a lot less — he never talked much — but he pauses more during conversation, spends more time choosing his words. And he speaks in a lower tone of voice, like he's trying not to disturb the air.
 
