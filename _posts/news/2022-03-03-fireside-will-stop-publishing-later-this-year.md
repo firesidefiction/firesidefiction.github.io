@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Fireside is Closing
+title:  Fireside Will Stop Publishing Later This Year
 author: brian-j-white
 date:   2022-03-03 02:01:00 -0500
 category: announcement
 permalink: /fireside-will-stop-publishing-later-this-year
 teaser: "Nothing lasts forever, and sadly it's time to draw things to a close."
-published: false
+published: true
 ---
 When I launched the first Fireside Kickstarter 10 years ago, it was an experiment in online publishing and crowdfunding, and an attempt to hike the standard of pay for writers up much higher than was considered the norm at the time. I wasn't sure that first campaign would succeed, and back then I would never have guessed that we'd be where we are today, 100 issues into a run of amazing fiction, poetry, essays, art, editing, and more.
 
