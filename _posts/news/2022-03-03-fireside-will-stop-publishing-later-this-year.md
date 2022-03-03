@@ -3,8 +3,8 @@ layout: post
 title:  Fireside is Closing
 author: brian-j-white
 date:   2022-03-03 02:01:00 -0500
-category: essay
-permalink: /fireside-is-closing
+category: announcement
+permalink: /fireside-will-stop-publishing-later-this-year
 teaser: "Nothing lasts forever, and sadly it's time to draw things to a close."
 published: false
 ---
@@ -33,3 +33,6 @@ I also want to reiterate my tremendous thanks to Mikki Kendall, Sarah Gailey, an
 Thanks to every writer, artist, editor, designer, narrator, and everyone else who has ever contributed to Fireside. Thank you to everyone who cheered us on, on Twitter and elsewhere, who shared the stories they loved and the Kickstarters and subscription drives and all the rest. You're an amazing community, and we have been so lucky to be part of it. We really did something special here.
 
 Finally, thank you to my friends, my family, and most of all my wife, Lauren, for your support, encouragement, and love. We wouldn't have made it half as far without you.
+
+<h4>Brian J. White</h4>
+_Executive Editor and Owner_
