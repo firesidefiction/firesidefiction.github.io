@@ -63,7 +63,6 @@ As you are likely already aware, the nominations for this year's Hugo Awards clo
 
 We're incredibly proud of them all, and of each of our brilliant authors.
 
-Thank you for your consideration,
-
+Thank you for your consideration,<br  />
 <h4>Chelle Parker</h4>
 _Managing Editor_
