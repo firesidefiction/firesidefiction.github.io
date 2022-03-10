@@ -55,7 +55,6 @@ As you are likely already aware, the nominations for this year's Hugo Awards clo
 "[Not Quite What We're Looking for Right Now](https://firesidefiction.com/not-quite-what-were-looking-for-right-now)" by Jana Bianchi<br  />
 "[Small-Town Spirit](https://firesidefiction.com/small-town-spirit)" by Frances Rowat<br  />
 "[Godfather Death, in His Own Words](https://firesidefiction.com/godfather-death-in-his-own-words)" by John Wiswell<br  />
-"[Bluebeard's Wife](https://firesidefiction.com/bluebeards-wife)" by T. Kingfisher<br  />
 "[Roar, Sweet Child, Roar](https://firesidefiction.com/roar-sweet-child-roar)" by Sydnee Thompson<br  />
 "[Habeas Codex](https://firesidefiction.com/habeas-codex)" by Curtis C. Chen<br  />
 "[Ten Lessons for a Curse-Breaker](https://firesidefiction.com/ten-lessons-for-a-curse-breaker)" by Ellen Meny<br  />
