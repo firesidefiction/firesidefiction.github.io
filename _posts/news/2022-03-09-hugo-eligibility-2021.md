@@ -10,7 +10,7 @@ published: true
 ---
 Hello wonderful Fireside readers,
 
-As you are likely already aware, the nominations for this year's Hugo Awards close a week from now, on March 15th. We'd be honoured if you'd consider nominating any of the 48 amazing short stories _Fireside Magazine_ published in 2021! Here's a handy list of them all in one place, free to read:
+As you are likely already aware, the [nominations for this year's Hugo Awards](https://chicon.org/home/whats-happening/hugo-awards/) close a week from now, on March 15th. We'd be honoured if you'd consider nominating any of the 48 amazing short stories _Fireside Magazine_ published in 2021! Here's a handy list of them all in one place, free to read:
 
 "[Mouth & Marsh, Silver & Song](https://firesidefiction.com/mouth-and-marsh-silver-and-song)" by Sloane Leong<br  />
 "[That Time I Found a Phone Booth Where I Can Talk to My (Dead) Dad](https://firesidefiction.com/that-time-i-found-a-phone-booth-where-i-can-talk-to-my-dead-dad)" by Alisa Alering<br  />
