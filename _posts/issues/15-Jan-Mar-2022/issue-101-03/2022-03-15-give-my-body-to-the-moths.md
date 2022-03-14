@@ -10,18 +10,18 @@ author: riley-neither
 author-2:
 author-3:
 editor: aigner-loren-wilson
-illustrator: 
+illustrator:
 copyeditor: chelle-parker
 selector:
 translator:
 narrator:
 letterer:
 word-count: 966
-date: 2022-03-015 01:00:01 -0500
+date: 2022-03-15 01:00:01 -0500
 permalink: give-my-body-to-the-moths
 audiourl:
 teaser:
-art: 
+art:
 artcaption:
 spanish-language:
 spanish-date:
@@ -32,7 +32,7 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote: 
+contentnote:
 generalnote:
 published: false
 ---
@@ -103,7 +103,7 @@ Trinity lays soothing words in my ears when I wake from those dreams, but I know
 
 The cops find me rushing down an empty street at dusk to get home before curfew.
 
-This is just how they do it. 
+This is just how they do it.
 
 They don't call you or schedule a meeting; they catch you alone in the dark and surround you. They growl their hunger, weapons drawn.
 
