@@ -11,7 +11,7 @@ title: M. Darusha Wehm — Work in Fireside
 description:
 twitter-handle: darusha
 profile-pic: m-darusha-wehm.jpg
-website-url: https://darusha.ca/
+website-url: darusha.ca
 short-name: m-darusha-wehm
 permalink: m-darusha-wehm
 ---

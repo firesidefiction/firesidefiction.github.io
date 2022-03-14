@@ -9,9 +9,9 @@ role-2:
 role-3:
 title: Riley Neither — Work in Fireside
 description:
-twitter-handle: 
-profile-pic: 
-website-url: http://www.rileyneither.com/
+twitter-handle:
+profile-pic:
+website-url: rileyneither.com
 short-name: riley-neither
 permalink: riley-neither
 ---
