@@ -10,7 +10,7 @@ role-3:
 title: Jessica McCottrell — Work in Fireside
 description: Illustrator
 twitter-handle: applejjacks
-profile-pic: jessica-mccottrell.jpg
+profile-pic: jessica-mccottrell.jpeg
 website-url:
 short-name: jessica-mccottrell
 permalink: jessica-mccottrell
