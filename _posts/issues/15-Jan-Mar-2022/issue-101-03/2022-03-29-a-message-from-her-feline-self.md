@@ -11,7 +11,7 @@ author-2:
 author-3:
 editor: aigner-loren-wilson
 illustrator: jessica-mccottrell
-copyeditor: chelle-parke
+copyeditor: chelle-parker
 selector:
 translator:
 narrator:
@@ -21,7 +21,7 @@ date: 2022-03-29 01:00:01 -0500
 permalink: a-message-from-her-feline-self
 audiourl:
 teaser:
-art: a-message-from-her-feline-self.png
+art: oversharing.png
 artcaption:
 spanish-language:
 spanish-date:
