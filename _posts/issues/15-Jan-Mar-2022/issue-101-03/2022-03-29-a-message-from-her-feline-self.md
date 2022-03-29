@@ -21,7 +21,7 @@ date: 2022-03-29 01:00:01 -0500
 permalink: a-message-from-her-feline-self
 audiourl:
 teaser:
-art:a-message-from-her-feline-self.png
+art: a-message-from-her-feline-self.png
 artcaption:
 spanish-language:
 spanish-date:
@@ -36,7 +36,7 @@ contentnote:
 generalnote:
 published: false
 ---
-Our mother tears open the moon to shows us futures<br  />
+Our mother tears open the moon to show us futures<br  />
 when we are still wrapped in her belly, womb-warm,<br  />
 nursing trust and waiting to be given shape. In sleep,<br  />
 she builds us dreams, a fractal of possibilities,<br  />
