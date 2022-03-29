@@ -1,6 +1,6 @@
 ---
 layout: story
-category: story
+category: poem
 issue: 101, March 2022
 issue-cover: issue-101-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-101-march-2022
