@@ -1,6 +1,6 @@
 ---
-layout: poem
-category: poem
+layout: story
+category: story
 issue: 101, March 2022
 issue-cover: issue-101-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-101-march-2022
@@ -16,12 +16,12 @@ selector:
 translator:
 narrator:
 letterer:
-word-count: 967
+word-count: 433
 date: 2022-03-29 01:00:01 -0500
 permalink: a-message-from-her-feline-self
 audiourl:
 teaser:
-art: oversharing.png
+art: a-message-from-her-feline-self.png
 artcaption:
 spanish-language:
 spanish-date:
