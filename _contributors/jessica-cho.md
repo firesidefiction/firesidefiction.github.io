@@ -2,7 +2,7 @@
 layout: contributor-profile
 credit-name: Jessica Cho
 first-name: Jessica
-last-name: Ch
+last-name: Cho
 file-as: c
 role: Author
 role-2:

@@ -11,7 +11,7 @@ author-2:
 author-3:
 editor: aigner-loren-wilson
 illustrator: jessica-mccottrell
-copyeditor: chelle-parker
+copyeditor: chelle-parke
 selector:
 translator:
 narrator:
