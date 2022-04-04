@@ -43,7 +43,7 @@ And now! Here are the stories we bought from April:
             name="Millie Ho"
             story="Hehua"
             url="www.millieho.net"
-            bio="Millie Ho is a writer and illustrator from Toronto. She draws your dark side at [Creepify Me](http://www.creepifyme.com) and makes nice cat things at [feel fine feline](http://www.feelfinefeline.com). Her work has appeared or is forthcoming in _Uncanny Magazine_, _LampLight Magazine_, _Joyland Magazine_, and others. She enjoys travelling and divides her time between Canada and Asia. You can find her at [www.millieho.net](http://www.millieho.net) and on Twitter as [@millie_ho](http://www.twitter.com/millie_ho)."
+            bio="Millie Ho's short stories appear in _Lightspeed Magazine_, _Nightmare Magazine_, _Fireside Magazine_, and others. Her poems appear in _PRISM international_, _Strange Horizons_, and _Uncanny Magazine_. She was a finalist for the 2019 Rhysling Awards. Find her at online at [millieho.net](http://www.millieho.net)."
             %}
 
 {% include author.html

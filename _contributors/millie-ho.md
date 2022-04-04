@@ -15,4 +15,4 @@ website-url: millieho.net
 short-name: millie-ho
 permalink: millie-ho
 ---
-Millie Ho's short stories appear in _Lightspeed Magazine_, _Nightmare Magazine_, _Fireside Magazine_, and others. Her poems appear in _PRISM international_, _Strange Horizons_, and _Uncanny Magazine_. She was a finalist for the 2019 Rhysling Awards. Find her at [www.millieho.net](http://www.millieho.net).
+Millie Ho's short stories appear in _Lightspeed Magazine_, _Nightmare Magazine_, _Fireside Magazine_, and others. Her poems appear in _PRISM international_, _Strange Horizons_, and _Uncanny Magazine_. She was a finalist for the 2019 Rhysling Awards. Find her at online at [millieho.net](http://www.millieho.net).
