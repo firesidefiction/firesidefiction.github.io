@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to terminal illness.
 generalnote:
-published: false
+published: true
 ---
 We knew, with the pale certainty of childhood, that our summer days would end. The sunlight, golden and dying, would wend its way toward dusk, and we two would sprawl among the tall grasses near our lake. We would count the sunset clouds, then the fireflies, then the stars. We talked lightly of sisterly things, ripe with the knowledge that summer would pass into something more autumnal, more mature.
 
