@@ -8,15 +8,19 @@ permalink: book/the-clockwork-empire
 published: false
 length: novel
 cover: the-clockwork-empire.jpg
-amazon: https://www.amazon.com/Rattlesnake-Wind-Lilith-Saintcrow-ebook/dp/B07JCDZMP8/ref=sr_1_2?ie=UTF8&qid=1543499820&sr=8-2&keywords=Rattlesnake+Wind
-ibooks: https://itunes.apple.com/us/book/rattlesnake-wind/id1438805013?mt=11
-kobo: https://www.kobo.com/us/en/ebook/rattlesnake-wind
-nook: https://www.barnesandnoble.com/w/rattlesnake-wind-lilith-saintcrow/1129734508?ean=9780998778365
-goodreads: https://www.goodreads.com/book/show/42282452-rattlesnake-wind?from_search=true
-fireside: https://store.firesidefiction.com/products/rattlesnake-wind?variant=15669804662882
+amazon: https://www.amazon.com/Clockwork-Empire-Lucas-J-Johnson/dp/1734154969
+ibooks: https://books.apple.com/us/book/id1618829343
+kobo: https://www.kobo.com/us/en/ebook/the-clockwork-empire
+nook: https://www.barnesandnoble.com/w/the-clockwork-empire-lucas-jw-johnson/1141346732
+goodreads:
+fireside:
 printbook:
 author-bio: |
- Lucas bio goes here.
+Lucas J. W. Johnson (he/him) is a writer, game designer, and entrepreneur. He is the author of several published short stories, and the Founder and Studio Director of Silverstring Media Inc., a narrative design studio working primarily in videogames.
+
+Lucas has experimented with interactive narratives, game design, and emergent storytelling for his whole life, writing stories and running tabletop roleplaying games since he was young. With Silverstring Media, he creates queer and feminist work that explores deep narratives, pushes the boundaries of what interactive experiences can be, and constructs vast and meaningful storyworlds. Diverse and queer stories are core to all of his writing. He has written several critically acclaimed and award-winning games, including _Glitchhikers_ (finalist for Best Indie Game of 2014 at the Canadian Videogame Awards), _Extrasolar_ (Indiecade finalist), and _Timespinner_. He’s spoken at conferences across North America about game and transmedia design, education, and business practices.
+
+Lucas lives with his husband and cats in Vancouver, BC. You can find him online at his website, [lucasjwjohnson.com](https://www.lucasjwjohnson.com/), and on Twitter as [@lucasjwjohnson](https://twitter.com/lucasjwjohnson).
 ---
 
 ### Description
