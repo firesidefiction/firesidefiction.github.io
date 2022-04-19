@@ -37,7 +37,7 @@ generalnote:
 published: true
 ---
 
-**[The Last Will and Testament of Onorei Foxcroft, submitted to and recognized by the Ministry of Records, Verdigris City, as of January 19.]**
+**[The Last Will and Testament of Onorei Foxcroft, submitted to and recognized by the Ministry of Records, Verdigris City, as of January 19.]**<br  >
 
 I, Onorei Foxcroft, Second Runewriter of Verdigris City, being of sound mind and skytouched body, do hereby declare this to be my last will and testament. I do hereby revoke any and all wills and codicils made jointly or severally by me that may precede or contest this. I further declare that this last will and testament reflects my personal wishes, influenced by none but the moon above.
 
