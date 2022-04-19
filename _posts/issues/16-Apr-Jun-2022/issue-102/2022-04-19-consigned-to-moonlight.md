@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains threats of torture.
 generalnote:
-published: false
+published: true
 ---
 
 **[The Last Will and Testament of Onorei Foxcroft, submitted to and recognized by the Ministry of Records, Verdigris City, as of January 19.]**
