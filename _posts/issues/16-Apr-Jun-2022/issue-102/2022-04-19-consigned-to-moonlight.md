@@ -37,9 +37,9 @@ generalnote:
 published: true
 ---
 
-**[The Last Will and Testament of Onorei Foxcroft, submitted to and recognized by the Ministry of Records, Verdigris City, as of January 19.]**<br  >
+**[The Last Will and Testament of Onorei Foxcroft, submitted to and recognized by the Ministry of Records, Verdigris City, as of January 19.]**
 
-I, Onorei Foxcroft, Second Runewriter of Verdigris City, being of sound mind and skytouched body, do hereby declare this to be my last will and testament. I do hereby revoke any and all wills and codicils made jointly or severally by me that may precede or contest this. I further declare that this last will and testament reflects my personal wishes, influenced by none but the moon above.
+<br  />I, Onorei Foxcroft, Second Runewriter of Verdigris City, being of sound mind and skytouched body, do hereby declare this to be my last will and testament. I do hereby revoke any and all wills and codicils made jointly or severally by me that may precede or contest this. I further declare that this last will and testament reflects my personal wishes, influenced by none but the moon above.
 
 I surrender the executorship of this testament to the duly appointed representative of Verdigris City.
 
@@ -47,7 +47,7 @@ After payment of all personal debts, expenses, and liabilities, I request and di
 
 To Sybald Marchpane, I give the attached diagram, trusting that the message conferred within will demonstrate the degree of my respect for his work.
 
-**[Archival note: The attached "diagram" is a detailed charcoal illustration of a hand with the middle finger extended. After cross-referencing with the Order of Runewriters' biometric data, the depicted hand appears to be Ms. Foxcroft's. The document has been declared evidence in the posthumous trial of Onorei Foxcroft and confiscated by the court.]**
+<br  />**[Archival note: The attached "diagram" is a detailed charcoal illustration of a hand with the middle finger extended. After cross-referencing with the Order of Runewriters' biometric data, the depicted hand appears to be Ms. Foxcroft's. The document has been declared evidence in the posthumous trial of Onorei Foxcroft and confiscated by the court.]**
 
 To Rilda Croze, I give the contents of the chest that may be found beneath the desk in my workroom, as well as my sincerest apology.
 
