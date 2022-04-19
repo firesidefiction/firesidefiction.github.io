@@ -49,7 +49,7 @@ To Sybald Marchpane, I give the attached diagram, trusting that the message conf
 
 <br  />**[Archival note: The attached "diagram" is a detailed charcoal illustration of a hand with the middle finger extended. After cross-referencing with the Order of Runewriters' biometric data, the depicted hand appears to be Ms. Foxcroft's. The document has been declared evidence in the posthumous trial of Onorei Foxcroft and confiscated by the court.]**
 
-To Rilda Croze, I give the contents of the chest that may be found beneath the desk in my workroom, as well as my sincerest apology.
+<br  />To Rilda Croze, I give the contents of the chest that may be found beneath the desk in my workroom, as well as my sincerest apology.
 
 I give the remainder of my property, whether real property, personal property, or both, of whatever kind and wherever situated, to the Order of Runewriters and to Verdigris City.
 
@@ -65,15 +65,15 @@ _January 17_
 
 **[Excerpts from the personal journal of Rilda Croze, née Foxcroft. Shopkeeper. Aged 43 years. Sister of Onorei Foxcroft and only known kin.]**
 
-_Jan 1_
+<br  />_Jan 1_
 
 Got another letter from guess-fucking-who today. Not opening it.
 
-_Jan 2_
+<br  />_Jan 2_
 
 I'm throwing it out. Not even going to store it with Onorei's other letters. Should toss the whole lot of them, really. She wants to talk to me, she can quit her job first.
 
-_Jan 3_
+<br  />_Jan 3_
 
 Didn't end up throwing her letters out. Tried to. Couldn't.
 
@@ -81,7 +81,7 @@ Don't know why. I'd bet my ass it's just the same shitty half-baked justificatio
 
 I guess feeling bad about people profiting off the violent deaths of strangers gets less attractive when you start profiting off it too.
 
-_Jan 4_
+<br  />_Jan 4_
 
 Got the paper delivered. Can't believe I still order it, seeing as they just can't get enough of our astounding, talented, game-changing, brand-new war-profiteer-in-chief Second Runewriter Onorei Foxcroft!!!!!! If _The Verdigris Inquirer_ adds any more exclamation points after their headlines, they're going to use up the City's entire supply and then the guys in charge of wartime rationing will confiscate their printer.
 
@@ -98,9 +98,9 @@ I miss when we were kids and would take turns being snide about rude strangers i
 
 Sometimes I think that sooner or later she'll have a wakeup call and tell the Order and the military to go fuck themselves, and then she'll come home and everything will be fine again. And then I check my temperature, because obviously I've gone delusional with fever.
 
-**[Archival note: A number of pages at the back of Rilda Croze's journal have been torn out. Croze appears to have disposed of the pages bearing her most recent entries via her fireplace (see investigative report, page 9). The burnt entries were mostly unrecoverable, but the following excerpts have been retrieved.]**
+<br  />**[Archival note: A number of pages at the back of Rilda Croze's journal have been torn out. Croze appears to have disposed of the pages bearing her most recent entries via her fireplace (see investigative report, page 9). The burnt entries were mostly unrecoverable, but the following excerpts have been retrieved.]**
 
-getting me involved in this, what if
+<br  />getting me involved in this, what if
 
 doesn't work, what if he figures it out? Ever think of that, Onorei, you moron? Or did you
 
@@ -112,7 +112,7 @@ fuck you fuck you FUCK YOU why couldn't you have tried something else YOU DIDN'T
 
 **[Article in _The Verdigris Inquirer_, dated February 7.]**
 
-_EXCLUSIVE!!!! Shocking BETRAYAL Behind Attack on Runewriter Headquarters REVEALED!!_
+<br  />_EXCLUSIVE!!!! Shocking BETRAYAL Behind Attack on Runewriter Headquarters REVEALED!!_
 
 The _Inquirer_ has obtained evidence that the attack on the Order headquarters was not a product of enemy action, but an INSIDE JOB!
 
@@ -132,7 +132,7 @@ When asked what the Order is doing to prevent more individuals like Foxcroft fro
 Interviewer: Sybald Marchpane. Aged 52 years. Profession: First Runewriter of Verdigris City.
 Dated February 10. Recorded automatically via transcription runes installed in interrogation chamber. Extracted from runes and entered into evidence on February 23 as a substitute for the testimony of Sybald Marchpane, who will not be available as a witness during the posthumous trial of Onorei Foxcroft.]**
 
-MARCHPANE: I'm ever so sorry to keep you waiting, Mrs. Croze. May I get you anything? Tea?
+<br  />MARCHPANE: I'm ever so sorry to keep you waiting, Mrs. Croze. May I get you anything? Tea?
 
 CROZE: No.
 
@@ -278,7 +278,7 @@ MARCHPANE: What a sense of humor you have! I'm afraid you've exhausted my patien
 
 **[Excerpt from the professional log of Sybald Marchpane, dated February 11. Recorded automatically via personal transcription rune. Extracted from runes and entered into evidence on February 23 as a supplement to the previous interview transcript.]**
 
-This is Marchpane speaking. I am in Ms. Foxcroft's workroom, alongside Rilda Croze, who is in temporary custody for the duration of the investigation. I will be recording my actions here for documentation purposes.
+<br  />This is Marchpane speaking. I am in Ms. Foxcroft's workroom, alongside Rilda Croze, who is in temporary custody for the duration of the investigation. I will be recording my actions here for documentation purposes.
 
 Ms. Foxcroft's workroom appears just as I left it yesterday morning at 7 a.m. The surveillance runes on the doors and windows indicate no disturbance. I am now taking the locked chest and placing it on Ms. Foxcroft's desk. The runic lock is unchanged.
 
@@ -306,7 +306,7 @@ Oh fuck.
 
 **[Statement of Rilda Croze, née Foxcroft, on the death of Sybald Marchpane. Dated February 12. Recorded automatically via transcription rune. Extracted from runes and entered into evidence on February 23.]**
 
-Listen, how was I supposed to know what the rune was going to do? I'm not a Runewriter. It's all just glowy squiggles to me. I was just doing what he told me to do. He said, "Open the box." I did. He said, "Back away." I did. He got closer, the rune got brighter, and next thing I knew, he was dissolving into light.
+<br  />Listen, how was I supposed to know what the rune was going to do? I'm not a Runewriter. It's all just glowy squiggles to me. I was just doing what he told me to do. He said, "Open the box." I did. He said, "Back away." I did. He got closer, the rune got brighter, and next thing I knew, he was dissolving into light.
 
 And that's it. He's gone and so is all that runic infrastructure he was talking about. Consigned to moonlight, just like they do to the bodies of all the dead Runewriters. Bet the Order'll have fun trying to fix _that_.
 
