@@ -57,9 +57,9 @@ Upon my death, I direct that my remains be consigned to moonlight.
 
 In witness whereof, I hereby subscribe my name to this last will and testament as of the date set forth below. I do this within sight of the unbounded sky, which shall serve as the attesting witness, as is my right as a recognized Runewriter of Verdigris City.
 
-_Onorei Foxcroft
+_Onorei Foxcroft_
 
-January 17_
+_January 17_
 
 ---
 
