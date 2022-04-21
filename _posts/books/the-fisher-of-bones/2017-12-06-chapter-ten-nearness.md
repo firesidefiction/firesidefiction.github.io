@@ -12,7 +12,7 @@ previous-url: /the-fisher-of-bones/chapter-nine-sundering
 permalink: /the-fisher-of-bones/chapter-ten-nearness
 next-url: /the-fisher-of-bones/chapter-eleven-recognition
 teaser: "Ducky had just finally fallen asleep when the rear flap of canvas on the back of my wagon snapped open."
-published: true
+published: false
 author-img: sarah-gailey.jpg
 author-bio: |
   Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Portland, Oregon. Their nonfiction has been published by _Mashable_ and the _Boston Globe_, and their fiction has been published internationally. They are a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to their work at [www.sarahgailey.com](http://www.sarahgailey.com). They tweet [@gaileyfrey](http://twitter.com/gaileyfrey).

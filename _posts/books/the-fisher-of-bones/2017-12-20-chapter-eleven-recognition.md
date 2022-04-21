@@ -12,7 +12,7 @@ previous-url: /the-fisher-of-bones/chapter-ten-nearness
 permalink: /the-fisher-of-bones/chapter-eleven-recognition
 next-url: /the-fisher-of-bones/chapter-twelve-arrival
 teaser: "I stared at the chest that contained the tablets. I couldn’t tear my eyes away from the water that rested in the divot on top of the chest."
-published: true
+published: false
 author-img: sarah-gailey.jpg
 author-bio: |
   Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Portland, Oregon. Their nonfiction has been published by _Mashable_ and the _Boston Globe_, and their fiction has been published internationally. They are a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to their work at [www.sarahgailey.com](http://www.sarahgailey.com). They tweet [@gaileyfrey](http://twitter.com/gaileyfrey).

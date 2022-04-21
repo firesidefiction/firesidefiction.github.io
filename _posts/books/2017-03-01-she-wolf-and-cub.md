@@ -5,7 +5,7 @@ author: Lilith Saintcrow
 date: 2017-03-01 12:01:00 -0500
 category: book
 permalink: book/she-wolf-and-cub
-published: true
+published: false
 length: novel
 serial-parts: 12
 cover: she-wolf-and-cub.jpg

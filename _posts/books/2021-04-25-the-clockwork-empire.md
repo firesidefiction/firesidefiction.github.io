@@ -2,7 +2,7 @@
 layout: book
 title: The Clockwork Empire
 author: Lucas J. W. Johnson
-date: 2021-04-06 01:01:00 -0500
+date: 2021-04-25 01:01:00 -0500
 category: book
 permalink: book/the-clockwork-empire
 published: false

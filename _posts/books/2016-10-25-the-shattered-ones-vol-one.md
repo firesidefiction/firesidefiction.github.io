@@ -5,7 +5,7 @@ author: Minerva Zimmerman
 date: 2016-06-13 12:01:00 -0500
 category: book
 permalink: book/the-shattered-ones-vol-one
-published: true
+published: false
 length: novel
 cover: the-shattered-ones-cover-image.jpg
 amazon: https://www.amazon.com/Shattered-Ones-Vol-Summer-Running/dp/098610406X/

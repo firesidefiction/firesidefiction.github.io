@@ -12,7 +12,7 @@ previous-url: /the-fisher-of-bones/chapter-two-cycle
 permalink: /the-fisher-of-bones/chapter-three-increase
 next-url: /the-fisher-of-bones/chapter-four-loss
 teaser: "“You should eat more.”"
-published: true
+published: false
 author-img: sarah-gailey.jpg
 author-bio: |
   Hugo and Campbell award finalist Sarah Gailey lives and works in beautiful Portland, Oregon. Their nonfiction has been published by _Mashable_ and the _Boston Globe_, and their fiction has been published internationally. They are a regular contributor for _Tor.com_ and _Barnes & Noble_. You can find links to their work at [www.sarahgailey.com](http://www.sarahgailey.com). They tweet [@gaileyfrey](http://twitter.com/gaileyfrey).
