@@ -15,8 +15,7 @@ nook: https://www.barnesandnoble.com/w/rattlesnake-wind-lilith-saintcrow/1129734
 goodreads: https://www.goodreads.com/book/show/42282452-rattlesnake-wind?from_search=true
 fireside: https://store.firesidefiction.com/products/rattlesnake-wind?variant=15669804662882
 printbook:
-author-bio: |
-  Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together.  
+author-bio: Lili Saintcrow was born in New Mexico (which probably explains everything, given the nuclear testing) and spent her childhood bouncing around the world as a military brat. She fell in love with writing in second grade and has done it obsessively ever since. She currently resides in the rainy Pacific Northwest with her children, dogs, cat, and assorted other strays, including a metric ton of books holding her house together.  
 ---
 
 ### Description
