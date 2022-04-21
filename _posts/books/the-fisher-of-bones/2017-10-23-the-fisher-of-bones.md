@@ -5,7 +5,7 @@ author: Sarah Gailey
 date: 2017-09-20 01:01:00 -0500
 category: book
 permalink: book/the-fisher-of-bones
-published: false
+published: true
 length: novellette
 serial-parts: 12
 cover: the-fisher-of-bones-cover-image.jpg
