@@ -16,4 +16,4 @@ short-name: steffi-walthall
 permalink: steffi-walthall
 bio-spanish:
 ---
-Steffi Walthall is a digital Virginia-based freelance illustrator who works in publishing and editorial spaces. She draws inspiration from history, sci-fi horror and the occasional video game. You can find more of her work at steffiwalthallart.com
+Steffi Walthall is a Virginia-based freelance digital illustrator who works in publishing and editorial spaces. She draws inspiration from history, science fiction, horror, and the occasional video game. You can find more of her work at steffiwalthallart.com.
