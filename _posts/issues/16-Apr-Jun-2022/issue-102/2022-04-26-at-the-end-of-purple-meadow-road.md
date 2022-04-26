@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: 
 generalnote:
-published: false
+published: true
 ---
 There is an arbor of wisteria. I tend it in the summer and sit underneath its naked branches in the fall. Lichen decorates the bench to the left, moss the bricks to the right.
 
