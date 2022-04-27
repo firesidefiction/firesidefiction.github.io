@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Fireside's Hugo-Eligible Works From 2021
-author: brian-h-white
+title:  Announcing _The Clockwork Empire_, a steampunk Rome novel by Lucas J.W. Johnson
+author: brian-j-white
 date:   2022-04-27 02:01:00 -0500
 category: announcement
 permalink: /announcing-the-clockwork-empire-a-steampunk-rome-novel-by-lucas-j-w-johnson
-teaser: "Nothing lasts forever, and sadly it's time to draw things to a close."
-published: false
+teaser: 
+published: true
 ---
 I am really stoked to announce that on June 28, Fireside will be publishing a new novel by Lucas J.W. Johnson: _The Clockwork Empire_. [_Publishers Weekly_ is calling it "a thrilling steampunk adventure."](https://www.publishersweekly.com/9781734154962) I'm calling it a labor of love — love for people on the margins, love for the LGBTQIA+ community, love for those who would stand in the way of fascism. And love for this story, set in a steampunk Roman Empire that never fell.
  
