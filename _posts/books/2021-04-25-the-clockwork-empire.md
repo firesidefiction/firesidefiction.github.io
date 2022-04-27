@@ -5,7 +5,7 @@ author: Lucas J. W. Johnson
 date: 2021-04-25 01:01:00 -0500
 category: book
 permalink: book/the-clockwork-empire
-published: false
+published: true
 length: novel
 cover: the-clockwork-empire.jpg
 amazon: https://www.amazon.com/Clockwork-Empire-Lucas-J-Johnson/dp/1734154969
