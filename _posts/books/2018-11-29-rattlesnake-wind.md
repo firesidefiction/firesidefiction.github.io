@@ -5,7 +5,7 @@ author: Lilith Saintcrow
 date: 2018-11-29 01:01:00 -0500
 category: book
 permalink: book/rattlesnake-wind
-published: true
+published: false
 length: novel
 cover: rattlesnake-wind.jpg
 amazon: https://www.amazon.com/Rattlesnake-Wind-Lilith-Saintcrow-ebook/dp/B07JCDZMP8/ref=sr_1_2?ie=UTF8&qid=1543499820&sr=8-2&keywords=Rattlesnake+Wind
