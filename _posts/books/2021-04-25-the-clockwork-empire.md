@@ -16,7 +16,6 @@ goodreads:
 fireside:
 printbook:
 author-bio:
-  
 ---
 
 ### Description
@@ -31,7 +30,7 @@ But smashing an authoritarian state is no simple fistfight in a taverna. Nor can
 
 "A thrilling steampunk adventure" with "ambitious worldbuilding. ... Fans of steampunk and alternate history will lap this up."
 
-—[Publishers Weekly](https://www.publishersweekly.com/978-1-73415-496-2)
+—_[Publishers Weekly](https://www.publishersweekly.com/978-1-73415-496-2)_
 
 ### About the Author
 
