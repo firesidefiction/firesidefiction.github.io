@@ -15,12 +15,8 @@ nook: https://www.barnesandnoble.com/w/the-clockwork-empire-lucas-jw-johnson/114
 goodreads:
 fireside:
 printbook:
-author-bio: |
-Lucas J. W. Johnson (he/him) is a writer, game designer, and entrepreneur. He is the author of several published short stories, and the Founder and Studio Director of Silverstring Media Inc., a narrative design studio working primarily in videogames.
-
-Lucas has experimented with interactive narratives, game design, and emergent storytelling for his whole life, writing stories and running tabletop roleplaying games since he was young. With Silverstring Media, he creates queer and feminist work that explores deep narratives, pushes the boundaries of what interactive experiences can be, and constructs vast and meaningful storyworlds. Diverse and queer stories are core to all of his writing. He has written several critically acclaimed and award-winning games, including _Glitchhikers_ (finalist for Best Indie Game of 2014 at the Canadian Videogame Awards), _Extrasolar_ (Indiecade finalist), and _Timespinner_. He’s spoken at conferences across North America about game and transmedia design, education, and business practices.
-
-Lucas lives with his husband and cats in Vancouver, BC. You can find him online at his website, [lucasjwjohnson.com](https://www.lucasjwjohnson.com/), and on Twitter as [@lucasjwjohnson](https://twitter.com/lucasjwjohnson).
+author-bio:
+  
 ---
 
 ### Description
@@ -36,3 +32,11 @@ But smashing an authoritarian state is no simple fistfight in a taverna. Nor can
 "A thrilling steampunk adventure" with "ambitious worldbuilding. ... Fans of steampunk and alternate history will lap this up."
 
 —[Publishers Weekly](https://www.publishersweekly.com/978-1-73415-496-2)
+
+### About the Author
+
+Lucas J. W. Johnson (he/him) is a writer, game designer, and entrepreneur. He is the author of several published short stories, and the Founder and Studio Director of Silverstring Media Inc., a narrative design studio working primarily in videogames.
+
+Lucas has experimented with interactive narratives, game design, and emergent storytelling for his whole life, writing stories and running tabletop roleplaying games since he was young. With Silverstring Media, he creates queer and feminist work that explores deep narratives, pushes the boundaries of what interactive experiences can be, and constructs vast and meaningful storyworlds. Diverse and queer stories are core to all of his writing. He has written several critically acclaimed and award-winning games, including _Glitchhikers_ (finalist for Best Indie Game of 2014 at the Canadian Videogame Awards), _Extrasolar_ (Indiecade finalist), and _Timespinner_. He’s spoken at conferences across North America about game and transmedia design, education, and business practices.
+
+Lucas lives with his husband and cats in Vancouver, BC. You can find him online at his website, [lucasjwjohnson.com](https://www.lucasjwjohnson.com/), and on Twitter as [@lucasjwjohnson](https://twitter.com/lucasjwjohnson).
