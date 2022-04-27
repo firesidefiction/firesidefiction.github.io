@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Announcing _The Clockwork Empire_, a steampunk Rome novel by Lucas J.W. Johnson
+title:  Announcing The Clockwork Empire, a steampunk Rome novel by Lucas J.W. Johnson
 author: brian-j-white
 date:   2022-04-27 02:01:00 -0500
 category: announcement
