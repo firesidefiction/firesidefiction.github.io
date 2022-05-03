@@ -10,7 +10,7 @@ role-3:
 title: Lucy Zhang — Work in Fireside
 description:
 twitter-handle: Dango_Ramen
-profile-pic: lucy-zhang.jpg
+profile-pic: lucy-zhang.png
 website-url: kowaretasekai.wordpress.com
 short-name: lucy-zhang
 permalink: lucy-zhang
