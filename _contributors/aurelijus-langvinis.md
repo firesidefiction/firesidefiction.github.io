@@ -2,13 +2,13 @@
 layout: contributor-profile
 credit-name: Aurelijus Langvinis
 first-name: Aurelijus
-last-name: Langvinis 
+last-name: Langvinis
 file-as: l
-role: Illustrator
+role: illustrator
 role-2:
 role-3:
 title: Aurelijus Langvinis — Work in Fireside
-description: 
+description:
 twitter-handle:
 profile-pic: aurelijus-langvinis.jpg
 website-url: http://langvinis.com
