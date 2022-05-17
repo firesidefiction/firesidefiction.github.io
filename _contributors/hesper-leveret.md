@@ -11,7 +11,7 @@ title: Hesper Leveret — Work in Fireside
 description:
 twitter-handle: hesperleveret
 profile-pic: hesper-leveret.jpg
-website-url:
+website-url: medium.com/@hesperleveret
 short-name: hesper-leveret
 permalink: hesper-leveret
 ---

@@ -11,7 +11,7 @@ title: Grace Chan — Work in Fireside
 description:
 twitter-handle: gracechanwrites
 profile-pic: grace-chan.jpg
-website-url:
+website-url: gracechanwrites.com
 short-name: grace-chan
 permalink: grace-chan
 ---

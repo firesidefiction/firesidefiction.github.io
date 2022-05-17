@@ -11,7 +11,7 @@ title: Ellen Meny — Work in Fireside
 description:
 twitter-handle: ellenmeny
 profile-pic: ellen-meny.jpg
-website-url: www.ellenmeny.com
+website-url: ellenmeny.com
 short-name: ellen-meny
 permalink: ellen-meny
 ---

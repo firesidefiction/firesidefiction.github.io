@@ -9,8 +9,8 @@ role-2:
 role-3:
 title: Lindsay King-Miller — Work in Fireside
 description:
-twitter-handle: 
-profile-pic: 
+twitter-handle: AskAQueerChick
+profile-pic:
 website-url:
 short-name: lindsay-king-miller
 permalink: lindsay-king-miller

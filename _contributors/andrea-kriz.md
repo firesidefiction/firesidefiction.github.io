@@ -10,8 +10,8 @@ role-3:
 title: Andrea Kriz — Work in Fireside
 description:
 twitter-handle: theworldshesaw
-profile-pic: 
-website-url:
+profile-pic:
+website-url: andreakriz.wordpress.com
 short-name: andrea-kriz
 permalink: andrea-kriz
 ---

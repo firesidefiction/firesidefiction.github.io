@@ -11,7 +11,7 @@ title: Gillian Secord — Work in Fireside
 description:
 twitter-handle: gilliansecord
 profile-pic: gillian-secord.jpg
-website-url: http://gilliansecord.wordpress.com
+website-url: gilliansecord.wordpress.com
 short-name: gillian-secord
 permalink: gillian-secord
 ---

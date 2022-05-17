@@ -10,8 +10,8 @@ role-3:
 title: Betsy Aoki — Work in Fireside
 description:
 twitter-handle: baoki
-profile-pic: 
-website-url: http://betsyaoki.com/
+profile-pic:
+website-url: betsyaoki.com
 short-name: betsy-aoki
 permalink: betsy-aoki
 ---

@@ -9,9 +9,9 @@ role-2:
 role-3:
 title: Jessica Cho — Work in Fireside
 description: Author
-twitter-handle:
+twitter-handle: wordsbycho
 profile-pic: jessica-cho.jpg
-website-url:
+website-url: semiwellversed.wordpress.com
 short-name: jessica-cho
 permalink: jessica-cho
 bio-spanish:

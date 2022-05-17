@@ -8,10 +8,10 @@ role: Author
 role-2:
 role-3:
 title: Katherine Quevedo — Work in Fireside
-description: 
-twitter-handle: 
+description:
+twitter-handle:
 profile-pic: katherine-quevedo.jpg
-website-url:
+website-url: katherinequevedo.com
 short-name: katherine-quevedo
 permalink: katherine-quevedo
 bio-spanish:

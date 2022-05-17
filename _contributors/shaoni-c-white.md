@@ -8,10 +8,10 @@ role: Author
 role-2:
 role-3:
 title: Shaoni C. White — Work in Fireside
-description: 
+description:
 twitter-handle: shaonicwhite
 profile-pic: headshot_white.jpg
-website-url: http://shaonicwhite.com
+website-url: shaonicwhite.com
 short-name: shaoni-c-white
 permalink: shaoni-c-white
 ---
