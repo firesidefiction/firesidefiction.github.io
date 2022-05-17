@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: 
 generalnote:
-published: false
+published: true
 ---
 "She is sorry, you know." My great-aunt (married to great-uncle number three) reaches for the paring knife, a yellow mango already in her left hand. Her voice is casual, but her shoulders are tense beneath her silk blouse. She doesn't look at me.
 
