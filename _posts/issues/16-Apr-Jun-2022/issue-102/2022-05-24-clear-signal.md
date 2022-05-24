@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: 
 generalnote:
-published: false
+published: true
 ---
 Station is singing on the all-hail when I come out of shadow. The radio is bad, this far out, with the geiger from the rocks cutting through xyr voice, but I can always hear enough to know. That's why xe does it. Nothing else sounds like xyr voice, not geiger, not cross-chat, not even any of the other Stations that take turns reminding us worker bees that there's an order and a pattern to things.
 
