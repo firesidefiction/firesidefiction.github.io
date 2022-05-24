@@ -10,7 +10,7 @@ author: julian-stuart
 author-2:
 author-3:
 editor: hal-y-zhang
-illustrator: 
+illustrator:
 copyeditor: chelle-parker
 selector:
 translator:
@@ -21,7 +21,7 @@ date: 2022-05-24 05:00:01 -0500
 permalink: clear-signal
 audiourl:
 teaser:
-art: 
+art:
 artcaption:
 spanish-language:
 spanish-date:
@@ -32,7 +32,7 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote: 
+contentnote:
 generalnote:
 published: true
 ---
@@ -174,7 +174,7 @@ Another burst of static, too short to parse.
 
 And then one of the dark spots drifts too close and bursts, wet and red, across the front of my suit. Even in the eerie blue glow of my instrument panels, I know what it means.
 
-I can't stop the animal whimper that squeezes out from between my gritted teeth. 
+I can't stop the animal whimper that squeezes out from between my gritted teeth.
 
 Most ways to die in space are fast, so fast you don't even know. Or so slow you have time to say your goodbyes. Why did I have to pull a way that was too short to be any use, but just long enough to hurt? God, it hurts—
 
@@ -202,7 +202,7 @@ The same one xe sings to me, the one I could never sing back to xyr any other wa
 
 The pain's getting distant. The song's fading too. I know it's not the battery.
 
-I let my eyes close, and the whole universe drifts away. 
+I let my eyes close, and the whole universe drifts away.
 
 And then — sudden, brilliant light, like some cosmic eyelid opened and I'm looking straight into the sun.
 Is this the afterlife? I can't have been that good—
@@ -218,6 +218,7 @@ The air smells like clean machine oil, and for one crazed moment, I wonder if th
 "Station," I whisper.
 
 "We got your ship grappled," the voice says, and a friendly brown face floats into my field of vision. "Hold on, okay? We're getting you back. Xe made me promise."
+
 "Xe… did?"
 
 "On my life," my rescuer says cheerfully. "You wanna ask xyr?" They thumb their throat mic. "Station, this is 6384, I got 3521, they're here— Of course." Then they pull their headset off, lay the mic band over my throat, and fit the bud into my ear.
