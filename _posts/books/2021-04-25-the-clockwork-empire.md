@@ -12,9 +12,9 @@ amazon: https://www.amazon.com/Clockwork-Empire-Lucas-J-Johnson/dp/1734154969
 ibooks: https://books.apple.com/us/book/id1618829343
 kobo: https://www.kobo.com/us/en/ebook/the-clockwork-empire
 nook: https://www.barnesandnoble.com/w/the-clockwork-empire-lucas-jw-johnson/1141346732
-goodreads:
+goodreads: https://www.goodreads.com/book/show/61090024-the-clockwork-empire
 fireside:
-printbook:
+printbook: https://www.indiebound.org/book/9781734154962
 author-bio:
 ---
 
@@ -31,6 +31,11 @@ But smashing an authoritarian state is no simple fistfight in a taverna. Nor can
 "A thrilling steampunk adventure" with "ambitious worldbuilding. ... Fans of steampunk and alternate history will lap this up."
 
 —_[Publishers Weekly](https://www.publishersweekly.com/978-1-73415-496-2)_
+
+"If you’re looking for queer characters fighting fascism in a steampunk world, The Clockwork Empire is perfect."
+
+—_[Geek Girl Authority](https://www.geekgirlauthority.com/the-clockwork-empire-book-review/)_
+
 
 ### About the Author
 
