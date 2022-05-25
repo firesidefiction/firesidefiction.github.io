@@ -13,8 +13,8 @@ ibooks: https://books.apple.com/us/book/id1618829343
 kobo: https://www.kobo.com/us/en/ebook/the-clockwork-empire
 nook: https://www.barnesandnoble.com/w/the-clockwork-empire-lucas-jw-johnson/1141346732
 goodreads: https://www.goodreads.com/book/show/61090024-the-clockwork-empire
-fireside:
-printbook: https://www.indiebound.org/book/9781734154962
+fireside: https://www.indiebound.org/book/9781734154962
+printbook:
 author-bio:
 ---
 
