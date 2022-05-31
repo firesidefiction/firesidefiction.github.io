@@ -4,7 +4,7 @@ category: short story
 issue: 102, Spring 2022
 issue-cover: issue-102-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-102-spring-2022
-title: As Though I Were A Little Star
+title: As Though I Were A Little Sun
 subtitle:
 author: grace-chan
 author-2:
