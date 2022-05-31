@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to the sexual exploitation of a minor.
 generalnote:
-published: false
+published: true
 ---
 It has been one hundred and thirteen years since our mother's pear and red date soup slid along my tongue, and now I taste only the sweetness of soil and rot, percolating through my roots. It's not the same. It will never be the same. Nostalgia pulses, insistent and migrainous, under my skin.
 
