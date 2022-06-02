@@ -4,7 +4,7 @@ category: short story
 issue: 102, Spring 2022
 issue-cover: issue-102-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-102-spring-2022
-title: As Though I Were A Little Star
+title: As Though I Were A Little Sun
 subtitle:
 author: grace-chan
 author-2:
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains references to the sexual exploitation of a minor.
 generalnote:
-published: false
+published: true
 ---
 It has been one hundred and thirteen years since our mother's pear and red date soup slid along my tongue, and now I taste only the sweetness of soil and rot, percolating through my roots. It's not the same. It will never be the same. Nostalgia pulses, insistent and migrainous, under my skin.
 
