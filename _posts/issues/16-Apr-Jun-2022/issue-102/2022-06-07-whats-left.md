@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: 
 generalnote:
-published: false
+published: true
 ---
 There's a house on my street 
 
