@@ -92,8 +92,8 @@ the past on its back, its future in soil.
 
 Sometimes, a spider dangles from a rotting beam,
 
-its own chandelier, and I think, _Yes, _
+its own chandelier, and I think, _Yes,_
 
-_you too can siphon a statement, though I won't understand. 
+_you too can siphon a statement, though I won't understand._ 
 
 _You too, stranger, are ambient._
