@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 
-date: 2022-06-14 05:00:01 -0500
+date: 2022-06-14 01:00:01 -0500
 permalink: a-guide-to-exploring-abandoned-gold-mines
 audiourl:
 teaser:
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: 
 generalnote:
-published: false
+published: true
 ---
 
 Do not bring a flashlight. 
