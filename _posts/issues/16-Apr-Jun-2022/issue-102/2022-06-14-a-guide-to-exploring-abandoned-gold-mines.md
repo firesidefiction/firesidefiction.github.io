@@ -10,18 +10,18 @@ author: calley-odum
 author-2:
 author-3:
 editor: hal-y-zhang
-illustrator: 
+illustrator:
 copyeditor: chelle-parker
 selector:
 translator:
 narrator:
 letterer:
-word-count: 
-date: 2022-06-14 00:00:01 -0500
+word-count:
+date: 2022-06-13 00:00:01 -0500
 permalink: a-guide-to-exploring-abandoned-gold-mines
 audiourl:
 teaser:
-art: 
+art:
 artcaption:
 spanish-language:
 spanish-date:
@@ -32,12 +32,12 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote: 
+contentnote:
 generalnote:
 published: true
 ---
 
-Do not bring a flashlight. 
+Do not bring a flashlight.
 
 ---
 
