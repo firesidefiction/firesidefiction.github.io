@@ -1,9 +1,9 @@
 ---
 layout: story
 category: short story
-issue: 103, Summer 2022
-issue-cover: issue-103-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-103-summer-2022
+issue: 102, Spring 2022
+issue-cover: issue-102-cover.png
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-102-spring-2022
 title: Taming the Land
 subtitle:
 author: aaron-emmel
