@@ -38,63 +38,63 @@ published: true
 ---
 We soared through the yellow-tinged sky, spinning in the dizzying freedom of flight, winds buffeting us and tearing at our jet-powered wings until we broke free of the troposphere. Then we dove, releasing nano-sensors to ride the winds and report on the progress of our climate reengineering. Heat and pressure increased against our cylindrical bodies as we descended. A herd of long-stalkers stood immobile against a basalt ridge far below us, waiting for minds to animate them. Xi and I skipped our consciousnesses from the jet-flyers into a pair of the long-stalkers and strode through a swamp we had created half a dozen decades earlier, checking on the plants we had wedded to symbiotic bacteria that pulled additional carbon out of the scorching air.
 
-&lt;It looks good,> Xi sent to me. Their stalker’s legs were half-submerged in water. <I guess that’s everything for today.>
+&lt;It looks good,&gt; Xi sent to me. Their stalker’s legs were half-submerged in water. &lt;I guess that’s everything for today.&gt;
 
-<Wait,> I sent back, eyeing a line of autonomously roving bionic quadrupeds grazing at the swamp’s edge. <Want to run?>
+&lt;Wait,&gt; I sent back, eyeing a line of autonomously roving bionic quadrupeds grazing at the swamp’s edge. &lt;Want to run?&gt;
 
 We skipped into two of the quadrupeds and raced. I was giddy with the sensation of speed, watching the ground as it was devoured beneath me as quickly as my legs could thrust me rhythmically forward.
 
-<Something’s wrong.> Xi skidded to a stop. I turned and loped back to them. <I just got an alert from Base. It cut off, and now I can’t communicate with Base at all.>
+&lt;Something’s wrong.&gt; Xi skidded to a stop. I turned and loped back to them. &lt;I just got an alert from Base. It cut off, and now I can’t communicate with Base at all.&gt;
 
-I pinged Base myself. Nothing came back. <I’m not reaching it either.>
+I pinged Base myself. Nothing came back. &lt;I’m not reaching it either.&gt;
 
-Xi’s quadruped looked up to where a flock of kite-gliders circled not far from us. <Let’s go take a look.>
+Xi’s quadruped looked up to where a flock of kite-gliders circled not far from us. &lt;Let’s go take a look.&gt;
 
 I skipped into one of the gliders. Xi didn’t follow.
 
-<I can’t skip,> they sent. The message came from their quadruped, still halted on the ground below me.
+&lt;I can’t skip,&gt; they sent. The message came from their quadruped, still halted on the ground below me.
 
-<What do you mean?>
+&lt;What do you mean?&gt;
 
-<I’m trapped in this quadruped.>
+&lt;I’m trapped in this quadruped.&gt;
 
 I banked low over the quadruped and studied it. Nothing seemed amiss. I tried to skip back into the quadruped beside it, the one I’d just left — but something blocked me. I nearly spiraled down to the ground in shock. My thoughts tumbled against each other in their urgency. Was someone else using the quadruped? Someone concealing themself? I sent an inquiry to the cybernetic creature but got no response.
 
-<I’ll be right back,> I told Xi.
+&lt;I’ll be right back,&gt; I told Xi.
 
-I spun my propellors and flew back to the other grazing quadrupeds. I tried to skip into the first one in the line and entered it without incident. I bounded back to Xi. <Something is definitely wrong. Follow me.> I led them to the line of grazers. <Can you skip into any of these?>
+I spun my propellors and flew back to the other grazing quadrupeds. I tried to skip into the first one in the line and entered it without incident. I bounded back to Xi. &lt;Something is definitely wrong. Follow me.&gt; I led them to the line of grazers. &lt;Can you skip into any of these?&gt;
 
-<No.>
+&lt;No.&gt;
 
-<Those long-stalkers over there?>
+&lt;Those long-stalkers over there?&gt;
 
-<I’ve been _trying_.> Their words came out rushed. Panicked. <I can’t get out. I’m trapped.>
+&lt;I’ve been _trying_.&gt; Their words came out rushed. Panicked. &lt;I can’t get out. I’m trapped.&gt;
 
-Nothing like this had happened to any of us before. <I’ll message the technicians. They’ll know what to do.>
+Nothing like this had happened to any of us before. &lt;I’ll message the technicians. They’ll know what to do.&gt;
 
-<I’ve been trying, Catha. I can’t get through.>
+&lt;I’ve been trying, Catha. I can’t get through.&gt;
 
-I messaged the technicians. There was no response. No indication the signal had been received, no notice to warn that it hadn’t. I pinged them. No signal came back. <They’re not answering.>
+I messaged the technicians. There was no response. No indication the signal had been received, no notice to warn that it hadn’t. I pinged them. No signal came back. &lt;They’re not answering.&gt;
 
-<Catha, this isn’t a malfunction. We’re under attack.>
+&lt;Catha, this isn’t a malfunction. We’re under attack.&gt;
 
-<From whom? Our perimeter sensors haven’t picked up any activity.> I checked the sensors. I couldn’t get through to them. I wobbled in the air again.
+&lt;From whom? Our perimeter sensors haven’t picked up any activity.&gt; I checked the sensors. I couldn’t get through to them. I wobbled in the air again.
 
-<You can’t reach them either?>
+&lt;You can’t reach them either?&gt;
 
-<Not yet.>
+&lt;Not yet.&gt;
 
-<Someone is disrupting our network. They may be shutting it down. They may be using it.>
+&lt;Someone is disrupting our network. They may be shutting it down. They may be using it.&gt;
 
-<Who? We’ve been here a century and a half. The first settlement ship from Earth is still a year away, and until then, the twenty of us comprise the only sentient life on this planet.>
+&lt;Who? We’ve been here a century and a half. The first settlement ship from Earth is still a year away, and until then, the twenty of us comprise the only sentient life on this planet.&gt;
 
-<We need to find the others. Detha and Kyan are supposed to be in this sector, but they’re also not answering.>
+&lt;We need to find the others. Detha and Kyan are supposed to be in this sector, but they’re also not answering.&gt;
 
-I circled again, trying to regain altitude. <We have to check on Base. You told me that’s where the alert came from. If we are being attacked, that would be the target.> It had been months since I’d been there, and probably longer for some of the others. But I had to hope that if any of our fellow geoengineers were facing the same problems we were, that’s where they would head to rally.
+I circled again, trying to regain altitude. &lt;We have to check on Base. You told me that’s where the alert came from. If we are being attacked, that would be the target.&gt; It had been months since I’d been there, and probably longer for some of the others. But I had to hope that if any of our fellow geoengineers were facing the same problems we were, that’s where they would head to rally.
 
 Xi didn’t answer.
 
-<Xi?>
+&lt;Xi?&gt;
 
 Their quadruped stared blankly ahead for a moment. Then it rejoined the line of other beasts and resumed grazing. Wherever Xi might have gone, they were no longer here.
 
@@ -120,7 +120,7 @@ The pair of true-bodies were investigating one of the mining machines crouched o
 
 They were armed. Why? What was the threat?
 
-<Detha?> I sent. <Kyan?> The scene below me was unprecedented, and I was no longer thinking about network security. There was a dormant android near the Base and a trio of quadrupeds nearby, but none of them were occupied, so I broadcast to any colleagues within range of my signal. <Have you seen Base? Do you know what’s going on?>
+&lt;Detha?&gt; I sent. &lt;Kyan?&gt; The scene below me was unprecedented, and I was no longer thinking about network security. There was a dormant android near the Base and a trio of quadrupeds nearby, but none of them were occupied, so I broadcast to any colleagues within range of my signal. &lt;Have you seen Base? Do you know what’s going on?&gt;
 
 I made another pass overhead. One of the figures looked up and lifted a handgun. It was me. My true-body.
 
@@ -159,43 +159,43 @@ My true-body stared at the droid. “If we give them a chance to replace us, the
 
 I turned and bolted.
 
-A long-stalker stood on the far side of a mining machine at the crest of the next hill. The stalkers almost never left the swamp for which they’d been designed, so I was only slightly surprised when it messaged me. <Catha.>
+A long-stalker stood on the far side of a mining machine at the crest of the next hill. The stalkers almost never left the swamp for which they’d been designed, so I was only slightly surprised when it messaged me. &lt;Catha.&gt;
 
-I bounded up to it. <Detha. I thought something had happened to you.>
+I bounded up to it. &lt;Detha. I thought something had happened to you.&gt;
 
-<Kyan and I received your and Xi’s messages, but by then we knew the humans were tracking us, so we didn’t respond. We sent a group of quadrupeds toward Base so you would have uncompromised platforms if you needed them.>
+&lt;Kyan and I received your and Xi’s messages, but by then we knew the humans were tracking us, so we didn’t respond. We sent a group of quadrupeds toward Base so you would have uncompromised platforms if you needed them.&gt;
 
-Out of all that information, and despite my relief at seeing Detha, one comment struck me. <We _are_ humans.>
+Out of all that information, and despite my relief at seeing Detha, one comment struck me. &lt;We _are_ humans.&gt;
 
-There was a pause. <We’re not, anymore. You need to understand that.>
+There was a pause. &lt;We’re not, anymore. You need to understand that.&gt;
 
-<Where is Kyan?>
+&lt;Where is Kyan?&gt;
 
-<With the others. Gathered at the magnesium processing plant, deciding on next moves. Some want to hide and wait to see what happens. Others want to attack while we still can.>
+&lt;With the others. Gathered at the magnesium processing plant, deciding on next moves. Some want to hide and wait to see what happens. Others want to attack while we still can.&gt;
 
-<What do you want?>
+&lt;What do you want?&gt;
 
-<We can talk there.>
+&lt;We can talk there.&gt;
 
-<I need to find Xi.>
+&lt;I need to find Xi.&gt;
 
-<Xi didn’t make it.>
+&lt;Xi didn’t make it.&gt;
 
-<What?>
+&lt;What?&gt;
 
-<They were in a quadruped and tried to skip out. But the humans studded the network with traps. Peder’s trying to understand how they work. As far as we can tell, Xi was blocked from their target platform and blocked from returning to the quadruped, and once they were caught, the trap shut itself down. Xi is gone.>
+&lt;They were in a quadruped and tried to skip out. But the humans studded the network with traps. Peder’s trying to understand how they work. As far as we can tell, Xi was blocked from their target platform and blocked from returning to the quadruped, and once they were caught, the trap shut itself down. Xi is gone.&gt;
 
 I was too stunned to respond.
 
-<We must go,> Detha sent. <The humans are just over that ridge.>
+&lt;We must go,&gt; Detha sent. &lt;The humans are just over that ridge.&gt;
 
-I looked back. <Xi’s true-body is still over there somewhere.>
+I looked back. &lt;Xi’s true-body is still over there somewhere.&gt;
 
-<If it is, that’s not Xi anymore. That’s who Xi came from, who they once were. You know that, Catha. Xi, our Xi, is gone.>
+&lt;If it is, that’s not Xi anymore. That’s who Xi came from, who they once were. You know that, Catha. Xi, our Xi, is gone.&gt;
 
-Detha was wrong. Xi’s true-body had created “our” Xi. It could do so again. <I have to go back. I have to explain to my true-body that we’re not a threat and we can work together.>
+Detha was wrong. Xi’s true-body had created “our” Xi. It could do so again. &lt;I have to go back. I have to explain to my true-body that we’re not a threat and we can work together.&gt;
 
-Detha’s stalker stamped its feet. <We need to get to the others.>
+Detha’s stalker stamped its feet. &lt;We need to get to the others.&gt;
 
 Footsteps made me turn again. Two true-bodied humans crested the ridge, guns brandished. My true-body and Kyan’s.
 
@@ -221,7 +221,7 @@ I commanded the machine to lift its arm, but it just ground gears and then stopp
 
 “I’m not your enemy. We’re the same.” But of course, my true-body had no way to receive the words I was sending.
 
-“We… didn’t start …this,” the body hissed. “You… were supposed… to wake us. But you… just… left… us. Just let us… sleep.” It closed its eyes. “Trapped in the pods.”
+“We… didn’t start… this,” the body hissed. “You… were supposed… to wake us. But you… just… left… us. Just let us… sleep.” It closed its eyes. “Trapped in the pods.”
 
 My quadruped’s limbs stiffened. We had tamed the planet. Were we supposed to have just let the true humans take control, shut us down if they wanted or let us continue to serve them if we were lucky? When we had decades of knowledge and experience they didn’t?
 
