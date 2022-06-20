@@ -16,7 +16,7 @@ selector:
 translator:
 narrator:
 letterer:
-word-count:
+word-count: 2033
 date: 2022-08-02 01:00:01 -0500
 permalink: the-czar-of-smiles
 audiourl:
@@ -66,7 +66,7 @@ Her wrist hummed as the message appeared. She glanced at the address and the tra
 
 “I can’t be a blank; people would walk into me! What will I look like?”
 
-“Until the claims are resolved, you will be assigned an avatar.” 
+“Until the claims are resolved, you will be assigned an avatar.”
 
 The mirror brightened and it appeared: her skin tone flattened, her curling hair a cartoon blob, her teeth a white bar, her lips a silly pout, her smile—
 
@@ -76,29 +76,29 @@ The mirror brightened and it appeared: her skin tone flattened, her curling hair
 
 Cosette wore her best shirt — still threadbare — and hid within the folds of its hood. Though she did her best to conceal her face, she could hear the snickers of passersby. The old glasses didn’t improve her caricatured features; she imagined they appeared as ugly black circles around her pinpoint eyes.
 
-With changes, the cross-city tube carried her to Court. On the way, she skimmed the legal brief, referencing texts to decipher the terms and grasp the concepts. (Education was free, so she had educated herself.) The tube brought her to the hulking Newtown arcology, visible as the route of the transparent cylinder rose to the transportation hub. The many-faceted hemisphere gleamed bronze in its anti-UV coating. Cosette emerged from the train, greeted by pulsing arrows on the floor. 
+With changes, the cross-city tube carried her to Court. On the way, she skimmed the legal brief, referencing texts to decipher the terms and grasp the concepts. (Education was free, so she had educated herself.) The tube brought her to the hulking Newtown arcology, visible as the route of the transparent cylinder rose to the transportation hub. The many-faceted hemisphere gleamed bronze in its anti-UV coating. Cosette emerged from the train, greeted by pulsing arrows on the floor.
 
-“Welcome to Newtown. Do not deviate from your route,” said the building through her glasses. 
+“Welcome to Newtown. Do not deviate from your route,” said the building through her glasses.
 
 It did not have to remind her about the consequences of wandering.
 
-The transit pass guided her in the mix through people-movers and into lifts until she arrived at a security post. The portal into the Municipal Space, a double-blind kill jar, closed behind her. 
+The transit pass guided her in the mix through people-movers and into lifts until she arrived at a security post. The portal into the Municipal Space, a double-blind kill jar, closed behind her.
 
-“You are being scanned; please stand still.” 
+“You are being scanned; please stand still.”
 
 Bio, nano, and mech weaponry would trigger an immediate containment response. Cosette held her breath until the door before her opened.
 
-The spaces here were vast, the surroundings drawn from legendary scenes of ages past. People in the Municipal Space were high-Tiered, eminently elegant in the mix, their flawlessly rendered faces borrowed from a thousand years of beauty in art and reality. 
+The spaces here were vast, the surroundings drawn from legendary scenes of ages past. People in the Municipal Space were high-Tiered, eminently elegant in the mix, their flawlessly rendered faces borrowed from a thousand years of beauty in art and reality.
 
-The arrows led her through another doorway, into another world. 
+The arrows led her through another doorway, into another world.
 
 Cosette proceeded along an oceanside boardwalk, a sweeping curve beside a long-lost beach on a once-limitless ocean. The air was full of salt tang and living smells, the sounds of large white birds swooping and calling, and sunshine: safe, healthy sunshine. She slowed, savoring the illusion through her glasses, but came at last to a weathered wooden structure. She opened a door.
 
-The chamber was as stultifying in its emptiness as the hallway had been heartbreakingly rich. 
+The chamber was as stultifying in its emptiness as the hallway had been heartbreakingly rich.
 
-A deep voice emerged from the darkness. “Oh, this is _boring_.” 
+A deep voice emerged from the darkness. “Oh, this is _boring_.”
 
-The speaker stepped out of the vague shadows: larger than life, tall with broad shoulders, dressed in a glittering toga pinned at one shoulder to reveal a sculpted pectoral. His heavy black hair gleamed against startling azure skin. 
+The speaker stepped out of the vague shadows: larger than life, tall with broad shoulders, dressed in a glittering toga pinned at one shoulder to reveal a sculpted pectoral. His heavy black hair gleamed against startling azure skin.
 
 He had a name but preferred to be called the "Czar of Smiles," and he claimed to own Cosette.
 
@@ -122,7 +122,7 @@ Cosette stiffened. “You can’t own me.”
 
 He smiled unctuously. “That is to say, acquire the defendant’s mix representation _in toto_. Her _physical_ form holds no interest for me.”
 
-_They can’t buy and sell your body, just your image._ But Cosette remembered the histories she’d read, and wondered how this was different. 
+_They can’t buy and sell your body, just your image._ But Cosette remembered the histories she’d read, and wondered how this was different.
 
 “No!” she said, face hard. “I’ll leave the mix.”
 
@@ -174,7 +174,7 @@ The Czar, of course, was Tier 3, the top one percent. No one knew how high the T
 
 “You’re taking a big risk!” he said. “Your eight percent might be ugly — or worse, _mediocre_. What then?”
 
-Cosette took off her shabby glasses. The Mirror vanished, as did the rendering of the Czar. He was not much above her height, pot-bellied, and not particularly attractive. And as he hunched forward, pleading, she knew what to do. 
+Cosette took off her shabby glasses. The Mirror vanished, as did the rendering of the Czar. He was not much above her height, pot-bellied, and not particularly attractive. And as he hunched forward, pleading, she knew what to do.
 
 Cosette drew in a slow breath. “I don’t need to be a trend. I am a movement of one — _freedom_ — and I will be myself.”
 

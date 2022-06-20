@@ -16,7 +16,7 @@ selector:
 translator:
 narrator:
 letterer:
-word-count:
+word-count: 1763
 date: 2022-08-30 01:00:01 -0500
 permalink: the-day-i-became-poseidon
 audiourl:
@@ -32,7 +32,7 @@ serial-url:
 part:
 previous-url:
 next-url:
-contentnote: 
+contentnote:
 generalnote:
 published: false
 ---
@@ -78,15 +78,15 @@ Graham and Delilah put down their drinks to peer at me like I was some fascinati
 
 So my tagine tasted like sawdust with raisins, and I was fixating on that drink of water like I was crawling through the Sahara, not stuck in a pretentious flat in Stoke. I was staring at the glass and crystal and porcelain twinkling in the light of all those bastard candles, and all at once and don’t ask me how, my head swam and I was seeing sunlight glinting off the ocean.
 
-The sun’s a jewel in an immense azure sky. The slosh and glug of the waves is peaceful, and I’m rising into the air, buoyant as a gull. The stiff breeze is tugging at my hair, and the water’s open stare is oh-so-inviting. So I take the plunge. 
+The sun’s a jewel in an immense azure sky. The slosh and glug of the waves is peaceful, and I’m rising into the air, buoyant as a gull. The stiff breeze is tugging at my hair, and the water’s open stare is oh-so-inviting. So I take the plunge.
 
 I let it engulf me.
 
-Below the surface, the water’s cold as stone; the diffused light on my skin is achingly beautiful. I raise my arms, point my toes and let myself sink. Ripples dance fluid patterns into the dark. The silence is like an embrace. The air in my chest strains for release; my pulse booms. I laugh, unleashing a thrill of bubbles that spin away, jostling for the surface. I know I should follow, swim for that dwindling patch of sunlight, but I can’t because I’ve got this sudden, wild urge to take a breath. 
+Below the surface, the water’s cold as stone; the diffused light on my skin is achingly beautiful. I raise my arms, point my toes and let myself sink. Ripples dance fluid patterns into the dark. The silence is like an embrace. The air in my chest strains for release; my pulse booms. I laugh, unleashing a thrill of bubbles that spin away, jostling for the surface. I know I should follow, swim for that dwindling patch of sunlight, but I can’t because I’ve got this sudden, wild urge to take a breath.
 
 The water slams my lungs like an icy fist and spills livid through my chest, my limbs, my mind. My pulse pounds in my ears, and with each beat I swell bigger, until my distended feet graze the ocean floor and I can’t tell where I end and the water begins and we’re so vast, so powerful—
 
-Debra’s elbow against my ribs brought me back to the room. “World of her own!” 
+Debra’s elbow against my ribs brought me back to the room. “World of her own!”
 
 They were all staring at me with their sweaty faces — some smirking. Spilled Chardonnay warmed sticky on my hand, dripping a maroon shadow on the tablecloth.
 

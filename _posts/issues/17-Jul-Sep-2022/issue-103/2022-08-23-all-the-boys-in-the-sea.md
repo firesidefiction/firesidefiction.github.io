@@ -16,7 +16,7 @@ selector:
 translator:
 narrator:
 letterer:
-word-count:
+word-count: 1926
 date: 2022-08-23 01:00:01 -0500
 permalink: all-the-boys-in-the-sea
 audiourl:
@@ -77,7 +77,7 @@ I raised my head in a sudden dizzying rush, finding five men fore and aft in var
 
 The man in front of me must have heard my gasp, for he twisted on the thwart. His oar paused in the air, saltwater droplets sparkling in the sunlight like gems gifted from the spirits.
 
-Then I was looking up into Toma's face, his lips set in a hard, unfamiliar line. I thought I dreamed him, pooling him together from water-logged hopes. I reached for him, worried he might dissipate, and his eyes softened, as if he were made of memory and reflections. Then he paused in his rowing to grip my shaking hand, his skin firm and real and hot. 
+Then I was looking up into Toma's face, his lips set in a hard, unfamiliar line. I thought I dreamed him, pooling him together from water-logged hopes. I reached for him, worried he might dissipate, and his eyes softened, as if he were made of memory and reflections. Then he paused in his rowing to grip my shaking hand, his skin firm and real and hot.
 
 “Didn't think they'd throw us both away."
 
@@ -93,7 +93,7 @@ Toma walked me through their sparse island home. The dock was thin. Their homes 
 
 "The other boys." The boys that must have been saved before him. Before me. All the ones I would recognize from the last few years.
 
-Toma shook his head. "The ocean's a big place." 
+Toma shook his head. "The ocean's a big place."
 
 He told me to sleep. Told me not to worry. I could only do one of those things, so I closed my eyes.
 

@@ -16,7 +16,7 @@ selector:
 translator:
 narrator:
 letterer:
-word-count:
+word-count: 2037
 date: 2022-08-09 01:00:01 -0500
 permalink: papa-legba-has-entered-the-chat
 audiourl:
@@ -79,7 +79,7 @@ You tried, too. To belong. To be blind. Leaving your Kaepernick jersey in the cl
 
 Truly. You went through it for me.
 
-Your eyes slide away from the chat and back to the scene, wasting time. Two hours, pacing and muttering when you have a real means to invoke change (of a sort). Why not give in? You know their ways better than you know yourself. Not one pebble is out of place on this block. You even uncover evidence the arresting officers didn’t need to plant — a dime sack. Three months away from legalization. Un-goddamn-believable. And still you linger, denying the lesson you’ve learned better than most: 
+Your eyes slide away from the chat and back to the scene, wasting time. Two hours, pacing and muttering when you have a real means to invoke change (of a sort). Why not give in? You know their ways better than you know yourself. Not one pebble is out of place on this block. You even uncover evidence the arresting officers didn’t need to plant — a dime sack. Three months away from legalization. Un-goddamn-believable. And still you linger, denying the lesson you’ve learned better than most:
 
 You will never find justice here.
 
@@ -138,11 +138,11 @@ Halfway to your car, a ground-level spotlight steals your night vision. Your han
 
 They already are.
 
-Two silhouettes snake out of the glare. Hands snatch a phone from your pocket. 
+Two silhouettes snake out of the glare. Hands snatch a phone from your pocket.
 
 “So tired of you people stirring shit up. Not tonight.”
 
-You allow what comes next. Asphalt scrapes your cheekbone. The street only grudgingly releases the sun’s heat; even so late after nightfall, it still burns. Grit sinks into your beard. These men are weak and slow, pasty and afraid. Above all, they are wrong. Almost as wrong as you. 
+You allow what comes next. Asphalt scrapes your cheekbone. The street only grudgingly releases the sun’s heat; even so late after nightfall, it still burns. Grit sinks into your beard. These men are weak and slow, pasty and afraid. Above all, they are wrong. Almost as wrong as you.
 
 But you obey commands because, down the block, Dameco’s eyes are wide as crab cakes in the moonlight.
 
