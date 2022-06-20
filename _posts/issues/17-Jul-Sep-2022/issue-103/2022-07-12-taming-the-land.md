@@ -34,11 +34,11 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 We soared through the yellow-tinged sky, spinning in the dizzying freedom of flight, winds buffeting us and tearing at our jet-powered wings until we broke free of the troposphere. Then we dove, releasing nano-sensors to ride the winds and report on the progress of our climate reengineering. Heat and pressure increased against our cylindrical bodies as we descended. A herd of long-stalkers stood immobile against a basalt ridge far below us, waiting for minds to animate them. Xi and I skipped our consciousnesses from the jet-flyers into a pair of the long-stalkers and strode through a swamp we had created half a dozen decades earlier, checking on the plants we had wedded to symbiotic bacteria that pulled additional carbon out of the scorching air.
 
-<It looks good,> Xi sent to me. Their stalker’s legs were half-submerged in water. <I guess that’s everything for today.>
+&lt;It looks good,> Xi sent to me. Their stalker’s legs were half-submerged in water. <I guess that’s everything for today.>
 
 <Wait,> I sent back, eyeing a line of autonomously roving bionic quadrupeds grazing at the swamp’s edge. <Want to run?>
 
