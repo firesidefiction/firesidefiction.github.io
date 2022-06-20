@@ -1,9 +1,9 @@
 ---
 layout: story
 category: short story
-issue: 102, Spring 2022
-issue-cover: issue-102-cover.png
-issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-102-spring-2022
+issue: 103, Summer 2022
+issue-cover: issue-103-cover.png
+issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-103-summer-2022
 title: Taming the Land
 subtitle:
 author: aaron-emmel
@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 2824
-date: 2022-06-12 01:00:01 -0500
+date: 2022-07-12 01:00:01 -0500
 permalink: taming-the-land
 audiourl:
 teaser:
@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 We soared through the yellow-tinged sky, spinning in the dizzying freedom of flight, winds buffeting us and tearing at our jet-powered wings until we broke free of the troposphere. Then we dove, releasing nano-sensors to ride the winds and report on the progress of our climate reengineering. Heat and pressure increased against our cylindrical bodies as we descended. A herd of long-stalkers stood immobile against a basalt ridge far below us, waiting for minds to animate them. Xi and I skipped our consciousnesses from the jet-flyers into a pair of the long-stalkers and strode through a swamp we had created half a dozen decades earlier, checking on the plants we had wedded to symbiotic bacteria that pulled additional carbon out of the scorching air.
 
