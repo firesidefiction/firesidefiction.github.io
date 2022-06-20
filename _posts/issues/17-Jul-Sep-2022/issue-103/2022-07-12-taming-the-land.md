@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count:
-date: 2022-07-12 01:00:01 -0500
+date: 2022-06-12 01:00:01 -0500
 permalink: taming-the-land
 audiourl:
 teaser:
