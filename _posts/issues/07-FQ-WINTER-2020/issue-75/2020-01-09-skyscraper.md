@@ -35,44 +35,24 @@ contentnote:
 generalnote:
 published: true
 ---
-I was thinking today of a
-
-world without traffic lights
-
-where pushing the button
-
-on the dashboard for recirculated air
-
-would send the carbon dioxide
-
-we breathe out from the cabin
-
-into a special compartment full
-
-of plants and the compartment would
-
-be open to let in the sun but
-
-shielded to protect it from wind and
-
-the plants would photosynthesize
-
-the carbon dioxide and release
-
-oxygen that would be piped back
-
-into the car, which, come to think of it,
-
-would probably be solar powered
-
-and in the world where
-
-this car exists there would be
-
-a skyscraper where all the people
-
-live, high up in the clouds,
-
-and everywhere else would be
-
+I was thinking today of a<br  />
+world without traffic lights<br  />
+where pushing the button<br  />
+on the dashboard for recirculated air<br  />
+would send the carbon dioxide<br  />
+we breathe out from the cabin<br  />
+into a special compartment full<br  />
+of plants and the compartment would<br  />
+be open to let in the sun but<br  />
+shielded to protect it from wind and<br  />
+the plants would photosynthesize<br  />
+the carbon dioxide and release<br  />
+oxygen that would be piped back<br  />
+into the car, which, come to think of it,<br  />
+would probably be solar powered<br  />
+and in the world where<br  />
+this car exists there would be<br  />
+a skyscraper where all the people<br  />
+live, high up in the clouds,<br  />
+and everywhere else would be<br  />
 parks.

@@ -39,98 +39,50 @@ published: true
 
 Do not bring a flashlight.
 
----
-
-In the darkness,
-
-the earth will move beneath your feet.
-
-Trace paths through the throat
-
-of the world, and when it swallows —
-
-when your feet skip a step and fall
-
-through one eternal second of nothing —
-
-your stomach will lurch upward
-
-through the roof of your mouth,
-
-through the miles of rock above,
-
+In the darkness,<br  />
+the earth will move beneath your feet.<br  />
+Trace paths through the throat<br  />
+of the world, and when it swallows —<br  />
+when your feet skip a step and fall<br  />
+through one eternal second of nothing —<br  />
+your stomach will lurch upward<br  />
+through the roof of your mouth,<br  />
+through the miles of rock above,<br  />
 reaching for a sky it will not find.
 
----
-
-When you land, there will be water.
-
-More than you expect. Drink deep.
-
-Taste the wealth of it leaden on your tongue.
-
-Each time your echoing steps interrupt
-
-that holy flow of mineral blood
-
-trickling into the deep downs,
-
-the puddles below will growl their emptiness,
-
-their howls will reverberate
-
-through threads of quartz.
-
-Why did you think we call them _veins_?
-
+When you land, there will be water.<br  />
+More than you expect. Drink deep.<br  />
+Taste the wealth of it leaden on your tongue.<br  />
+Each time your echoing steps interrupt<br  />
+that holy flow of mineral blood<br  />
+trickling into the deep downs,<br  />
+the puddles below will growl their emptiness,<br  />
+their howls will reverberate<br  />
+through threads of quartz.<br  />
+Why did you think we call them _veins_?<br  />
 This body is eternal.
 
----
-
-The machinery cannot run, or walk,
-
-but it may try to speak. The rubble
-
-will groan in your wake, the screech
-
-of flimsy steel, the clank of broken chain,
-
-the warble of wind through the earth's teeth.
-
-Do not be afraid.
-
-They have forgotten what it is to be heard,
-
-or remembered. This is what it means to rust:
-
-to become so warped from your purpose,
-
+The machinery cannot run, or walk,<br  />
+but it may try to speak. The rubble<br  />
+will groan in your wake, the screech<br  />
+of flimsy steel, the clank of broken chain,<br  />
+the warble of wind through the earth's teeth.<br  />
+Do not be afraid.<br  />
+They have forgotten what it is to be heard,<br  />
+or remembered. This is what it means to rust:<br  />
+to become so warped from your purpose,<br  />
 you no longer have one.
 
----
-
-And if you brought a flashlight,
-
-though I said you should not,
-
-flick your wrist.
-
-Chase away the shroud of darkness,
-
-lay eyes upon the foundations
-
-of your faraway reality.
-
-Know that all of it was built here
-
-in these granite molars
-
-and we above are waiting
-
-to be chewed up and spit out,
-
-the way this mountain was,
-
-so we too might know how it felt
-
+And if you brought a flashlight,<br  />
+though I said you should not,<br  />
+flick your wrist.<br  />
+Chase away the shroud of darkness,<br  />
+lay eyes upon the foundations<br  />
+of your faraway reality.<br  />
+Know that all of it was built here<br  />
+in these granite molars<br  />
+and we above are waiting<br  />
+to be chewed up and spit out,<br  />
+the way this mountain was,<br  />
+so we too might know how it felt<br  />
 to be made of gold.
