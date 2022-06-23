@@ -36,7 +36,7 @@ But smashing an authoritarian state is no simple fistfight in a taverna. Nor can
 
 —_[Geek Girl Authority](https://www.geekgirlauthority.com/the-clockwork-empire-book-review/)_
 
-### Excerpt
+### Excerpts
 
 Want a taste of the book? You can read [the prologue](https://mailchi.mp/firesidefiction/read-the-prologue-of-our-novel-the-clockwork-empire-by-lucas-j-w-johnson) and [Chapter 1](https://stone-soup.ghost.io/archive/exclusive-preview-the-clockwork-empire) for free!
 
