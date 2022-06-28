@@ -10,7 +10,7 @@ author: davaun-sanders
 author-2:
 author-3:
 editor: l-m-davis
-illustrator:
+illustrator: manuel-j-iniesta
 copyeditor: chelle-parker
 selector:
 translator:
@@ -21,7 +21,7 @@ date: 2022-08-09 01:00:01 -0500
 permalink: papa-legba-has-entered-the-chat
 audiourl:
 teaser:
-art:
+art: papa-legba.jpg
 artcaption:
 spanish-language:
 spanish-date:
