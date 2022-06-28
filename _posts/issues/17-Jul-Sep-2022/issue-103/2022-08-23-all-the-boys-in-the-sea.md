@@ -6,7 +6,7 @@ issue-cover: issue-103-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-103-summer-2022
 title: All the Boys in the Sea
 subtitle:
-author: Marie Croke
+author: marie-croke
 author-2:
 author-3:
 editor: l-m-davis
