@@ -25,7 +25,7 @@ _Fireside Magazine_ pays USD 12.5 cents per word, well above the 8 cents current
 
 ## Supporting Fireside
 
-Running Fireside isn’t cheap. Most of our revenue goes to pay for our writers and artists. The way we keep doing what we do is with your direct financial support.
+You can still continue to support us as we wind down:
 
 {% include call-to-action.html %}
 
@@ -72,14 +72,6 @@ L can be found online at her website ([ldlewiswrites.com](http://www.ldlewiswrit
 
 ### And many more!
 Please see our [Contributors Index](/contributors) for a full list of all of the editors, authors, illustrators, narrators, and translators who have made Fireside possible.
-
-[back to the top](#top-of-page)
-
-----
-
-# Submissions Guidelines
-
-Please see our [Submissions](/submissions) page for information about our open reading periods and our submissions guidelines.
 
 [back to the top](#top-of-page)
 
