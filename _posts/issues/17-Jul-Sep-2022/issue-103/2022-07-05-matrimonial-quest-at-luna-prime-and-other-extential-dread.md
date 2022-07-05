@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 
 “Attention all customers. Please proceed to Area 7 for the Singles Mixer, and have your e-chaperones on standby. All human chaperones are required to wear their pre-approved escort badges at all times. For your last-minute prep, don't forget to visit our famed Astro-Souk, where all purchases are 40% off with a valid Mixer invite. Best of luck to all, and may your quest be fruitful!”
