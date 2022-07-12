@@ -33,7 +33,7 @@ previous-url: /issue22/chapter/she-wolf-and-cub-chapter-seven/
 next-url: /issue24/chapter/she-wolf-and-cub-chapter-nine/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 Coming up from a numbpatch is always the same. Like dawn, a thin crack of gray at the very edge of the world, the nanos getting the signal to bring you back online. You don't ever dream in that black bleakness. Still, sometimes, on the very thin razor margin between chem-induced haze and the hurtful clarity of waking, a brief burst of REM gets through.
