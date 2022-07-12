@@ -33,7 +33,7 @@ previous-url: /issue16/chapter/she-wolf-and-cub-prologue/
 next-url: /issue17/chapter/she-wolf-and-cub-chapter-two/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 
