@@ -33,7 +33,7 @@ previous-url: /issue20/chapter/she-wolf-and-cub-chapter-five/
 next-url: /issue22/chapter/she-wolf-and-cub-chapter-seven/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 Carsona was a corporation town. It was also close enough that the skimmers could have been raiders picking through its refuse, or even inhabitants out for a joyride. Geoff and I would have avoided the place, but whoever had taken him would have come through here.
