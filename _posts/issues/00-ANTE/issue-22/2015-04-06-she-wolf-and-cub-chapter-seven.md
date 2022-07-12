@@ -33,7 +33,7 @@ previous-url: /issue21/chapter/she-wolf-and-cub-chapter-six/
 next-url: /issue23/chapter/she-wolf-and-cub-chapter-eight/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 I hadn't laughed like that since… well, since far before I was implemented. The Projekts beats any hilarity out of you soon enough.
