@@ -33,7 +33,7 @@ previous-url: /book/she-wolf-and-cub
 next-url: /issue16/chapter/she-wolf-and-cub-chapter-one/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 The bar was dim, full of fauxsmoke. Modern ersatz cigs don't kill you like the old ones, and synthetic liquor doesn't bite either. Cushioned, to keep warmbodies from hurting themselves.
