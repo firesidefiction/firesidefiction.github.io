@@ -33,7 +33,7 @@ previous-url: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
 next-url: /issue27/chapter/she-wolf-and-cub-chapter-thirteen/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 Fading bitterness coating the tongue. Concentration guttering, a candleflame under monsoon assault. Chrono useless, no attention to spare for it anyway. Reserve the glucose, drift the arm up, drift it forward so slowly, then, the punch. The breakage-star widened, and a steady stream of restraint gel oozed out, steaming as it hit the air outside.
