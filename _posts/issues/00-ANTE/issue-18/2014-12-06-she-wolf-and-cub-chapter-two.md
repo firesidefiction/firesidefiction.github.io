@@ -33,7 +33,7 @@ previous-url: /issue17/chapter/she-wolf-and-cub-chapter-two/
 next-url: /issue19/chapter/she-wolf-and-cub-chapter-four/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 At first, I thought the township was a worm.
