@@ -33,7 +33,7 @@ previous-url: /issue18/chapter/she-wolf-and-cub-chapter-three/
 next-url: /issue20/chapter/she-wolf-and-cub-chapter-five/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 He marched right up to the bar, a loose limber stride just a touch too long to be natural. It took him out of strike range, and the peculiar grumble of subaudible — standard for meets — thrummed through my audio intakes.
