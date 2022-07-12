@@ -33,7 +33,7 @@ previous-url: /issue23/chapter/she-wolf-and-cub-chapter-eight/
 next-url: /issue25/chapter/she-wolf-and-cub-chapter-ten/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 During the day, the canopy turned everything below into aqueous green shimmer that didn't raise blistering welts on Geoff's skin. He avoided the faint specks and columns of unfiltered sunshine, and I caught him holding his hands out in the green glow more than once, marveling at the shadows rippling.
