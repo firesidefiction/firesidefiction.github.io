@@ -33,7 +33,7 @@ previous-url: /issue19/chapter/she-wolf-and-cub-chapter-four/
 next-url: /issue21/chapter/she-wolf-and-cub-chapter-six/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 Stars, those faraway nuclear fires you never see through a city's statveiling, glittered on velvet blackness. Our tiny noises, fourpad paws shushing along sandy rock and the creak of saddles, were lost in the breathing of the wind. The Waste was a vast creature, and us just tiny motes caught in its passages.
