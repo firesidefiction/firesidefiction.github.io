@@ -33,7 +33,7 @@ previous-url: /issue24/chapter/she-wolf-and-cub-chapter-nine/
 next-url: /issue26/chapter/she-wolf-and-cub-chapter-eleven/
 contentnote:
 generalnote:
-published: true
+published: false
 ---
 
 The fourpad exploded, chunks of meat flying and a burst of hot blood. It died silently, the beast with the tufted swirl on his head, and oddly enough, that was I thought about as I tumbled free of the statrifle blast's hot scorching.
