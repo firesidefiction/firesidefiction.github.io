@@ -16,4 +16,4 @@ short-name: l-m-davis
 permalink: l-m-davis
 bio-spanish:
 ---
-Aigner Loren Wilson is a queer Black SFWA, HWA, and Codex writer. Her work has appeared in or is forthcoming from _Lightspeed Magazine, WIRED Magazine, FIYAH Magazine of Black Speculative Fiction, Anathema: Spec from the Margins_, and others. She is a writer for Discover Pods, Tor Nightfire, and more. Along with her writing, she is an associate editor and copy editor for _Strange Horizons_ and _NIGHTLIGHT: A Black Horror Podcast_.
+L. M. Davis is a speculative fiction author who writes about shapeshifters, aliens, immortals, and witches. She is the author of the Shifters series (_Interlopers_, _Posers_, and _Forgers_) from Lyndberry Press and the three-part novel _skinless_. Her writing has been published in _Paste Magazine_ and on blacksci-fi.com. Davis is also a scholar of African American and Native American literatures and cultures, with particular interest in the speculative production of these communities. Currently, she is working on several projects, including two novels and multiple ventures for television and film. She is the writer and director of the short film “Fevered Dreams.”
