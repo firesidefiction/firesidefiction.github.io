@@ -1,7 +1,7 @@
 ---
 layout: contributor-profile
 credit-name: L. M. Davis
-first-name: LaRose
+first-name: L. M.
 last-name: Davis
 file-as: d
 role: Editor
@@ -10,8 +10,8 @@ role-3:
 title: L. M. Davis  — Work in Fireside
 description: Guest Editor, Jul–Sept 2022
 twitter-handle: LMDavisWrites
-profile-pic: l-m-davis.jpg
-website-url:
+profile-pic:
+website-url: lmdaviswrites.com
 short-name: l-m-davis
 permalink: l-m-davis
 bio-spanish:
