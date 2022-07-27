@@ -8,7 +8,7 @@ role: Author
 role-2: Editor
 role-3:
 title: L. D. Lewis — Work in Fireside
-description: Guest Editor, Apr–Jul 2020; Publisher & Art Director, 2021–Current
+description: Guest Editor, Apr–Jul 2020; Publisher & Art Director, 2021–2022
 twitter-handle: ellethevillain
 profile-pic: l-d-lewis.jpg
 website-url: http://www.ldlewiswrites.com
