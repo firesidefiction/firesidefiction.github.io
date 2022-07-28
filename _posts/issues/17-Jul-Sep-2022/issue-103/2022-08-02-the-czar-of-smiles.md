@@ -17,7 +17,7 @@ translator:
 narrator:
 letterer:
 word-count: 2033
-date: 2022-08-02 01:00:01 -0500
+date: 2022-07-28 01:00:01 -0500
 permalink: the-czar-of-smiles
 audiourl:
 teaser:
