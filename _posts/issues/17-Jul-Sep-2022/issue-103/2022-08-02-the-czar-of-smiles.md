@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Cosette awoke in the dim faux-dawn to a blinking notification. It was her sixteenth birthday, the end of childhood, though there was no one offering to celebrate. She lay in the closeness as she did any morning, considering her day: the books she might read, the lectures she might attend. _Influence_ was the ultimate reward, reflected in consumption, and books were free. Cosette squirmed around in the low cubicle to check her appearance in the mix-mirror, to catch up on news. It was blank, save the flashing _OFFICIAL NOTICE_.
 
