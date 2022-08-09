@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 Another child stolen from us, and you allowed it. No matter that you drove straight home once you finally heard, up past the border, only stopping for gas in Tucson, ignoring your granny’s texts the whole way. No matter that you stand here now at the crossroads of the murder, pacing in the moonlight, churning over forensics and the coroner’s report.
 
