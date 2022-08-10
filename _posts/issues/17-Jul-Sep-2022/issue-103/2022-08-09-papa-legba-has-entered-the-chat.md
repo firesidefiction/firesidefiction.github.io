@@ -50,27 +50,27 @@ Open it. Join the chat, please. Your hands are not yours anymore. They are mine.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_::just_cam has entered the chat::_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<MAGA_Maddie> keep laying low, it’ll be fine
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MAGA_Maddie** keep laying low, it’ll be fine
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bawlin_krapperquit> u right. preciate it, wife just hates the attention
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**bawlin_krapperquit** u right. preciate it, wife just hates the attention
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sarge_joey> cam you made it buddy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**sarge_joey** cam you made it buddy
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<rachel_from_QC> hey @just_cam
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**rachel_from_QC** hey @just_cam
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<MAGA_Maddie> hi cam
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MAGA_Maddie** hi cam
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<just_cam> hey y’all
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**just_cam** hey y’all
 
 You don’t know everyone’s name, still — only the ones you’ve lied for. You went to all the cookouts, introduced some to actual seasonings. Jambalaya. They tried but complained it was too hot. Family recipe, you explained, and some things can’t be slandered, not even for them. They guzzled beer and suggested ways to improve it anyway. Marinara — no, barbecue sauce.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<semperfi_Ty> so we’re supposed to be talking payback. my address is all over the fuckin internet thx to these fkcn people
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**semperfi_Ty** so we’re supposed to be talking payback. my address is all over the fuckin internet thx to these fkcn people
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sarge_joey> too soon. be smart, there’s ways we do this
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**sarge_joey** too soon. be smart, there’s ways we do this
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<rachel_from_QC> listen to him. he walked me through mine
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**rachel_from_QC** listen to him. he walked me through mine
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bawlin_krapperquit> so spill it i need this shit to be over
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**bawlin_krapperquit** so spill it i need this shit to be over
 
 
 You tried, too. To belong. To be blind. Leaving your Kaepernick jersey in the closet on Sundays. You don’t watch football; you hate beer. So you some pale child’s godfather now? Does that make you any less of a cardboard cutout? No. You are a smudge in their eyes, the shadow behind their thin blue line, giving it definition and justification.
@@ -115,19 +115,19 @@ His eyes widen as you pull out your phone — your normal phone — and swap soc
 
 “…I’ll hit you up.” He frowns down at the memorial, then pours a swallow of his Powerade beside it. Then he’s striding back the way he came, scraping knuckles across his face. You remind yourself the evidence is seamless. Change will take time. People need to work inside the system, too.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sarge_joey> remember B? problems with that black councilman awhile back?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**sarge_joey** remember B? problems with that black councilman awhile back?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bawlin_krapperquit> oh shit i forgot about that! cuffed him in front of his own house ahahaha
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**bawlin_krapperquit** oh shit i forgot about that! cuffed him in front of his own house ahahaha
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<rachel_from_QC> he just got a medal right
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**rachel_from_QC** he just got a medal right
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<MAGA_Maddie> true true let PLEA work its magic
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MAGA_Maddie** true true let PLEA work its magic
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sarge_joey> this to shall pass. so do urself a fvor and delete those plate #s you looked up
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**sarge_joey** this to shall pass. so do urself a fvor and delete those plate #s you looked up
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<semperfi_Ty> but but its opposition research ;)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**semperfi_Ty** but but its opposition research ;)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bawlin_krapperquit> LMAO
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**bawlin_krapperquit** LMAO
 
 
 You slide the rooted phone into your pocket, done with the private chat despite everything your grandmother raised you to be. Go, drink your beer.
@@ -164,19 +164,19 @@ Would it have mattered? The knee disappears like magic. You rise slowly. Regulat
 
 Dameco is just as smart as he looks and nowhere to be seen. Better to call him before these two try to pick him up. Best grab your phone.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BD_Nick> we got a problem boys. at the crime scene
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BD_Nick** we got a problem boys. at the crime scene
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sarge_joey> no we don’t
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**sarge_joey** no we don’t
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sarge_joey> wait what where are you
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**sarge_joey** wait what where are you
 
 Through the windshield, you spot the unmistakable glow of the chat app’s color-cycling display. Nick. He’s the one in the fucking squad car. Somewhere you hear a dog growl.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BD_Nick> the kid had a friend. with a phone
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BD_Nick** the kid had a friend. with a phone
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bawlin_krapperquit> JFC @BD_Nick what
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**bawlin_krapperquit** JFC @BD_Nick what
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<semperfi_Ty> YOU SAID WE WERE GOOD @sarge_joey
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**semperfi_Ty** YOU SAID WE WERE GOOD @sarge_joey
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_::rachel_from_QC is typing::_
 
@@ -205,25 +205,25 @@ Ignore him, please. Yes. You’re nearly there.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_::papa legba has entered the chat::_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<MAGA_Maddie> this app can’t support video. are you guys seeing this?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MAGA_Maddie** this app can’t support video. are you guys seeing this?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<rachel_from_QC> Joe ain’t that your house?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**rachel_from_QC** Joe ain’t that your house?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_::several people are typing::_
 
 You avert your eyes, rightly so. Baron Kriminel been waiting for this door to open. Too far? Maybe. Probably. No need to soil your dreams or turn your gentle stomach.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sarge_joey> OMFG
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**sarge_joey** OMFG
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bawlin_krapperquit> is this a joke. is tht blood
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**bawlin_krapperquit** is this a joke. is tht blood
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bawlin_krapperquit> is this serious
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**bawlin_krapperquit** is this serious
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_::sarge_joey has left the chat::_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<semperfi_Ty> guys these pranks aren’t cool
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**semperfi_Ty** guys these pranks aren’t cool
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BD_Nick> nononono wtf that’s chandler high my kids scrimmage
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BD_Nick** nononono wtf that’s chandler high my kids scrimmage
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_::rachel_from_QC  has left the chat::
 
