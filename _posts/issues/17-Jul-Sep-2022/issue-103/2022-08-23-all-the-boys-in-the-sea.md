@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote: This story contains depictions of deliberate child endangerment and references to the deaths of children.
 generalnote:
-published: false
+published: true
 ---
 
 They left me to drown, sea salt clinging to the back of my throat.
