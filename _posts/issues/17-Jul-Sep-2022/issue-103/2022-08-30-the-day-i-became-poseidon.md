@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 I was at a dinner party when I became Poseidon, and it did more for me than any self-help book I’ve tried. I mean, look at me now. My agent’s even mentioned Oprah. And I’ve got Debra to thank, God rest her soul.
 
