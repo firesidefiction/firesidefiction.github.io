@@ -34,7 +34,7 @@ previous-url:
 next-url:
 contentnote:
 generalnote:
-published: false
+published: true
 ---
 _Attention, dear reader: This is a love story, complete with grown folks' business. This is not for the kids. But there is also a moral to this story, a cautionary tale for the young and the young-at-heart alike. Listen carefully, and be thee forewarned._
 
