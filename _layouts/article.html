@@ -14,18 +14,7 @@ layout: default
     {% if page.editor %}<p>Edited by {{ page.editor }}</p>{% endif %}
   </header>
 
-  {% if page.audiourl %}
-    <div class="contentnote">
-      <p>Listen to this {{ page.category }}, narrated by {{ page.narrator }}:</p>
-      <br/>
-      <audio controls>
-        <source src="{{ page.audiourl }}" type="audio/mpeg">
-          Your browser does not support the audio element.
-      </audio>
-    </div>
-  {% endif %}
 
-  <div>
     {{ content }}
   </div>
 
