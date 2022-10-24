@@ -23,16 +23,6 @@ _Fireside Magazine_ pays USD 12.5 cents per word, well above the 8 cents current
 
 ----
 
-## Supporting Fireside
-
-You can still continue to support us as we wind down:
-
-{% include call-to-action.html %}
-
-[back to the top](#top-of-page)
-
-----
-
 ## Fireside is brought to you by:
 
 ### Brian White — Executive Editor and Owner
