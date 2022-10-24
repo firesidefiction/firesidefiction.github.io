@@ -1,7 +1,7 @@
 <section class="home-stream">
 
   <div class="home-magazine">
-    <h2 class="label no-border"><em>Fireside Magazine</em> published its final issue in Summer 2022, but we still have one book being released in 2023. Stay tuned! </h2>
+    <h2 class="label no-border"><em>Fireside Magazine</em> published its final issue in Summer 2022, but we still have one book being released in 2023. Stay tuned!</h2>
     {% assign items_grouped = site.posts | group_by: 'issue' %}
       {% for group in items_grouped limit: 10 %}
       {% for item in group.items limit: 1 %}
