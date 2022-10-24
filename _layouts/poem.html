@@ -23,20 +23,7 @@ layout: default
       </div>
     {% endif %}
 
-    {% if page.audiourl %}
-      <div class="audiomodule">
-        {% if page.spanish-language %}
-          <p>Escuche este cuento, narrado por {{ narrator.credit-name }}:</p>
-          {% else %}
-          <p>Listen to this story, narrated by {{ narrator.credit-name }}:</p>
-        {% endif %}
-        <audio controls>
-          <source src="{{ page.audiourl }}" type="audio/mpeg">
-            Your browser does not support the audio element.
-        </audio>
-      </div>
-    {% endif %}
-  </div>
+  
 
   {% if page.contentnote %}
     <div class="contentnote">
