@@ -9,7 +9,7 @@ role-2:
 role-3:
 title: NIB — Work in Fireside
 description: Author
-twitter-handle: @nic_nib
+twitter-handle: nic_nib
 profile-pic: nicole-bade.jpg
 website-url:
 short-name: nib
