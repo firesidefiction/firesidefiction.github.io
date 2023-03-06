@@ -3,7 +3,7 @@ layout: contributor-profile
 credit-name: NIB 
 first-name:
 last-name: NIB
-file-as: b
+file-as: n
 role: Author
 role-2:
 role-3:
