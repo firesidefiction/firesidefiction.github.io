@@ -1,8 +1,8 @@
 ---
 layout: contributor-profile
 credit-name: NIB 
-first-name:
-last-name: NIB
+first-name: NIB
+last-name:
 file-as: n
 role: Author
 role-2:
