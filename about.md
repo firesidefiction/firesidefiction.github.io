@@ -7,7 +7,7 @@ permalink: /about/
 ## What is Fireside?
 
 Fireside Fiction Company started in 2012 with a Kickstarter-funded short-story magazine. We began with the goals of finding and publishing great stories regardless of genre, and paying our writers well. Fireside grew to have two branches for doing so: _Fireside Magazine_ and Fireside Books.
-After a 10-year run, [Fireside will stop publishing later this year.](http://firesidefiction.com/fireside-will-stop-publishing-later-this-year)
+After a 10-year run, [Fireside Magazine stopped publishing last year.](http://firesidefiction.com/fireside-will-stop-publishing-later-this-year)
 
 
 [back to the top](#top-of-page)
@@ -17,7 +17,7 @@ After a 10-year run, [Fireside will stop publishing later this year.](http://fir
 ## Fair pay for everyone
 Fair pay is a big deal for us. We think creative people should be able to make a living from their work. This is one of our [core values](../values.html).
 
-_Fireside Magazine_ pays USD 12.5 cents per word, well above the 8 cents currently considered to be the minimum professional rate. In fact, we pay better than almost every other [<abbr title="Sif Wah">SFWA</abbr>-qualifying market](http://www.sfwa.org/about/join-us/sfwa-membership-requirements/#short). For poems, we pay a flat USD $100; for illustrations, we pay USD $400 for a full-color piece.
+_Fireside Magazine_ paid USD 12.5 cents per word, well above the 8 cents currently considered to be the minimum professional rate at the time of the magazine's clsure in 2022. In fact, we paid better than almost every other [<abbr title="Sif Wah">SFWA</abbr>-qualifying market](http://www.sfwa.org/about/join-us/sfwa-membership-requirements/#short). For poems, we paid a flat USD $100; for illustrations, we paid USD $400 for a full-color piece.
 
 [back to the top](#top-of-page)
 
