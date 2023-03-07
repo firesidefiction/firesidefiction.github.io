@@ -6,7 +6,7 @@ issue-cover: issue-90-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-90-april-2021
 title: Strange Music
 subtitle:
-author: nicole-bade
+author: nib
 author-2:
 author-3:
 editor: danny-lore
