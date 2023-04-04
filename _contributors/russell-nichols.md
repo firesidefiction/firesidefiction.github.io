@@ -10,7 +10,7 @@ role-3:
 title: Russell Nichols — Work in Fireside
 description:
 twitter-handle:
-profile-pic: russell-nichols.jpg
+profile-pic:
 website-url: russellnichols.com
 short-name: russell-nichols
 permalink: russell-nichols
