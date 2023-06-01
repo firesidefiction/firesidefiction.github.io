@@ -12,7 +12,7 @@ amazon: https://www.amazon.com/dp/B0C46XV5BS/
 ibooks: https://books.apple.com/us/book/id6448757326
 kobo: https://www.kobo.com/us/en/ebook/if-wishes-were-obfuscation-codes-and-other-stories
 nook: https://www.barnesandnoble.com/w/if-wishes-were-obfuscation-codes-and-other-stories-malon-edwards/1143432107
-goodreads: 
+goodreads: https://www.goodreads.com/book/show/147988702-if-wishes-were-obfuscation-codes-and-other-stories
 fireside: https://bookshop.org/p/books/if-wishes-were-obfuscation-codes-and-other-stories-malon-edwards/20039487
 printbook:
 author-bio:
