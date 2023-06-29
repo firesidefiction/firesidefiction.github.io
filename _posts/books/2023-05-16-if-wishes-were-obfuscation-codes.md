@@ -30,6 +30,15 @@ Your guides are a little rough around the edges: hackers and assassins, thieves 
 
 Welcome to the Sovereign State of Chicago.
 
+### Praise for If Wishes Were Obfuscation Codes and Other Stories
+
+“If Wishes Were Obfuscation Codes brings us deep into a world that Edwards has been building for years, a steampunk future where gynoid replacements of loved ones are sparingly doled out by corporate interests. 
+
+“The stories form a kaleidoscopic look at grief, love, community, and privilege. Edwards’ fine-grained worldbuilding opens space for both love stories and horror stories, dystopias and punk-edged urban rebellions. Every angle poses new questions and suggests different conclusions, each one rich with Edwards’ particular brand of Haitian-Chicagoian Afrofuturist society. The end result doesn’t feel like a short story collection; it feels like a picture being described by a dozen strangers, each with their own view, and the results are beautiful.”
+
+—_[Charlotte Ashley]([https://www.publishersweekly.com/978-1-73415-496-2](https://twitter.com/CharlotteAshley)_
+
+
 ### About the Author
 
 Born and raised on the South Side of Chicago, Malon (MAY-lon) now lives in the Greater Toronto Area, where he was lured by his beautiful Canadian wife. Many of his short stories are set in an alt-Chicago future and feature people of color. In January 2020, he was diagnosed with multiple sclerosis. His brain lesions do their best to stop him from writing, but he continues to fight them—and keep going. 
