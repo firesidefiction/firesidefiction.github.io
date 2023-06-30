@@ -30,14 +30,13 @@ Your guides are a little rough around the edges: hackers and assassins, thieves 
 
 Welcome to the Sovereign State of Chicago.
 
-### Praise for If Wishes Were Obfuscation Codes and Other Stories
+### Praise for the collection
 
 “If Wishes Were Obfuscation Codes brings us deep into a world that Edwards has been building for years, a steampunk future where gynoid replacements of loved ones are sparingly doled out by corporate interests. 
 
 “The stories form a kaleidoscopic look at grief, love, community, and privilege. Edwards’ fine-grained worldbuilding opens space for both love stories and horror stories, dystopias and punk-edged urban rebellions. Every angle poses new questions and suggests different conclusions, each one rich with Edwards’ particular brand of Haitian-Chicagoian Afrofuturist society. The end result doesn’t feel like a short story collection; it feels like a picture being described by a dozen strangers, each with their own view, and the results are beautiful.”
 
-—_[Charlotte Ashley]([https://www.publishersweekly.com/978-1-73415-496-2](https://twitter.com/CharlotteAshley)_
-
+—_[Charlotte Ashley](https://twitter.com/CharlotteAshley)_
 
 ### About the Author
 
