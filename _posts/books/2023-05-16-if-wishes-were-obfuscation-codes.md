@@ -17,6 +17,7 @@ fireside: https://bookshop.org/p/books/if-wishes-were-obfuscation-codes-and-othe
 printbook:
 author-bio:
 ---
+_If Wishes Were Obfuscation Codes and Other Stories_ comes out Sept. 12, 2023.
 
 ### Description
 
@@ -31,6 +32,20 @@ Your guides are a little rough around the edges: hackers and assassins, thieves 
 Welcome to the Sovereign State of Chicago.
 
 ### Praise for the collection
+
+“This is a grand, dark, twisted, and visceral deep dive into Malon Edwards's cyberpunk future. It's out in September and it's a great read from start to finish."
+
+—_[Maria Haskins, who chose the collection as Preorder pick of the month](https://maria-is-reading.blogspot.com/2023/06/my-sci-fi-fantasy-horror-short-fiction.html)_
+
+“If Wishes Were Obfuscation Codes is an inventive, surreal, and disorienting collection. It implores and challenges — rich with real people having real experiences in a yet-to-be alt-Chicago.
+
+“It’s the type of collection that isn’t in a hurry to reveal itself. You think you know how it will come together, but you’re wrong. And Edwards gives us plenty to tease out and chew on in the interim.
+
+“These stories are laden with ideas, but readers are grounded by the nuance and texture of carefully, earnestly drawn characters. We meet a gynoid on her prom night. Infatuated, sentient bodysuits. Bloodthirsty parents. And so much more.
+
+“This captivating collection asks difficult questions, driving at the heart of what it means to live. Edwards brings his reader on a journey like no other. Strap in and suit up — it’s a wild ride.”
+
+—_[Shannon Terrell](https://shannonterrell.com), author of The Guest House_
 
 “If Wishes Were Obfuscation Codes brings us deep into a world that Edwards has been building for years, a steampunk future where gynoid replacements of loved ones are sparingly doled out by corporate interests. 
 
