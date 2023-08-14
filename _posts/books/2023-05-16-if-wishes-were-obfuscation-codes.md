@@ -31,6 +31,10 @@ Your guides are a little rough around the edges: hackers and assassins, thieves 
 
 Welcome to the Sovereign State of Chicago.
 
+### Start reading!
+
+Sarah Gailey’s _Stone Soup_ newsletter published Malon’s brand-new story [“Blackout, White Space”](https://stone-soup.ghost.io/blackout-and-white-space/) in July. It’s an intimate look into the alt-Chicago world of _If Wishes Were Obfuscation Codes and Other Stories_. It’s not included in the collection, but it’s a great taste of Malon’s writing and storytelling.
+
 ### Praise for the collection
 
 “This is a grand, dark, twisted, and visceral deep dive into Malon Edwards's cyberpunk future. It's out in September and it's a great read from start to finish."
