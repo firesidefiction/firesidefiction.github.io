@@ -61,4 +61,11 @@ Sarah Gailey’s _Stone Soup_ newsletter published Malon’s brand-new story [�
 
 ### About the Author
 
-Born and raised on the South Side of Chicago, Malon (MAY-lon) now lives in the Greater Toronto Area, where he was lured by his beautiful Canadian wife. Many of his short stories are set in an alt-Chicago future and feature people of color. In January 2020, he was diagnosed with multiple sclerosis. His brain lesions do their best to stop him from writing, but he continues to fight them—and keep going. 
+Born and raised on the South Side of Chicago, Malon (MAY-lon) now lives in the Greater Toronto Area, where he was lured by his beautiful Canadian wife. Many of his short stories are set in an alt-Chicago future and feature people of color. In January 2020, he was diagnosed with multiple sclerosis. His brain lesions do their best to stop him from writing, but he continues to fight them—and keep going.
+
+### The team that pulled it all together
+**Copy editor**: Sydnee Thompson
+**Proofreader**: Johanie Martinez Cools
+**Book designer**: CreativeJay
+**Cover illustrator**: Alexxander Dovelin
+**Cover designer**: Frank Cvetkovic
