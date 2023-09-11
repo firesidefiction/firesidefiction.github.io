@@ -33,6 +33,8 @@ Welcome to the Sovereign State of Chicago.
 
 ### Start reading!
 
+One of the most exciting things about _If Wishes Were Obfuscation Codes and Other Stories_ is "Code Switching," an epic rap novella that Fireside is publishing for the first time. It's the story of Jean-Michel, a high school football player who would be destined for stardom, if he wasn't about to die. The thing is, in a world where Electric Resurrection has conquered death, he doesn't have to pass on... if he's willing to accept a few conditions. [You can read the first chapter for free.](https://preview.mailerlite.io/emails/webview/389785/97856278024423127)
+
 Sarah Gailey’s _Stone Soup_ newsletter published Malon’s brand-new story [“Blackout, White Space”](https://stone-soup.ghost.io/blackout-and-white-space/) in July. It’s an intimate look into the alt-Chicago world of _If Wishes Were Obfuscation Codes and Other Stories_. It’s not included in the collection, but it’s a great taste of Malon’s writing and storytelling.
 
 ### Praise for the collection
