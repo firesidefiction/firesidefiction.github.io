@@ -1,7 +1,7 @@
 <section class="home-stream">
 
   <div class="home-magazine">
-    <h2 class="label no-border"><em>Fireside Magazine</em> published its final issue in Summer 2022. Our final book <a href="https://firesidefiction.com/book/if-wishes-were-obfuscation-codes-and-other-stories"><i>If Wishes Were Obfuscation Codes and Other Stories</i></a> is out on Sept. 12, 2023, and you can preorder it now!</h2>
+    <h2 class="label no-border"><em>Fireside Magazine</em> published its final issue in Summer 2022. Our final book <a href="https://firesidefiction.com/book/if-wishes-were-obfuscation-codes-and-other-stories"><i>If Wishes Were Obfuscation Codes and Other Stories</i></a> is out now!</h2>
     {% assign items_grouped = site.posts | group_by: 'issue' %}
       {% for group in items_grouped limit: 10 %}
       {% for item in group.items limit: 1 %}
