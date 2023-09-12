@@ -17,7 +17,7 @@ fireside: https://bookshop.org/p/books/if-wishes-were-obfuscation-codes-and-othe
 printbook:
 author-bio:
 ---
-_If Wishes Were Obfuscation Codes and Other Stories_ comes out Sept. 12, 2023.
+_If Wishes Were Obfuscation Codes and Other Stories_ is available now.
 
 ### Description
 
@@ -39,7 +39,11 @@ Sarah Gailey’s _Stone Soup_ newsletter published Malon’s brand-new story [�
 
 ### Praise for the collection
 
-“This is a grand, dark, twisted, and visceral deep dive into Malon Edwards's cyberpunk future. It's out in September and it's a great read from start to finish."
+“Whatever you’re expecting, it’s not that. This collection is intense and vivid, both in terms of tone and content. ... Edwards plays with narrative structure in some really interesting ways, as well. These stories have the traditional dialogue and description format, but also veer into the strange, the unusual, the techy.”
+
+—_[Alexandria Brown in Punk-Ass Book Jockey](https://bookjockeyalex.com/2023/09/12/review-if-wishes-were-obfuscation-codes-and-other-stories-by-malon-edwards/#more-9408)_
+
+“This is a grand, dark, twisted, and visceral deep dive into Malon Edwards's cyberpunk future. It's out in September and it's a great read from start to finish.”
 
 —_[Maria Haskins, who chose the collection as Preorder pick of the month](https://maria-is-reading.blogspot.com/2023/06/my-sci-fi-fantasy-horror-short-fiction.html)_
 
@@ -65,7 +69,11 @@ Born and raised on the South Side of Chicago, Malon (MAY-lon) now lives in the G
 
 ### The team that pulled it all together
 **Copy editor**: Sydnee Thompson
+
 **Proofreader**: Johanie Martinez Cools
+
 **Book designer**: CreativeJay
+
 **Cover illustrator**: Alexxander Dovelin
+
 **Cover designer**: Frank Cvetkovic
