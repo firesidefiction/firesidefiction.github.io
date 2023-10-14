@@ -39,6 +39,10 @@ Sarah Gailey’s _Stone Soup_ newsletter published Malon’s brand-new story [�
 
 ### Praise for the collection
 
+"It’s an ambitious, inventive and energetic project. ... Edwards has much to reveal about voices, ventriloquism and the sly potential of terms like “code switching” — but always in sideways glimpses."
+
+—_[Amal El-Mohtar in The New York Times Sunday Book Review](https://www.nytimes.com/2023/10/13/books/review/new-sci-fi-fantasy-books.html?unlocked_article_code=h8A1agzMId--bXlqmJAopKxGqAA0NzgmgZvlNoj_y6o1bs-SWn1odIvqck-6e7-6E1FWMeNkXeVzBaSGQzFkLsBpNTZ2ePo7WYz4Fg_P2i83FOcq1NhYrFUd96f1HHY3DuSXZZD9RGdlUUDnFHx_CpeMoAtKrQLNflRuA4vpX1XwCRR8r53_xfegFGdz2MMwur_D5YWIolPbTQzg0dELQ14qitFQ6A6B5s85rGVnAbFtmKbHNWHyPUB2-pb0Fc5t82-fcysGRnkx-u6rdfWhGJDUyR9RjZ-nlQv-TKwuC8s7SRf4OsdtJGRuaUpOhRHmoSOsO3RjNsxvS1518efUM8Dvff23KUM&smid=url-share)_
+
 “Whatever you’re expecting, it’s not that. This collection is intense and vivid, both in terms of tone and content. ... Edwards plays with narrative structure in some really interesting ways, as well. These stories have the traditional dialogue and description format, but also veer into the strange, the unusual, the techy.”
 
 —_[Alexandria Brown in Punk-Ass Book Jockey](https://bookjockeyalex.com/2023/09/12/review-if-wishes-were-obfuscation-codes-and-other-stories-by-malon-edwards/#more-9408)_
