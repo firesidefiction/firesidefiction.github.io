@@ -44,16 +44,7 @@
   </div>
 
     <div class="home-sidebar">
-      <h2 class="label no-border">Announcements</h2>
-      {% for post in site.posts limit: 23 %}
-        {% if post.category == "announcement" %}
-         <div>
-          <small class="category">{{ post.date | date: "%b %-d, %Y" }}</small>
-          <p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>, <br/>by {% assign author = site.contributors | where:'short-name', post.author  | first %}{{ author.credit-name }}</p>
-        </div>
-      {% endif %}
-      {% endfor %}
-      <p><a href="/announcements">See all</a></p>
+      
     </div>
 
 </section>
