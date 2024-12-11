@@ -6,7 +6,7 @@ issue-cover: issue-84-cover.png
 issue-buy-link: https://store.firesidefiction.com/products/fireside-magazine-issue-84-october-2020
 title: Try This One Weird Trick for A More Youthful Look in Minutes
 subtitle:
-author: maria-romasco-moore
+author: mar-romasco-moore
 author-2:
 author-3:
 editor: kate-dollarhyde
