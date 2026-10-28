@@ -8,15 +8,17 @@ permalink: book/the-clockwork-empire
 published: true
 length: novel
 cover: the-clockwork-empire.jpg
-amazon: https://www.amazon.com/Clockwork-Empire-Lucas-J-Johnson/dp/1734154969
-ibooks: https://books.apple.com/us/book/id1618829343
-kobo: https://www.kobo.com/us/en/ebook/the-clockwork-empire
+amazon: https://www.amazon.com/Clockwork-Empire-Lucas-J-Johnson/dp/1065855702/
+ibooks: https://books.apple.com/us/book/the-clockwork-empire/id6827139891
+kobo: https://www.kobo.com/us/en/ebook/the-clockwork-empire-1
 nook: https://www.barnesandnoble.com/w/the-clockwork-empire-lucas-jw-johnson/1141346732
 goodreads: https://www.goodreads.com/book/show/61090024-the-clockwork-empire
-fireside: https://www.indiebound.org/book/9781734154962
+fireside: 
 printbook:
 author-bio:
 ---
+
+_The Clockwork Empire_ is now being published by Crow's Pen Publishing. You can order it from your preferred bookseller via the links above.
 
 ### Description
 
